@@ -12,4 +12,5 @@ Hello everyone. This is an update to the project started by gabest11. I don't kn
 
 Changelog since starting:
 
-Fixed typo in intro of episode 61.
+Subbed 62. Considering doing the extra Go sections at the end of each episode. Will see but since gabest11 didn't do them, would need to sub them first.
+Fixed typo in intro of episode 61. "wth my wings spread out."
