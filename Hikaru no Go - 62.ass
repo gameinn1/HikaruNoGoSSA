@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 229
-Active Line: 247
-Video Position: 29602
+Active Line: 7
+Video Position: 3248
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +56,7 @@ Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100
 Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
 Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Noise,Verdana,25,&H00C1FFD7,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,8,19,19,25,1
+Style: Noise,Verdana,25,&H00C1FFD7,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
