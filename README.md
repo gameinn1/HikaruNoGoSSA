@@ -27,6 +27,6 @@ Also made a Sai "Blue" styling for earlier E-F (this got dropped later on by E-F
 
 Made a "Memory" purple styling that shows up as early as episode 1. gabest11 also did not do this style.
 
-The main idea is to just get things subbed and then can worry about slight colour and changes later. I am mainly making sure that Noise, Sai and Memory are assigned properly.
+The main idea is to just get things subbed and then can worry about slight colour and changes later. I am mainly making sure that Noise, Sai and Memory are assigned properly. I will have to go back over gabest11 subs from scratch and apply "Memory" styling to more accurately reflect E-F/R-F.
 
 Subbed 64 with music is my thing. This is the main hurdle done!
