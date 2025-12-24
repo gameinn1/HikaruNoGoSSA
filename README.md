@@ -11,8 +11,6 @@ The used fonts are in fonts.7z, either extract and right click install them, or 
 - 62-64 Done by me (these I am confident in since I did them)
 - Yes if you're wondering the "Music is my Thing" ending has been painstakingly recreated. It's frame perfect to R-F. Check 64.
 
-Hello everyone. This is an update to the project started by gabest11. I don't know how long it will take but will be done.
-
 Changelog since starting (sorry for how this is all laid out I barely know how Github works).
 
 Fixed a typo/grammar in the R-F sub episode 62. "A bluff? He's doesn't do stuff like that" to "A bluff? He doesn't do stuff like that".
