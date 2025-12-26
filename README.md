@@ -8,8 +8,8 @@ The used fonts are in fonts.7z, either extract and right click install them, or 
 ## Progress
 - 1-52 done (gabest11 work needs relooked at)
 - 53-61 wip (as above)
-- 62-65 Done by me (these I am confident in since I did them)
-- Yes if you're wondering the "Music is my Thing" ending has been painstakingly recreated. It's frame perfect to R-F. Check 64.
+- 62-66 Done by me (these I am confident in since I did them)
+- Yes if you're wondering the "Music is my Thing" ending has been painstakingly recreated. It's frame perfect to R-F. Check 64 onwards.
 
 Changelog since starting (sorry for how this is all laid out I barely know how Github works).
 
