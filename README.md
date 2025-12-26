@@ -6,8 +6,7 @@ Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format
 The used fonts are in fonts.7z, either extract and right click install them, or use mkvmerge to multiplex it with the episodes.
 
 ## Progress
-- 1-52 done (gabest11 work needs relooked at)
-- 53-61 wip (as above)
+- 1-61 wip (gabest11 work needs relooked at)
 - 62-66 Done by me (these I am confident in since I did them)
 - Yes if you're wondering the "Music is my Thing" ending has been painstakingly recreated. It's frame perfect to R-F. Check 64 onwards.
 
