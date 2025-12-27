@@ -17,8 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 345
-Video Position: 31523
+Active Line: 23
+Video Position: 5267
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,7 +56,7 @@ Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100
 Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
 Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Noise,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 
 [Events]
@@ -84,16 +84,16 @@ Dialogue: 0,0:03:20.22,0:03:22.38,Default,,0,0,0,,You didn't know about this roo
 Dialogue: 0,0:03:22.59,0:03:23.34,Default,,0,0,0,,No.
 Dialogue: 0,0:03:29.39,0:03:30.68,Default,,0,0,0,,I'll turn on the light now.
 Dialogue: 0,0:03:34.61,0:03:36.82,Default,,0,0,0,,What... is this place?
-Dialogue: 0,0:03:39.65,0:03:40.61,Noise,,0,0,0,,What is this?
-Dialogue: 0,0:03:41.28,0:03:42.11,Noise,,0,0,0,,Books?
-Dialogue: 0,0:03:42.32,0:03:43.08,Noise,,0,0,0,,Yeah.
+Dialogue: 0,0:03:39.65,0:03:40.61,Background,,0,0,0,,What is this?
+Dialogue: 0,0:03:41.28,0:03:42.11,Background,,0,0,0,,Books?
+Dialogue: 0,0:03:42.32,0:03:43.08,Background,,0,0,0,,Yeah.
 Dialogue: 0,0:03:44.37,0:03:46.58,Default,,0,0,0,,They're Kifu, Old Kifu.
 Dialogue: 0,0:03:47.20,0:03:49.45,Default,,0,0,0,,These are old Kifu from back when they were first printed.
-Dialogue: 0,0:03:50.25,0:03:53.21,Noise,,0,0,0,,The oldest thing we have here\N is the Bouyuuseirakushuu.
+Dialogue: 0,0:03:50.25,0:03:53.21,Background,,0,0,0,,The oldest thing we have here\N is the Bouyuuseirakushuu.
 Dialogue: 0,0:03:51.04,0:03:57.88,Note,,0,0,0,,Bouyuuseirakushuu is a collection of Kifu from the Northern Song\NDynasty of China (960~1170AD). The oldest match in the collection\Nis between two famous characters from a classical Chinese tale.
 Dialogue: 0,0:03:53.87,0:03:57.00,Default,,0,0,0,,So this is what you meant by\N"a room where I might find a ghost".
 Dialogue: 0,0:03:58.80,0:04:02.42,Default,,0,0,0,,There weren't any ghosts here. Too bad.
-Dialogue: 0,0:04:07.18,0:04:09.52,Noise,,0,0,0,,Oh, yeah. Do you want to look at anything?
+Dialogue: 0,0:04:07.18,0:04:09.52,Background,,0,0,0,,Oh, yeah. Do you want to look at anything?
 Dialogue: 0,0:04:09.93,0:04:11.18,Default,,0,0,0,,It's okay.
 Dialogue: 0,0:04:11.43,0:04:13.56,Default,,0,0,0,,But you came all this way.
 Dialogue: 0,0:04:14.10,0:04:16.11,Default,,0,0,0,,Then... Shuusaku.
@@ -109,23 +109,23 @@ Dialogue: 0,0:04:43.01,0:04:44.68,Default,,0,0,0,,Ahh! What are you doing!?
 Dialogue: 0,0:04:44.68,0:04:45.59,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:04:46.47,0:04:49.05,Default,,0,0,0,,Be careful. Those are important.
 Dialogue: 0,0:04:49.10,0:04:49.93,Default,,0,0,0,,Okay.
-Dialogue: 0,0:04:50.56,0:04:51.47,Noise,,0,0,0,,I'll leave them here.
-Dialogue: 0,0:04:51.81,0:04:52.60,Noise,,0,0,0,,Okay.
+Dialogue: 0,0:04:50.56,0:04:51.47,Background,,0,0,0,,I'll leave them here.
+Dialogue: 0,0:04:51.81,0:04:52.60,Background,,0,0,0,,Okay.
 Dialogue: 0,0:04:53.68,0:04:56.65,Default,,0,0,0,,I'll be going now. Come get me when you're done.
 Dialogue: 0,0:04:57.48,0:05:00.95,Default,,0,0,0,,I'm going home in half an hour.\N So don't take too long.
 Dialogue: 0,0:05:03.74,0:05:06.53,Thinking,,0,0,0,,Sai... played these, right?
 Dialogue: 0,0:05:07.07,0:05:09.87,Thinking,,0,0,0,,Torajirou let Sai play everything...
 Dialogue: 0,0:05:10.66,0:05:12.62,Default,,0,0,0,,Oh yeah. Take good care of those books.
-Dialogue: 0,0:05:12.70,0:05:13.54,Noise,,0,0,0,,O-Okay.
-Dialogue: 0,0:05:19.04,0:05:23.97,Noise,,0,0,0,,I know the Sai from right now.\NWho cares about the old Sai...?
+Dialogue: 0,0:05:12.70,0:05:13.54,Background,,0,0,0,,O-Okay.
+Dialogue: 0,0:05:19.04,0:05:23.97,Background,,0,0,0,,I know the Sai from right now.\NWho cares about the old Sai...?
 Dialogue: 0,0:05:53.29,0:05:54.79,Default,,0,0,0,,This move by Sai...
 Dialogue: 0,0:05:55.41,0:05:58.38,Default,,0,0,0,,It's an incredible move. It attacks\Nall of the surrounding sides.
 Dialogue: 0,0:06:04.00,0:06:08.93,Default,,0,0,0,,His opponent would lose all of his will\Nto fight after seeing a move like this.
-Dialogue: 0,0:06:11.18,0:06:12.05,Noise,,0,0,0,,Sai.
+Dialogue: 0,0:06:11.18,0:06:12.05,Background,,0,0,0,,Sai.
 Dialogue: 0,0:06:18.23,0:06:20.56,Default,,0,0,0,,He's... a genius.
 Dialogue: 0,0:06:21.56,0:06:24.02,Default,,0,0,0,,I should have let him play more.
-Dialogue: 0,0:06:25.44,0:06:28.24,Noise,,0,0,0,,That would have been much\Nbetter than my playing...
-Dialogue: 0,0:06:28.57,0:06:30.74,Noise,,0,0,0,,Why didn't I realize this before!?
+Dialogue: 0,0:06:25.44,0:06:28.24,Background,,0,0,0,,That would have been much\Nbetter than my playing...
+Dialogue: 0,0:06:28.57,0:06:30.74,Background,,0,0,0,,Why didn't I realize this before!?
 Dialogue: 0,0:06:32.41,0:06:33.24,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:06:33.83,0:06:36.45,Default,,0,0,0,,I'm sure Touya would have been much happier if Sai had played.
 Dialogue: 0,0:06:37.00,0:06:40.96,Default,,0,0,0,,I should have let Sai, the genius, play everything!
@@ -141,7 +141,7 @@ Dialogue: 0,0:07:11.66,0:07:16.67,Default,,0,0,0,,When I finally realized how go
 Dialogue: 0,0:07:17.08,0:07:19.13,Default,,0,0,0,,I'm... an idiot!
 Dialogue: 0,0:07:19.75,0:07:20.63,Default,,0,0,0,,I'm an idiot!
 Dialogue: 0,0:07:30.80,0:07:31.68,Default,,0,0,0,,Sai...
-Dialogue: 0,0:07:36.22,0:07:37.35,Noise,,0,0,0,,O-Oh no.
+Dialogue: 0,0:07:36.22,0:07:37.35,Background,,0,0,0,,O-Oh no.
 Dialogue: 0,0:07:47.11,0:07:49.82,Default,,0,0,0,,I should have let Sai play...
 Dialogue: 0,0:07:51.49,0:07:52.61,Default,,0,0,0,,from the beginning...
 Dialogue: 0,0:07:54.53,0:07:56.12,Default,,0,0,0,,Anyone would agree...
@@ -162,9 +162,9 @@ Dialogue: 0,0:09:49.06,0:09:51.03,Thinking,,0,0,0,,Or... are you not coming!?
 Dialogue: 0,0:09:51.69,0:09:55.11,Thinking,,0,0,0,,Touya is bothered by Shindou's absence, too...
 Dialogue: 0,0:09:56.32,0:09:58.41,Thinking,,0,0,0,,Oh no, the game is about to start.
 Dialogue: 0,0:10:11.59,0:10:12.50,Default,,0,0,0,,Good luck!
-Dialogue: 0,0:10:19.22,0:10:21.35,Noise,,0,0,0,,About these four examples I gave...
-Dialogue: 0,0:10:21.80,0:10:24.47,Noise,,0,0,0,,They're all examples of conjugate modifiers...
-Dialogue: 0,0:10:24.89,0:10:25.60,Noise,,0,0,0,,Well then,
+Dialogue: 0,0:10:19.22,0:10:21.35,Background,,0,0,0,,About these four examples I gave...
+Dialogue: 0,0:10:21.80,0:10:24.47,Background,,0,0,0,,They're all examples of conjugate modifiers...
+Dialogue: 0,0:10:24.89,0:10:25.60,Background,,0,0,0,,Well then,
 Dialogue: 0,0:10:25.94,0:10:30.65,Default,,0,0,0,,let's think about what the differences are between\Nthe conjugate modifiers in the following sentences.
 Dialogue: 0,0:10:31.73,0:10:32.61,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:10:33.32,0:10:34.44,Thinking,,0,0,0,,Come back...
@@ -199,13 +199,13 @@ Dialogue: 0,0:12:30.02,0:12:31.56,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,0:12:36.56,0:12:38.27,Thinking,,0,0,0,,You don't know if he existed or not...
 Dialogue: 0,0:12:39.07,0:12:40.24,Thinking,,0,0,0,,Sai existed!
 Dialogue: 0,0:12:42.15,0:12:43.40,Thinking,,0,0,0,,I'm the only one who knows.
-Dialogue: 0,0:12:45.07,0:12:45.86,Noise,,0,0,0,,Hikaru!
+Dialogue: 0,0:12:45.07,0:12:45.86,Background,,0,0,0,,Hikaru!
 Dialogue: 0,0:12:49.16,0:12:50.04,Default,,0,0,0,,What's up?
 Dialogue: 0,0:12:50.49,0:12:53.21,Default,,0,0,0,,What were you talking to Mr. Matsui,\Nthe social studies teacher, about?
 Dialogue: 0,0:12:53.50,0:12:54.41,Default,,0,0,0,,Nothing.
 Dialogue: 0,0:12:55.37,0:12:59.71,Default,,0,0,0,,Hey, I need one less handicap stone\Nagainst Kaneko-san now.
 Dialogue: 0,0:13:01.00,0:13:02.88,Default,,0,0,0,,Play me again when you have time.
-Dialogue: 0,0:13:04.13,0:13:05.05,Noise,,0,0,0,,I'm not playing any more.
+Dialogue: 0,0:13:04.13,0:13:05.05,Background,,0,0,0,,I'm not playing any more.
 Dialogue: 0,0:13:05.97,0:13:07.47,Default,,0,0,0,,What? Meanie!
 Dialogue: 0,0:13:07.55,0:13:09.72,Default,,0,0,0,,You taught me before...
 Dialogue: 0,0:13:11.22,0:13:13.39,Default,,0,0,0,,How are you doing with your pro matches?
@@ -220,7 +220,7 @@ Dialogue: 0,0:13:52.89,0:13:56.07,Thinking,,0,0,0,,Even though that's impossible
 Dialogue: 0,0:13:56.81,0:13:59.60,Thinking,,0,0,0,,I... can't surpass Sai.
 Dialogue: 0,0:14:10.24,0:14:11.07,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:14:12.16,0:14:13.58,Thinking,,0,0,0,,I wonder why he disappeared.
-Dialogue: 0,0:14:28.01,0:14:30.34,Noise,,0,0,0,,You're neater than I expected!
+Dialogue: 0,0:14:28.01,0:14:30.34,Background,,0,0,0,,You're neater than I expected!
 Dialogue: 0,0:14:31.05,0:14:34.90,Default,,0,0,0,,Actually, he just doesn't have anything... at all.
 Dialogue: 0,0:14:35.43,0:14:37.56,Default,,0,0,0,,Don't you at least need a fridge?
 Dialogue: 0,0:14:37.81,0:14:39.27,Default,,0,0,0,,Aren't you going to cook?
@@ -228,13 +228,13 @@ Dialogue: 0,0:14:39.85,0:14:41.27,Default,,0,0,0,,Waya, what about laundry?
 Dialogue: 0,0:14:41.65,0:14:44.32,Default,,0,0,0,,I plan on doing laundry at home.
 Dialogue: 0,0:14:44.48,0:14:48.07,Default,,0,0,0,,And I'll probably eat at home\Nor eat at my teacher's place.
 Dialogue: 0,0:14:48.49,0:14:52.12,Default,,0,0,0,,What!? How are you living on your own then?
-Dialogue: 0,0:14:53.99,0:14:56.79,Noise,,0,0,0,,All I need is my Go board and stones for now.
+Dialogue: 0,0:14:53.99,0:14:56.79,Background,,0,0,0,,All I need is my Go board and stones for now.
 Dialogue: 0,0:14:57.92,0:15:00.88,Default,,0,0,0,,I envy you. I want to live on my own, too.
 Dialogue: 0,0:15:01.75,0:15:03.96,Default,,0,0,0,,You're free to come and stay here anytime, Komiya.
 Dialogue: 0,0:15:04.13,0:15:05.67,Default,,0,0,0,,If you bring me food.
 Dialogue: 0,0:15:07.01,0:15:10.30,Default,,0,0,0,,A bunch of pros are going to come\Nhere on Saturdays, too!
 Dialogue: 0,0:15:10.72,0:15:12.18,Default,,0,0,0,,Pros? Who?
-Dialogue: 0,0:15:12.39,0:15:15.31,Noise,,0,0,0,,Saeki-san, and Okada-san,\Nand Nakayama-san, and...
+Dialogue: 0,0:15:12.39,0:15:15.31,Background,,0,0,0,,Saeki-san, and Okada-san,\Nand Nakayama-san, and...
 Dialogue: 0,0:15:15.68,0:15:16.68,Default,,0,0,0,,What about Shindou?
 Dialogue: 0,0:15:18.02,0:15:21.78,Default,,0,0,0,,He hasn't shown up at the Institute\Nat all. I haven't told him yet.
 Dialogue: 0,0:15:23.94,0:15:25.48,Default,,0,0,0,,What happened to Shindou?
@@ -243,7 +243,7 @@ Dialogue: 0,0:15:31.29,0:15:32.32,Default,,0,0,0,,Say, Waya...
 Dialogue: 0,0:15:33.00,0:15:34.75,Default,,0,0,0,,That study session on Saturday...
 Dialogue: 0,0:15:35.37,0:15:36.92,Default,,0,0,0,,Can I go to it, too?
 Dialogue: 0,0:15:38.87,0:15:42.09,Default,,0,0,0,,I don't study with my teacher on Saturdays, so...
-Dialogue: 0,0:15:42.54,0:15:44.33,Noise,,0,0,0,,Of course! You should all come!
+Dialogue: 0,0:15:42.54,0:15:44.33,Background,,0,0,0,,Of course! You should all come!
 Dialogue: 0,0:15:47.34,0:15:50.55,Default,,0,0,0,,Honda-kun and Komiya can because they're good.
 Dialogue: 0,0:15:50.88,0:15:53.55,Default,,0,0,0,,I'd feel uncomfortable because I would\Nonly lower the level of discussion.
 Dialogue: 0,0:15:53.84,0:15:56.39,Default,,0,0,0,,How can you study if you worry\Nabout stuff like that?
@@ -272,14 +272,14 @@ Dialogue: 0,0:17:41.99,0:17:42.79,Default,,0,0,0,,Thanks.
 Dialogue: 0,0:17:45.66,0:17:48.51,Default,,0,0,0,,Hikaru's at the library? What is he doing?
 Dialogue: 0,0:17:48.88,0:17:52.09,Default,,0,0,0,,Nothing. He was just staring into space.
 Dialogue: 0,0:17:53.25,0:17:54.97,Default,,0,0,0,,Staring into space?
-Dialogue: 0,0:17:55.43,0:17:55.93,Noise,,0,0,0,,Yeah.
+Dialogue: 0,0:17:55.43,0:17:55.93,Background,,0,0,0,,Yeah.
 Dialogue: 0,0:17:58.05,0:17:59.93,Default,,0,0,0,,That's so unlike him.
 Dialogue: 0,0:18:00.22,0:18:01.26,Default,,0,0,0,,I wonder what's wrong.
 Dialogue: 0,0:18:20.28,0:18:21.12,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:18:21.95,0:18:24.66,Thinking,,0,0,0,,Did something happen to him after...
 Dialogue: 0,0:18:25.91,0:18:28.46,Thinking,,0,0,0,,the game against Master Touya on the Internet?
-Dialogue: 0,0:18:33.42,0:18:34.25,Noise,,0,0,0,,Shindou...
-Dialogue: 0,0:18:42.64,0:18:44.39,Noise,,0,0,0,,W-Wh-What is it,Touya?
+Dialogue: 0,0:18:33.42,0:18:34.25,Background,,0,0,0,,Shindou...
+Dialogue: 0,0:18:42.64,0:18:44.39,Background,,0,0,0,,W-Wh-What is it,Touya?
 Dialogue: 0,0:18:45.06,0:18:47.77,Default,,0,0,0,,Why do you always appear so suddenly!?
 Dialogue: 0,0:18:47.77,0:18:50.82,Default,,0,0,0,,It's bad for my heart! What are you here for?
 Dialogue: 0,0:18:51.94,0:18:52.81,Default,,0,0,0,,Shindou...
@@ -290,14 +290,14 @@ Dialogue: 0,0:19:02.03,0:19:03.95,Default,,0,0,0,,I'm no good.
 Dialogue: 0,0:19:05.03,0:19:06.12,Default,,0,0,0,,You're no good?
 Dialogue: 0,0:19:06.83,0:19:07.87,Default,,0,0,0,,What do you mean?
 Dialogue: 0,0:19:08.58,0:19:11.37,Default,,0,0,0,,I mean, it's a waste for someone like me to play!
-Dialogue: 0,0:19:11.71,0:19:13.13,Noise,,0,0,0,,Be quiet.
+Dialogue: 0,0:19:11.71,0:19:13.13,Background,,0,0,0,,Be quiet.
 Dialogue: 0,0:19:14.71,0:19:16.18,Default,,0,0,0,,I disagree.
 Dialogue: 0,0:19:17.71,0:19:18.63,Default,,0,0,0,,Touya...
 Dialogue: 0,0:19:25.56,0:19:26.43,Thinking,,0,0,0,,That's...
 Dialogue: 0,0:19:27.31,0:19:30.48,Thinking,,0,0,0,,because you see Sai inside me.
 Dialogue: 0,0:19:32.94,0:19:34.44,Default,,0,0,0,,I won't play anymore.
 Dialogue: 0,0:19:37.36,0:19:39.61,Default,,0,0,0,,You won't play!? You've got to be kidding!
-Dialogue: 0,0:19:39.90,0:19:40.74,Noise,,0,0,0,,Shut up!
+Dialogue: 0,0:19:39.90,0:19:40.74,Background,,0,0,0,,Shut up!
 Dialogue: 0,0:19:41.78,0:19:45.37,Thinking,,0,0,0,,You're waiting for Sai, not me. But...
 Dialogue: 0,0:19:47.33,0:19:50.04,Thinking,,0,0,0,,Sai has... disappeared...
 Dialogue: 0,0:19:54.55,0:19:55.34,Thinking,,0,0,0,,Sorry!

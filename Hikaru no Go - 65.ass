@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 65 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 295
-Active Line: 321
-Video Position: 29283
+Scroll Position: 292
+Active Line: 295
+Video Position: 27285
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +57,7 @@ Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100
 Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
 Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Noise,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
@@ -69,7 +69,7 @@ Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:41.91,0:01:45.08,Noise,,0,0,0,,I'm starting at the preliminaries for\Nthe pro exam again next year.
+Dialogue: 0,0:01:41.91,0:01:45.08,Background,,0,0,0,,I'm starting at the preliminaries for\Nthe pro exam again next year.
 Dialogue: 0,0:01:46.25,0:01:48.50,Default,,0,0,0,,Iijima-kun quit the Insei program already,
 Dialogue: 0,0:01:49.21,0:01:51.42,Default,,0,0,0,,maybe I'm at my limit, too
 Dialogue: 0,0:01:52.67,0:01:55.09,Default,,0,0,0,,Oh yeah, have you heard, Waya?
@@ -78,11 +78,11 @@ Dialogue: 0,0:02:01.55,0:02:02.22,Default,,0,0,0,,And?
 Dialogue: 0,0:02:02.81,0:02:05.77,Default,,0,0,0,,It seems Isumi-kun went with them.
 Dialogue: 0,0:02:06.31,0:02:07.39,Default,,0,0,0,,Isumi-san did!?
 Dialogue: 0,0:02:07.79,0:02:12.82,Title,,0,0,0,,The Sixty-Fifth Match:\NIsumi no Go
-Dialogue: 0,0:02:14.36,0:02:17.28,Noise,,0,0,0,,It only takes four hours to go from Tokyo to Bei'jing!
-Dialogue: 0,0:02:18.28,0:02:19.66,Noise,,0,0,0,,Are we taking a taxi the rest of the way?
-Dialogue: 0,0:02:21.12,0:02:23.45,Noise,,0,0,0,,How long does it take to get\Nto the Go Institute of China?
-Dialogue: 0,0:02:23.83,0:02:25.08,Noise,,0,0,0,,Half an hour I think.
-Dialogue: 0,0:02:25.70,0:02:28.54,Noise,,0,0,0,,What? Sakurano and Isumi, is this the\Nfirst time in China for both of you?
+Dialogue: 0,0:02:14.36,0:02:17.28,Background,,0,0,0,,It only takes four hours to go from Tokyo to Bei'jing!
+Dialogue: 0,0:02:18.28,0:02:19.66,Background,,0,0,0,,Are we taking a taxi the rest of the way?
+Dialogue: 0,0:02:21.12,0:02:23.45,Background,,0,0,0,,How long does it take to get\Nto the Go Institute of China?
+Dialogue: 0,0:02:23.83,0:02:25.08,Background,,0,0,0,,Half an hour I think.
+Dialogue: 0,0:02:25.70,0:02:28.54,Background,,0,0,0,,What? Sakurano and Isumi, is this the\Nfirst time in China for both of you?
 Dialogue: 0,0:02:31.05,0:02:34.26,Default,,0,0,0,,But Isumi, when you quit the Kyuuseikai last year...
 Dialogue: 0,0:02:34.51,0:02:36.39,Default,,0,0,0,,I thought you were giving up on becoming a pro.
 Dialogue: 0,0:02:36.92,0:02:38.67,Default,,0,0,0,,Why would he give it up!?
@@ -95,17 +95,17 @@ Dialogue: 0,0:02:56.36,0:03:00.45,Default,,0,0,0,,The fact that Master Narusara 
 Dialogue: 0,0:03:00.91,0:03:02.95,Default,,0,0,0,,shows that he thinks highly of your abilities.
 Dialogue: 0,0:03:03.12,0:03:03.70,Default,,0,0,0,,Yes.
 Dialogue: 0,0:03:04.20,0:03:07.75,Default,,0,0,0,,I have to pass this year, in order to\Nthank the teacher for his kindness.
-Dialogue: 0,0:03:08.41,0:03:11.38,Noise,,0,0,0,,You really do! You're already nineteen, you know.
+Dialogue: 0,0:03:08.41,0:03:11.38,Background,,0,0,0,,You really do! You're already nineteen, you know.
 Dialogue: 0,0:03:12.63,0:03:15.63,Default,,0,0,0,,I didn't become a pro until I was over twenty.
 Dialogue: 0,0:03:16.05,0:03:18.64,Default,,0,0,0,,Sakurano is Sakurano, Isumi is Isumi.
 Dialogue: 0,0:03:19.85,0:03:21.10,Default,,0,0,0,,What do you mean?
-Dialogue: 0,0:03:22.84,0:03:24.72,Noise,,0,0,0,,How many games are we playing?
-Dialogue: 0,0:03:25.39,0:03:27.39,Noise,,0,0,0,,Three games or so over three days and two nights.
+Dialogue: 0,0:03:22.84,0:03:24.72,Background,,0,0,0,,How many games are we playing?
+Dialogue: 0,0:03:25.39,0:03:27.39,Background,,0,0,0,,Three games or so over three days and two nights.
 Dialogue: 0,0:03:26.39,0:03:29.06,Thinking,,0,0,0,,I've done everything I can so far.
 Dialogue: 0,0:03:30.14,0:03:32.52,Thinking,,0,0,0,,The pro exam preliminaries will start in two months.
 Dialogue: 0,0:03:33.73,0:03:37.57,Thinking,,0,0,0,,I'll pretend that the Shinzen match is the pro exam.
 Dialogue: 0,0:03:45.95,0:03:46.70,Default,,0,0,0,,I resign.
-Dialogue: 0,0:03:48.00,0:03:50.20,Noise,,0,0,0,,This move you made was rather peculiar.
+Dialogue: 0,0:03:48.00,0:03:50.20,Background,,0,0,0,,This move you made was rather peculiar.
 Dialogue: 0,0:03:50.79,0:03:53.04,Default,,0,0,0,,You lost all the stones you played.
 Dialogue: 0,0:04:02.80,0:04:05.30,Thinking,,0,0,0,,I couldn't turn the game around after all...
 Dialogue: 0,0:04:06.22,0:04:06.89,Thinking,,0,0,0,,He's good...
@@ -117,17 +117,17 @@ Dialogue: 0,0:04:23.03,0:04:24.36,Default,,0,0,0,,I'm not depressed at all.
 Dialogue: 0,0:04:25.36,0:04:29.24,Default,,0,0,0,,I'm just angry at myself for playing too\Naggressively, because I thought I couldn't lose...
 Dialogue: 0,0:04:30.24,0:04:31.91,Default,,0,0,0,,For not being able to play my best...
 Dialogue: 0,0:04:34.80,0:04:36.63,Default,,0,0,0,,Do you think you could have won if you had?
-Dialogue: 0,0:04:38.46,0:04:40.96,Noise,,0,0,0,,Well, good luck on your afternoon match.
-Dialogue: 0,0:04:41.71,0:04:43.34,Noise,,0,0,0,,Shin-chan, hurry up!
+Dialogue: 0,0:04:38.46,0:04:40.96,Background,,0,0,0,,Well, good luck on your afternoon match.
+Dialogue: 0,0:04:41.71,0:04:43.34,Background,,0,0,0,,Shin-chan, hurry up!
 Dialogue: 0,0:04:49.81,0:04:51.52,Default,,0,0,0,,I once pretended to
 Dialogue: 0,0:04:52.27,0:04:54.57,Default,,0,0,0,,play a Go stone in this park...
 Dialogue: 0,0:04:57.94,0:05:00.32,Default,,0,0,0,,Sai found a rock that looked like a Go stone...
-Dialogue: 0,0:05:02.19,0:05:03.82,Noise,,0,0,0,,Yup something just like this.
+Dialogue: 0,0:05:02.19,0:05:03.82,Background,,0,0,0,,Yup something just like this.
 Dialogue: 0,0:05:05.57,0:05:08.62,Default,,0,0,0,,And he told me to try playing this stone...
 Dialogue: 0,0:05:09.66,0:05:12.62,Default,,0,0,0,,The rock flew out of my hand\Nwhen I tried to play it.
 Dialogue: 0,0:05:16.63,0:05:17.26,Default,,0,0,0,,Sai...
-Dialogue: 0,0:05:20.38,0:05:21.05,Noise,,0,0,0,,Shindou!
-Dialogue: 0,0:05:22.80,0:05:23.55,Noise,,0,0,0,,Waya!
+Dialogue: 0,0:05:20.38,0:05:21.05,Background,,0,0,0,,Shindou!
+Dialogue: 0,0:05:22.80,0:05:23.55,Background,,0,0,0,,Waya!
 Dialogue: 0,0:05:24.55,0:05:26.47,Default,,0,0,0,,What are you doing?
 Dialogue: 0,0:05:27.47,0:05:28.43,Default,,0,0,0,,Huh?
 Dialogue: 0,0:05:29.30,0:05:31.97,Default,,0,0,0,,What are you doing here, Waya?
@@ -135,9 +135,9 @@ Dialogue: 0,0:05:32.35,0:05:34.48,Default,,0,0,0,,I was on my way to your house.
 Dialogue: 0,0:05:34.81,0:05:36.56,Default,,0,0,0,,Master Morishita is furious.
 Dialogue: 0,0:05:37.73,0:05:40.78,Default,,0,0,0,,You don't come to the study sessions, and\Nyou've been ditching the matches.
 Dialogue: 0,0:05:41.32,0:05:43.36,Default,,0,0,0,,You haven't said anything to\Nthe Go Institute have you!?
-Dialogue: 0,0:05:44.20,0:05:46.08,Noise,,0,0,0,,Are you in a slump? Or are you\Njust tired of it all already?
-Dialogue: 0,0:05:49.82,0:05:50.78,Noise,,0,0,0,,Say something!
-Dialogue: 0,0:05:51.50,0:05:54.46,Noise,,0,0,0,,How can I know what you're thinking\Nif you don't say anything!?
+Dialogue: 0,0:05:44.20,0:05:46.08,Background,,0,0,0,,Are you in a slump? Or are you\Njust tired of it all already?
+Dialogue: 0,0:05:49.82,0:05:50.78,Background,,0,0,0,,Say something!
+Dialogue: 0,0:05:51.50,0:05:54.46,Background,,0,0,0,,How can I know what you're thinking\Nif you don't say anything!?
 Dialogue: 0,0:05:55.95,0:05:59.26,Thinking,,0,0,0,,How can I tell him that I don't care about Go anymore...
 Dialogue: 0,0:06:05.05,0:06:06.72,Thinking,,0,0,0,,I want to see Sai again...
 Dialogue: 0,0:06:08.06,0:06:08.51,Default,,0,0,0,,Say...
@@ -155,24 +155,24 @@ Dialogue: 0,0:06:40.83,0:06:42.54,Default,,0,0,0,,Isumi-san is in China?
 Dialogue: 0,0:06:42.84,0:06:43.46,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:06:44.67,0:06:45.34,Default,,0,0,0,,Shindou...
 Dialogue: 0,0:06:46.72,0:06:50.26,Default,,0,0,0,,We just barely passed last year, even though\NIsumi-san was taking the test.
-Dialogue: 0,0:06:51.18,0:06:52.93,Noise,,0,0,0,,Isumi-san will definitely pass this year!
-Dialogue: 0,0:06:53.76,0:06:57.60,Noise,,0,0,0,,Are you going to tell Isumi-san that you've been\Nditching all the matches when he becomes a pro!?
+Dialogue: 0,0:06:51.18,0:06:52.93,Background,,0,0,0,,Isumi-san will definitely pass this year!
+Dialogue: 0,0:06:53.76,0:06:57.60,Background,,0,0,0,,Are you going to tell Isumi-san that you've been\Nditching all the matches when he becomes a pro!?
 Dialogue: 0,0:06:58.52,0:06:59.81,Default,,0,0,0,,Don't you feel ashamed!?
-Dialogue: 0,0:07:00.81,0:07:01.94,Noise,,0,0,0,,You want to play Go, right!?
-Dialogue: 0,0:07:02.19,0:07:03.23,Noise,,0,0,0,,You want to play!
-Dialogue: 0,0:07:03.77,0:07:05.48,Noise,,0,0,0,,I'm going first, you ready?
-Dialogue: 0,0:07:05.86,0:07:06.53,Noise,,0,0,0,,16-4,
-Dialogue: 0,0:07:07.03,0:07:07.53,Noise,,0,0,0,,Star!
+Dialogue: 0,0:07:00.81,0:07:01.94,Background,,0,0,0,,You want to play Go, right!?
+Dialogue: 0,0:07:02.19,0:07:03.23,Background,,0,0,0,,You want to play!
+Dialogue: 0,0:07:03.77,0:07:05.48,Background,,0,0,0,,I'm going first, you ready?
+Dialogue: 0,0:07:05.86,0:07:06.53,Background,,0,0,0,,16-4,
+Dialogue: 0,0:07:07.03,0:07:07.53,Background,,0,0,0,,Star!
 Dialogue: 0,0:07:11.11,0:07:12.82,Default,,0,0,0,,You just though about where to play.
 Dialogue: 0,0:07:14.24,0:07:17.16,Default,,0,0,0,,Tell me about the response that you came up with!
 Dialogue: 0,0:07:22.08,0:07:23.08,Default,,0,0,0,,Shindou!
-Dialogue: 0,0:07:25.96,0:07:27.96,Noise,,0,0,0,,You idiot!
-Dialogue: 0,0:07:36.81,0:07:39.43,Noise,,0,0,0,,Three days and two nights passes by like a flash.
-Dialogue: 0,0:07:40.19,0:07:43.23,Noise,,0,0,0,,All that's left is to say goodbye to\NLiu Xian Sheng and go home.
+Dialogue: 0,0:07:25.96,0:07:27.96,Background,,0,0,0,,You idiot!
+Dialogue: 0,0:07:36.81,0:07:39.43,Background,,0,0,0,,Three days and two nights passes by like a flash.
+Dialogue: 0,0:07:40.19,0:07:43.23,Background,,0,0,0,,All that's left is to say goodbye to\NLiu Xian Sheng and go home.
 Dialogue: 0,0:07:43.78,0:07:46.11,Default,,0,0,0,,Do you have time? Let's go see Tien an men.
 Dialogue: 0,0:07:46.44,0:07:48.03,Default,,0,0,0,,I'd rather go shopping.
 Dialogue: 0,0:07:48.78,0:07:52.82,Default,,0,0,0,,No way I'm going to come all the way to China\Njust to look around stores, right Isumi?
-Dialogue: 0,0:07:58.66,0:07:59.91,Noise,,0,0,0,,What's wrong, Shin-chan?
+Dialogue: 0,0:07:58.66,0:07:59.91,Background,,0,0,0,,What's wrong, Shin-chan?
 Dialogue: 0,0:08:00.87,0:08:02.29,Default,,0,0,0,,I'm sorry for brining this up at the last minute...
 Dialogue: 0,0:08:02.83,0:08:04.58,Default,,0,0,0,,But I'm going to stay another day
 Dialogue: 0,0:08:04.71,0:08:06.75,Default,,0,0,0,,I want to play him one more time.
@@ -183,27 +183,27 @@ Dialogue: 0,0:08:16.18,0:08:18.22,Default,,0,0,0,,Him... You mean Zhao-kun?
 Dialogue: 0,0:08:18.97,0:08:20.10,Default,,0,0,0,,Zhao-kun...
 Dialogue: 0,0:08:20.94,0:08:24.23,Default,,0,0,0,,I managed to beat him, but\Nit was a very close game.
 Dialogue: 0,0:08:24.94,0:08:26.81,Default,,0,0,0,,To be able to play that well at his age...
-Dialogue: 0,0:08:26.98,0:08:29.94,Noise,,0,0,0,,He really showed me how strong\Nthe Go Institute of China is.
-Dialogue: 0,0:08:30.44,0:08:31.49,Noise,,0,0,0,,I'm not surprised.
+Dialogue: 0,0:08:26.98,0:08:29.94,Background,,0,0,0,,He really showed me how strong\Nthe Go Institute of China is.
+Dialogue: 0,0:08:30.44,0:08:31.49,Background,,0,0,0,,I'm not surprised.
 Dialogue: 0,0:08:32.24,0:08:33.45,Default,,0,0,0,,Isumi, haven't you heard?
 Dialogue: 0,0:08:34.08,0:08:37.00,Default,,0,0,0,,All the pros here were chosen out of the pros.
-Dialogue: 0,0:08:37.87,0:08:43.25,Noise,,0,0,0,,China has pro players in every Sheng...\Nin Japanese that means "prefecture".
-Dialogue: 0,0:08:43.88,0:08:46.71,Noise,,0,0,0,,Anyone that is thought to have potential out of all of them,
-Dialogue: 0,0:08:47.05,0:08:49.97,Noise,,0,0,0,,is gathered here in Bei'jing to get daily training.
-Dialogue: 0,0:08:50.55,0:08:52.13,Noise,,0,0,0,,They live here, too.
-Dialogue: 0,0:08:52.67,0:08:54.76,Noise,,0,0,0,,What!? They live here!?
-Dialogue: 0,0:08:55.13,0:08:55.80,Noise,,0,0,0,,Yeah.
-Dialogue: 0,0:08:56.35,0:08:59.44,Noise,,0,0,0,,Well, people who make a lot,\Nor people who get married,
-Dialogue: 0,0:08:59.94,0:09:02.48,Noise,,0,0,0,,seem to rent apartments nearby.
-Dialogue: 0,0:09:03.64,0:09:07.35,Noise,,0,0,0,,There are only thirty or so young pros\Nwho are in their teens and twenties.
+Dialogue: 0,0:08:37.87,0:08:43.25,Background,,0,0,0,,China has pro players in every Sheng...\Nin Japanese that means "prefecture".
+Dialogue: 0,0:08:43.88,0:08:46.71,Background,,0,0,0,,Anyone that is thought to have potential out of all of them,
+Dialogue: 0,0:08:47.05,0:08:49.97,Background,,0,0,0,,is gathered here in Bei'jing to get daily training.
+Dialogue: 0,0:08:50.55,0:08:52.13,Background,,0,0,0,,They live here, too.
+Dialogue: 0,0:08:52.67,0:08:54.76,Background,,0,0,0,,What!? They live here!?
+Dialogue: 0,0:08:55.13,0:08:55.80,Background,,0,0,0,,Yeah.
+Dialogue: 0,0:08:56.35,0:08:59.44,Background,,0,0,0,,Well, people who make a lot,\Nor people who get married,
+Dialogue: 0,0:08:59.94,0:09:02.48,Background,,0,0,0,,seem to rent apartments nearby.
+Dialogue: 0,0:09:03.64,0:09:07.35,Background,,0,0,0,,There are only thirty or so young pros\Nwho are in their teens and twenties.
 Dialogue: 0,0:09:09.19,0:09:11.98,Default,,0,0,0,,So he is one of the chosen pros.
 Dialogue: 0,0:09:12.53,0:09:15.65,Default,,0,0,0,,He's living here, far away from\Nhis parents, at that age...
-Dialogue: 0,0:09:16.53,0:09:18.32,Noise,,0,0,0,,He's an exceptional child.
-Dialogue: 0,0:09:19.07,0:09:19.95,Noise,,0,0,0,,What about school?
-Dialogue: 0,0:09:20.33,0:09:21.21,Noise,,0,0,0,,I don't think he goes to one.
-Dialogue: 0,0:09:21.92,0:09:24.92,Noise,,0,0,0,,They have enough time for\Na normal education, but...
-Dialogue: 0,0:09:25.63,0:09:27.30,Noise,,0,0,0,,Well, they're already pros.
-Dialogue: 0,0:09:27.59,0:09:28.76,Noise,,0,0,0,,Is something wrong?
+Dialogue: 0,0:09:16.53,0:09:18.32,Background,,0,0,0,,He's an exceptional child.
+Dialogue: 0,0:09:19.07,0:09:19.95,Background,,0,0,0,,What about school?
+Dialogue: 0,0:09:20.33,0:09:21.21,Background,,0,0,0,,I don't think he goes to one.
+Dialogue: 0,0:09:21.92,0:09:24.92,Background,,0,0,0,,They have enough time for\Na normal education, but...
+Dialogue: 0,0:09:25.63,0:09:27.30,Background,,0,0,0,,Well, they're already pros.
+Dialogue: 0,0:09:27.59,0:09:28.76,Background,,0,0,0,,Is something wrong?
 Dialogue: 0,0:09:29.76,0:09:31.55,Default,,0,0,0,,Oh, Li Xian Sheng. Hello.
 Dialogue: 0,0:09:32.93,0:09:37.22,Default,,0,0,0,,Well, he said that he'd like\Nto play Zhao-kun again...
 Dialogue: 0,0:09:37.52,0:09:39.05,Default,,0,0,0,,Play Zhao again?
@@ -218,33 +218,33 @@ Dialogue: 0,0:09:58.78,0:10:00.03,Thinking,,0,0,0,,that I did not do my best on.
 Dialogue: 0,0:10:01.37,0:10:03.83,Thinking,,0,0,0,,I can't, if I want to be confident\Nduring the pro exams this year.
 Dialogue: 0,0:10:05.25,0:10:06.37,Default,,0,0,0,,I see.
 Dialogue: 0,0:10:06.71,0:10:09.83,Default,,0,0,0,,But Zhao is going to be gone starting today.
-Dialogue: 0,0:10:10.88,0:10:14.47,Noise,,0,0,0,,There is a match in a rural\Narea, so he headed there.
-Dialogue: 0,0:10:15.09,0:10:16.72,Noise,,0,0,0,,He should be back in a few days.
+Dialogue: 0,0:10:10.88,0:10:14.47,Background,,0,0,0,,There is a match in a rural\Narea, so he headed there.
+Dialogue: 0,0:10:15.09,0:10:16.72,Background,,0,0,0,,He should be back in a few days.
 Dialogue: 0,0:10:17.39,0:10:22.85,Default,,0,0,0,,Isumi-kun, why don't you study here\Nfor a few days until he comes back?
 Dialogue: 0,0:10:23.06,0:10:23.89,Default,,0,0,0,,Liu-san!
 Dialogue: 0,0:10:24.10,0:10:24.77,Default,,0,0,0,,Here?
-Dialogue: 0,0:10:25.89,0:10:28.94,Noise,,0,0,0,,The playing room here is a place\Nfor pros to train themselves.
-Dialogue: 0,0:10:29.39,0:10:31.40,Noise,,0,0,0,,Everyone gathers there everyday.
+Dialogue: 0,0:10:25.89,0:10:28.94,Background,,0,0,0,,The playing room here is a place\Nfor pros to train themselves.
+Dialogue: 0,0:10:29.39,0:10:31.40,Background,,0,0,0,,Everyone gathers there everyday.
 Dialogue: 0,0:10:32.15,0:10:33.27,Default,,0,0,0,,You can play however much you want.
 Dialogue: 0,0:10:34.23,0:10:36.99,Default,,0,0,0,,You're angry at yourself for losing\Nto Zhao. I understand that.
 Dialogue: 0,0:10:37.58,0:10:39.12,Default,,0,0,0,,But there's no need to be in such a hurry.
 Dialogue: 0,0:10:39.86,0:10:41.41,Default,,0,0,0,,How about it, Li Xian Sheng?
 Dialogue: 0,0:10:42.78,0:10:45.20,Default,,0,0,0,,Anyone willing to work hard is welcome.
-Dialogue: 0,0:10:45.49,0:10:48.75,Noise,,0,0,0,,Get a room in a nearby hotel, and come study here.
+Dialogue: 0,0:10:45.49,0:10:48.75,Background,,0,0,0,,Get a room in a nearby hotel, and come study here.
 Dialogue: 0,0:10:50.50,0:10:51.29,Default,,0,0,0,,Shin-chan...
 Dialogue: 0,0:10:52.13,0:10:53.84,Default,,0,0,0,,So, Isumi. What are you going to do?
 Dialogue: 0,0:10:55.13,0:10:56.71,Thinking,,0,0,0,,I didn't expect this, but...
 Dialogue: 0,0:10:57.84,0:10:59.47,Thinking,,0,0,0,,It might be a good opportunity!
 Dialogue: 0,0:11:01.30,0:11:03.64,Default,,0,0,0,,Okay! Thank you for letting me stay here.
-Dialogue: 0,0:11:08.85,0:11:10.39,Noise,,0,0,0,,How much do you know about this place?
-Dialogue: 0,0:11:11.56,0:11:13.23,Noise,,0,0,0,,It's a place where all the best pros gather.
-Dialogue: 0,0:11:13.61,0:11:15.19,Noise,,0,0,0,,But it is a very strict place.
-Dialogue: 0,0:11:15.65,0:11:18.40,Noise,,0,0,0,,You're sent back to the rural provinces\Nif you don't do well in your matches.
-Dialogue: 0,0:11:18.78,0:11:22.75,Noise,,0,0,0,,There are people who don't improve as much as\Nexpected, even if they have a lot of potential.
+Dialogue: 0,0:11:08.85,0:11:10.39,Background,,0,0,0,,How much do you know about this place?
+Dialogue: 0,0:11:11.56,0:11:13.23,Background,,0,0,0,,It's a place where all the best pros gather.
+Dialogue: 0,0:11:13.61,0:11:15.19,Background,,0,0,0,,But it is a very strict place.
+Dialogue: 0,0:11:15.65,0:11:18.40,Background,,0,0,0,,You're sent back to the rural provinces\Nif you don't do well in your matches.
+Dialogue: 0,0:11:18.78,0:11:22.75,Background,,0,0,0,,There are people who don't improve as much as\Nexpected, even if they have a lot of potential.
 Dialogue: 0,0:11:23.24,0:11:27.95,Default,,0,0,0,,Li Xian Sheng manages both the studying of\NGo and the lifestyles of the players here.
 Dialogue: 0,0:11:30.00,0:11:31.50,Default,,0,0,0,,This is the playing room.
 Dialogue: 0,0:11:32.13,0:11:36.01,Default,,0,0,0,,You research new moves here, replay\Nold games, play practice games...
-Dialogue: 0,0:11:36.25,0:11:38.67,Noise,,0,0,0,,It's a place of learning for the chosen pros.
+Dialogue: 0,0:11:36.25,0:11:38.67,Background,,0,0,0,,It's a place of learning for the chosen pros.
 Dialogue: 0,0:11:42.72,0:11:43.68,Thinking,,0,0,0,,They're all young.
 Dialogue: 0,0:11:44.18,0:11:46.18,Thinking,,0,0,0,,A study session for Chinese pros...
 Dialogue: 0,0:11:47.35,0:11:51.40,Thinking,,0,0,0,,Don't feel out of place! I studied\Nwith pros at Kyuuseikai, too.
@@ -253,24 +253,24 @@ Dialogue: 0,0:11:56.44,0:11:57.32,Default,,0,0,0,,Le Ping!
 Dialogue: 0,0:11:58.61,0:12:00.03,Default,,0,0,0,,Were you playing hooky again!?
 Dialogue: 0,0:12:00.32,0:12:02.07,Default,,0,0,0,,Why do you always do that when I'm not around!
 Dialogue: 0,0:12:02.24,0:12:04.61,Default,,0,0,0,,I wasn't playing hooky. I just\Nwent to the bathroom.
-Dialogue: 0,0:12:04.91,0:12:06.12,Noise,,0,0,0,,Don't lie to me!
+Dialogue: 0,0:12:04.91,0:12:06.12,Background,,0,0,0,,Don't lie to me!
 Dialogue: 0,0:12:06.62,0:12:07.25,Default,,0,0,0,,Waya!
 Dialogue: 0,0:12:11.79,0:12:13.00,Default,,0,0,0,,S-Sorry.
 Dialogue: 0,0:12:13.17,0:12:13.80,Default,,0,0,0,,Waya?
 Dialogue: 0,0:12:14.25,0:12:15.84,Default,,0,0,0,,It's the name of a friend of mine in Japan.
 Dialogue: 0,0:12:16.47,0:12:17.80,Default,,0,0,0,,He looks just like him...
 Dialogue: 0,0:12:18.22,0:12:21.14,Default,,0,0,0,,Li Xian Sheng? What's "Waya"?\NIs he talking about me?
-Dialogue: 0,0:12:22.63,0:12:24.55,Noise,,0,0,0,,Let me introduce him.
+Dialogue: 0,0:12:22.63,0:12:24.55,Background,,0,0,0,,Let me introduce him.
 Dialogue: 0,0:12:25.18,0:12:29.06,Default,,0,0,0,,This is Isumi-kun from Japan. He's\Ngoing to be studying here for a bit.
-Dialogue: 0,0:12:29.23,0:12:30.06,Noise,,0,0,0,,Isumi-kun?
-Dialogue: 0,0:12:30.10,0:12:31.15,Noise,,0,0,0,,A Japanese pro?
+Dialogue: 0,0:12:29.23,0:12:30.06,Background,,0,0,0,,Isumi-kun?
+Dialogue: 0,0:12:30.10,0:12:31.15,Background,,0,0,0,,A Japanese pro?
 Dialogue: 0,0:12:31.44,0:12:33.98,Default,,0,0,0,,Nope. He is someone who is just starting out.
 Dialogue: 0,0:12:34.19,0:12:37.07,Default,,0,0,0,,N-Nice to meet.... you all...
-Dialogue: 0,0:12:37.81,0:12:39.36,Noise,,0,0,0,,Isumi-kun! Isumi-kun!
+Dialogue: 0,0:12:37.81,0:12:39.36,Background,,0,0,0,,Isumi-kun! Isumi-kun!
 Dialogue: 0,0:12:43.12,0:12:45.91,Default,,0,0,0,,Does Waya have an outtie just like me!?
 Dialogue: 0,0:12:46.66,0:12:47.62,Default,,0,0,0,,Le Ping!
 Dialogue: 0,0:12:48.12,0:12:50.04,Default,,0,0,0,,Oh! It's already lunchtime!
-Dialogue: 0,0:12:50.08,0:12:51.00,Noise,,0,0,0,,Wait!
+Dialogue: 0,0:12:50.08,0:12:51.00,Background,,0,0,0,,Wait!
 Dialogue: 0,0:12:51.13,0:12:51.79,Default,,0,0,0,,Le Ping!
 Dialogue: 0,0:12:54.21,0:12:55.46,Default,,0,0,0,,What a problem child...
 Dialogue: 0,0:12:56.34,0:13:00.22,Default,,0,0,0,,Le Ping isn't very motivated to study Go.
@@ -283,9 +283,9 @@ Dialogue: 0,0:13:10.97,0:13:13.48,Default,,0,0,0,,He came here last year at the 
 Dialogue: 0,0:13:14.61,0:13:15.98,Default,,0,0,0,,It's time for lunch.
 Dialogue: 0,0:13:16.61,0:13:17.69,Default,,0,0,0,,Why don't we eat, too?
 Dialogue: 0,0:13:17.94,0:13:18.36,Default,,0,0,0,,Okay.
-Dialogue: 0,0:13:22.69,0:13:25.53,Noise,,0,0,0,,Eat here on the first floor while you are here.
-Dialogue: 0,0:13:26.03,0:13:27.86,Noise,,0,0,0,,Everyone eats here.
-Dialogue: 0,0:13:29.66,0:13:33.21,Noise,,0,0,0,,You should go and get a hotel room\Nas soon as you finish eating.
+Dialogue: 0,0:13:22.69,0:13:25.53,Background,,0,0,0,,Eat here on the first floor while you are here.
+Dialogue: 0,0:13:26.03,0:13:27.86,Background,,0,0,0,,Everyone eats here.
+Dialogue: 0,0:13:29.66,0:13:33.21,Background,,0,0,0,,You should go and get a hotel room\Nas soon as you finish eating.
 Dialogue: 0,0:13:33.96,0:13:36.55,Default,,0,0,0,,You have two hours for lunch. That's plenty of time.
 Dialogue: 0,0:13:37.05,0:13:37.46,Default,,0,0,0,,Okay.
 Dialogue: 0,0:13:38.01,0:13:39.01,Default,,0,0,0,,Good luck.
@@ -297,8 +297,8 @@ Dialogue: 0,0:14:03.53,0:14:07.62,Default,,0,0,0,,You're going to play a game wi
 Dialogue: 0,0:14:08.24,0:14:10.91,Default,,0,0,0,,We're playing in leagues right now\Nto test out everyone's strength.
 Dialogue: 0,0:14:11.66,0:14:13.21,Default,,0,0,0,,I'll write your name in, too.
 Dialogue: 0,0:14:15.63,0:14:18.84,Default,,0,0,0,,They are the members of the lower\Ndan group, first dan through 3-dan.
-Dialogue: 0,0:14:19.21,0:14:21.30,Noise,,0,0,0,,You should play anyone who's free.
-Dialogue: 0,0:14:22.26,0:14:22.93,Noise,,0,0,0,,Li Xian Sheng,
+Dialogue: 0,0:14:19.21,0:14:21.30,Background,,0,0,0,,You should play anyone who's free.
+Dialogue: 0,0:14:22.26,0:14:22.93,Background,,0,0,0,,Li Xian Sheng,
 Dialogue: 0,0:14:23.47,0:14:25.30,Default,,0,0,0,,I'll play Isumi-kun.
 Dialogue: 0,0:14:25.84,0:14:26.85,Default,,0,0,0,,Le Ping?
 Dialogue: 0,0:14:27.51,0:14:28.68,Default,,0,0,0,,How about it, Isumi-kun?
@@ -308,8 +308,8 @@ Dialogue: 0,0:14:36.94,0:14:37.64,Default,,0,0,0,,Please.
 Dialogue: 0,0:15:08.22,0:15:09.01,Thinking,,0,0,0,,I underestimated him!
 Dialogue: 0,0:15:09.97,0:15:12.64,Thinking,,0,0,0,,I belittled him too much in my mind.
 Dialogue: 0,0:15:17.27,0:15:20.19,Thinking,,0,0,0,,Le Ping is one of the chosen pros, too!
-Dialogue: 0,0:15:25.07,0:15:27.45,Noise,,0,0,0,,Isumi-kun, you were too forceful.
-Dialogue: 0,0:15:27.74,0:15:28.99,Noise,,0,0,0,,This move was a mistake.
+Dialogue: 0,0:15:25.07,0:15:27.45,Background,,0,0,0,,Isumi-kun, you were too forceful.
+Dialogue: 0,0:15:27.74,0:15:28.99,Background,,0,0,0,,This move was a mistake.
 Dialogue: 0,0:15:29.70,0:15:33.45,Default,,0,0,0,,It looked like Black avoided White's attack well,
 Dialogue: 0,0:15:34.16,0:15:36.71,Default,,0,0,0,,But it lost out during the fight.
 Dialogue: 0,0:15:36.92,0:15:38.46,Default,,0,0,0,,Did you really think that this would work?
@@ -321,7 +321,7 @@ Dialogue: 0,0:15:52.10,0:15:54.27,Thinking,,0,0,0,,He laughed...! At me!
 Dialogue: 0,0:15:55.64,0:15:56.31,Default,,0,0,0,,How was he?
 Dialogue: 0,0:15:56.69,0:15:57.73,Default,,0,0,0,,He sucks.
 Dialogue: 0,0:15:58.02,0:15:58.81,Default,,0,0,0,,Really?
-Dialogue: 0,0:16:09.57,0:16:13.29,Noise,,0,0,0,,This is a situation where you should move\Nto the sides instead of towards the center.
+Dialogue: 0,0:16:09.57,0:16:13.29,Background,,0,0,0,,This is a situation where you should move\Nto the sides instead of towards the center.
 Dialogue: 0,0:16:13.99,0:16:17.46,Default,,0,0,0,,Yeah. Black has strength on the\Ntop side and the right side.
 Dialogue: 0,0:16:18.29,0:16:19.79,Thinking,,0,0,0,,Everything they say is brilliant and well thought out...
 Dialogue: 0,0:16:21.00,0:16:22.38,Thinking,,0,0,0,,I can't join the conversation.
@@ -334,7 +334,7 @@ Dialogue: 0,0:16:48.57,0:16:51.11,Thinking,,0,0,0,,If my self-anger were to turn
 Dialogue: 0,0:16:53.08,0:16:54.99,Thinking,,0,0,0,,The best of the pros in their teens and twenties...
 Dialogue: 0,0:16:55.58,0:16:59.87,Thinking,,0,0,0,,The elite of the pros who are stronger\Nthan players who are older than them.
 Dialogue: 0,0:17:03.42,0:17:04.91,Thinking,,0,0,0,,What can I accomplish here?
-Dialogue: 0,0:17:06.46,0:17:07.09,Noise,,0,0,0,,Isumi-kun.
+Dialogue: 0,0:17:06.46,0:17:07.09,Background,,0,0,0,,Isumi-kun.
 Dialogue: 0,0:17:07.46,0:17:08.42,Default,,0,0,0,,Y-Yes?
 Dialogue: 0,0:17:09.13,0:17:11.18,Default,,0,0,0,,Want to play a game of speed Go?\NWith ten seconds per move?
 Dialogue: 0,0:17:12.72,0:17:13.30,Default,,0,0,0,,Okay...
@@ -364,9 +364,9 @@ Dialogue: 0,0:18:49.44,0:18:49.98,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:18:51.86,0:18:53.15,Default,,0,0,0,,You seem tired.
 Dialogue: 0,0:18:53.74,0:18:54.91,Default,,0,0,0,,Where are you staying?
 Dialogue: 0,0:18:55.66,0:18:56.49,Default,,0,0,0,,A nearby hotel?
-Dialogue: 0,0:18:56.99,0:18:57.45,Noise,,0,0,0,,Yes.
-Dialogue: 0,0:18:58.16,0:19:01.08,Noise,,0,0,0,,I'm in a double, so there's an empty bed.
-Dialogue: 0,0:19:01.83,0:19:03.66,Noise,,0,0,0,,Wanna stay there? Room 303.
+Dialogue: 0,0:18:56.99,0:18:57.45,Background,,0,0,0,,Yes.
+Dialogue: 0,0:18:58.16,0:19:01.08,Background,,0,0,0,,I'm in a double, so there's an empty bed.
+Dialogue: 0,0:19:01.83,0:19:03.66,Background,,0,0,0,,Wanna stay there? Room 303.
 Dialogue: 0,0:19:04.50,0:19:07.88,Default,,0,0,0,,I thought foreigners were not allowed to stay here.
 Dialogue: 0,0:19:08.21,0:19:10.34,Default,,0,0,0,,Who cares? Who would know?
 Dialogue: 0,0:19:11.00,0:19:13.26,Default,,0,0,0,,Li Xian Sheng always leaves by five.

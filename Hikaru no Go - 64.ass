@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 260
-Active Line: 281
-Video Position: 29642
+Active Line: 274
+Video Position: 28932
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +57,7 @@ Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100
 Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
 Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Noise,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
@@ -120,22 +120,22 @@ Dialogue: 0,0:04:30.29,0:04:31.91,Default,,0,0,0,,So you're the culprit.
 Dialogue: 0,0:04:32.50,0:04:34.71,Default,,0,0,0,,Do you have any idea as to what you've done?
 Dialogue: 0,0:04:38.01,0:04:40.64,Default,,0,0,0,,S-Sorry. It's a mess.
 Dialogue: 0,0:04:40.97,0:04:41.80,Default,,0,0,0,,Your trophies...
-Dialogue: 0,0:04:41.88,0:04:43.88,Noise,,0,0,0,,That junk doesn't matter.
+Dialogue: 0,0:04:41.88,0:04:43.88,Background,,0,0,0,,That junk doesn't matter.
 Dialogue: 0,0:04:44.80,0:04:46.89,Default,,0,0,0,,More importantly, look at this!
 Dialogue: 0,0:04:47.23,0:04:50.31,Default,,0,0,0,,T-This? What about this teacup?
 Dialogue: 0,0:04:50.31,0:04:54.27,Default,,0,0,0,,It's my beloved teacup that I used all the time! It's very important, you idiot!
 Dialogue: 0,0:04:54.27,0:04:57.57,Default,,0,0,0,,F-Fine! I'll bring you another one tomorrow!
-Dialogue: 0,0:04:58.19,0:05:00.77,Noise,,0,0,0,,You'll be in for it if you get me crap.
-Dialogue: 0,0:05:04.95,0:05:05.78,Noise,,0,0,0,,Man...
+Dialogue: 0,0:04:58.19,0:05:00.77,Background,,0,0,0,,You'll be in for it if you get me crap.
+Dialogue: 0,0:05:04.95,0:05:05.78,Background,,0,0,0,,Man...
 Dialogue: 0,0:05:06.61,0:05:09.49,Default,,0,0,0,,What kind of teacups would Kaga like anyways?
 Dialogue: 0,0:05:09.70,0:05:12.62,Default,,0,0,0,,I only have 200 yen left from my allowance, too...
 Dialogue: 0,0:05:15.42,0:05:16.30,Sai,,0,0,0,,Oh! Hikaru!
 Dialogue: 0,0:05:16.54,0:05:17.29,Sai,,0,0,0,,A teacup!
 Dialogue: 0,0:05:18.04,0:05:18.83,Default,,0,0,0,,Eh, Really?
-Dialogue: 0,0:05:19.00,0:05:19.71,Noise,,0,0,0,,Where?
-Dialogue: 0,0:05:20.25,0:05:22.80,Noise,,0,0,0,,What!? 5,000yen!? That's so expensive!
+Dialogue: 0,0:05:19.00,0:05:19.71,Background,,0,0,0,,Where?
+Dialogue: 0,0:05:20.25,0:05:22.80,Background,,0,0,0,,What!? 5,000yen!? That's so expensive!
 Dialogue: 0,0:05:23.26,0:05:25.01,Default,,0,0,0,,No way. Let's look somewhere else.
-Dialogue: 0,0:05:26.35,0:05:28.85,Noise,,0,0,0,,What!? This is a Keichou flowerpot!?
+Dialogue: 0,0:05:26.35,0:05:28.85,Background,,0,0,0,,What!? This is a Keichou flowerpot!?
 Dialogue: 0,0:05:29.18,0:05:30.31,Sai,,0,0,0,,Keichou flowerpot!?
 Dialogue: 0,0:05:30.93,0:05:31.69,Default,,0,0,0,,Sai?
 Dialogue: 0,0:05:33.27,0:05:34.31,Default,,0,0,0,,During the early years of the Edo,
@@ -146,10 +146,10 @@ Dialogue: 0,0:05:43.98,0:05:46.78,Default,,0,0,0,,Flowerpots were Yaemon's speci
 Dialogue: 0,0:05:47.20,0:05:51.33,Default,,0,0,0,,So that's why we call flowerpots made by Yaemon, Keichou flowerpots, right?
 Dialogue: 0,0:05:51.46,0:05:53.66,Default,,0,0,0,,Oh, you know a lot about this.
 Dialogue: 0,0:05:54.54,0:05:55.62,Default,,0,0,0,,Hey, Sai!
-Dialogue: 0,0:05:57.17,0:05:59.09,Noise,,0,0,0,,It really is different!
-Dialogue: 0,0:05:59.30,0:06:02.34,Noise,,0,0,0,,It's beautiful, but also elegant.
-Dialogue: 0,0:06:02.67,0:06:04.13,Noise,,0,0,0,,You have a good eye.
-Dialogue: 0,0:06:04.25,0:06:05.67,Noise,,0,0,0,,Not at all.
+Dialogue: 0,0:05:57.17,0:05:59.09,Background,,0,0,0,,It really is different!
+Dialogue: 0,0:05:59.30,0:06:02.34,Background,,0,0,0,,It's beautiful, but also elegant.
+Dialogue: 0,0:06:02.67,0:06:04.13,Background,,0,0,0,,You have a good eye.
+Dialogue: 0,0:06:04.25,0:06:05.67,Background,,0,0,0,,Not at all.
 Dialogue: 0,0:06:07.22,0:06:08.47,Default,,0,0,0,,Sai, what's wrong?
 Dialogue: 0,0:06:08.80,0:06:12.14,Default,,0,0,0,,It's a rare find. How about it?
 Dialogue: 0,0:06:14.72,0:06:17.27,Sai,,0,0,0,,Hikaru! This is a fake.
@@ -162,8 +162,8 @@ Dialogue: 0,0:06:33.12,0:06:34.62,Sai,,0,0,0,,The shape doesn't have the class\N
 Dialogue: 0,0:06:35.00,0:06:38.59,Default,,0,0,0,,1,500,000, and not a yen less.
 Dialogue: 0,0:06:38.84,0:06:40.67,Default,,0,0,0,,1,500,000!?
 Dialogue: 0,0:06:41.21,0:06:42.38,Default,,0,0,0,,For this fake!?
-Dialogue: 0,0:06:45.05,0:06:46.89,Noise,,0,0,0,,Hey, can I see it, too?
-Dialogue: 0,0:06:47.30,0:06:48.80,Noise,,0,0,0,,No! You can't!
+Dialogue: 0,0:06:45.05,0:06:46.89,Background,,0,0,0,,Hey, can I see it, too?
+Dialogue: 0,0:06:47.30,0:06:48.80,Background,,0,0,0,,No! You can't!
 Dialogue: 0,0:06:54.44,0:06:57.31,Default,,0,0,0,,I-I-It's not my fault! I didn't do anything!
 Dialogue: 0,0:06:57.98,0:07:00.82,Sai,,0,0,0,,You sure are breaking a lot of things today, Hikaru.
 Dialogue: 0,0:07:01.82,0:07:04.23,Default,,0,0,0,,You may be a child, but I'm going\Nto have to make you pay for that.
@@ -195,14 +195,14 @@ Dialogue: 0,0:08:43.46,0:08:44.88,Default,,0,0,0,,Oh. That pot.
 Dialogue: 0,0:08:45.46,0:08:48.22,Default,,0,0,0,,Oh, so they said it was worth 1,000 yen?
 Dialogue: 0,0:08:48.55,0:08:49.76,Default,,0,0,0,,And what about it?
 Dialogue: 0,0:08:50.55,0:08:52.97,Default,,0,0,0,,You happily paid 200,000 for it, didn't you?
-Dialogue: 0,0:08:53.76,0:08:58.23,Noise,,0,0,0,,You should feel ashamed for not being able to tell\Nthe difference rather than calling to complain.
+Dialogue: 0,0:08:53.76,0:08:58.23,Background,,0,0,0,,You should feel ashamed for not being able to tell\Nthe difference rather than calling to complain.
 Dialogue: 0,0:08:58.98,0:09:03.81,Default,,0,0,0,,Someone like you who can't even judge the\Nvalue of things shouldn't have meddled.
 Dialogue: 0,0:09:03.81,0:09:05.19,Default,,0,0,0,,Understand?
 Dialogue: 0,0:09:07.03,0:09:07.69,Default,,0,0,0,,Mister!
 Dialogue: 0,0:09:12.99,0:09:14.65,Default,,0,0,0,,It is grandpa's!
 Dialogue: 0,0:09:15.20,0:09:17.08,Default,,0,0,0,,Hey! What do you think you're doing!?
 Dialogue: 0,0:09:19.16,0:09:21.03,Default,,0,0,0,,Hey! Keep your hands off the merchandise!
-Dialogue: 0,0:09:22.24,0:09:27.67,Noise,,0,0,0,,But this is grandpa's! It was stolen six months ago!
+Dialogue: 0,0:09:22.24,0:09:27.67,Background,,0,0,0,,But this is grandpa's! It was stolen six months ago!
 Dialogue: 0,0:09:38.26,0:09:38.97,Sai,,0,0,0,,That....
 Dialogue: 0,0:09:39.68,0:09:40.47,Default,,0,0,0,,Sai?
 Dialogue: 0,0:09:54.99,0:09:56.66,Sai,,0,0,0,,Hikaru! This flowerpot...
@@ -227,7 +227,7 @@ Dialogue: 0,0:10:56.67,0:10:57.55,Default,,0,0,0,,100,000!?
 Dialogue: 0,0:10:58.05,0:11:00.47,Default,,0,0,0,,But you just said it's a cheap pot!
 Dialogue: 0,0:11:00.85,0:11:04.02,Default,,0,0,0,,In my store I decide the prices for everything.
 Dialogue: 0,0:11:04.60,0:11:06.98,Default,,0,0,0,,And it's up to the customer\Nwhether to buy it or not.
-Dialogue: 0,0:11:07.19,0:11:08.36,Noise,,0,0,0,,But...
+Dialogue: 0,0:11:07.19,0:11:08.36,Background,,0,0,0,,But...
 Dialogue: 0,0:11:11.36,0:11:13.78,Default,,0,0,0,,But that's grandpa's!
 Dialogue: 0,0:11:14.15,0:11:16.36,Default,,0,0,0,,Hey! What do you think you're doing!? Let go!
 Dialogue: 0,0:11:22.33,0:11:23.16,Default,,0,0,0,,Are you okay?
@@ -243,16 +243,16 @@ Dialogue: 0,0:11:44.64,0:11:48.31,Default,,0,0,0,,Really? I'm highly doubtful th
 Dialogue: 0,0:11:48.56,0:11:50.10,Default,,0,0,0,,Sai. Is it?
 Dialogue: 0,0:11:50.77,0:11:52.94,Sai,,0,0,0,,I don't know anything about teacups.
 Dialogue: 0,0:11:53.44,0:11:55.02,Sai,,0,0,0,,Hikaru, look at that.
-Dialogue: 0,0:11:55.24,0:11:55.95,Noise,,0,0,0,,A Go board?
+Dialogue: 0,0:11:55.24,0:11:55.95,Background,,0,0,0,,A Go board?
 Dialogue: 0,0:11:56.86,0:11:57.40,Sai,,0,0,0,,Yes.
 Dialogue: 0,0:11:57.78,0:12:00.53,Sai,,0,0,0,,It seems like this person plays Go.
-Dialogue: 0,0:12:01.91,0:12:02.62,Noise,,0,0,0,,And?
+Dialogue: 0,0:12:01.91,0:12:02.62,Background,,0,0,0,,And?
 Dialogue: 0,0:12:02.99,0:12:05.79,Default,,0,0,0,,Come on little girl, pay up.
 Dialogue: 0,0:12:06.08,0:12:06.96,Default,,0,0,0,,50,000!
-Dialogue: 0,0:12:07.41,0:12:08.79,Noise,,0,0,0,,What's wrong, huh?
+Dialogue: 0,0:12:07.41,0:12:08.79,Background,,0,0,0,,What's wrong, huh?
 Dialogue: 0,0:12:11.54,0:12:13.96,Default,,0,0,0,,It's no use talking to you about it, little girl.
 Dialogue: 0,0:12:14.00,0:12:16.88,Default,,0,0,0,,Tell me your home phone number.
-Dialogue: 0,0:12:17.72,0:12:18.47,Noise,,0,0,0,,Hey, mister!
+Dialogue: 0,0:12:17.72,0:12:18.47,Background,,0,0,0,,Hey, mister!
 Dialogue: 0,0:12:19.21,0:12:20.55,Default,,0,0,0,,Mister, you play Go, right?
 Dialogue: 0,0:12:20.96,0:12:21.92,Default,,0,0,0,,Want to play me?
 Dialogue: 0,0:12:23.39,0:12:24.93,Default,,0,0,0,,You play Go aswell?
@@ -261,7 +261,7 @@ Dialogue: 0,0:12:28.69,0:12:31.06,Default,,0,0,0,,T-That's ridiculous!
 Dialogue: 0,0:12:31.22,0:12:36.07,Default,,0,0,0,,I like you even more now. All right,\NI accept your challenge.
 Dialogue: 0,0:12:41.11,0:12:43.65,Default,,0,0,0,,Can you really play Go like that?
 Dialogue: 0,0:12:44.28,0:12:46.74,Default,,0,0,0,,H-Hey! Look at that!
-Dialogue: 0,0:12:47.45,0:12:51.54,Noise,,0,0,0,,This person has a fifth-dan certificate!\NYou can't play him at Go!
+Dialogue: 0,0:12:47.45,0:12:51.54,Background,,0,0,0,,This person has a fifth-dan certificate!\NYou can't play him at Go!
 Dialogue: 0,0:12:52.54,0:12:55.75,Default,,0,0,0,,That certificate isn't fake, it's totally genuine.
 Dialogue: 0,0:12:57.17,0:13:00.43,Default,,0,0,0,,W-Wait a second, I'm not sure now...
 Dialogue: 0,0:13:00.63,0:13:01.59,Default,,0,0,0,,Hey, Sai!
@@ -273,7 +273,7 @@ Dialogue: 0,0:13:17.73,0:13:18.36,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:13:18.94,0:13:20.74,Default,,0,0,0,,Okay, let's play!
 Dialogue: 0,0:13:21.32,0:13:25.62,Default,,0,0,0,,Sai, you can't stand his face,\Nright? Will you be all right?
 Dialogue: 0,0:13:26.08,0:13:29.91,Sai,,0,0,0,,Don't worry about it. He won't be smiling at all.
-Dialogue: 0,0:13:32.87,0:13:34.20,Noise,,0,0,0,,I'm playing first.
+Dialogue: 0,0:13:32.87,0:13:34.20,Background,,0,0,0,,I'm playing first.
 Dialogue: 0,0:13:34.62,0:13:37.50,Default,,0,0,0,,It's been awhile since I last played black.
 Dialogue: 0,0:13:41.17,0:13:44.05,Default,,0,0,0,,Okay, I'm going to play now.
 Dialogue: 0,0:13:44.63,0:13:46.22,Sai,,0,0,0,,Hikaru, are you ready?
@@ -286,8 +286,8 @@ Dialogue: 0,0:14:17.04,0:14:19.38,Thinking,,0,0,0,,W-Why is he so good?
 Dialogue: 0,0:14:36.68,0:14:37.56,Default,,0,0,0,,Mister?
 Dialogue: 0,0:14:40.19,0:14:41.44,Default,,0,0,0,,It's one sided...
 Dialogue: 0,0:14:41.69,0:14:47.28,Default,,0,0,0,,It's completely one sided... I don't play\Nvery well, but even I can see it...
-Dialogue: 0,0:14:49.58,0:14:52.33,Noise,,0,0,0,,The overwhelming difference in skill...
-Dialogue: 0,0:14:55.58,0:14:56.70,Noise,,0,0,0,,This is it...
+Dialogue: 0,0:14:49.58,0:14:52.33,Background,,0,0,0,,The overwhelming difference in skill...
+Dialogue: 0,0:14:55.58,0:14:56.70,Background,,0,0,0,,This is it...
 Dialogue: 0,0:14:58.46,0:15:00.13,Default,,0,0,0,,W-What a child!
 Dialogue: 0,0:15:00.25,0:15:02.75,Default,,0,0,0,,I lost... how could I lose...?
 Dialogue: 0,0:15:08.47,0:15:13.35,Sai,,0,0,0,,To see that old flowerpot again at a place like this...
@@ -296,18 +296,18 @@ Dialogue: 0,0:15:18.31,0:15:22.06,Sai,,0,0,0,,Did someone in the palace\Nat the 
 Dialogue: 0,0:15:23.27,0:15:24.44,Sai,,0,0,0,,Yaemon's flowerpot...
 Dialogue: 0,0:15:25.23,0:15:30.83,Sai,,0,0,0,,Both Torajirou and I were so awed by its\Nbeauty, that our desire to play Go faded.
 Dialogue: 0,0:15:32.49,0:15:34.99,Sai,,0,0,0,,Hikaru, the secret to that flowerpot is...
-Dialogue: 0,0:15:40.16,0:15:40.96,Noise,,0,0,0,,Mister!
+Dialogue: 0,0:15:40.16,0:15:40.96,Background,,0,0,0,,Mister!
 Dialogue: 0,0:15:42.04,0:15:43.42,Default,,0,0,0,,Switch stones with me.
 Dialogue: 0,0:15:44.04,0:15:45.88,Default,,0,0,0,,What? What are you going to do?
 Dialogue: 0,0:15:46.42,0:15:47.25,Default,,0,0,0,,Your captured stones, too
 Dialogue: 0,0:15:47.75,0:15:50.26,Default,,0,0,0,,We'll switch sides and continue this game.
 Dialogue: 0,0:15:50.80,0:15:56.10,Default,,0,0,0,,And, if I manage to turn the game around,\Nwill you return that flowerpot to her?
 Dialogue: 0,0:15:56.64,0:15:58.40,Default,,0,0,0,,W-What?
-Dialogue: 0,0:15:58.77,0:16:02.44,Noise,,0,0,0,,Turn this game that I resigned from around!?
+Dialogue: 0,0:15:58.77,0:16:02.44,Background,,0,0,0,,Turn this game that I resigned from around!?
 Dialogue: 0,0:16:03.52,0:16:07.36,Default,,0,0,0,,There's no way you can do that!\NHow dare you act so cocky!?
-Dialogue: 0,0:16:07.98,0:16:09.53,Noise,,0,0,0,,Give it your best shot!
+Dialogue: 0,0:16:07.98,0:16:09.53,Background,,0,0,0,,Give it your best shot!
 Dialogue: 0,0:16:12.95,0:16:14.87,Sai,,0,0,0,,Let's go, Hikaru.
-Dialogue: 0,0:16:15.49,0:16:16.32,Noise,,0,0,0,,Okay!
+Dialogue: 0,0:16:15.49,0:16:16.32,Background,,0,0,0,,Okay!
 Dialogue: 0,0:16:19.41,0:16:21.29,Sai,,0,0,0,,16-2, Keima.
 Dialogue: 0,0:16:51.48,0:16:53.03,Sai,,0,0,0,,3-9, Cut.
 Dialogue: 0,0:17:14.76,0:17:16.77,Thinking,,0,0,0,,T-Th-This...
@@ -326,7 +326,7 @@ Dialogue: 0,0:18:22.16,0:18:24.24,Sai,,0,0,0,,To be able to see this flowerpot a
 Dialogue: 0,0:18:25.20,0:18:26.96,Sai,,0,0,0,,What deep joy I feel...
 Dialogue: 0,0:18:28.16,0:18:34.55,Sai,,0,0,0,,This flowerpot has, like me, survived\Nthrough a long period of time.
 Dialogue: 0,0:18:36.05,0:18:37.42,Default,,0,0,0,,T-This...
-Dialogue: 0,0:18:42.14,0:18:44.72,Noise,,0,0,0,,Flowers are starting to appear\Nat the bottom of the pot...
+Dialogue: 0,0:18:42.14,0:18:44.72,Background,,0,0,0,,Flowers are starting to appear\Nat the bottom of the pot...
 Dialogue: 0,0:18:54.11,0:18:55.11,Default,,0,0,0,,How pretty!
 Dialogue: 0,0:18:57.82,0:19:00.11,Default,,0,0,0,,A flowerpot is only a flowerpot\Nif it has flowers in it.
 Dialogue: 0,0:19:00.83,0:19:02.91,Default,,0,0,0,,It's supposedly Yaemon's final masterpiece.
@@ -336,15 +336,15 @@ Dialogue: 0,0:19:14.13,0:19:15.92,Default,,0,0,0,,This is that legendary...
 Dialogue: 0,0:19:16.80,0:19:18.97,Default,,0,0,0,,T-This is mine!
 Dialogue: 0,0:19:19.63,0:19:20.76,Default,,0,0,0,,Give it up!
 Dialogue: 0,0:19:21.56,0:19:24.06,Default,,0,0,0,,Aren't there only two types of people in this world?
-Dialogue: 0,0:19:25.05,0:19:27.56,Noise,,0,0,0,,People who know the value of\Nthings, and idiots who don't?
+Dialogue: 0,0:19:25.05,0:19:27.56,Background,,0,0,0,,People who know the value of\Nthings, and idiots who don't?
 Dialogue: 0,0:19:29.98,0:19:32.86,Default,,0,0,0,,I guess you're an idiot who doesn't\Nknow the value of things, mister.
 Dialogue: 0,0:19:42.70,0:19:43.95,Default,,0,0,0,,Thank you!
 Dialogue: 0,0:19:44.49,0:19:45.24,Default,,0,0,0,,Yeah, see ya!
 Dialogue: 0,0:19:53.33,0:19:55.21,Default,,0,0,0,,Case closed!
 Dialogue: 0,0:19:59.09,0:19:59.76,Sai,,0,0,0,,Hikaru.
 Dialogue: 0,0:20:00.55,0:20:03.18,Sai,,0,0,0,,Haven't we forgotten something?
-Dialogue: 0,0:20:06.68,0:20:08.06,Noise,,0,0,0,,Kaga's teacup!
-Dialogue: 0,0:20:11.48,0:20:12.36,Noise,,0,0,0,,This thing?
+Dialogue: 0,0:20:06.68,0:20:08.06,Background,,0,0,0,,Kaga's teacup!
+Dialogue: 0,0:20:11.48,0:20:12.36,Background,,0,0,0,,This thing?
 Dialogue: 0,0:20:12.40,0:20:16.82,Default,,0,0,0,,Yup! It's called a Keichou teacup, and it's\Na masterpiece from the early Edo period!
 Dialogue: 0,0:20:18.24,0:20:23.49,Default,,0,0,0,,Those pictures of swimming fish were drawn by the\Ngenius Yaemon, who was said to draw like a god!
 Dialogue: 0,0:20:25.20,0:20:26.28,Default,,0,0,0,,This thing?
