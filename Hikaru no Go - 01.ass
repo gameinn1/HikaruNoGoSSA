@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Judas] Hikaru no Go - S01E01.mkv
-Video File: [Judas] Hikaru no Go - S01E01.mkv
+Audio File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
+Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 333
-Active Line: 357
-Video Position: 29605
+Scroll Position: 268
+Active Line: 287
+Video Position: 25110
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -127,8 +127,8 @@ Dialogue: 0,0:04:10.50,0:04:11.77,Sai,,0,0,0,,return to the living world.
 Dialogue: 0,0:04:25.42,0:04:26.08,Background,,0,0,0,,What's wrong?
 Dialogue: 0,0:04:26.37,0:04:28.04,Background,,0,0,0,,{\alpha&H00&}Hikaru!{\alpha&HFF&\t(1075,1075,\alpha&H00&)} Hikaru!
 Dialogue: 0,0:04:28.37,0:04:30.46,Background,,0,0,0,,Grandpa! Something's wrong with Hikaru!
-Dialogue: 0,0:04:31.88,0:04:33.04,Default,,0,0,0,,Who are you?
-Dialogue: 0,0:04:33.67,0:04:34.71,Background,,0,0,0,,Fujiwarano Sai
+Dialogue: 0,0:04:31.88,0:04:33.04,Background,,0,0,0,,Who are you?
+Dialogue: 0,0:04:33.67,0:04:34.71,Sai,,0,0,0,,Fujiwarano Sai
 Dialogue: 0,0:04:35.25,0:04:35.96,Background,,0,0,0,,Sai?...
 Dialogue: 0,0:04:36.46,0:04:37.51,Background,,0,0,0,,What are you?
 Dialogue: 0,0:04:38.09,0:04:41.80,Memory,,0,0,0,,I taught the emperor Go at the\Ncapital during the Heian period.
@@ -137,8 +137,8 @@ Dialogue: 0,0:04:52.27,0:04:56.69,Memory,,0,0,0,,However, the emperor had anothe
 Dialogue: 0,0:04:57.69,0:05:00.78,Memory,,0,0,0,,One day he declared to the emperor...
 Dialogue: 0,0:05:01.16,0:05:03.03,Memory,,0,0,0,,Only one tutor is necessary.
 Dialogue: 0,0:05:03.37,0:05:07.12,Memory,,0,0,0,,We should play a match, and the\Nvictor should continue as the tutor.
-Dialogue: 0,0:05:07.41,0:05:10.00,Default,,0,0,0,,And you guys played right?
-Dialogue: 0,0:05:10.58,0:05:11.83,Default,,0,0,0,,Who won?
+Dialogue: 0,0:05:07.41,0:05:10.00,Background,,0,0,0,,And you guys played right?
+Dialogue: 0,0:05:10.58,0:05:11.83,Background,,0,0,0,,Who won?
 Dialogue: 0,0:05:12.33,0:05:14.75,Memory,,0,0,0,,The match proceeded evenly.
 Dialogue: 0,0:05:15.42,0:05:21.43,Memory,,0,0,0,,It really was unbelievable, that under the gaze of\Nso many men, I was the only one who noticed it.
 Dialogue: 0,0:05:22.43,0:05:25.22,Memory,,0,0,0,,A white stone was mixed into his goke.
@@ -146,7 +146,7 @@ Dialogue: 0,0:05:22.43,0:05:25.22,Note,,0,0,0,,[note: Goke is the container for 
 Dialogue: 0,0:05:26.39,0:05:28.93,Memory,,0,0,0,,He saw a moment of chance,
 Dialogue: 0,0:05:26.39,0:05:32.52,Note,,0,0,0,,[agehama is the container for the stones that were\Ncaptured during the game. Since captured stones come\Ninto play during the final scoring, placing extra stones or\Nremoving stones from the agehama is cheating]
 Dialogue: 0,0:05:29.10,0:05:30.77,Memory,,0,0,0,,and placed that stone into his own agehama!
-Dialogue: 0,0:05:31.39,0:05:32.52,Default,,0,0,0,,So he cheated?
+Dialogue: 0,0:05:31.39,0:05:32.52,Background,,0,0,0,,So he cheated?
 Dialogue: 0,0:05:33.81,0:05:35.90,Memory,,0,0,0,,When I was about to bring this up...
 Dialogue: 0,0:05:36.94,0:05:38.40,Default,,0,0,0,,You, you just...
 Dialogue: 0,0:05:40.00,0:05:41.95,Default,,0,0,0,,YOU!
@@ -176,12 +176,12 @@ Dialogue: 0,0:07:13.70,0:07:17.63,Memory,,0,0,0,,please allow me to inhabit a co
 Dialogue: 0,0:07:19.42,0:07:22.13,Memory,,0,0,0,,Torajirou changed his name to Shuusaku...
 Dialogue: 0,0:07:22.51,0:07:24.42,Memory,,0,0,0,,and took the place of his master at the age of 20.
 Dialogue: 0,0:07:24.55,0:07:28.97,Memory,,0,0,0,,At the age of 14, he took the\Nname of Honinbou Shuusaku
-Dialogue: 0,0:07:29.26,0:07:31.43,Default,,0,0,0,,Honinbou... Shuusaku?
+Dialogue: 0,0:07:29.26,0:07:31.43,Background,,0,0,0,,Honinbou... Shuusaku?
 Dialogue: 0,0:07:31.76,0:07:39.15,Memory,,0,0,0,,However, he fell due to a plague and one\Nnight, at the youthful age of 34, he...
 Dialogue: 0,0:07:41.49,0:07:44.72,Default,,0,0,0,,The blood on the Go board must have been his.
 Dialogue: 0,0:07:45.16,0:07:50.42,Default,,0,0,0,,And you possessed me, because\Nyou wish to play more Go?
-Dialogue: 0,0:07:51.89,0:07:52.39,Default,,0,0,0,,Yes...
-Dialogue: 0,0:07:53.87,0:08:01.00,Default,,0,0,0,,because I still have not obtained\Nthe hand of the god yet!
+Dialogue: 0,0:07:51.89,0:07:52.39,Sai,,0,0,0,,Yes...
+Dialogue: 0,0:07:53.87,0:08:01.00,Sai,,0,0,0,,because I still have not obtained\Nthe hand of the god yet!
 Dialogue: 0,0:08:12.66,0:08:13.36,Background,,0,0,0,,Hikaru!
 Dialogue: 0,0:08:14.00,0:08:15.80,Background,,0,0,0,,I heard you rode in an ambulance?!
 Dialogue: 0,0:08:16.56,0:08:18.10,Default,,0,0,0,,Huh? Yeah...
@@ -232,9 +232,9 @@ Dialogue: 0,0:10:09.30,0:10:09.88,Sai,,0,0,0,,What?
 Dialogue: 0,0:10:10.14,0:10:13.13,Default,,0,0,0,,BUT! my mind is my own.
 Dialogue: 0,0:10:13.76,0:10:15.34,Background,,0,0,0,,And also, don't talk to me unless you're spoken to.
 Dialogue: 0,0:10:16.38,0:10:16.88,Sai,,0,0,0,,Okay!
-Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs23\pos(171.212,87.512)}3) Tokugawa Ieyasu
-Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs25\pos(139.889,207.689)}5)
-Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs25\pos(270.167,339.244)}7) Itou Hirobumi
+Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs23\pos(168.364,88.223)}3) Tokugawa Ieyasu
+Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs25\pos(138.465,208.4)}5)
+Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs25\pos(268.743,339.955)}7) Itou Hirobumi
 Dialogue: 0,0:10:23.35,0:10:27.82,Default,,0,0,0,,Who was it again?
 Dialogue: 0,0:10:28.23,0:10:29.58,Background,,0,0,0,,10 minutes remaining.
 Dialogue: 0,0:10:30.08,0:10:33.63,Background,,0,0,0,,If you're done already, you should check\Nover your answers again for mistakes.
@@ -244,9 +244,9 @@ Dialogue: 0,0:10:39.70,0:10:40.58,Sai,,0,0,0,,Revolution of the Tempo?
 Dialogue: 0,0:10:40.83,0:10:42.91,Sai,,0,0,0,,The one that Roujyuu no Miizuno sama started?
 Dialogue: 0,0:10:44.26,0:10:45.10,Default,,0,0,0,,Yeah Yeah! That's the one.
 Dialogue: 0,0:10:45.16,0:10:49.70,Background,,0,0,0,,What a fond memory. We played\NGo once within the castle.
-Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs23\pos(171.212,87.512)}3) Tokugawa Ieyasu
-Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs25\pos(221.758,206.978)}5) Mizuno Roujyuu
-Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs25\pos(270.167,339.244)}7) Itou Hirobumi
+Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs23\pos(168.364,88.223)}3) Tokugawa Ieyasu
+Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs25\pos(219.622,208.4)}5) Mizuno Roujyuu
+Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs25\pos(268.743,339.955)}7) Itou Hirobumi
 Dialogue: 0,0:10:49.76,0:10:51.00,Default,,0,0,0,,Do you know anything about Perry?
 Dialogue: 0,0:10:52.03,0:10:52.63,Sai,,0,0,0,,Perry?
 Dialogue: 0,0:10:53.10,0:10:55.60,Default,,0,0,0,,Perry!? You know? He lead\Na couple of warships here?
@@ -327,30 +327,30 @@ Dialogue: 0,0:14:25.40,0:14:27.84,Sai,,0,0,0,,17-4, Upper Right Corner, komoku!
 Dialogue: 0,0:14:28.80,0:14:29.93,Background,,0,0,0,,17-...
 Dialogue: 0,0:14:30.48,0:14:32.73,Background,,0,0,0,,1, {\alpha&HFF&\t(450,450,\alpha&H00&\4a&H80&)}2, {\alpha&HFF&\t(1200,1200,\alpha&H00&\4a&H80&)}3, {\alpha&HFF&\t(2000,2000,\alpha&H00&\4a&H80&)}4...
 Dialogue: 0,0:14:34.44,0:14:34.81,Default,,0,0,0,,Wow...
-Dialogue: 0,0:14:35.68,0:14:37.52,Default,,0,0,0,,That's the way a beginner holds a stone...
+Dialogue: 0,0:14:35.68,0:14:37.52,Thinking,,0,0,0,,That's the way a beginner holds a stone...
 Dialogue: 0,0:14:43.76,0:14:46.70,Sai,,0,0,0,,16-17, Lower Right Corner, komoku!
 Dialogue: 0,0:14:47.10,0:14:49.14,Default,,0,0,0,,16-17...
 Dialogue: 0,0:14:49.42,0:14:50.00,Default,,0,0,0,,Here it is.
 Dialogue: 0,0:14:53.83,0:14:55.00,Sai,,0,0,0,,3-16
-Dialogue: 0,0:14:55.10,0:14:57.20,Default,,0,0,0,,3-16...
+Dialogue: 0,0:14:55.10,0:14:57.20,Thinking,,0,0,0,,3-16...
 Dialogue: 0,0:15:02.65,0:15:03.66,Sai,,0,0,0,,16-5
 Dialogue: 0,0:15:04.10,0:15:05.30,Default,,0,0,0,,16-5...
 Dialogue: 0,0:15:06.55,0:15:09.14,Note,,0,0,0,,Kosumi is a standard response to a\Nkeima attack, prevalent 200 years ago.
 Dialogue: 0,0:15:06.55,0:15:07.18,Default,,0,0,0,,Kosumi?
 Dialogue: 0,0:15:10.87,0:15:11.80,Sai,,0,0,0,,14-4
 Dialogue: 0,0:15:12.35,0:15:13.92,Default,,0,0,0,,14-4...
-Dialogue: 0,0:15:34.58,0:15:36.44,Default,,0,0,0,,He holds the stone like a beginner,
-Dialogue: 0,0:15:37.47,0:15:39.10,Default,,0,0,0,,but he plays well.
-Dialogue: 0,0:15:39.76,0:15:41.40,Default,,0,0,0,,No wonder he claims to be strong.
+Dialogue: 0,0:15:34.58,0:15:36.44,Thinking,,0,0,0,,He holds the stone like a beginner,
+Dialogue: 0,0:15:37.47,0:15:39.10,Thinking,,0,0,0,,but he plays well.
+Dialogue: 0,0:15:39.76,0:15:41.40,Thinking,,0,0,0,,No wonder he claims to be strong.
 Dialogue: 0,0:15:42.04,0:15:43.43,Default,,0,0,0,,What's wrong? It's your turn.
 Dialogue: 0,0:15:44.02,0:15:45.02,Default,,0,0,0,,Oh, sorry.
-Dialogue: 0,0:15:54.89,0:15:57.52,Default,,0,0,0,,But... his joseki is old...
+Dialogue: 0,0:15:54.89,0:15:57.52,Thinking,,0,0,0,,But... his joseki is old...
 Dialogue: 0,0:15:54.89,0:15:57.52,Note,,0,0,0,,Joseki: A set pattern of moves that brings benefit to both sides.
-Dialogue: 0,0:15:58.27,0:16:02.02,Default,,0,0,0,,and sometimes, he slows down at some weird places...
+Dialogue: 0,0:15:58.27,0:16:02.02,Thinking,,0,0,0,,and sometimes, he slows\Ndown at some weird places...
 Dialogue: 0,0:16:02.11,0:16:05.15,Default,,0,0,0,,14-11...
 Dialogue: 0,0:16:05.28,0:16:06.03,Default,,0,0,0,,Oh here it is.
-Dialogue: 0,0:16:21.75,0:16:23.25,Default,,0,0,0,,He doesn't cower to my attacks, no...
-Dialogue: 0,0:16:24.17,0:16:28.46,Background,,0,0,0,,it's not just that, he's dodging them easily.
+Dialogue: 0,0:16:21.75,0:16:23.25,Thinking,,0,0,0,,He doesn't cower to my attacks, no...
+Dialogue: 0,0:16:24.17,0:16:28.46,Thinking,,0,0,0,,it's not just that, he's dodging them easily.
 Dialogue: 0,0:17:04.66,0:17:07.70,Sai,,0,0,0,,That white stone is yours. Take it off the board.
 Dialogue: 0,0:17:08.01,0:17:08.55,Default,,0,0,0,,Huh?
 Dialogue: 0,0:17:09.34,0:17:09.88,Background,,0,0,0,,This?
@@ -433,11 +433,11 @@ Dialogue: 0,0:22:12.64,0:22:13.77,Default,,0,0,0,,{\an8}I am Umezawa Yukari.
 Dialogue: 0,0:22:12.64,0:22:18.44,Note,,0,0,0,,{\an2\pos(328.011,427.333)}{\fs25\b1}Teacher Yukari{\b0}
 Dialogue: 0,0:22:14.15,0:22:18.42,Default,,0,0,0,,{\an8}In this short program, we will explain\Nthe basic concepts of Igo to you in an\Neasy to understand manner.
 Dialogue: 0,0:22:18.65,0:22:20.99,Default,,0,0,0,,{\an8}Mai-chan and Yuuki-kun will be\Nassisting me. You have my best regards
-Dialogue: 0,0:22:18.65,0:22:23.49,Note,,0,0,0,,{\an2\pos(229.385,348.933)}{\fs25}Yuuki
-Dialogue: 0,0:22:18.65,0:22:23.49,Note,,0,0,0,,{\an2\pos(422.67,346.444)}{\fs25}Mai
+Dialogue: 0,0:22:18.65,0:22:23.49,Note,,0,0,0,,{\an2\pos(230.097,349)}{\fs25}Yuuki
+Dialogue: 0,0:22:18.65,0:22:23.49,Note,,0,0,0,,{\an2\pos(426.941,349)}{\fs25}Mai
 Dialogue: 0,0:22:21.28,0:22:23.88,Default,,0,0,0,,{\an8}Best regards to you too Teacher
 Dialogue: 0,0:22:24.41,0:22:26.41,Default,,0,0,0,,{\an8}How do you play Go?
-Dialogue: 0,0:22:24.41,0:22:27.62,Note,,0,0,0,,{\an5\fs22\move(750,336,-106,336)}Things necessary for Igo
+Dialogue: 0,0:22:24.37,0:22:27.62,Note,,0,0,0,,{\an5\fs22\move(760,338,-110,338)}Things necessary for Igo
 Dialogue: 0,0:22:27.08,0:22:30.00,Default,,0,0,0,,{\an8}Well the things necessary\Nfor Igo includes a Go board...
 Dialogue: 0,0:22:30.50,0:22:31.41,Default,,0,0,0,,{\an8}and these Go stones.
 Dialogue: 0,0:22:28.57,0:22:29.42,Note,,0,0,0,,{\pos(587.037,449.111)}{\fs25}Go Board
@@ -448,7 +448,7 @@ Dialogue: 0,0:22:38.53,0:22:40.77,Note,,0,0,0,,{\an2\pos(329.255,467.156)}{\fs20
 Dialogue: 0,0:22:36.42,0:22:39.38,Default,,0,0,0,,{\an8}Okay, well let's just try placing\Nsome stones on the board
 Dialogue: 0,0:22:39.67,0:22:40.17,Default,,0,0,0,,{\an8}Okay
 Dialogue: 0,0:22:42.76,0:22:52.13,Default,,0,0,0,,{\an8}If this was any other game, then you placed the\Nstones in the right place, but with Igo you have to\Nplace your stones on the intersections of the lines.
-Dialogue: 0,0:22:46.97,0:22:50.85,Note,,0,0,0,,{\an2\fs22\move(910,470,-298,470)}{\fs22}Place your stone on the intersections, where the lines meet.
+Dialogue: 0,0:22:46.97,0:22:50.85,Note,,0,0,0,,{\an2\fs22\move(905,470,-260,470)}{\fs22}Place your stone on the intersections, where the lines meet.
 Dialogue: 0,0:22:53.03,0:22:54.13,Default,,0,0,0,,Let's try it.
 Dialogue: 0,0:22:54.85,0:22:57.36,Note,,0,0,0,,{\fs25}{\1c&HFFFFFF&}{\3c&H1400F3&}To be continued...
 Dialogue: 0,0:22:58.98,0:23:06.53,Note,,0,0,0,,{\fs23}[note: Shidou Go: when a person of higher skill plays someone\Nof lower skills, they take it easy on the guy, and make moves\Nthat will teach the worse player some concepts of the game.]
@@ -456,6 +456,8 @@ Dialogue: 0,0:22:58.98,0:23:06.53,Default,,0,0,0,,That move too... and this move
 Dialogue: 0,0:23:07.70,0:23:12.00,Default,,0,0,0,,no that kind of a child is\Nimpossible! Just who is he?!
 Dialogue: 0,0:23:22.38,0:23:24.51,Default,,0,0,0,,I finally found you!
 Dialogue: 0,0:23:25.30,0:23:26.43,Default,,0,0,0,,Shindou Hikaru!
+Dialogue: 0,0:00:33.30,0:00:39.60,Sai,,0,0,0,,{\bord2\pos(324.983,245.689)}Elite-Fansubs presents
+Dialogue: 0,0:00:33.30,0:00:39.60,Memory,,0,0,0,,{\\fs45\bord2.5\shad1\pos(322.847,297.845)}Hikaru no Go
 Dialogue: 0,0:00:15.95,0:00:19.66,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:19.93,0:00:23.66,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える
 Dialogue: 0,0:00:23.80,0:00:29.68,Op1Kanji,,0,0,0,,{\kf33}だから{\kf151}迷い{\kf25}{\kf58}ながら{\kf17}も{\kf37}共{\kf36}に{\kf75}生きて{\kf78}いこう{\kf78}よ
