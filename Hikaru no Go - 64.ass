@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 260
-Active Line: 274
-Video Position: 28932
+Active Line: 11
+Video Position: 3389
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,7 +78,7 @@ Dialogue: 0,0:02:01.72,0:02:02.85,Sai,,0,0,0,,Huh? Me?
 Dialogue: 0,0:02:02.93,0:02:05.31,Sai,,0,0,0,,I'll be... just as cool as ever of course!
 Dialogue: 0,0:02:05.47,0:02:09.73,Sai,,0,0,0,,After all I am the MAIN CHARACTER!
 Dialogue: 0,0:02:12.65,0:02:14.99,Sai,,0,0,0,,Well then, enjoy the show!
-Dialogue: 0,0:02:16.36,0:02:21.33,Title,,0,0,0,,The Sixty-Fourth Match\NKeichou Flowerpots
+Dialogue: 0,0:02:16.41,0:02:21.33,Title,,0,0,0,,{\fs28}The Sixty-Fourth Match\N\N{\fs}Keichou Flowerpots
 Dialogue: 0,0:02:28.37,0:02:32.13,Sai,,0,0,0,,Oh man, that English teacher just wouldn't shut up.
 Dialogue: 0,0:02:32.50,0:02:35.34,Sai,,0,0,0,,It's because you were sleeping in his class, Hikaru.
 Dialogue: 0,0:02:35.50,0:02:37.59,Default,,0,0,0,,You were asleep, too!

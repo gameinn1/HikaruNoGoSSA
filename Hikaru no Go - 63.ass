@@ -17,8 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 23
-Video Position: 5267
+Active Line: 13
+Video Position: 3966
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -74,7 +74,7 @@ Dialogue: 0,0:02:28.08,0:02:31.76,Thinking,,0,0,0,,He's... incomparable to what 
 Dialogue: 0,0:02:32.59,0:02:34.46,Thinking,,0,0,0,,When did he change so much?
 Dialogue: 0,0:02:36.55,0:02:37.26,Thinking,,0,0,0,,Okay!
 Dialogue: 0,0:02:38.38,0:02:39.80,Thinking,,0,0,0,,Sai! How was it?
-Dialogue: 0,0:02:40.41,0:02:45.39,Title,,0,0,0,,The Sixty-Third Match\NI Won't Play Anymore
+Dialogue: 0,0:02:40.47,0:02:45.39,Title,,0,0,0,,{\fs28}The Sixty-Third Match\N\N{\fs}I Won't Play Anymore
 Dialogue: 0,0:03:00.32,0:03:03.91,Default,,0,0,0,,I wouldn't be surprised if there's a ghost in that room.
 Dialogue: 0,0:03:06.70,0:03:07.66,Default,,0,0,0,,It's behind here.
 Dialogue: 0,0:03:08.71,0:03:12.17,Default,,0,0,0,,Eh, here? But I didn't think\Nthere was anything here.

@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 65 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 292
-Active Line: 295
-Video Position: 27285
+Active Line: 8
+Video Position: 3185
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -77,7 +76,7 @@ Dialogue: 0,0:01:55.72,0:02:00.93,Default,,0,0,0,,A few players from the Kyuusei
 Dialogue: 0,0:02:01.55,0:02:02.22,Default,,0,0,0,,And?
 Dialogue: 0,0:02:02.81,0:02:05.77,Default,,0,0,0,,It seems Isumi-kun went with them.
 Dialogue: 0,0:02:06.31,0:02:07.39,Default,,0,0,0,,Isumi-san did!?
-Dialogue: 0,0:02:07.79,0:02:12.82,Title,,0,0,0,,The Sixty-Fifth Match:\NIsumi no Go
+Dialogue: 0,0:02:07.82,0:02:12.82,Title,,0,0,0,,{\fs28}The Sixty-Fifth Match\N\N{\fs}Isumi no Go
 Dialogue: 0,0:02:14.36,0:02:17.28,Background,,0,0,0,,It only takes four hours to go from Tokyo to Bei'jing!
 Dialogue: 0,0:02:18.28,0:02:19.66,Background,,0,0,0,,Are we taking a taxi the rest of the way?
 Dialogue: 0,0:02:21.12,0:02:23.45,Background,,0,0,0,,How long does it take to get\Nto the Go Institute of China?

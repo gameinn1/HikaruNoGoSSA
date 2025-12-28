@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 35
-Active Line: 56
-Video Position: 6386
+Active Line: 3
+Video Position: 2544
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -72,7 +71,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.44,0:00:04.32,Default,,0,0,0,,Who is it?!
 Dialogue: 0,0:00:07.24,0:00:09.20,Background,,0,0,0,,This is not the best move...
 Dialogue: 0,0:00:09.86,0:00:12.03,Background,,0,0,0,,or the strongest move...
-Dialogue: 0,0:01:41.09,0:01:46.09,Title,,0,0,0,,{\fs28}The first match\N\N{\fs}The Eternal Rival
+Dialogue: 0,0:01:41.41,0:01:46.09,Title,,0,0,0,,{\fs28}The first match\N\N{\fs}The Eternal Rival
 Dialogue: 0,0:02:01.02,0:02:03.35,Default,,0,0,0,,Run Akari! My grandpa's house is right there!
 Dialogue: 0,0:02:03.39,0:02:07.15,Default,,0,0,0,,I knew we should've gone straight home!
 Dialogue: 0,0:02:07.65,0:02:08.65,Background,,0,0,0,,Grandpa?!

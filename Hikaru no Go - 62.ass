@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 213
-Active Line: 224
-Video Position: 27104
+Active Line: 3
+Video Position: 2999
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,7 +64,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:55.30,0:01:56.60,Thinking,,0,0,0,,He isn't here...
 Dialogue: 0,0:01:57.60,0:01:58.97,Thinking,,0,0,0,,Why aren't you here, Sai?
 Dialogue: 0,0:01:59.81,0:02:03.48,Thinking,,0,0,0,,Didn't you want to come and visit Torajirou's homeland?
-Dialogue: 0,0:02:04.19,0:02:09.11,Title,,0,0,0,,The Sixty-Second Match\N The Top Player in Hiroshima
+Dialogue: 0,0:02:04.19,0:02:09.11,Title,,0,0,0,,{\fs28}The Sixty-Second Match\N\N{\fs}The Top Player in Hiroshima
 Dialogue: 0,0:02:09.11,0:02:12.11,Note,,0,0,0,,GO IGO CLUB
 Dialogue: 0,0:02:10.19,0:02:12.11,Background,,0,0,0,,What are you talking about!? That makes no sense.
 Dialogue: 0,0:02:12.78,0:02:15.16,Background,,0,0,0,,Where did you get 50,000!?
