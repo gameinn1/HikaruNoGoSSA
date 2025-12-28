@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 268
-Active Line: 287
-Video Position: 25110
+Scroll Position: 35
+Active Line: 56
+Video Position: 6386
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -125,7 +125,7 @@ Dialogue: 0,0:04:03.81,0:04:04.64,Sai,,0,0,0,,I...
 Dialogue: 0,0:04:07.23,0:04:09.19,Sai,,0,0,0,,I will now, once again...
 Dialogue: 0,0:04:10.50,0:04:11.77,Sai,,0,0,0,,return to the living world.
 Dialogue: 0,0:04:25.42,0:04:26.08,Background,,0,0,0,,What's wrong?
-Dialogue: 0,0:04:26.37,0:04:28.04,Background,,0,0,0,,{\alpha&H00&}Hikaru!{\alpha&HFF&\t(1075,1075,\alpha&H00&)} Hikaru!
+Dialogue: 0,0:04:26.37,0:04:28.04,Background,,0,0,0,,Hikaru!{\alpha&HFF&\t(1075,1075,\alpha&H00&)} Hikaru!
 Dialogue: 0,0:04:28.37,0:04:30.46,Background,,0,0,0,,Grandpa! Something's wrong with Hikaru!
 Dialogue: 0,0:04:31.88,0:04:33.04,Background,,0,0,0,,Who are you?
 Dialogue: 0,0:04:33.67,0:04:34.71,Sai,,0,0,0,,Fujiwarano Sai
