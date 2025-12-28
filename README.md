@@ -1,4 +1,7 @@
 # HikaruNoGoSSA
+
+![E-F Hikaru no Go Intro](https://github.com/gameinn1/HikaruNoGoSSA/blob/master/e-f%20hikaru%20no%20go%20intro.png)
+
 Hello everyone. This is an update to the project started by gabest11.
 
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
