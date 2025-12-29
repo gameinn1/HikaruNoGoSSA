@@ -4,68 +4,68 @@
 Original Script: 
 Synch Point: 0
 ScriptType: v4.00
-PlayResX: 640
-PlayResY: 480
+PlayResX: 1440
+PlayResY: 1080
 Timer: 100.0000
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
+Audio File: Hikaru no Go S03E15 That Same Old Smile.mkv
+Video File: Hikaru no Go S03E15 That Same Old Smile.mkv
 Video AR Mode: 4
-Video AR Value: 1.333333
+Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 158
-Active Line: 174
-Video Position: 27503
+Scroll Position: 173
+Active Line: 191
+Video Position: 33046
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Op1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
-Style: Op1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op2Kanji,MS Gothic,22,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2Romaji,Wordy Diva,36,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English,Wordy Diva,36,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op2Romaji2,Pristina,40,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English2,Pristina,40,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op3Kanji,MS Gothic,24,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,20,1
-Style: Op3Romaji,Polo,28,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,55,1
-Style: Op3Romaji2,Pristina,70,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,180,100,0,0,1,1,0,8,30,30,55,1
-Style: Op3English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,2,20,20,20,1
-Style: Ed1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
-Style: Ed1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed2Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
-Style: Ed2Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed2English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed3Kanji,MS Gothic,30,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3Romaji,Palatino Linotype,34,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3English,Palatino Linotype,34,&H00A7C6FA,&H0080FFFF,&H00082E51,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed3Romaji2,Pristina,40,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3English2,Pristina,40,&H0089D6F3,&H0080FFFF,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed4Kanji,MS Gothic,22,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4Romaji,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
-Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
-Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
-Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
-Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
-Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
+Style: Op1Kanji,MS Gothic,68,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,128
+Style: Op1Romaji,MS PGothic,63,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Op1English,Courier New,63,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,0,2,68,68,45,1
+Style: Op2Kanji,MS Gothic,50,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Op2Romaji,Wordy Diva,81,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Op2English,Wordy Diva,81,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,-1,0,0,100,100,0,0,1,3.375,0,2,68,68,45,1
+Style: Op2Romaji2,Pristina,90,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Op2English2,Pristina,90,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,3.375,0,2,68,68,45,1
+Style: Op3Kanji,MS Gothic,54,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,3.375,6.75,8,68,68,45,1
+Style: Op3Romaji,Polo,63,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,100,100,0,0,1,3.375,6.75,8,68,68,124,1
+Style: Op3Romaji2,Pristina,158,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,180,100,0,0,1,2.25,0,8,68,68,124,1
+Style: Op3English,Especial Kay,95,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,3.375,6.75,2,45,45,45,1
+Style: Ed1Kanji,MS Gothic,68,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,128
+Style: Ed1Romaji,MS PGothic,63,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Ed1English,Courier New,63,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,0,2,68,68,45,1
+Style: Ed2Kanji,MS Gothic,68,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,128
+Style: Ed2Romaji,MS PGothic,63,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Ed2English,Courier New,63,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,0,2,68,68,45,1
+Style: Ed3Kanji,MS Gothic,68,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Ed3Romaji,Palatino Linotype,77,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,-1,-1,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Ed3English,Palatino Linotype,77,&H00A7C6FA,&H0080FFFF,&H00082E51,&H00000000,-1,-1,0,0,100,100,0,0,1,3.375,0,2,68,68,45,1
+Style: Ed3Romaji2,Pristina,90,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,0,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Ed3English2,Pristina,90,&H0089D6F3,&H0080FFFF,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,3.375,0,2,68,68,45,1
+Style: Ed4Kanji,MS Gothic,50,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Ed4Romaji,Pristina,97,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,3.375,0,8,68,68,45,1
+Style: Ed4English,Pristina,97,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,3.375,0,2,68,68,45,1
+Style: Ed5Kanji,MS Gothic,45,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,3.375,0,9,68,68,45,1
+Style: Ed5Romaji,Smudger Std,81,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,3.375,0,7,68,68,34,1
+Style: Ed5English,Especial Kay,95,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,3.375,0,2,68,68,45,1
+Style: Default,Verdana,56,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.925,1.8,2,43,43,56,1
+Style: Background,Verdana,56,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.925,1.8,2,43,43,56,1
+Style: Title,Verdana,101,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.375,2.25,2,45,45,90,1
+Style: Note,Century Gothic,41,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.375,0,8,68,68,23,1
+Style: Computer,Century Gothic,68,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,68,68,23,1
+Style: Thinking,Verdana,56,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2.925,1.8,2,43,43,56,1
+Style: Sai,Verdana,56,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.925,1.8,2,43,43,56,1
+Style: Memory,Verdana,56,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,2.925,1.8,2,43,43,56,1
+Style: ed64_romaji,Smudger Std,77,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.74925,0,1,4.5,0,7,126,126,32,1
+Style: ed64_kanji,MS PGothic,43,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,9,146,146,50,1
+Style: ed64_romaji_inact,Smudger Std,77,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.74925,0,1,4.5,0,7,126,126,32,1
+Style: ed64_kanji_inact,MS PGothic,43,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,9,146,146,50,1
+Style: ed64_hl,Polo,135,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.74925,0,1,4.5,0,5,126,126,101,1
+Style: ed64_eng,Especial Kay,96,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.74925,0,1,4.5,0,2,0,0,32,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -73,7 +73,7 @@ Dialogue: 0,0:02:04.65,0:02:06.73,Default,,0,0,0,,There's Touya-Kun...
 Dialogue: 0,0:02:07.15,0:02:08.65,Background,,0,0,0,,There's Shindou-kun.
 Dialogue: 0,0:02:10.23,0:02:18.70,Background,,0,0,0,,There's always Ochi-kun and Waya-kun,\Nand together they make the new wave.
 Dialogue: 0,0:02:26.38,0:02:29.96,Default,,0,0,0,,I get so excited when I think about the future.
-Dialogue: 0,0:02:30.09,0:02:34.97,Title,,0,0,0,,{\fs28}The Seventy-Fifth match\N\N{\fs}That Same Old Smile
+Dialogue: 0,0:02:30.09,0:02:34.97,Title,,0,0,0,,{\fs63}The Seventy-Fifth match\N\N{\fs}That Same Old Smile
 Dialogue: 0,0:02:46.94,0:02:48.02,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:02:49.86,0:02:51.15,Default,,0,0,0,,You played me twice...
 Dialogue: 0,0:02:52.15,0:02:53.57,Default,,0,0,0,,in a Go salon...
@@ -243,8 +243,28 @@ Dialogue: 0,0:16:49.20,0:16:49.70,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:16:50.53,0:16:54.45,Default,,0,0,0,,Okay. I'm gonna finish up my game now.
 Dialogue: 0,0:17:21.23,0:17:22.02,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:17:22.85,0:17:29.11,Thinking,,0,0,0,,One day... I will play the divine move with you!
-Dialogue: 0,0:19:07.04,0:19:09.13,Default,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\frz270\fs13\bord1.8\pos(458,307)}Waya-kun congratulations on\Nyour promotion to second dan!
-Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(792,0)\fs42\pos(441.139,346.8)}The End
+Dialogue: 0,0:19:07.04,0:19:09.13,Default,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\frz270\fs29.25\bord4.05\pos(1030.5,690.75)}Waya-kun congratulations on\Nyour promotion to second dan!
+Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(792,0)\fs94.5\pos(992.25,778.5)}The End
+Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs60\c&H000000&\4c&HBDCDDB&\shad5\\fad(0,1250)\bord0\b1\pos(650,745)}Yukari Umezawa's{\b0}
+Dialogue: 0,0:22:10.81,0:22:14.65,Default,,0,0,0,,Today is the last episode of Go Go Igo\Nafter running for a year and a half.
+Dialogue: 0,0:22:11.43,0:22:15.98,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&HF90000&\shad0\bord4\fad(667,667)\pos(303,585)}Yuuki
+Dialogue: 0,0:22:11.43,0:22:15.98,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&H117AF8&\shad0\bord4\fad(667,667)\pos(730,564)}Teacher Yukari
+Dialogue: 0,0:22:11.43,0:22:15.98,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&HF627EF&\shad0\bord4\fad(667,667)\pos(1144,590)}Mai
+Dialogue: 0,0:22:14.88,0:22:17.73,Default,,0,0,0,,Thank you so much for watching the entire time.
+Dialogue: 0,0:22:19.19,0:22:20.90,Default,,0,0,0,,During the last year and a half...
+Dialogue: 0,0:22:20.90,0:22:26.49,Default,,0,0,0,,I've been very happy because I was able to\Nsee a lot of people happy from playing Go.
+Dialogue: 0,0:22:27.16,0:22:28.24,Default,,0,0,0,,What do you think, Mai-chan?
+Dialogue: 0,0:22:28.92,0:22:33.54,Default,,0,0,0,,It was a lot of fun because I got to play\Na lot of people, and learn a lot of things.
+Dialogue: 0,0:22:35.25,0:22:36.42,Default,,0,0,0,,What about you, Yuuki-kun?
+Dialogue: 0,0:22:37.00,0:22:40.67,Default,,0,0,0,,I'm going to become a pro, and play in the room\Nof deep contemplation with this board.
+Dialogue: 0,0:22:41.80,0:22:42.63,Default,,0,0,0,,Do your best, okay?
+Dialogue: 0,0:22:43.51,0:22:46.97,Default,,0,0,0,,The three of us will keep playing Go.
+Dialogue: 0,0:22:47.22,0:22:51.14,Default,,0,0,0,,I hope that we'll be able to meet\Nall of you someday, somewhere.
+Dialogue: 0,0:22:52.31,0:22:53.39,Default,,0,0,0,,Well then everyone.
+Dialogue: 0,0:22:53.48,0:22:57.36,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&HF90000&\shad0\bord4\fad(1001,0)\pos(323,764)}Thank you so much
+Dialogue: 0,0:22:53.48,0:22:57.36,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&HF90000&\shad0\bord4\fad(1001,0)\pos(410,807)}for your continued support{\i1}!!{\i0}
+Dialogue: 0,0:22:53.48,0:22:57.36,Default,,0,0,0,,{\fs50\c&HFFFFFF&\3c&H0300EA&\shad0\bord4\fad(1001,0)\pos(1099.885,829.6)}The End
+Dialogue: 0,0:22:53.77,0:22:54.98,Default,,0,0,0,,Good bye!
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
 Dialogue: 0,0:00:16.55,0:00:20.71,Op3Kanji,,0,0,0,,時間だけが過ぎる毎日じゃ
