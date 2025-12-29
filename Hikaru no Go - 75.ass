@@ -19,7 +19,7 @@ Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 158
 Active Line: 174
-Video Position: 31714
+Video Position: 27503
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -243,6 +243,7 @@ Dialogue: 0,0:16:49.20,0:16:49.70,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:16:50.53,0:16:54.45,Default,,0,0,0,,Okay. I'm gonna finish up my game now.
 Dialogue: 0,0:17:21.23,0:17:22.02,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:17:22.85,0:17:29.11,Thinking,,0,0,0,,One day... I will play the divine move with you!
+Dialogue: 0,0:19:07.04,0:19:09.13,Default,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\frz270\fs13\bord1.8\pos(458,307)}Waya-kun congratulations on\Nyour promotion to second dan!
 Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(792,0)\fs42\pos(441.139,346.8)}The End
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
