@@ -12,13 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
+Audio File: Hikaru no Go S01E01 Eternal Rival.mkv
+Video File: Hikaru no Go S01E01 Eternal Rival.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 3
-Video Position: 2544
+Scroll Position: 355
+Active Line: 380
+Video Position: 32972
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -444,11 +445,11 @@ Dialogue: 0,0:22:30.50,0:22:33.50,Note,,0,0,0,,{\an2\pos(310.035,468.578)}{\fs20
 Dialogue: 0,0:22:34.29,0:22:35.75,Note,,0,0,0,,{\an2\fs23}Take turns placing the black and white stones on the board
 Dialogue: 0,0:22:32.29,0:22:35.75,Default,,0,0,0,,{\an8}You will take turns placing these\Nblack and white stones on the board.
 Dialogue: 0,0:22:38.53,0:22:40.77,Note,,0,0,0,,{\an2\pos(329.255,467.156)}{\fs20}Where do you place the stones?
-Dialogue: 0,0:22:36.42,0:22:39.38,Default,,0,0,0,,{\an8}Okay, well let's just try placing\Nsome stones on the board
-Dialogue: 0,0:22:39.67,0:22:40.17,Default,,0,0,0,,{\an8}Okay
-Dialogue: 0,0:22:42.76,0:22:52.13,Default,,0,0,0,,{\an8}If this was any other game, then you placed the\Nstones in the right place, but with Igo you have to\Nplace your stones on the intersections of the lines.
+Dialogue: 0,0:22:36.46,0:22:39.42,Default,,0,0,0,,{\an8}Okay, well let's just try placing\Nsome stones on the board
+Dialogue: 0,0:22:39.71,0:22:40.21,Default,,0,0,0,,{\an8}Okay
+Dialogue: 0,0:22:42.76,0:22:52.23,Default,,0,0,0,,{\an8}If this was any other game, then you placed the\Nstones in the right place, but with Igo you have to\Nplace your stones on the intersections of the lines.
 Dialogue: 0,0:22:46.97,0:22:50.85,Note,,0,0,0,,{\an2\fs22\move(905,470,-260,470)}{\fs22}Place your stone on the intersections, where the lines meet.
-Dialogue: 0,0:22:53.03,0:22:54.13,Default,,0,0,0,,Let's try it.
+Dialogue: 0,0:22:53.03,0:22:54.14,Default,,0,0,0,,Let's try it.
 Dialogue: 0,0:22:54.85,0:22:57.36,Note,,0,0,0,,{\fs25}{\1c&HFFFFFF&}{\3c&H1400F3&}To be continued...
 Dialogue: 0,0:22:58.98,0:23:06.53,Note,,0,0,0,,{\fs23}[note: Shidou Go: when a person of higher skill plays someone\Nof lower skills, they take it easy on the guy, and make moves\Nthat will teach the worse player some concepts of the game.]
 Dialogue: 0,0:22:58.98,0:23:06.53,Default,,0,0,0,,That move too... and this move... this is\Nshidou Go... If that was his actual strength...
