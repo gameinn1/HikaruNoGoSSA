@@ -17,9 +17,9 @@ Video File: Hikaru no Go S03E15 That Same Old Smile.mkv
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 173
+Scroll Position: 170
 Active Line: 191
-Video Position: 33046
+Video Position: 33016
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -246,25 +246,25 @@ Dialogue: 0,0:17:22.85,0:17:29.11,Thinking,,0,0,0,,One day... I will play the di
 Dialogue: 0,0:19:07.04,0:19:09.13,Default,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\frz270\fs29.25\bord4.05\pos(1030.5,690.75)}Waya-kun congratulations on\Nyour promotion to second dan!
 Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(792,0)\fs94.5\pos(992.25,778.5)}The End
 Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs60\c&H000000&\4c&HBDCDDB&\shad5\\fad(0,1250)\bord0\b1\pos(650,745)}Yukari Umezawa's{\b0}
-Dialogue: 0,0:22:10.81,0:22:14.65,Default,,0,0,0,,Today is the last episode of Go Go Igo\Nafter running for a year and a half.
+Dialogue: 0,0:22:10.56,0:22:14.48,Default,,0,0,0,,Today is the last episode of Go Go Igo\Nafter running for a year and a half.
 Dialogue: 0,0:22:11.43,0:22:15.98,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&HF90000&\shad0\bord4\fad(667,667)\pos(303,585)}Yuuki
 Dialogue: 0,0:22:11.43,0:22:15.98,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&H117AF8&\shad0\bord4\fad(667,667)\pos(730,564)}Teacher Yukari
 Dialogue: 0,0:22:11.43,0:22:15.98,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&HF627EF&\shad0\bord4\fad(667,667)\pos(1144,590)}Mai
 Dialogue: 0,0:22:14.88,0:22:17.73,Default,,0,0,0,,Thank you so much for watching the entire time.
-Dialogue: 0,0:22:19.19,0:22:20.90,Default,,0,0,0,,During the last year and a half...
-Dialogue: 0,0:22:20.90,0:22:26.49,Default,,0,0,0,,I've been very happy because I was able to\Nsee a lot of people happy from playing Go.
+Dialogue: 0,0:22:19.19,0:22:20.74,Default,,0,0,0,,During the last year and a half...
+Dialogue: 0,0:22:20.82,0:22:26.45,Default,,0,0,0,,I've been very happy because I was able to\Nsee a lot of people happy from playing Go.
 Dialogue: 0,0:22:27.16,0:22:28.24,Default,,0,0,0,,What do you think, Mai-chan?
-Dialogue: 0,0:22:28.92,0:22:33.54,Default,,0,0,0,,It was a lot of fun because I got to play\Na lot of people, and learn a lot of things.
-Dialogue: 0,0:22:35.25,0:22:36.42,Default,,0,0,0,,What about you, Yuuki-kun?
-Dialogue: 0,0:22:37.00,0:22:40.67,Default,,0,0,0,,I'm going to become a pro, and play in the room\Nof deep contemplation with this board.
-Dialogue: 0,0:22:41.80,0:22:42.63,Default,,0,0,0,,Do your best, okay?
-Dialogue: 0,0:22:43.51,0:22:46.97,Default,,0,0,0,,The three of us will keep playing Go.
-Dialogue: 0,0:22:47.22,0:22:51.14,Default,,0,0,0,,I hope that we'll be able to meet\Nall of you someday, somewhere.
-Dialogue: 0,0:22:52.31,0:22:53.39,Default,,0,0,0,,Well then everyone.
+Dialogue: 0,0:22:28.92,0:22:33.67,Default,,0,0,0,,It was a lot of fun because I got to play\Na lot of people, and learn a lot of things.
+Dialogue: 0,0:22:35.29,0:22:36.46,Default,,0,0,0,,What about you, Yuuki-kun?
+Dialogue: 0,0:22:37.13,0:22:40.80,Default,,0,0,0,,I'm going to become a pro, and play in the room\Nof deep contemplation with this board.
+Dialogue: 0,0:22:41.84,0:22:42.67,Default,,0,0,0,,Do your best, okay?
+Dialogue: 0,0:22:43.68,0:22:47.14,Default,,0,0,0,,The three of us will keep playing Go.
+Dialogue: 0,0:22:47.35,0:22:51.31,Default,,0,0,0,,I hope that we'll be able to meet\Nall of you someday, somewhere.
+Dialogue: 0,0:22:52.52,0:22:53.60,Default,,0,0,0,,Well then everyone.
 Dialogue: 0,0:22:53.48,0:22:57.36,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&HF90000&\shad0\bord4\fad(1001,0)\pos(323,764)}Thank you so much
 Dialogue: 0,0:22:53.48,0:22:57.36,Default,,0,0,0,,{\fs40\c&HFFFFFF&\3c&HF90000&\shad0\bord4\fad(1001,0)\pos(410,807)}for your continued support{\i1}!!{\i0}
 Dialogue: 0,0:22:53.48,0:22:57.36,Default,,0,0,0,,{\fs50\c&HFFFFFF&\3c&H0300EA&\shad0\bord4\fad(1001,0)\pos(1099.885,829.6)}The End
-Dialogue: 0,0:22:53.77,0:22:54.98,Default,,0,0,0,,Good bye!
+Dialogue: 0,0:22:53.98,0:22:55.19,Default,,0,0,0,,Good bye!
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
 Dialogue: 0,0:00:16.55,0:00:20.71,Op3Kanji,,0,0,0,,時間だけが過ぎる毎日じゃ
