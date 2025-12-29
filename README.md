@@ -1,6 +1,7 @@
 # HikaruNoGoSSA
 
 ![E-F Hikaru no Go Intro](https://github.com/gameinn1/HikaruNoGoSSA/blob/master/e-f%20hikaru%20no%20go%20intro.png)
+![Ending example](https://github.com/gameinn1/HikaruNoGoSSA/blob/master/hikaru%20example.png)
 
 Hello everyone. This is an update to the project started by gabest11.
 
