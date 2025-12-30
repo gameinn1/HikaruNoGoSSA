@@ -24,7 +24,7 @@ Fixed typo in intro of episode 61 by gabest11. "wth my wings spread out." to "wi
 
 Done 63 and here is where I considered changing colours for styles. gabest11 "Noise" style was wrong compared to E-F/R-F. gabest11 was italic, alignment 8. It should be bold, alignment 2. Changed to "Background" as it makes more sense.
 
-I color picked Backkground again (now it's &H00C5FEC1) but unsure if it's totally faithful (maybe it's 99%).
+I color picked Background again (now it's &H00C5FEC1) but unsure if it's totally faithful (maybe it's 99%).
 
 Also made a Sai "Blue" styling (&H00FEFECE) for earlier E-F (this got dropped later on by E-F/R-F but let's recreate it as best we can)
 
