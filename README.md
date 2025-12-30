@@ -11,8 +11,8 @@ The used fonts are in fonts.7z, either extract and right click install them, or 
 
 ## Progress
 - 2-61 wip (gabest11 work needs relooked at)
-- 1 and 62-66 done by me (these I am confident in since I did them)
-- Yes if you're wondering the "Music is my Thing" ending has been painstakingly recreated. It's frame perfect to R-F. Check 64 onwards.
+- 1 and 62-68 done by me. Besides episode 1, the ending Go sections still need subbed. Want to get the main stuff done first.
+- Yes if you're wondering the "Music is my Thing" ending has been painstakingly recreated. Check 64 onwards.
 
 Changelog since starting (sorry for how this is all laid out I barely know how Github works).
 
