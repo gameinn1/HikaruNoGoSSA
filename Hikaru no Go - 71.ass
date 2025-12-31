@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 71 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 81
-Active Line: 103
-Video Position: 17288
+Scroll Position: 156
+Active Line: 176
+Video Position: 29598
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -173,87 +173,79 @@ Dialogue: 0,0:11:50.02,0:11:53.65,Default,,0,0,0,,Oh man, I'm so bad.
 Dialogue: 0,0:11:53.94,0:11:55.90,Default,,0,0,0,,I got lucky there.
 Dialogue: 0,0:11:56.49,0:11:59.03,Default,,0,0,0,,No, I have to rest.
 Dialogue: 0,0:12:01.03,0:12:01.99,Background,,0,0,0,,Here you go.
-Dialogue: 0,0:12:03.65,0:12:04.60,Default,,0,0,0,,Thank you
-Dialogue: 0,0:12:05.19,0:12:06.72,Default,,0,0,0,,But it was close
-Dialogue: 0,0:12:07.02,0:12:09.65,Default,,0,0,0,,That game right now, it looked like one of our games
-Dialogue: 0,0:12:10.17,0:12:11.18,Default,,0,0,0,,You were doing well
-Dialogue: 0,0:12:11.99,0:12:13.04,Default,,0,0,0,,Really?
-Dialogue: 0,0:12:25.23,0:12:26.44,Default,,0,0,0,,Oh yeah, Isumi-san
-Dialogue: 0,0:12:28.13,0:12:29.73,Default,,0,0,0,,You went to Shindou's place, right?
-Dialogue: 0,0:12:30.15,0:12:30.74,Default,,0,0,0,,Yeah
-Dialogue: 0,0:12:31.28,0:12:32.53,Default,,0,0,0,,Really? You did?
-Dialogue: 0,0:12:33.16,0:12:34.97,Default,,0,0,0,,How was Shindou?
-Dialogue: 0,0:12:37.17,0:12:39.31,Default,,0,0,0,,I don't quite understand
-Dialogue: 0,0:12:39.96,0:12:44.52,Default,,0,0,0,,But... It seems like he's over it now
-Dialogue: 0,0:12:44.99,0:12:47.83,Default,,0,0,0,,We both got to play a good game
-Dialogue: 0,0:12:50.08,0:12:50.85,Default,,0,0,0,,I see...
-Dialogue: 0,0:12:52.05,0:12:54.63,Default,,0,0,0,,That bastard, making us worry like that
-Dialogue: 0,0:13:13.46,0:13:16.12,Default,,0,0,0,,I can't just surround territory right now
-Dialogue: 0,0:13:20.01,0:13:21.20,Default,,0,0,0,,I'll fight back!
-Dialogue: 0,0:13:49.16,0:13:51.06,Default,,0,0,0,,Shindou Hikaru...
-Dialogue: 0,0:13:53.66,0:13:56.62,Default,,0,0,0,,Kids these days...
-Dialogue: 0,0:13:57.21,0:13:58.60,Default,,0,0,0,,Oh, Sakamaki-san
-Dialogue: 0,0:13:59.50,0:14:02.28,Default,,0,0,0,,What's wrong? Sighing like that
-Dialogue: 0,0:14:02.63,0:14:03.60,Default,,0,0,0,,Amano-san
-Dialogue: 0,0:14:15.45,0:14:16.40,Default,,0,0,0,,Amano-san!
-Dialogue: 0,0:14:17.93,0:14:18.82,Default,,0,0,0,,Sorry!
-Dialogue: 0,0:14:53.78,0:14:55.16,Default,,0,0,0,,Hello, this is Ogata
-Dialogue: 0,0:14:56.24,0:14:57.43,Default,,0,0,0,,Oh, Amano-san
-Dialogue: 0,0:14:58.08,0:14:58.70,Default,,0,0,0,,Hello
-Dialogue: 0,0:14:59.22,0:15:00.71,Default,,0,0,0,,Do you have some time right now?
-Dialogue: 0,0:15:01.30,0:15:06.26,Default,,0,0,0,,You were asking about Shindou Hikaru first dan earlier weren't you, Master Ogata?
-Dialogue: 0,0:15:06.70,0:15:07.20,Default,,0,0,0,,Yes...
-Dialogue: 0,0:15:07.71,0:15:08.29,Default,,0,0,0,,Yes...
-Dialogue: 0,0:15:11.93,0:15:13.82,Default,,0,0,0,,Shindou came to his match...
-Dialogue: 0,0:15:14.90,0:15:15.45,Default,,0,0,0,,Okay...
-Dialogue: 0,0:15:15.92,0:15:17.78,Default,,0,0,0,,Okay.. Thank you for calling
-Dialogue: 0,0:15:18.25,0:15:18.93,Default,,0,0,0,,Yeah
-Dialogue: 0,0:15:22.97,0:15:24.20,Default,,0,0,0,,So he's back...
-Dialogue: 0,0:15:32.16,0:15:33.74,Default,,0,0,0,,Yes... I'll check up on it right now
-Dialogue: 0,0:15:38.67,0:15:40.85,Default,,0,0,0,,Looks like the editor-in-chief isn't here
-Dialogue: 0,0:15:41.40,0:15:43.06,Default,,0,0,0,,Oh, Master Kuwabara!
-Dialogue: 0,0:15:43.52,0:15:46.79,Default,,0,0,0,,Here the manuscript you asked me for
-Dialogue: 0,0:15:47.13,0:15:48.50,Default,,0,0,0,,Oh, thank you for bringing it here
-Dialogue: 0,0:15:48.87,0:15:50.68,Default,,0,0,0,,I had some business in the area
-Dialogue: 0,0:15:51.24,0:15:52.84,Default,,0,0,0,,So I brought it by
-Dialogue: 0,0:15:53.28,0:15:54.24,Default,,0,0,0,,Thanks alot
-Dialogue: 0,0:16:00.63,0:16:02.81,Default,,0,0,0,,What is it, Amano-san?
-Dialogue: 0,0:16:03.52,0:16:07.61,Default,,0,0,0,,Oh, nothing. I was just thinking about something...
-Dialogue: 0,0:16:08.83,0:16:14.06,Default,,0,0,0,,Master Kuwabara, you were talking about Shindou Hikaru first dan the other day weren't you?
-Dialogue: 0,0:16:14.74,0:16:17.49,Default,,0,0,0,,About how he will come back?
-Dialogue: 0,0:16:18.02,0:16:21.12,Default,,0,0,0,,Yeah. I was right, wasn't I?
-Dialogue: 0,0:16:21.71,0:16:22.44,Default,,0,0,0,,Yes.
-Dialogue: 0,0:16:22.73,0:16:27.15,Default,,0,0,0,,But why is everyone so interested in Shindou-Kun?
-Dialogue: 0,0:16:27.70,0:16:29.03,Default,,0,0,0,,Master Kuwabara,
-Dialogue: 0,0:16:29.36,0:16:32.05,Default,,0,0,0,,Master Ogata, Master Kurata,
-Dialogue: 0,0:16:32.45,0:16:34.02,Default,,0,0,0,,even Master Touya...
-Dialogue: 0,0:16:36.27,0:16:37.69,Default,,0,0,0,,Why you ask?
-Dialogue: 0,0:16:38.94,0:16:42.08,Default,,0,0,0,,I think that's what we all want to know
-Dialogue: 0,0:16:44.12,0:16:47.15,Default,,0,0,0,,Don't be so impatient. I'm sure we'll all eventually find out
-Dialogue: 0,0:16:47.39,0:16:48.35,Default,,0,0,0,,Amano-san
-Dialogue: 0,0:16:48.84,0:16:51.41,Default,,0,0,0,,My sixth sense tells me so
-Dialogue: 0,0:16:56.13,0:16:57.35,Default,,0,0,0,,Sixth sense?
-Dialogue: 0,0:17:46.14,0:17:46.87,Default,,0,0,0,,Okay!
-Dialogue: 0,0:17:48.84,0:17:49.66,Default,,0,0,0,,I can win!
-Dialogue: 0,0:18:16.40,0:18:18.38,Default,,0,0,0,,Why is someone this strong here?
-Dialogue: 0,0:18:18.63,0:18:19.68,Default,,0,0,0,,How can I win?
-Dialogue: 0,0:18:25.28,0:18:26.13,Default,,0,0,0,,I resign
-Dialogue: 0,0:18:36.33,0:18:37.42,Default,,0,0,0,,Thank you for the game
-Dialogue: 0,0:18:38.38,0:18:39.56,Default,,0,0,0,,Thank you for the game
-Dialogue: 0,0:19:08.99,0:19:09.84,Default,,0,0,0,,I resign
-Dialogue: 0,0:19:14.04,0:19:15.48,Default,,0,0,0,,Touya-Kun's done, too
-Dialogue: 0,0:19:17.02,0:19:18.83,Default,,0,0,0,,What!? He's leaving?
-Dialogue: 0,0:19:19.88,0:19:22.03,Default,,0,0,0,,Without watching Shindou-Kun's first comeback match?
-Dialogue: 0,0:19:24.23,0:19:26.56,Default,,0,0,0,,He'd want to watch it if he was a rival...
-Dialogue: 0,0:19:28.63,0:19:31.03,Default,,0,0,0,,Maybe that rumor's false...
-Dialogue: 0,0:19:36.05,0:19:37.84,Default,,0,0,0,,Or... Could it be...
-Dialogue: 0,0:19:45.25,0:19:49.95,Default,,0,0,0,,Maybe he thinks a match against a lower-dan player isn't worth watching...
-Dialogue: 0,0:19:54.26,0:19:59.17,Default,,0,0,0,,Only I can measure Shindou's strength now
-Dialogue: 0,0:20:01.37,0:20:05.75,Default,,0,0,0,,I knew the moment he appeared in front of me that night
-Dialogue: 0,0:20:10.22,0:20:14.79,Default,,0,0,0,,{\fs28}Oh yes, I received the pairings for the first round of the first preliminaries of the Meijin match
-Dialogue: 0,0:20:15.50,0:20:18.36,Default,,0,0,0,,Touya-Kun's opponent for the first round was...
-Dialogue: 0,0:20:21.88,0:20:22.77,Default,,0,0,0,,I just need to wait
-Dialogue: 0,0:20:34.19,0:20:39.05,Default,,0,0,0,,They've already prepared a match between us
+Dialogue: 0,0:12:04.04,0:12:04.87,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:12:05.50,0:12:07.00,Default,,0,0,0,,But it was close.
+Dialogue: 0,0:12:07.33,0:12:11.46,Default,,0,0,0,,That game right now, it looked like one\Nof our games, you were doing well.
+Dialogue: 0,0:12:12.29,0:12:13.34,Default,,0,0,0,,Really?
+Dialogue: 0,0:12:25.68,0:12:26.89,Default,,0,0,0,,Oh yeah, Isumi-san.
+Dialogue: 0,0:12:28.48,0:12:30.06,Default,,0,0,0,,You went to Shindou's place, right?
+Dialogue: 0,0:12:30.44,0:12:31.02,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:12:31.56,0:12:32.98,Default,,0,0,0,,Really? You did?
+Dialogue: 0,0:12:33.44,0:12:35.36,Default,,0,0,0,,How was Shindou?
+Dialogue: 0,0:12:37.49,0:12:39.99,Default,,0,0,0,,I don't quite understand.
+Dialogue: 0,0:12:40.28,0:12:43.74,Default,,0,0,0,,But... it seems like he's over it now.
+Dialogue: 0,0:12:45.12,0:12:48.21,Default,,0,0,0,,We both got to play a good game.
+Dialogue: 0,0:12:50.37,0:12:51.13,Default,,0,0,0,,I see...
+Dialogue: 0,0:12:52.38,0:12:54.92,Default,,0,0,0,,That bastard, making us worry like that.
+Dialogue: 0,0:12:57.05,0:12:58.42,Default,,0,0,0,,Huh? What?
+Dialogue: 0,0:13:13.77,0:13:16.40,Thinking,,0,0,0,,I can't just surround territory right now.
+Dialogue: 0,0:13:20.32,0:13:21.57,Thinking,,0,0,0,,I'll fight back!
+Dialogue: 0,0:13:49.52,0:13:51.48,Thinking,,0,0,0,,Shindou Hikaru...
+Dialogue: 0,0:13:54.10,0:13:56.98,Thinking,,0,0,0,,Kids these days...
+Dialogue: 0,0:13:57.44,0:13:59.07,Background,,0,0,0,,Oh, Sakamaki-san.
+Dialogue: 0,0:13:59.82,0:14:02.49,Default,,0,0,0,,What's wrong? Sighing like that.
+Dialogue: 0,0:14:02.91,0:14:03.91,Default,,0,0,0,,Amano-san.
+Dialogue: 0,0:14:15.75,0:14:16.79,Default,,0,0,0,,Amano-san!
+Dialogue: 0,0:14:18.25,0:14:19.05,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:14:54.08,0:14:55.46,Default,,0,0,0,,Hello, this is Ogata.
+Dialogue: 0,0:14:56.54,0:14:57.71,Default,,0,0,0,,Oh, Amano-san.
+Dialogue: 0,0:14:58.38,0:15:01.00,Default,,0,0,0,,Hello. Do you have some time right now?
+Dialogue: 0,0:15:01.71,0:15:06.72,Default,,0,0,0,,You were asking about Shindou Hikaru first\Ndan earlier weren't you, Master Ogata?
+Dialogue: 0,0:15:06.97,0:15:10.35,Default,,0,0,0,,Yes... yes... oh...
+Dialogue: 0,0:15:12.22,0:15:14.10,Default,,0,0,0,,Shindou came to his match...
+Dialogue: 0,0:15:15.19,0:15:18.06,Background,,0,0,0,,Okay... okay... thank you for calling.
+Dialogue: 0,0:15:18.52,0:15:19.02,Background,,0,0,0,,Yeah.
+Dialogue: 0,0:15:23.28,0:15:24.49,Default,,0,0,0,,So he's back...
+Dialogue: 0,0:15:28.53,0:15:34.04,Background,,0,0,0,,Yes... yes... what!? I'll check up on it right now.
+Dialogue: 0,0:15:39.04,0:15:41.21,Default,,0,0,0,,Looks like the editor-in-chief isn't here.
+Dialogue: 0,0:15:41.71,0:15:43.34,Default,,0,0,0,,Oh, Master Kuwabara!
+Dialogue: 0,0:15:43.80,0:15:47.05,Default,,0,0,0,,Here, the manuscript you asked me for.
+Dialogue: 0,0:15:47.43,0:15:48.76,Default,,0,0,0,,Oh, thank you for bringing it here.
+Dialogue: 0,0:15:49.18,0:15:53.27,Default,,0,0,0,,I had some business in the area, so I brought it by.
+Dialogue: 0,0:15:53.56,0:15:54.60,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:16:00.94,0:16:03.11,Default,,0,0,0,,What is it, Amano-san?
+Dialogue: 0,0:16:03.82,0:16:07.91,Default,,0,0,0,,Oh, nothing. I was just thinking about something...
+Dialogue: 0,0:16:09.16,0:16:14.37,Default,,0,0,0,,Master Kuwabara, you were talking about Shindou\NHikaru first dan the other day weren't you?
+Dialogue: 0,0:16:15.08,0:16:17.87,Default,,0,0,0,,About how he will come back?
+Dialogue: 0,0:16:18.17,0:16:21.42,Default,,0,0,0,,Yeah. I was right, wasn't I?
+Dialogue: 0,0:16:22.00,0:16:27.42,Default,,0,0,0,,Yes. But why is everyone so\Ninterested in Shindou-kun?
+Dialogue: 0,0:16:28.01,0:16:34.06,Default,,0,0,0,,Master Kuwabara, Master Ogata, Master\NKurata, even Master Touya...
+Dialogue: 0,0:16:36.56,0:16:37.98,Default,,0,0,0,,Why, you ask?
+Dialogue: 0,0:16:39.23,0:16:42.48,Default,,0,0,0,,I think that's what we all want to know.
+Dialogue: 0,0:16:44.40,0:16:48.86,Default,,0,0,0,,Don't be so impatient. I'm sure we'll\Nall eventually find out, Amano-san.
+Dialogue: 0,0:16:49.11,0:16:51.91,Default,,0,0,0,,My sixth sense tells me so.
+Dialogue: 0,0:16:56.41,0:16:57.66,Default,,0,0,0,,Sixth sense?
+Dialogue: 0,0:17:46.46,0:17:47.30,Thinking,,0,0,0,,Okay!
+Dialogue: 0,0:17:49.13,0:17:49.92,Thinking,,0,0,0,,I can win!
+Dialogue: 0,0:18:16.53,0:18:20.00,Thinking,,0,0,0,,Why is someone this strong here? How can I win?
+Dialogue: 0,0:18:25.58,0:18:26.50,Default,,0,0,0,,I resign.
+Dialogue: 0,0:18:36.64,0:18:37.85,Default,,0,0,0,,Thank you for the game.
+Dialogue: 0,0:18:38.68,0:18:39.85,Default,,0,0,0,,Thank you for the game.
+Dialogue: 0,0:19:09.29,0:19:10.05,Default,,0,0,0,,I resign.
+Dialogue: 0,0:19:14.42,0:19:15.97,Thinking,,0,0,0,,Touya-kun's done, too.
+Dialogue: 0,0:19:17.47,0:19:19.10,Thinking,,0,0,0,,What!? He's leaving?
+Dialogue: 0,0:19:20.22,0:19:22.60,Thinking,,0,0,0,,Without watching Shindou-kun's first comeback match?
+Dialogue: 0,0:19:24.60,0:19:26.98,Thinking,,0,0,0,,He'd want to watch it if he was a rival...
+Dialogue: 0,0:19:28.98,0:19:31.53,Thinking,,0,0,0,,Maybe that rumor's false...
+Dialogue: 0,0:19:36.32,0:19:38.07,Thinking,,0,0,0,,Or...
+Dialogue: 0,0:19:45.54,0:19:46.50,Thinking,,0,0,0,,Could it be...
+Dialogue: 0,0:19:46.92,0:19:50.25,Thinking,,0,0,0,,Maybe he thinks a match against a lower-dan\Nplayer isn't worth watching...
+Dialogue: 0,0:19:54.63,0:19:59.43,Thinking,,0,0,0,,Only I can measure Shindou's strength now.
+Dialogue: 0,0:20:01.68,0:20:05.89,Thinking,,0,0,0,,I knew it the moment he appeared\Nin front of me that night.
+Dialogue: 0,0:20:10.52,0:20:15.11,Thinking,,0,0,0,,Oh yes, I received the pairings for the first round\Nof the first preliminaries of the Meijin match.
+Dialogue: 0,0:20:15.82,0:20:18.66,Thinking,,0,0,0,,Touya-kun's opponent for the first round was...
+Dialogue: 0,0:20:22.08,0:20:22.95,Thinking,,0,0,0,,I just need to wait.
+Dialogue: 0,0:20:34.50,0:20:39.43,Thinking,,0,0,0,,They've already prepared a match between us.
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
 Dialogue: 0,0:00:16.55,0:00:20.71,Op3Kanji,,0,0,0,,時間だけが過ぎる毎日じゃ
