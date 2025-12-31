@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 55
-Active Line: 74
-Video Position: 16383
+Scroll Position: 188
+Active Line: 193
+Video Position: 29720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -144,138 +144,125 @@ Dialogue: 0,0:11:05.68,0:11:09.40,Thinking,,0,0,0,,Now black has nothing to worr
 Dialogue: 0,0:11:19.58,0:11:21.91,Ed5Romaji,,0,0,0,,{\c&H0700D6&\frz270\fs37\bord0\pos(390,34)}By Resignation
 Dialogue: 0,0:11:19.58,0:11:21.91,Default,,0,0,0,,{\c&H000000&\fs30\shad0\bord0\pos(327,448)}{\i1}Shindou{\i0}
 Dialogue: 0,0:11:19.58,0:11:21.91,Default,,0,0,0,,{\c&H000000&\fs30\shad0\bord0\pos(507,448)}{\i1}Tsujioka{\i0}
-Dialogue: 0,0:11:23.19,0:11:23.20,Default,,0,0,0,,Bye
-Dialogue: 0,0:11:24.46,0:11:25.25,Default,,0,0,0,,Good bye
-Dialogue: 0,0:11:26.69,0:11:30.80,Default,,0,0,0,,He won against not only Murakami-kun. But Tsujioka-kun aswell...
-Dialogue: 0,0:11:33.00,0:11:35.34,Default,,0,0,0,,Is the new wave really coming?
-Dialogue: 0,0:11:36.23,0:11:39.45,Default,,0,0,0,,Is Shindou-Kun's strength the real thing?
-Dialogue: 0,0:11:41.50,0:11:45.74,Default,,0,0,0,,Second match of the second preliminaries for the Ouza match
-Dialogue: 0,0:11:50.50,0:11:54.74,Default,,0,0,0,,Touya Akira 3 dan
-Dialogue: 0,0:12:00.50,0:12:05.74,Default,,0,0,0,,Matsunaga Toshiyuki 6 dan
-Dialogue: 0,0:12:06.50,0:12:07.74,Default,,0,0,0,,I resign
-Dialogue: 0,0:12:08.50,0:12:12.34,Default,,0,0,0,,First round of the second preliminaries for the Tengen match
-Dialogue: 0,0:12:21.50,0:12:28.24,Default,,0,0,0,,Touya Akira 3 dan
-Dialogue: 0,0:12:35.50,0:12:40.34,Default,,0,0,0,,Kamimaezu Hiroshi 7 dan
-Dialogue: 0,0:13:02.44,0:13:03.39,Default,,0,0,0,,I resign
-Dialogue: 0,0:13:07.15,0:13:09.62,Default,,0,0,0,,He's defeating high dan players...
-Dialogue: 0,0:13:10.46,0:13:12.72,Default,,0,0,0,,One after another...
-Dialogue: 0,0:13:15.66,0:13:18.97,Default,,0,0,0,,The new wave may really be coming
-Dialogue: 0,0:13:19.76,0:13:21.87,Default,,0,0,0,,With Touya Akira in the lead!
-Dialogue: 0,0:13:31.50,0:13:35.28,Default,,0,0,0,,Fifth game of the Gosei match
-Dialogue: 0,0:13:46.80,0:13:47.78,Default,,0,0,0,,I resign
-Dialogue: 0,0:13:55.27,0:13:57.30,Default,,0,0,0,,Congratulations, Master Ogata
-Dialogue: 0,0:13:57.99,0:14:00.75,Default,,0,0,0,,Not only Jyuudan, but a second title aswell!
-Dialogue: 0,0:14:01.14,0:14:01.87,Default,,0,0,0,,Thank you
-Dialogue: 0,0:14:02.32,0:14:03.16,Default,,0,0,0,,Mr. Nogi
-Dialogue: 0,0:14:03.46,0:14:05.96,Default,,0,0,0,,Looking back on the game just now\N How do you feel about it?
-Dialogue: 0,0:14:07.00,0:14:10.39,Default,,0,0,0,,He stuck in and pushed me past the edge
-Dialogue: 0,0:14:11.21,0:14:12.06,Default,,0,0,0,,I lost
-Dialogue: 0,0:14:12.81,0:14:14.46,Default,,0,0,0,,How disappointing
-Dialogue: 0,0:14:15.48,0:14:19.60,Default,,0,0,0,,To think that you defended the Meijin title three consecutive times ten years ago, Nogi-san
-Dialogue: 0,0:14:19.82,0:14:22.32,Default,,0,0,0,,But now you're getting defeated by the likes of Ogata-kun
+Dialogue: 0,0:11:23.16,0:11:24.00,Default,,0,0,0,,Bye.
+Dialogue: 0,0:11:24.37,0:11:25.21,Default,,0,0,0,,Oh, good-bye.
+Dialogue: 0,0:11:26.69,0:11:30.80,Thinking,,0,0,0,,He won against not only Murakami-kun,\Nbut Tsujioka-kun as well...
+Dialogue: 0,0:11:33.00,0:11:35.34,Thinking,,0,0,0,,Is the new wave really coming?
+Dialogue: 0,0:11:36.26,0:11:39.35,Thinking,,0,0,0,,Is Shindou-Kun's strength the real thing?
+Dialogue: 0,0:11:40.97,0:11:46.64,Default,,0,0,0,,{\c&HFFFFFF&\fs20\fad(459,584)}Second match of the Second preliminaries for the Ouza Match
+Dialogue: 0,0:11:50.15,0:11:54.61,Default,,0,0,0,,{\c&HFFFFFF&\fs20\fad(459,584)\pos(322,449)}Touya Akira 3-dan
+Dialogue: 0,0:12:00.82,0:12:06.12,Default,,0,0,0,,{\c&HFFFFFF&\fs20\fad(459,584)\pos(322,449)}Matsunaga Toshiyuki 6-dan
+Dialogue: 0,0:12:06.50,0:12:07.71,Default,,0,0,0,,I resign.
+Dialogue: 0,0:12:08.79,0:12:12.84,Default,,0,0,0,,{\c&HFFFFFF&\fs20\fad(459,584)}First round of the second preliminaries for the Tengen match
+Dialogue: 0,0:12:21.30,0:12:28.52,Default,,0,0,0,,{\c&HFFFFFF&\fs20\fad(459,584)\pos(322,449)}Touya Akira 3-dan
+Dialogue: 0,0:12:35.19,0:12:40.86,Default,,0,0,0,,{\c&HFFFFFF&\fs20\fad(459,584)\pos(322,449)}Kamimaezu Hiroshi 7-dan
+Dialogue: 0,0:13:02.47,0:13:03.39,Default,,0,0,0,,I resign
+Dialogue: 0,0:13:07.15,0:13:09.62,Thinking,,0,0,0,,He's defeating high dan players...
+Dialogue: 0,0:13:10.52,0:13:12.60,Thinking,,0,0,0,,one after another...
+Dialogue: 0,0:13:15.69,0:13:19.11,Thinking,,0,0,0,,The new wave may really be coming.
+Dialogue: 0,0:13:19.76,0:13:21.61,Thinking,,0,0,0,,With Touya Akira in the lead!
+Dialogue: 0,0:13:31.17,0:13:35.54,Default,,0,0,0,,{\c&HFFFFFF&\fs20\fad(459,584)}Fifth Game of the Gosei Match
+Dialogue: 0,0:13:46.80,0:13:47.56,Default,,0,0,0,,I resign
+Dialogue: 0,0:13:55.27,0:13:57.30,Default,,0,0,0,,Congratulations, Master Ogata.
+Dialogue: 0,0:13:58.03,0:14:00.75,Default,,0,0,0,,Not only Jyudan, but a second title as well!
+Dialogue: 0,0:14:01.14,0:14:01.90,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:14:02.28,0:14:05.99,Default,,0,0,0,,Mr. Nogi, looking back on the game\Njust now, how do you feel about it?
+Dialogue: 0,0:14:07.00,0:14:10.39,Default,,0,0,0,,He stuck in and pushed me past the edge.
+Dialogue: 0,0:14:11.21,0:14:12.06,Default,,0,0,0,,I lost.
+Dialogue: 0,0:14:12.81,0:14:14.46,Background,,0,0,0,,How disappointing.
+Dialogue: 0,0:14:15.48,0:14:19.67,Default,,0,0,0,,To think that you defended the Meijin title three\Nconsecutive times ten years ago, Nogi-san.
+Dialogue: 0,0:14:19.71,0:14:22.47,Default,,0,0,0,,But now you're getting defeated\Nby the likes of Ogata-kun.
 Dialogue: 0,0:14:22.74,0:14:23.92,Default,,0,0,0,,Master Kuwabara...
-Dialogue: 0,0:14:24.53,0:14:26.71,Default,,0,0,0,,I watched your game in another room
-Dialogue: 0,0:14:28.98,0:14:29.69,Default,,0,0,0,,Nogi-san,
-Dialogue: 0,0:14:29.91,0:14:33.37,Default,,0,0,0,,We veterans have to stick in there
-Dialogue: 0,0:14:35.52,0:14:41.65,Default,,0,0,0,,{\fs28}Master Kuwabara, you defended your Honinbou title successfully against Kurata-kun didn't you?
-Dialogue: 0,0:14:43.92,0:14:49.83,Default,,0,0,0,,I hear Ichiryuu-san and Hatanaka-kun will be competing in the Meijin match next month
-Dialogue: 0,0:14:50.37,0:14:55.18,Default,,0,0,0,,I'm sure Ichiryuu-san will cut apart that young Hatanaka boy
-Dialogue: 0,0:14:55.51,0:14:59.38,Default,,0,0,0,,We can't let these young ones take the world yet
-Dialogue: 0,0:14:59.91,0:15:01.01,Default,,0,0,0,,Excuse me
-Dialogue: 0,0:15:01.27,0:15:04.77,Default,,0,0,0,,But Master Ogata already has two titles, Master Kuwabara
-Dialogue: 0,0:15:07.04,0:15:10.21,Default,,0,0,0,,I was satisfied with just Honinbou...
-Dialogue: 0,0:15:10.46,0:15:16.70,Default,,0,0,0,,But I may have to seriously try to get the Gosei and Jyudan titles if Ogata-kun holds them
-Dialogue: 0,0:15:17.19,0:15:20.14,Default,,0,0,0,,I've had pretty good luck against Ogata-kun...
+Dialogue: 0,0:14:24.53,0:14:26.71,Default,,0,0,0,,I watched your game in another room.
+Dialogue: 0,0:14:28.93,0:14:33.19,Default,,0,0,0,,Nogi-san, we veterans have to stick in there.
+Dialogue: 0,0:14:35.52,0:14:41.69,Default,,0,0,0,,Master Kuwabara, you defended your Honinbou\Ntitle successfully against Kurata-kun didn't you?
+Dialogue: 0,0:14:43.86,0:14:49.83,Default,,0,0,0,,I hear Ichiryuu-san and Hatanaka-kun will be\Ncompeting in the Meijin match next month.
+Dialogue: 0,0:14:50.37,0:14:55.00,Default,,0,0,0,,I'm sure Ichiryuu-san will cut apart\Nthat young Hatanaka boy.
+Dialogue: 0,0:14:55.46,0:14:59.21,Background,,0,0,0,,We can't let these young ones take the world yet.
+Dialogue: 0,0:14:59.91,0:15:04.84,Default,,0,0,0,,Excuse me Master Kuwabara, but Master\NOgata already has two titles.
+Dialogue: 0,0:15:07.04,0:15:10.10,Default,,0,0,0,,I was satisfied with just Honinbou...
+Dialogue: 0,0:15:10.46,0:15:16.77,Default,,0,0,0,,but I may have to seriously try to get the Gosei\Nand Jyudan titles if Ogata-kun holds them.
+Dialogue: 0,0:15:17.19,0:15:20.19,Default,,0,0,0,,I've had pretty good luck against Ogata-kun...
 Dialogue: 0,0:15:22.04,0:15:23.84,Default,,0,0,0,,Right, Ogata-kun?
-Dialogue: 0,0:15:27.92,0:15:30.93,Default,,0,0,0,,I'll be waiting for you in the defender's chair
-Dialogue: 0,0:15:37.16,0:15:38.38,Default,,0,0,0,,Oh no...
-Dialogue: 0,0:15:39.54,0:15:41.41,Default,,0,0,0,, He's gaining confidence...
-Dialogue: 0,0:15:42.76,0:15:44.00,Default,,0,0,0,,Master Ogata...
-Dialogue: 0,0:15:49.92,0:15:50.97,Default,,0,0,0,,Good morning
-Dialogue: 0,0:15:52.33,0:15:53.41,Default,,0,0,0,,Good morning
-Dialogue: 0,0:15:58.42,0:15:59.67,Default,,0,0,0,,Impressive
-Dialogue: 0,0:16:00.61,0:16:05.57,Default,,0,0,0,,It's been less than two years since I played you in the new first dan series
-Dialogue: 0,0:16:09.10,0:16:14.19,Default,,0,0,0,,Back then, I defeated you even with a reverse komi handicap of five and a half moku
-Dialogue: 0,0:16:15.02,0:16:17.60,Default,,0,0,0,,I was that much better than you
-Dialogue: 0,0:16:21.26,0:16:22.93,Default,,0,0,0,,We're playing an even game today
-Dialogue: 0,0:16:23.32,0:16:26.24,Default,,0,0,0,,Show me how much you've improved
-Dialogue: 0,0:16:28.30,0:16:31.62,Default,,0,0,0,,I recorded that new first dan series game, too
-Dialogue: 0,0:16:33.52,0:16:34.87,Default,,0,0,0,,It's truely incredible
-Dialogue: 0,0:16:35.61,0:16:37.59,Default,,0,0,0,,Touya-Kun was a new first dan just awhile ago
-Dialogue: 0,0:16:37.91,0:16:39.84,Default,,0,0,0,, And he's already in the Honinbou league
-Dialogue: 0,0:16:48.35,0:16:49.48,Default,,0,0,0,,Good luck
-Dialogue: 0,0:16:53.15,0:16:54.38,Default,,0,0,0,,Yes, publishing section
-Dialogue: 0,0:16:55.07,0:16:56.34,Default,,0,0,0,,Hello, Miyake-san
-Dialogue: 0,0:16:57.38,0:16:59.09,Default,,0,0,0,,What!?
-Dialogue: 0,0:16:59.92,0:17:00.69,Default,,0,0,0,,Really!
-Dialogue: 0,0:17:01.88,0:17:02.58,Default,,0,0,0,,Okay...
-Dialogue: 0,0:17:03.75,0:17:04.92,Default,,0,0,0,,I understand
-Dialogue: 0,0:17:06.20,0:17:09.35,Default,,0,0,0,,Miyake? Miyake-san from Maichou newspaper?
-Dialogue: 0,0:17:09.98,0:17:10.70,Default,,0,0,0,, What was it about?
-Dialogue: 0,0:17:11.47,0:17:15.76,Default,,0,0,0,,Master T-Touya Kouyou has signed a contract with the Bei'jing team of China!
-Dialogue: 0,0:17:16.39,0:17:17.43,Default,,0,0,0,,Bei'jing team?
-Dialogue: 0,0:17:18.58,0:17:22.57,Default,,0,0,0,,The Bei'jing team in China's team league?
-Dialogue: 0,0:17:23.12,0:17:24.12,Default,,0,0,0,,Team league?
-Dialogue: 0,0:17:24.81,0:17:28.52,Default,,0,0,0,,China has something similar to Japan's J-league for GO
-Dialogue: 0,0:17:29.32,0:17:34.26,Default,,0,0,0,,I heard that there were teams who had contracts with top Korean players, but...
-Dialogue: 0,0:17:35.37,0:17:36.17,Default,,0,0,0,,I see!
-Dialogue: 0,0:17:37.38,0:17:38.19,Default,,0,0,0,,What is it!
-Dialogue: 0,0:17:38.75,0:17:40.58,Default,,0,0,0,,Now that Master Touya has retired
-Dialogue: 0,0:17:40.93,0:17:43.99,Default,,0,0,0,, He's free from Japan's match schedule!
-Dialogue: 0,0:17:45.28,0:17:48.75,Default,,0,0,0,,China's contracts don't pay very much for a Japanese
-Dialogue: 0,0:17:49.34,0:17:50.30,Default,,0,0,0,,But for Master Touya
-Dialogue: 0,0:17:50.52,0:17:53.80,Default,,0,0,0,,The benefit of getting to play against the best players in the world must be enough
-Dialogue: 0,0:17:54.42,0:17:54.97,Default,,0,0,0,,Yoshikawa-kun!
-Dialogue: 0,0:17:55.56,0:17:56.09,Default,,0,0,0,,Yes!
-Dialogue: 0,0:17:56.48,0:17:58.37,Default,,0,0,0,,Call Master Touya now!
-Dialogue: 0,0:17:58.68,0:17:59.93,Default,,0,0,0,, Get his comments on it
-Dialogue: 0,0:18:05.58,0:18:06.30,Default,,0,0,0,,Yang Hai
+Dialogue: 0,0:15:27.92,0:15:30.83,Default,,0,0,0,,I'll be waiting for you in the defender's chair.
+Dialogue: 0,0:15:37.12,0:15:41.30,Thinking,,0,0,0,,Oh no... he's gaining confidence...
+Dialogue: 0,0:15:42.76,0:15:44.00,Thinking,,0,0,0,,Master Ogata...
+Dialogue: 0,0:15:50.18,0:15:51.18,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:15:52.31,0:15:53.43,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:15:58.40,0:15:59.77,Default,,0,0,0,,Impressive.
+Dialogue: 0,0:16:00.61,0:16:05.57,Default,,0,0,0,,It's been less than two years since I played\Nyou in the new first dan series.
+Dialogue: 0,0:16:08.99,0:16:14.19,Default,,0,0,0,,Back then, I defeated you even with a reverse\Nkomi handicap of five and a half moku.
+Dialogue: 0,0:16:15.02,0:16:17.60,Default,,0,0,0,,I was that much better than you.
+Dialogue: 0,0:16:21.21,0:16:22.84,Default,,0,0,0,,We're playing an even game today.
+Dialogue: 0,0:16:23.30,0:16:26.30,Default,,0,0,0,,Show me how much you've improved.
+Dialogue: 0,0:16:28.30,0:16:31.62,Thinking,,0,0,0,,I recorded that new first dan series game, too.
+Dialogue: 0,0:16:33.52,0:16:34.85,Thinking,,0,0,0,,It's incredible.
+Dialogue: 0,0:16:35.61,0:16:39.81,Thinking,,0,0,0,,Touya-kun was a new first dan just awhile ago,\Nand he's already in the Honinbou league.
+Dialogue: 0,0:16:48.35,0:16:49.48,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:16:53.28,0:16:54.45,Default,,0,0,0,,Yes, publishing section.
+Dialogue: 0,0:16:55.33,0:16:56.50,Default,,0,0,0,,Hello, Miyake-san.
+Dialogue: 0,0:16:58.04,0:16:58.75,Background,,0,0,0,,What!?
+Dialogue: 0,0:16:59.92,0:17:00.75,Default,,0,0,0,,Really!?
+Dialogue: 0,0:17:01.83,0:17:04.96,Default,,0,0,0,,Okay... I understand.
+Dialogue: 0,0:17:06.20,0:17:10.76,Default,,0,0,0,,Miyake? Miyake-san from Maichou\Nnewspaper? What was it about?
+Dialogue: 0,0:17:11.47,0:17:15.89,Default,,0,0,0,,Master T-Touya Kouyou has signed a contract\Nwith the Bei'jing team of China!
+Dialogue: 0,0:17:16.31,0:17:17.56,Default,,0,0,0,,Bei'jing team?
+Dialogue: 0,0:17:18.58,0:17:22.73,Default,,0,0,0,,The Bei'jing team in China's team league?
+Dialogue: 0,0:17:23.12,0:17:24.19,Default,,0,0,0,,Team league?
+Dialogue: 0,0:17:23.15,0:17:34.41,Note,,0,0,0,,{\fad(334,334)}Translator's Note: J-League is a Japanese soccer thing. I don't\Nplay soccer. I don't play baseball either. I won't comment any\Nmore on J-League in fear of pulling another carps fiasco.
+Dialogue: 0,0:17:24.77,0:17:28.69,Default,,0,0,0,,China has something similar\Nto Japan's J-league for Go.
+Dialogue: 0,0:17:29.44,0:17:34.41,Default,,0,0,0,,I heard that there were teams who had contracts\Nwith top Korean players, but...
+Dialogue: 0,0:17:35.37,0:17:36.08,Default,,0,0,0,,I see!
+Dialogue: 0,0:17:37.54,0:17:38.25,Default,,0,0,0,,What is it?
+Dialogue: 0,0:17:38.75,0:17:44.04,Default,,0,0,0,,Now that Master Touya has retired, he's\Nfree from Japan's match schedule!
+Dialogue: 0,0:17:45.28,0:17:48.84,Background,,0,0,0,,China's contracts don't pay\Nvery much for a Japanese,
+Dialogue: 0,0:17:49.38,0:17:50.38,Default,,0,0,0,,but for Master Touya,
+Dialogue: 0,0:17:50.38,0:17:53.76,Default,,0,0,0,,the benefit of getting to play against the best\Nplayers in the world must be enough.
+Dialogue: 0,0:17:54.39,0:17:55.05,Default,,0,0,0,,Yoshikawa-kun!
+Dialogue: 0,0:17:55.60,0:17:56.09,Default,,0,0,0,,Yes!
+Dialogue: 0,0:17:56.51,0:18:00.02,Default,,0,0,0,,Call Master Touya now! Get his comments on it.
+Dialogue: 0,0:18:05.48,0:18:06.27,Background,,0,0,0,,Yang Hai!
 Dialogue: 0,0:18:07.71,0:18:08.61,Default,,0,0,0,,Did you hear?
-Dialogue: 0,0:18:09.22,0:18:12.22,Default,,0,0,0,,Master Touya from Japan just joined the Bei'jing team!
-Dialogue: 0,0:18:12.57,0:18:13.31,Default,,0,0,0,,I know
-Dialogue: 0,0:18:13.71,0:18:15.46,Default,,0,0,0,, There's already a commotion about it on the net
-Dialogue: 0,0:18:16.07,0:18:18.67,Default,,0,0,0,,This makes the Bei'jing team a lot stronger
-Dialogue: 0,0:18:18.87,0:18:21.83,Default,,0,0,0,,The team league is going to get alot more interesting
-Dialogue: 0,0:18:22.60,0:18:24.49,Default,,0,0,0,,Now the Shang'hai team
-Dialogue: 0,0:18:24.72,0:18:25.88,Default,,0,0,0,, That Wang Xing and I are in, is going to be in trouble
-Dialogue: 0,0:18:26.32,0:18:27.30,Default,,0,0,0,,You seem happy
-Dialogue: 0,0:18:27.67,0:18:29.97,Default,,0,0,0,, Aren't you a Touya Kouyou fan?
-Dialogue: 0,0:18:30.58,0:18:33.84,Default,,0,0,0,,Yeah! He's closest to mastering the divine move!
-Dialogue: 0,0:18:34.55,0:18:35.76,Default,,0,0,0,,The divine move, huh?
-Dialogue: 0,0:18:39.97,0:18:42.42,Default,,0,0,0,,The divine move will be born in this
+Dialogue: 0,0:18:09.23,0:18:12.22,Default,,0,0,0,,Master Touya from Japan just\Njoined the Bei'jing team!
+Dialogue: 0,0:18:12.53,0:18:15.32,Default,,0,0,0,,I know. There's already a commotion\Nabout it on the net.
+Dialogue: 0,0:18:16.07,0:18:18.41,Default,,0,0,0,,This makes the Bei'jing team a lot stronger.
+Dialogue: 0,0:18:18.87,0:18:21.83,Default,,0,0,0,,The team league is going to\Nget a lot more interesting.
+Dialogue: 0,0:18:22.60,0:18:25.88,Default,,0,0,0,,Now the Shang'hai team, that Wang Xing\Nand I are in, is going to be in trouble.
+Dialogue: 0,0:18:26.32,0:18:30.09,Default,,0,0,0,,You seem happy. Aren't you a Touya Kouyou fan?
+Dialogue: 0,0:18:30.59,0:18:33.97,Default,,0,0,0,,Yeah! He's closest to mastering the divine move!
+Dialogue: 0,0:18:34.55,0:18:35.68,Default,,0,0,0,,The divine move, huh?
+Dialogue: 0,0:18:39.97,0:18:42.42,Default,,0,0,0,,The divine move will be born in this.
 Dialogue: 0,0:18:43.12,0:18:44.24,Default,,0,0,0,,The computer?
-Dialogue: 0,0:18:45.73,0:18:50.42,Default,,0,0,0,,Didn't they say it'll take a century before computers can beat people at Go?
-Dialogue: 0,0:18:50.88,0:18:52.65,Default,,0,0,0,,I won't need a century
-Dialogue: 0,0:18:53.15,0:18:54.70,Default,,0,0,0,,I found a sponser for the project
-Dialogue: 0,0:18:54.97,0:18:56.16,Default,,0,0,0,, I can start now
-Dialogue: 0,0:18:56.68,0:18:59.55,Default,,0,0,0,,We've already started inputting the data somewhere else
-Dialogue: 0,0:19:00.35,0:19:01.27,Default,,0,0,0,,I see!
-Dialogue: 0,0:19:01.64,0:19:05.55,Default,,0,0,0,,Your Bei'jing team is weak because you're always doing crap like that!
-Dialogue: 0,0:19:06.39,0:19:08.32,Default,,0,0,0,,Hey! This has nothing to do with it!
-Dialogue: 0,0:19:08.72,0:19:10.99,Default,,0,0,0,,At least my own win rate is...
-Dialogue: 0,0:19:11.28,0:19:12.65,Default,,0,0,0,,Worse than mine?
-Dialogue: 0,0:19:18.66,0:19:19.36,Default,,0,0,0,,I can't get through.
-Dialogue: 0,0:19:19.74,0:19:22.32,Default,,0,0,0,,No one's picking up at Master Touya's house
-Dialogue: 0,0:19:23.08,0:19:24.98,Default,,0,0,0,,I checked the Chinese websites.
-Dialogue: 0,0:19:25.38,0:19:27.23,Default,,0,0,0,,It's for real
-Dialogue: 0,0:19:28.56,0:19:31.81,Default,,0,0,0,,I saw Akira-Kun this morning \NBut he didn't say anything
-Dialogue: 0,0:19:32.52,0:19:34.49,Default,,0,0,0,,I wonder if he knows anything about this
-Dialogue: 0,0:19:35.08,0:19:37.95,Default,,0,0,0,,Since he joined the Bei'jing team...
-Dialogue: 0,0:19:38.14,0:19:42.77,Default,,0,0,0,,This means that Master Touya will be going to China regularly from now on, right?
-Dialogue: 0,0:19:43.43,0:19:45.79,Default,,0,0,0,,I wonder how many games he has every year... I should check up on it
-Dialogue: 0,0:19:46.35,0:19:48.87,Default,,0,0,0,,Weekly Go's going to have to follow up on that from now on
-Dialogue: 0,0:19:49.47,0:19:50.48,Default,,0,0,0,,It's going to get busy
-Dialogue: 0,0:19:51.12,0:19:52.21,Default,,0,0,0,,Right, Amano-san?
-Dialogue: 0,0:19:53.98,0:19:54.71,Default,,0,0,0,,Amano-san?
-Dialogue: 0,0:19:59.67,0:20:00.40,Default,,0,0,0,,Yoshikawa-kun
-Dialogue: 0,0:20:00.95,0:20:01.56,Default,,0,0,0,,Yes?
-Dialogue: 0,0:20:02.49,0:20:06.22,Default,,0,0,0,,Doesn't it feel like the Go world is...
-Dialogue: 0,0:20:08.30,0:20:10.93,Default,,0,0,0,,Moving... The whole Go world
-Dialogue: 0,0:20:22.48,0:20:23.20,Default,,0,0,0,,Touya.
-Dialogue: 0,0:20:30.59,0:20:31.43,Default,,0,0,0,,I want to play you
-Dialogue: 0,0:20:32.09,0:20:32.92,Default,,0,0,0,,As soon as possible
-Dialogue: 0,0:20:37.06,0:20:37.76,Default,,0,0,0,,Against you.
-Dialogue: 0,0:20:38.17,0:20:39.15,Default,,0,0,0,,As soon as possible
+Dialogue: 0,0:18:44.69,0:18:45.23,Background,,0,0,0,,Yeah.
+Dialogue: 0,0:18:45.73,0:18:50.53,Default,,0,0,0,,Didn't they say it'll take a century before\Ncomputers can beat people at Go?
+Dialogue: 0,0:18:50.88,0:18:52.53,Default,,0,0,0,,I won't need a century.
+Dialogue: 0,0:18:53.15,0:18:56.20,Default,,0,0,0,,I found a sponsor for the project. I can start now.
+Dialogue: 0,0:18:56.68,0:18:59.58,Background,,0,0,0,,We've already started inputting\Nthe data somewhere else.
+Dialogue: 0,0:19:00.35,0:19:01.45,Default,,0,0,0,,I see!
+Dialogue: 0,0:19:01.64,0:19:05.62,Default,,0,0,0,,Your Bei'jing team is weak because\Nyou're always doing crap like that!
+Dialogue: 0,0:19:06.39,0:19:08.38,Default,,0,0,0,,Hey! This has nothing to do with it!
+Dialogue: 0,0:19:08.72,0:19:11.09,Default,,0,0,0,,At least my own win rate is...
+Dialogue: 0,0:19:11.25,0:19:12.80,Default,,0,0,0,,Worse than mine.
+Dialogue: 0,0:19:18.66,0:19:22.47,Default,,0,0,0,,I can't get through. No one's picking\Nup at Master Touya's house.
+Dialogue: 0,0:19:23.14,0:19:27.31,Default,,0,0,0,,I checked a few Chinese websites. It's for real.
+Dialogue: 0,0:19:28.56,0:19:31.86,Thinking,,0,0,0,,I saw Akira-kun this morning, but he didn't say anything.
+Dialogue: 0,0:19:32.52,0:19:34.57,Thinking,,0,0,0,,I wonder if he knows anything about this.
+Dialogue: 0,0:19:35.08,0:19:39.16,Default,,0,0,0,,Since he joined the Bei'jing team...
+Dialogue: 0,0:19:39.45,0:19:42.99,Default,,0,0,0,,this means that Master Touya will be going\Nto China regularly from now on, right?
+Dialogue: 0,0:19:43.33,0:19:45.87,Default,,0,0,0,,I wonder how many games he has every\Nyear... I should check up on it.
+Dialogue: 0,0:19:46.29,0:19:49.00,Default,,0,0,0,,Weekly Go's going to have to follow\Nup on that from now on.
+Dialogue: 0,0:19:49.47,0:19:50.54,Default,,0,0,0,,It's going to get busy.
+Dialogue: 0,0:19:51.12,0:19:52.25,Default,,0,0,0,,Right, Amano-san?
+Dialogue: 0,0:19:53.88,0:19:54.67,Background,,0,0,0,,Amano-san?
+Dialogue: 0,0:19:59.64,0:20:00.43,Background,,0,0,0,,Yoshikawa-kun.
+Dialogue: 0,0:20:00.95,0:20:01.60,Default,,0,0,0,,Yes?
+Dialogue: 0,0:20:02.49,0:20:06.27,Default,,0,0,0,,Doesn't it feel like the Go world is...
+Dialogue: 0,0:20:08.19,0:20:09.10,Background,,0,0,0,,moving?
+Dialogue: 0,0:20:09.65,0:20:11.02,Background,,0,0,0,,The whole Go world.
+Dialogue: 0,0:20:22.48,0:20:23.33,Thinking,,0,0,0,,Touya.
+Dialogue: 0,0:20:30.63,0:20:31.63,Thinking,,0,0,0,,I want to play you.
+Dialogue: 0,0:20:32.09,0:20:33.04,Thinking,,0,0,0,,As soon as possible.
+Dialogue: 0,0:20:37.06,0:20:38.97,Thinking,,0,0,0,,Against you. As soon as possible.
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
 Dialogue: 0,0:00:16.55,0:00:20.71,Op3Kanji,,0,0,0,,時間だけが過ぎる毎日じゃ
