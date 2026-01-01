@@ -11,15 +11,11 @@ The used fonts are in fonts.7z, either extract and right click install them, or 
 
 ## Progress
 
+### Status Legend
 - ✅ Complete
 - ⏳ WIP
 - ❌ Still to do
-
-### Status Legend
-- ✅ Complete
-- ⏳ Pending
-- ❌ Not Started
-
+- 
 | Episode | Subbed | Checked | Ending Igo |
 |:------:|:------:|:-------:|:---------:|
 | 1  | ✅ | ✅ | ✅ |
