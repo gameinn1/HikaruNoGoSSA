@@ -92,7 +92,7 @@ The used fonts are in fonts.7z, either extract and right click install them, or 
 | 72 | ✅ | ✅ | ❌ |
 | 73 | ✅ | ✅ | ❌ |
 | 74 | ✅ | ✅ | ❌ |
-| 75 | ✅ | ⏳ | ✅ |
+| 75 | ⏳ | ⏳ | ✅ |
 
 Changelog since starting (sorry for how this is all laid out I barely know how Github works).
 
