@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 70
-Active Line: 83
-Video Position: 15727
+Scroll Position: 151
+Active Line: 161
+Video Position: 29489
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -153,98 +153,84 @@ Dialogue: 0,0:09:51.15,0:09:52.74,Default,,0,0,0,,We have Shindou-kun.
 Dialogue: 0,0:10:23.77,0:10:24.77,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:10:30.28,0:10:32.11,Thinking,,0,0,0,,I saw a glimmer of Sai in him.
 Dialogue: 0,0:10:55.97,0:10:57.80,Thinking,,0,0,0,,The other person that I see...
-Dialogue: 0,0:11:01.35,0:11:02.73,Default,,0,0,0,,Coming in and out of you
-Dialogue: 0,0:11:12.94,0:11:13.74,Default,,0,0,0,,That...
-Dialogue: 0,0:11:18.20,0:11:20.20,Default,,0,0,0,,That shadow I've...
-Dialogue: 0,0:11:30.00,0:11:31.21,Default,,0,0,0,,I've always been chasing after...
-Dialogue: 0,0:12:16.26,0:12:17.05,Default,,0,0,0,,Shindou-Kun?
-Dialogue: 0,0:12:19.84,0:12:20.76,Default,,0,0,0,,Shindou?
-Dialogue: 0,0:12:21.80,0:12:25.14,Default,,0,0,0,,Shindou? The kid who didn't show up to his matches?
-Dialogue: 0,0:12:26.23,0:12:28.64,Default,,0,0,0,,Do you mean him, Amano-san?
-Dialogue: 0,0:12:30.94,0:12:36.15,Default,,0,0,0,,Yes. I believe he has just as much potential as Touya-Kun
-Dialogue: 0,0:12:39.99,0:12:41.28,Default,,0,0,0,,You think?
-Dialogue: 0,0:12:43.58,0:12:49.67,Default,,0,0,0,,People like Touya Kouyou, Kuwabara Honinbou, and Ogata Jyudan...
-Dialogue: 0,0:12:50.21,0:12:52.54,Default,,0,0,0,,Have been interested in him for some reason
-Dialogue: 0,0:13:07.10,0:13:10.52,Default,,0,0,0,,Are you talking about how Master Touya requested to...
-Dialogue: 0,0:13:10.77,0:13:12.77,Default,,0,0,0,,Play Shindou-Kun for the new first-dan series game?
-Dialogue: 0,0:13:13.61,0:13:17.19,Default,,0,0,0,,But the game itself was horrible
-Dialogue: 0,0:13:18.65,0:13:22.32,Default,,0,0,0,,Yes. But strangely, Master Kuwabara and the others...
-Dialogue: 0,0:13:22.53,0:13:25.08,Default,,0,0,0,,Did not change their opinion of Shindou-Kun because of that
-Dialogue: 0,0:13:26.79,0:13:31.79,Default,,0,0,0,,And ever since I learned that Touya-Kun sees Shindou-Kun as a rival
-Dialogue: 0,0:13:33.33,0:13:36.75,Default,,0,0,0,,I've become one of the people who is counting on Shindou-Kun
-Dialogue: 0,0:13:38.38,0:13:39.26,Default,,0,0,0,,Touya-Kun does!?
-Dialogue: 0,0:13:39.88,0:13:42.51,Default,,0,0,0,, It would be great if that were true
-Dialogue: 0,0:13:44.22,0:13:49.85,Default,,0,0,0,,{\fs28}Oh yes, I've heard of a rumor that Master Kuwabara thinks highly of Shindou-Kun
-Dialogue: 0,0:13:50.56,0:13:53.56,Default,,0,0,0,,Oh yes, Kurata-san said...
-Dialogue: 0,0:13:56.15,0:13:58.78,Default,,0,0,0,,Oh! The match between Shindou and Touya is this week!
-Dialogue: 0,0:14:00.49,0:14:01.70,Default,,0,0,0,,...The other day
-Dialogue: 0,0:14:02.32,0:14:03.82,Default,,0,0,0,, Maybe Kurata-san too?
-Dialogue: 0,0:14:04.91,0:14:08.08,Default,,0,0,0,,Even Kurata-kun thinks highly of him?
-Dialogue: 0,0:14:10.37,0:14:12.83,Default,,0,0,0,,How has he done since he started coming to his matches?
-Dialogue: 0,0:14:14.50,0:14:16.34,Default,,0,0,0,,He played eight games and won them all
-Dialogue: 0,0:14:19.71,0:14:20.80,Default,,0,0,0,,That sounds great
-Dialogue: 0,0:14:21.51,0:14:25.22,Default,,0,0,0,, I hope the young people keep replacing the top players like this
-Dialogue: 0,0:14:25.72,0:14:29.06,Default,,0,0,0,,Nah, the old folks won't give up that easily
-Dialogue: 0,0:14:29.72,0:14:33.19,Default,,0,0,0,,But Master Ogata has already cut into them
-Dialogue: 0,0:14:33.64,0:14:35.23,Default,,0,0,0,,We have Kurata-kun, too!
-Dialogue: 0,0:14:35.56,0:14:37.77,Default,,0,0,0,,No, it's about Touya-Kun
-Dialogue: 0,0:14:38.23,0:14:41.69,Default,,0,0,0,, He will surpass Master Ogata and Master Kurata!
-Dialogue: 0,0:14:42.90,0:14:46.45,Default,,0,0,0,,Oh, the match between Touya-Kun and Shindou-Kun is going on today!
-Dialogue: 0,0:14:50.45,0:14:53.96,Default,,0,0,0,,I get so excited thinking about the future
-Dialogue: 0,0:14:59.46,0:15:00.84,Default,,0,0,0,,Amano-san?
-Dialogue: 0,0:15:03.88,0:15:05.34,Default,,0,0,0,,We have Touya-Kun
-Dialogue: 0,0:15:10.31,0:15:11.72,Default,,0,0,0,,We have Shindou-Kun
-Dialogue: 0,0:15:13.43,0:15:17.27,Default,,0,0,0,,And with Ochi-kun and Waya-kun and the others thrown in
-Dialogue: 0,0:15:18.11,0:15:21.73,Default,,0,0,0,, They form a new wave
-Dialogue: 0,0:15:27.61,0:15:29.37,Default,,0,0,0,,Yeah! The strength of youth!
-Dialogue: 0,0:15:29.99,0:15:31.20,Default,,0,0,0,, The arrival of the next generation!
-Dialogue: 0,0:15:31.58,0:15:34.12,Default,,0,0,0,,Yes, with Touya-Kun in the lead
-Dialogue: 0,0:15:34.71,0:15:38.38,Default,,0,0,0,,And I hear Shindou-Kun is just as good as Touya-Kun
-Dialogue: 0,0:15:39.63,0:15:41.55,Default,,0,0,0,,Then we can finally aim for the world!
-Dialogue: 0,0:15:41.92,0:15:45.01,Default,,0,0,0,, It'll be a comeback for Japan! Right, Amano-san?
-Dialogue: 0,0:15:46.34,0:15:47.22,Default,,0,0,0,,Sounds great
-Dialogue: 0,0:15:47.59,0:15:50.05,Default,,0,0,0,, Our sales would improve alot if that were to happen
-Dialogue: 0,0:15:58.98,0:16:01.90,Default,,0,0,0,,But, we have no idea what will happen
-Dialogue: 0,0:16:14.33,0:16:17.37,Default,,0,0,0,,Let's put an end to our talk of dreams now
-Dialogue: 0,0:16:52.07,0:16:53.78,Default,,0,0,0,,Time for lunch!
-Dialogue: 0,0:17:10.80,0:17:12.84,Default,,0,0,0,,This games been moving really quickly
-Dialogue: 0,0:17:14.01,0:17:16.43,Default,,0,0,0,,There's a really complex battle going on
-Dialogue: 0,0:17:21.69,0:17:25.73,Default,,0,0,0,,But he's doing well against Touya despite the difficulty
-Dialogue: 0,0:17:26.32,0:17:27.07,Default,,0,0,0,,Shindou...
-Dialogue: 0,0:17:28.24,0:17:29.24,Default,,0,0,0,,Saeki-kun!
-Dialogue: 0,0:17:29.86,0:17:31.28,Default,,0,0,0,, Wanna go eat together?
-Dialogue: 0,0:17:31.61,0:17:34.24,Default,,0,0,0,, Meals are no good unless you have someone to eat with
-Dialogue: 0,0:17:34.74,0:17:37.95,Default,,0,0,0,,And Akira never eats during a game
-Dialogue: 0,0:17:38.45,0:17:39.12,Default,,0,0,0,,Come on, let's go
-Dialogue: 0,0:17:39.33,0:17:40.12,Default,,0,0,0,, What do you want to eat?
-Dialogue: 0,0:17:40.41,0:17:41.12,Default,,0,0,0,,A-Ashiwara-san!
-Dialogue: 0,0:17:41.46,0:17:42.62,Default,,0,0,0,,H-Hold on!
-Dialogue: 0,0:17:43.25,0:17:46.55,Default,,0,0,0,,What do Touya's students think of Morishita's students?
-Dialogue: 0,0:18:00.14,0:18:02.44,Default,,0,0,0,,We stopped the clock after Touya's Katatsuki
-Dialogue: 0,0:18:12.28,0:18:15.32,Default,,0,0,0,,I should play on the lower left instead of the conflict at the top right
-Dialogue: 0,0:18:16.53,0:18:21.29,Default,,0,0,0,,I'll play at the Kiema to assualt white's weakness
-Dialogue: 0,0:18:23.25,0:18:24.92,Default,,0,0,0,,Touya will definitely connect
-Dialogue: 0,0:18:25.54,0:18:27.50,Default,,0,0,0,, So I'll just get life on the side
-Dialogue: 0,0:18:28.63,0:18:30.13,Default,,0,0,0,,The lower left is still too small
-Dialogue: 0,0:18:30.96,0:18:33.72,Default,,0,0,0,, How should I attack the top?
-Dialogue: 0,0:18:37.60,0:18:39.14,Default,,0,0,0,,I'm at a disadvantage
-Dialogue: 0,0:18:40.06,0:18:43.23,Default,,0,0,0,,No. It's close\NI can still play
-Dialogue: 0,0:18:45.27,0:18:46.19,Default,,0,0,0,,Oh yeah, lunch!
-Dialogue: 0,0:18:47.90,0:18:49.94,Default,,0,0,0,,Touya, what are you doing about lunch?
-Dialogue: 0,0:18:58.03,0:19:00.41,Default,,0,0,0,,I'm gonna go before we run out of time
-Dialogue: 0,0:19:09.63,0:19:11.17,Default,,0,0,0,,Is he not going to eat?
-Dialogue: 0,0:19:19.55,0:19:20.22,Default,,0,0,0,,Sai...
-Dialogue: 0,0:19:32.53,0:19:35.95,Default,,0,0,0,,I thought of Sai from the Internet when I was playing you
-Dialogue: 0,0:19:39.12,0:19:39.83,Default,,0,0,0,,Touya...
-Dialogue: 0,0:19:42.24,0:19:45.25,Default,,0,0,0,,I'm not Sai, unfortunately
-Dialogue: 0,0:19:47.75,0:19:48.46,Default,,0,0,0,,It's you
-Dialogue: 0,0:19:51.88,0:19:52.50,Default,,0,0,0,,Touya?
-Dialogue: 0,0:19:55.01,0:19:56.26,Default,,0,0,0,,It's the other you
-Dialogue: 0,0:19:58.43,0:20:01.26,Default,,0,0,0,,There's another one of you
-Dialogue: 0,0:20:02.89,0:20:04.85,Default,,0,0,0,,The Shindou Hikaru when we first met...
-Dialogue: 0,0:20:08.02,0:20:09.15,Default,,0,0,0,,He is Sai...
-Dialogue: 0,0:20:16.32,0:20:18.57,Default,,0,0,0,,T-Touya...
-Dialogue: 0,0:20:24.12,0:20:29.58,Default,,0,0,0,,There's... Someone else inside of you!
+Dialogue: 0,0:11:01.35,0:11:03.02,Thinking,,0,0,0,,coming in and out of you.
+Dialogue: 0,0:11:12.90,0:11:13.74,Thinking,,0,0,0,,That...
+Dialogue: 0,0:11:18.24,0:11:20.28,Thinking,,0,0,0,,That shadow I've...
+Dialogue: 0,0:11:30.00,0:11:31.80,Thinking,,0,0,0,,I've always been chasing after...
+Dialogue: 0,0:12:16.22,0:12:17.47,Background,,0,0,0,,Shindou-kun?
+Dialogue: 0,0:12:19.89,0:12:20.97,Default,,0,0,0,,Shindou?
+Dialogue: 0,0:12:21.89,0:12:25.22,Default,,0,0,0,,Shindou? The kid who didn't\Nshow up to his matches?
+Dialogue: 0,0:12:26.31,0:12:28.77,Background,,0,0,0,,Do you mean him, Amano-san?
+Dialogue: 0,0:12:30.94,0:12:36.11,Default,,0,0,0,,Yes. I believe he has just as much\Npotential as Touya-kun.
+Dialogue: 0,0:12:39.99,0:12:41.24,Default,,0,0,0,,You think?
+Dialogue: 0,0:12:43.66,0:12:49.83,Default,,0,0,0,,People like Touya Kouyou, Kuwabara\NHoninbou, and Ogata Jyudan...
+Dialogue: 0,0:12:50.17,0:12:52.38,Default,,0,0,0,,have been interested in him for some reason.
+Dialogue: 0,0:13:06.93,0:13:10.64,Default,,0,0,0,,Are you talking about how Master\NTouya requested to...
+Dialogue: 0,0:13:10.73,0:13:12.77,Default,,0,0,0,,play Shindou-kun for the new\Nfirst-dan series game?
+Dialogue: 0,0:13:13.65,0:13:17.36,Default,,0,0,0,,But the game itself was horrible.
+Dialogue: 0,0:13:18.32,0:13:22.45,Default,,0,0,0,,Yes. But strangely, Master Kuwabara\Nand the others...
+Dialogue: 0,0:13:22.53,0:13:25.28,Default,,0,0,0,,did not change their opinion of\NShindou-kun because of that.
+Dialogue: 0,0:13:26.79,0:13:32.00,Background,,0,0,0,,And ever since I learned that Touya-kun\Nsees Shindou-kun as a rival,
+Dialogue: 0,0:13:33.46,0:13:36.67,Default,,0,0,0,,I've become one of the people who\Nis counting on Shindou-kun.
+Dialogue: 0,0:13:38.30,0:13:42.59,Default,,0,0,0,,Touya-kun does!? It would\Nbe great if that were true.
+Dialogue: 0,0:13:43.30,0:13:49.93,Default,,0,0,0,,Oh yes, I've heard of a rumor that Master\NKuwabara thinks highly of Shindou-kun.
+Dialogue: 0,0:13:50.56,0:13:53.94,Default,,0,0,0,,Oh yes, Kurata-san said...
+Dialogue: 0,0:13:56.23,0:13:59.03,Default,,0,0,0,,Oh! The match between Shindou\Nand Touya is this week!
+Dialogue: 0,0:14:00.53,0:14:03.78,Default,,0,0,0,,...the other day. Maybe Kurata-san too?
+Dialogue: 0,0:14:04.11,0:14:08.33,Default,,0,0,0,,What!? Even Kurata-kun thinks highly of him?
+Dialogue: 0,0:14:10.41,0:14:12.87,Default,,0,0,0,,How has he done since he started\Ncoming to his matches?
+Dialogue: 0,0:14:14.50,0:14:16.46,Default,,0,0,0,,He played eight games and won them all.
+Dialogue: 0,0:14:19.71,0:14:25.30,Default,,0,0,0,,That sounds great. I hope the young people\Nkeep replacing the top players like this.
+Dialogue: 0,0:14:25.72,0:14:29.26,Default,,0,0,0,,Nah, the old folks won't give up that easily.
+Dialogue: 0,0:14:29.77,0:14:33.31,Default,,0,0,0,,But Master Ogata has already cut into them.
+Dialogue: 0,0:14:33.69,0:14:35.40,Background,,0,0,0,,We have Kurata-kun, too!
+Dialogue: 0,0:14:35.52,0:14:41.86,Background,,0,0,0,,No, it's about Touya-kun. He will surpass\NMaster Ogata and Master Kurata!
+Dialogue: 0,0:14:42.90,0:14:46.62,Background,,0,0,0,,Oh, the match between Touya-kun and\NShindou-kun is going on today!
+Dialogue: 0,0:14:50.58,0:14:54.04,Default,,0,0,0,,I get so excited thinking about the future.
+Dialogue: 0,0:14:59.42,0:15:00.84,Default,,0,0,0,,Amano-san?
+Dialogue: 0,0:15:04.05,0:15:05.59,Default,,0,0,0,,We have Touya-kun.
+Dialogue: 0,0:15:10.39,0:15:11.81,Background,,0,0,0,,We have Shindou-kun.
+Dialogue: 0,0:15:13.43,0:15:21.48,Background,,0,0,0,,And with Ochi-kun and Waya-kun and the\Nothers thrown in, they form a new wave.
+Dialogue: 0,0:15:27.78,0:15:31.41,Default,,0,0,0,,Yeah! The strength of youth! The\Narrival of the next generation!
+Dialogue: 0,0:15:31.58,0:15:34.25,Default,,0,0,0,,Yes, with Touya-kun in the lead.
+Dialogue: 0,0:15:34.79,0:15:38.46,Default,,0,0,0,,And I hear Shindou-kun is just\Nas good as Touya-kun.
+Dialogue: 0,0:15:39.71,0:15:45.05,Default,,0,0,0,,Then we can finally aim for the world! It'll be\Na comeback for Japan! Right, Amano-san?
+Dialogue: 0,0:15:46.38,0:15:50.01,Default,,0,0,0,,Sounds great. Our sales would improve\Na lot if that were to happen.
+Dialogue: 0,0:15:59.19,0:16:01.90,Default,,0,0,0,,But, we have no idea what will happen.
+Dialogue: 0,0:16:14.37,0:16:17.41,Background,,0,0,0,,Let's put an end to our talk of dreams now.
+Dialogue: 0,0:16:52.03,0:16:54.16,Default,,0,0,0,,Time for lunch!
+Dialogue: 0,0:17:11.13,0:17:13.01,Thinking,,0,0,0,,This game's been moving really quickly.
+Dialogue: 0,0:17:14.10,0:17:16.56,Thinking,,0,0,0,,There's a really complex battle going on.
+Dialogue: 0,0:17:21.77,0:17:26.98,Thinking,,0,0,0,,But he's doing well against Touya despite the difficulty.
+Dialogue: 0,0:17:28.32,0:17:34.37,Default,,0,0,0,,Saeki-kun! Wanna go eat together? Meals are no\Ngood unless you have someone to eat with.
+Dialogue: 0,0:17:34.74,0:17:37.95,Default,,0,0,0,,And Akira never eats during a game.
+Dialogue: 0,0:17:38.45,0:17:40.29,Default,,0,0,0,,Come on, let's go. What do you want to eat?
+Dialogue: 0,0:17:40.29,0:17:42.33,Background,,0,0,0,,A-Ashiwara-san! H-Hold on!
+Dialogue: 0,0:17:43.33,0:17:46.63,Default,,0,0,0,,What do Touya's students think\Nof Morishita's students?
+Dialogue: 0,0:18:00.23,0:18:02.64,Thinking,,0,0,0,,We stopped the clock after Touya's Katatsuki.
+Dialogue: 0,0:18:12.32,0:18:15.49,Thinking,,0,0,0,,I should play on the lower left instead\Nof the conflict at the top right.
+Dialogue: 0,0:18:16.62,0:18:21.50,Thinking,,0,0,0,,I'll play at the Keima to assault White's weakness.
+Dialogue: 0,0:18:23.33,0:18:27.50,Thinking,,0,0,0,,Touya will definitely connect, so\NI'll just get life on the side.
+Dialogue: 0,0:18:28.71,0:18:33.76,Thinking,,0,0,0,,The lower left is still too small.\NHow should I attack the top?
+Dialogue: 0,0:18:37.60,0:18:39.22,Thinking,,0,0,0,,I'm at a disadvantage?
+Dialogue: 0,0:18:40.10,0:18:43.19,Thinking,,0,0,0,,No. It's close. I can still play.
+Dialogue: 0,0:18:44.31,0:18:46.27,Default,,0,0,0,,Oh yeah, lunch!
+Dialogue: 0,0:18:47.98,0:18:49.98,Default,,0,0,0,,Touya, what are you doing about lunch?
+Dialogue: 0,0:18:58.12,0:19:00.37,Default,,0,0,0,,I'm gonna go before we run out of time.
+Dialogue: 0,0:19:09.63,0:19:11.30,Thinking,,0,0,0,,Is he not going to eat?
+Dialogue: 0,0:19:19.60,0:19:20.31,Thinking,,0,0,0,,Sai...
+Dialogue: 0,0:19:32.57,0:19:36.03,Default,,0,0,0,,I thought of Sai from the Internet\Nwhen I was playing you.
+Dialogue: 0,0:19:39.20,0:19:40.12,Thinking,,0,0,0,,Touya...
+Dialogue: 0,0:19:42.29,0:19:45.62,Default,,0,0,0,,I'm not Sai, unfortunately.
+Dialogue: 0,0:19:47.79,0:19:48.75,Default,,0,0,0,,It's you.
+Dialogue: 0,0:19:51.88,0:19:52.75,Default,,0,0,0,,Touya?
+Dialogue: 0,0:19:55.05,0:19:56.42,Default,,0,0,0,,It's the other you.
+Dialogue: 0,0:19:58.59,0:20:01.47,Default,,0,0,0,,There's another one of you.
+Dialogue: 0,0:20:02.97,0:20:04.98,Default,,0,0,0,,The Shindou Hikaru when we first met...
+Dialogue: 0,0:20:08.06,0:20:09.27,Default,,0,0,0,,He is Sai!
+Dialogue: 0,0:20:16.36,0:20:18.53,Default,,0,0,0,,T-Touya...
+Dialogue: 0,0:20:24.08,0:20:25.37,Default,,0,0,0,,There's...
+Dialogue: 0,0:20:28.29,0:20:29.96,Default,,0,0,0,,someone else inside you!
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
 Dialogue: 0,0:00:16.55,0:00:20.71,Op3Kanji,,0,0,0,,時間だけが過ぎる毎日じゃ
