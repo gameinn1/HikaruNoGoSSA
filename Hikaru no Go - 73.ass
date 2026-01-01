@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 168
-Active Line: 170
-Video Position: 23464
+Scroll Position: 183
+Active Line: 198
+Video Position: 29565
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -240,35 +240,34 @@ Dialogue: 0,0:16:08.82,0:16:11.62,Default,,0,0,0,,Waya, you're playing me next w
 Dialogue: 0,0:16:12.78,0:16:14.12,Default,,0,0,0,,I look forward to it.
 Dialogue: 0,0:16:14.95,0:16:16.75,Default,,0,0,0,,You little brat! I do, too!
 Dialogue: 0,0:16:18.71,0:16:21.21,Default,,0,0,0,,I guess I should give it my best, too.
-Dialogue: 0,0:16:21.63,0:16:23.71,Default,,0,0,0,,Yeah! Let's do our best, Saeki-san
-Dialogue: 0,0:16:34.81,0:16:38.77,Default,,0,0,0,,Touya\NWe're fianlly playing
-Dialogue: 0,0:16:41.31,0:16:44.98,Default,,0,0,0,,I haven't played you since the third board match in the Go club
-Dialogue: 0,0:16:50.70,0:16:52.82,Default,,0,0,0,,It's been two years and four months
-Dialogue: 0,0:16:55.08,0:16:56.66,Default,,0,0,0,,It's been that long?
-Dialogue: 0,0:16:57.87,0:17:00.87,Default,,0,0,0,,Yeah, it was long
-Dialogue: 0,0:17:20.89,0:17:23.98,Default,,0,0,0,,I looked at your match against Master Zama on Weekly Go
-Dialogue: 0,0:17:24.56,0:17:25.36,Default,,0,0,0,, It was close
-Dialogue: 0,0:17:27.11,0:17:28.44,Default,,0,0,0,,It was a good game
-Dialogue: 0,0:17:28.69,0:17:31.11,Default,,0,0,0,, But he kept the lead from the early game all the way to the end
-Dialogue: 0,0:17:32.11,0:17:33.16,Default,,0,0,0,,He is the former Ouza
-Dialogue: 0,0:17:34.07,0:17:36.62,Default,,0,0,0,,I didn't expect to beat him on my first try
-Dialogue: 0,0:17:37.83,0:17:40.71,Default,,0,0,0,,But, In the next match
-Dialogue: 0,0:17:41.62,0:17:43.75,Default,,0,0,0,,I'll have improved, too
-Dialogue: 0,0:17:45.67,0:17:51.05,Default,,0,0,0,,I saw how good you are from your matches against Master Zama and Mr. Hagiwara
-Dialogue: 0,0:17:52.59,0:17:55.14,Default,,0,0,0,,Today, it's my turn to show you how good I am
-Dialogue: 0,0:17:57.14,0:18:01.18,Default,,0,0,0,,I didn't waste the last two years and four months, either
-Dialogue: 0,0:19:02.04,0:19:02.83,Default,,0,0,0,,Good luck
-Dialogue: 0,0:19:03.29,0:19:04.16,Default,,0,0,0,,Good luck
-Dialogue: 0,0:19:21.06,0:19:22.97,Default,,0,0,0,,Let's play, Touya!
-Dialogue: 0,0:19:36.99,0:19:38.45,Default,,0,0,0,,Komuko on the upper right corner!
-Dialogue: 0,0:19:44.79,0:19:45.58,Default,,0,0,0,,That was fast!
-Dialogue: 0,0:19:55.80,0:19:58.39,Default,,0,0,0,,This isn't how someone plays with five hours on the clock!
-Dialogue: 0,0:19:58.93,0:19:59.68,Default,,0,0,0,,It's speed Go
-Dialogue: 0,0:20:01.05,0:20:03.85,Default,,0,0,0,,As if he couldn't wait to play this game
-Dialogue: 0,0:20:18.24,0:20:20.28,Default,,0,0,0,,He didn't respond to my Kakari,\N And he responded with a kakari
-Dialogue: 0,0:20:20.82,0:20:22.58,Default,,0,0,0,,So he's not willing to wait for the action
-Dialogue: 0,0:20:24.37,0:20:27.04,Default,,0,0,0,,Fine!\NWe'll start a fight in the corner!
-Dialogue: 0,0:20:33.04,0:20:36.67,Default,,0,0,0,,I couldn't wait to play this game either!
+Dialogue: 0,0:16:21.54,0:16:23.88,Default,,0,0,0,,Yeah! Let's do our best, Saeki-san.
+Dialogue: 0,0:16:34.77,0:16:35.89,Default,,0,0,0,,Touya.
+Dialogue: 0,0:16:37.35,0:16:38.94,Default,,0,0,0,,We're finally playing.
+Dialogue: 0,0:16:41.31,0:16:44.86,Default,,0,0,0,,I haven't played you since the third\Nboard match in the Go club.
+Dialogue: 0,0:16:50.74,0:16:52.95,Default,,0,0,0,,It's been two years and four months.
+Dialogue: 0,0:16:55.37,0:16:56.83,Default,,0,0,0,,It's been that long?
+Dialogue: 0,0:16:57.91,0:17:00.83,Default,,0,0,0,,Yeah, it was long.
+Dialogue: 0,0:17:21.27,0:17:25.52,Default,,0,0,0,,I looked at your match against Master\NZama on Weekly Go. It was close.
+Dialogue: 0,0:17:27.11,0:17:31.20,Default,,0,0,0,,It was a good game, but he kept the lead from\Nthe early game all the way to the end.
+Dialogue: 0,0:17:32.16,0:17:33.37,Default,,0,0,0,,He is the former Ouza,
+Dialogue: 0,0:17:34.12,0:17:36.58,Default,,0,0,0,,I didn't expect to beat him on my first try.
+Dialogue: 0,0:17:37.87,0:17:43.92,Default,,0,0,0,,But next time, I'll have improved, too.
+Dialogue: 0,0:17:45.71,0:17:51.34,Default,,0,0,0,,I saw how good you are from your matches\Nagainst Master Zama and Mr. Hagiwara.
+Dialogue: 0,0:17:52.63,0:17:55.72,Default,,0,0,0,,Today, it's my turn to show you how good I am.
+Dialogue: 0,0:17:57.18,0:18:01.23,Default,,0,0,0,,I didn't waste the last two years\Nand four months, either.
+Dialogue: 0,0:19:02.04,0:19:02.91,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:19:03.29,0:19:04.29,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:19:21.14,0:19:23.10,Thinking,,0,0,0,,Let's play, Touya!
+Dialogue: 0,0:19:37.03,0:19:38.74,Thinking,,0,0,0,,Komuko on the upper right corner!
+Dialogue: 0,0:19:44.79,0:19:45.62,Thinking,,0,0,0,,That was fast...
+Dialogue: 0,0:19:55.80,0:19:58.55,Thinking,,0,0,0,,This isn't how someone plays\Nwith five hours on the clock!
+Dialogue: 0,0:19:58.97,0:19:59.93,Thinking,,0,0,0,,It's speed Go!
+Dialogue: 0,0:20:01.05,0:20:04.18,Thinking,,0,0,0,,As if he couldn't wait to play this game.
+Dialogue: 0,0:20:18.20,0:20:20.53,Thinking,,0,0,0,,He didn't respond to my kakari,\Nand he responded with a kakari.
+Dialogue: 0,0:20:20.82,0:20:22.70,Thinking,,0,0,0,,So he's not willing to wait for the action.
+Dialogue: 0,0:20:24.37,0:20:25.25,Thinking,,0,0,0,,Fine!
+Dialogue: 0,0:20:25.45,0:20:27.12,Thinking,,0,0,0,,We'll start a fight in the corner.
+Dialogue: 0,0:20:33.09,0:20:36.72,Thinking,,0,0,0,,I couldn't wait to play this game either!
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
 Dialogue: 0,0:00:16.55,0:00:20.71,Op3Kanji,,0,0,0,,時間だけが過ぎる毎日じゃ
