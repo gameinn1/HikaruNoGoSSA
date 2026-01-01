@@ -15,8 +15,13 @@ The used fonts are in fonts.7z, either extract and right click install them, or 
 - ⏳ WIP
 - ❌ Still to do
 
-| Episode | Subbed | Checked | Ending Go |
-|--------|--------|---------|-----------|
+### Status Legend
+- ✅ Complete
+- ⏳ Pending
+- ❌ Not Started
+
+| Episode | Subbed | Checked | Ending Igo |
+|:------:|:------:|:-------:|:---------:|
 | 1  | ✅ | ✅ | ✅ |
 | 2  | ✅ | ⏳ | ❌ |
 | 3  | ✅ | ⏳ | ❌ |
@@ -90,7 +95,7 @@ The used fonts are in fonts.7z, either extract and right click install them, or 
 | 71 | ✅ | ✅ | ❌ |
 | 72 | ✅ | ✅ | ❌ |
 | 73 | ✅ | ✅ | ❌ |
-| 74 | ✅ | ⏳ | ❌ |
+| 74 | ✅ | ✅ | ❌ |
 | 75 | ✅ | ⏳ | ✅ |
 
 Changelog since starting (sorry for how this is all laid out I barely know how Github works).
