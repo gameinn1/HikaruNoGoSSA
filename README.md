@@ -114,6 +114,8 @@ The main idea is to just get things subbed and then can worry about slight colou
 
 Subbed 64 ending (music is my thing) with help from someone. This is the main hurdle done!
 
+Small note: In Episode 74, there is actually a difference between the TV broadcast and Blu-Ray. At about 4:32, Shindou talks about doing a Suberi and "If I want to win.". Those lines are not in the TV broadcast at all and that line of Suberi actually plays as he puts the stone down on R-F about 8 seconds later but it makes more sense for that to be "There you go!". If that's wrong then someone can let me know.
+
 -------------------------------------------
 When I started this project I assumed that the work done by gabest11 was close to done but it's really not. To show the stark differences, please look at my episode 1 comapred to theirs. They did not even assign styling at all.
 
