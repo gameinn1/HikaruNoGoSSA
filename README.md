@@ -10,7 +10,7 @@ Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format
 The used fonts are in fonts.7z, either extract and right click install them, or use mkvmerge to multiplex it with the episodes.
 
 ## Progress
-### Status Legend
+
 - ✅ Complete
 - ⏳ WIP
 - ❌ Still to do
