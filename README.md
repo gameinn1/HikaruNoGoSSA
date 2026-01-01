@@ -16,7 +16,7 @@ The used fonts are in fonts.7z, either extract and right click install them, or 
 - ⏳ WIP
 - ❌ Still to do
   
-| Episode | Styled | Checked | Ending Igo |
+| Episode | Subbed | Styled | Ending Igo |
 |:------:|:------:|:-------:|:---------:|
 | 1  | ✅ | ✅ | ✅ |
 | 2  | ✅ | ⏳ | ❌ |
