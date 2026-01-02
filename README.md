@@ -30,7 +30,7 @@ As I type it's January 2nd 2026 and I think I'm done. Having to go retime and st
 
 If anyone ever sees this and has a passion to properly finish... I'd like to see it done. It's basically just time now. I thought to myself even if I had 2 other people, that's only 20 episodes each and could probbaly be done in 3 weeks (trust me you get faster).
 
-You can reach me on Discord at gameinn1 or make an Issues post in the tab. I don't know much about how github works sorry.
+You can reach me on Discord at gameinn1 or make an Issues post in the tab. I don't know much about how github works sorry. Maybe if some people come forward willing to help in the next month or so I might go back to this and help finish.
 
 If you need it visualized of what work needs to be done, below is a table.
 
@@ -39,7 +39,7 @@ If you need it visualized of what work needs to be done, below is a table.
 - ⏳ WIP
 - ❌ Still to do
   
-| Episode | Subbed | Styled | Ending Igo |
+| Episode | Subbed | Timed/Styled | Ending Igo |
 |:------:|:------:|:-------:|:---------:|
 | 1  | ✅ | ✅ | ✅ |
 | 2  | ✅ | ⏳ | ❌ |
