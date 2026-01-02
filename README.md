@@ -22,9 +22,9 @@ I don't want to sound ungrateful to gabest11 here. The work they did in subbing 
 
 What I am happy about is episodes 62 to 75 since I was in control from the start. Every line is identical to R-F and timing is almost perfect. I was frame advancing most of the time. The problem? It took me about 2 weeks to do 62 to 75.
 
-As one person I literally don't have the will to do 75 episodes single handed. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to someone who I don't know if they want to be named but they perfectly recreated the "Music is my Thing" ending. That was the last big hurdle for anyone wanting to actually properly restore the subs.
+As one person I literally don't have the will to do 75 episodes single handed. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to someone who I don't know if they want to be named but they perfectly recreated the "Music is my Thing" ending that gabest11 did not. That was the last big hurdle for anyone wanting to actually properly restore the subs.
 
-It's funny because even with the subs in this state, it's still the best subs available for this anime now. Why? At the bare minimum you get the subs already available elsewhere but you get the added opening and ending karaoke parts from start to finish.
+It's funny because even with the subs in this state, it's still the best subs available for this anime now. Why? At the bare minimum you get the subs already available elsewhere but you get the added opening and ending karaoke parts from start to finish for every episode.
 
 As I type it's January 2nd 2026 and I think I'm done. Having to go retime and style 2-61 plus properly sub the Igo sections is just too daunting of a task for one person. I'm glad I put enough effort in to have left this in a state where it's basically just simple subbing now.
 
