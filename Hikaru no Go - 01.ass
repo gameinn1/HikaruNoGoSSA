@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 352
-Active Line: 381
-Video Position: 34750
+Scroll Position: 373
+Active Line: 387
+Video Position: 874
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -456,8 +456,8 @@ Dialogue: 0,0:22:58.98,0:23:06.53,Default,,0,0,0,,That move too... and this move
 Dialogue: 0,0:23:07.70,0:23:12.00,Default,,0,0,0,,no that kind of a child is\Nimpossible! Just who is he?!
 Dialogue: 0,0:23:22.38,0:23:24.51,Default,,0,0,0,,I finally found you!
 Dialogue: 0,0:23:25.30,0:23:26.43,Default,,0,0,0,,Shindou Hikaru!
-Dialogue: 0,0:00:33.30,0:00:39.60,Sai,,0,0,0,,{\bord2\pos(324.983,245.689)}Elite-Fansubs presents
-Dialogue: 0,0:00:33.30,0:00:39.60,Memory,,0,0,0,,{\\fs45\bord2.5\shad1\pos(322.847,297.845)}Hikaru no Go
+Dialogue: 0,0:00:33.30,0:00:39.60,Sai,,0,0,0,,{\bord2\pos(324,247)}Elite-Fansubs presents
+Dialogue: 0,0:00:33.30,0:00:39.60,Memory,,0,0,0,,{\fs45\bord2.5\shad1\pos(322,297)}Hikaru no Go
 Dialogue: 0,0:00:15.95,0:00:19.66,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:19.93,0:00:23.66,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える
 Dialogue: 0,0:00:23.80,0:00:29.68,Op1Kanji,,0,0,0,,{\kf33}だから{\kf151}迷い{\kf25}{\kf58}ながら{\kf17}も{\kf37}共{\kf36}に{\kf75}生きて{\kf78}いこう{\kf78}よ
