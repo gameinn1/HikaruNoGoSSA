@@ -14,7 +14,7 @@ There's so much to explain here. I doubt anyone will ever read this but just typ
 
 I restarted this project in late December 2025 after it was laid dormant by gabest11. Before this I had literally no experience with Aegisub. I assumed that the work done by gabest11 was close to done... but it's really not. To show the stark differences, please look at my episode 1 compared to theirs. They did not even assign styling.
 
-I went all out in recreating episode 1. Literally everything is there. Basically frame perfect timing to E-F, good and consistent styling and proper Igo subbing with all the quirks of early E-F subs. That's another thing, the subbing for the ending Igo sections is nowhere near what E-F did so they also have to get properly resubbed from 2 onwards. I also properly subbed 75 Igo so I atleast had done the start end ending Igo... just not the inbetween. :P
+I went all out in recreating episode 1. Literally everything is there. Basically frame perfect timing to E-F, good and consistent styling and proper Igo subbing with all the quirks of early E-F subs. That's another thing, the subbing for the ending Igo sections is nowhere near what E-F did so they also have to get properly resubbed from 2 onwards. I also properly subbed 75 Igo so I atleast had done the start and end of Igo... just not the inbetween. :P
 
 I am pretty sure gabest11 just took existing subs (similar to E-F/R-F for the main body) and transplanted them in and then added the opening and ending sections. The problem here is you get no styling and the timing (I've just checked episode 2) is horrendous. Unless you're a super fast reader you will miss a lot.
 
