@@ -26,7 +26,7 @@ As one person I literally don't have the will to do 75 episodes single handed. W
 
 It's funny because even with the subs in this state, it's still the best subs available for this anime now. Why? At the bare minimum you get the subs already available elsewhere but you get the added opening and ending karaoke parts from start to finish for every episode.
 
-As I type it's January 2nd 2026 and I think I'm done. Having to go retime and style 2-61 plus properly sub the Igo sections is just too daunting of a task for one person. I'm glad I put enough effort in to have left this in a state where it's basically just simple subbing now.
+As I type it's January 2nd 2026 and I think I'm done. Having to go retime and style 3-61 plus properly sub the Igo sections is just too daunting of a task for one person. I'm glad I put enough effort in to have left this in a state where it's basically just simple subbing now.
 
 If anyone ever sees this and has a passion to properly finish... I'd like to see it done. It's basically just time now. I thought to myself even if I had 2 other people, that's only 20 episodes each and could probbaly be done in 3 weeks (trust me you get faster).
 
