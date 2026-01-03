@@ -42,7 +42,7 @@ If you need it visualized of what work needs to be done, below is a table.
 | Episode | Subbed | Timed/Styled | Ending Igo |
 |:------:|:------:|:-------:|:---------:|
 | 1  | ✅ | ✅ | ✅ |
-| 2  | ✅ | ❌ | ❌ |
+| 2  | ✅ | ✅ | ✅ |
 | 3  | ✅ | ❌ | ❌ |
 | 4  | ✅ | ❌ | ❌ |
 | 5  | ✅ | ❌ | ❌ |
