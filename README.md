@@ -34,6 +34,8 @@ You can reach me on Discord at gameinn1 or make an Issues post in the tab. I don
 
 If you need it visualized of what work needs to be done, below is a table.
 
+Update: January 4th 2026. I've decided to restore the AonE subs for the New Year Special (Episode 76). This will be uploaded to give more eyes on the project. It's over an hour and I have to start from scratch so probably a couple weeks. The current Blu-Ray subs are so bad (mainly timing wise) that it's a joke and needs done.
+
 ### Status Legend
 - ✅ Complete
 - ⏳ WIP
@@ -116,6 +118,7 @@ If you need it visualized of what work needs to be done, below is a table.
 | 73 | ✅ | ✅ | ❌ |
 | 74 | ✅ | ✅ | ❌ |
 | 75 | ✅ | ✅ | ✅ |
+| 76 | ⏳ | ⏳ | ⏳ |
 
 Below is old info. Leaving here for completion sake.
 
