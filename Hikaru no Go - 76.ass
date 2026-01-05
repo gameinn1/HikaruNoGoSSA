@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 349
-Active Line: 368
-Video Position: 41069
+Scroll Position: 400
+Active Line: 412
+Video Position: 45907
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -438,3 +438,47 @@ Dialogue: 0,0:27:59.82,0:28:00.53,Thinking,,0,0,0,,That?
 Dialogue: 0,0:28:19.55,0:28:25.06,Note,,0,0,0,,{\fad(375,375)}Note: tengen (origin of heaven) is the name of the center point.
 Dialogue: 0,0:28:19.55,0:28:22.06,Thinking,,0,0,0,,Opening on... tengen?!
 Dialogue: 0,0:28:32.15,0:28:35.49,Thinking,,0,0,0,,All right, I'll take on whatever move you play!
+Dialogue: 0,0:28:40.87,0:28:42.87,Background,,0,0,0,,Yashiro-kun is certainly something.
+Dialogue: 0,0:28:43.20,0:28:45.58,Background,,0,0,0,,I'm sorry that Toshinori wasn't enough for him.
+Dialogue: 0,0:28:46.04,0:28:46.75,Background,,0,0,0,,It's okay.
+Dialogue: 0,0:28:46.75,0:28:50.79,Background,,0,0,0,,Though Kiyohara won this time, it's\Njust starting for Honda-kun as well.
+Dialogue: 0,0:28:51.08,0:28:53.50,Background,,0,0,0,,Sorry that we stayed so late.
+Dialogue: 0,0:29:02.35,0:29:06.93,Default,,0,0,0,,It's not as if opening on tengen\Nis never used in pro matches...
+Dialogue: 0,0:29:07.18,0:29:10.19,Default,,0,0,0,,Yeah... but it makes for a difficult go.
+Dialogue: 0,0:29:10.19,0:29:12.11,Default,,0,0,0,,Normally we'd play the four corners.
+Dialogue: 0,0:29:12.11,0:29:13.94,Default,,0,0,0,,That's because it's easier to\Ncreate territory at the edge.
+Dialogue: 0,0:29:15.48,0:29:20.57,Background,,0,0,0,,But the tengen is not related to any territory,\Nit's open to the whole board.
+Dialogue: 0,0:29:21.03,0:29:24.95,Background,,0,0,0,,If this stone ends up being used, you\Nwin, and if it goes to waste, you lose.
+Dialogue: 0,0:29:25.41,0:29:30.37,Background,,0,0,0,,The enemy plays so that the stone is not\Nactivated. The approach is quite simple.
+Dialogue: 0,0:29:32.17,0:29:38.42,Background,,0,0,0,,But it's still pretty hard to play... that Kansai\Nkid played out his tengen pretty well.
+Dialogue: 0,0:29:38.63,0:29:39.80,Default,,0,0,0,,Honda completely lost on this one.
+Dialogue: 0,0:29:39.97,0:29:42.43,Default,,0,0,0,,He's 15, right? My god.
+Dialogue: 0,0:29:42.68,0:29:45.68,Default,,0,0,0,,They said he's going to debut in the\NHokuto Cup's preliminary matches.
+Dialogue: 0,0:29:46.31,0:29:49.43,Default,,0,0,0,,Oh yeah, I heard you received the\Ndate for the preliminary match.
+Dialogue: 0,0:29:53.19,0:29:54.11,Default,,0,0,0,,Toshinori?
+Dialogue: 0,0:29:54.77,0:29:55.48,Default,,0,0,0,,Yes?
+Dialogue: 0,0:29:55.77,0:29:58.19,Default,,0,0,0,,What's going on with the\NHokuto Cup's preliminary matches?
+Dialogue: 0,0:29:58.78,0:30:00.32,Default,,0,0,0,,There'll be four people from the Tokyo area,
+Dialogue: 0,0:30:00.74,0:30:02.41,Default,,0,0,0,,and four people from the central Kansai area...
+Dialogue: 0,0:30:02.66,0:30:05.07,Default,,0,0,0,,...making a total of eight people playing in April.
+Dialogue: 0,0:30:05.37,0:30:09.87,Default,,0,0,0,,But there will be a first preliminary match in Tokyo\Nnext week, to bring the number down to four.
+Dialogue: 0,0:30:10.91,0:30:12.21,Default,,0,0,0,,Next week, eh?
+Dialogue: 0,0:30:12.71,0:30:15.96,Background,,0,0,0,,The newcomers have been pretty strong recently.
+Dialogue: 0,0:30:16.54,0:30:18.46,Background,,0,0,0,,So you need to work hard.
+Dialogue: 0,0:30:19.01,0:30:23.89,Thinking,,0,0,0,,That's right, even compared to Ochi and\Nthe others, I'm still not quite there yet.
+Dialogue: 0,0:30:25.80,0:30:26.72,Default,,0,0,0,,Toshinori.
+Dialogue: 0,0:30:30.81,0:30:31.56,Default,,0,0,0,,Toshinori?
+Dialogue: 0,0:30:34.19,0:30:35.10,Default,,0,0,0,,Yes?
+Dialogue: 0,0:30:37.27,0:30:40.61,Default,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(459,0)\pos(326,330)}Hokuto Cup
+Dialogue: 0,0:30:37.27,0:30:40.61,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(459,0)\pos(321,437)}Tokyo Area - First Preliminary Match
+Dialogue: 0,0:30:47.03,0:30:48.24,Memory,,0,0,0,,I'll tell you one thing.
+Dialogue: 0,0:30:49.29,0:30:53.75,Memory,,0,0,0,,The road of a pro is long, and\Non top of that, it has no goal.
+Dialogue: 0,0:30:54.79,0:30:56.38,Memory,,0,0,0,,You study your whole life.
+Dialogue: 0,0:30:58.50,0:31:00.34,Memory,,0,0,0,,You understand that, Toshinori?
+Dialogue: 0,0:31:04.09,0:31:07.26,Thinking,,0,0,0,,That's right... I'm a professional go player.
+Dialogue: 0,0:31:08.55,0:31:12.73,Thinking,,0,0,0,,{\fs24}The road of a pro is long, and on top of that, it has no goal.
+Dialogue: 0,0:31:14.69,0:31:16.35,Thinking,,0,0,0,,You study your whole life.
+Dialogue: 0,0:31:22.65,0:31:24.24,Thinking,,0,0,0,,Opening on tengen, eh?
+Dialogue: 0,0:31:24.86,0:31:27.28,Thinking,,0,0,0,,He played an interesting position.
+Dialogue: 0,0:31:27.66,0:31:28.49,Thinking,,0,0,0,,All right!
+Dialogue: 0,0:31:54.68,0:31:58.44,Thinking,,0,0,0,,{\fs24}How's that? Black won't be able to connect easily this way.
