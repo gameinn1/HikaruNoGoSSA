@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 77
-Active Line: 94
-Video Position: 10830
+Scroll Position: 184
+Active Line: 209
+Video Position: 21542
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -162,12 +162,120 @@ Dialogue: 0,0:07:18.50,0:07:19.46,Default,,0,0,0,,You know, right?
 Dialogue: 0,0:07:19.71,0:07:20.63,Default,,0,0,0,,With the team matches...
 Dialogue: 0,0:07:21.46,0:07:23.55,Default,,0,0,0,,I just might be able to play a match with you then.
 Dialogue: 0,0:07:27.09,0:07:30.51,Default,,0,0,0,,I'm not going to be participating in the\Npreliminary matches for the Hokuto Cup.
-Comment: 0,0:07:31.68,0:07:33.56,Default,,0,0,0,,AonE has this on one line. Potentially fs23?
-Dialogue: 0,0:07:31.68,0:07:33.56,Background,,0,0,0,,I've already been chosen as one of the three players.
+Comment: 0,0:07:31.68,0:07:33.56,Default,,0,0,0,,AonE has this on one line. Potentially fs24?
+Dialogue: 0,0:07:31.68,0:07:33.56,Background,,0,0,0,,{\fs24}I've already been chosen as one of the three players.
 Dialogue: 0,0:07:33.77,0:07:34.48,Default,,0,0,0,,What?
 Dialogue: 0,0:07:35.64,0:07:36.94,Default,,0,0,0,,What the hell is that?!
 Dialogue: 0,0:07:36.94,0:07:38.48,Default,,0,0,0,,Why are you the only one not participating?!
 Dialogue: 0,0:07:38.69,0:07:39.48,Default,,0,0,0,,That's not fair!
 Dialogue: 0,0:07:39.69,0:07:44.32,Default,,0,0,0,,Hey now, even in the other matches, those\Nwith a good record get seeded, right?
 Comment: 0,0:07:44.32,0:07:44.32,Default,,0,0,0,,Again this is a 2 liner from participating
-Dialogue: 0,0:07:44.82,0:07:48.32,Default,,0,0,0,,{\fs23}The young master over there is already participating\nin the leagues, so don't complain about it!
+Dialogue: 0,0:07:44.82,0:07:48.32,Default,,0,0,0,,{\fs24}The young master over there is already participating\nin the leagues, so don't complain about it!
+Dialogue: 0,0:07:48.78,0:07:52.58,Background,,0,0,0,,That's right. And you're only a first dan, you know.
+Comment: 0,0:07:54.66,0:07:58.62,Default,,0,0,0,,Another fs24
+Dialogue: 0,0:07:54.66,0:07:58.62,Default,,0,0,0,,{\fs24}So this is the difference between those participating\Nin the leagues and a mere first dan...
+Dialogue: 0,0:08:01.38,0:08:02.09,Default,,0,0,0,,Shindou?
+Dialogue: 0,0:08:02.63,0:08:04.92,Background,,0,0,0,,{\fs24}But it doesn't measure the difference in our strength.
+Dialogue: 0,0:08:05.46,0:08:08.55,Default,,0,0,0,,Hey, don't get too cocky now, kid!
+Dialogue: 0,0:08:09.64,0:08:12.81,Default,,0,0,0,,I'll pass the preliminary matches in April for sure.
+Dialogue: 0,0:08:13.22,0:08:15.18,Default,,0,0,0,,Until then, I won't come here.
+Dialogue: 0,0:08:21.27,0:08:22.57,Default,,0,0,0,,That's in four months.
+Dialogue: 0,0:08:23.19,0:08:27.19,Default,,0,0,0,,In four months, I'll be one of the three members\Nof the Japanese team, just like you.
+Dialogue: 0,0:08:35.66,0:08:39.58,Background,,0,0,0,,Director, this is regarding the Hokuto Cup\Nthat our company is sponsoring...
+Dialogue: 0,0:08:40.25,0:08:43.00,Default,,0,0,0,,It's an important project for\Nthe commemoration, right?
+Dialogue: 0,0:08:43.17,0:08:46.59,Default,,0,0,0,,I wonder if people will take interest,\Nsince go is so boring and all...
+Dialogue: 0,0:08:46.88,0:08:49.05,Default,,0,0,0,,That's why I decided on team matches.
+Dialogue: 0,0:08:49.34,0:08:52.68,Default,,0,0,0,,If it's a team match between\NJapan, China, and Korea...
+Dialogue: 0,0:08:52.68,0:08:54.93,Default,,0,0,0,,then at least some of the average people\Nwill be interested, don't you think?
+Dialogue: 0,0:08:55.35,0:08:57.73,Default,,0,0,0,,I see! You're right.
+Dialogue: 0,0:08:57.73,0:09:01.65,Default,,0,0,0,,When it comes to international competitions,\Nwe get all riled up! Just like the Olympics.
+Dialogue: 0,0:09:01.98,0:09:05.36,Default,,0,0,0,,I'll cheer for Japan, too. For Touya Akira-kun.
+Dialogue: 0,0:09:05.94,0:09:09.86,Background,,0,0,0,,Oh? I didn't think you'd know\Nthe name of a go player.
+Dialogue: 0,0:09:10.28,0:09:13.82,Default,,0,0,0,,I heard the guards talking about him yesterday.
+Dialogue: 0,0:09:13.82,0:09:16.12,Default,,0,0,0,,That Touya Akira would win for us.
+Dialogue: 0,0:09:16.24,0:09:21.29,Default,,0,0,0,,But they also said, there doesn't seem to be anyone\Nbesides Touya-kun who could beat China or Korea.
+Dialogue: 0,0:09:21.29,0:09:22.58,Default,,0,0,0,,There's one more.
+Dialogue: 0,0:09:23.54,0:09:24.67,Default,,0,0,0,,Really?!
+Dialogue: 0,0:09:24.67,0:09:26.25,Default,,0,0,0,,Then there's still hope for...
+Dialogue: 0,0:09:26.25,0:09:29.55,Default,,0,0,0,,Or better said, it's more like people\Nhave high hopes for him...
+Dialogue: 0,0:09:29.55,0:09:31.63,Default,,0,0,0,,...yet his record as a pro is zero.
+Dialogue: 0,0:09:32.38,0:09:33.22,Default,,0,0,0,,Zero?
+Dialogue: 0,0:09:34.60,0:09:35.85,Default,,0,0,0,,What kind of a kid is he?
+Dialogue: 0,0:09:36.43,0:09:38.56,Default,,0,0,0,,He became a pro at the Kansai Institute.
+Dialogue: 0,0:09:38.85,0:09:41.35,Default,,0,0,0,,He hasn't crossed the starting line as a pro yet.
+Dialogue: 0,0:09:41.73,0:09:44.19,Default,,0,0,0,,Oh? Kansai, you say?
+Dialogue: 0,0:09:44.44,0:09:46.36,Default,,0,0,0,,Director, you sure know a lot about it.
+Dialogue: 0,0:09:46.90,0:09:53.07,Default,,0,0,0,,Someone from the Kansai Institute called me the\Nother day... he plays quite well, apparently.
+Dialogue: 0,0:09:54.20,0:09:57.24,Background,,0,0,0,,All right! If you could hold it right there...
+Dialogue: 0,0:10:01.33,0:10:04.54,Default,,0,0,0,,What's wrong? You seem so stiff.
+Dialogue: 0,0:10:05.13,0:10:09.38,Default,,0,0,0,,Don't get so nervous just because you're the first\Nplayer in the New First Dan Series, Isumi-kun.
+Dialogue: 0,0:10:10.01,0:10:11.59,Default,,0,0,0,,Don't you like cameras?
+Dialogue: 0,0:10:11.84,0:10:14.89,Default,,0,0,0,,That's quite rare for young people these days.
+Dialogue: 0,0:10:15.34,0:10:21.85,Default,,0,0,0,,Well, nervous or not, you'd\Nprobably still beat me easily.
+Dialogue: 0,0:10:21.85,0:10:26.90,Default,,0,0,0,,Since you {\i1}are{\i0} a talented player who\Nhas passed the exam with all wins.
+Dialogue: 0,0:10:26.90,0:10:28.40,Default,,0,0,0,,N-No...
+Dialogue: 0,0:10:28.94,0:10:33.40,Thinking,,0,0,0,,My, my, Kuwabara-sensei is pressuring him already.
+Dialogue: 0,0:10:33.74,0:10:38.74,Default,,0,0,0,,Though you're thin, you're well-built.\NAre you into some kind of sport or something?
+Dialogue: 0,0:10:38.74,0:10:39.41,Default,,0,0,0,,N-No...
+Dialogue: 0,0:10:48.92,0:10:52.55,Thinking,,0,0,0,,So Kuwabara-sensei is Isumi-san's\Nopponent in the New First Dan match.
+Dialogue: 0,0:10:52.72,0:10:53.92,Thinking,,0,0,0,,I'm looking forward to it.
+Dialogue: 0,0:10:54.68,0:10:56.72,Background,,0,0,0,,Hey, Shindou-kun!
+Dialogue: 0,0:11:03.02,0:11:05.10,Default,,0,0,0,,You're Shindou Hikaru, first dan, right?
+Dialogue: 0,0:11:14.36,0:11:16.36,Default,,0,0,0,,Oh, Kadowaki-san!
+Dialogue: 0,0:11:16.82,0:11:20.24,Default,,0,0,0,,Oh, I'm surprised you know my name.
+Dialogue: 0,0:11:20.78,0:11:23.20,Default,,0,0,0,,I know, you read it in Weekly Go, right?
+Dialogue: 0,0:11:23.33,0:11:23.95,Default,,0,0,0,,Yes.
+Dialogue: 0,0:11:24.50,0:11:27.71,Default,,0,0,0,,I was surprised when I saw your photo\Nas one of those who passed.
+Dialogue: 0,0:11:28.08,0:11:31.46,Default,,0,0,0,,I played you once when I was still an insei.
+Dialogue: 0,0:11:32.09,0:11:36.59,Default,,0,0,0,,Oh, so you remembered me... I'm honored.
+Dialogue: 0,0:11:37.76,0:11:42.31,Default,,0,0,0,,To tell you the truth, I was going to take\Nthe pro exam the same year you did.
+Dialogue: 0,0:11:42.43,0:11:42.97,Default,,0,0,0,,What?
+Dialogue: 0,0:11:43.81,0:11:49.98,Background,,0,0,0,,Back then, I called and asked you to play\Nme, thinking I'd warm up a little.
+Dialogue: 0,0:11:50.31,0:11:53.57,Background,,0,0,0,,But I completely lost to you, an insei.
+Dialogue: 0,0:11:53.98,0:11:55.78,Background,,0,0,0,,There, I finally realized that I was too naive...
+Dialogue: 0,0:11:55.78,0:11:57.40,Background,,0,0,0,,so I rescheduled to take the exam a year later.
+Dialogue: 0,0:11:57.78,0:12:00.24,Background,,0,0,0,,Because I felt it just wouldn't do with\Nthe strength I had back then.
+Dialogue: 0,0:12:02.49,0:12:04.54,Default,,0,0,0,,{\fs24}Though I was confident that I'd pass the pro exams...
+Dialogue: 0,0:12:04.54,0:12:07.54,Default,,0,0,0,,I didn't have the confidence to\Nplay against players like you.
+Dialogue: 0,0:12:07.79,0:12:11.96,Default,,0,0,0,,And so I figured that I'd have to aim\Nhigher, to reach a further goal.
+Dialogue: 0,0:12:12.59,0:12:16.92,Background,,0,0,0,,You were so strong back then that you made\Nme, a snobby brat, face the facts.
+Dialogue: 0,0:12:20.72,0:12:22.93,Thinking,,0,0,0,,It wasn't me who played back then.
+Dialogue: 0,0:12:24.64,0:12:27.39,Thinking,,0,0,0,,The one who played was... Sai.
+Dialogue: 0,0:12:31.61,0:12:35.40,Default,,0,0,0,,But you lost three matches straight\Nduring the pro exam...
+Dialogue: 0,0:12:37.07,0:12:41.62,Default,,0,0,0,,and the New First Dan match with\NTouya Koyo was a miserable loss, too.
+Dialogue: 0,0:12:41.95,0:12:45.16,Background,,0,0,0,,On top of that, when you became a pro,\Nyou had default losses left and right.
+Dialogue: 0,0:12:46.95,0:12:47.96,Default,,0,0,0,,So...
+Dialogue: 0,0:12:52.79,0:12:54.34,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:12:55.80,0:12:59.30,Default,,0,0,0,,What the hell is Shindou doing?
+Dialogue: 0,0:13:00.59,0:13:01.76,Default,,0,0,0,,He's late.
+Dialogue: 0,0:13:02.30,0:13:05.76,Default,,0,0,0,,He said he'd come to watch\NIsumi-san's New First Dan match.
+Dialogue: 0,0:13:06.43,0:13:08.35,Default,,0,0,0,,Kadowaki-san's not here yet, either.
+Dialogue: 0,0:13:09.94,0:13:12.86,Default,,0,0,0,,{\fs24}Honda-san, you lost six times in the pro exam, right?
+Dialogue: 0,0:13:13.27,0:13:15.69,Default,,0,0,0,,I'm surprised you were able\Nto pass with such a score.
+Dialogue: 0,0:13:15.86,0:13:20.32,Default,,0,0,0,,Isumi-san won them all and Kadowaki-san\Njust lost once against Isumi-san.
+Dialogue: 0,0:13:20.78,0:13:25.87,Default,,0,0,0,,Those two took all the wins this year, so all\Nthat was left was a miserable scramble.
+Dialogue: 0,0:13:33.79,0:13:34.92,Background,,0,0,0,,He's not coming.
+Dialogue: 0,0:13:36.09,0:13:36.75,Default,,0,0,0,,Huh?
+Dialogue: 0,0:13:40.17,0:13:43.97,Default,,0,0,0,,Say, I heard that Touya's already one of\Nthe chosen players for the Hokuto Cup.
+Dialogue: 0,0:13:44.18,0:13:47.77,Default,,0,0,0,,If it's chosen based on our records,\NI should have been chosen, too.
+Dialogue: 0,0:13:48.56,0:13:53.27,Default,,0,0,0,,{\fs24}When players are under 18, it's hard to differentiate\Nbased on records, as there aren't many to begin with.
+Dialogue: 0,0:13:53.81,0:13:58.07,Default,,0,0,0,,You're right... you're also a new\Npro who's participating.
+Dialogue: 0,0:13:58.69,0:14:00.78,Default,,0,0,0,,Regarding the pros that started this year...
+Dialogue: 0,0:14:00.78,0:14:03.57,Default,,0,0,0,,I heard there's a promising one\Nfrom the Kansai Institute.
+Dialogue: 0,0:14:04.16,0:14:05.53,Default,,0,0,0,,From the Kansai Institute?
+Dialogue: 0,0:14:05.70,0:14:08.87,Default,,0,0,0,,Oh yeah, there are going to be people\Nfrom the Kansai Institute, too.
+Dialogue: 0,0:14:11.37,0:14:13.21,Background,,0,0,0,,Isumi-san has started.
+Dialogue: 0,0:14:14.00,0:14:16.29,Default,,0,0,0,,It's completely different compared\Nto the one last year with Shindou.
+Dialogue: 0,0:14:16.67,0:14:19.59,Default,,0,0,0,,He spent 20 minutes on his first move, after all.
+Dialogue: 0,0:14:21.92,0:14:24.09,Default,,0,0,0,,I wonder what happened to Shindou?
+Dialogue: 0,0:14:24.64,0:14:26.18,Default,,0,0,0,,Kadowaki-san's not coming either.
+Dialogue: 0,0:14:27.55,0:14:31.81,Default,,0,0,0,,They couldn't be playing together since\Nthey don't know each other, right?
+Dialogue: 0,0:14:34.35,0:14:35.48,Default,,0,0,0,,Know each other?
+Dialogue: 0,0:14:36.11,0:14:38.32,Default,,0,0,0,,He said that they don't know each other.
+Dialogue: 0,0:14:38.32,0:14:40.32,Default,,0,0,0,,Oh, so it was Shindou!
+Dialogue: 0,0:14:41.11,0:14:41.74,Default,,0,0,0,,Honda-san?
+Dialogue: 0,0:14:42.15,0:14:47.24,Default,,0,0,0,,So it was Shindou who Kadowaki-san\Nwas talking about back then...
+Dialogue: 0,0:14:48.24,0:14:51.75,Memory,,0,0,0,,Ooshima, Fukui, Honda...
+Dialogue: 0,0:14:53.12,0:14:53.91,Memory,,0,0,0,,Huh?
+Dialogue: 0,0:14:54.54,0:14:57.38,Memory,,0,0,0,,He lost to those three last year.
+Dialogue: 0,0:14:58.46,0:15:00.13,Memory,,0,0,0,,I still can't believe it.
