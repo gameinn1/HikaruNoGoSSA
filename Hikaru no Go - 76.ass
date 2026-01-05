@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 184
-Active Line: 209
-Video Position: 21542
+Scroll Position: 289
+Active Line: 305
+Video Position: 34614
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -279,3 +279,99 @@ Dialogue: 0,0:14:48.24,0:14:51.75,Memory,,0,0,0,,Ooshima, Fukui, Honda...
 Dialogue: 0,0:14:53.12,0:14:53.91,Memory,,0,0,0,,Huh?
 Dialogue: 0,0:14:54.54,0:14:57.38,Memory,,0,0,0,,He lost to those three last year.
 Dialogue: 0,0:14:58.46,0:15:00.13,Memory,,0,0,0,,I still can't believe it.
+Dialogue: 0,0:15:01.42,0:15:07.93,Default,,0,0,0,,Ooshima, Fukui, Honda... Shindou lost to\Nthose three at the pro exams last year.
+Dialogue: 0,0:15:08.30,0:15:09.68,Default,,0,0,0,,You sure do remember.
+Dialogue: 0,0:15:10.97,0:15:15.10,Default,,0,0,0,,Because Honda-san and I fought\Nit out with Shindou until the end.
+Dialogue: 0,0:15:16.19,0:15:18.02,Default,,0,0,0,,Then was {\i1}that{\i0} about Shindou, too?
+Dialogue: 0,0:15:18.19,0:15:20.23,Default,,0,0,0,,Waya, you know something, too?
+Dialogue: 0,0:15:20.23,0:15:22.94,Default,,0,0,0,,Geez, what's with all this Shindou business?
+Dialogue: 0,0:15:23.40,0:15:29.49,Default,,0,0,0,,I read a rumor on the net about Kadowaki-san\Ndelaying the pro exam for a year.
+Dialogue: 0,0:15:30.03,0:15:33.87,Default,,0,0,0,,And the reason for that... was\Nbecause he lost to some kid.
+Dialogue: 0,0:15:34.50,0:15:37.46,Background,,0,0,0,,And that kid was... Shindou?
+Dialogue: 0,0:15:50.60,0:15:53.02,Default,,0,0,0,,I thought the reason you lost\Nthree times in the pro exam...
+Dialogue: 0,0:15:53.02,0:15:56.52,Default,,0,0,0,,was because your strength was unstable\Nsince you were just a kid...
+Dialogue: 0,0:15:57.02,0:16:00.15,Default,,0,0,0,,But your level as I knew it was completely\Ndifferent from the one you displayed.
+Dialogue: 0,0:16:03.65,0:16:08.03,Default,,0,0,0,,I started to look up to you and\Nadmire you with that match...
+Dialogue: 0,0:16:08.03,0:16:10.53,Default,,0,0,0,,even though you're twelve years younger than me.
+Dialogue: 0,0:16:11.24,0:16:12.12,Default,,0,0,0,,It's pretty funny, eh?
+Dialogue: 0,0:16:13.49,0:16:14.33,Default,,0,0,0,,No...
+Dialogue: 0,0:16:15.62,0:16:20.25,Default,,0,0,0,,But now I'm getting the feeling that it was\Njust a dream, or some kind of illusion.
+Dialogue: 0,0:16:21.96,0:16:26.55,Default,,0,0,0,,What should I do with these\Nhigh hopes I have for you?
+Dialogue: 0,0:16:26.92,0:16:29.89,Default,,0,0,0,,{\fs24}Should I still look forward to great things from you?
+Dialogue: 0,0:16:36.98,0:16:39.94,Default,,0,0,0,,Oh, sorry I stopped you.
+Dialogue: 0,0:16:43.94,0:16:46.99,Default,,0,0,0,,Isumi's New First Dan match has already started.
+Dialogue: 0,0:16:55.58,0:16:56.41,Default,,0,0,0,,Kadowaki-san...
+Dialogue: 0,0:17:02.29,0:17:02.92,Default,,0,0,0,,Huh?
+Dialogue: 0,0:17:07.21,0:17:08.63,Default,,0,0,0,,Would you like to play me?
+Dialogue: 0,0:17:09.47,0:17:10.30,Default,,0,0,0,,Right now.
+Dialogue: 0,0:17:21.23,0:17:22.77,Default,,0,0,0,,We're going to play a bit.
+Dialogue: 0,0:17:23.06,0:17:23.77,Default,,0,0,0,,Sure.
+Dialogue: 0,0:17:28.53,0:17:31.74,Default,,0,0,0,,Huh? What's wrong, Shindou-kun?
+Dialogue: 0,0:17:34.74,0:17:36.62,Default,,0,0,0,,This is going to be a tough match.
+Dialogue: 0,0:17:37.83,0:17:38.66,Default,,0,0,0,,Why?
+Dialogue: 0,0:17:41.87,0:17:44.75,Default,,0,0,0,,Because you're going to compare me\Nto how I was a year and a half ago.
+Dialogue: 0,0:17:45.00,0:17:48.05,Default,,0,0,0,,I'd like you to compare me to the previous me.
+Dialogue: 0,0:17:48.05,0:17:51.09,Default,,0,0,0,,I should have closed the gap between us for sure.
+Dialogue: 0,0:17:51.47,0:17:54.97,Default,,0,0,0,,Don't be surprised now, the results\Nof my pro exam were...
+Dialogue: 0,0:17:55.35,0:17:57.72,Default,,0,0,0,,Yeah, you lost to Isumi-san.
+Dialogue: 0,0:17:58.27,0:17:59.06,Default,,0,0,0,,Isumi?!
+Dialogue: 0,0:17:59.14,0:18:01.85,Default,,0,0,0,,Well, I lost to Isumi, but...
+Dialogue: 0,0:18:01.85,0:18:03.94,Default,,0,0,0,,Yeah, you just lost once.
+Dialogue: 0,0:18:05.65,0:18:08.78,Default,,0,0,0,,{\fs24}It's not like I admitted defeat to Isumi with that loss.
+Dialogue: 0,0:18:09.03,0:18:12.28,Default,,0,0,0,,Getting back at him is one of the\Nthings I look forward to as a pro.
+Dialogue: 0,0:18:13.57,0:18:17.45,Default,,0,0,0,,{\fs24}And my other wish as a pro was to play you someday.
+Dialogue: 0,0:18:17.99,0:18:21.04,Background,,0,0,0,,My wish came true pretty fast, I see.
+Dialogue: 0,0:18:26.63,0:18:27.75,Background,,0,0,0,,Good luck.
+Dialogue: 0,0:18:51.44,0:18:55.86,Note,,0,0,0,,{\fad(375,375)}Note: Hoshi are the marked spots on the go board\Nwhich usually offer an advantage in the opening.
+Dialogue: 0,0:18:51.44,0:18:53.61,Thinking,,0,0,0,,Hoshi, hoshi, hoshi...
+Dialogue: 0,0:18:54.11,0:18:55.86,Thinking,,0,0,0,,So he attacked by placing three consecutive hoshis...
+Dialogue: 0,0:18:57.95,0:19:00.70,Thinking,,0,0,0,,Well then... what should I do?
+Dialogue: 0,0:19:02.20,0:19:06.12,Thinking,,0,0,0,,Should I start off early in the game like last time?
+Dialogue: 0,0:19:07.13,0:19:11.34,Thinking,,0,0,0,,He made a fool out of me before,\Nbut this time I won't let him.
+Dialogue: 0,0:19:14.84,0:19:18.01,Thinking,,0,0,0,,No... maybe I want to be made a fool?
+Dialogue: 0,0:19:18.76,0:19:21.35,Thinking,,0,0,0,,{\fs24}Though a part of me says I don't want to lose to anyone...
+Dialogue: 0,0:19:21.81,0:19:28.06,Thinking,,0,0,0,,Maybe the reason I admire someone I can never reach\Nis because I want to see the path he walks in the future...
+Dialogue: 0,0:19:28.98,0:19:32.73,Thinking,,0,0,0,,and a destination that far surpasses my own...
+Dialogue: 0,0:19:36.70,0:19:39.03,Thinking,,0,0,0,,Will my punch work on him?
+Dialogue: 0,0:19:42.20,0:19:43.83,Thinking,,0,0,0,,Or will he dodge it...
+Dialogue: 0,0:19:48.83,0:19:50.34,Thinking,,0,0,0,,It's working, isn't it?
+Dialogue: 0,0:19:55.22,0:19:58.80,Thinking,,0,0,0,,{\fs24}The feeling I get from his game is different from last time.
+Dialogue: 0,0:20:09.69,0:20:10.77,Thinking,,0,0,0,,So it begins here...
+Dialogue: 0,0:20:11.19,0:20:15.78,Note,,0,0,0,,{\fad(375,375)}Note: The ko rule is designed to prevent\Nrepetitive recapture in a given position.
+Dialogue: 0,0:20:11.19,0:20:13.73,Thinking,,0,0,0,,He's onto the ko I took earlier.
+Dialogue: 0,0:20:55.19,0:20:57.28,Default,,0,0,0,,What was your name again?
+Dialogue: 0,0:21:04.53,0:21:07.50,Default,,0,0,0,,It's Isumi-kun. Isumi Shinichirou.
+Dialogue: 0,0:21:08.54,0:21:11.58,Default,,0,0,0,,Isumi, eh? I'll remember that.
+Dialogue: 0,0:21:12.29,0:21:14.59,Default,,0,0,0,,Recently, the newcomers have been no fun at all...
+Dialogue: 0,0:21:14.59,0:21:20.34,Default,,0,0,0,,but ever since Touya's kid entered, interesting\Npeople started to emerge little by little.
+Dialogue: 0,0:21:28.14,0:21:31.60,Thinking,,0,0,0,,So there was some good in staying in the go world.
+Dialogue: 0,0:21:31.98,0:21:37.15,Thinking,,0,0,0,,Especially since his evolution is not complete yet.
+Dialogue: 0,0:21:40.36,0:21:40.99,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:21:50.71,0:21:52.46,Default,,0,0,0,,Damn.
+Dialogue: 0,0:22:03.09,0:22:04.84,Thinking,,0,0,0,,It's no good, I'm going to lose!
+Dialogue: 0,0:22:26.12,0:22:27.24,Background,,0,0,0,,I resign.
+Dialogue: 0,0:22:28.33,0:22:29.66,Background,,0,0,0,,Thank you for the match.
+Dialogue: 0,0:22:32.16,0:22:40.55,Note,,0,0,0,,{\fad(375,375)}Note: tsuke means placing a stone next to your\Nopponent's but not next to one of your own.
+Dialogue: 0,0:22:32.16,0:22:36.50,Default,,0,0,0,,I set up a ko over here, but you came in with\Na well-played tsuke and left me dumbstruck.
+Dialogue: 0,0:22:37.00,0:22:39.25,Default,,0,0,0,,That tsuke over there came as a fluke.
+Dialogue: 0,0:22:39.84,0:22:42.34,Background,,0,0,0,,I thought I'd be struggling by the end, but...
+Dialogue: 0,0:22:43.05,0:22:46.01,Default,,0,0,0,,But the way you planned and executed your\Nmoves was done in a calm manner.
+Dialogue: 0,0:22:46.51,0:22:48.81,Thinking,,0,0,0,,Yeah, I think so, too.
+Dialogue: 0,0:22:49.47,0:22:51.60,Background,,0,0,0,,Thank you, I'm glad I was able to play you.
+Dialogue: 0,0:22:52.02,0:22:52.60,Default,,0,0,0,,Huh?
+Dialogue: 0,0:22:53.77,0:22:58.15,Default,,0,0,0,,It makes my decision to become a pro worthwhile,\Nwhen I think that pros like you exist.
+Dialogue: 0,0:23:05.49,0:23:06.07,Default,,0,0,0,,Ah!
+Dialogue: 0,0:23:06.53,0:23:08.66,Default,,0,0,0,,I completely forgot about Isumi-san's match!
+Dialogue: 0,0:23:10.74,0:23:12.66,Default,,0,0,0,,You were coming to watch as\Nwell, right, Kadowaki-san?
+Dialogue: 0,0:23:13.33,0:23:14.87,Default,,0,0,0,,I wonder if they're still playing...
+Dialogue: 0,0:23:17.63,0:23:18.34,Default,,0,0,0,,Huh?
+Dialogue: 0,0:23:24.01,0:23:25.05,Background,,0,0,0,,Kadowaki-san?
+Dialogue: 0,0:23:26.80,0:23:30.31,Default,,0,0,0,,Oh, Isumi's match! Yeah, let's go.
+Dialogue: 0,0:23:31.60,0:23:37.40,Default,,0,0,0,,Kadowaki-san, you said you were glad\Nyou were able to play me, but...
+Dialogue: 0,0:23:38.56,0:23:39.90,Background,,0,0,0,,What did you really think?
+Dialogue: 0,0:23:45.36,0:23:48.53,Default,,0,0,0,,You're... strong, really strong.
+Dialogue: 0,0:23:50.24,0:23:52.54,Default,,0,0,0,,What I said back then is true.
+Dialogue: 0,0:23:53.83,0:23:54.75,Default,,0,0,0,,Anything else?
+Dialogue: 0,0:23:55.62,0:23:57.04,Default,,0,0,0,,There's more to it, right?
+Dialogue: 0,0:23:59.50,0:24:02.46,Default,,0,0,0,,No, well... um...
+Dialogue: 0,0:24:03.67,0:24:12.60,Default,,0,0,0,,I think you were... probably stronger\Nlast time we played.
