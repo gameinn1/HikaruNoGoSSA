@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 289
-Active Line: 305
-Video Position: 34614
+Scroll Position: 349
+Active Line: 368
+Video Position: 41069
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -375,3 +375,66 @@ Dialogue: 0,0:23:53.83,0:23:54.75,Default,,0,0,0,,Anything else?
 Dialogue: 0,0:23:55.62,0:23:57.04,Default,,0,0,0,,There's more to it, right?
 Dialogue: 0,0:23:59.50,0:24:02.46,Default,,0,0,0,,No, well... um...
 Dialogue: 0,0:24:03.67,0:24:12.60,Default,,0,0,0,,I think you were... probably stronger\Nlast time we played.
+Dialogue: 0,0:24:20.06,0:24:22.65,Default,,0,0,0,,No, sorry, don't worry about it.
+Dialogue: 0,0:24:23.19,0:24:26.32,Default,,0,0,0,,Nah, I think so, too!
+Dialogue: 0,0:24:41.13,0:24:42.88,Default,,0,0,0,,"I think so, too," he says...
+Dialogue: 0,0:24:43.34,0:24:48.97,Default,,0,0,0,,You shouldn't be laughing about the\Nprevious you being stronger...
+Dialogue: 0,0:24:49.84,0:24:56.72,Default,,0,0,0,,I'm still not sure whether he's\Nreally amazing or not...
+Dialogue: 0,0:25:01.15,0:25:01.86,Background,,0,0,0,,Shindou.
+Dialogue: 0,0:25:01.86,0:25:02.52,Default,,0,0,0,,Waya.
+Dialogue: 0,0:25:02.86,0:25:04.36,Default,,0,0,0,,Huh? Is it over?
+Dialogue: 0,0:25:04.73,0:25:06.03,Default,,0,0,0,,How did Isumi-san do?
+Dialogue: 0,0:25:06.15,0:25:08.32,Default,,0,0,0,,Isumi-san won by six and a half moku.
+Dialogue: 0,0:25:08.32,0:25:09.49,Default,,0,0,0,,They're going to review the match now.
+Dialogue: 0,0:25:09.61,0:25:11.78,Default,,0,0,0,,By six and a half moku? That's great!
+Dialogue: 0,0:25:11.78,0:25:14.49,Default,,0,0,0,,What were you doing? You were late.
+Dialogue: 0,0:25:14.91,0:25:19.58,Default,,0,0,0,,I met Kadowaki-san on the way here,\Nso we were playing upstairs until now.
+Dialogue: 0,0:25:19.58,0:25:20.29,Default,,0,0,0,,Huh?
+Dialogue: 0,0:25:20.46,0:25:21.21,Default,,0,0,0,,H-Hey!
+Dialogue: 0,0:25:21.33,0:25:22.88,Background,,0,0,0,,Is it over?
+Dialogue: 0,0:25:23.46,0:25:24.42,Default,,0,0,0,,Kadowaki-san.
+Dialogue: 0,0:25:25.04,0:25:25.88,Default,,0,0,0,,And how did it go?
+Dialogue: 0,0:25:26.25,0:25:29.05,Default,,0,0,0,,Isumi-san won by six and a half moku.
+Dialogue: 0,0:25:29.34,0:25:31.18,Default,,0,0,0,,Um, Kadowaki-san...
+Dialogue: 0,0:25:32.22,0:25:34.76,Default,,0,0,0,,Do you know Shindou?
+Dialogue: 0,0:25:35.22,0:25:36.14,Default,,0,0,0,,Do I know him?
+Dialogue: 0,0:25:36.85,0:25:40.69,Default,,0,0,0,,Well, I played him once before...
+Dialogue: 0,0:25:41.31,0:25:47.86,Default,,0,0,0,,About a year and a half ago when he was still\Nan insei, we played and he beat me so easily.
+Dialogue: 0,0:25:48.19,0:25:51.36,Default,,0,0,0,,So the boy we were talking about\Nearlier {\i1}was{\i0} Shindou after all!
+Dialogue: 0,0:25:51.61,0:25:58.66,Default,,0,0,0,,But when I played him today, I somehow had\Nthe feeling that he was stronger before.
+Dialogue: 0,0:25:58.91,0:25:59.66,Default,,0,0,0,,Huh?
+Dialogue: 0,0:25:59.75,0:26:03.08,Default,,0,0,0,,And on top of that, he laughed and\Nsaid that he thinks so, too...
+Dialogue: 0,0:26:03.08,0:26:06.08,Background,,0,0,0,,I don't understand him.
+Dialogue: 0,0:26:06.54,0:26:09.67,Default,,0,0,0,,{\fs24}Ah, I don't get it either! I'm starting to get confused!
+Dialogue: 0,0:26:10.26,0:26:11.72,Default,,0,0,0,,That's what I told you.
+Dialogue: 0,0:26:11.72,0:26:13.72,Default,,0,0,0,,Thinking about Shindou won't do you any good.
+Dialogue: 0,0:26:14.18,0:26:16.64,Default,,0,0,0,,You're right. We should really\Njust think about ourselves.
+Dialogue: 0,0:26:17.22,0:26:21.14,Background,,0,0,0,,We're not the only ones working\Ntowards the Hokuto Cup.
+Dialogue: 0,0:26:21.77,0:26:26.69,Background,,0,0,0,,I still don't know anything about\Nthe Kansai Institute candidate.
+Dialogue: 0,0:26:37.03,0:26:38.16,Default,,0,0,0,,It's Honda.
+Dialogue: 0,0:26:40.25,0:26:41.12,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:26:41.75,0:26:42.96,Default,,0,0,0,,Oh, so you've come.
+Dialogue: 0,0:26:43.41,0:26:45.50,Default,,0,0,0,,This is Yoshikawa from the\NKansai Institute, he's 8th dan.
+Dialogue: 0,0:26:45.75,0:26:47.92,Default,,0,0,0,,He dropped by today, the first time in a while.
+Dialogue: 0,0:26:48.29,0:26:49.46,Default,,0,0,0,,Good afternoon.
+Dialogue: 0,0:26:52.59,0:26:53.51,Default,,0,0,0,,Good afternoon.
+Dialogue: 0,0:26:54.93,0:26:59.81,Background,,0,0,0,,Toshinori, he became a pro at the Kansai Institute\Nthis year. His name is Yashiro Kiyoharu-kun.
+Dialogue: 0,0:27:00.10,0:27:01.93,Background,,0,0,0,,He's three years younger than you.
+Dialogue: 0,0:27:02.35,0:27:06.31,Default,,0,0,0,,I remembered that you passed this year\Nand were at the master's place...
+Dialogue: 0,0:27:06.31,0:27:08.73,Default,,0,0,0,,so I brought him with me.
+Dialogue: 0,0:27:08.90,0:27:13.07,Default,,0,0,0,,He's quite strong, so try playing with him.
+Dialogue: 0,0:27:13.70,0:27:14.20,Default,,0,0,0,,Sure.
+Dialogue: 0,0:27:23.29,0:27:28.96,Thinking,,0,0,0,,Come to think of it, Ochi mentioned a promising\Nplayer from the Kansai Institute...
+Dialogue: 0,0:27:29.29,0:27:30.84,Thinking,,0,0,0,,So this must be him.
+Dialogue: 0,0:27:31.80,0:27:34.47,Thinking,,0,0,0,,A match before the Hokuto preliminary matches...
+Dialogue: 0,0:27:34.97,0:27:36.18,Thinking,,0,0,0,,I don't want to lose to him.
+Dialogue: 0,0:27:36.30,0:27:38.14,Background,,0,0,0,,Well then, please teach me.
+Dialogue: 0,0:27:38.14,0:27:39.47,Background,,0,0,0,,Good luck.
+Dialogue: 0,0:27:39.85,0:27:40.97,Background,,0,0,0,,Good luck.
+Dialogue: 0,0:27:41.35,0:27:42.43,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:27:54.61,0:27:55.49,Default,,0,0,0,,Huh?
+Dialogue: 0,0:27:56.86,0:27:58.99,Default,,0,0,0,,Maybe I should give {\i1}that{\i0} a try.
+Dialogue: 0,0:27:59.82,0:28:00.53,Thinking,,0,0,0,,That?
+Dialogue: 0,0:28:19.55,0:28:25.06,Note,,0,0,0,,{\fad(375,375)}Note: tengen (origin of heaven) is the name of the center point.
+Dialogue: 0,0:28:19.55,0:28:22.06,Thinking,,0,0,0,,Opening on... tengen?!
+Dialogue: 0,0:28:32.15,0:28:35.49,Thinking,,0,0,0,,All right, I'll take on whatever move you play!
