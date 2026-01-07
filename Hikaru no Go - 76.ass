@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 448
-Active Line: 478
-Video Position: 53855
+Scroll Position: 644
+Active Line: 655
+Video Position: 75137
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -544,7 +544,426 @@ Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(
 Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(323,367)}Ogata Seiji, 10th-dan        Gosei
 Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(324,387)}Vs.
 Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(324,442)}Touya Akira, 3rd-dan
-Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(319.278,277.222)}Honinbou League Second preliminary match Second round
+Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(319,277)}Honinbou League Second preliminary match Second round
 Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(323,367)}Morishita Shigeo, 9th-dan
 Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(324,387)}Vs.
 Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(324,451)}Shindou Hikaru, 1st-dan
+Dialogue: 0,0:37:40.07,0:37:43.24,Thinking,,0,0,0,,He has quite a bit of confidence right now.
+Dialogue: 0,0:37:44.28,0:37:48.04,Thinking,,0,0,0,,It'll take a good deal of effort to attack.
+Dialogue: 0,0:38:02.72,0:38:05.35,Thinking,,0,0,0,,He's making good decisions. And on top of that, he's fast.
+Dialogue: 0,0:38:06.51,0:38:12.23,Thinking,,0,0,0,,I played him a few times in the lectures,\Nbut I can't see an end to his potential.
+Dialogue: 0,0:38:13.65,0:38:20.61,Thinking,,0,0,0,,However, he has only played me in the lectures\Nand he doesn't know me in a real match.
+Dialogue: 0,0:38:21.32,0:38:22.70,Thinking,,0,0,0,,The game is flowing in my favor.
+Dialogue: 0,0:38:23.32,0:38:25.12,Thinking,,0,0,0,,I just have to keep this up.
+Dialogue: 0,0:38:26.16,0:38:31.62,Thinking,,0,0,0,,If Master tries to threaten either of my sides,\NI'll attack the top and force it through.
+Dialogue: 0,0:38:38.34,0:38:42.68,Thinking,,0,0,0,,Ogata-san became my father's pupil before I was born.
+Dialogue: 0,0:38:43.43,0:38:47.30,Thinking,,0,0,0,,Excluding my father, Ogata-san has played me the most.
+Dialogue: 0,0:38:48.47,0:38:50.35,Thinking,,0,0,0,,I can beat him.
+Dialogue: 0,0:38:50.89,0:38:53.56,Thinking,,0,0,0,,I'm getting a good feeling about this match.
+Dialogue: 0,0:38:54.27,0:38:58.23,Thinking,,0,0,0,,I have confidence, the confidence I gained from the\Nmatches I played with Ogata-san in the lectures.
+Dialogue: 0,0:39:03.95,0:39:04.86,Default,,0,0,0,,Huh?
+Dialogue: 0,0:39:07.99,0:39:12.08,Thinking,,0,0,0,,Oh no, if he comes out here...!
+Dialogue: 0,0:39:18.79,0:39:22.63,Thinking,,0,0,0,,Endure it. If I fail here, it'll ruin\Nmy game and it'll all be over.
+Dialogue: 0,0:39:41.19,0:39:43.53,Thinking,,0,0,0,,Something's different than usual...
+Dialogue: 0,0:39:47.41,0:39:48.87,Thinking,,0,0,0,,The atmosphere is heavy...
+Dialogue: 0,0:40:03.92,0:40:07.26,Thinking,,0,0,0,,My fingers aren't coming off the stones as easily.
+Dialogue: 0,0:40:08.59,0:40:12.89,Thinking,,0,0,0,,Damn it, I can't get nervous now! I can't\Nbe swallowed up by this atmosphere!
+Dialogue: 0,0:40:19.31,0:40:25.82,Note,,0,0,0,,{\fad(334,334)}Note: tenuki means playing elsewhere, not where the current challenge\Nis. Atari is the state of a group of stones with only one liberty left.
+Dialogue: 0,0:40:19.31,0:40:20.77,Thinking,,0,0,0,,A tenuki on atari?
+Dialogue: 0,0:40:23.78,0:40:27.07,Thinking,,0,0,0,,Oh no, I should have developed the center first!
+Dialogue: 0,0:40:37.21,0:40:41.29,Note,,0,0,0,,{\fad(334,334)}Note: hanedashi is a hane on the inside, enveloping\None or more of the opponent's stones.
+Dialogue: 0,0:40:37.21,0:40:38.83,Thinking,,0,0,0,,A hanedashi here?
+Dialogue: 0,0:40:47.88,0:40:51.01,Thinking,,0,0,0,,{\fs24}I must get the flow of the game back, one way or another.
+Dialogue: 0,0:40:54.64,0:40:57.94,Thinking,,0,0,0,,This is bad... it'll all be over once\Nhe breaks up my framework!
+Dialogue: 0,0:41:21.04,0:41:21.96,Default,,0,0,0,,I resign.
+Dialogue: 0,0:41:31.72,0:41:32.76,Default,,0,0,0,,I resign.
+Dialogue: 0,0:41:38.73,0:41:40.98,Default,,0,0,0,,Let's go over the game in another room.
+Dialogue: 0,0:41:41.60,0:41:43.69,Default,,0,0,0,,Touya-kun, that was a great match...
+Dialogue: 0,0:41:43.69,0:41:47.48,Default,,0,0,0,,but perhaps you had a hard time because\Nthe opponent was your senpai?
+Dialogue: 0,0:41:47.94,0:41:48.82,Default,,0,0,0,,I'm...
+Dialogue: 0,0:41:49.11,0:41:51.70,Background,,0,0,0,,You can't blame him for getting\Noverwhelmed by the atmosphere.
+Dialogue: 0,0:41:52.11,0:41:54.95,Default,,0,0,0,,So was that the reason you lost?
+Dialogue: 0,0:41:55.37,0:41:57.54,Background,,0,0,0,,He wasn't overwhelmed by the atmosphere.
+Dialogue: 0,0:41:59.37,0:42:01.54,Default,,0,0,0,,I didn't bring him down...
+Dialogue: 0,0:42:01.54,0:42:04.75,Default,,0,0,0,,nor was he getting stiff or too serious\Nfrom wanting to defeat me.
+Dialogue: 0,0:42:05.54,0:42:08.71,Background,,0,0,0,,{\fs24}He was playing with all his strength, calm as always.
+Dialogue: 0,0:42:08.96,0:42:13.39,Default,,0,0,0,,So he plays without hesitation no matter\Nwho his opponent may be?
+Dialogue: 0,0:42:13.39,0:42:15.51,Default,,0,0,0,,That's amazing for a fifteen year old!
+Dialogue: 0,0:42:15.89,0:42:17.76,Background,,0,0,0,,I'm not complimenting him or anything.
+Dialogue: 0,0:42:18.10,0:42:18.77,Default,,0,0,0,,Huh?
+Dialogue: 0,0:42:19.47,0:42:22.48,Default,,0,0,0,,I'm saying that since there were no\Nnegative factors against him...
+Dialogue: 0,0:42:22.81,0:42:25.56,Default,,0,0,0,,this match's result was due to the\Ndifference in our strengths.
+Dialogue: 0,0:42:28.65,0:42:29.78,Default,,0,0,0,,Master Ogata.
+Dialogue: 0,0:42:29.78,0:42:34.28,Background,,0,0,0,,You thought you could defeat me, didn't you?\NBut this match has proven you wrong.
+Dialogue: 0,0:42:38.95,0:42:40.79,Default,,0,0,0,,You're still below me!
+Dialogue: 0,0:42:41.37,0:42:42.66,Thinking,,0,0,0,,Master Ogata...
+Dialogue: 0,0:42:43.46,0:42:45.79,Thinking,,0,0,0,,Why can't he cut him some slack?
+Dialogue: 0,0:42:46.54,0:42:50.30,Thinking,,0,0,0,,He couldn't help but say, "You're still below me."
+Dialogue: 0,0:42:51.05,0:42:54.09,Thinking,,0,0,0,,That's just how much Touya-kun's caught up to him.
+Dialogue: 0,0:42:54.76,0:42:56.85,Thinking,,0,0,0,,Against Ogata 10th-dan, Gosei.
+Dialogue: 0,0:42:58.56,0:43:03.52,Default,,0,0,0,,I've been observing you once a week in the\Nlecture sessions for two years now...
+Dialogue: 0,0:43:04.39,0:43:05.73,Background,,0,0,0,,you've grown.
+Dialogue: 0,0:43:07.94,0:43:08.82,Background,,0,0,0,,Well?
+Dialogue: 0,0:43:09.02,0:43:11.11,Background,,0,0,0,,I thought I had grown.
+Dialogue: 0,0:43:13.24,0:43:18.45,Default,,0,0,0,,I never lost my courage, even in the lecture\Nsessions with the matches against you...
+Dialogue: 0,0:43:19.28,0:43:20.54,Default,,0,0,0,,That was what I thought.
+Dialogue: 0,0:43:21.29,0:43:25.12,Default,,0,0,0,,But I wasn't able to surpass you in a real match.
+Dialogue: 0,0:43:26.42,0:43:28.79,Default,,0,0,0,,I'm still missing something.
+Dialogue: 0,0:43:29.38,0:43:32.21,Default,,0,0,0,,In a real match, eh?
+Dialogue: 0,0:43:32.51,0:43:37.30,Default,,0,0,0,,You can only feel just how frightening\Na pro can be in a real match.
+Dialogue: 0,0:43:39.35,0:43:40.51,Default,,0,0,0,,But that fan...
+Dialogue: 0,0:43:41.60,0:43:45.02,Background,,0,0,0,,You didn't start holding it because\Nyou thought it looked cool, right?
+Dialogue: 0,0:43:46.02,0:43:49.77,Default,,0,0,0,,It's an expression of your resolution, right?
+Dialogue: 0,0:43:50.19,0:43:52.40,Background,,0,0,0,,Then all you can do is chase after me.
+Dialogue: 0,0:44:35.78,0:44:37.24,Background,,0,0,0,,Oh, there she is.
+Dialogue: 0,0:44:37.24,0:44:38.32,Background,,0,0,0,,Kaneko-san!
+Dialogue: 0,0:44:40.45,0:44:42.28,Default,,0,0,0,,Kaneko-san, where's Mitani-kun?
+Dialogue: 0,0:44:42.45,0:44:45.58,Default,,0,0,0,,He left already. What's up?
+Dialogue: 0,0:44:46.20,0:44:48.62,Default,,0,0,0,,I thought we should take a photo\Nwith all the go club members.
+Dialogue: 0,0:44:48.62,0:44:50.38,Default,,0,0,0,,Shindou-kun's not here either.
+Dialogue: 0,0:44:50.38,0:44:54.46,Default,,0,0,0,,It's okay, Hikaru doesn't have to be in it, since\Nhe quit when he was in his first year.
+Dialogue: 0,0:44:55.88,0:44:58.05,Background,,0,0,0,,Nori-chan! Can you take our photo?
+Dialogue: 0,0:44:58.76,0:44:59.43,Default,,0,0,0,,Okay.
+Dialogue: 0,0:45:00.47,0:45:01.80,Background,,0,0,0,,Say cheese!
+Dialogue: 0,0:45:03.10,0:45:04.18,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:45:04.18,0:45:04.97,Background,,0,0,0,,Akari!
+Dialogue: 0,0:45:06.39,0:45:08.06,Default,,0,0,0,,What is it, Hikaru?
+Dialogue: 0,0:45:08.35,0:45:12.27,Default,,0,0,0,,Our moms can't seem to stop talking\Nto each other over there...
+Dialogue: 0,0:45:12.98,0:45:15.57,Default,,0,0,0,,But I want to go home and eat as soon as possible.
+Dialogue: 0,0:45:15.57,0:45:18.82,Default,,0,0,0,,They haven't seen each other\Nsince we were in preschool...
+Dialogue: 0,0:45:18.82,0:45:20.78,Default,,0,0,0,,so they probably have a lot to catch up on.
+Dialogue: 0,0:45:21.53,0:45:23.87,Default,,0,0,0,,Should I take a photo of her with Shindou-kun?
+Dialogue: 0,0:45:24.28,0:45:25.24,Default,,0,0,0,,Let me see that.
+Dialogue: 0,0:45:31.04,0:45:32.92,Default,,0,0,0,,Which high school are you going to attend?
+Dialogue: 0,0:45:33.09,0:45:35.13,Default,,0,0,0,,{\fs24}The exams for the public schools haven't started yet.
+Dialogue: 0,0:45:35.34,0:45:37.96,Default,,0,0,0,,Oh, so you haven't finished your exams yet.
+Dialogue: 0,0:45:38.42,0:45:42.05,Default,,0,0,0,,But whatever school I go to,\NI intend to join the go club.
+Dialogue: 0,0:45:42.26,0:45:44.10,Default,,0,0,0,,I sure hope there is a go club.
+Dialogue: 0,0:45:44.10,0:45:45.51,Default,,0,0,0,,If there isn't one, I'll just start one.
+Dialogue: 0,0:45:48.10,0:45:52.23,Default,,0,0,0,,Just like Tsutsui-san did, and like Koike-kun\Nis trying his best to do now...
+Dialogue: 0,0:45:52.56,0:45:54.02,Default,,0,0,0,,I'm going to try, too!
+Dialogue: 0,0:45:55.27,0:45:56.61,Default,,0,0,0,,Well, just do your best.
+Dialogue: 0,0:45:57.65,0:46:02.16,Default,,0,0,0,,When that happens, can you come\Nand teach me at least once?
+Dialogue: 0,0:46:02.78,0:46:05.78,Default,,0,0,0,,No? Oh wait, pros need to be paid, right?
+Dialogue: 0,0:46:06.49,0:46:08.66,Default,,0,0,0,,I don't need any money. I'll come.
+Dialogue: 0,0:46:09.04,0:46:09.87,Default,,0,0,0,,Really?
+Dialogue: 0,0:46:10.50,0:46:13.88,Default,,0,0,0,,Just ask me anytime when there\Naren't any scheduled matches.
+Dialogue: 0,0:46:17.34,0:46:20.80,Background,,0,0,0,,And so, the second preliminary matches\Nfor the Hokuto Cup began.
+Dialogue: 0,0:46:23.68,0:46:25.26,Background,,0,0,0,,Waya, good morning!
+Dialogue: 0,0:46:25.76,0:46:26.39,Background,,0,0,0,,Shindou.
+Dialogue: 0,0:46:27.43,0:46:29.47,Default,,0,0,0,,The day of the Hokuto Cup is finally here.
+Dialogue: 0,0:46:29.68,0:46:31.27,Default,,0,0,0,,Yeah, it's finally here.
+Dialogue: 0,0:46:32.14,0:46:33.85,Default,,0,0,0,,One person from the Kansai Institute...
+Dialogue: 0,0:46:34.19,0:46:35.86,Default,,0,0,0,,One from the Central General Headquarters...
+Dialogue: 0,0:46:36.15,0:46:37.73,Default,,0,0,0,,One from the Kansai General Headquarters...
+Dialogue: 0,0:46:38.40,0:46:40.53,Background,,0,0,0,,Me, Waya, Ochi, and Inagaki-san.
+Dialogue: 0,0:46:40.94,0:46:43.95,Background,,0,0,0,,The four of us from Tokyo were separated.
+Dialogue: 0,0:46:44.82,0:46:50.37,Default,,0,0,0,,Well, you and I won't have to play each other, so\Nwe can eat lunch together without any problems.
+Dialogue: 0,0:47:05.39,0:47:07.01,Thinking,,0,0,0,,Shindou and I won't be playing each other.
+Dialogue: 0,0:47:07.80,0:47:09.47,Thinking,,0,0,0,,To be honest, I'm glad we're not.
+Dialogue: 0,0:47:11.56,0:47:18.52,Thinking,,0,0,0,,{\fs24}Sometimes I can't keep up with his deep match reading in\NMaster Morishita's lecture sessions, and at my apartment.
+Dialogue: 0,0:47:20.48,0:47:22.44,Thinking,,0,0,0,,Because he's always near me...
+Dialogue: 0,0:47:22.44,0:47:25.49,Thinking,,0,0,0,,I'm forced to recognize the difference in\Nour strength, whether I like it or not.
+Dialogue: 0,0:47:26.41,0:47:31.58,Default,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(0,626)\pos(325,323)}Hokuto Cup
+Dialogue: 0,0:47:26.41,0:47:31.58,Default,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(0,626)\pos(322,447)}Team Selection Match            First Round
+Dialogue: 0,0:47:29.62,0:47:31.75,Background,,0,0,0,,{\an8}Well then, let's go over the rules.
+Dialogue: 0,0:47:33.12,0:47:35.25,Default,,0,0,0,,Each player is allowed up to one and a half hours.
+Dialogue: 0,0:47:35.92,0:47:38.75,Background,,0,0,0,,When you've used up all your time,\Nyou have one minute per move.
+Dialogue: 0,0:47:39.17,0:47:42.63,Note,,0,0,0,,{\fad(376,376)}Note: komi is the handicap for the player making the first move.
+Dialogue: 0,0:47:39.17,0:47:40.63,Background,,0,0,0,,Komi is 5.5 moku.
+Dialogue: 0,0:47:41.05,0:47:44.26,Background,,0,0,0,,The second round will start in this room at 3:00 PM.
+Dialogue: 0,0:47:44.88,0:47:49.47,Background,,0,0,0,,So the four that passed the first round,\Nplease finish your lunch before then.
+Dialogue: 0,0:47:50.85,0:47:53.02,Default,,0,0,0,,Well, please begin.
+Dialogue: 0,0:47:56.44,0:47:57.48,Background,,0,0,0,,Good luck.
+Dialogue: 0,0:47:57.90,0:47:58.86,Background,,0,0,0,,Good luck.
+Dialogue: 0,0:47:59.06,0:48:00.19,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:47:59.48,0:48:00.19,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:48:29.97,0:48:35.43,Note,,0,0,0,,{\fad(376,376)}Note: shitatsuke is a tsuke (contact play)\Nbelow the stone that was placed last.
+Dialogue: 0,0:48:29.97,0:48:31.51,Thinking,,0,0,0,,A shitatsuke?
+Dialogue: 0,0:48:33.14,0:48:34.89,Thinking,,0,0,0,,He's playing an awfully unexpected position.
+Dialogue: 0,0:48:36.06,0:48:38.48,Thinking,,0,0,0,,Can he really do it?
+Dialogue: 0,0:48:52.83,0:48:55.41,Thinking,,0,0,0,,I know it's up to him to decide how to use up his time...
+Dialogue: 0,0:48:55.41,0:48:57.87,Thinking,,0,0,0,,but he's spent 20 minutes on this one move already.
+Dialogue: 0,0:49:14.93,0:49:18.02,Thinking,,0,0,0,,He's playing quite conventionally, considering\Nhow much time he puts into thinking.
+Dialogue: 0,0:49:29.15,0:49:29.99,Default,,0,0,0,,I resign.
+Dialogue: 0,0:49:30.86,0:49:32.24,Default,,0,0,0,,Thank you for the match.
+Dialogue: 0,0:49:35.33,0:49:39.75,Thinking,,0,0,0,,I completely lost in reading the game to a\Nguy who was just an insei until recently!
+Dialogue: 0,0:49:44.13,0:49:47.76,Thinking,,0,0,0,,My next opponent is going to be one of those two.
+Dialogue: 0,0:49:51.89,0:49:52.43,Default,,0,0,0,,Huh?
+Dialogue: 0,0:50:00.31,0:50:02.35,Thinking,,0,0,0,,He completely isolated the center?
+Dialogue: 0,0:50:03.77,0:50:10.11,Thinking,,0,0,0,,To think that white would be pushed back so much... and\Nto think he's taken the lead just by reading ahead...
+Dialogue: 0,0:50:16.12,0:50:18.33,Thinking,,0,0,0,,He's... good.
+Dialogue: 0,0:50:23.50,0:50:25.50,Background,,0,0,0,,The second round is up next.
+Dialogue: 0,0:50:26.54,0:50:29.92,Default,,0,0,0,,If I win, I'll be one of the three\Npeople representing Japan.
+Dialogue: 0,0:50:30.42,0:50:31.01,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:50:33.34,0:50:35.35,Default,,0,0,0,,My second round opponent is Ochi.
+Dialogue: 0,0:50:35.93,0:50:37.89,Default,,0,0,0,,We're playing this out in such a small group...
+Dialogue: 0,0:50:37.89,0:50:40.10,Default,,0,0,0,,we're bound to have to play our friends sometime.
+Dialogue: 0,0:50:41.14,0:50:46.86,Background,,0,0,0,,Ochi is definitely strong, but I've fared pretty\Nwell against him ever since we were insei.
+Dialogue: 0,0:50:47.36,0:50:48.36,Background,,0,0,0,,That's right.
+Dialogue: 0,0:50:49.86,0:50:50.74,Default,,0,0,0,,I want to win.
+Dialogue: 0,0:50:52.78,0:50:55.62,Default,,0,0,0,,My opponent is Yashiro.
+Dialogue: 0,0:50:56.20,0:50:57.74,Default,,0,0,0,,That guy Honda-san was talking about?
+Dialogue: 0,0:50:58.08,0:51:00.37,Default,,0,0,0,,Yeah. The guy who played the tengen opening.
+Dialogue: 0,0:51:01.33,0:51:07.75,Default,,0,0,0,,I knew he was fairly strong from what\NHonda-san said, so I wanted to play him.
+Dialogue: 0,0:51:08.34,0:51:09.42,Default,,0,0,0,,I'm looking forward to it.
+Dialogue: 0,0:51:13.80,0:51:14.72,Thinking,,0,0,0,,Yashiro, eh?
+Dialogue: 0,0:51:15.26,0:51:17.72,Thinking,,0,0,0,,I won't be playing Yashiro or Shindou.
+Dialogue: 0,0:51:19.18,0:51:19.93,Thinking,,0,0,0,,I'm lucky.
+Dialogue: 0,0:51:21.64,0:51:24.06,Thinking,,0,0,0,,Just battle it out among yourselves.
+Dialogue: 0,0:51:29.32,0:51:34.11,Default,,0,0,0,,Damn, I'm so irritated!\NI couldn't play like I usually do!
+Dialogue: 0,0:51:34.53,0:51:39.58,Default,,0,0,0,,Yashiro, I may have lost in the first\Nround, but you have to win.
+Dialogue: 0,0:51:39.58,0:51:42.58,Default,,0,0,0,,If both players from the Kansai Institute\Nlose, it won't be funny.
+Dialogue: 0,0:51:43.00,0:51:45.42,Default,,0,0,0,,How's that Shindou guy you're going to play next?
+Dialogue: 0,0:51:45.83,0:51:47.29,Background,,0,0,0,,You were watching his match, right?
+Dialogue: 0,0:51:51.67,0:51:53.63,Background,,0,0,0,,It doesn't matter what he's like.
+Dialogue: 0,0:51:54.76,0:51:58.68,Default,,0,0,0,,I don't care about the Kansai Institute at all...
+Dialogue: 0,0:51:59.85,0:52:02.31,Default,,0,0,0,,but since I've decided to become\None of Japan's representatives...
+Dialogue: 0,0:52:02.81,0:52:05.10,Default,,0,0,0,,I can't lose no matter who my opponent is.
+Dialogue: 0,0:52:05.56,0:52:06.48,Default,,0,0,0,,That's all.
+Dialogue: 0,0:52:07.15,0:52:12.19,Default,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(0,626)\pos(316,323)}Hokuto Cup
+Dialogue: 0,0:52:07.15,0:52:12.19,Default,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(0,626)\pos(315,447)}Team Selection Match        Second Round
+Dialogue: 0,0:52:10.69,0:52:12.78,Background,,0,0,0,,{\an8}Well then, please be seated.
+Dialogue: 0,0:52:13.82,0:52:19.32,Default,,0,0,0,,Waya-kun and Ochi-kun sit over there,\NShindou-kun and Yashiro-kun sit over here.
+Dialogue: 0,0:52:29.08,0:52:35.26,Default,,0,0,0,,The winners of these two matches are going to be\Nrepresenting Japan at the Hokuto Cup next month.
+Dialogue: 0,0:52:41.97,0:52:43.97,Default,,0,0,0,,Well, please begin.
+Dialogue: 0,0:52:50.06,0:52:51.61,Thinking,,0,0,0,,Yashiro's got the first move.
+Dialogue: 0,0:52:53.15,0:52:57.90,Thinking,,0,0,0,,I wonder if he'll open on tengen.
+Dialogue: 0,0:52:59.57,0:53:01.99,Memory,,0,0,0,,I played him at my master's place...
+Dialogue: 0,0:53:02.24,0:53:06.08,Memory,,0,0,0,,but he used an opening on tengen\Nthen, and I completely lost.
+Dialogue: 0,0:53:06.45,0:53:11.33,Note,,0,0,0,,{\fad(376,376)}Note: a kifu is a record of a go game.
+Dialogue: 0,0:53:06.45,0:53:11.21,Memory,,0,0,0,,I was so frustrated that I gathered up all the pro\Nkifu's with tengen openings I could find...
+Dialogue: 0,0:53:11.67,0:53:18.55,Memory,,0,0,0,,and I tried it since I had the first move against\NShindou today, but I completely lost again.
+Dialogue: 0,0:53:22.10,0:53:24.56,Thinking,,0,0,0,,That game was exciting, Honda-san.
+Dialogue: 0,0:53:26.72,0:53:27.77,Background,,0,0,0,,Good luck.
+Dialogue: 0,0:53:45.03,0:53:48.87,Thinking,,0,0,0,,A tengen opening... I wonder if he'll play that for me, too.
+Dialogue: 0,0:53:51.25,0:53:53.63,Thinking,,0,0,0,,Play it.
+Dialogue: 0,0:54:08.85,0:54:09.56,Thinking,,0,0,0,,What?
+Dialogue: 0,0:54:12.90,0:54:14.36,Thinking,,0,0,0,,5-5?
+Dialogue: 0,0:54:28.16,0:54:28.91,Thinking,,0,0,0,,What?
+Dialogue: 0,0:54:33.92,0:54:36.00,Thinking,,0,0,0,,A 5-5 opening?
+Dialogue: 0,0:54:36.75,0:54:40.13,Thinking,,0,0,0,,That's not a move you'd play unless\Nyou were confident in your strength.
+Dialogue: 0,0:54:41.84,0:54:45.68,Thinking,,0,0,0,,That's so like him, but why now?
+Dialogue: 0,0:54:45.89,0:54:49.60,Thinking,,0,0,0,,Opening on 5-5 is not unheard-of...
+Dialogue: 0,0:54:50.14,0:54:54.27,Thinking,,0,0,0,,but its chance of being played is probably\Nlower than opening on tengen.
+Dialogue: 0,0:55:06.28,0:55:07.49,Thinking,,0,0,0,,Now we're talking...
+Dialogue: 0,0:55:29.39,0:55:31.22,Thinking,,0,0,0,,Second move, tengen?
+Dialogue: 0,0:55:54.08,0:56:00.55,Thinking,,0,0,0,,No, it's not a bad move. The 5-5 I played\Naims at confusing the opponent.
+Dialogue: 0,0:56:01.30,0:56:06.26,Thinking,,0,0,0,,To that, people sometimes play a tengen which\Nhas an advantage over the whole board.
+Dialogue: 0,0:56:06.80,0:56:08.97,Thinking,,0,0,0,,Second move, tengen...
+Dialogue: 0,0:56:09.97,0:56:11.06,Thinking,,0,0,0,,I'm surprised...
+Dialogue: 0,0:56:12.22,0:56:13.81,Thinking,,0,0,0,,Second move in on tengen?
+Dialogue: 0,0:56:15.27,0:56:19.90,Thinking,,0,0,0,,So there really is a guy who surpasses Yashiro.
+Dialogue: 0,0:56:29.70,0:56:30.53,Thinking,,0,0,0,,What?!
+Dialogue: 0,0:56:33.33,0:56:34.87,Thinking,,0,0,0,,What?!
+Dialogue: 0,0:56:35.33,0:56:38.50,Thinking,,0,0,0,,5-5 again on the third move?!
+Dialogue: 0,0:56:43.84,0:56:46.01,Thinking,,0,0,0,,What on earth are these two doing?
+Dialogue: 0,0:56:46.72,0:56:48.30,Thinking,,0,0,0,,Damn you.
+Dialogue: 0,0:56:51.26,0:56:54.18,Thinking,,0,0,0,,If that's the way you want to play, bring it on!
+Dialogue: 0,0:56:59.06,0:57:02.11,Thinking,,0,0,0,,Wow, I'm this close to just flipping their board over.
+Dialogue: 0,0:57:02.11,0:57:04.82,Thinking,,0,0,0,,Yashiro, you better be confident enough to win.
+Dialogue: 0,0:57:12.83,0:57:18.87,Note,,0,0,0,,{\fad(376,376)}Note: kakari (hanging) is a move played as an\Napproach to a single stone in the corner.
+Dialogue: 0,0:57:12.78,0:57:16.95,Thinking,,0,0,0,,{\fs24}Both of them play a hoshi, followed by a kakari, and then...
+Dialogue: 0,0:57:18.66,0:57:20.63,Thinking,,0,0,0,,I'll seal off the tengen's effect!
+Dialogue: 0,0:57:27.17,0:57:28.38,Thinking,,0,0,0,,I won't let you!
+Dialogue: 0,0:57:28.84,0:57:30.18,Thinking,,0,0,0,,I won't let you!
+Dialogue: 0,0:57:45.69,0:57:50.74,Note,,0,0,0,,{\fad(376,376)}Note: kake is a move to cover for another stone on the board.
+Dialogue: 0,0:57:45.69,0:57:47.78,Thinking,,0,0,0,,Black plays kake... that's a good move.
+Dialogue: 0,0:57:50.07,0:57:51.45,Thinking,,0,0,0,,He's starting to cut in!
+Dialogue: 0,0:58:01.25,0:58:03.17,Thinking,,0,0,0,,What are you going to do now?
+Dialogue: 0,0:58:19.10,0:58:21.35,Thinking,,0,0,0,,This is the kind of play I've built up through hard work.
+Dialogue: 0,0:58:21.64,0:58:23.10,Thinking,,0,0,0,,How are you going to respond, Ochi?
+Dialogue: 0,0:58:37.99,0:58:43.04,Note,,0,0,0,,{\fad(376,376)}Note: ryogakari is a double kakari which is a\Nmove to approach a single stone in a corner.
+Dialogue: 0,0:58:37.99,0:58:39.95,Thinking,,0,0,0,,He moved to ryogakari.
+Dialogue: 0,0:58:40.25,0:58:42.75,Thinking,,0,0,0,,It must be quite hard for Ochi-kun.
+Dialogue: 0,0:58:54.47,0:58:58.14,Thinking,,0,0,0,,The white territory is large, but\Nit's concentrated on one side.
+Dialogue: 0,0:58:58.56,0:59:00.22,Thinking,,0,0,0,,Waya-kun's on a roll.
+Dialogue: 0,0:59:01.23,0:59:05.35,Thinking,,0,0,0,,It seemed as if Ochi-kun's move was\Nthe right thing in the beginning...
+Dialogue: 0,0:59:05.81,0:59:09.48,Thinking,,0,0,0,,Huh? Nobody's watching the other game?
+Dialogue: 0,0:59:09.90,0:59:12.03,Thinking,,0,0,0,,I wonder if everyone went somewhere else.
+Dialogue: 0,0:59:19.91,0:59:21.62,Thinking,,0,0,0,,What the hell is this?
+Dialogue: 0,0:59:22.00,0:59:25.25,Thinking,,0,0,0,,I can't tell what's going on at all!
+Dialogue: 0,0:59:25.25,0:59:27.75,Thinking,,0,0,0,,{\fs24}And on top of that, they're exchanging blows at the tengen.
+Dialogue: 0,0:59:29.09,0:59:30.63,Thinking,,0,0,0,,What the hell is going on?
+Dialogue: 0,0:59:54.61,0:59:55.24,Default,,0,0,0,,How is it?
+Dialogue: 0,0:59:55.53,0:59:57.74,Default,,0,0,0,,There's quite a dogfight going on in there!
+Dialogue: 0,0:59:59.83,1:00:03.96,Default,,0,0,0,,He kept attacking the weak side, instead of just\Ntaking the move, he made a counterattack and...
+Dialogue: 0,1:00:05.50,1:00:07.75,Background,,0,0,0,,My god, it's complete chaos!
+Dialogue: 0,1:00:08.17,1:00:10.46,Default,,0,0,0,,It's still so complicated here and there...
+Dialogue: 0,1:00:10.46,1:00:12.84,Default,,0,0,0,,but I'm surprised they can still\Nplay such a frightening match.
+Dialogue: 0,1:00:13.13,1:00:15.34,Default,,0,0,0,,This move from white is a good one, right?
+Dialogue: 0,1:00:15.63,1:00:20.43,Default,,0,0,0,,Yeah, it connects your own stones\Nwhile cutting off the opponent's...
+Dialogue: 0,1:00:20.43,1:00:22.18,Background,,0,0,0,,and moves into the upper area at the same time.
+Dialogue: 0,1:00:22.18,1:00:23.98,Background,,0,0,0,,It's a good move that he's read into quite deeply.
+Dialogue: 0,1:00:24.77,1:00:27.02,Background,,0,0,0,,No, Yashiro-kun isn't losing either.
+Dialogue: 0,1:00:27.48,1:00:30.61,Background,,0,0,0,,To be honest, I didn't think he could play this well.
+Dialogue: 0,1:00:31.73,1:00:35.65,Default,,0,0,0,,It's such a pity that one of them isn't\Ngoing to be able to participate...
+Dialogue: 0,1:00:37.03,1:00:42.41,Background,,0,0,0,,If these two were playing, we might put up an\Ninteresting match even against China and Korea.
+Dialogue: 0,1:00:45.79,1:00:51.96,Background,,0,0,0,,Shindou, Yashiro... if Touya Akira joins these two...
+Dialogue: 0,1:00:55.09,1:00:55.88,Background,,0,0,0,,Touya!
+Dialogue: 0,1:00:57.47,1:00:58.43,Default,,0,0,0,,Kurata-san!
+Dialogue: 0,1:00:58.72,1:01:00.30,Default,,0,0,0,,Did you come to watch, too?
+Dialogue: 0,1:01:00.76,1:01:02.81,Default,,0,0,0,,The team selection matches\Nfor the Hokuto Cup, that is.
+Dialogue: 0,1:01:03.39,1:01:04.14,Default,,0,0,0,,Kurata-san, too?
+Dialogue: 0,1:01:04.68,1:01:07.77,Default,,0,0,0,,I'm Japan's team leader, you know.
+Dialogue: 0,1:01:08.19,1:01:09.23,Default,,0,0,0,,You are?
+Dialogue: 0,1:01:09.44,1:01:12.98,Default,,0,0,0,,I sure am, I can't just stay and watch\Nwhen it's against China and Korea.
+Dialogue: 0,1:01:13.48,1:01:14.19,Default,,0,0,0,,Let's go.
+Dialogue: 0,1:01:16.78,1:01:22.95,Thinking,,0,0,0,,And one of the two remaining members\Nis going to be you, right, Shindou?
+Dialogue: 0,1:01:34.55,1:01:35.09,Default,,0,0,0,,Huh?
+Dialogue: 0,1:01:35.63,1:01:37.34,Background,,0,0,0,,Here, he played here!
+Dialogue: 0,1:01:39.34,1:01:40.43,Background,,0,0,0,,I see.
+Dialogue: 0,1:01:40.43,1:01:42.55,Background,,0,0,0,,Pressuring yet defending at the same time...
+Dialogue: 0,1:01:42.55,1:01:45.64,Background,,0,0,0,,Amazing... that move solidified his game!
+Dialogue: 0,1:01:48.14,1:01:52.06,Background,,0,0,0,,But... this Shindou vs. Yashiro\Nmatch sure was something.
+Dialogue: 0,1:01:52.23,1:01:52.86,Default,,0,0,0,,Huh?
+Dialogue: 0,1:01:53.86,1:01:57.53,Background,,0,0,0,,Though that last move probably decided\Nthe winner, it's such a pity.
+Dialogue: 0,1:01:58.78,1:02:02.20,Background,,0,0,0,,It's such a waste... he's really good, after all.
+Dialogue: 0,1:02:09.75,1:02:10.54,Thinking,,0,0,0,,It couldn't be!
+Dialogue: 0,1:02:14.92,1:02:16.05,Thinking,,0,0,0,,Shindou!
+Dialogue: 0,1:02:42.15,1:02:44.70,Thinking,,0,0,0,,The one winning is white... Shindou.
+Dialogue: 0,1:02:46.12,1:02:50.12,Thinking,,0,0,0,,{\fs24}But this match is amazing... I can't see how they played it.
+Dialogue: 0,1:02:50.83,1:02:53.17,Thinking,,0,0,0,,What kind of match was it?
+Dialogue: 0,1:03:04.89,1:03:05.51,Thinking,,0,0,0,,Touya!
+Dialogue: 0,1:03:12.73,1:03:15.44,Thinking,,0,0,0,,So he's only concerned with Shindou's match...
+Dialogue: 0,1:03:16.11,1:03:17.73,Thinking,,0,0,0,,He never changes.
+Dialogue: 0,1:03:26.53,1:03:28.91,Thinking,,0,0,0,,I admit this was one of Waya's best matches...
+Dialogue: 0,1:03:29.24,1:03:32.62,Thinking,,0,0,0,,but since this stone is useless now,\Nthe match is pretty much over.
+Dialogue: 0,1:03:45.84,1:03:46.72,Default,,0,0,0,,I resign.
+Dialogue: 0,1:03:47.64,1:03:48.97,Default,,0,0,0,,Thank you for the match.
+Dialogue: 0,1:03:51.31,1:03:52.98,Default,,0,0,0,,Thank you for the match.
+Dialogue: 0,1:03:53.64,1:03:56.90,Thinking,,0,0,0,,Touya, now I'm on the same level as you.
+Dialogue: 0,1:03:56.90,1:03:58.73,Thinking,,0,0,0,,I'm also a representative for the Japanese team.
+Dialogue: 0,1:04:00.90,1:04:05.15,Default,,0,0,0,,I guess we finally know who's more suitable\Nas a representative, don't we?
+Dialogue: 0,1:04:05.57,1:04:06.91,Default,,0,0,0,,It's me, just as I thought.
+Dialogue: 0,1:04:10.28,1:04:11.79,Thinking,,0,0,0,,D-Damn it!
+Dialogue: 0,1:04:14.21,1:04:17.50,Thinking,,0,0,0,,I don't care anymore, it's all over. I'm going home.
+Dialogue: 0,1:04:20.17,1:04:20.84,Thinking,,0,0,0,,Ochi?
+Dialogue: 0,1:04:29.05,1:04:30.60,Thinking,,0,0,0,,What on earth is this?
+Dialogue: 0,1:04:33.93,1:04:35.60,Default,,0,0,0,,The first move was 5-5?
+Dialogue: 0,1:04:36.23,1:04:37.60,Default,,0,0,0,,Second move, tengen?
+Dialogue: 0,1:04:37.85,1:04:40.94,Default,,0,0,0,,Then, the third move was 5-5 by Yashiro again.
+Dialogue: 0,1:04:40.94,1:04:41.86,Default,,0,0,0,,What?
+Dialogue: 0,1:04:42.11,1:04:44.44,Default,,0,0,0,,It's an amazing match.
+Dialogue: 0,1:04:47.20,1:04:50.07,Background,,0,0,0,,This is what happened, and the black's\Nkake was a good response...
+Dialogue: 0,1:04:50.45,1:04:53.91,Default,,0,0,0,,but it was impressive how white bargained\Nout its individual stones.
+Dialogue: 0,1:04:54.29,1:04:57.96,Default,,0,0,0,,It sure was amusing how Shindou put up\Na fight after being cut off by the tsuke.
+Dialogue: 0,1:05:00.04,1:05:05.13,Note,,0,0,0,,{\fad(376,376)}Note: nozoki is a threat to cut (degiri) between the opponent's stones.
+Dialogue: 0,1:05:00.04,1:05:02.92,Default,,0,0,0,,Black withered away with white's nozoki.
+Dialogue: 0,1:05:03.34,1:05:05.59,Default,,0,0,0,,But Yashiro didn't stay put.
+Dialogue: 0,1:05:11.47,1:05:13.06,Default,,0,0,0,,He aimed that way!
+Dialogue: 0,1:05:13.35,1:05:17.06,Background,,0,0,0,,Yes, instead of doing anything\Nto the untouched upper area...
+Dialogue: 0,1:05:17.60,1:05:20.06,Background,,0,0,0,,he took a gamble to take this area.
+Dialogue: 0,1:05:24.98,1:05:28.74,Background,,0,0,0,,But Shindou-kun endured it.
+Dialogue: 0,1:05:35.66,1:05:41.75,Note,,0,0,0,,{\fad(376,376)}Note: oki is a play inside the opponent's group, mostly on a vital point.
+Dialogue: 0,1:05:35.66,1:05:39.08,Default,,0,0,0,,When white played an oki, the\Ngame was almost finished.
+Dialogue: 0,1:05:39.08,1:05:41.75,Default,,0,0,0,,They both have the strength to excel.
+Dialogue: 0,1:05:42.46,1:05:47.72,Default,,0,0,0,,Oh, you're one of the representatives\Nnow, Ochi-kun. Congratulations.
+Dialogue: 0,1:05:51.05,1:05:52.80,Default,,0,0,0,,I'll go watch the match.
+Dialogue: 0,1:05:58.18,1:06:00.48,Default,,0,0,0,,So that Ochi guy was chosen?
+Dialogue: 0,1:06:00.48,1:06:01.19,Default,,0,0,0,,Yes.
+Dialogue: 0,1:06:01.65,1:06:03.65,Default,,0,0,0,,How was his match?
+Dialogue: 0,1:06:03.65,1:06:05.48,Default,,0,0,0,,His level is quite high.
+Dialogue: 0,1:06:05.86,1:06:09.11,Default,,0,0,0,,But compared to this Shindou vs. Yashiro match...
+Dialogue: 0,1:06:09.65,1:06:15.12,Background,,0,0,0,,Ochi-kun and Waya-kun were well aware of each\Nother's style, so it helped them out sometimes...
+Dialogue: 0,1:06:15.49,1:06:18.58,Default,,0,0,0,,This match is too amazing.
+Dialogue: 0,1:06:18.58,1:06:19.33,Default,,0,0,0,,Yes.
+Dialogue: 0,1:06:20.04,1:06:22.62,Default,,0,0,0,,Yashiro... it's a pity...
+Dialogue: 0,1:06:23.13,1:06:26.55,Default,,0,0,0,,but I guess it can't be helped, since this\Nis the result of the preliminaries.
+Dialogue: 0,1:06:27.38,1:06:32.80,Thinking,,0,0,0,,Anyone can tell right away. The difference between\NOchi's and Yashiro's go sense is...
+Dialogue: 0,1:06:33.80,1:06:36.01,Default,,0,0,0,,I guess, I'll go to the match room.
+Dialogue: 0,1:06:40.35,1:06:41.69,Default,,0,0,0,,Master Watanabe!
+Dialogue: 0,1:06:42.27,1:06:43.85,Default,,0,0,0,,Are the results in?
+Dialogue: 0,1:06:44.48,1:06:45.56,Default,,0,0,0,,Kosemura-san.
+Dialogue: 0,1:06:47.36,1:06:51.74,Default,,0,0,0,,These are Togari-san and Aikawa-san from\NHokuto Communication Systems.
+Dialogue: 0,1:06:52.07,1:06:52.91,Default,,0,0,0,,I'm Togari.
+Dialogue: 0,1:06:53.28,1:06:54.16,Default,,0,0,0,,I'm Aikawa.
+Dialogue: 0,1:06:54.57,1:06:56.87,Default,,0,0,0,,I just dropped by.
+Dialogue: 0,1:06:57.33,1:06:59.37,Default,,0,0,0,,How are the matches going?
+Dialogue: 0,1:06:59.79,1:07:04.79,Default,,0,0,0,,One has been won by Ochi-kun, but\Nthe other one is still being played.
+Dialogue: 0,1:07:05.13,1:07:08.13,Default,,0,0,0,,Master Watanabe, Yashiro has resigned.
+Dialogue: 0,1:07:09.25,1:07:10.42,Default,,0,0,0,,I see, I'll be right there.
+Dialogue: 0,1:07:10.88,1:07:13.09,Default,,0,0,0,,So this Yashiro boy just lost?
+Dialogue: 0,1:07:13.47,1:07:14.64,Default,,0,0,0,,It appears so.
+Dialogue: 0,1:07:14.89,1:07:15.64,Default,,0,0,0,,Please excuse me.
+Dialogue: 0,1:07:16.76,1:07:17.97,Default,,0,0,0,,Shall we go as well?
+Dialogue: 0,1:07:18.18,1:07:20.77,Default,,0,0,0,,No, we'll wait here.
+Dialogue: 0,1:07:21.14,1:07:25.77,Default,,0,0,0,,Really? Well, I'm going to go take some\Nphotos and get some comments.
+Dialogue: 0,1:07:26.19,1:07:27.77,Default,,0,0,0,,Please do.
+Dialogue: 0,1:07:32.19,1:07:35.28,Default,,0,0,0,,Congratulations on your selection as\Nrepresentatives for the Hokuto Cup!
+Dialogue: 0,1:07:49.59,1:07:51.76,Default,,0,0,0,,But Ochi-kun...
+Dialogue: 0,1:07:52.59,1:07:56.14,Default,,0,0,0,,Please let me play Yashiro-kun!
+Dialogue: 0,1:07:56.39,1:07:59.60,Default,,0,0,0,,I want you to decide the players\Nfrom the result of that match!
+Dialogue: 0,1:07:59.60,1:08:00.56,Default,,0,0,0,,What?
+Dialogue: 0,1:08:01.01,1:08:04.89,Default,,0,0,0,,If I stayed as a representative,\Nnobody would be satisfied, right?
+Dialogue: 0,1:08:05.02,1:08:06.98,Default,,0,0,0,,When I watched these two play...
+Dialogue: 0,1:08:06.98,1:08:10.65,Default,,0,0,0,,I couldn't approve of my own selection\Nas one of the representatives!
+Dialogue: 0,1:08:11.11,1:08:16.03,Default,,0,0,0,,{\fs24}I want to make it clear whether it should be Yashiro\Nor myself who will be representing Japan!
+Dialogue: 0,1:08:21.12,1:08:23.50,Thinking,,0,0,0,,Ochi, your pride is admirable.
+Dialogue: 0,1:08:23.70,1:08:27.83,Thinking,,0,0,0,,To think I was happy that I didn't\Nhave to play Shindou or Yashiro...
+Dialogue: 0,1:08:33.13,1:08:37.43,Default,,0,0,0,,That boy from the Kansai Institute you\Nwere talking about... he lost, didn't he?
+Dialogue: 0,1:08:38.30,1:08:42.47,Default,,0,0,0,,Yeah, I guess he wasn't as good\Nas the Institute said he was.
+Dialogue: 0,1:08:43.81,1:08:47.69,Default,,0,0,0,,But maybe his opponent was extremely strong.
+Dialogue: 0,1:08:48.15,1:08:50.56,Default,,0,0,0,,I hope so.
+Dialogue: 0,1:08:51.44,1:08:54.99,Default,,0,0,0,,Japan doesn't have to win, but it would\Nbe troublesome if they were too weak.
+Dialogue: 0,1:08:55.32,1:08:57.45,Default,,0,0,0,,I want to make the tournament interesting.
+Dialogue: 0,1:08:58.11,1:08:59.36,Default,,0,0,0,,Director...
+Dialogue: 0,1:08:59.36,1:09:00.49,Background,,0,0,0,,Togari-san!
+Dialogue: 0,1:09:04.33,1:09:05.95,Default,,0,0,0,,Did you complete your interviews?
+Dialogue: 0,1:09:06.37,1:09:08.12,Default,,0,0,0,,No, actually...
+Dialogue: 0,1:09:10.79,1:09:15.67,Default,,0,0,0,,I heard what happened. So you want to extend the\Npreliminary matches by one more match, right?
+Dialogue: 0,1:09:16.13,1:09:19.13,Default,,0,0,0,,Yes, I know I'm asking for the impossible...
+Dialogue: 0,1:09:20.43,1:09:22.51,Default,,0,0,0,,I understand. I'll allow it.
+Dialogue: 0,1:09:23.56,1:09:28.39,Default,,0,0,0,,But we also have our schedules, so we\Nwant it done as soon as possible.
+Dialogue: 0,1:09:28.60,1:09:30.90,Default,,0,0,0,,I'm fine with it being as early as tomorrow!
+Dialogue: 0,1:09:31.48,1:09:32.52,Default,,0,0,0,,How about you, Yashiro-kun?
+Dialogue: 0,1:09:32.81,1:09:34.86,Default,,0,0,0,,I'm also fine with playing anytime...
+Dialogue: 0,1:09:34.86,1:09:36.90,Default,,0,0,0,,because it's something I didn't\Neven imagine would happen.
+Dialogue: 0,1:09:38.78,1:09:39.86,Default,,0,0,0,,Are you sure it's okay?
+Dialogue: 0,1:09:41.24,1:09:42.12,Default,,0,0,0,,I'm sure.
+Dialogue: 0,1:09:51.88,1:09:55.13,Thinking,,0,0,0,,And the next day, Ochi and Yashiro played their match.
+Dialogue: 0,1:10:08.48,1:10:12.10,Thinking,,0,0,0,,Yashiro didn't put up a dogfight like he did with me...
+Dialogue: 0,1:10:12.98,1:10:16.07,Thinking,,0,0,0,,and Ochi played well too, but...
+Dialogue: 0,1:10:34.88,1:10:36.09,Default,,0,0,0,,I resign.
+Dialogue: 0,1:10:41.26,1:10:45.14,Thinking,,0,0,0,,The end of one match is the beginning of another.
+Dialogue: 0,1:10:46.81,1:10:51.23,Thinking,,0,0,0,,This is not everything, and it is not the end.
+Dialogue: 0,1:10:52.56,1:10:56.52,Thinking,,0,0,0,,We are all gathered in the midst of a vast current.
+Dialogue: 0,1:11:02.65,1:11:05.62,Op2Romaji,,0,0,0,,{\c&H7D8950&\fs65\bord0\pos(457,91)\frz355\b1}Go Salon{\b0}
+Dialogue: 0,1:11:03.32,1:11:05.07,Background,,0,0,0,,No, no, that move won't work!
+Dialogue: 0,1:11:06.20,1:11:09.16,Default,,0,0,0,,You're better off playing a nozoki\Nthan defending over here.
+Dialogue: 0,1:11:09.75,1:11:13.37,Default,,0,0,0,,I don't exactly like how that shape is played, but...
+Dialogue: 0,1:11:13.96,1:11:18.63,Default,,0,0,0,,Having likes and dislikes is exactly the reason\Nwhy you lost in the Honinbou League.
+Dialogue: 0,1:11:18.63,1:11:19.96,Default,,0,0,0,,Hey, Shindou!
+Dialogue: 0,1:11:20.30,1:11:23.80,Default,,0,0,0,,You only made it to the second\Npreliminary round, remember?
+Dialogue: 0,1:11:24.05,1:11:25.47,Default,,0,0,0,,Kitajima-san...
+Dialogue: 0,1:11:25.68,1:11:28.18,Default,,0,0,0,,There are other leagues, too! Just watch me!
+Dialogue: 0,1:11:28.39,1:11:30.31,Default,,0,0,0,,I'll catch up to Touya in no time!
+Dialogue: 0,1:11:30.31,1:11:32.31,Default,,0,0,0,,Heh, we'll see about that!
+Dialogue: 0,1:11:32.31,1:11:33.69,Default,,0,0,0,,Look forward to it!
+Dialogue: 0,1:11:33.98,1:11:35.23,Default,,0,0,0,,Well, well.
+Dialogue: 0,1:11:35.52,1:11:39.69,Default,,0,0,0,,Those two are good rivals to the point where\Nthey can share their opinions so actively.
+Dialogue: 0,1:11:40.69,1:11:44.53,Background,,0,0,0,,Isn't having a good rival a wonderful thing?
+Dialogue: 0,1:11:44.95,1:11:47.70,Background,,0,0,0,,It's fun just playing against them, for starters.
+Dialogue: 0,1:11:48.03,1:11:53.71,Default,,0,0,0,,Even I'm enjoying go like this because I have\Na perfect opponent like you, Kitajima-san.
+Dialogue: 0,1:11:54.50,1:11:57.88,Background,,0,0,0,,Maybe saying that you're my perfect opponent\Nis an insult to you, Kitajima-san.
+Dialogue: 0,1:12:00.30,1:12:05.26,Default,,0,0,0,,Then the god of go must be quite lonely.
+Dialogue: 0,1:12:07.84,1:12:11.18,Default,,0,0,0,,There's nobody on the same level as he is, after all.
+Dialogue: 0,1:12:12.77,1:12:14.56,Default,,0,0,0,,You've brought up an interesting point.
+Dialogue: 0,1:12:14.68,1:12:20.98,Default,,0,0,0,,Maybe that's why the god of go is teaching men\Nhow to play and devote themselves to go.
+Dialogue: 0,1:12:21.32,1:12:22.23,Default,,0,0,0,,Huh?
+Dialogue: 0,1:12:22.94,1:12:27.03,Default,,0,0,0,,To raise a player who can play equally against him.
+Dialogue: 0,1:12:34.62,1:12:43.80,Default,,0,0,0,,Does that mean go players of the past and present\Nare all improving together through friendly rivalry?
+Dialogue: 0,1:12:44.26,1:12:45.97,Default,,0,0,0,,That's right!
+Dialogue: 0,1:12:46.13,1:12:49.39,Default,,0,0,0,,With each person affecting the other.
+Dialogue: 0,1:12:50.76,1:12:54.93,Default,,0,0,0,,Sounds like a plan that will take a million years.
+Dialogue: 0,1:12:55.56,1:13:01.48,Default,,0,0,0,,Then that means that me playing go\Nhas something to do with that plan.
+Dialogue: 0,1:13:01.57,1:13:02.69,Default,,0,0,0,,No, it doesn't!
+Dialogue: 0,1:13:02.69,1:13:03.65,Default,,0,0,0,,It definitely doesn't!
+Dialogue: 0,1:13:03.65,1:13:05.19,Default,,0,0,0,,Shindou!
+Dialogue: 0,1:13:05.49,1:13:11.45,Default,,0,0,0,,Geez, recently it's not Akira-kun anymore but\NKitajima-san who is arguing with Shindou-kun.
+Dialogue: 0,1:13:13.54,1:13:14.33,Default,,0,0,0,,Let's play.
+Dialogue: 0,1:13:15.33,1:13:15.95,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:13:39.60,1:13:42.90,Thinking,,0,0,0,,Sai, I'll get stronger...
+Dialogue: 0,1:13:43.98,1:13:48.32,Thinking,,0,0,0,,And I'll definitely play the divine move one day...
+Dialogue: 0,1:13:55.37,1:13:59.08,Thinking,,0,0,0,,{\fs24}The divine move that you've been seeking the whole time.
+Dialogue: 0,1:13:59.58,1:14:02.50,Thinking,,0,0,0,,{\fad(0,584)}Just wait, Sai!
