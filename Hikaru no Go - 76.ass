@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 644
-Active Line: 655
-Video Position: 75137
+Scroll Position: 464
+Active Line: 478
+Video Position: 53804
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -539,15 +539,15 @@ Dialogue: 0,0:36:57.36,0:36:59.53,Default,,0,0,0,,Good morning, Ogata-san.
 Dialogue: 0,0:37:00.66,0:37:01.45,Default,,0,0,0,,Morning.
 Dialogue: 0,0:37:04.66,0:37:07.04,Thinking,,0,0,0,,This is our first match in the pro world.
 Dialogue: 0,0:37:08.08,0:37:17.05,Note,,0,0,0,,{\fad(375,0)}Note: 10th dan (jyudan) and gosei are titles Ogata-san holds.
-Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(253,273)}Honinbou League
-Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(419,273)}Fifth Match
-Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(323,367)}Ogata Seiji, 10th-dan        Gosei
-Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(324,387)}Vs.
-Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(324,442)}Touya Akira, 3rd-dan
-Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(319,277)}Honinbou League Second preliminary match Second round
-Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(323,367)}Morishita Shigeo, 9th-dan
-Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(324,387)}Vs.
-Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(501,0)\pos(324,451)}Shindou Hikaru, 1st-dan
+Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(584,0)\pos(253,273)}Honinbou League
+Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(584,0)\pos(419,273)}Fifth Match
+Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(584,0)\pos(323,367)}Ogata Seiji, 10th-dan        Gosei
+Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(584,0)\pos(324,387)}Vs.
+Dialogue: 0,0:37:08.08,0:37:17.05,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(584,0)\pos(324,442)}Touya Akira, 3rd-dan
+Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(584,0)\pos(319,277)}Honinbou League Second preliminary match Second round
+Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(584,0)\pos(323,367)}Morishita Shigeo, 9th-dan
+Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(584,0)\pos(324,387)}Vs.
+Dialogue: 0,0:37:24.05,0:37:33.06,Default,,0,0,0,,{\c&HFFFFFF&\fs19\bord2.5\fad(584,0)\pos(324,451)}Shindou Hikaru, 1st-dan
 Dialogue: 0,0:37:40.07,0:37:43.24,Thinking,,0,0,0,,He has quite a bit of confidence right now.
 Dialogue: 0,0:37:44.28,0:37:48.04,Thinking,,0,0,0,,It'll take a good deal of effort to attack.
 Dialogue: 0,0:38:02.72,0:38:05.35,Thinking,,0,0,0,,He's making good decisions. And on top of that, he's fast.
