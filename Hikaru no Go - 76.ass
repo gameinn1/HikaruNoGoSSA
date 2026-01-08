@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 892
-Active Line: 913
-Video Position: 108738
+Active Line: 895
+Video Position: 106622
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,11 +70,11 @@ Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H800000
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
 Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
-Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,2,19,19,15,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,2,19,19,16,1
+Style: special_intro,Freehand 471,29,&H00C0FFFF,&H000000FF,&H00000000,&H005E5D56,0,0,0,0,100,100,0,0,1,2,1.5,2,19,19,16,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:01:42.04,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:01:42.04,0:01:43.25,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:01:47.84,0:01:49.05,Thinking,,0,0,0,,Sai!
 Dialogue: 0,0:01:49.30,0:01:52.22,Thinking,,0,0,0,,You're here in my dream!
@@ -84,7 +83,6 @@ Dialogue: 0,0:01:56.05,0:01:57.06,Thinking,,0,0,0,,Don't go!
 Dialogue: 0,0:01:57.22,0:01:58.47,Thinking,,0,0,0,,Say something!
 Dialogue: 0,0:01:59.02,0:01:59.72,Thinking,,0,0,0,,Don't go away!
 Dialogue: 0,0:02:00.52,0:02:01.23,Thinking,,0,0,0,,Sai!
-Dialogue: 0,0:02:27.42,0:02:30.42,Default,chptr,0,0,0,,{The Road to the Hokuto Cup}
 Dialogue: 0,0:02:27.59,0:02:32.42,Title_special,,0,0,0,for the special,{\fad(359,0)\q2\blur0.8\fscy70\fscx330\t(0,329,1,\fscx100)\pos(311,334)}The Road to the Hokuto Cup
 Dialogue: 0,0:03:04.87,0:03:06.54,Default,,0,0,0,,Is Hikaru playing?
 Dialogue: 0,0:03:08.79,0:03:10.75,Default,,0,0,0,,Huh? Did you say something, dear?
@@ -972,7 +970,6 @@ Dialogue: 0,1:13:39.60,1:13:42.90,Thinking,,0,0,0,,Sai, I'll get stronger...
 Dialogue: 0,1:13:43.98,1:13:48.32,Thinking,,0,0,0,,And I'll definitely play the divine move one day...
 Dialogue: 0,1:13:55.37,1:13:59.08,Thinking,,0,0,0,,{\fs24.9}The divine move that you've been seeking the whole time.
 Dialogue: 0,1:13:59.58,1:14:02.50,Thinking,,0,0,0,,{\fad(0,584)}Just wait, Sai!
-Dialogue: 0,1:14:03.13,1:14:06.13,Default,chptr,0,0,0,,{Ending}
 Dialogue: 0,1:14:07.01,1:14:11.80,special_end,,0,0,0,,When I looked at you, your sight was warming me.
 Dialogue: 0,1:14:12.22,1:14:17.27,special_end,,0,0,0,,I believe in you, were the words I etched on to the window
 Dialogue: 0,1:14:17.47,1:14:22.19,special_end,,0,0,0,,In the midst of this falling snow

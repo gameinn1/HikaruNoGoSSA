@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Active Line: 3
-Video Position: 2999
+Video Position: 3005
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,13 +58,19 @@ Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
+Style: Title_eps,Verdana,39,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
+Style: Title_eps_top,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
+Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:55.30,0:01:56.60,Thinking,,0,0,0,,He isn't here...
 Dialogue: 0,0:01:57.60,0:01:58.97,Thinking,,0,0,0,,Why aren't you here, Sai?
 Dialogue: 0,0:01:59.81,0:02:03.48,Thinking,,0,0,0,,Didn't you want to come and visit Torajirou's homeland?
-Dialogue: 0,0:02:04.19,0:02:09.11,Title,,0,0,0,,{\fs28}The Sixty-Second Match\N\N{\fs}The Top Player in Hiroshima
+Dialogue: 0,0:02:04.19,0:02:09.11,Title_eps_top,,0,0,0,for ep 62,{\fad(316,0)\fscx197\t(0,290,1,\fscx99)\blur0.8\pos(335.45,116.89)}The Sixty-Second Match
+Dialogue: 0,0:02:04.19,0:02:09.11,Title_eps,,0,0,0,for ep 62,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,290,1,\fscx100)\pos(324.54,363.85)}The Top Player in Hiroshima
 Dialogue: 0,0:02:09.11,0:02:12.11,Note,,0,0,0,,GO IGO CLUB
 Dialogue: 0,0:02:10.19,0:02:12.11,Background,,0,0,0,,What are you talking about!? That makes no sense.
 Dialogue: 0,0:02:12.78,0:02:15.16,Background,,0,0,0,,Where did you get 50,000!?
