@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Hikaru no Go Special - Journey to the North Star Cup.mkv
-Video File: Hikaru no Go Special - Journey to the North Star Cup.mkv
+Audio File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x1080 x.264 Flac).mkv
+Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
-Video AR Value: 1.312963
+Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 881
-Active Line: 896
-Video Position: 106343
+Scroll Position: 892
+Active Line: 913
+Video Position: 108738
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,9 +71,11 @@ Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H800000
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
 Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,2,19,19,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:42.04,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:01:42.04,0:01:43.25,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:01:47.84,0:01:49.05,Thinking,,0,0,0,,Sai!
 Dialogue: 0,0:01:49.30,0:01:52.22,Thinking,,0,0,0,,You're here in my dream!
@@ -82,6 +84,7 @@ Dialogue: 0,0:01:56.05,0:01:57.06,Thinking,,0,0,0,,Don't go!
 Dialogue: 0,0:01:57.22,0:01:58.47,Thinking,,0,0,0,,Say something!
 Dialogue: 0,0:01:59.02,0:01:59.72,Thinking,,0,0,0,,Don't go away!
 Dialogue: 0,0:02:00.52,0:02:01.23,Thinking,,0,0,0,,Sai!
+Dialogue: 0,0:02:27.42,0:02:30.42,Default,chptr,0,0,0,,{The Road to the Hokuto Cup}
 Dialogue: 0,0:02:27.59,0:02:32.42,Title_special,,0,0,0,for the special,{\fad(359,0)\q2\blur0.8\fscy70\fscx330\t(0,329,1,\fscx100)\pos(311,334)}The Road to the Hokuto Cup
 Dialogue: 0,0:03:04.87,0:03:06.54,Default,,0,0,0,,Is Hikaru playing?
 Dialogue: 0,0:03:08.79,0:03:10.75,Default,,0,0,0,,Huh? Did you say something, dear?
@@ -167,17 +170,14 @@ Dialogue: 0,0:07:18.50,0:07:19.46,Default,,0,0,0,,You know, right?
 Dialogue: 0,0:07:19.71,0:07:20.63,Default,,0,0,0,,With the team matches...
 Dialogue: 0,0:07:21.46,0:07:23.55,Default,,0,0,0,,I just might be able to play a match with you then.
 Dialogue: 0,0:07:27.09,0:07:30.51,Default,,0,0,0,,I'm not going to be participating in the\Npreliminary matches for the Hokuto Cup.
-Comment: 0,0:07:31.68,0:07:33.56,Default,,0,0,0,,AonE has this on one line. Potentially fs24?
 Dialogue: 0,0:07:31.68,0:07:33.56,Background,,0,0,0,,{\fs24.5}I've already been chosen as one of the three players.
 Dialogue: 0,0:07:33.77,0:07:34.48,Default,,0,0,0,,What?
 Dialogue: 0,0:07:35.64,0:07:36.94,Default,,0,0,0,,What the hell is that?!
 Dialogue: 0,0:07:36.94,0:07:38.48,Default,,0,0,0,,Why are you the only one not participating?!
 Dialogue: 0,0:07:38.69,0:07:39.48,Default,,0,0,0,,That's not fair!
 Dialogue: 0,0:07:39.69,0:07:44.32,Default,,0,0,0,,Hey now, even in the other matches, those\Nwith a good record get seeded, right?
-Comment: 0,0:07:44.32,0:07:44.32,Default,,0,0,0,,Again this is a 2 liner from participating
 Dialogue: 0,0:07:44.82,0:07:48.32,Default,,0,0,0,,{\fs24.7}The young master over there is already participating\nin the leagues, so don't complain about it!
 Dialogue: 0,0:07:48.78,0:07:52.58,Background,,0,0,0,,That's right. And you're only a first dan, you know.
-Comment: 0,0:07:54.66,0:07:58.62,Default,,0,0,0,,Another fs24
 Dialogue: 0,0:07:54.66,0:07:58.62,Default,,0,0,0,,{\fs24.9}So this is the difference between those participating\Nin the leagues and a mere first dan...
 Dialogue: 0,0:08:01.38,0:08:02.09,Default,,0,0,0,,Shindou?
 Dialogue: 0,0:08:02.63,0:08:04.92,Background,,0,0,0,,{\fs24.4}But it doesn't measure the difference in our strength.
@@ -972,3 +972,22 @@ Dialogue: 0,1:13:39.60,1:13:42.90,Thinking,,0,0,0,,Sai, I'll get stronger...
 Dialogue: 0,1:13:43.98,1:13:48.32,Thinking,,0,0,0,,And I'll definitely play the divine move one day...
 Dialogue: 0,1:13:55.37,1:13:59.08,Thinking,,0,0,0,,{\fs24.9}The divine move that you've been seeking the whole time.
 Dialogue: 0,1:13:59.58,1:14:02.50,Thinking,,0,0,0,,{\fad(0,584)}Just wait, Sai!
+Dialogue: 0,1:14:03.13,1:14:06.13,Default,chptr,0,0,0,,{Ending}
+Dialogue: 0,1:14:07.01,1:14:11.80,special_end,,0,0,0,,When I looked at you, your sight was warming me.
+Dialogue: 0,1:14:12.22,1:14:17.27,special_end,,0,0,0,,I believe in you, were the words I etched on to the window
+Dialogue: 0,1:14:17.47,1:14:22.19,special_end,,0,0,0,,In the midst of this falling snow
+Dialogue: 0,1:14:22.65,1:14:28.90,special_end,,0,0,0,,I walk alone, in search of you...
+Dialogue: 0,1:14:40.71,1:14:45.09,special_end,,0,0,0,,All these couples walking around town...
+Dialogue: 0,1:14:45.42,1:14:50.30,special_end,,0,0,0,,They seem happy, don't they?
+Dialogue: 0,1:14:50.72,1:14:54.89,special_end,,0,0,0,,I am heartbroken at the sight
+Dialogue: 0,1:14:55.43,1:14:58.93,special_end,,0,0,0,,As they remind me of us, back then.
+Dialogue: 0,1:14:59.47,1:15:04.94,special_end,,0,0,0,,I want to hear your voice on lonely nights.
+Dialogue: 0,1:15:05.06,1:15:09.94,special_end,,0,0,0,,I could still feel you even on those days I cried.
+Dialogue: 0,1:15:10.11,1:15:14.78,special_end,,0,0,0,,It was no coincidence that we met.
+Dialogue: 0,1:15:15.07,1:15:18.70,special_end,,0,0,0,,I was able to overcome anything...
+Dialogue: 0,1:15:19.20,1:15:22.54,special_end,,0,0,0,,because you were there for me.
+Dialogue: 0,1:15:22.91,1:15:27.38,special_end,,0,0,0,,If this voice can reach you, please come right now.
+Dialogue: 0,1:15:27.92,1:15:32.72,special_end,,0,0,0,,As the shining snow melts on the palm of my hands...
+Dialogue: 0,1:15:32.92,1:15:34.84,special_end,,0,0,0,,Maybe if I spread my arms,
+Dialogue: 0,1:15:35.47,1:15:37.39,special_end,,0,0,0,,The eternity falling before me,
+Dialogue: 0,1:15:37.93,1:15:43.35,special_end,,0,0,0,,{\fad(0,459)}Will reach you in your embrace...
