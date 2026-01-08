@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x1080 x.264 Flac).mkv
+Audio File: Hikaru no Go Special - Journey to the North Star Cup.mkv
+Video File: Hikaru no Go Special - Journey to the North Star Cup.mkv
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 464
-Active Line: 478
-Video Position: 53804
+Scroll Position: 881
+Active Line: 896
+Video Position: 106343
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -66,6 +66,11 @@ Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
+Style: Title_eps,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
+Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
+Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -77,7 +82,7 @@ Dialogue: 0,0:01:56.05,0:01:57.06,Thinking,,0,0,0,,Don't go!
 Dialogue: 0,0:01:57.22,0:01:58.47,Thinking,,0,0,0,,Say something!
 Dialogue: 0,0:01:59.02,0:01:59.72,Thinking,,0,0,0,,Don't go away!
 Dialogue: 0,0:02:00.52,0:02:01.23,Thinking,,0,0,0,,Sai!
-Dialogue: 0,0:02:27.59,0:02:32.42,Title,,0,0,0,,{\shad10\bord4}The Road to the Hokuto Cup
+Dialogue: 0,0:02:27.59,0:02:32.42,Title_special,,0,0,0,for the special,{\fad(359,0)\q2\blur0.8\fscy70\fscx330\t(0,329,1,\fscx100)\pos(311,334)}The Road to the Hokuto Cup
 Dialogue: 0,0:03:04.87,0:03:06.54,Default,,0,0,0,,Is Hikaru playing?
 Dialogue: 0,0:03:08.79,0:03:10.75,Default,,0,0,0,,Huh? Did you say something, dear?
 Dialogue: 0,0:03:11.25,0:03:13.13,Background,,0,0,0,,Is Hikaru playing again?
@@ -163,19 +168,19 @@ Dialogue: 0,0:07:19.71,0:07:20.63,Default,,0,0,0,,With the team matches...
 Dialogue: 0,0:07:21.46,0:07:23.55,Default,,0,0,0,,I just might be able to play a match with you then.
 Dialogue: 0,0:07:27.09,0:07:30.51,Default,,0,0,0,,I'm not going to be participating in the\Npreliminary matches for the Hokuto Cup.
 Comment: 0,0:07:31.68,0:07:33.56,Default,,0,0,0,,AonE has this on one line. Potentially fs24?
-Dialogue: 0,0:07:31.68,0:07:33.56,Background,,0,0,0,,{\fs24}I've already been chosen as one of the three players.
+Dialogue: 0,0:07:31.68,0:07:33.56,Background,,0,0,0,,{\fs24.5}I've already been chosen as one of the three players.
 Dialogue: 0,0:07:33.77,0:07:34.48,Default,,0,0,0,,What?
 Dialogue: 0,0:07:35.64,0:07:36.94,Default,,0,0,0,,What the hell is that?!
 Dialogue: 0,0:07:36.94,0:07:38.48,Default,,0,0,0,,Why are you the only one not participating?!
 Dialogue: 0,0:07:38.69,0:07:39.48,Default,,0,0,0,,That's not fair!
 Dialogue: 0,0:07:39.69,0:07:44.32,Default,,0,0,0,,Hey now, even in the other matches, those\Nwith a good record get seeded, right?
 Comment: 0,0:07:44.32,0:07:44.32,Default,,0,0,0,,Again this is a 2 liner from participating
-Dialogue: 0,0:07:44.82,0:07:48.32,Default,,0,0,0,,{\fs24}The young master over there is already participating\nin the leagues, so don't complain about it!
+Dialogue: 0,0:07:44.82,0:07:48.32,Default,,0,0,0,,{\fs24.7}The young master over there is already participating\nin the leagues, so don't complain about it!
 Dialogue: 0,0:07:48.78,0:07:52.58,Background,,0,0,0,,That's right. And you're only a first dan, you know.
 Comment: 0,0:07:54.66,0:07:58.62,Default,,0,0,0,,Another fs24
-Dialogue: 0,0:07:54.66,0:07:58.62,Default,,0,0,0,,{\fs24}So this is the difference between those participating\Nin the leagues and a mere first dan...
+Dialogue: 0,0:07:54.66,0:07:58.62,Default,,0,0,0,,{\fs24.9}So this is the difference between those participating\Nin the leagues and a mere first dan...
 Dialogue: 0,0:08:01.38,0:08:02.09,Default,,0,0,0,,Shindou?
-Dialogue: 0,0:08:02.63,0:08:04.92,Background,,0,0,0,,{\fs24}But it doesn't measure the difference in our strength.
+Dialogue: 0,0:08:02.63,0:08:04.92,Background,,0,0,0,,{\fs24.4}But it doesn't measure the difference in our strength.
 Dialogue: 0,0:08:05.46,0:08:08.55,Default,,0,0,0,,Hey, don't get too cocky now, kid!
 Dialogue: 0,0:08:09.64,0:08:12.81,Default,,0,0,0,,I'll pass the preliminary matches in April for sure.
 Dialogue: 0,0:08:13.22,0:08:15.18,Default,,0,0,0,,Until then, I won't come here.
@@ -235,7 +240,7 @@ Dialogue: 0,0:11:50.31,0:11:53.57,Background,,0,0,0,,But I completely lost to yo
 Dialogue: 0,0:11:53.98,0:11:55.78,Background,,0,0,0,,There, I finally realized that I was too naive...
 Dialogue: 0,0:11:55.78,0:11:57.40,Background,,0,0,0,,so I rescheduled to take the exam a year later.
 Dialogue: 0,0:11:57.78,0:12:00.24,Background,,0,0,0,,Because I felt it just wouldn't do with\Nthe strength I had back then.
-Dialogue: 0,0:12:02.49,0:12:04.54,Default,,0,0,0,,{\fs24}Though I was confident that I'd pass the pro exams...
+Dialogue: 0,0:12:02.49,0:12:04.54,Default,,0,0,0,,{\fs24.2}Though I was confident that I'd pass the pro exams...
 Dialogue: 0,0:12:04.54,0:12:07.54,Default,,0,0,0,,I didn't have the confidence to\Nplay against players like you.
 Dialogue: 0,0:12:07.79,0:12:11.96,Default,,0,0,0,,And so I figured that I'd have to aim\Nhigher, to reach a further goal.
 Dialogue: 0,0:12:12.59,0:12:16.92,Background,,0,0,0,,You were so strong back then that you made\Nme, a snobby brat, face the facts.
@@ -250,7 +255,7 @@ Dialogue: 0,0:12:55.80,0:12:59.30,Default,,0,0,0,,What the hell is Shindou doing
 Dialogue: 0,0:13:00.59,0:13:01.76,Default,,0,0,0,,He's late.
 Dialogue: 0,0:13:02.30,0:13:05.76,Default,,0,0,0,,He said he'd come to watch\NIsumi-san's New First Dan match.
 Dialogue: 0,0:13:06.43,0:13:08.35,Default,,0,0,0,,Kadowaki-san's not here yet, either.
-Dialogue: 0,0:13:09.94,0:13:12.86,Default,,0,0,0,,{\fs24}Honda-san, you lost six times in the pro exam, right?
+Dialogue: 0,0:13:09.94,0:13:12.86,Default,,0,0,0,,{\fs24.6}Honda-san, you lost six times in the pro exam, right?
 Dialogue: 0,0:13:13.27,0:13:15.69,Default,,0,0,0,,I'm surprised you were able\Nto pass with such a score.
 Dialogue: 0,0:13:15.86,0:13:20.32,Default,,0,0,0,,Isumi-san won them all and Kadowaki-san\Njust lost once against Isumi-san.
 Dialogue: 0,0:13:20.78,0:13:25.87,Default,,0,0,0,,Those two took all the wins this year, so all\Nthat was left was a miserable scramble.
@@ -258,7 +263,7 @@ Dialogue: 0,0:13:33.79,0:13:34.92,Background,,0,0,0,,He's not coming.
 Dialogue: 0,0:13:36.09,0:13:36.75,Default,,0,0,0,,Huh?
 Dialogue: 0,0:13:40.17,0:13:43.97,Default,,0,0,0,,Say, I heard that Touya's already one of\Nthe chosen players for the Hokuto Cup.
 Dialogue: 0,0:13:44.18,0:13:47.77,Default,,0,0,0,,If it's chosen based on our records,\NI should have been chosen, too.
-Dialogue: 0,0:13:48.56,0:13:53.27,Default,,0,0,0,,{\fs24}When players are under 18, it's hard to differentiate\Nbased on records, as there aren't many to begin with.
+Dialogue: 0,0:13:48.56,0:13:53.27,Default,,0,0,0,,{\fs24.3}When players are under 18, it's hard to differentiate\Nbased on records, as there aren't many to begin with.
 Dialogue: 0,0:13:53.81,0:13:58.07,Default,,0,0,0,,You're right... you're also a new\Npro who's participating.
 Dialogue: 0,0:13:58.69,0:14:00.78,Default,,0,0,0,,Regarding the pros that started this year...
 Dialogue: 0,0:14:00.78,0:14:03.57,Default,,0,0,0,,I heard there's a promising one\Nfrom the Kansai Institute.
@@ -297,7 +302,7 @@ Dialogue: 0,0:16:11.24,0:16:12.12,Default,,0,0,0,,It's pretty funny, eh?
 Dialogue: 0,0:16:13.49,0:16:14.33,Default,,0,0,0,,No...
 Dialogue: 0,0:16:15.62,0:16:20.25,Default,,0,0,0,,But now I'm getting the feeling that it was\Njust a dream, or some kind of illusion.
 Dialogue: 0,0:16:21.96,0:16:26.55,Default,,0,0,0,,What should I do with these\Nhigh hopes I have for you?
-Dialogue: 0,0:16:26.92,0:16:29.89,Default,,0,0,0,,{\fs24}Should I still look forward to great things from you?
+Dialogue: 0,0:16:26.92,0:16:29.89,Default,,0,0,0,,{\fs24.9}Should I still look forward to great things from you?
 Dialogue: 0,0:16:36.98,0:16:39.94,Default,,0,0,0,,Oh, sorry I stopped you.
 Dialogue: 0,0:16:43.94,0:16:46.99,Default,,0,0,0,,Isumi's New First Dan match has already started.
 Dialogue: 0,0:16:55.58,0:16:56.41,Default,,0,0,0,,Kadowaki-san...
@@ -317,9 +322,9 @@ Dialogue: 0,0:17:55.35,0:17:57.72,Default,,0,0,0,,Yeah, you lost to Isumi-san.
 Dialogue: 0,0:17:58.27,0:17:59.06,Default,,0,0,0,,Isumi?!
 Dialogue: 0,0:17:59.14,0:18:01.85,Default,,0,0,0,,Well, I lost to Isumi, but...
 Dialogue: 0,0:18:01.85,0:18:03.94,Default,,0,0,0,,Yeah, you just lost once.
-Dialogue: 0,0:18:05.65,0:18:08.78,Default,,0,0,0,,{\fs24}It's not like I admitted defeat to Isumi with that loss.
+Dialogue: 0,0:18:05.65,0:18:08.78,Default,,0,0,0,,{\fs24.3}It's not like I admitted defeat to Isumi with that loss.
 Dialogue: 0,0:18:09.03,0:18:12.28,Default,,0,0,0,,Getting back at him is one of the\Nthings I look forward to as a pro.
-Dialogue: 0,0:18:13.57,0:18:17.45,Default,,0,0,0,,{\fs24}And my other wish as a pro was to play you someday.
+Dialogue: 0,0:18:13.57,0:18:17.45,Default,,0,0,0,,{\fs24.2}And my other wish as a pro was to play you someday.
 Dialogue: 0,0:18:17.99,0:18:21.04,Background,,0,0,0,,My wish came true pretty fast, I see.
 Dialogue: 0,0:18:26.63,0:18:27.75,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:18:51.44,0:18:55.86,Note,,0,0,0,,{\fad(375,375)}Note: Hoshi are the marked spots on the go board\Nwhich usually offer an advantage in the opening.
@@ -329,13 +334,13 @@ Dialogue: 0,0:18:57.95,0:19:00.70,Thinking,,0,0,0,,Well then... what should I do
 Dialogue: 0,0:19:02.20,0:19:06.12,Thinking,,0,0,0,,Should I start off early in the game like last time?
 Dialogue: 0,0:19:07.13,0:19:11.34,Thinking,,0,0,0,,He made a fool out of me before,\Nbut this time I won't let him.
 Dialogue: 0,0:19:14.84,0:19:18.01,Thinking,,0,0,0,,No... maybe I want to be made a fool?
-Dialogue: 0,0:19:18.76,0:19:21.35,Thinking,,0,0,0,,{\fs24}Though a part of me says I don't want to lose to anyone...
+Dialogue: 0,0:19:18.76,0:19:21.35,Thinking,,0,0,0,,{\fs24.9}Though a part of me says I don't want to lose to anyone...
 Dialogue: 0,0:19:21.81,0:19:28.06,Thinking,,0,0,0,,Maybe the reason I admire someone I can never reach\Nis because I want to see the path he walks in the future...
 Dialogue: 0,0:19:28.98,0:19:32.73,Thinking,,0,0,0,,and a destination that far surpasses my own...
 Dialogue: 0,0:19:36.70,0:19:39.03,Thinking,,0,0,0,,Will my punch work on him?
 Dialogue: 0,0:19:42.20,0:19:43.83,Thinking,,0,0,0,,Or will he dodge it...
 Dialogue: 0,0:19:48.83,0:19:50.34,Thinking,,0,0,0,,It's working, isn't it?
-Dialogue: 0,0:19:55.22,0:19:58.80,Thinking,,0,0,0,,{\fs24}The feeling I get from his game is different from last time.
+Dialogue: 0,0:19:55.22,0:19:58.80,Thinking,,0,0,0,,{\fs24.9}The feeling I get from his game is different from last time.
 Dialogue: 0,0:20:09.69,0:20:10.77,Thinking,,0,0,0,,So it begins here...
 Dialogue: 0,0:20:11.19,0:20:15.78,Note,,0,0,0,,{\fad(375,375)}Note: The ko rule is designed to prevent\Nrepetitive recapture in a given position.
 Dialogue: 0,0:20:11.19,0:20:13.73,Thinking,,0,0,0,,He's onto the ko I took earlier.
@@ -405,7 +410,7 @@ Dialogue: 0,0:25:51.61,0:25:58.66,Default,,0,0,0,,But when I played him today, I
 Dialogue: 0,0:25:58.91,0:25:59.66,Default,,0,0,0,,Huh?
 Dialogue: 0,0:25:59.75,0:26:03.08,Default,,0,0,0,,And on top of that, he laughed and\Nsaid that he thinks so, too...
 Dialogue: 0,0:26:03.08,0:26:06.08,Background,,0,0,0,,I don't understand him.
-Dialogue: 0,0:26:06.54,0:26:09.67,Default,,0,0,0,,{\fs24}Ah, I don't get it either! I'm starting to get confused!
+Dialogue: 0,0:26:06.54,0:26:09.67,Default,,0,0,0,,{\fs24.5}Ah, I don't get it either! I'm starting to get confused!
 Dialogue: 0,0:26:10.26,0:26:11.72,Default,,0,0,0,,That's what I told you.
 Dialogue: 0,0:26:11.72,0:26:13.72,Default,,0,0,0,,Thinking about Shindou won't do you any good.
 Dialogue: 0,0:26:14.18,0:26:16.64,Default,,0,0,0,,You're right. We should really\Njust think about ourselves.
@@ -476,12 +481,12 @@ Dialogue: 0,0:30:49.29,0:30:53.75,Memory,,0,0,0,,The road of a pro is long, and\
 Dialogue: 0,0:30:54.79,0:30:56.38,Memory,,0,0,0,,You study your whole life.
 Dialogue: 0,0:30:58.50,0:31:00.34,Memory,,0,0,0,,You understand that, Toshinori?
 Dialogue: 0,0:31:04.09,0:31:07.26,Thinking,,0,0,0,,That's right... I'm a professional go player.
-Dialogue: 0,0:31:08.55,0:31:12.73,Thinking,,0,0,0,,{\fs24}The road of a pro is long, and on top of that, it has no goal.
+Dialogue: 0,0:31:08.55,0:31:12.73,Thinking,,0,0,0,,{\fs24.4}The road of a pro is long, and on top of that, it has no goal.
 Dialogue: 0,0:31:14.69,0:31:16.35,Thinking,,0,0,0,,You study your whole life.
 Dialogue: 0,0:31:22.65,0:31:24.24,Thinking,,0,0,0,,Opening on tengen, eh?
 Dialogue: 0,0:31:24.86,0:31:27.28,Thinking,,0,0,0,,He played an interesting position.
 Dialogue: 0,0:31:27.66,0:31:28.49,Thinking,,0,0,0,,All right!
-Dialogue: 0,0:31:54.68,0:31:58.44,Thinking,,0,0,0,,{\fs24}How's that? Black won't be able to connect easily this way.
+Dialogue: 0,0:31:54.68,0:31:58.44,Thinking,,0,0,0,,{\fs24.7}How's that? Black won't be able to connect easily this way.
 Dialogue: 0,0:31:59.44,0:32:01.69,Thinking,,0,0,0,,I'll render your tengen worthless
 Dialogue: 0,0:32:04.36,0:32:07.11,Thinking,,0,0,0,,For that, I'll play hard here!
 Dialogue: 0,0:32:10.66,0:32:12.62,Thinking,,0,0,0,,The world in which we spend our whole life!
@@ -516,7 +521,7 @@ Dialogue: 0,0:34:35.14,0:34:37.22,Default,,0,0,0,,Oh, I guess I'm black.
 Dialogue: 0,0:34:38.43,0:34:41.60,Default,,0,0,0,,Oh yeah, you have a match against\Na 9th dan this week, right?
 Dialogue: 0,0:34:42.31,0:34:44.60,Default,,0,0,0,,Let's see... yes, yes, it's right here.
 Dialogue: 0,0:34:44.81,0:34:47.94,Default,,0,0,0,,Honinbou League, secondary preliminary\Nmatches, second round...
-Dialogue: 0,0:34:47.94,0:34:51.15,Background,,0,0,0,,{\fs24}Morishita Shigeo 9th dan vs. Shindou Hikaru 1st dan.
+Dialogue: 0,0:34:47.94,0:34:51.15,Background,,0,0,0,,{\fs24.6}Morishita Shigeo 9th dan vs. Shindou Hikaru 1st dan.
 Dialogue: 0,0:34:53.28,0:34:58.45,Default,,0,0,0,,I've been studying with master Morishita\Nevery week for two years now.
 Dialogue: 0,0:34:58.91,0:35:02.87,Default,,0,0,0,,He's taught me many things\Never since I was an insei.
 Dialogue: 0,0:35:03.16,0:35:04.00,Default,,0,0,0,,Oh?
@@ -573,7 +578,7 @@ Dialogue: 0,0:40:19.31,0:40:20.77,Thinking,,0,0,0,,A tenuki on atari?
 Dialogue: 0,0:40:23.78,0:40:27.07,Thinking,,0,0,0,,Oh no, I should have developed the center first!
 Dialogue: 0,0:40:37.21,0:40:41.29,Note,,0,0,0,,{\fad(334,334)}Note: hanedashi is a hane on the inside, enveloping\None or more of the opponent's stones.
 Dialogue: 0,0:40:37.21,0:40:38.83,Thinking,,0,0,0,,A hanedashi here?
-Dialogue: 0,0:40:47.88,0:40:51.01,Thinking,,0,0,0,,{\fs24}I must get the flow of the game back, one way or another.
+Dialogue: 0,0:40:47.88,0:40:51.01,Thinking,,0,0,0,,{\fs24.7}I must get the flow of the game back, one way or another.
 Dialogue: 0,0:40:54.64,0:40:57.94,Thinking,,0,0,0,,This is bad... it'll all be over once\Nhe breaks up my framework!
 Dialogue: 0,0:41:21.04,0:41:21.96,Default,,0,0,0,,I resign.
 Dialogue: 0,0:41:31.72,0:41:32.76,Default,,0,0,0,,I resign.
@@ -586,7 +591,7 @@ Dialogue: 0,0:41:52.11,0:41:54.95,Default,,0,0,0,,So was that the reason you los
 Dialogue: 0,0:41:55.37,0:41:57.54,Background,,0,0,0,,He wasn't overwhelmed by the atmosphere.
 Dialogue: 0,0:41:59.37,0:42:01.54,Default,,0,0,0,,I didn't bring him down...
 Dialogue: 0,0:42:01.54,0:42:04.75,Default,,0,0,0,,nor was he getting stiff or too serious\Nfrom wanting to defeat me.
-Dialogue: 0,0:42:05.54,0:42:08.71,Background,,0,0,0,,{\fs24}He was playing with all his strength, calm as always.
+Dialogue: 0,0:42:05.54,0:42:08.71,Background,,0,0,0,,{\fs24.7}He was playing with all his strength, calm as always.
 Dialogue: 0,0:42:08.96,0:42:13.39,Default,,0,0,0,,So he plays without hesitation no matter\Nwho his opponent may be?
 Dialogue: 0,0:42:13.39,0:42:15.51,Default,,0,0,0,,That's amazing for a fifteen year old!
 Dialogue: 0,0:42:15.89,0:42:17.76,Background,,0,0,0,,I'm not complimenting him or anything.
@@ -635,7 +640,7 @@ Dialogue: 0,0:45:18.82,0:45:20.78,Default,,0,0,0,,so they probably have a lot to
 Dialogue: 0,0:45:21.53,0:45:23.87,Default,,0,0,0,,Should I take a photo of her with Shindou-kun?
 Dialogue: 0,0:45:24.28,0:45:25.24,Default,,0,0,0,,Let me see that.
 Dialogue: 0,0:45:31.04,0:45:32.92,Default,,0,0,0,,Which high school are you going to attend?
-Dialogue: 0,0:45:33.09,0:45:35.13,Default,,0,0,0,,{\fs24}The exams for the public schools haven't started yet.
+Dialogue: 0,0:45:33.09,0:45:35.13,Default,,0,0,0,,{\fs24.5}The exams for the public schools haven't started yet.
 Dialogue: 0,0:45:35.34,0:45:37.96,Default,,0,0,0,,Oh, so you haven't finished your exams yet.
 Dialogue: 0,0:45:38.42,0:45:42.05,Default,,0,0,0,,But whatever school I go to,\NI intend to join the go club.
 Dialogue: 0,0:45:42.26,0:45:44.10,Default,,0,0,0,,I sure hope there is a go club.
@@ -661,7 +666,7 @@ Dialogue: 0,0:46:40.94,0:46:43.95,Background,,0,0,0,,The four of us from Tokyo w
 Dialogue: 0,0:46:44.82,0:46:50.37,Default,,0,0,0,,Well, you and I won't have to play each other, so\Nwe can eat lunch together without any problems.
 Dialogue: 0,0:47:05.39,0:47:07.01,Thinking,,0,0,0,,Shindou and I won't be playing each other.
 Dialogue: 0,0:47:07.80,0:47:09.47,Thinking,,0,0,0,,To be honest, I'm glad we're not.
-Dialogue: 0,0:47:11.56,0:47:18.52,Thinking,,0,0,0,,{\fs24}Sometimes I can't keep up with his deep match reading in\NMaster Morishita's lecture sessions, and at my apartment.
+Dialogue: 0,0:47:11.56,0:47:18.52,Thinking,,0,0,0,,{\fs24.8}Sometimes I can't keep up with his deep match reading in\NMaster Morishita's lecture sessions, and at my apartment.
 Dialogue: 0,0:47:20.48,0:47:22.44,Thinking,,0,0,0,,Because he's always near me...
 Dialogue: 0,0:47:22.44,0:47:25.49,Thinking,,0,0,0,,I'm forced to recognize the difference in\Nour strength, whether I like it or not.
 Dialogue: 0,0:47:26.41,0:47:31.58,Default,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(0,626)\pos(325,323)}Hokuto Cup
@@ -763,7 +768,7 @@ Dialogue: 0,0:56:51.26,0:56:54.18,Thinking,,0,0,0,,If that's the way you want to
 Dialogue: 0,0:56:59.06,0:57:02.11,Thinking,,0,0,0,,Wow, I'm this close to just flipping their board over.
 Dialogue: 0,0:57:02.11,0:57:04.82,Thinking,,0,0,0,,Yashiro, you better be confident enough to win.
 Dialogue: 0,0:57:12.83,0:57:18.87,Note,,0,0,0,,{\fad(376,376)}Note: kakari (hanging) is a move played as an\Napproach to a single stone in the corner.
-Dialogue: 0,0:57:12.78,0:57:16.95,Thinking,,0,0,0,,{\fs24}Both of them play a hoshi, followed by a kakari, and then...
+Dialogue: 0,0:57:12.78,0:57:16.95,Thinking,,0,0,0,,{\fs24.4}Both of them play a hoshi, followed by a kakari, and then...
 Dialogue: 0,0:57:18.66,0:57:20.63,Thinking,,0,0,0,,I'll seal off the tengen's effect!
 Dialogue: 0,0:57:27.17,0:57:28.38,Thinking,,0,0,0,,I won't let you!
 Dialogue: 0,0:57:28.84,0:57:30.18,Thinking,,0,0,0,,I won't let you!
@@ -783,7 +788,7 @@ Dialogue: 0,0:59:05.81,0:59:09.48,Thinking,,0,0,0,,Huh? Nobody's watching the ot
 Dialogue: 0,0:59:09.90,0:59:12.03,Thinking,,0,0,0,,I wonder if everyone went somewhere else.
 Dialogue: 0,0:59:19.91,0:59:21.62,Thinking,,0,0,0,,What the hell is this?
 Dialogue: 0,0:59:22.00,0:59:25.25,Thinking,,0,0,0,,I can't tell what's going on at all!
-Dialogue: 0,0:59:25.25,0:59:27.75,Thinking,,0,0,0,,{\fs24}And on top of that, they're exchanging blows at the tengen.
+Dialogue: 0,0:59:25.25,0:59:27.75,Thinking,,0,0,0,,{\fs24.2}And on top of that, they're exchanging blows at the tengen.
 Dialogue: 0,0:59:29.09,0:59:30.63,Thinking,,0,0,0,,What the hell is going on?
 Dialogue: 0,0:59:54.61,0:59:55.24,Default,,0,0,0,,How is it?
 Dialogue: 0,0:59:55.53,0:59:57.74,Default,,0,0,0,,There's quite a dogfight going on in there!
@@ -822,7 +827,7 @@ Dialogue: 0,1:01:58.78,1:02:02.20,Background,,0,0,0,,It's such a waste... he's r
 Dialogue: 0,1:02:09.75,1:02:10.54,Thinking,,0,0,0,,It couldn't be!
 Dialogue: 0,1:02:14.92,1:02:16.05,Thinking,,0,0,0,,Shindou!
 Dialogue: 0,1:02:42.15,1:02:44.70,Thinking,,0,0,0,,The one winning is white... Shindou.
-Dialogue: 0,1:02:46.12,1:02:50.12,Thinking,,0,0,0,,{\fs24}But this match is amazing... I can't see how they played it.
+Dialogue: 0,1:02:46.12,1:02:50.12,Thinking,,0,0,0,,{\fs24.6}But this match is amazing... I can't see how they played it.
 Dialogue: 0,1:02:50.83,1:02:53.17,Thinking,,0,0,0,,What kind of match was it?
 Dialogue: 0,1:03:04.89,1:03:05.51,Thinking,,0,0,0,,Touya!
 Dialogue: 0,1:03:12.73,1:03:15.44,Thinking,,0,0,0,,So he's only concerned with Shindou's match...
@@ -898,7 +903,7 @@ Dialogue: 0,1:07:59.60,1:08:00.56,Default,,0,0,0,,What?
 Dialogue: 0,1:08:01.01,1:08:04.89,Default,,0,0,0,,If I stayed as a representative,\Nnobody would be satisfied, right?
 Dialogue: 0,1:08:05.02,1:08:06.98,Default,,0,0,0,,When I watched these two play...
 Dialogue: 0,1:08:06.98,1:08:10.65,Default,,0,0,0,,I couldn't approve of my own selection\Nas one of the representatives!
-Dialogue: 0,1:08:11.11,1:08:16.03,Default,,0,0,0,,{\fs24}I want to make it clear whether it should be Yashiro\Nor myself who will be representing Japan!
+Dialogue: 0,1:08:11.11,1:08:16.03,Default,,0,0,0,,{\fs24.9}I want to make it clear whether it should be Yashiro\Nor myself who will be representing Japan!
 Dialogue: 0,1:08:21.12,1:08:23.50,Thinking,,0,0,0,,Ochi, your pride is admirable.
 Dialogue: 0,1:08:23.70,1:08:27.83,Thinking,,0,0,0,,To think I was happy that I didn't\Nhave to play Shindou or Yashiro...
 Dialogue: 0,1:08:33.13,1:08:37.43,Default,,0,0,0,,That boy from the Kansai Institute you\Nwere talking about... he lost, didn't he?
@@ -965,5 +970,5 @@ Dialogue: 0,1:13:13.54,1:13:14.33,Default,,0,0,0,,Let's play.
 Dialogue: 0,1:13:15.33,1:13:15.95,Default,,0,0,0,,Yeah.
 Dialogue: 0,1:13:39.60,1:13:42.90,Thinking,,0,0,0,,Sai, I'll get stronger...
 Dialogue: 0,1:13:43.98,1:13:48.32,Thinking,,0,0,0,,And I'll definitely play the divine move one day...
-Dialogue: 0,1:13:55.37,1:13:59.08,Thinking,,0,0,0,,{\fs24}The divine move that you've been seeking the whole time.
+Dialogue: 0,1:13:55.37,1:13:59.08,Thinking,,0,0,0,,{\fs24.9}The divine move that you've been seeking the whole time.
 Dialogue: 0,1:13:59.58,1:14:02.50,Thinking,,0,0,0,,{\fad(0,584)}Just wait, Sai!
