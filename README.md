@@ -127,7 +127,7 @@ Update: January 4th 2026. I've decided to restore the AonE subs for the New Year
 | 72 | ✅ | ✅ | ❌ |
 | 73 | ✅ | ✅ | ❌ |
 | 74 | ✅ | ✅ | ❌ |
-| 75 | ✅ | ⏳ | ✅ |
+| 75 | ✅ | ✅ | ✅ |
 | 76 | ✅ | ⏳ | ⏳ |
 
 Below is old info. Leaving here for completion sake.
