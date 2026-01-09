@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 901
-Active Line: 929
-Video Position: 108802
+Active Line: 925
+Video Position: 108682
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -72,8 +72,7 @@ Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0
 Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
 Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
 Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,2,19,19,16,1
-Style: special_intro,Freehand 471,29,&H00C0FFFF,&H000000FF,&H00000000,&H005E5D56,0,0,0,0,100,100,0,0,1,2,1.5,2,19,19,16,1
-Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,19,19,16,1
+Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,19,19,16,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -972,39 +971,39 @@ Dialogue: 0,1:13:39.60,1:13:42.90,Thinking,,0,0,0,,Sai, I'll get stronger...
 Dialogue: 0,1:13:43.98,1:13:48.32,Thinking,,0,0,0,,And I'll definitely play the divine move one day...
 Dialogue: 0,1:13:55.37,1:13:59.08,Thinking,,0,0,0,,{\fs24.9}The divine move that you've been seeking the whole time.
 Dialogue: 0,1:13:59.58,1:14:02.50,Thinking,,0,0,0,,{\fad(0,584)}Just wait, Sai!
-Dialogue: 0,1:14:07.01,1:14:11.80,special_end_romaji,,0,0,0,,Me wo mitsumetara, sugu atatamete
+Dialogue: 0,1:14:07.01,1:14:11.80,special_end_romaji,,0,0,0,,{\kf21}Me {\kf17}wo {\kf29}mi{\kf33}tsu{\kf29}me{\kf25}ta{\kf71}ra,{\kf33} {\kf29}su{\kf21}gu {\kf33}a{\kf29}ta{\kf33}ta{\kf25}me{\kf67}te
 Dialogue: 0,1:14:07.01,1:14:11.80,special_end,,0,0,0,,When I looked at you, your sight was warming me.
-Dialogue: 0,1:14:12.22,1:14:17.27,special_end_romaji,,0,0,0,,Shinjiteru, garasu ni kaita moji
+Dialogue: 0,1:14:12.22,1:14:17.27,special_end_romaji,,0,0,0,,{\kf21}Shi{\kf13}n{\kf29}ji{\kf17}te{\kf46}ru,{\kf33} {\kf33}ga{\kf25}ra{\kf42}su {\kf33}ni {\kf96}ka{\kf29}i{\kf25}ta {\kf17}mo{\kf33}ji
 Dialogue: 0,1:14:12.22,1:14:17.27,special_end,,0,0,0,,I believe in you, were the words I etched on to the window
-Dialogue: 0,1:14:17.47,1:14:22.19,special_end_romaji,,0,0,0,,Ima furi sosogu, kono yuki no naka
+Dialogue: 0,1:14:17.47,1:14:22.19,special_end_romaji,,0,0,0,,{\kf13}I{\kf17}ma {\kf29}fu{\kf25}ri {\kf29}so{\kf29}so{\kf50}gu,{\kf63} {\kf21}ko{\kf13}no {\kf38}yu{\kf29}ki {\kf29}no {\kf21}na{\kf58}ka
 Dialogue: 0,1:14:17.47,1:14:22.19,special_end,,0,0,0,,In the midst of this falling snow
-Dialogue: 0,1:14:22.65,1:14:28.90,special_end_romaji,,0,0,0,,Tada hitori, sagashiteru
+Dialogue: 0,1:14:22.65,1:14:28.90,special_end_romaji,,0,0,0,,{\kf17}Ta{\kf13}da {\kf33}hi{\kf17}to{\kf50}ri,{\kf17} {\kf46}sa{\kf25}ga{\kf38}shi{\kf21}te{\kf342}ru
 Dialogue: 0,1:14:22.65,1:14:28.90,special_end,,0,0,0,,I walk alone, in search of you...
-Dialogue: 0,1:14:40.71,1:14:45.09,special_end_romaji,,0,0,0,,Shiawase to, aruite iru ne
+Dialogue: 0,1:14:40.71,1:14:45.09,special_end_romaji,,0,0,0,,{\kf33}Shi{\kf13}a{\kf17}wa{\kf25}se {\kf79}to,{\kf46} {\kf13}a{\kf13}ru{\kf33}i{\kf29}te {\kf29}i{\kf17}ru {\kf58}ne
 Dialogue: 0,1:14:40.71,1:14:45.09,special_end,,0,0,0,,All these couples walking around town...
-Dialogue: 0,1:14:45.42,1:14:50.30,special_end_romaji,,0,0,0,,Machi jyuu no, koibito tachi wa
+Dialogue: 0,1:14:45.42,1:14:50.30,special_end_romaji,,0,0,0,,{\kf13}Ma{\kf17}chi {\kf29}jyu{\kf17}u {\kf54}no,{\kf25} {\kf29}ko{\kf29}i{\kf29}bi{\kf29}to {\kf88}ta{\kf38}chi {\kf79}wa
 Dialogue: 0,1:14:45.42,1:14:50.30,special_end,,0,0,0,,They seem happy, don't they?
-Dialogue: 0,1:14:50.72,1:14:54.89,special_end_romaji,,0,0,0,,Ano koro no, futari no you de
+Dialogue: 0,1:14:50.72,1:14:54.89,special_end_romaji,,0,0,0,,{\kf25}A{\kf17}no {\kf29}ko{\kf21}ro {\kf79}no,{\kf50} {\kf17}fu{\kf13}ta{\kf29}ri {\kf25}no {\kf38}yo{\kf17}u {\kf58}de
 Dialogue: 0,1:14:50.72,1:14:54.89,special_end,,0,0,0,,I am heartbroken at the sight
-Dialogue: 0,1:14:55.43,1:14:58.93,special_end_romaji,,0,0,0,,Mune ga kurushiku naru
+Dialogue: 0,1:14:55.43,1:14:58.93,special_end_romaji,,0,0,0,,{\kf13}Mu{\kf17}ne {\kf50}ga{\kf8} {\kf63}ku{\kf29}ru{\kf38}shi{\kf29}ku {\kf38}na{\kf67}ru
 Dialogue: 0,1:14:55.43,1:14:58.93,special_end,,0,0,0,,As they remind me of us, back then.
-Dialogue: 0,1:14:59.47,1:15:04.94,special_end_romaji,,0,0,0,,Samishii yoru wa, koe ga kikitai
+Dialogue: 0,1:14:59.47,1:15:04.94,special_end_romaji,,0,0,0,,{\kf50}Sa{\kf17}{\kf46}mi{\kf50}shi{\kf25}i {\kf33}yo{\kf29}ru {\kf38}wa,{\kf25} {\kf25}ko{\kf29}e {\kf33}ga {\kf29}ki{\kf29}ki{\kf29}ta{\kf42}i
 Dialogue: 0,1:14:59.47,1:15:04.94,special_end,,0,0,0,,I want to hear your voice on lonely nights.
-Dialogue: 0,1:15:05.06,1:15:09.94,special_end_romaji,,0,0,0,,Namida no hi ni mo, tsuyosa kanjita
+Dialogue: 0,1:15:05.06,1:15:09.94,special_end_romaji,,0,0,0,,{\kf29}Na{\kf33}mi{\kf25}da{\kf4} {\kf29}no {\kf33}hi {\kf29}ni {\kf46}mo,{\kf17} {\kf29}tsu{\kf29}yo{\kf38}sa {\kf29}ka{\kf29}n{\kf33}ji{\kf46}ta
 Dialogue: 0,1:15:05.06,1:15:09.94,special_end,,0,0,0,,I could still feel you even on those days I cried.
-Dialogue: 0,1:15:10.11,1:15:14.78,special_end_romaji,,0,0,0,,Deaeta koto wa, guuzen jyanai
+Dialogue: 0,1:15:10.11,1:15:14.78,special_end_romaji,,0,0,0,,{\kf25}De{\kf29}a{\kf33}e{\kf33}ta {\kf29}ko{\kf29}to {\kf46}wa,{\kf21} {\kf29}gu{\kf29}u{\kf54}ze{\kf13}{\kf25}n {\kf21}jya{\kf46}nai
 Dialogue: 0,1:15:10.11,1:15:14.78,special_end,,0,0,0,,It was no coincidence that we met.
-Dialogue: 0,1:15:15.07,1:15:18.70,special_end_romaji,,0,0,0,,Itsumo norikoerareta
+Dialogue: 0,1:15:15.07,1:15:18.70,special_end_romaji,,0,0,0,,{\kf21}I{\kf21}tsu{\kf50}mo{\kf25} {\kf38}no{\kf29}ri{\kf33}ko{\kf29}e{\kf33}ra{\kf29}re{\kf46}ta
 Dialogue: 0,1:15:15.07,1:15:18.70,special_end,,0,0,0,,I was able to overcome anything...
-Dialogue: 0,1:15:19.20,1:15:22.54,special_end_romaji,,0,0,0,,Anata ga itakara
+Dialogue: 0,1:15:19.20,1:15:22.54,special_end_romaji,,0,0,0,,{\kf50}A{\kf33}na{\kf29}ta {\kf25}ga {\kf29}i{\kf29}ta{\kf29}ka{\kf100}ra
 Dialogue: 0,1:15:19.20,1:15:22.54,special_end,,0,0,0,,because you were there for me.
-Dialogue: 0,1:15:22.91,1:15:27.38,special_end_romaji,,0,0,0,,Moshi kanau nara, sugu ai ni kite
+Dialogue: 0,1:15:22.91,1:15:27.38,special_end_romaji,,0,0,0,,{\kf17}Mo{\kf17}shi {\kf25}ka{\kf29}na{\kf25}u {\kf21}na{\kf54}ra, {\kf54}{\kf17}su{\kf13}gu {\kf29}a{\kf33}i {\kf25}ni {\kf21}ki{\kf58}te
 Dialogue: 0,1:15:22.91,1:15:27.38,special_end,,0,0,0,,If this voice can reach you, please come right now.
-Dialogue: 0,1:15:27.92,1:15:32.72,special_end_romaji,,0,0,0,,Te no hira de, toketeku hikaru yuki
+Dialogue: 0,1:15:27.92,1:15:32.72,special_end_romaji,,0,0,0,,{\kf13}Te {\kf17}no {\kf33}hi{\kf17}ra {\kf50}de,{\kf21} {\kf29}to{\kf29}ke{\kf29}te{\kf25}ku {\kf100}hi{\kf29}ka{\kf25}ru {\kf21}yu{\kf29}ki
 Dialogue: 0,1:15:27.92,1:15:32.72,special_end,,0,0,0,,As the shining snow melts on the palm of my hands...
-Dialogue: 0,1:15:32.92,1:15:34.84,special_end_romaji,,0,0,0,,Mada todoku kana?
+Dialogue: 0,1:15:32.92,1:15:34.84,special_end_romaji,,0,0,0,,{\kf13}Ma{\kf13}da {\kf29}to{\kf33}do{\kf29}ku {\kf17}ka{\kf58}na?
 Dialogue: 0,1:15:32.92,1:15:34.84,special_end,,0,0,0,,Maybe if I spread my arms,
-Dialogue: 0,1:15:35.47,1:15:37.39,special_end_romaji,,0,0,0,,Te wo sashi daseba
+Dialogue: 0,1:15:35.47,1:15:37.39,special_end_romaji,,0,0,0,,{\kf13}Te {\kf13}wo {\kf25}sa{\kf38}shi {\kf25}da{\kf25}se{\kf54}ba
 Dialogue: 0,1:15:35.47,1:15:37.39,special_end,,0,0,0,,The eternity falling before me,
-Dialogue: 0,1:15:37.93,1:15:43.35,special_end_romaji,,0,0,0,,{\fad(0,459)}Furi tsumoru eien ga...
+Dialogue: 0,1:15:37.93,1:15:43.35,special_end_romaji,,0,0,0,,{\fad(0,459)}{\kf8}Fu{\kf17}ri {\kf25}tsu{\kf21}mo{\kf50}ru{\kf21} {\kf33}e{\kf29}i{\kf25}e{\kf21}n {\kf308}ga...
 Dialogue: 0,1:15:37.93,1:15:43.35,special_end,,0,0,0,,{\fad(0,459)}Will reach you in your embrace...
