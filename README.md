@@ -10,23 +10,25 @@ Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format
 The used fonts are in fonts.7z, either extract and right click install them, or use mkvmerge to multiplex it with the episodes.
 
 ## Progress
-There's so much to explain here. I doubt anyone will ever read this but just typing out my thoughts.
-
 I restarted this project in late December 2025 after it was laid dormant by gabest11. Before this I had literally no experience with Aegisub. I assumed that the work done by gabest11 was close to done... but it's really not. To show the stark differences, please look at my episode 1 and 2 compared to theirs. They did not even assign styling.
 
-I went all out in recreating episode 1. Literally everything is there. Basically frame perfect timing to E-F, good and consistent styling and proper Igo subbing with all the quirks of early E-F subs. That's another thing, the subbing for the ending Igo sections is nowhere near what E-F did so they also have to get properly resubbed from 2 onwards. I also properly subbed 75 Igo so I atleast had done the start and end of Igo... just not the inbetween. :P
+I pretty well in recreating episode 1. Literally everything is there. Basically perfect timing to E-F, good and consistent styling and proper Igo subbing with all the quirks of early E-F subs. That's another thing, the subbing for the ending Igo sections is nowhere near what E-F did so they also have to get properly resubbed from 2 onwards. I also properly subbed 75 Igo so I atleast had done the start and end of Igo... just not the inbetween. :P
 
 I am pretty sure gabest11 just took existing subs (similar to E-F/R-F for the main body) and transplanted them in and then added the opening and ending sections. The problem here is you get no styling and the timing at points isn't the best.
 
-I don't want to sound ungrateful to gabest11 here. The work they did in subbing the intro and endings is remarkable that this can even somewhat be attempted.
+I don't want to sound ungrateful to gabest11 here. The work they did in subbing the intro and endings is remarkable that this can somewhat be attempted now.
 
 What I am happy about is episodes 62 to 75 since I was in control from the start. Every line is identical to R-F and timing is almost perfect. I was frame advancing most of the time. The problem? It took me about 2 weeks to do 62 to 75.
 
-As one person I literally don't have the will to do 75 episodes single handed. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to someone who I don't know if they want to be named but they perfectly recreated the "Music is my Thing" ending that gabest11 did not (starts episode 64). That was the last big hurdle for anyone wanting to actually properly restore the subs.
+As one person I literally don't have the will to do 75 episodes single handed. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
-It's funny because even with the subs in this state, it's still the best subs available for this anime now. Why? At the bare minimum you get the subs already available elsewhere but you get the added opening and ending karaoke parts from start to finish for every episode.
+1: Perfectly recreated the "Music is my Thing" karaoke ending that gabest11 did not get around to (starts episode 64). That was one of the last big hurdles for anyone wanting to actually properly restore the subs.
+2: Perfectly recreated the episode 75 ending karaoke! This was the last big hurdle for a successful sub.
+3: Perfectly recreated the episode title animations. These will be put on all episodes. E-F/R-F only started doing these properly about halfway in, so let's do it from the start!
 
-As I type it's January 2nd 2026 and I think I'm done. Having to go retime and style 3-61 plus properly sub the Igo sections is just too daunting of a task for one person. I'm glad I put enough effort in to have left this in a state where it's basically just simple subbing now.
+It's funny because even with the subs in this state, it's still the best subs available. Why? At the bare minimum you get the subs already available elsewhere, but you get the added opening and ending karaoke parts from start to finish for every episode.
+
+As I type it's January 2nd 2026. Having to go retime and style 3-61 plus properly sub the Igo sections is just too daunting of a task for one person. I'm glad I put enough effort in to have left this in a state where it's basically just simple subbing now.
 
 If anyone ever sees this and has a passion to properly finish... I'd like to see it done. It's basically just time now. I thought to myself even if I had 2 other people, that's only 20 episodes each and could probbaly be done in 3 weeks (trust me you get faster).
 
@@ -34,7 +36,7 @@ You can reach me on Discord at gameinn1 or make an Issues post in the tab. I don
 
 If you need it visualized of what work needs to be done, below is a table.
 
-Update: January 4th 2026. I've decided to restore the AonE subs for the New Year Special (Episode 76). This will be uploaded to give more eyes on the project. It's over an hour and I have to start from scratch so probably a couple weeks. The current Blu-Ray subs are so bad (mainly timing wise) that it's a joke and needs done.
+Update: January 4th 2026. I've decided to restore the AonE subs for the New Year Special (Episode 76). This will be uploaded to give more eyes on the project. It's over an hour and I have to start from scratch so probably a wekk or so. The current Blu-Ray subs are so bad (mainly timing wise) that it's a joke and needs done.
 
 ### Status Legend
 - ✅ Complete
