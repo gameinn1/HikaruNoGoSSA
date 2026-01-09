@@ -29,7 +29,9 @@ What I am happy about is episodes 62 to 75 since I was in control from the start
 As one person I literally don't have the will to do 75 episodes single handedly. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
 1: Perfectly recreated the "Music is my Thing" karaoke ending that gabest11 did not get around to (starts episode 64). That was one of the last big hurdles for anyone wanting to actually properly restore the subs.
+
 2: Perfectly recreated the episode 75 ending karaoke! This was the last big hurdle for a successful sub.
+
 3: Perfectly recreated the episode title animations. These will be put on all episodes. E-F/R-F only started doing these properly about halfway in, so let's do it from the start.
 
 It's funny because even with the subs in this state, it's still the best subs for this anime. Why? At the bare minimum you get the subs already available elsewhere, but you get the added opening and ending karaoke parts from start to finish for every episode.
