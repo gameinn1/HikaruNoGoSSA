@@ -1,4 +1,4 @@
-# HikaruNoGoSSA
+# Hikaru No Go E-F/R-F Sub Restoration
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Logo.png" width="45%" />
