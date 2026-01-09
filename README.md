@@ -13,7 +13,7 @@ Hello everyone. This is an update to the project started by gabest11.
 
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
 
-The used fonts are in fonts.7z, either extract and right click install them, or use mkvmerge to multiplex it with the episodes.
+The fonts are in fonts.7z (this is from gabest11). Once extracted, right click and install them. You probably want to look at fonts-updated.zip (compiled via fonts collector) as this has everything needed and compiled once 75/76 was complete.
 
 ## Progress
 I restarted this project in late December 2025 after it was laid dormant by gabest11. Before this I had literally no experience with Aegisub. I assumed that the work done by gabest11 was close to done... but it's really not. To show the stark differences, please look at my episode 1 and 2 compared to theirs. They did not assign styling.
