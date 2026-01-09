@@ -20,9 +20,7 @@ I restarted this project in late December 2025 after it was laid dormant by gabe
 
 I did pretty well in recreating episode 1. Literally everything is there. Basically perfect timing to E-F, good styling and proper Igo subbing with all the quirks of early E-F subs. That's another thing, the subbing for the ending Igo sections is nowhere near what E-F did so they also have to get properly resubbed from 3 onwards. I also properly subbed 75 Igo so I atleast had done the start and end of Igo... just not the inbetween. :P
 
-I am pretty sure gabest11 just took existing subs (similar to E-F/R-F for the main body) and transplanted them in and then added the opening and ending sections. The problem here is you get no styling and the timing at points isn't the best.
-
-I don't want to sound ungrateful to gabest11 here. The work they did in subbing the intro and endings is remarkable that this can somewhat be attempted now.
+I am pretty sure gabest11 just took existing subs (similar to E-F/R-F for the main body) and transplanted them in and then added the opening and ending sections. The problem here is you get no styling and the timing at points isn't the best. I don't want to sound ungrateful to gabest11. The work they did in subbing the intro and endings is remarkable that this can somewhat be attempted.
 
 What I am happy about is episodes 62 to 75 since I was in control from the start. Every line is identical to R-F and timing is almost perfect. I was frame advancing most of the time. The problem? It took me about 2 weeks to do 62 to 75.
 
