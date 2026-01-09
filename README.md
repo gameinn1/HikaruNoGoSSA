@@ -44,7 +44,9 @@ You can reach me on Discord at gameinn1 or make an Issues post in the tab. I don
 
 If you need it visualized of what work needs to be done, below is a table.
 
-Update: January 4th 2026. I've decided to restore the AonE subs for the New Year Special (Episode 76). This will be uploaded to give more eyes on the project. It's over an hour and I have to start from scratch so probably a week or so. The current Blu-Ray subs are so bad (mainly timing wise) that it's a joke and needs done.
+Update: January 4th 2026. I've decided to restore the AonE subs for the New Year Special (Episode 76). This will be uploaded to give more eyes on the project. It's over an hour and I have to start from scratch so probably a week or so. The current DVD/Blu-Ray subs are bad (mainly timing wise) and needs done.
+
+Update: January 9th 2026. The Hokuto Cup special (ep 76) has been fully subbed. As for the main episodes, I may consider doing an episode per week (starting from 3) but for now I am looking at getting the special uploaded to get more eyes on the project.
 
 ### Status Legend
 - ✅ Complete
