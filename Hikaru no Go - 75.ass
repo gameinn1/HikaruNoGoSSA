@@ -11,7 +11,6 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Automation Scripts: ~../../gpt.lua
 Last Style Storage: Default
 Audio File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
