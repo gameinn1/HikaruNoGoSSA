@@ -26,7 +26,7 @@ I don't want to sound ungrateful to gabest11 here. The work they did in subbing 
 
 What I am happy about is episodes 62 to 75 since I was in control from the start. Every line is identical to R-F and timing is almost perfect. I was frame advancing most of the time. The problem? It took me about 2 weeks to do 62 to 75.
 
-As one person I literally don't have the will to do 75 episodes single handedly. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
+As one person I'm really struggling to do 75 episodes. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
 1: Perfectly recreated the "Music is my Thing" karaoke ending that gabest11 did not get around to (starts episode 64). That was one of the last big hurdles for anyone wanting to actually properly restore the subs.
 
