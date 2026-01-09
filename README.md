@@ -36,17 +36,15 @@ As one person I'm really struggling to do 75 episodes. We're talking multiple mo
 
 It's funny because even with the subs in this state, it's still the best subs for this anime. Why? At the bare minimum you get the subs already available elsewhere, but you get the added opening and ending karaoke parts from start to finish for every episode.
 
-As I type it's January 2nd 2026. Having to go retime and style 3-61 plus properly sub the Igo sections is just too daunting of a task for one person. I'm glad I put enough effort in to have left this in a state where it's basically just simple subbing now.
+As I type it's January 2nd 2026. Having to go retime and style 3-61 plus properly sub the Igo sections is a big task. I'm glad I put enough effort in to have this in a state where it's basically just a time investment now.
 
-If anyone ever sees this and has a passion to properly finish... I'd like to see it done. It's basically just time now. I thought to myself even if I had 2 other people, that's only 20 episodes each and could probbaly be done in 3 weeks (trust me you get faster).
+If anyone ever sees this and has a passion to properly finish... I'd like to see it done. I thought to myself even if I had 2 other people, that's only 20 episodes each and could probbaly be done in 3 weeks (trust me you get faster).
 
-You can reach me on Discord at gameinn1 or make an Issues post in the tab. I don't know much about how github works sorry. Maybe if some people come forward willing to help in the next month or so I might go back to this and help finish.
-
-If you need it visualized of what work needs to be done, below is a table.
+You can reach me on Discord at gameinn1 or make an Issues post. If you need it visualized of what work needs to be done, below is a table.
 
 Update: January 4th 2026. I've decided to restore the AonE subs for the New Year Special (Episode 76). This will be uploaded to give more eyes on the project. It's over an hour and I have to start from scratch so probably a week or so. The current DVD/Blu-Ray subs are bad (mainly timing wise) and needs done.
 
-Update: January 9th 2026. The Hokuto Cup special (ep 76) has been fully subbed. As for the main episodes, I may consider doing an episode per week (starting from 3) but for now I am looking at getting the special uploaded to get more eyes on the project.
+Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully subbed! As for the main episodes, I may consider doing an episode per week (starting from 3) but for now I am looking at getting the special uploaded to get more eyes on the project.
 
 ### Status Legend
 - ✅ Complete
