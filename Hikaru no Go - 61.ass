@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 12
-Active Line: 29
-Video Position: 5855
+Scroll Position: 29
+Active Line: 50
+Video Position: 7794
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,24 +104,27 @@ Dialogue: 0,0:03:51.25,0:03:53.64,Default,,0,0,0,,Did I leave it at the hotel?
 Dialogue: 0,0:03:54.17,0:03:56.47,Default,,0,0,0,,No, that's impossible.
 Dialogue: 0,0:03:58.09,0:04:01.60,Default,,0,0,0,,No, it can't be, we were playing Go until just now.
 Dialogue: 0,0:04:02.57,0:04:04.22,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:04:05.19,0:04:07.05,Default,,0,0,0,,The window was open...
-Dialogue: 0,0:04:07.42,0:04:10.46,Default,,0,0,0,,Maybe he got carried off by the wind?
-Dialogue: 0,0:04:11.93,0:04:14.36,Default,,0,0,0,,I'm going out for a bit
-Dialogue: 0,0:04:14.86,0:04:16.84,Default,,0,0,0,,W-Wait, where are you going?
-Dialogue: 0,0:04:17.36,0:04:19.57,Default,,0,0,0,,Where?\NI wonder where...
-Dialogue: 0,0:04:19.63,0:04:20.51,Default,,0,0,0,,The Go institute maybe?
+Dialogue: 0,0:04:05.14,0:04:06.77,Default,,0,0,0,,The window was open...
+Dialogue: 0,0:04:07.39,0:04:10.06,Default,,0,0,0,,maybe he got carried off by the wind?
+Dialogue: 0,0:04:11.90,0:04:14.23,Default,,0,0,0,,I'm going out for a bit.
+Dialogue: 0,0:04:14.82,0:04:16.49,Default,,0,0,0,,W-Wait, where are you going?
+Dialogue: 0,0:04:17.36,0:04:17.86,Default,,0,0,0,,Where?
+Dialogue: 0,0:04:18.49,0:04:20.28,Default,,0,0,0,,I wonder where... the Go institute maybe?
 Dialogue: 0,0:04:20.89,0:04:21.84,Default,,0,0,0,,You wonder?
-Dialogue: 0,0:04:27.38,0:04:32.22,Default,,0,0,0,,Maybe he went somewhere fun after getting carried off by the wind
-Dialogue: 0,0:04:35.27,0:04:40.15,Default,,0,0,0,,But... It's never happened before in the two years we've been together
-Dialogue: 0,0:04:50.19,0:04:51.11,Default,,0,0,0,,He's not here
-Dialogue: 0,0:04:51.89,0:04:52.68,Default,,0,0,0,,Sai!?
+Dialogue: 0,0:04:27.33,0:04:32.00,Default,,0,0,0,,Maybe he went somewhere fun after\Ngetting carried off by the wind.
+Dialogue: 0,0:04:35.27,0:04:36.21,Default,,0,0,0,,But...
+Dialogue: 0,0:04:36.21,0:04:39.76,Default,,0,0,0,,It's never happened before in the\Ntwo years we've been together.
+Dialogue: 0,0:04:50.14,0:04:51.27,Default,,0,0,0,,He's not here.
+Dialogue: 0,0:04:51.81,0:04:52.52,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:05:01.09,0:05:01.89,Default,,0,0,0,,Sai!
-Dialogue: 0,0:05:02.72,0:05:06.43,Default,,0,0,0,,Are you here?\NSai!
-Dialogue: 0,0:05:10.80,0:05:13.16,Default,,0,0,0,,So he's not here
-Dialogue: 0,0:05:13.64,0:05:15.95,Default,,0,0,0,,Where the hell did you go?
-Dialogue: 0,0:05:16.06,0:05:18.37,Default,,0,0,0,,Why did you disappear all of a sudden?
-Dialogue: 0,0:05:22.18,0:05:23.10,Default,,0,0,0,,Maybe...
-Dialogue: 0,0:05:25.13,0:05:26.43,Default,,0,0,0,,What is it Hikaru?
+Dialogue: 0,0:05:02.72,0:05:03.95,Default,,0,0,0,,Are you here?
+Dialogue: 0,0:05:05.24,0:05:05.91,Background,,0,0,0,,Sai!
+Dialogue: 0,0:05:10.67,0:05:12.83,Thinking,,0,0,0,,So he's not here...
+Dialogue: 0,0:05:13.58,0:05:15.67,Thinking,,0,0,0,,Where the hell did you go?
+Dialogue: 0,0:05:16.00,0:05:18.05,Default,,0,0,0,,Ahh! Why did you disappear all of a sudden?
+Dialogue: 0,0:05:20.88,0:05:21.47,Default,,0,0,0,,What...
+Dialogue: 0,0:05:22.13,0:05:22.89,Default,,0,0,0,,Maybe...
+Dialogue: 0,0:05:25.05,0:05:26.43,Background,,0,0,0,,What is it Hikaru?
 Dialogue: 0,0:05:26.95,0:05:29.64,Default,,0,0,0,,Going into the shed all of a sudden?
 Dialogue: 0,0:05:29.67,0:05:30.74,Default,,0,0,0,,Nothing?
 Dialogue: 0,0:05:34.32,0:05:38.10,Default,,0,0,0,,Did you forget something here?
