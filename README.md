@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/62%20Title%20Example.png" width="45%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%20Ending%20Waya%20Fixed.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%20Ending%20Fixed.png" width="45%" />
   <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%20Igo%20Ending.png" width="45%" />
 </p>
 
