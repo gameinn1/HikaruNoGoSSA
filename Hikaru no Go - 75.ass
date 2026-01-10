@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 477
-Active Line: 487
-Video Position: 27540
+Scroll Position: 492
+Active Line: 515
+Video Position: 30343
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -593,8 +593,8 @@ Dialogue: 65,0:20:49.90,0:20:53.27,ed75_eng,,0,0,0,fx,Why do people sometimes ma
 Dialogue: 66,0:20:53.27,0:20:53.57,ed75_eng,,0,0,0,fx,{\fad(0,300)}Why do people sometimes make mistakes...
 Dialogue: 67,0:20:53.94,0:20:57.53,ed75_eng,,0,0,0,fx,I can't regret those mistakes enough...
 Dialogue: 68,0:20:57.53,0:20:57.82,ed75_eng,,0,0,0,fx,{\fad(0,300)}I can't regret those mistakes enough...
-Dialogue: 69,0:20:57.94,0:21:05.54,ed75_eng,,0,0,0,fx,Why do people a/ways try to get over it?
-Dialogue: 70,0:21:05.54,0:21:05.83,ed75_eng,,0,0,0,fx,{\fad(0,300)}Why do people a/ways try to get over it?
+Dialogue: 69,0:20:57.94,0:21:05.54,ed75_eng,,0,0,0,fx,Why do people always try to get over it?
+Dialogue: 70,0:21:05.54,0:21:05.83,ed75_eng,,0,0,0,fx,{\fad(0,300)}Why do people always try to get over it?
 Dialogue: 71,0:21:05.66,0:21:09.25,ed75_eng,,0,0,0,fx,You're holding me up right now
 Dialogue: 72,0:21:09.25,0:21:09.54,ed75_eng,,0,0,0,fx,{\fad(0,300)}You're holding me up right now
 Dialogue: 73,0:21:09.71,0:21:13.29,ed75_eng,,0,0,0,fx,Just like I'm holding you up,
