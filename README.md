@@ -111,7 +111,7 @@ Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully
 | 58 | ✅ | ❌ | ❌ |
 | 59 | ✅ | ❌ | ❌ |
 | 60 | ✅ | ❌ | ❌ |
-| 61 | ✅ | ❌ | ❌ |
+| 61 | ✅ | ✅ | ❌ |
 | 62 | ✅ | ✅ | ❌ |
 | 63 | ✅ | ✅ | ❌ |
 | 64 | ✅ | ✅ | ❌ |
