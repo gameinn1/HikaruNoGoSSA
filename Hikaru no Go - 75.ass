@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.312963
 Video Zoom Percent: 0.625000
-Scroll Position: 163
-Active Line: 175
-Video Position: 27500
+Scroll Position: 477
+Active Line: 487
+Video Position: 27540
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -74,6 +74,8 @@ Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,2,19,19,16,1
+Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,19,19,16,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -563,8 +565,8 @@ Dialogue: 37,0:18:57.74,0:19:01.45,ed75_eng,,0,0,0,fx,I won't be able to see any
 Dialogue: 38,0:19:01.45,0:19:01.75,ed75_eng,,0,0,0,fx,{\fad(0,300)}I won't be able to see anything in my future
 Dialogue: 39,0:19:01.70,0:19:03.66,ed75_eng,,0,0,0,fx,so I won't run away from reality.
 Dialogue: 40,0:19:03.66,0:19:03.96,ed75_eng,,0,0,0,fx,{\fad(0,300)}so I won't run away from reality.
-Dialogue: 41,0:19:03.71,0:19:08.63,ed75_eng,,0,0,0,fx,No matter what happens, I 'll face it.
-Dialogue: 42,0:19:08.63,0:19:08.92,ed75_eng,,0,0,0,fx,{\fad(0,300)}No matter what happens, I 'll face it.
+Dialogue: 41,0:19:03.71,0:19:08.63,ed75_eng,,0,0,0,fx,No matter what happens, I'll face it.
+Dialogue: 42,0:19:08.63,0:19:08.92,ed75_eng,,0,0,0,fx,{\fad(0,300)}No matter what happens, I'll face it.
 Dialogue: 43,0:19:09.21,0:19:13.05,ed75_eng,,0,0,0,fx,I promise I'll protect everything
 Dialogue: 44,0:19:13.05,0:19:13.34,ed75_eng,,0,0,0,fx,{\fad(0,300)}I promise I'll protect everything
 Dialogue: 45,0:19:13.17,0:19:16.97,ed75_eng,,0,0,0,fx,that's important to me.
@@ -591,8 +593,8 @@ Dialogue: 65,0:20:49.90,0:20:53.27,ed75_eng,,0,0,0,fx,Why do people sometimes ma
 Dialogue: 66,0:20:53.27,0:20:53.57,ed75_eng,,0,0,0,fx,{\fad(0,300)}Why do people sometimes make mistakes...
 Dialogue: 67,0:20:53.94,0:20:57.53,ed75_eng,,0,0,0,fx,I can't regret those mistakes enough...
 Dialogue: 68,0:20:57.53,0:20:57.82,ed75_eng,,0,0,0,fx,{\fad(0,300)}I can't regret those mistakes enough...
-Dialogue: 69,0:20:57.94,0:21:05.54,ed75_eng,,0,0,0,fx,Why do people aways try to get over it?
-Dialogue: 70,0:21:05.54,0:21:05.83,ed75_eng,,0,0,0,fx,{\fad(0,300)}Why do people aways try to get over it?
+Dialogue: 69,0:20:57.94,0:21:05.54,ed75_eng,,0,0,0,fx,Why do people a/ways try to get over it?
+Dialogue: 70,0:21:05.54,0:21:05.83,ed75_eng,,0,0,0,fx,{\fad(0,300)}Why do people a/ways try to get over it?
 Dialogue: 71,0:21:05.66,0:21:09.25,ed75_eng,,0,0,0,fx,You're holding me up right now
 Dialogue: 72,0:21:09.25,0:21:09.54,ed75_eng,,0,0,0,fx,{\fad(0,300)}You're holding me up right now
 Dialogue: 73,0:21:09.71,0:21:13.29,ed75_eng,,0,0,0,fx,Just like I'm holding you up,
