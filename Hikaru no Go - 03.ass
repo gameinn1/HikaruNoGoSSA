@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 265
-Active Line: 272
-Video Position: 29473
+Scroll Position: 293
+Active Line: 302
+Video Position: 35436
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -347,25 +347,36 @@ Dialogue: 0,0:20:17.28,0:20:18.16,Thinking,,0,0,0,,could play like...
 Dialogue: 0,0:20:19.41,0:20:20.37,Thinking,,0,0,0,,could play like...
 Dialogue: 0,0:20:21.18,0:20:21.78,Thinking,,0,0,0,,{\c&HC5FEC1&}like that!
 Dialogue: 0,0:20:29.25,0:20:29.96,Sai,,0,0,0,,Hikaru...
-Dialogue: 0,0:22:14.13,0:22:15.77,Default,,0,0,0,,Go class is in session again...
-Dialogue: 0,0:22:15.99,0:22:17.99,Default,,0,0,0,,But where is Yuki?
-Dialogue: 0,0:22:21.13,0:22:23.37,Default,,0,0,0,,What are you wearing that outfit for?
-Dialogue: 0,0:22:23.93,0:22:26.30,Default,,0,0,0,,I'm going to become a professional Go player.
-Dialogue: 0,0:22:26.64,0:22:28.93,Default,,0,0,0,,That costume isn't going to help you!
-Dialogue: 0,0:22:29.45,0:22:32.57,Default,,0,0,0,,Yukari, how does a person become a professional?
-Dialogue: 0,0:22:33.00,0:22:37.98,Default,,0,0,0,,Here in Japan, the Japanese Go Association conducts a test once every year.
-Dialogue: 0,0:22:38.18,0:22:40.33,Default,,0,0,0,,Only about five or six people pass each year.
-Dialogue: 0,0:22:41.38,0:22:43.82,Default,,0,0,0,,It must be very difficult to become a professional.
-Dialogue: 0,0:22:44.13,0:22:45.26,Default,,0,0,0,,Yes, it is.
-Dialogue: 0,0:22:45.43,0:22:47.95,Default,,0,0,0,,But if you work hard, you could become a pro, too, Yuki.
-Dialogue: 0,0:22:50.44,0:22:53.27,Note,,0,0,0,,Even if you are a kid, you can become a pro, if you pass the pro exam!
-Dialogue: 0,0:22:54.88,0:22:56.12,Default,,0,0,0,,I want to eat some, too.
-Dialogue: 0,0:22:54.73,0:22:57.36,Note,,0,0,0,,To be continued.
-Dialogue: 0,0:22:58.93,0:23:00.63,Default,,0,0,0,,What's so great about Touya Akira?
-Dialogue: 0,0:23:01.03,0:23:04.06,Default,,0,0,0,,He's a loser that lost to me.
-Dialogue: 0,0:23:04.48,0:23:06.21,Default,,0,0,0,,Touya lost?
-Dialogue: 0,0:23:07.30,0:23:12.23,Default,,0,0,0,,Hikaru... You shouldn't. I sense strength in him.
-Dialogue: 0,0:23:22.88,0:23:26.47,Default,,0,0,0,,Hey you, don't get too cocky.
+Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs44.2}Umezawa Yukari's Go Go Igo!
+Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
+Dialogue: 0,0:22:12.32,0:22:13.59,Note,,0,0,0,,{\an2\pos(322,428)\fs22}Teacher Yukari
+Dialogue: 0,0:22:14.13,0:22:16.29,Note,,0,0,0,,{\an2\fs22}Mai
+Dialogue: 0,0:22:16.63,0:22:17.50,Note,,0,0,0,,{\an2\pos(322,428)\fs22}Teacher Yukari
+Dialogue: 0,0:22:17.83,0:22:18.33,Note,,0,0,0,,{\an2\fs22}Mai
+Dialogue: 0,0:22:14.13,0:22:18.00,Default,,0,0,0,,{\an8}Our Go classroom is about to start,\Nbut Yuuki is nowhere to be seen!
+Dialogue: 0,0:22:20.85,0:22:22.35,Note,,0,0,0,,{\an2\fs22}Yuuki
+Dialogue: 0,0:22:21.13,0:22:23.37,Default,,0,0,0,,{\an8}What are you doing dressed like that?
+Dialogue: 0,0:22:23.93,0:22:26.30,Default,,0,0,0,,{\an8}I'm going to become a pro Go player!
+Dialogue: 0,0:22:24.50,0:22:28.07,Note,,0,0,0,,{\an2\fs22}Pro Go player
+Dialogue: 0,0:22:26.64,0:22:28.93,Default,,0,0,0,,{\an8}But getting dressed like that has nothing to do with it!
+Dialogue: 0,0:22:29.45,0:22:32.57,Default,,0,0,0,,{\an8}And oh yeah, Ms. Yukari, how\Ndo you become a pro at Go?
+Dialogue: 0,0:22:30.98,0:22:33.31,Note,,0,0,0,,{\an2\fs22}How do you become a pro?
+Dialogue: 0,0:22:34.98,0:22:37.80,Note,,0,0,0,,{\an2\fs22}Take the annual Pro Examination
+Dialogue: 0,0:22:33.00,0:22:35.23,Default,,0,0,0,,{\an8}Well in the Japanese Go Kiin that I'm in,
+Dialogue: 0,0:22:35.36,0:22:38.18,Default,,0,0,0,,{\an8}there's an annual pro examination.
+Dialogue: 0,0:22:38.18,0:22:40.33,Default,,0,0,0,,{\an8}But only 4 or 5 people can make it each year...
+Dialogue: 0,0:22:38.27,0:22:40.79,Note,,0,0,0,,{\an2\fs22}Only a few people can pass the exam each year
+Dialogue: 0,0:22:41.38,0:22:43.82,Default,,0,0,0,,{\an8}Wow there's a lot involved in becoming a pro!
+Dialogue: 0,0:22:44.13,0:22:47.94,Default,,0,0,0,,{\an8}Yeah, but if Yuuki-kun tries hard\Nhe may be able to become one...
+Dialogue: 0,0:22:50.44,0:22:53.76,Note,,0,0,0,,{\an2\fs22}even if you're a child, if you pass the pro\Nexamination, you can become a Pro Go player.
+Dialogue: 0,0:22:54.88,0:22:56.12,Default,,0,0,0,,{\an8}I want to become one too...
+Dialogue: 0,0:22:54.92,0:22:57.27,Note,,0,0,0,,{\an2\fs22}to be continued...
+Dialogue: 0,0:22:58.93,0:23:00.63,Background,,0,0,0,,What's so special about Touya Akira?!
+Dialogue: 0,0:23:01.03,0:23:04.11,Background,,0,0,0,,{\fs24.9}He's a worthless moron who lost to me at the game!
+Dialogue: 0,0:23:04.48,0:23:06.16,Default,,0,0,0,,You said you won against Touya?!
+Dialogue: 0,0:23:07.30,0:23:09.78,Sai,,0,0,0,,Hikaru... stop
+Dialogue: 0,0:23:10.16,0:23:12.20,Sai,,0,0,0,,he doesn't seem like someone\Nyou should mess with...
+Dialogue: 0,0:23:22.88,0:23:26.51,Default,,0,0,0,,Hey, don't get too elated.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\bord2\pos(324,247)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\fs45\bord2.5\shad1\pos(322,297)}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
