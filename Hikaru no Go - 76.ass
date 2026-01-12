@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 901
-Active Line: 925
-Video Position: 108682
+Active Line: 929
+Video Position: 108802
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,8 +71,8 @@ Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H800000
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
 Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
-Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,2,19,19,16,1
-Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,19,19,16,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,2,1.5,2,19,19,16,1
+Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,1.5,8,19,19,16,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
