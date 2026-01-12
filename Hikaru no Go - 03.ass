@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 277
-Active Line: 297
-Video Position: 33024
+Active Line: 5
+Video Position: 2753
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,7 +78,7 @@ Dialogue: 0,0:00:04.53,0:00:08.50,Memory,,0,0,0,,has passed through time and ret
 Dialogue: 0,0:00:09.38,0:00:11.70,Memory,,0,0,0,,in order to obtain the Hand of God.
 Dialogue: 0,0:01:51.99,0:01:53.40,Default,,0,0,0,,Shindou Hikaru...
 Dialogue: 0,0:01:54.18,0:01:59.10,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,312,1,\fscx99)\blur0.8\pos(245.45,116.89)}The Third Match
-Dialogue: 0,0:01:54.18,0:01:59.10,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,312,1,\fscx100)\pos(324.54,363.85)}Akira Bears his fangs
+Dialogue: 0,0:01:54.18,0:01:59.10,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,312,1,\fscx100)\pos(324.54,363.85)}Akira Bears his Fangs
 Dialogue: 0,0:02:06.41,0:02:07.30,Default,,0,0,0,,Touya...
 Dialogue: 0,0:02:07.91,0:02:09.10,Default,,0,0,0,,Hey Touya...
 Dialogue: 0,0:02:09.83,0:02:10.70,Default,,0,0,0,,What's going on?
