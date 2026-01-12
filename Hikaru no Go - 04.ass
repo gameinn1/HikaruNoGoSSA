@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 334
-Active Line: 346
-Video Position: 33243
+Scroll Position: 346
+Active Line: 365
+Video Position: 35238
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -439,8 +439,8 @@ Dialogue: 0,0:22:58.86,0:23:01.49,Background,,0,0,0,,Sai you said it was alright
 Dialogue: 0,0:23:01.87,0:23:05.88,Background,,0,0,0,,Tsutsui, the members for the Igo\Nteam tournament's been decided.
 Dialogue: 0,0:23:06.18,0:23:07.82,Sai,,0,0,0,,I think I understand now...
 Dialogue: 0,0:23:08.87,0:23:12.20,Sai,,0,0,0,,why I was drawn to Hikaru.
-Dialogue: 0,0:23:14.58,0:23:19.59,Note,,0,0,0,,[note from translator: I'll explain what a Joseki is in\Nthe next episode. Explanation omitted purposely.]
-Dialogue: 0,0:23:14.58,0:23:16.46,SignsEp4,,0,0,0,,{\fs26\pos(458,356)}How to play\NJoseki correctly
+Dialogue: 0,0:23:14.62,0:23:19.59,Note,,0,0,0,,[note from translator: I'll explain what a Joseki is in\Nthe next episode. Explanation omitted purposely.]
+Dialogue: 0,0:23:14.62,0:23:16.46,SignsEp4,,0,0,0,,{\fs27\pos(461,359)}How to play\NJoseki correctly
 Dialogue: 0,0:23:22.73,0:23:25.22,Sai,,0,0,0,,Once you place the stone,\Nyou can't change its position,
 Dialogue: 0,0:23:25.29,0:23:26.76,Sai,,0,0,0,,and that is the importance of a move.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\bord2\pos(324,247)}Elite-Fansubs presents
