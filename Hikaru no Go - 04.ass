@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 334
-Active Line: 357
-Video Position: 34578
+Scroll Position: 323
+Active Line: 345
+Video Position: 33244
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -407,39 +407,39 @@ Dialogue: 0,0:20:34.10,0:20:36.22,Default,,0,0,0,,An ice cold pool awaits you...
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs45}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.42,0:22:13.62,Default,,0,0,0,,{\an8}I wonder what this is.
-Dialogue: 0,0:22:12.56,0:22:13.54,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Mai-chan
+Dialogue: 0,0:22:12.56,0:22:13.54,Note,,0,0,0,,{\an2\fs23\1c&HFFFFFF&\pos(322,457)}Mai-chan
 Dialogue: 0,0:22:13.97,0:22:16.31,Default,,0,0,0,,{\an8}It's probably like a rice ball
-Dialogue: 0,0:22:14.73,0:22:16.06,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Yuuki-kun
+Dialogue: 0,0:22:14.73,0:22:16.06,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23\pos(322,457)}Yuuki-kun
 Dialogue: 0,0:22:17.23,0:22:20.15,Default,,0,0,0,,{\an8}Well, let's play with this today.
-Dialogue: 0,0:22:17.36,0:22:19.23,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Teacher Yukari
+Dialogue: 0,0:22:17.36,0:22:19.23,Note,,0,0,0,,{\an2\fs23\1c&HFFFFFF&\pos(322,457)}Teacher Yukari
 Dialogue: 0,0:22:20.28,0:22:21.32,Default,,0,0,0,,{\an8}It's so small.
 Dialogue: 0,0:22:21.32,0:22:26.58,Default,,0,0,0,,{\an8}Yeah, this is a 6x6, 6 line board. But this\Nis good enough when you're starting.
-Dialogue: 0,0:22:22.28,0:22:26.03,Note,,0,0,0,,{\an2\fs23\pos(322,457)}6x6 board
+Dialogue: 0,0:22:22.28,0:22:26.03,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23\pos(322,457)}6x6 board
 Dialogue: 0,0:22:26.81,0:22:28.87,Default,,0,0,0,,{\an8}First one to get 3 stones wins okay?
 Dialogue: 0,0:22:28.79,0:22:29.16,Default,,0,0,0,,{\an8}Okay
 Dialogue: 0,0:22:29.29,0:22:29.70,Default,,0,0,0,,{\an8}Okay
 Dialogue: 0,0:22:29.87,0:22:30.79,Default,,0,0,0,,{\an8}Let's start then.
-Dialogue: 0,0:22:30.25,0:22:31.71,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Stone Capture Game start!
-Dialogue: 0,0:22:30.99,0:22:51.02,Note,,0,0,0,,{\an2\fs23\pos(120,83)}Yuuki
-Dialogue: 0,0:22:31.01,0:22:51.03,Note,,0,0,0,,{\an2\fs23\pos(532,83)}Mai
+Dialogue: 0,0:22:30.25,0:22:31.71,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23\pos(322,457)}Stone Capture Game start!
+Dialogue: 0,0:22:31.01,0:22:51.02,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23\pos(120,83)}Yuuki
+Dialogue: 0,0:22:31.01,0:22:51.03,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23\pos(532,83)}Mai
 Dialogue: 0,0:22:31.02,0:22:33.46,Noise,,0,0,0,,{\an8}Good luck!
-Dialogue: 0,0:22:32.46,0:22:39.34,Note,,0,0,0,,{\an2\fs23\pos(322,457)}You can make your own 6 line board easily\Nby drawing lines on a sheet of paper.
+Dialogue: 0,0:22:32.46,0:22:39.34,Note,,0,0,0,,{\an2\fs23\1c&HFFFFFF&\pos(322,457)}You can make your own 6 line board easily\Nby drawing lines on a sheet of paper.
 Dialogue: 0,0:22:36.29,0:22:39.00,Default,,0,0,0,,{\an8}Mai chan you took some!
 Dialogue: 0,0:22:39.56,0:22:40.38,Default,,0,0,0,,{\an8}What will he do?
-Dialogue: 0,0:22:40.01,0:22:46.93,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Paint on bottle caps to make your go stones.
+Dialogue: 0,0:22:40.01,0:22:46.93,Note,,0,0,0,,{\an2\fs23\1c&HFFFFFF&\pos(322,457)}Paint on bottle caps to make your go stones.
 Dialogue: 0,0:22:43.09,0:22:45.55,Default,,0,0,0,,{\an8}That was a good move.
 Dialogue: 0,0:22:47.24,0:22:48.43,Default,,0,0,0,,{\an8}Oh yeah!
-Dialogue: 0,0:22:48.72,0:22:50.27,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Mai-chan wins!
+Dialogue: 0,0:22:48.72,0:22:50.27,Note,,0,0,0,,{\an2\fs23\1c&HFFFFFF&\pos(322,457)}Mai-chan wins!
 Dialogue: 0,0:22:48.93,0:22:52.31,Default,,0,0,0,,{\an8}Mai chan wins. Congratulations.
 Dialogue: 0,0:22:52.43,0:22:55.31,Default,,0,0,0,,{\an8}Now thank your opponent for the game.
-Dialogue: 0,0:22:53.27,0:22:55.27,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Greet your opponent when you start the\Ngame, and thank your opponent at the end.
+Dialogue: 0,0:22:53.27,0:22:55.27,Note,,0,0,0,,{\an2\fs23\1c&HFFFFFF&\pos(322,457)}Greet your opponent when you start the\Ngame, and thank your opponent at the end.
 Dialogue: 0,0:22:55.06,0:22:57.23,Background,,0,0,0,,{\an8}Thanks for the game.
-Dialogue: 0,0:22:55.48,0:22:57.36,Note,,0,0,0,,{\an2\fs23\pos(322,457)}To be continued...
+Dialogue: 0,0:22:55.48,0:22:57.36,Note,,0,0,0,,{\an2\fs23\1c&HFFFFFF&\pos(322,457)}To be continued...
 Dialogue: 0,0:22:58.86,0:23:01.49,Background,,0,0,0,,Sai you said it was alright!
 Dialogue: 0,0:23:01.87,0:23:05.88,Background,,0,0,0,,Tsutsui, the members for the Igo\Nteam tournament's been decided.
 Dialogue: 0,0:23:06.18,0:23:07.82,Sai,,0,0,0,,I think I understand now...
 Dialogue: 0,0:23:08.87,0:23:12.20,Sai,,0,0,0,,why I was drawn to Hikaru.
-Dialogue: 0,0:23:14.62,0:23:19.59,Note,,0,0,0,,[note from translator: I'll explain what a Joseki is in\Nthe next episode. Explanation omitted purposely.]
+Dialogue: 0,0:23:14.62,0:23:19.63,Note,,0,0,0,,[note from translator: I'll explain what a Joseki is in\Nthe next episode. Explanation omitted purposely.]
 Dialogue: 0,0:23:14.62,0:23:16.46,SignsEp4,,0,0,0,,{\fs27\pos(461,359)}How to play\NJoseki correctly
 Dialogue: 0,0:23:22.73,0:23:25.22,Sai,,0,0,0,,Once you place the stone,\Nyou can't change its position,
 Dialogue: 0,0:23:25.29,0:23:26.76,Sai,,0,0,0,,and that is the importance of a move.
