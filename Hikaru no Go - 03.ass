@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 271
-Active Line: 297
-Video Position: 34676
+Scroll Position: 244
+Active Line: 275
+Video Position: 32124
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -349,29 +349,29 @@ Dialogue: 0,0:20:21.18,0:20:21.78,Thinking,,0,0,0,,{\c&HC5FEC1&}like that!
 Dialogue: 0,0:20:29.25,0:20:29.96,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs44.2}Umezawa Yukari's Go Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:12.32,0:22:13.59,Note,,0,0,0,,{\an2\1c&HFFFFFF&\pos(322,428)\fs23}Teacher Yukari
-Dialogue: 0,0:22:14.15,0:22:15.86,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23}Mai
-Dialogue: 0,0:22:16.63,0:22:17.44,Note,,0,0,0,,{\an2\1c&HFFFFFF&\pos(322,428)\fs23}Teacher Yukari
-Dialogue: 0,0:22:17.83,0:22:18.36,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23}Mai
+Dialogue: 0,0:22:12.32,0:22:13.59,Note,,0,0,0,,{\an2\pos(322,428)\fs23}Teacher Yukari
+Dialogue: 0,0:22:14.15,0:22:15.86,Note,,0,0,0,,{\an2\fs23}Mai
+Dialogue: 0,0:22:16.63,0:22:17.44,Note,,0,0,0,,{\an2\pos(322,428)\fs23}Teacher Yukari
+Dialogue: 0,0:22:17.83,0:22:18.36,Note,,0,0,0,,{\an2\fs23}Mai
 Dialogue: 0,0:22:14.02,0:22:18.00,Default,,0,0,0,,{\an8}Our Go classroom is about to start,\Nbut Yuuki is nowhere to be seen!
-Dialogue: 0,0:22:20.85,0:22:22.35,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23}Yuuki
+Dialogue: 0,0:22:20.85,0:22:22.35,Note,,0,0,0,,{\an2\fs23}Yuuki
 Dialogue: 0,0:22:21.03,0:22:23.37,Default,,0,0,0,,{\an8}What are you doing dressed like that?
 Dialogue: 0,0:22:23.82,0:22:26.20,Default,,0,0,0,,{\an8}I'm going to become a pro Go player!
-Dialogue: 0,0:22:24.50,0:22:28.03,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23}Pro Go player
+Dialogue: 0,0:22:24.50,0:22:28.03,Note,,0,0,0,,{\an2\fs23}Pro Go player
 Dialogue: 0,0:22:26.62,0:22:28.99,Default,,0,0,0,,{\an8}But getting dressed like that has nothing to do with it!
 Dialogue: 0,0:22:29.49,0:22:32.58,Default,,0,0,0,,{\an8}And oh yeah, Ms. Yukari, how\Ndo you become a pro at Go?
-Dialogue: 0,0:22:30.95,0:22:33.29,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23}How do you become a pro?
-Dialogue: 0,0:22:34.96,0:22:37.79,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23}Take the annual Pro Examination
+Dialogue: 0,0:22:30.95,0:22:33.29,Note,,0,0,0,,{\an2\fs23}How do you become a pro?
+Dialogue: 0,0:22:34.96,0:22:37.79,Note,,0,0,0,,{\an2\fs23}Take the annual Pro Examination
 Dialogue: 0,0:22:33.00,0:22:35.29,Default,,0,0,0,,{\an8}Well in the Japanese Go Kiin that I'm in,
 Dialogue: 0,0:22:35.33,0:22:37.92,Default,,0,0,0,,{\an8}there's an annual pro examination.
 Dialogue: 0,0:22:38.09,0:22:40.38,Default,,0,0,0,,{\an8}But only 4 or 5 people can make it each year...
-Dialogue: 0,0:22:38.34,0:22:40.79,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23}Only a few people can pass the exam each year
+Dialogue: 0,0:22:38.34,0:22:40.79,Note,,0,0,0,,{\an2\fs23}Only a few people can pass the exam each year
 Dialogue: 0,0:22:41.30,0:22:43.84,Default,,0,0,0,,{\an8}Wow there's a lot involved in becoming a pro!
 Dialogue: 0,0:22:44.13,0:22:48.01,Default,,0,0,0,,{\an8}Yeah, but if Yuuki-kun tries hard\Nhe may be able to become one...
-Dialogue: 0,0:22:50.39,0:22:53.81,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23}even if you're a child, if you pass the pro\Nexamination, you can become a Pro Go player.
+Dialogue: 0,0:22:50.39,0:22:53.81,Note,,0,0,0,,{\an2\fs23}even if you're a child, if you pass the pro\Nexamination, you can become a Pro Go player.
 Comment: 0,0:22:54.81,0:22:56.12,Default,,0,0,0,,E-F had "I want to become one too..." but I managed to pick up "tabetai" which means "want to eat" so I agree with gabest subs which had that. Everything else is the same as E-F.
 Dialogue: 0,0:22:54.81,0:22:56.12,Default,,0,0,0,,{\an8}I want to eat some too...
-Dialogue: 0,0:22:54.90,0:22:57.31,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23}to be continued...
+Dialogue: 0,0:22:54.90,0:22:57.31,Note,,0,0,0,,{\an2\fs23}to be continued...
 Dialogue: 0,0:22:58.93,0:23:00.63,Background,,0,0,0,,What's so special about Touya Akira?!
 Dialogue: 0,0:23:01.03,0:23:04.11,Background,,0,0,0,,{\fs24.9}He's a worthless moron who lost to me at the game!
 Dialogue: 0,0:23:04.48,0:23:06.16,Default,,0,0,0,,You said you won against Touya?!

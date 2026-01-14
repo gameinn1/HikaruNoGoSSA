@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 02 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 289
-Active Line: 328
-Video Position: 34668
+Scroll Position: 298
+Active Line: 324
+Video Position: 34128
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -383,26 +383,26 @@ Dialogue: 0,0:20:36.14,0:20:38.22,Background,,0,0,0,,I finally found you...
 Dialogue: 0,0:20:39.28,0:20:40.59,Default,,0,0,0,,Shindou Hikaru.
 Dialogue: 0,0:22:09.72,0:22:12.32,Sai,,0,0,0,,{\an5\pos(320,152)}{\fs45}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.72,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:12.35,0:22:14.15,Note,,0,0,0,,{\an2\1c&HFFFFFF&\fs23\pos(320,458)}What would Miss. Yukari teach us today?
+Dialogue: 0,0:22:12.35,0:22:14.15,Note,,0,0,0,,{\an2\fs23\pos(322,457)}What would Miss. Yukari teach us today?
 Dialogue: 0,0:22:15.56,0:22:17.76,Default,,0,0,0,,{\an8}Ok, then why don't we play the "capture" game?
-Dialogue: 0,0:22:15.56,0:22:17.77,Note,,0,0,0,,{\an2\1c&HFFFFFF&\pos(320,458)\fs23}Teacher Yukari
+Dialogue: 0,0:22:15.56,0:22:17.77,Note,,0,0,0,,{\an2\pos(322,457)\fs23}Teacher Yukari
 Dialogue: 0,0:22:18.27,0:22:22.57,Default,,0,0,0,,{\an8}In order to capture the opponent's stone.\NWhat you need to do is surround it.
-Dialogue: 0,0:22:18.19,0:22:21.07,Note,,0,0,0,,{\fs28\1c&HFFFFFF&\move(867,216,-235,216)}In order to take the opponent's stone...
+Dialogue: 0,0:22:18.19,0:22:21.07,Note,,0,0,0,,{\fs28\move(867,216,-235,216)}In order to take the opponent's stone...
 Dialogue: 0,0:22:18.28,0:22:20.78,Memory,,0,0,0,,{\pos(55,455)}Yuuki
 Dialogue: 0,0:22:18.28,0:22:20.78,Memory,,0,0,0,,{\pos(605,248)}Mai
-Dialogue: 0,0:22:21.28,0:22:25.78,Note,,0,0,0,,{\fs23\1c&HFFFFFF&\pos(324,435)}In Go, if you surround the opponent's stone, you capture it
+Dialogue: 0,0:22:21.28,0:22:25.78,Note,,0,0,0,,{\fs23\pos(322,435)}In Go, if you surround the opponent's stone, you capture it
 Dialogue: 0,0:22:22.86,0:22:27.45,Default,,0,0,0,,{\an8}Right, Mai-chan is going to surround\NYuuki-kun's and Yuuki-kun is going\Nto surround Mai-chan's stones.
 Dialogue: 0,0:22:32.85,0:22:35.68,Default,,0,0,0,,{\an8}Yes, well done, you two!
-Dialogue: 0,0:22:36.25,0:22:38.25,Note,,0,0,0,,{\fs23\1c&HFFFFFF&\pos(90,432)}A good choice.
-Dialogue: 0,0:22:36.25,0:22:38.25,Note,,0,0,0,,{\fs23\1c&HFFFFFF&\pos(553,432)}The best choice.
+Dialogue: 0,0:22:36.25,0:22:38.25,Note,,0,0,0,,{\fs23\pos(90,435)}A good choice.
+Dialogue: 0,0:22:36.25,0:22:38.25,Note,,0,0,0,,{\fs23\pos(553,435)}The best choice.
 Dialogue: 0,0:22:35.76,0:22:38.17,Default,,0,0,0,,{\an8}Well, actually, this one is the best choice.
 Dialogue: 0,0:22:38.76,0:22:42.34,Default,,0,0,0,,{\an8}See, you don't have to put these,\Nand you can get the white.
 Dialogue: 0,0:22:42.71,0:22:46.89,Default,,0,0,0,,{\an8}Because all you need to do is to surround\Nthe opponent by blocking the four lines.
-Dialogue: 0,0:22:43.76,0:22:49.97,Note,,0,0,0,,{\fs28\1c&HFFFFFF&\pos(324,404)}You only need to put stones on the lines\Nand you can get the opponent's stone.
+Dialogue: 0,0:22:43.76,0:22:49.97,Note,,0,0,0,,{\fs28\pos(322,404)}You only need to put stones on the lines\Nand you can get the opponent's stone.
 Dialogue: 0,0:22:47.26,0:22:49.68,Default,,0,0,0,,{\an8}See, we can get the white.
 Dialogue: 0,0:22:49.97,0:22:53.98,Default,,0,0,0,,{\an8}Ok, let's see who can get each of your\Nopponent's stone first. Start with Yuuki-kun.
 Dialogue: 0,0:22:55.56,0:22:57.11,Default,,0,0,0,,{\an8}The sound the stone makes is good.
-Dialogue: 0,0:22:54.77,0:22:57.36,Note,,0,0,0,,{\an2\fs23\1c&HFFFFFF&\pos(320,460)}To be continued...
+Dialogue: 0,0:22:54.77,0:22:57.36,Note,,0,0,0,,{\an2\fs23\pos(322,457)}To be continued...
 Dialogue: 0,0:22:58.91,0:23:03.03,Background,,0,0,0,,I see. So you are the one who won against Akira.
 Dialogue: 0,0:23:04.29,0:23:06.11,Background,,0,0,0,,Place three stones.
 Dialogue: 0,0:23:06.80,0:23:08.66,Background,,0,0,0,,That's Akira's talent.
