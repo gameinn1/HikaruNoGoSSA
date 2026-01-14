@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 257
-Active Line: 266
-Video Position: 29625
+Scroll Position: 266
+Active Line: 281
+Video Position: 35432
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,6 +71,7 @@ Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H800000
 Style: Title_eps_top,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
 Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
+Style: umezawa61,Smudger Std,250,&H00000000,&H006B6F7B,&H00000000,&H00FFFBAB,0,0,0,0,100,100,0,0,1,0,1.3,7,56,56,14,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -341,6 +342,21 @@ Dialogue: 0,0:20:26.87,0:20:30.08,Default,,0,0,0,,You're the one that suggested 
 Dialogue: 0,0:20:30.38,0:20:31.46,Default,,0,0,0,,What!?
 Dialogue: 0,0:20:32.00,0:20:34.21,Default,,0,0,0,,You're the one that lost.
 Dialogue: 0,0:20:35.57,0:20:36.67,Background,,0,0,0,,Kawai-san...
+Dialogue: 0,0:22:09.32,0:22:12.32,umezawa61,,0,0,0,,{\pos(49.594,11.156)}I\Ng\No
+Dialogue: 0,0:22:13.09,0:22:15.39,Background,,0,0,0,,I, Umezawa Yukari,
+Dialogue: 0,0:22:15.39,0:22:19.73,Background,,0,0,0,,once took you through the land of Honinbou\NShuusaku's birth, Innoshima.
+Dialogue: 0,0:22:24.02,0:22:28.07,Background,,0,0,0,,So this time, we'll take you through the\Nother grave of Honinbou Shuusaku,
+Dialogue: 0,0:22:28.07,0:22:30.47,Background,,0,0,0,,Honmyouji temple in Sugamo of Tokyo.
+Dialogue: 0,0:22:31.01,0:22:32.68,Default,,0,0,0,,I'll show you around!
+Dialogue: 0,0:22:38.80,0:22:44.31,Background,,0,0,0,,The graves of historic Honinbous are at Honmyouji\Ntemple, along with the grave of Shuusaku.
+Dialogue: 0,0:22:47.09,0:22:49.83,Background,,0,0,0,,Hikaru came here in search of Sai,
+Dialogue: 0,0:22:49.83,0:22:53.55,Background,,0,0,0,,but I came here to pray that I get better at Go.
+Dialogue: 0,0:22:58.86,0:23:01.15,Default,,0,0,0,,You over there, want to play me?
+Dialogue: 0,0:23:02.36,0:23:07.16,Background,,0,0,0,,If you beat me, I'll forget about\Nthe money from the last game.
+Dialogue: 0,0:23:07.66,0:23:08.74,Thinking,,0,0,0,,Shuusaku's...
+Dialogue: 0,0:23:09.24,0:23:10.29,Thinking,,0,0,0,,Torajirou's...
+Dialogue: 0,0:23:10.87,0:23:12.37,Thinking,,0,0,0,,grave is in Tokyo!?
+Dialogue: 0,0:23:22.71,0:23:24.26,Default,,0,0,0,,Then let's play.
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
 Dialogue: 0,0:00:16.55,0:00:20.71,Op3Kanji,,0,0,0,,時間だけが過ぎる毎日じゃ
