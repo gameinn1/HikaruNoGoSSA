@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 330
-Active Line: 348
-Video Position: 35492
+Scroll Position: 51
+Active Line: 68
+Video Position: 7219
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -152,7 +152,7 @@ Dialogue: 0,0:04:50.36,0:04:51.92,Default,,0,0,0,,W-why did you do that?
 Dialogue: 0,0:04:52.15,0:04:56.22,Default,,0,0,0,,Tsutsui, we have a team for the Go tournament.
 Dialogue: 0,0:04:57.32,0:05:00.14,Default,,0,0,0,,Myself, you, and this kid!
 Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22\an3\pos(636,401)}Try\Nout\Na\NTsumego!
-Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs40\1c&HFFFFFF&\3c&H000000&\pos(523,435)}Go
+Dialogue: 0,0:05:01.07,0:05:04.29,Note,,0,0,0,,{\fs40\1c&HFFFFFF&\3c&H000000&\pos(523,434)}Go
 Dialogue: 0,0:05:08.21,0:05:09.85,Background,,0,0,0,,We can't do that!
 Dialogue: 0,0:05:09.83,0:05:11.17,Background,,0,0,0,,You lost the game...
 Dialogue: 0,0:05:11.38,0:05:12.91,Background,,0,0,0,,so just do what I tell you.

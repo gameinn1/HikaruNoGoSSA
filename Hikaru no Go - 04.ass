@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 357
-Active Line: 364
-Video Position: 35238
+Scroll Position: 237
+Active Line: 253
+Video Position: 20183
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,7 +329,7 @@ Dialogue: 0,0:13:53.97,0:13:55.73,Background,,0,0,0,,Tsutsui let him go!
 Dialogue: 0,0:13:56.65,0:13:58.45,Background,,0,0,0,,You think I'm a loser?
 Dialogue: 0,0:13:59.44,0:14:01.64,Default,,0,0,0,,I'll show you how strong I am!
 Dialogue: 0,0:14:01.78,0:14:02.65,SignsEp4,,0,0,0,,{\fs28\pos(314,222)}KING
-Dialogue: 0,0:14:02.65,0:14:06.58,Note,,0,0,0,,{\fs23\pos(437.11,222.889)}King
+Dialogue: 0,0:14:02.65,0:14:06.58,Note,,0,0,0,,{\fs23\pos(437,223)}King
 Dialogue: 0,0:14:03.60,0:14:06.57,Default,,0,0,0,,If I lose, I'll bow to you as king or whatever.
 Dialogue: 0,0:14:06.87,0:14:10.44,Background,,0,0,0,,But if you lose, go jump in an ice cold pool!
 Dialogue: 0,0:14:10.44,0:14:11.52,Default,,0,0,0,,Okay!
