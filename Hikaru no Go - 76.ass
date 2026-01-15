@@ -67,7 +67,7 @@ Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
 Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
-Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
+Style: Title_special,Arial,43,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
@@ -89,7 +89,7 @@ Dialogue: 0,0:01:56.05,0:01:57.06,Thinking,,0,0,0,,Don't go!
 Dialogue: 0,0:01:57.22,0:01:58.47,Thinking,,0,0,0,,Say something!
 Dialogue: 0,0:01:59.02,0:01:59.72,Thinking,,0,0,0,,Don't go away!
 Dialogue: 0,0:02:00.52,0:02:01.23,Thinking,,0,0,0,,Sai!
-Dialogue: 0,0:02:27.59,0:02:32.42,Title_special,,0,0,0,for the special,{\fad(359,0)\q2\blur0.8\fscy70\fscx330\t(0,329,1,\fscx100)\pos(311,333)}The Road to the Hokuto Cup
+Dialogue: 0,0:02:27.59,0:02:32.42,Title_special,,0,0,0,for the special,{\fad(359,0)\q2\blur0.8\fscy65\fscx330\t(0,329,1,\fscx100)\pos(311,333)}The Road to the Hokuto Cup
 Dialogue: 0,0:03:04.87,0:03:06.54,Default,,0,0,0,,Is Hikaru playing?
 Dialogue: 0,0:03:08.79,0:03:10.75,Default,,0,0,0,,Huh? Did you say something, dear?
 Dialogue: 0,0:03:11.25,0:03:13.13,Background,,0,0,0,,Is Hikaru playing again?
