@@ -47,6 +47,8 @@ Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully
 ### Status Legend
 - ✅ Complete
 - ⏳ WIP
+- ☑️ Subbed but no signs
+- ❗ No subtitles exist
 - ❌ Still to do
   
 | Episode | Subbed | Timed/Styled | Ending Igo |
