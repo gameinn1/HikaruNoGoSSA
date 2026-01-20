@@ -1,13 +1,22 @@
 # Hikaru No Go E-F/R-F Sub Restoration
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Logo.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/62%20Title%20Example.png" width="45%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%20Ending%20Fixed.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%20Igo%20Ending.png" width="45%" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="[image1.png](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro.png)" width="200"/><br/>
+        <img src="[image2.png](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Igo.png)" width="200"/><br/>
+        <img src="[image3.png](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/64%20Igo%201.png)" width="200"/>
+      </td>
+      <td>
+        <img src="[image4.png](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%201.png)" width="200"/><br/>
+        <img src="[image5.png](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%202.png)" width="200"/><br/>
+        <img src="[image6.png](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%203.png)" width="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
 
 Hello everyone. This is an update to the project started by gabest11. See table below for overall progress. The fonts are in fonts-v4.zip (compiled via fonts collector) as this has everything needed and made once 75/76 was complete. Once extracted, right click and install them.
