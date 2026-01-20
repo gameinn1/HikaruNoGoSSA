@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../Hikaru no Go/[E-F]_Hikaru_no_Go_05.avi
-Video File: ../Hikaru no Go/[E-F]_Hikaru_no_Go_05.avi
+Audio File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
+Video File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 2.000000
-Scroll Position: 213
-Active Line: 229
-Video Position: 20149
+Video Zoom Percent: 0.625000
+Scroll Position: 327
+Active Line: 344
+Video Position: 34700
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,26 +52,34 @@ Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,
 Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
 Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
 Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.8,0.8,2,0,0,21,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
-Style: Note,Century Gothic,23,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,18,1
-Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,21,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,15,1
+Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
+Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Verdana,39,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
-Style: Title_eps_top,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
-Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
-Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
-Style: SignsEp4,Copperplate Std 33 BC,28,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1.8,0,8,30,30,10,1
+Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
+Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
+Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
+Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
+Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
+Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
+Style: op75_eng,Freehand471 BT,29,&H00DBF3F2,&H006B6F7B,&H00000000,&H7D000000,0,0,0,0,100,100,0,0,1,2,2,2,0,0,14,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1,0,0,98.5,98.5,0,0,1,2,2,2,19,19,16,1
+Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
+Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
+Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,10,1
+Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0,8,0,0,25,1
+Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -142,7 +150,7 @@ Dialogue: 0,0:04:43.60,0:04:46.13,Default,,0,0,0,,AHHH! An ice cold pool!
 Dialogue: 0,0:04:50.36,0:04:51.92,Default,,0,0,0,,W-why did you do that?
 Dialogue: 0,0:04:52.15,0:04:56.22,Default,,0,0,0,,Tsutsui, we have a team for the Go tournament.
 Dialogue: 0,0:04:57.32,0:05:00.14,Default,,0,0,0,,Myself, you, and this kid!
-Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22\an3\pos(636,401)}Try\Nout\Na\NTsumego!
+Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22.5\an3\pos(636,400)}Try\Nout\Na\NTsumego!
 Dialogue: 0,0:05:01.07,0:05:04.29,Note,,0,0,0,,{\fs40\1c&HFFFFFF&\3c&H000000&\pos(523,434)}Go
 Dialogue: 0,0:05:08.21,0:05:09.85,Background,,0,0,0,,We can't do that!
 Dialogue: 0,0:05:09.83,0:05:11.17,Background,,0,0,0,,You lost the game...
@@ -151,9 +159,9 @@ Dialogue: 0,0:05:14.32,0:05:16.27,Background,,0,0,0,,... when is that tournament
 Dialogue: 0,0:05:16.76,0:05:18.89,Background,,0,0,0,,This Sunday from 2PM.
 Dialogue: 0,0:05:19.17,0:05:19.97,Background,,0,0,0,,Where is it?
 Dialogue: 0,0:05:20.13,0:05:21.51,Background,,0,0,0,,Kaiou Junior High.
-Dialogue: 0,0:05:26.64,0:05:33.69,SignsEp4,,0,0,0,,{\fs30\pos(319,4)}Kaiou Private Junior High School
-Dialogue: 0,0:05:44.18,0:05:45.66,Note,,0,0,0,,{\fs28\pos(314,-1)}To Third Annual North District Junior High Winter
-Dialogue: 0,0:05:44.18,0:05:45.66,Note,,0,0,0,,{\fs28\pos(320,135)}Go Tournament Participants.
+Dialogue: 0,0:05:26.64,0:05:33.69,SignsEp4,,0,0,5,,{\fs30}Kaiou Private Junior High School
+Dialogue: 0,0:05:44.18,0:05:45.66,Note,,0,0,0,,{\fs27.5\pos(311,-1)}To Third Annual North District Junior High Winter
+Dialogue: 0,0:05:44.18,0:05:45.66,Note,,0,0,0,,{\fs27.5\pos(321,136)}Go Tournament Participants.
 Dialogue: 0,0:05:44.71,0:05:46.21,Background,,0,0,0,,Wow!
 Dialogue: 0,0:05:46.76,0:05:48.63,Default,,0,0,0,,So this is Kaiou Junior High school.
 Dialogue: 0,0:05:49.07,0:05:50.07,Default,,0,0,0,,Let's see...
@@ -163,7 +171,10 @@ Dialogue: 0,0:05:48.79,0:05:55.80,Note,,0,0,0,,{\fs25\pos(319,5)}To Third Annual
 Dialogue: 0,0:05:56.12,0:05:57.30,Default,,0,0,0,,I think I'll get lost...
 Dialogue: 0,0:05:57.96,0:06:03.22,Default,,0,0,0,,Oh well, I'd never be able to come to\None of the top Junior High Schools in\Nthe nation without something like this.
 Dialogue: 0,0:06:07.09,0:06:08.92,Default,,0,0,0,,Wow, they're practicing even though it's Sunday.
-Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs19\an8\pos(557,222)}Igo Tournament\NHeld\NHere\N<---
+Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(556,222)}Igo Tournament
+Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(560,245)}Held
+Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(560,263)}Here
+Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(550,280)}<---
 Dialogue: 0,0:06:13.03,0:06:14.72,Default,,0,0,0,,Oh.
 Dialogue: 0,0:06:15.71,0:06:16.32,Default,,0,0,0,,Here it is.
 Dialogue: 0,0:06:19.32,0:06:21.61,SignsEp4,,0,0,0,,{\fs26\pos(505,3)}Junior High Winter
@@ -173,15 +184,15 @@ Dialogue: 0,0:06:26.09,0:06:29.33,Default,,0,0,0,,Listen up, don't think that yo
 Dialogue: 0,0:06:29.65,0:06:33.83,Default,,0,0,0,,If you meet up with an opponent who's better\Nthan you, it's only expected that you lose.
 Dialogue: 0,0:06:34.14,0:06:36.06,Default,,0,0,0,,Let's play a bit then.
 Dialogue: 0,0:06:36.48,0:06:39.34,Default,,0,0,0,,Imai you play Okata. Takeshita, you play me.
-Dialogue: 0,0:06:39.34,0:06:46.09,Note,,0,0,0,,{\fs23\pos(298,16)}Iwana Junior High
-Dialogue: 0,0:06:39.34,0:06:46.09,Note,,0,0,0,,{\fs23\pos(339,69)}Ayu Junior High
+Dialogue: 0,0:06:39.34,0:06:46.09,Note,,0,0,0,,{\pos(299,15)}Iwana Junior High
+Dialogue: 0,0:06:39.34,0:06:46.09,Note,,0,0,0,,{\pos(340,68)}Ayu Junior High
 Dialogue: 0,0:06:39.75,0:06:43.47,Default,,0,0,0,,Seems that Kaiou Junior High\Nis exceptional again this year.
 Dialogue: 0,0:06:43.47,0:06:46.10,Default,,0,0,0,,But I wonder who'll come in second.
 Dialogue: 0,0:06:46.44,0:06:48.85,Sai,,0,0,0,,What kind of a tournament are we in today?
 Dialogue: 0,0:06:49.21,0:06:51.39,Default,,0,0,0,,It's a team tournament for Junior Highs.
 Dialogue: 0,0:06:51.39,0:06:52.52,Sai,,0,0,0,,Oh!
 Dialogue: 0,0:06:52.82,0:06:55.93,Default,,0,0,0,,3 people per team, and the team\Nwith 2 wins are the winners.
-Dialogue: 0,0:06:55.94,0:07:04.95,Note,,0,0,0,,{\fs23}| Hamachi | Tai | Iwana | Ayu | Sawara | Haze | Kawahagi |\N\NJunior High
+Dialogue: 0,0:06:55.94,0:07:04.95,Note,,0,0,0,,| Hamachi | Tai | Iwana | Ayu | Sawara | Haze | Kawahagi |\N\NJunior High
 Dialogue: 0,0:06:56.91,0:06:59.07,Background,,0,0,0,,8 male teams and 6 female teams,
 Dialogue: 0,0:06:59.29,0:07:00.64,Background,,0,0,0,,not too many.
 Dialogue: 0,0:07:00.99,0:07:02.42,Background,,0,0,0,,Where's Haze...
@@ -270,7 +281,7 @@ Dialogue: 0,0:12:10.56,0:12:11.21,Default,,0,0,0,,Umm...
 Dialogue: 0,0:12:11.21,0:12:12.60,Default,,0,0,0,,Women's first match...
 Dialogue: 0,0:12:12.86,0:12:15.71,Background,,0,0,0,,Kaiou Junior High against Iwana Junior High is on seat A.
 Dialogue: 0,0:12:16.24,0:12:19.41,Background,,0,0,0,,Ayu Junior High against Iwana Junior High is on seat B.
-Dialogue: 0,0:12:19.72,0:12:28.73,Note,,0,0,0,,{\fs28\pos(325,10)}(Tournament Pairings)
+Dialogue: 0,0:12:19.72,0:12:28.73,Note,,0,0,10,,{\fs27.5}(Tournament Pairings)
 Dialogue: 0,0:12:20.03,0:12:21.68,Background,,0,0,0,,For the men's division...
 Dialogue: 0,0:12:21.67,0:12:24.72,Background,,0,0,0,,Kaiou Junior High against\NHamachi Junior High is on seat C.
 Dialogue: 0,0:12:25.21,0:12:28.10,Background,,0,0,0,,Seat D is Tai Junior High against Iwana Junior High.
@@ -297,7 +308,7 @@ Dialogue: 0,0:13:36.92,0:13:38.63,Default,,0,0,0,,You jerk...
 Dialogue: 0,0:13:38.85,0:13:39.76,Default,,0,0,0,,Fine!
 Dialogue: 0,0:13:39.76,0:13:41.63,Default,,0,0,0,,You can just stay back today!
 Dialogue: 0,0:13:42.58,0:13:44.43,Sai,,0,0,0,,You do what you want Hikaru.
-Dialogue: 0,0:13:45.11,0:13:45.80,SignsEp4,,0,0,0,,{\an5\fs45}King
+Dialogue: 0,0:13:45.11,0:13:45.80,SignsEp4,,0,0,0,,{\an5\fs46}King
 Dialogue: 0,0:13:46.32,0:13:48.34,Default,,0,0,0,,Are you from the Shougi Club?
 Dialogue: 0,0:13:48.66,0:13:50.82,Default,,0,0,0,,Why is someone from the Shougi Club here?
 Dialogue: 0,0:13:52.18,0:13:53.87,Default,,0,0,0,,You didn't have enough members?
@@ -395,28 +406,28 @@ Dialogue: 0,0:20:08.32,0:20:09.86,Default,,0,0,0,,Now it's one win one loss...
 Dialogue: 0,0:20:11.17,0:20:12.57,Default,,0,0,0,,Tsutsui's our only hope.
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs45}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\fs23\pos(202,341)}Yuuki
-Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\fs23\pos(322,341)}Teacher Yukari
-Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\fs23\pos(450,341)}Mai
+Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\pos(203,342)}Yuuki
+Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\pos(323,342)}Teacher Yukari
+Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\pos(451,342)}Mai
 Dialogue: 0,0:22:14.49,0:22:16.51,Default,,0,0,0,,{\an8}Let's learn 2 important things today.
-Dialogue: 0,0:22:15.38,0:22:17.30,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Forbidden moves, and exceptions to forbidden moves.
-Dialogue: 0,0:22:18.00,0:22:19.08,Note,,0,0,0,,{\an2\fs23\pos(322,457)}(1) Forbidden Moves.
-Dialogue: 0,0:22:19.93,0:22:25.15,Note,,0,0,0,,{\an2\fs23\pos(322,457)}You cannot move to a location where your stone will get taken.
+Dialogue: 0,0:22:15.38,0:22:17.30,Note,,0,0,0,,{\an2}Forbidden moves, and exceptions to forbidden moves.
+Dialogue: 0,0:22:18.00,0:22:19.08,Note,,0,0,0,,{\an2}(1) Forbidden Moves.
+Dialogue: 0,0:22:19.93,0:22:25.15,Note,,0,0,0,,{\an2}You cannot move to a location where your stone will get taken.
 Dialogue: 0,0:22:17.68,0:22:22.08,Default,,0,0,0,,{\an8}White moving here, when there's\Na formation like this is forbidden.
 Dialogue: 0,0:22:22.38,0:22:24.80,Default,,0,0,0,,{\an8}You'll end up getting captured anyways.
 Dialogue: 0,0:22:25.41,0:22:27.14,Default,,0,0,0,,{\an8}But, there is an exception to that rule.
-Dialogue: 0,0:22:25.69,0:22:27.07,Note,,0,0,0,,{\an2\fs23\pos(322,457)}(2) Exceptions to Forbidden Moves.
-Dialogue: 0,0:22:28.24,0:22:35.33,Note,,0,0,0,,{\an2\fs23\pos(322,457)}When you can capture the opponent's stones\Nby moving there, then you can move there.
+Dialogue: 0,0:22:25.69,0:22:27.07,Note,,0,0,0,,{\an2}(2) Exceptions to Forbidden Moves.
+Dialogue: 0,0:22:28.24,0:22:35.33,Note,,0,0,0,,{\an2}When you can capture the opponent's stones\Nby moving there, then you can move there.
 Dialogue: 0,0:22:27.14,0:22:30.11,Default,,0,0,0,,{\an8}And that is, when this happens.
 Dialogue: 0,0:22:30.22,0:22:33.51,Default,,0,0,0,,{\an8}If white moves here, then it\Nsurrounds these black stones.
 Dialogue: 0,0:22:33.72,0:22:36.09,Default,,0,0,0,,{\an8}In these situations, you can move here.
-Dialogue: 0,0:22:36.01,0:22:39.01,Note,,0,0,0,,{\an2\fs28\move(725,457,-955,457)}Let's try it now!
+Dialogue: 0,0:22:35.95,0:22:39.01,Note,,0,0,0,,{\an2\fs27.5\move(730,458,-905,458)}Let's try it now!
 Dialogue: 0,0:22:43.52,0:22:46.23,Default,,0,0,0,,{\an8}Oh, Yuuki-kun you've improved!
 Dialogue: 0,0:22:46.76,0:22:49.28,Default,,0,0,0,,{\an8}Okay it's 1 on 1. What'll happen.
 Dialogue: 0,0:22:52.50,0:22:54.92,Default,,0,0,0,,{\an8}Oh no, a Ko's formed already!
 Dialogue: 0,0:22:55.19,0:22:56.93,Default,,0,0,0,,{\an8}What just happened Teacher?
-Dialogue: 0,0:22:55.30,0:22:57.27,Note,,0,0,0,,{\an5\fs23}What happened to Teacher Yukari....?!
-Dialogue: 0,0:22:55.30,0:22:57.27,Note,,0,0,0,,{\an2\fs23\pos(322,457)}To be continued...
+Dialogue: 0,0:22:55.30,0:22:57.27,Note,,0,0,0,,{\an5}What happened to Teacher Yukari....?!
+Dialogue: 0,0:22:55.30,0:22:57.27,Note,,0,0,0,,{\an2}To be continued...
 Dialogue: 0,0:22:58.86,0:23:00.60,Default,,0,0,0,,Mister, why don't you try doing the mokusan?
 Dialogue: 0,0:23:00.95,0:23:03.10,Default,,0,0,0,,His resignation is correct.
 Dialogue: 0,0:23:03.60,0:23:05.30,Sai,,0,0,0,,You're angry aren't you Hikaru?

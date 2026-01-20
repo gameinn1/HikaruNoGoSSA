@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 244
-Active Line: 275
-Video Position: 32124
+Video Zoom Percent: 0.500000
+Scroll Position: 269
+Active Line: 280
+Video Position: 32454
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,25 +52,34 @@ Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,
 Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
 Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
 Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
-Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
-Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,15,1
+Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
+Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Verdana,39,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
-Style: Title_eps_top,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
-Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
-Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
+Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
+Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
+Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
+Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
+Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
+Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
+Style: op75_eng,Freehand471 BT,29,&H00DBF3F2,&H006B6F7B,&H00000000,&H7D000000,0,0,0,0,100,100,0,0,1,2,2,2,0,0,14,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1,0,0,98.5,98.5,0,0,1,2,2,2,19,19,16,1
+Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
+Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
+Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,10,1
+Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0,8,0,0,25,1
+Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -157,11 +166,11 @@ Dialogue: 0,0:05:32.68,0:05:34.71,Background,,0,0,0,,I can't afford to lose this
 Dialogue: 0,0:05:35.56,0:05:38.18,Thinking,,0,0,0,,Hikaru is not a beginner...
 Dialogue: 0,0:05:38.77,0:05:40.11,Thinking,,0,0,0,,I have to play him with all of my strength...
 Dialogue: 0,0:05:40.21,0:05:42.41,Thinking,,0,0,0,,it's just he uses some old joseki at times...
-Dialogue: 0,0:05:40.21,0:05:42.41,Note,,0,0,0,,Joseki - set pattern of moves that\Nlead to equal benefit for both players.
+Dialogue: 0,0:05:40.21,0:05:42.41,Note,,0,0,5,,Joseki - set pattern of moves that\Nlead to equal benefit for both players.
 Dialogue: 0,0:05:42.95,0:05:44.57,Thinking,,0,0,0,,{\c&HC5FEC1&}kosumi is one of them...
-Dialogue: 0,0:05:42.95,0:05:44.57,Note,,0,0,0,,Kosumi is a standard response to a\Nkeima attack, prevalent 200 years ago.
+Dialogue: 0,0:05:42.95,0:05:44.57,Note,,0,0,5,,Kosumi is a standard response to a\Nkeima attack, prevalent 200 years ago.
 Dialogue: 0,0:05:45.71,0:05:49.25,Thinking,,0,0,0,,that move was only considered good\Nbecause of the lack of komi at the time.
-Dialogue: 0,0:05:45.71,0:05:49.25,Note,,0,0,0,,Unlike with Chess, with go, black makes the first move. Since\Nblack is considered to have an advantage because of this,\N5.5 moku is taken away from Black's final score, this 5.5 moku\Nis called komi. A moku is one intersection on the board.
+Dialogue: 0,0:05:45.71,0:05:49.25,Note,,0,0,5,,Unlike with Chess, with go, black makes the first move. Since\Nblack is considered to have an advantage because of this,\N5.5 moku is taken away from Black's final score, this 5.5 moku\Nis called komi. A moku is one intersection on the board.
 Dialogue: 0,0:05:49.33,0:05:49.95,Thinking,,0,0,0,,That's it!
 Dialogue: 0,0:05:50.36,0:05:52.40,Thinking,,0,0,0,,That's were my chance to break him lies!
 Dialogue: 0,0:05:53.46,0:05:58.02,Thinking,,0,0,0,,Man, this guy doesn't know how to take a joke...
@@ -198,7 +207,7 @@ Dialogue: 0,0:07:47.25,0:07:50.54,Thinking,,0,0,0,,Man, he seems to be used to\N
 Dialogue: 0,0:07:52.66,0:07:54.00,Default,,0,0,0,,You're fine with an even match right?
 Dialogue: 0,0:07:54.25,0:07:57.25,Default,,0,0,0,,Even match... you mean the\None where white gets komi?
 Dialogue: 0,0:07:58.01,0:07:59.25,Default,,0,0,0,,I will nigiri.
-Dialogue: 0,0:07:58.01,0:08:02.38,Note,,0,0,0,,[Note: Nigiri - The process of choosing who will play as\Nblack. Please refer to episode 2 for more information]
+Dialogue: 0,0:07:58.01,0:08:02.38,Note,,0,0,5,,[Note: Nigiri - The process of choosing who will play as\Nblack. Please refer to episode 2 for more information]
 Dialogue: 0,0:08:15.70,0:08:18.80,Background,,0,0,0,,I got it right! It's even! I'm black.
 Dialogue: 0,0:08:20.24,0:08:21.48,Default,,0,0,0,,Komi is at 5 and a half moku.
 Dialogue: 0,0:08:22.59,0:08:23.65,Default,,0,0,0,,O-Okay...
@@ -230,7 +239,7 @@ Dialogue: 0,0:09:57.51,0:09:59.30,Sai,,0,0,0,,what gratification.
 Dialogue: 0,0:10:05.44,0:10:08.30,Thinking,,0,0,0,,What's up with this guy? Is he mad?
 Dialogue: 0,0:10:09.02,0:10:09.96,Sai,,0,0,0,,The next move...
 Dialogue: 0,0:10:10.62,0:10:16.35,Sai,,0,0,0,,perhaps kosumi is a little weak here\Nand a Hasami would be better...
-Dialogue: 0,0:10:10.62,0:10:16.35,Note,,0,0,0,,[Note: Hasami - attacking a stone from 2 sides.]
+Dialogue: 0,0:10:10.62,0:10:16.35,Note,,0,0,5,,[Note: Hasami - attacking a stone from 2 sides.]
 Dialogue: 0,0:10:21.89,0:10:23.92,Sai,,0,0,0,,He's waiting for me to Kosumi?
 Dialogue: 0,0:10:24.85,0:10:26.64,Sai,,0,0,0,,Then, might as well let it be...
 Dialogue: 0,0:10:27.50,0:10:30.11,Sai,,0,0,0,,15-16... Kosumi.
@@ -282,9 +291,11 @@ Dialogue: 0,0:16:26.34,0:16:27.26,Default,,0,0,0,,I have something...
 Dialogue: 0,0:16:27.63,0:16:29.26,Default,,0,0,0,,Are you going to your Go classes again?
 Dialogue: 0,0:16:29.70,0:16:31.55,Background,,0,0,0,,Today isn't the day for the Go classes...
 Dialogue: 0,0:16:32.95,0:16:35.27,Default,,0,0,0,,Hikaru! You've been acting really weird lately!
-Dialogue: 0,0:16:35.27,0:16:38.23,Note,,220,180,20,,Domestic and\Ninternational travel\N\NSky Blue Travel\N\NTours of various locales -- Rental
-Dialogue: 0,0:16:35.27,0:16:38.23,Note,,220,180,220,,Go Salon\N\NWeekdays 1PM~10PM\N\NWeekends 12PM~9PM
-Dialogue: 0,0:16:35.27,0:16:38.23,Note,,220,180,400,,6F\NHair Studio\NJoy
+Dialogue: 0,0:16:35.27,0:16:38.23,Note,,0,0,0,,{\pos(321,110)}Intranational and international travel
+Dialogue: 0,0:16:35.27,0:16:38.23,Note,,0,0,0,,{\pos(326,154)}Sky Blue Travel
+Dialogue: 0,0:16:35.27,0:16:38.23,Note,,0,0,0,,{\pos(323,196)}Tours of various locales -- Rental
+Dialogue: 0,0:16:35.27,0:16:38.23,Note,,0,0,0,,{\pos(327,279)}Go Salon Weekdays 1PM~10PM  Weekends 12PM~9PM
+Dialogue: 0,0:16:35.27,0:16:38.23,Note,,0,0,0,,{{\pos(324,344)}6 F Hair Studio Joy
 Dialogue: 0,0:16:38.55,0:16:39.31,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:16:39.76,0:16:42.10,Thinking,,0,0,0,,where does your seriousness come from?
 Dialogue: 0,0:16:42.99,0:16:44.09,Thinking,,0,0,0,,What is it about Go?
@@ -347,33 +358,33 @@ Dialogue: 0,0:20:17.28,0:20:18.16,Thinking,,0,0,0,,could play like...
 Dialogue: 0,0:20:19.41,0:20:20.37,Thinking,,0,0,0,,could play like...
 Dialogue: 0,0:20:21.18,0:20:21.78,Thinking,,0,0,0,,{\c&HC5FEC1&}like that!
 Dialogue: 0,0:20:29.25,0:20:29.96,Sai,,0,0,0,,Hikaru...
-Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs44.2}Umezawa Yukari's Go Go Igo!
+Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs45}Umezawa Yukari's Go Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:12.32,0:22:13.59,Note,,0,0,0,,{\an2\pos(322,428)\fs23}Teacher Yukari
-Dialogue: 0,0:22:14.15,0:22:15.86,Note,,0,0,0,,{\an2\fs23}Mai
-Dialogue: 0,0:22:16.63,0:22:17.44,Note,,0,0,0,,{\an2\pos(322,428)\fs23}Teacher Yukari
-Dialogue: 0,0:22:17.83,0:22:18.36,Note,,0,0,0,,{\an2\fs23}Mai
+Dialogue: 0,0:22:12.32,0:22:13.59,Note,,0,0,0,,{\an2\pos(321,428)}Teacher Yukari
+Dialogue: 0,0:22:14.15,0:22:15.86,Note,,0,0,8,,{\an2}Mai
+Dialogue: 0,0:22:16.63,0:22:17.44,Note,,0,0,0,,{\an2\pos(321,428)}Teacher Yukari
+Dialogue: 0,0:22:17.83,0:22:18.36,Note,,0,0,8,,{\an2}Mai
 Dialogue: 0,0:22:14.02,0:22:18.00,Default,,0,0,0,,{\an8}Our Go classroom is about to start,\Nbut Yuuki is nowhere to be seen!
-Dialogue: 0,0:22:20.85,0:22:22.35,Note,,0,0,0,,{\an2\fs23}Yuuki
+Dialogue: 0,0:22:20.85,0:22:22.35,Note,,0,0,8,,{\an2}Yuuki
 Dialogue: 0,0:22:21.03,0:22:23.37,Default,,0,0,0,,{\an8}What are you doing dressed like that?
 Dialogue: 0,0:22:23.82,0:22:26.20,Default,,0,0,0,,{\an8}I'm going to become a pro Go player!
-Dialogue: 0,0:22:24.50,0:22:28.03,Note,,0,0,0,,{\an2\fs23}Pro Go player
+Dialogue: 0,0:22:24.50,0:22:28.03,Note,,0,0,8,,{\an2}Pro Go player
 Dialogue: 0,0:22:26.62,0:22:28.99,Default,,0,0,0,,{\an8}But getting dressed like that has nothing to do with it!
 Dialogue: 0,0:22:29.49,0:22:32.58,Default,,0,0,0,,{\an8}And oh yeah, Ms. Yukari, how\Ndo you become a pro at Go?
-Dialogue: 0,0:22:30.95,0:22:33.29,Note,,0,0,0,,{\an2\fs23}How do you become a pro?
-Dialogue: 0,0:22:34.96,0:22:37.79,Note,,0,0,0,,{\an2\fs23}Take the annual Pro Examination
+Dialogue: 0,0:22:30.95,0:22:33.29,Note,,0,0,8,,{\an2}How do you become a pro?
+Dialogue: 0,0:22:34.96,0:22:37.79,Note,,0,0,8,,{\an2}Take the annual Pro Examination
 Dialogue: 0,0:22:33.00,0:22:35.29,Default,,0,0,0,,{\an8}Well in the Japanese Go Kiin that I'm in,
 Dialogue: 0,0:22:35.33,0:22:37.92,Default,,0,0,0,,{\an8}there's an annual pro examination.
 Dialogue: 0,0:22:38.09,0:22:40.38,Default,,0,0,0,,{\an8}But only 4 or 5 people can make it each year...
-Dialogue: 0,0:22:38.34,0:22:40.79,Note,,0,0,0,,{\an2\fs23}Only a few people can pass the exam each year
+Dialogue: 0,0:22:38.34,0:22:40.79,Note,,0,0,8,,{\an2}Only a few people can pass the exam each year
 Dialogue: 0,0:22:41.30,0:22:43.84,Default,,0,0,0,,{\an8}Wow there's a lot involved in becoming a pro!
 Dialogue: 0,0:22:44.13,0:22:48.01,Default,,0,0,0,,{\an8}Yeah, but if Yuuki-kun tries hard\Nhe may be able to become one...
-Dialogue: 0,0:22:50.39,0:22:53.81,Note,,0,0,0,,{\an2\fs23}even if you're a child, if you pass the pro\Nexamination, you can become a Pro Go player.
-Comment: 0,0:22:54.81,0:22:56.12,Default,,0,0,0,,E-F had "I want to become one too..." but I managed to pick up "tabetai" which means "want to eat" so I agree with gabest subs which had that. Everything else is the same as E-F.
+Dialogue: 0,0:22:50.39,0:22:53.81,Note,,0,0,8,,{\an2}even if you're a child, if you pass the pro\Nexamination, you can become a Pro Go player.
+Comment: 0,0:22:54.81,0:22:56.12,Default,,0,0,0,,E-F had "I want to become one too..." but I managed to pick up "tabetai" which means "want to eat". I agree with gabest11 subs which had that. Everything else is the same as E-F.
 Dialogue: 0,0:22:54.81,0:22:56.12,Default,,0,0,0,,{\an8}I want to eat some too...
-Dialogue: 0,0:22:54.90,0:22:57.31,Note,,0,0,0,,{\an2\fs23}to be continued...
+Dialogue: 0,0:22:54.90,0:22:57.31,Note,,0,0,8,,{\an2}to be continued...
 Dialogue: 0,0:22:58.93,0:23:00.63,Background,,0,0,0,,What's so special about Touya Akira?!
-Dialogue: 0,0:23:01.03,0:23:04.11,Background,,0,0,0,,{\fs24.9}He's a worthless moron who lost to me at the game!
+Dialogue: 0,0:23:01.03,0:23:04.11,Background,,0,0,0,,He's a worthless moron who lost to me at the game!
 Dialogue: 0,0:23:04.48,0:23:06.16,Default,,0,0,0,,You said you won against Touya?!
 Dialogue: 0,0:23:07.30,0:23:09.78,Sai,,0,0,0,,Hikaru... stop
 Dialogue: 0,0:23:10.16,0:23:12.20,Sai,,0,0,0,,he doesn't seem like someone\Nyou should mess with...

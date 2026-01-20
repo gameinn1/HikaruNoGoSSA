@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 3
-Video Position: 2987
+Scroll Position: 237
+Active Line: 255
+Video Position: 35438
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,27 +52,43 @@ Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,
 Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
 Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
 Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
-Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
-Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Title_eps,Verdana,39,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
-Style: Title_eps_top,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
-Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
-Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,15,1
+Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
+Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
+Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
+Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
+Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
+Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
+Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
+Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
+Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
+Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
+Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
+Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
+Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
+Style: op75_eng,Freehand471 BT,29,&H00DBF3F2,&H006B6F7B,&H00000000,&H7D000000,0,0,0,0,100,100,0,0,1,2,2,2,0,0,14,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1,0,0,98.5,98.5,0,0,1,2,2,2,19,19,16,1
+Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
+Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
+Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,10,1
+Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0,8,0,0,25,1
+Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:55.30,0:01:56.60,Thinking,,0,0,0,,He isn't here...
 Dialogue: 0,0:01:57.60,0:01:58.97,Thinking,,0,0,0,,Why aren't you here, Sai?
 Dialogue: 0,0:01:59.81,0:02:03.48,Thinking,,0,0,0,,Didn't you want to come and visit Torajirou's homeland?
-Dialogue: 0,0:02:04.19,0:02:09.11,Title_eps_top,,0,0,0,for ep 62,{\fad(316,0)\fscx197\t(0,312,1,\fscx99)\blur0.8\pos(335.45,116.89)}The Sixty-Second Match
-Dialogue: 0,0:02:04.19,0:02:09.11,Title_eps,,0,0,0,for ep 62,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,312,1,\fscx100)\pos(324.54,363.85)}The Top Player in Hiroshima
-Dialogue: 0,0:02:09.11,0:02:12.11,Note,,0,0,0,,GO IGO CLUB
+Dialogue: 0,0:02:04.19,0:02:09.11,Title_eps_top,,0,0,0,for ep 62,{\fad(316,0)\fscx197\t(0,310,1,\fscx99)\blur0.8\pos(345,113)}The Sixty-Second Match
+Dialogue: 0,0:02:04.19,0:02:09.11,Title_eps,,0,0,0,for ep 62,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,310,1,\fscx100)\pos(328,365)}The Top Player in Hiroshima
+Dialogue: 0,0:02:09.11,0:02:12.11,NoteArial,,0,0,0,,GO IGO CLUB
 Dialogue: 0,0:02:10.19,0:02:12.11,Background,,0,0,0,,What are you talking about!? That makes no sense.
 Dialogue: 0,0:02:12.78,0:02:15.16,Background,,0,0,0,,Where did you get 50,000!?
 Dialogue: 0,0:02:15.44,0:02:19.69,Background,,0,0,0,,Who said anything about 50,000!?
@@ -85,7 +102,7 @@ Dialogue: 0,0:02:49.73,0:02:52.53,Background,,0,0,0,,You bastard! You called me 
 Dialogue: 0,0:02:52.99,0:02:54.11,Default,,0,0,0,,Kawai-san!
 Dialogue: 0,0:02:54.24,0:02:57.03,Default,,0,0,0,,Hey, do you know that guy with the sunglasses?
 Dialogue: 0,0:02:57.12,0:02:58.32,Default,,0,0,0,,Y-Yes.
-Dialogue: 0,0:02:58.66,0:03:04.08,Note,,0,0,0,,The Giants and Curbs are rival baseball teams in Japan.
+Dialogue: 0,0:02:58.66,0:03:04.08,NoteArial,,0,0,0,,{\fad(334,334)}The Giants and Curbs are rival baseball teams in Japan.
 Dialogue: 0,0:02:58.66,0:03:04.08,Default,,0,0,0,,Tell him later to hide the fact\Nthat he's a Giants fan here.
 Dialogue: 0,0:03:05.16,0:03:09.67,Default,,0,0,0,,After all, this is the land of the Hiroshima Curbs.
 Dialogue: 0,0:03:10.09,0:03:13.42,Default,,0,0,0,,Well Shuuhei was the one that got them on the topic of baseball.
@@ -229,7 +246,7 @@ Dialogue: 0,0:14:10.41,0:14:11.58,Default,,0,0,0,,What did you say!?
 Dialogue: 0,0:14:11.96,0:14:15.25,Default,,0,0,0,,Don't fight! I want to get home as soon as possible.
 Dialogue: 0,0:14:15.42,0:14:16.63,Default,,0,0,0,,You in a hurry?
 Dialogue: 0,0:14:17.13,0:14:19.46,Default,,0,0,0,,Then I'll drive you to the Hikari station.
-Dialogue: 0,0:14:17.13,0:14:22.51,Note,,0,0,0,,Hikari and Kodama are the names of the two types of bullet trains in Japan,\Nwith Hikari being the faster of the two. In the previous line, Shuuhei says\Nhe'll drive them to the nearest station that the bullet trains stop at.
+Dialogue: 0,0:14:17.13,0:14:22.51,NoteArial,,0,0,0,,{\fad(334,334)}Hikari and Kodama are the names of the two types of bullet trains in Japan,\Nwith Hikari being the faster of the two. In the previous line, Shuuhei says\Nhe'll drive them to the nearest station that the bullet trains stop at.
 Dialogue: 0,0:14:28.60,0:14:30.72,Default,,0,0,0,,His driving is worse than mine!
 Dialogue: 0,0:14:30.97,0:14:32.81,Default,,0,0,0,,It's about the same!
 Dialogue: 0,0:14:33.98,0:14:37.31,Default,,0,0,0,,Shindou-kun, I lost today.
@@ -315,6 +332,13 @@ Dialogue: 0,0:20:22.70,0:20:23.79,Default,,0,0,0,,Bye...
 Dialogue: 0,0:20:24.49,0:20:27.91,Default,,0,0,0,,Wait... there really might be one there...
 Dialogue: 0,0:20:30.54,0:20:31.46,Default,,0,0,0,,There?
 Dialogue: 0,0:20:34.00,0:20:34.67,Default,,0,0,0,,Want to see?
+Dialogue: 0,0:22:58.19,0:23:01.99,Thinking,,0,0,0,,I should have let Sai play from the beginning.
+Dialogue: 0,0:23:03.07,0:23:03.95,Thinking,,0,0,0,,Come back...
+Dialogue: 0,0:23:04.57,0:23:05.16,Thinking,,0,0,0,,Sai.
+Dialogue: 0,0:23:05.74,0:23:08.49,Default,,0,0,0,,Why did you become a pro?
+Dialogue: 0,0:23:08.91,0:23:10.95,Background,,0,0,0,,Wasn't it to play me?
+Dialogue: 0,0:23:11.08,0:23:12.37,Default,,0,0,0,,Shindou!
+Dialogue: 0,0:23:22.96,0:23:24.67,Thinking,,0,0,0,,I won't play anymore.
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
 Dialogue: 0,0:00:16.55,0:00:20.71,Op3Kanji,,0,0,0,,時間だけが過ぎる毎日じゃ

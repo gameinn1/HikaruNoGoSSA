@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 237
-Active Line: 253
-Video Position: 20183
+Scroll Position: 358
+Active Line: 365
+Video Position: 35238
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,26 +52,34 @@ Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,
 Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
 Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
 Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
-Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
-Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,15,1
+Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
+Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Verdana,39,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
-Style: Title_eps_top,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
-Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
-Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
-Style: SignsEp4,Copperplate Std 33 BC,28,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1.8,0,8,30,30,10,1
+Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
+Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
+Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
+Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
+Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
+Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
+Style: op75_eng,Freehand471 BT,29,&H00DBF3F2,&H006B6F7B,&H00000000,&H7D000000,0,0,0,0,100,100,0,0,1,2,2,2,0,0,14,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1,0,0,98.5,98.5,0,0,1,2,2,2,19,19,16,1
+Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
+Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
+Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,10,1
+Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0,8,0,0,25,1
+Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -85,7 +93,7 @@ Dialogue: 0,0:02:10.09,0:02:10.90,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,312,1,\fscx99)\blur0.8\pos(265.45,109.89)}The Fourth Match
 Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,312,1,\fscx100)\pos(324.54,363.85)}Kaga of the Shougi Club
 Dialogue: 0,0:02:15.20,0:02:20.12,Note,,0,0,0,,[note: Shougi is the Japanese equivalent of Chess. It's a\Nmuch easier game than Go, and no where near as much fun]
-Dialogue: 0,0:02:28.17,0:02:38.22,Note,,0,0,0,,Anime addicts, and Go players. When viewing anime, please\Nmake sure the room is brightly lit, and not get too close to the\Nscreen. The light scares away the little critters that whisper into\Nyour ear "anime is goooood for you... you wish to watch\Nmooooore anime" and brings forth the little critters that whisper\N"come watch elite fansubs releases... elite fansubs is goooood."
+Dialogue: 0,0:02:28.17,0:02:38.22,Note,,0,0,15,,{\fs22}Anime addicts, and Go players. When viewing anime, please\Nmake sure the room is brightly lit, and not get too close to the\Nscreen. The light scares away the little critters that whisper into\Nyour ear "anime is goooood for you... you wish to watch\Nmooooore anime" and brings forth the little critters that whisper\N"come watch elite fansubs releases... elite fansubs is goooood."
 Dialogue: 0,0:02:38.10,0:02:39.01,Default,,0,0,0,,Sai...
 Dialogue: 0,0:02:41.99,0:02:42.69,Background,,0,0,0,,Did you...
 Dialogue: 0,0:02:43.24,0:02:43.94,Background,,0,0,0,,Just...
@@ -172,9 +180,9 @@ Dialogue: 0,0:06:08.18,0:06:11.67,Default,,0,0,0,,Imagine what everyone will say
 Dialogue: 0,0:06:12.27,0:06:15.05,Sai,,0,0,0,,Maybe she likes you Hikaru.
 Dialogue: 0,0:06:16.50,0:06:17.10,Default,,0,0,0,,What?!
 Dialogue: 0,0:06:17.32,0:06:18.90,Default,,0,0,0,,What did you just say?!
-Dialogue: 0,0:06:21.90,0:06:30.95,Note,,0,0,0,,{\fs26.5\pos(318,12)}Haze Junior High School 12th Anniversary Festival
-Dialogue: 0,0:06:48.89,0:06:50.64,Note,,0,0,0,,{\fs22\pos(118.531,-0.667)}Welcome\Nto\NHaze\NJunior\NHigh
-Dialogue: 0,0:06:48.89,0:06:50.64,Note,,0,0,0,,{\fs23\pos(320,15.688)}Haze Jr. High Anniversary Festival
+Dialogue: 0,0:06:21.90,0:06:30.95,Note,,0,0,0,,{\fs26.5}Haze Junior High School 12th Anniversary Festival
+Dialogue: 0,0:06:48.89,0:06:50.64,Note,,0,0,0,,{\fs22.5\pos(118,0)}Welcome\Nto\NHaze\NJunior\NHigh
+Dialogue: 0,0:06:48.89,0:06:50.64,Note,,0,0,0,,Haze Jr. High Anniversary Festival
 Dialogue: 0,0:06:51.27,0:06:53.79,Default,,0,0,0,,That girl...
 Dialogue: 0,0:06:54.34,0:06:56.28,Default,,0,0,0,,SHE'S NOT HERE!!!
 Dialogue: 0,0:06:57.76,0:06:59.19,Sai,,0,0,0,,Is this a festival of some sort?
@@ -186,8 +194,8 @@ Dialogue: 0,0:07:13.42,0:07:15.44,Default,,0,0,0,,Looks so good, I wanna have so
 Dialogue: 0,0:07:16.37,0:07:17.71,Sai,,0,0,0,,Hikaru, look over there!
 Dialogue: 0,0:07:19.05,0:07:19.55,Sai,,0,0,0,,Look!
 Dialogue: 0,0:07:19.96,0:07:21.20,Sai,,0,0,0,,They're playing Go!
-Dialogue: 0,0:07:19.63,0:07:22.30,SignsEp4,,0,0,0,,{\pos(518,2)}Tea Ceremony
-Dialogue: 0,0:07:19.63,0:07:22.30,SignsEp4,,0,0,0,,{\pos(376,292)}Go
+Dialogue: 0,0:07:19.63,0:07:22.30,SignsEp4,,0,0,0,,{\pos(519,3)}Tea Ceremony
+Dialogue: 0,0:07:19.63,0:07:22.30,SignsEp4,,0,0,0,,{\pos(376,293)}Go
 Dialogue: 0,0:07:22.77,0:07:23.77,Sai,,0,0,0,,Let's go!
 Dialogue: 0,0:07:23.87,0:07:25.28,Sai,,0,0,0,,Come on, {\alpha&HFF&\t(480,480,\alpha&H00&\4a&H80&)}come on, {\alpha&HFF&\t(950,950,\alpha&H00&\4a&H80&)}come on!
 Dialogue: 0,0:07:25.78,0:07:27.45,Default,,0,0,0,,Only for a little bit okay?
@@ -204,7 +212,7 @@ Dialogue: 0,0:07:44.56,0:07:46.46,Default,,0,0,0,,Oh yeah!
 Dialogue: 0,0:07:47.00,0:07:49.92,Default,,0,0,0,,This is quite hard.
 Dialogue: 0,0:07:50.59,0:07:51.24,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:07:52.08,0:07:52.98,Sai,,0,0,0,,What's this book?
-Dialogue: 0,0:07:53.66,0:07:57.12,Memory,,0,0,0,,{\pos(252,169.}Assorted Tsumego
+Dialogue: 0,0:07:53.66,0:07:57.12,Memory,,0,0,0,,{\pos(252,169}Assorted Tsumego
 Dialogue: 0,0:07:53.66,0:07:57.12,Memory,,0,0,0,,{\pos(266,199)}from Touya Meijin's
 Dialogue: 0,0:07:53.66,0:07:57.12,Memory,,0,0,0,,{\pos(278,229)}Matches
 Dialogue: 0,0:07:54.33,0:07:56.91,Default,,0,0,0,,Assorted Tsumego from Touya Meijin's Matches...
@@ -283,8 +291,8 @@ Dialogue: 0,0:11:25.84,0:11:26.62,Background,,0,0,0,,Here's your prize.
 Dialogue: 0,0:11:27.12,0:11:29.34,Default,,0,0,0,,Take it and leave.
 Dialogue: 0,0:11:30.98,0:11:33.37,Default,,0,0,0,,Assorted Tsumego from Touya Meijin's Matches...?
 Dialogue: 0,0:11:38.90,0:11:44.71,Default,,0,0,0,,I... HATE... GO... AND TOUYA AKIRA!
-Dialogue: 0,0:11:50.77,0:11:54.78,Note,,0,0,0,,{\fs23\pos(438,166)}Hisha
-Dialogue: 0,0:11:50.77,0:11:54.78,Note,,0,0,0,,{\fs23\pos(568,224)}Go
+Dialogue: 0,0:11:50.77,0:11:54.78,Note,,0,0,0,,{\pos(438,166)}Hisha
+Dialogue: 0,0:11:50.77,0:11:54.78,Note,,0,0,0,,{\pos(569,225)}Go
 Dialogue: 0,0:11:56.23,0:11:57.24,Default,,0,0,0,,What?!
 Dialogue: 0,0:11:57.48,0:11:59.90,Default,,0,0,0,,Tell me why you hate Touya Akira!
 Dialogue: 0,0:12:01.50,0:12:02.91,Default,,0,0,0,,Tell you why?
@@ -328,8 +336,8 @@ Dialogue: 0,0:13:49.14,0:13:52.60,Background,,0,0,0,,After all, you probably jus
 Dialogue: 0,0:13:53.97,0:13:55.73,Background,,0,0,0,,Tsutsui let him go!
 Dialogue: 0,0:13:56.65,0:13:58.45,Background,,0,0,0,,You think I'm a loser?
 Dialogue: 0,0:13:59.44,0:14:01.64,Default,,0,0,0,,I'll show you how strong I am!
-Dialogue: 0,0:14:01.78,0:14:02.65,SignsEp4,,0,0,0,,{\fs28\pos(314,222)}KING
-Dialogue: 0,0:14:02.65,0:14:06.58,Note,,0,0,0,,{\fs23\pos(437,223)}King
+Dialogue: 0,0:14:01.78,0:14:02.65,SignsEp4,,0,0,0,,{\pos(315,223)}KING
+Dialogue: 0,0:14:02.65,0:14:06.58,Note,,0,0,0,,{\pos(436,224)}King
 Dialogue: 0,0:14:03.60,0:14:06.57,Default,,0,0,0,,If I lose, I'll bow to you as king or whatever.
 Dialogue: 0,0:14:06.87,0:14:10.44,Background,,0,0,0,,But if you lose, go jump in an ice cold pool!
 Dialogue: 0,0:14:10.44,0:14:11.52,Default,,0,0,0,,Okay!
@@ -341,7 +349,7 @@ Dialogue: 0,0:14:25.64,0:14:26.54,Sai,,0,0,0,,15-4
 Dialogue: 0,0:14:27.55,0:14:29.72,Background,,0,0,0,,Shoot off your mouth like that AFTER you win.
 Dialogue: 0,0:14:35.33,0:14:38.69,Thinking,,0,0,0,,How can a guy like this understand me?
 Dialogue: 0,0:14:38.92,0:14:40.19,Thinking,,0,0,0,,A guy like this...
-Dialogue: 0,0:14:42.74,0:14:45.70,Note,,0,0,0,,{\fs27\pos(323,15)}Go Classroom
+Dialogue: 0,0:14:42.74,0:14:45.70,Note,,0,0,15,,{\fs26.5}Go Classroom
 Dialogue: 0,0:14:43.38,0:14:44.20,Background,,0,0,0,,Tetsuo!
 Dialogue: 0,0:14:44.94,0:14:45.99,Background,,0,0,0,,Tetsuo!
 Dialogue: 0,0:14:47.50,0:14:49.57,Default,,0,0,0,,Why do you always lose to that boy?
@@ -407,40 +415,40 @@ Dialogue: 0,0:20:34.10,0:20:36.22,Default,,0,0,0,,An ice cold pool awaits you...
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs45}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.42,0:22:13.62,Default,,0,0,0,,{\an8}I wonder what this is.
-Dialogue: 0,0:22:12.56,0:22:13.54,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Mai-chan
+Dialogue: 0,0:22:12.56,0:22:13.54,Note,,0,0,0,,{\an2}Mai-chan
 Dialogue: 0,0:22:13.97,0:22:16.31,Default,,0,0,0,,{\an8}It's probably like a rice ball
-Dialogue: 0,0:22:14.73,0:22:16.06,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Yuuki-kun
+Dialogue: 0,0:22:14.73,0:22:16.06,Note,,0,0,0,,{\an2}Yuuki-kun
 Dialogue: 0,0:22:17.23,0:22:20.15,Default,,0,0,0,,{\an8}Well, let's play with this today.
-Dialogue: 0,0:22:17.36,0:22:19.23,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Teacher Yukari
+Dialogue: 0,0:22:17.36,0:22:19.23,Note,,0,0,0,,{\an2}Teacher Yukari
 Dialogue: 0,0:22:20.28,0:22:21.32,Default,,0,0,0,,{\an8}It's so small.
 Dialogue: 0,0:22:21.32,0:22:26.58,Default,,0,0,0,,{\an8}Yeah, this is a 6x6, 6 line board. But this\Nis good enough when you're starting.
-Dialogue: 0,0:22:22.28,0:22:26.03,Note,,0,0,0,,{\an2\fs23\pos(322,457)}6x6 board
+Dialogue: 0,0:22:22.28,0:22:26.03,Note,,0,0,0,,{\an2}6x6 board
 Dialogue: 0,0:22:26.81,0:22:28.87,Default,,0,0,0,,{\an8}First one to get 3 stones wins okay?
 Dialogue: 0,0:22:28.79,0:22:29.16,Default,,0,0,0,,{\an8}Okay
 Dialogue: 0,0:22:29.29,0:22:29.70,Default,,0,0,0,,{\an8}Okay
 Dialogue: 0,0:22:29.87,0:22:30.79,Default,,0,0,0,,{\an8}Let's start then.
-Dialogue: 0,0:22:30.25,0:22:31.71,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Stone Capture Game start!
-Dialogue: 0,0:22:31.01,0:22:51.02,Note,,0,0,0,,{\an2\fs23\pos(120,83)}Yuuki
-Dialogue: 0,0:22:31.01,0:22:51.03,Note,,0,0,0,,{\an2\fs23\pos(532,83)}Mai
-Dialogue: 0,0:22:31.02,0:22:33.46,Noise,,0,0,0,,{\an8}Good luck!
-Dialogue: 0,0:22:32.46,0:22:39.34,Note,,0,0,0,,{\an2\fs23\pos(322,457)}You can make your own 6 line board easily\Nby drawing lines on a sheet of paper.
+Dialogue: 0,0:22:30.25,0:22:31.71,Note,,0,0,0,,{\an2}Stone Capture Game start!
+Dialogue: 0,0:22:31.01,0:22:51.02,Note,,0,0,0,,{\an2\pos(121,84)}Yuuki
+Dialogue: 0,0:22:31.01,0:22:51.03,Note,,0,0,0,,{\an2\pos(533,84)}Mai
+Dialogue: 0,0:22:31.02,0:22:33.46,Default,,0,0,0,,{\an8}Good luck!
+Dialogue: 0,0:22:32.46,0:22:39.34,Note,,0,0,0,,{\an2}You can make your own 6 line board easily\Nby drawing lines on a sheet of paper.
 Dialogue: 0,0:22:36.29,0:22:39.00,Default,,0,0,0,,{\an8}Mai chan you took some!
 Dialogue: 0,0:22:39.56,0:22:40.38,Default,,0,0,0,,{\an8}What will he do?
-Dialogue: 0,0:22:40.01,0:22:46.93,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Paint on bottle caps to make your go stones.
+Dialogue: 0,0:22:40.01,0:22:46.93,Note,,0,0,0,,{\an2}Paint on bottle caps to make your go stones.
 Dialogue: 0,0:22:43.09,0:22:45.55,Default,,0,0,0,,{\an8}That was a good move.
 Dialogue: 0,0:22:47.24,0:22:48.43,Default,,0,0,0,,{\an8}Oh yeah!
-Dialogue: 0,0:22:48.72,0:22:50.27,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Mai-chan wins!
+Dialogue: 0,0:22:48.72,0:22:50.27,Note,,0,0,0,,{\an2}Mai-chan wins!
 Dialogue: 0,0:22:48.93,0:22:52.31,Default,,0,0,0,,{\an8}Mai chan wins. Congratulations.
 Dialogue: 0,0:22:52.43,0:22:55.31,Default,,0,0,0,,{\an8}Now thank your opponent for the game.
-Dialogue: 0,0:22:53.27,0:22:55.27,Note,,0,0,0,,{\an2\fs23\pos(322,457)}Greet your opponent when you start the\Ngame, and thank your opponent at the end.
+Dialogue: 0,0:22:53.27,0:22:55.27,Note,,0,0,0,,{\an2}Greet your opponent when you start the\Ngame, and thank your opponent at the end.
 Dialogue: 0,0:22:55.06,0:22:57.23,Background,,0,0,0,,{\an8}Thanks for the game.
-Dialogue: 0,0:22:55.48,0:22:57.36,Note,,0,0,0,,{\an2\fs23\pos(322,457)}To be continued...
+Dialogue: 0,0:22:55.48,0:22:57.36,Note,,0,0,0,,{\an2}To be continued...
 Dialogue: 0,0:22:58.86,0:23:01.49,Background,,0,0,0,,Sai you said it was alright!
 Dialogue: 0,0:23:01.87,0:23:05.88,Background,,0,0,0,,Tsutsui, the members for the Igo\Nteam tournament's been decided.
 Dialogue: 0,0:23:06.18,0:23:07.82,Sai,,0,0,0,,I think I understand now...
 Dialogue: 0,0:23:08.87,0:23:12.20,Sai,,0,0,0,,why I was drawn to Hikaru.
 Dialogue: 0,0:23:14.62,0:23:19.63,Note,,0,0,0,,[note from translator: I'll explain what a Joseki is in\Nthe next episode. Explanation omitted purposely.]
-Dialogue: 0,0:23:14.62,0:23:16.46,SignsEp4,,0,0,0,,{\fs27\pos(461,359)}How to play\NJoseki correctly
+Dialogue: 0,0:23:14.62,0:23:16.46,SignsEp4,,0,0,0,,{\pos(464,358)}How to play\NJoseki correctly
 Dialogue: 0,0:23:22.73,0:23:25.22,Sai,,0,0,0,,Once you place the stone,\Nyou can't change its position,
 Dialogue: 0,0:23:25.29,0:23:26.76,Sai,,0,0,0,,and that is the importance of a move.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\bord2\pos(324,247)}Elite-Fansubs presents

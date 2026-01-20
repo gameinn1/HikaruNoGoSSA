@@ -16,10 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 349
-Active Line: 376
-Video Position: 33758
+Video Zoom Percent: 0.750000
+Active Line: 4
+Video Position: 2456
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,33 +51,42 @@ Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,
 Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
 Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
 Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
-Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
-Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,15,1
+Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
+Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Verdana,39,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
-Style: Title_eps_top,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
-Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
-Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
+Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
+Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
+Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
+Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
+Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
+Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
+Style: op75_eng,Freehand471 BT,29,&H00DBF3F2,&H006B6F7B,&H00000000,&H7D000000,0,0,0,0,100,100,0,0,1,2,2,2,0,0,14,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1,0,0,98.5,98.5,0,0,1,2,2,2,19,19,16,1
+Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
+Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
+Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,10,1
+Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0,8,0,0,25,1
+Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.44,0:00:04.32,Default,,0,0,0,,Who is it?!
 Dialogue: 0,0:00:07.24,0:00:09.20,Background,,0,0,0,,This is not the best move...
 Dialogue: 0,0:00:09.86,0:00:12.03,Background,,0,0,0,,or the strongest move...
-Dialogue: 0,0:01:41.41,0:01:46.09,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,320,1,\fscx99)\blur0.8\pos(235.45,116.89)}The First Match
-Dialogue: 0,0:01:41.41,0:01:46.09,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,320,1,\fscx100)\pos(324.54,363.85)}The Eternal Rival
+Dialogue: 0,0:01:41.54,0:01:46.04,Sai,,0,0,0,,{\fs30\bord2.5\pos(409,230)}The first match
+Dialogue: 0,0:01:41.54,0:01:46.04,Sai,,0,0,0,,{\fs45\bord2.5\pos(324,387)}The Eternal Rival
 Dialogue: 0,0:02:01.02,0:02:03.35,Default,,0,0,0,,Run Akari! My grandpa's house is right there!
 Dialogue: 0,0:02:03.39,0:02:07.15,Default,,0,0,0,,I knew we should've gone straight home!
 Dialogue: 0,0:02:07.65,0:02:08.65,Background,,0,0,0,,Grandpa?!
@@ -94,7 +102,7 @@ Dialogue: 0,0:02:30.71,0:02:34.13,Default,,0,0,0,,I have no choice, I only got 8
 Dialogue: 0,0:02:34.84,0:02:36.55,Default,,0,0,0,,And my parents stopped my allowance.
 Dialogue: 0,0:02:37.97,0:02:40.31,Default,,0,0,0,,Hey how about this?
 Dialogue: 0,0:02:47.94,0:02:50.94,Default,,0,0,0,,I know this! It's the table you\Nuse for gomoku narabe right?
-Dialogue: 0,0:02:47.94,0:02:55.99,Note,,0,0,0,,[note: Gomoku narabe is a simple game in Japan where\Nyou try to get a straight line of 5 stones on a go board. Since\Nthe game is simple and played on a go board, Akari\Nthinks that a go board is for Gomoku Narabe / "Connect 5"]
+Dialogue: 0,0:02:47.94,0:02:55.99,Note,,0,0,5,,[note: Gomoku narabe is a simple game in Japan where\Nyou try to get a straight line of 5 stones on a go board. Since\Nthe game is simple and played on a go board, Akari\Nthinks that a go board is for Gomoku Narabe / "Connect 5"]
 Dialogue: 0,0:02:51.42,0:02:52.99,Default,,0,0,0,,It looks really old.
 Dialogue: 0,0:02:53.84,0:02:56.00,Background,,0,0,0,,Maybe grandpa used it when he was young.
 Dialogue: 0,0:02:56.61,0:02:58.55,Background,,0,0,0,,Maybe I can get quite the pretty penny for this.
@@ -148,9 +156,9 @@ Dialogue: 0,0:05:10.58,0:05:11.83,Background,,0,0,0,,Who won?
 Dialogue: 0,0:05:12.33,0:05:14.75,Memory,,0,0,0,,The match proceeded evenly.
 Dialogue: 0,0:05:15.42,0:05:21.43,Memory,,0,0,0,,It really was unbelievable, that under the gaze of\Nso many men, I was the only one who noticed it.
 Dialogue: 0,0:05:22.43,0:05:25.22,Memory,,0,0,0,,A white stone was mixed into his goke.
-Dialogue: 0,0:05:22.43,0:05:25.22,Note,,0,0,0,,[note: Goke is the container for the go stones\Nthat each player uses during the match]
+Dialogue: 0,0:05:22.43,0:05:25.22,Note,,0,0,5,,[note: Goke is the container for the go stones\Nthat each player uses during the match]
 Dialogue: 0,0:05:26.39,0:05:28.93,Memory,,0,0,0,,He saw a moment of chance,
-Dialogue: 0,0:05:26.39,0:05:32.52,Note,,0,0,0,,[agehama is the container for the stones that were\Ncaptured during the game. Since captured stones come\Ninto play during the final scoring, placing extra stones or\Nremoving stones from the agehama is cheating]
+Dialogue: 0,0:05:26.39,0:05:32.52,Note,,0,0,5,,[agehama is the container for the stones that were\Ncaptured during the game. Since captured stones come\Ninto play during the final scoring, placing extra stones or\Nremoving stones from the agehama is cheating]
 Dialogue: 0,0:05:29.10,0:05:30.77,Memory,,0,0,0,,and placed that stone into his own agehama!
 Dialogue: 0,0:05:31.39,0:05:32.52,Background,,0,0,0,,So he cheated?
 Dialogue: 0,0:05:33.81,0:05:35.90,Memory,,0,0,0,,When I was about to bring this up...
@@ -173,7 +181,7 @@ Dialogue: 0,0:06:30.16,0:06:32.25,Memory,,0,0,0,,Two days later...
 Dialogue: 0,0:06:32.88,0:06:34.62,Memory,,0,0,0,,I drowned myself.
 Dialogue: 0,0:06:42.05,0:06:46.14,Memory,,0,0,0,,I still wanted to play Go, I\Nwanted to play much more.
 Dialogue: 0,0:06:48.18,0:06:51.08,Memory,,0,0,0,,Unable to seek solace, my\Nspirit possessed a Go board,
-Dialogue: 0,0:06:48.10,0:07:01.69,Note,,0,0,0,,[note: There is a small ocean south of Honshuu,\NJapan called the Setonaikai. He is referring to\Nthat ocean and an island within that ocean there]
+Dialogue: 0,0:06:48.10,0:07:01.69,Note,,0,0,5,,[note: There is a small ocean south of Honshuu,\NJapan called the Setonaikai. He is referring to\Nthat ocean and an island within that ocean there]
 Dialogue: 0,0:06:51.93,0:06:55.14,Memory,,0,0,0,,and after a great length of time,
 Dialogue: 0,0:06:55.69,0:07:01.73,Memory,,0,0,0,,I heard the voice of a boy on an island within the sea of Seto.
 Dialogue: 0,0:07:03.69,0:07:05.86,Memory,,0,0,0,,His name was Tora-jirou.
@@ -199,7 +207,7 @@ Dialogue: 0,0:08:28.05,0:08:31.00,Background,,0,0,0,,Well, I don't remember all 
 Dialogue: 0,0:08:31.32,0:08:33.10,Background,,0,0,0,,when I came to, it was today already.
 Dialogue: 0,0:08:33.44,0:08:35.00,Background,,0,0,0,,Please pass the test back.
 Dialogue: 0,0:08:36.99,0:08:38.50,Background,,0,0,0,,Okay you may begin now.
-Dialogue: 0,0:08:42.42,0:08:45.46,Note,,0,0,0,,{\fs15}Fill in the blanks in the following passage with the appropriate code from the word bank.\N\NThis year, the new government reset the year to _____. Declaring Tokyo as the ______, they\Ndecided upon the capital of the nation. In the rural areas, the ongoing _____ was stopped and\N_____ was started. The _____ that the government started. This is called _____. The feudal\Nsystem was destroyed, and people gained the freedom of movement, this is called _____.\N\NThen in 1868 the Government declared a new direction of governing and\Ngave power to the people, this is called _____. The fifteenth generation general\N_____ returned the governing of the nation to _____. This is called _____.\N\NRead the following passages and choose the correct one. Circle the blank. _____\NRevolutionizing the school system, the program giving all children the right to go to elementary\N and middle school _____ Newspapers and Magazines were allowed, but Christianity was\N forbidden _____ The sea was filled to increase land area, and industry and residence was\Ndeveloped. _____ Through Healthcare, the populace was treated for disease _____ In order to\Ncreate a greater army, military factories were created, and industry was promoted. _____ In\Norder to get enough taxes, the feudal lords were demanded to pay taxes for the land.\N\NA) Emperor B) Tokugawa Government C) Daimei D) Rural areas E) Feudal Government F)\NSanpou G) Taisei Henkyaku H) General I) Chigoto J) Freedom of the Rural Areas K) Meiji\NL) Taishin M) ID O) Raku P) Go Q) Haimatsu Shobun R) Everyone is equal S) The 5 declarations
+Dialogue: 0,0:08:42.42,0:08:45.46,Note,,0,0,5,,{\fs16}Fill in the blanks in the following passage with the appropriate code from the word bank.\N\NThis year, the new government reset the year to _____. Declaring Tokyo as the ______, they\Ndecided upon the capital of the nation. In the rural areas, the ongoing _____ was stopped and\N_____ was started. The _____ that the government started. This is called _____. The feudal\Nsystem was destroyed, and people gained the freedom of movement, this is called _____.\N\NThen in 1868 the Government declared a new direction of governing and\Ngave power to the people, this is called _____. The fifteenth generation general\N_____ returned the governing of the nation to _____. This is called _____.\N\NRead the following passages and choose the correct one. Circle the blank. _____\NRevolutionizing the school system, the program giving all children the right to go to elementary\N and middle school _____ Newspapers and Magazines were allowed, but Christianity was\N forbidden _____ The sea was filled to increase land area, and industry and residence was\Ndeveloped. _____ Through Healthcare, the populace was treated for disease _____ In order to\Ncreate a greater army, military factories were created, and industry was promoted. _____ In\Norder to get enough taxes, the feudal lords were demanded to pay taxes for the land.\N\NA) Emperor B) Tokugawa Government C) Daimei D) Rural areas E) Feudal Government F)\NSanpou G) Taisei Henkyaku H) General I) Chigoto J) Freedom of the Rural Areas K) Meiji\NL) Taishin M) ID O) Raku P) Go Q) Haimatsu Shobun R) Everyone is equal S) The 5 declarations
 Dialogue: 0,0:08:43.21,0:08:45.46,Sai,,0,0,0,,Oh history problems I see...
 Dialogue: 0,0:08:45.84,0:08:47.30,Default,,0,0,0,,You!
 Dialogue: 0,0:08:48.93,0:08:49.83,Default,,0,0,0,,What is it?
@@ -238,9 +246,9 @@ Dialogue: 0,0:10:09.30,0:10:09.88,Sai,,0,0,0,,What?
 Dialogue: 0,0:10:10.14,0:10:13.13,Default,,0,0,0,,BUT! my mind is my own.
 Dialogue: 0,0:10:13.76,0:10:15.34,Background,,0,0,0,,And also, don't talk to me unless you're spoken to.
 Dialogue: 0,0:10:16.38,0:10:16.88,Sai,,0,0,0,,Okay!
-Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs23\pos(168.364,88.223)}3) Tokugawa Ieyasu
-Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs25\pos(138.465,208.4)}5)
-Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs25\pos(268.743,339.955)}7) Itou Hirobumi
+Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs24\pos(171,88)}3) Tokugawa Ieyasu
+Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs24\pos(139,209)}5)
+Dialogue: 0,0:10:22.94,0:10:24.94,Note,,0,0,0,,{\fs24\pos(265,341)}7) Itou Hirobumi
 Dialogue: 0,0:10:23.35,0:10:27.82,Default,,0,0,0,,Who was it again?
 Dialogue: 0,0:10:28.23,0:10:29.58,Background,,0,0,0,,10 minutes remaining.
 Dialogue: 0,0:10:30.08,0:10:33.63,Background,,0,0,0,,If you're done already, you should check\Nover your answers again for mistakes.
@@ -250,9 +258,9 @@ Dialogue: 0,0:10:39.70,0:10:40.58,Sai,,0,0,0,,Revolution of the Tempo?
 Dialogue: 0,0:10:40.83,0:10:42.91,Sai,,0,0,0,,The one that Roujyuu no Miizuno sama started?
 Dialogue: 0,0:10:44.26,0:10:45.10,Default,,0,0,0,,Yeah Yeah! That's the one.
 Dialogue: 0,0:10:45.16,0:10:49.70,Background,,0,0,0,,What a fond memory. We played\NGo once within the castle.
-Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs23\pos(168.364,88.223)}3) Tokugawa Ieyasu
-Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs25\pos(219.622,208.4)}5) Mizuno Roujyuu
-Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs25\pos(268.743,339.955)}7) Itou Hirobumi
+Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs24\pos(171,88)}3) Tokugawa Ieyasu
+Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs24\pos(217,209)}5) Mizuno Roujyuu
+Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs24\pos(265,341)}7) Itou Hirobumi
 Dialogue: 0,0:10:49.76,0:10:51.00,Default,,0,0,0,,Do you know anything about Perry?
 Dialogue: 0,0:10:52.03,0:10:52.63,Sai,,0,0,0,,Perry?
 Dialogue: 0,0:10:53.10,0:10:55.60,Default,,0,0,0,,Perry!? You know? He lead\Na couple of warships here?
@@ -280,9 +288,11 @@ Dialogue: 0,0:11:50.80,0:11:51.60,Background,,0,0,0,,A Go Salon.
 Dialogue: 0,0:11:52.67,0:11:54.82,Background,,0,0,0,,My grandpa goes there every now and then.
 Dialogue: 0,0:11:55.06,0:11:58.32,Background,,0,0,0,,It's a place where all the old folks\Nfrom the neighborhood go to play Go.
 Dialogue: 0,0:11:58.88,0:12:02.07,Sai,,0,0,0,,No matter what period it is,\Nthere are always Go lovers!
-Dialogue: 0,0:12:02.16,0:12:05.13,Note,,220,180,20,,Domestic and\Ninternational travel\N\NSky Blue Travel\N\NTours of various locales -- Rental
-Dialogue: 0,0:12:02.16,0:12:05.13,Note,,220,180,220,,Go Salon\N\NWeekdays 1PM~10PM\N\NWeekends 12PM~9PM
-Dialogue: 0,0:12:02.16,0:12:05.13,Note,,220,180,360,,6F\NHair Studio\NJoy
+Dialogue: 0,0:12:02.16,0:12:05.12,Note,,0,0,0,,{\pos(321,110)}Intranational and international travel
+Dialogue: 0,0:12:02.16,0:12:05.12,Note,,0,0,0,,{\pos(326,154)}Sky Blue Travel
+Dialogue: 0,0:12:02.16,0:12:05.12,Note,,0,0,0,,{\pos(323,196)}Tours of various locales -- Rental
+Dialogue: 0,0:12:02.16,0:12:05.12,Note,,0,0,0,,{\pos(327,279)}Go Salon Weekdays 1PM~10PM  Weekends 12PM~9PM
+Dialogue: 0,0:12:02.16,0:12:05.12,Note,,0,0,0,,{\pos(324,344)}6 F Hair Studio Joy
 Dialogue: 0,0:12:03.08,0:12:05.26,Background,,0,0,0,,Oh, hello. Come on in
 Dialogue: 0,0:12:05.70,0:12:06.16,Default,,0,0,0,,Okay.
 Dialogue: 0,0:12:08.93,0:12:10.83,Background,,0,0,0,,Oh wow, it's filled with old people.
@@ -341,7 +351,7 @@ Dialogue: 0,0:14:53.83,0:14:55.00,Sai,,0,0,0,,3-16
 Dialogue: 0,0:14:55.10,0:14:57.20,Thinking,,0,0,0,,3-16...
 Dialogue: 0,0:15:02.65,0:15:03.66,Sai,,0,0,0,,16-5
 Dialogue: 0,0:15:04.10,0:15:05.30,Default,,0,0,0,,16-5...
-Dialogue: 0,0:15:06.55,0:15:09.14,Note,,0,0,0,,Kosumi is a standard response to a\Nkeima attack, prevalent 200 years ago.
+Dialogue: 0,0:15:06.55,0:15:09.14,Note,,0,0,5,,Kosumi is a standard response to a\Nkeima attack, prevalent 200 years ago.
 Dialogue: 0,0:15:06.55,0:15:07.18,Default,,0,0,0,,Kosumi?
 Dialogue: 0,0:15:10.87,0:15:11.80,Sai,,0,0,0,,14-4
 Dialogue: 0,0:15:12.35,0:15:13.92,Default,,0,0,0,,14-4...
@@ -351,7 +361,7 @@ Dialogue: 0,0:15:39.76,0:15:41.40,Thinking,,0,0,0,,No wonder he claims to be str
 Dialogue: 0,0:15:42.04,0:15:43.43,Default,,0,0,0,,What's wrong? It's your turn.
 Dialogue: 0,0:15:44.02,0:15:45.02,Default,,0,0,0,,Oh, sorry.
 Dialogue: 0,0:15:54.89,0:15:57.52,Thinking,,0,0,0,,But... his joseki is old...
-Dialogue: 0,0:15:54.89,0:15:57.52,Note,,0,0,0,,Joseki: A set pattern of moves that brings benefit to both sides.
+Dialogue: 0,0:15:54.89,0:15:57.52,Note,,0,0,5,,Joseki: A set pattern of moves that brings benefit to both sides.
 Dialogue: 0,0:15:58.27,0:16:02.02,Thinking,,0,0,0,,and sometimes, he slows\Ndown at some weird places...
 Dialogue: 0,0:16:02.11,0:16:05.15,Default,,0,0,0,,14-11...
 Dialogue: 0,0:16:05.28,0:16:06.03,Default,,0,0,0,,Oh here it is.
@@ -409,12 +419,12 @@ Dialogue: 0,0:19:35.77,0:19:37.40,Background,,0,0,0,,Akira-kun lost?!
 Dialogue: 0,0:19:37.66,0:19:40.20,Background,,0,0,0,,But Akira-kun is just as strong as a pro though!
 Dialogue: 0,0:19:40.54,0:19:41.80,Background,,0,0,0,,You gave him a handicap right?
 Dialogue: 0,0:19:41.83,0:19:42.91,Background,,0,0,0,,What handicap did you give him?
-Dialogue: 0,0:19:42.83,0:19:48.83,Note,,0,0,0,,{\fs22}[note: Unlike with Chess, with go, black makes the first move.\NSince black is considered to have an advantage because of\Nthis, 5.5 moku is taken away from Black's final score, this 5.5\Nmoku is called komi. A moku is one intersection on the board.]
+Dialogue: 0,0:19:42.83,0:19:48.83,Note,,0,0,5,,[note: Unlike with Chess, with go, black makes the first move.\NSince black is considered to have an advantage because of\Nthis, 5.5 moku is taken away from Black's final score, this 5.5\Nmoku is called komi. A moku is one intersection on the board.]
 Dialogue: 0,0:19:42.91,0:19:44.12,Background,,0,0,0,,The other boy played black, and moved first.
 Dialogue: 0,0:19:44.12,0:19:45.08,Background,,0,0,0,,What was the result?
 Dialogue: 0,0:19:45.08,0:19:45.87,Background,,0,0,0,,He lost by 2 moku.
 Dialogue: 0,0:19:45.87,0:19:48.79,Background,,0,0,0,,If it's only 2 moku, he wins after taking away komi.
-Dialogue: 0,0:19:48.83,0:19:53.17,Note,,0,0,0,,{\fs22}Moku = one empty intersection on a Go board.\NKomi = 5.5 moku handicap that white receives\Nfor letting black play first.
+Dialogue: 0,0:19:48.83,0:19:53.17,Note,,0,0,5,,Moku = one empty intersection on a Go board.\NKomi = 5.5 moku handicap that white receives\Nfor letting black play first.
 Dialogue: 0,0:19:48.79,0:19:51.80,Default,,0,0,0,,It's not a matter of 2, 3 moku.
 Dialogue: 0,0:19:53.17,0:19:55.09,Background,,0,0,0,,H-hold on a second.
 Dialogue: 0,0:19:56.14,0:19:58.43,Default,,0,0,0,,Akira-kun did you really lose?
@@ -436,28 +446,28 @@ Dialogue: 0,0:20:34.75,0:20:35.25,Sai,,0,0,0,,Okay!
 Dialogue: 0,0:22:09.75,0:22:11.84,Sai,,0,0,0,,{\an5}{\fs45}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.75,0:22:11.84,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.64,0:22:13.77,Default,,0,0,0,,{\an8}I am Umezawa Yukari.
-Dialogue: 0,0:22:12.64,0:22:18.44,Note,,0,0,0,,{\an2\pos(326,429)\fs23}Teacher Yukari
+Dialogue: 0,0:22:12.64,0:22:18.44,Note,,0,0,0,,{\an2\pos(321,428)}Teacher Yukari
 Dialogue: 0,0:22:14.15,0:22:18.42,Default,,0,0,0,,{\an8}In this short program, we will explain\Nthe basic concepts of Igo to you in an\Neasy to understand manner.
 Dialogue: 0,0:22:18.65,0:22:20.99,Default,,0,0,0,,{\an8}Mai-chan and Yuuki-kun will be\Nassisting me. You have my best regards
-Dialogue: 0,0:22:18.65,0:22:23.49,Note,,0,0,0,,{\an2\pos(226,349)}{\fs23}Yuuki
-Dialogue: 0,0:22:18.65,0:22:23.49,Note,,0,0,0,,{\an2\pos(426,349)}{\fs23}Mai
+Dialogue: 0,0:22:18.65,0:22:23.49,Note,,0,0,0,,{\an2\pos(225,350)}Yuuki
+Dialogue: 0,0:22:18.65,0:22:23.49,Note,,0,0,0,,{\an2\pos(427,350)}Mai
 Dialogue: 0,0:22:21.28,0:22:23.88,Default,,0,0,0,,{\an8}Best regards to you too Teacher
 Dialogue: 0,0:22:24.41,0:22:26.41,Default,,0,0,0,,{\an8}How do you play Go?
-Dialogue: 0,0:22:24.37,0:22:27.62,Note,,0,0,0,,{\an5\fs23\move(770,338,-110,338)}Things necessary for Igo
+Dialogue: 0,0:22:24.37,0:22:27.62,Note,,0,0,0,,{\an5\move(770,339,-105,339)}Things necessary for Igo
 Dialogue: 0,0:22:27.08,0:22:30.00,Default,,0,0,0,,{\an8}Well the things necessary\Nfor Igo includes a Go board...
 Dialogue: 0,0:22:30.50,0:22:31.41,Default,,0,0,0,,{\an8}and these Go stones.
-Dialogue: 0,0:22:28.57,0:22:29.42,Note,,0,0,0,,{\pos(591,443)}{\fs23}Go Board
-Dialogue: 0,0:22:30.50,0:22:33.50,Note,,0,0,0,,{\an2\fs23}Go Stones (Black and White)
-Dialogue: 0,0:22:34.29,0:22:35.75,Note,,0,0,0,,{\an2\fs23}Take turns placing the black and white stones on the board
+Dialogue: 0,0:22:28.57,0:22:29.42,Note,,0,5,5,,{\an3}Go Board
+Dialogue: 0,0:22:30.50,0:22:33.50,Note,,0,0,5,,{\an2}Go Stones (Black and White)
+Dialogue: 0,0:22:34.29,0:22:35.75,Note,,0,0,5,,{\an2}Take turns placing the black and white stones on the board
 Dialogue: 0,0:22:32.29,0:22:35.75,Default,,0,0,0,,{\an8}You will take turns placing these\Nblack and white stones on the board.
-Dialogue: 0,0:22:38.53,0:22:40.77,Note,,0,0,0,,{\an2\fs23}Where do you place the stones?
+Dialogue: 0,0:22:38.53,0:22:40.77,Note,,0,0,5,,{\an2}Where do you place the stones?
 Dialogue: 0,0:22:36.46,0:22:39.42,Default,,0,0,0,,{\an8}Okay, well let's just try placing\Nsome stones on the board
 Dialogue: 0,0:22:39.71,0:22:40.21,Default,,0,0,0,,{\an8}Okay
 Dialogue: 0,0:22:42.76,0:22:52.23,Default,,0,0,0,,{\an8}If this was any other game, then you placed the\Nstones in the right place, but with Igo you have to\Nplace your stones on the intersections of the lines.
-Dialogue: 0,0:22:46.97,0:22:50.85,Note,,0,0,0,,{\an2\fs23\move(915,470,-265,470)}Place your stone on the intersections, where the lines meet.
+Dialogue: 0,0:22:46.97,0:22:50.85,Note,,0,0,0,,{\an2\move(910,472,-265,472)}Place your stone on the intersections, where the lines meet.
 Dialogue: 0,0:22:53.03,0:22:54.14,Default,,0,0,0,,Let's try it.
-Dialogue: 0,0:22:54.85,0:22:57.36,Note,,0,0,0,,{\an2\fs23\pos(322,457)}To be continued...
-Dialogue: 0,0:22:58.98,0:23:06.53,Note,,0,0,0,,{\fs23}[note: Shidou Go: when a person of higher skill plays someone\Nof lower skills, they take it easy on the guy, and make moves\Nthat will teach the worse player some concepts of the game.]
+Dialogue: 0,0:22:54.85,0:22:57.36,Note,,0,0,5,,{\an2}To be continued...
+Dialogue: 0,0:22:58.98,0:23:06.53,Note,,0,0,5,,[note: Shidou Go: when a person of higher skill plays someone\Nof lower skills, they take it easy on the guy, and make moves\Nthat will teach the worse player some concepts of the game.]
 Dialogue: 0,0:22:58.98,0:23:06.53,Default,,0,0,0,,That move too... and this move... this is\Nshidou Go... If that was his actual strength...
 Dialogue: 0,0:23:07.70,0:23:12.00,Default,,0,0,0,,no that kind of a child is\Nimpossible! Just who is he?!
 Dialogue: 0,0:23:22.38,0:23:24.51,Default,,0,0,0,,I finally found you!

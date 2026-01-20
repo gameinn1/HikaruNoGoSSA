@@ -15,11 +15,11 @@ Last Style Storage: Default
 Audio File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
-Video AR Value: 1.312963
+Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 492
-Active Line: 515
-Video Position: 30343
+Scroll Position: 171
+Active Line: 175
+Video Position: 27524
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,28 +52,34 @@ Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,
 Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
 Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
 Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
-Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
-Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,15,1
+Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
+Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
+Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0.8,2,0,0,20,1
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Verdana,39,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_special,Century Gothic,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
-Style: Title_eps_top,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
-Style: Title_eps_v2,Verdana,39,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,6,2,20,20,40,1
-Style: Title_eps_top_v2,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,5,6,20,20,40,1
+Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
+Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
+Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
+Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
+Style: op75_eng,Freehand471 BT,29,&H00DBF3F2,&H006B6F7B,&H00000000,&H7D000000,0,0,0,0,100,100,0,0,1,2,2,2,0,0,14,1
+Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1,0,0,98.5,98.5,0,0,1,2,2,2,19,19,16,1
+Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
+Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
+Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,10,1
+Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0,8,0,0,25,1
+Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -81,8 +87,8 @@ Dialogue: 0,0:02:04.65,0:02:06.73,Default,,0,0,0,,There's Touya-Kun...
 Dialogue: 0,0:02:07.15,0:02:08.65,Background,,0,0,0,,There's Shindou-kun.
 Dialogue: 0,0:02:10.23,0:02:18.70,Background,,0,0,0,,There's always Ochi-kun and Waya-kun,\Nand together they make the new wave.
 Dialogue: 0,0:02:26.38,0:02:29.96,Default,,0,0,0,,I get so excited when I think about the future.
-Dialogue: 0,0:02:30.09,0:02:34.97,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,320,1,\fscx99)\blur0.8\pos(335.45,116.89)}The Seventy-Fifth Match
-Dialogue: 0,0:02:30.09,0:02:34.97,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,320,1,\fscx100)\pos(324.54,363.85)}That Same Old Smile
+Dialogue: 0,0:02:30.09,0:02:34.97,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,311,1,\fscx99)\blur0.8\pos(342,113)}The Seventy-Fifth Match
+Dialogue: 0,0:02:30.09,0:02:34.97,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,311,1,\fscx100)\pos(328,365)}That Same Old Smile
 Dialogue: 0,0:02:46.94,0:02:48.02,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:02:49.86,0:02:51.15,Default,,0,0,0,,You played me twice...
 Dialogue: 0,0:02:52.15,0:02:53.57,Default,,0,0,0,,in a Go salon...
@@ -252,14 +258,14 @@ Dialogue: 0,0:16:49.20,0:16:49.70,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:16:50.53,0:16:54.45,Default,,0,0,0,,Okay. I'm gonna finish up my game now.
 Dialogue: 0,0:17:21.23,0:17:22.02,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:17:22.85,0:17:29.11,Thinking,,0,0,0,,One day... I will play the divine move with you!
-Dialogue: 0,0:19:07.04,0:19:09.13,Default,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\frz270\fs13\bord2\pos(471,303)}{\alpha&HFF&\t(0,18,\alpha&H00&)}W{\alpha&HFF&\t(18,37,\alpha&H00&)}a{\alpha&HFF&\t(37,55,\alpha&H00&)}y{\alpha&HFF&\t(55,74,\alpha&H00&)}a{\alpha&HFF&\t(74,92,\alpha&H00&)}-{\alpha&HFF&\t(92,111,\alpha&H00&)}k{\alpha&HFF&\t(111,129,\alpha&H00&)}u{\alpha&HFF&\t(129,148,\alpha&H00&)}n{\alpha&HFF&\t(148,166,\alpha&H00&)} {\alpha&HFF&\t(166,185,\alpha&H00&)}c{\alpha&HFF&\t(185,203,\alpha&H00&)}o{\alpha&HFF&\t(203,222,\alpha&H00&)}n{\alpha&HFF&\t(222,240,\alpha&H00&)}g{\alpha&HFF&\t(240,259,\alpha&H00&)}r{\alpha&HFF&\t(259,277,\alpha&H00&)}a{\alpha&HFF&\t(277,296,\alpha&H00&)}t{\alpha&HFF&\t(296,314,\alpha&H00&)}u{\alpha&HFF&\t(314,333,\alpha&H00&)}l{\alpha&HFF&\t(333,351,\alpha&H00&)}a{\alpha&HFF&\t(351,370,\alpha&H00&)}t{\alpha&HFF&\t(370,388,\alpha&H00&)}i{\alpha&HFF&\t(388,407,\alpha&H00&)}o{\alpha&HFF&\t(407,425,\alpha&H00&)}n{\alpha&HFF&\t(425,444,\alpha&H00&)}s{\alpha&HFF&\t(444,462,\alpha&H00&)} {\alpha&HFF&\t(462,481,\alpha&H00&)}o{\alpha&HFF&\t(481,500,\alpha&H00&)}n
-Dialogue: 0,0:19:07.04,0:19:09.13,Default,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\frz270\fs13\bord2\pos(458,306)}{\alpha&HFF&\t(0,17,\alpha&H00&)}y{\alpha&HFF&\t(17,34,\alpha&H00&)}o{\alpha&HFF&\t(34,51,\alpha&H00&)}u{\alpha&HFF&\t(51,68,\alpha&H00&)}r{\alpha&HFF&\t(68,86,\alpha&H00&)} {\alpha&HFF&\t(86,103,\alpha&H00&)}p{\alpha&HFF&\t(103,120,\alpha&H00&)}r{\alpha&HFF&\t(120,137,\alpha&H00&)}o{\alpha&HFF&\t(137,155,\alpha&H00&)}m{\alpha&HFF&\t(155,172,\alpha&H00&)}o{\alpha&HFF&\t(172,189,\alpha&H00&)}t{\alpha&HFF&\t(189,206,\alpha&H00&)}i{\alpha&HFF&\t(206,224,\alpha&H00&)}o{\alpha&HFF&\t(224,241,\alpha&H00&)}n{\alpha&HFF&\t(241,258,\alpha&H00&)} {\alpha&HFF&\t(258,275,\alpha&H00&)}t{\alpha&HFF&\t(275,293,\alpha&H00&)}o{\alpha&HFF&\t(293,310,\alpha&H00&)} {\alpha&HFF&\t(310,327,\alpha&H00&)}s{\alpha&HFF&\t(327,344,\alpha&H00&)}e{\alpha&HFF&\t(344,362,\alpha&H00&)}c{\alpha&HFF&\t(362,379,\alpha&H00&)}o{\alpha&HFF&\t(379,396,\alpha&H00&)}n{\alpha&HFF&\t(396,413,\alpha&H00&)}d{\alpha&HFF&\t(413,431,\alpha&H00&)} {\alpha&HFF&\t(431,448,\alpha&H00&)}d{\alpha&HFF&\t(448,465,\alpha&H00&)}a{\alpha&HFF&\t(465,482,\alpha&H00&)}n{\alpha&HFF&\t(482,500,\alpha&H00&)}!
-Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(792,0)\fs40\pos(441,346)}The End
-Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs27\c&H000000&\4c&HBDCDDB&\shad3\fad(0,1250)\bord0\b1\pos(291,331)}Yukari Umezawa's{\b0}
+Dialogue: 0,0:19:07.04,0:19:09.13,NoteArial,,0,0,0,,{\c&H000000&\fs14\3c&HFFFFFF&\frz270\bord1.8\pos(485,302)}{\alpha&HFF&\t(0,18,\alpha&H00&)}W{\alpha&HFF&\t(18,37,\alpha&H00&)}a{\alpha&HFF&\t(37,55,\alpha&H00&)}y{\alpha&HFF&\t(55,74,\alpha&H00&)}a{\alpha&HFF&\t(74,92,\alpha&H00&)}-{\alpha&HFF&\t(92,111,\alpha&H00&)}k{\alpha&HFF&\t(111,129,\alpha&H00&)}u{\alpha&HFF&\t(129,148,\alpha&H00&)}n{\alpha&HFF&\t(148,166,\alpha&H00&)} {\alpha&HFF&\t(166,185,\alpha&H00&)}c{\alpha&HFF&\t(185,203,\alpha&H00&)}o{\alpha&HFF&\t(203,222,\alpha&H00&)}n{\alpha&HFF&\t(222,240,\alpha&H00&)}g{\alpha&HFF&\t(240,259,\alpha&H00&)}r{\alpha&HFF&\t(259,277,\alpha&H00&)}a{\alpha&HFF&\t(277,296,\alpha&H00&)}t{\alpha&HFF&\t(296,314,\alpha&H00&)}u{\alpha&HFF&\t(314,333,\alpha&H00&)}l{\alpha&HFF&\t(333,351,\alpha&H00&)}a{\alpha&HFF&\t(351,370,\alpha&H00&)}t{\alpha&HFF&\t(370,388,\alpha&H00&)}i{\alpha&HFF&\t(388,407,\alpha&H00&)}o{\alpha&HFF&\t(407,425,\alpha&H00&)}n{\alpha&HFF&\t(425,444,\alpha&H00&)}s{\alpha&HFF&\t(444,462,\alpha&H00&)} {\alpha&HFF&\t(462,481,\alpha&H00&)}o{\alpha&HFF&\t(481,500,\alpha&H00&)}n
+Dialogue: 0,0:19:07.04,0:19:09.13,NoteArial,,0,0,0,,{\c&H000000&\fs14\3c&HFFFFFF&\frz270\bord1.8\pos(471,307)}{\alpha&HFF&\t(0,17,\alpha&H00&)}y{\alpha&HFF&\t(17,34,\alpha&H00&)}o{\alpha&HFF&\t(34,51,\alpha&H00&)}u{\alpha&HFF&\t(51,68,\alpha&H00&)}r{\alpha&HFF&\t(68,86,\alpha&H00&)} {\alpha&HFF&\t(86,103,\alpha&H00&)}p{\alpha&HFF&\t(103,120,\alpha&H00&)}r{\alpha&HFF&\t(120,137,\alpha&H00&)}o{\alpha&HFF&\t(137,155,\alpha&H00&)}m{\alpha&HFF&\t(155,172,\alpha&H00&)}o{\alpha&HFF&\t(172,189,\alpha&H00&)}t{\alpha&HFF&\t(189,206,\alpha&H00&)}i{\alpha&HFF&\t(206,224,\alpha&H00&)}o{\alpha&HFF&\t(224,241,\alpha&H00&)}n{\alpha&HFF&\t(241,258,\alpha&H00&)} {\alpha&HFF&\t(258,275,\alpha&H00&)}t{\alpha&HFF&\t(275,293,\alpha&H00&)}o{\alpha&HFF&\t(293,310,\alpha&H00&)} {\alpha&HFF&\t(310,327,\alpha&H00&)}s{\alpha&HFF&\t(327,344,\alpha&H00&)}e{\alpha&HFF&\t(344,362,\alpha&H00&)}c{\alpha&HFF&\t(362,379,\alpha&H00&)}o{\alpha&HFF&\t(379,396,\alpha&H00&)}n{\alpha&HFF&\t(396,413,\alpha&H00&)}d{\alpha&HFF&\t(413,431,\alpha&H00&)} {\alpha&HFF&\t(431,448,\alpha&H00&)}d{\alpha&HFF&\t(448,465,\alpha&H00&)}a{\alpha&HFF&\t(465,482,\alpha&H00&)}n{\alpha&HFF&\t(482,500,\alpha&H00&)}!
+Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(792,0)\fscy70\fs42\pos(440,351)}The End
+Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs27.5\c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1250)\bord0\pos(290,331)}Yukari Umezawa's
 Dialogue: 0,0:22:10.56,0:22:14.48,Default,,0,0,0,,Today is the last episode of Go Go Igo\Nafter running for a year and a half.
-Dialogue: 0,0:22:11.43,0:22:15.98,Default,,0,0,0,,{\fs18\c&HFFFFFF&\3c&HF90000&\shad0\bord1.8\fad(667,667)\pos(130,262)}Yuuki
-Dialogue: 0,0:22:11.43,0:22:15.98,Default,,0,0,0,,{\fs18\c&HFFFFFF&\3c&H117AF8&\shad0\bord1.8\fad(667,667)\pos(323,250)}Teacher Yukari
-Dialogue: 0,0:22:11.43,0:22:15.98,Default,,0,0,0,,{\fs18\c&HFFFFFF&\3c&HF627EF&\shad0\bord1.8\fad(667,667)\pos(511,262)}Mai
+Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&HF90000&\fad(667,667)\pos(129,244)}Yuuki
+Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&H117AF8&\fad(667,667)\pos(323,232)}Teacher Yukari
+Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&HF627EF&\fad(667,667)\pos(511,244)}Mai
 Dialogue: 0,0:22:14.88,0:22:17.73,Default,,0,0,0,,Thank you so much for watching the entire time.
 Dialogue: 0,0:22:19.19,0:22:20.74,Default,,0,0,0,,During the last year and a half...
 Dialogue: 0,0:22:20.82,0:22:26.45,Default,,0,0,0,,I've been very happy because I was able to\Nsee a lot of people happy from playing Go.
@@ -271,9 +277,9 @@ Dialogue: 0,0:22:41.84,0:22:42.67,Default,,0,0,0,,Do your best, okay?
 Dialogue: 0,0:22:43.68,0:22:47.14,Default,,0,0,0,,The three of us will keep playing Go.
 Dialogue: 0,0:22:47.35,0:22:51.31,Default,,0,0,0,,I hope that we'll be able to meet\Nall of you someday, somewhere.
 Dialogue: 0,0:22:52.52,0:22:53.60,Default,,0,0,0,,Well then everyone.
-Dialogue: 0,0:22:53.48,0:22:57.36,Default,,0,0,0,,{\fs18\c&HFFFFFF&\3c&HF90000&\shad0\bord1.8\fad(1001,0)\pos(137,340)}Thank you so much
-Dialogue: 0,0:22:53.48,0:22:57.36,Default,,0,0,0,,{\fs18\c&HFFFFFF&\3c&HF90000&\shad0\bord1.8\fad(1001,0)\pos(176,359)}for your continued support{\i1}!!{\i0}
-Dialogue: 0,0:22:53.48,0:22:57.36,Default,,0,0,0,,{\fs23\c&HFFFFFF&\3c&H0300EA&\shad0\bord1.8\fad(1001,0)\pos(491,370)}The End
+Dialogue: 0,0:22:53.48,0:22:57.36,NoteArial_Igo,,0,0,0,,{\3c&HF90000&\fad(1001,0)\pos(136,322)}Thank you so much
+Dialogue: 0,0:22:53.48,0:22:57.36,NoteArial_Igo,,0,0,0,,{\3c&HF90000&\fad(1001,0)\pos(172,341)}for your continued support{\i1}!!{\i0}
+Dialogue: 0,0:22:53.48,0:22:57.36,NoteArial_Igo,,0,0,0,,{\fs25\3c&H0300EA&\fad(1001,0)\pos(492,347)}The End
 Dialogue: 0,0:22:53.98,0:22:55.19,Default,,0,0,0,,Good bye!
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
