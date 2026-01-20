@@ -1,21 +1,32 @@
 # Hikaru No Go E-F/R-F Sub Restoration
 
 <div align="center">
-  <table>
+  <table cellspacing="12">
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro.png" width="260"/><br/>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Igo.png" width="260"/><br/>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/64%20Igo%201.png" width="260"/>
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro.png" width="300"/>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%201.png" width="260"/><br/>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%202.png" width="260"/><br/>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%203.png" width="260"/>
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Igo.png" width="300"/>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/64%20Igo%201.png" width="300"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%201.png" width="300"/>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%202.png" width="300"/>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%203.png" width="300"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
 
