@@ -17,8 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 327
-Active Line: 344
+Scroll Position: 316
+Active Line: 345
 Video Position: 34700
 
 [V4+ Styles]
@@ -192,6 +192,7 @@ Dialogue: 0,0:06:46.44,0:06:48.85,Sai,,0,0,0,,What kind of a tournament are we i
 Dialogue: 0,0:06:49.21,0:06:51.39,Default,,0,0,0,,It's a team tournament for Junior Highs.
 Dialogue: 0,0:06:51.39,0:06:52.52,Sai,,0,0,0,,Oh!
 Dialogue: 0,0:06:52.82,0:06:55.93,Default,,0,0,0,,3 people per team, and the team\Nwith 2 wins are the winners.
+Comment: 0,0:06:55.94,0:07:04.95,Note,,0,0,0,,Needs changed to what E-F did
 Dialogue: 0,0:06:55.94,0:07:04.95,Note,,0,0,0,,| Hamachi | Tai | Iwana | Ayu | Sawara | Haze | Kawahagi |\N\NJunior High
 Dialogue: 0,0:06:56.91,0:06:59.07,Background,,0,0,0,,8 male teams and 6 female teams,
 Dialogue: 0,0:06:59.29,0:07:00.64,Background,,0,0,0,,not too many.
@@ -281,7 +282,7 @@ Dialogue: 0,0:12:10.56,0:12:11.21,Default,,0,0,0,,Umm...
 Dialogue: 0,0:12:11.21,0:12:12.60,Default,,0,0,0,,Women's first match...
 Dialogue: 0,0:12:12.86,0:12:15.71,Background,,0,0,0,,Kaiou Junior High against Iwana Junior High is on seat A.
 Dialogue: 0,0:12:16.24,0:12:19.41,Background,,0,0,0,,Ayu Junior High against Iwana Junior High is on seat B.
-Dialogue: 0,0:12:19.72,0:12:28.73,Note,,0,0,10,,{\fs27.5}(Tournament Pairings)
+Dialogue: 0,0:12:19.72,0:12:28.73,Note,,0,0,0,,{\fs30}(Tournament Pairings)
 Dialogue: 0,0:12:20.03,0:12:21.68,Background,,0,0,0,,For the men's division...
 Dialogue: 0,0:12:21.67,0:12:24.72,Background,,0,0,0,,Kaiou Junior High against\NHamachi Junior High is on seat C.
 Dialogue: 0,0:12:25.21,0:12:28.10,Background,,0,0,0,,Seat D is Tai Junior High against Iwana Junior High.
@@ -410,24 +411,24 @@ Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\pos(203,342)}Yuuki
 Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\pos(323,342)}Teacher Yukari
 Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\pos(451,342)}Mai
 Dialogue: 0,0:22:14.49,0:22:16.51,Default,,0,0,0,,{\an8}Let's learn 2 important things today.
-Dialogue: 0,0:22:15.38,0:22:17.30,Note,,0,0,0,,{\an2}Forbidden moves, and exceptions to forbidden moves.
-Dialogue: 0,0:22:18.00,0:22:19.08,Note,,0,0,0,,{\an2}(1) Forbidden Moves.
-Dialogue: 0,0:22:19.93,0:22:25.15,Note,,0,0,0,,{\an2}You cannot move to a location where your stone will get taken.
+Dialogue: 0,0:22:15.38,0:22:17.30,Note,,0,0,20,,{\an2}Forbidden moves, and exceptions to forbidden moves.
+Dialogue: 0,0:22:18.00,0:22:19.08,Note,,0,0,20,,{\an2}(1) Forbidden Moves.
+Dialogue: 0,0:22:19.93,0:22:25.15,Note,,0,0,20,,{\an2}You cannot move to a location where your stone will get taken.
 Dialogue: 0,0:22:17.68,0:22:22.08,Default,,0,0,0,,{\an8}White moving here, when there's\Na formation like this is forbidden.
 Dialogue: 0,0:22:22.38,0:22:24.80,Default,,0,0,0,,{\an8}You'll end up getting captured anyways.
 Dialogue: 0,0:22:25.41,0:22:27.14,Default,,0,0,0,,{\an8}But, there is an exception to that rule.
-Dialogue: 0,0:22:25.69,0:22:27.07,Note,,0,0,0,,{\an2}(2) Exceptions to Forbidden Moves.
-Dialogue: 0,0:22:28.24,0:22:35.33,Note,,0,0,0,,{\an2}When you can capture the opponent's stones\Nby moving there, then you can move there.
+Dialogue: 0,0:22:25.69,0:22:27.07,Note,,0,0,20,,{\an2}(2) Exceptions to Forbidden Moves.
+Dialogue: 0,0:22:28.24,0:22:35.33,Note,,0,0,20,,{\an2}When you can capture the opponent's stones\Nby moving there, then you can move there.
 Dialogue: 0,0:22:27.14,0:22:30.11,Default,,0,0,0,,{\an8}And that is, when this happens.
 Dialogue: 0,0:22:30.22,0:22:33.51,Default,,0,0,0,,{\an8}If white moves here, then it\Nsurrounds these black stones.
 Dialogue: 0,0:22:33.72,0:22:36.09,Default,,0,0,0,,{\an8}In these situations, you can move here.
-Dialogue: 0,0:22:35.95,0:22:39.01,Note,,0,0,0,,{\an2\fs27.5\move(730,458,-905,458)}Let's try it now!
+Dialogue: 0,0:22:35.95,0:22:39.01,Note,,0,0,0,,{\an2\fs27.5\move(730,460,-905,460)}Let's try it now!
 Dialogue: 0,0:22:43.52,0:22:46.23,Default,,0,0,0,,{\an8}Oh, Yuuki-kun you've improved!
 Dialogue: 0,0:22:46.76,0:22:49.28,Default,,0,0,0,,{\an8}Okay it's 1 on 1. What'll happen.
 Dialogue: 0,0:22:52.50,0:22:54.92,Default,,0,0,0,,{\an8}Oh no, a Ko's formed already!
 Dialogue: 0,0:22:55.19,0:22:56.93,Default,,0,0,0,,{\an8}What just happened Teacher?
 Dialogue: 0,0:22:55.30,0:22:57.27,Note,,0,0,0,,{\an5}What happened to Teacher Yukari....?!
-Dialogue: 0,0:22:55.30,0:22:57.27,Note,,0,0,0,,{\an2}To be continued...
+Dialogue: 0,0:22:55.30,0:22:57.27,Note,,0,0,20,,{\an2}To be continued...
 Dialogue: 0,0:22:58.86,0:23:00.60,Default,,0,0,0,,Mister, why don't you try doing the mokusan?
 Dialogue: 0,0:23:00.95,0:23:03.10,Default,,0,0,0,,His resignation is correct.
 Dialogue: 0,0:23:03.60,0:23:05.30,Sai,,0,0,0,,You're angry aren't you Hikaru?

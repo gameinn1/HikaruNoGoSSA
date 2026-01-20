@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 358
-Active Line: 365
-Video Position: 35238
+Scroll Position: 330
+Active Line: 359
+Video Position: 34711
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,7 +93,7 @@ Dialogue: 0,0:02:10.09,0:02:10.90,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,312,1,\fscx99)\blur0.8\pos(265.45,109.89)}The Fourth Match
 Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,312,1,\fscx100)\pos(324.54,363.85)}Kaga of the Shougi Club
 Dialogue: 0,0:02:15.20,0:02:20.12,Note,,0,0,0,,[note: Shougi is the Japanese equivalent of Chess. It's a\Nmuch easier game than Go, and no where near as much fun]
-Dialogue: 0,0:02:28.17,0:02:38.22,Note,,0,0,15,,{\fs22}Anime addicts, and Go players. When viewing anime, please\Nmake sure the room is brightly lit, and not get too close to the\Nscreen. The light scares away the little critters that whisper into\Nyour ear "anime is goooood for you... you wish to watch\Nmooooore anime" and brings forth the little critters that whisper\N"come watch elite fansubs releases... elite fansubs is goooood."
+Dialogue: 0,0:02:28.17,0:02:38.22,Note,,0,0,0,,{\fs21.5}Anime addicts, and Go players. When viewing anime, please\Nmake sure the room is brightly lit, and not get too close to the\Nscreen. The light scares away the little critters that whisper into\Nyour ear "anime is goooood for you... you wish to watch\Nmooooore anime" and brings forth the little critters that whisper\N"come watch elite fansubs releases... elite fansubs is goooood."
 Dialogue: 0,0:02:38.10,0:02:39.01,Default,,0,0,0,,Sai...
 Dialogue: 0,0:02:41.99,0:02:42.69,Background,,0,0,0,,Did you...
 Dialogue: 0,0:02:43.24,0:02:43.94,Background,,0,0,0,,Just...
@@ -349,7 +349,7 @@ Dialogue: 0,0:14:25.64,0:14:26.54,Sai,,0,0,0,,15-4
 Dialogue: 0,0:14:27.55,0:14:29.72,Background,,0,0,0,,Shoot off your mouth like that AFTER you win.
 Dialogue: 0,0:14:35.33,0:14:38.69,Thinking,,0,0,0,,How can a guy like this understand me?
 Dialogue: 0,0:14:38.92,0:14:40.19,Thinking,,0,0,0,,A guy like this...
-Dialogue: 0,0:14:42.74,0:14:45.70,Note,,0,0,15,,{\fs26.5}Go Classroom
+Dialogue: 0,0:14:42.74,0:14:45.70,Note,,0,0,0,,{\fs26.5}Go Classroom
 Dialogue: 0,0:14:43.38,0:14:44.20,Background,,0,0,0,,Tetsuo!
 Dialogue: 0,0:14:44.94,0:14:45.99,Background,,0,0,0,,Tetsuo!
 Dialogue: 0,0:14:47.50,0:14:49.57,Default,,0,0,0,,Why do you always lose to that boy?
@@ -415,34 +415,34 @@ Dialogue: 0,0:20:34.10,0:20:36.22,Default,,0,0,0,,An ice cold pool awaits you...
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs45}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.42,0:22:13.62,Default,,0,0,0,,{\an8}I wonder what this is.
-Dialogue: 0,0:22:12.56,0:22:13.54,Note,,0,0,0,,{\an2}Mai-chan
+Dialogue: 0,0:22:12.56,0:22:13.54,Note,,0,0,20,,{\an2}Mai-chan
 Dialogue: 0,0:22:13.97,0:22:16.31,Default,,0,0,0,,{\an8}It's probably like a rice ball
-Dialogue: 0,0:22:14.73,0:22:16.06,Note,,0,0,0,,{\an2}Yuuki-kun
+Dialogue: 0,0:22:14.73,0:22:16.06,Note,,0,0,20,,{\an2}Yuuki-kun
 Dialogue: 0,0:22:17.23,0:22:20.15,Default,,0,0,0,,{\an8}Well, let's play with this today.
-Dialogue: 0,0:22:17.36,0:22:19.23,Note,,0,0,0,,{\an2}Teacher Yukari
+Dialogue: 0,0:22:17.36,0:22:19.23,Note,,0,0,20,,{\an2}Teacher Yukari
 Dialogue: 0,0:22:20.28,0:22:21.32,Default,,0,0,0,,{\an8}It's so small.
 Dialogue: 0,0:22:21.32,0:22:26.58,Default,,0,0,0,,{\an8}Yeah, this is a 6x6, 6 line board. But this\Nis good enough when you're starting.
-Dialogue: 0,0:22:22.28,0:22:26.03,Note,,0,0,0,,{\an2}6x6 board
+Dialogue: 0,0:22:22.28,0:22:26.03,Note,,0,0,20,,{\an2}6x6 board
 Dialogue: 0,0:22:26.81,0:22:28.87,Default,,0,0,0,,{\an8}First one to get 3 stones wins okay?
 Dialogue: 0,0:22:28.79,0:22:29.16,Default,,0,0,0,,{\an8}Okay
 Dialogue: 0,0:22:29.29,0:22:29.70,Default,,0,0,0,,{\an8}Okay
 Dialogue: 0,0:22:29.87,0:22:30.79,Default,,0,0,0,,{\an8}Let's start then.
-Dialogue: 0,0:22:30.25,0:22:31.71,Note,,0,0,0,,{\an2}Stone Capture Game start!
+Dialogue: 0,0:22:30.25,0:22:31.71,Note,,0,0,20,,{\an2}Stone Capture Game start!
 Dialogue: 0,0:22:31.01,0:22:51.02,Note,,0,0,0,,{\an2\pos(121,84)}Yuuki
 Dialogue: 0,0:22:31.01,0:22:51.03,Note,,0,0,0,,{\an2\pos(533,84)}Mai
 Dialogue: 0,0:22:31.02,0:22:33.46,Default,,0,0,0,,{\an8}Good luck!
-Dialogue: 0,0:22:32.46,0:22:39.34,Note,,0,0,0,,{\an2}You can make your own 6 line board easily\Nby drawing lines on a sheet of paper.
+Dialogue: 0,0:22:32.46,0:22:39.34,Note,,0,0,20,,{\an2}You can make your own 6 line board easily\Nby drawing lines on a sheet of paper.
 Dialogue: 0,0:22:36.29,0:22:39.00,Default,,0,0,0,,{\an8}Mai chan you took some!
 Dialogue: 0,0:22:39.56,0:22:40.38,Default,,0,0,0,,{\an8}What will he do?
-Dialogue: 0,0:22:40.01,0:22:46.93,Note,,0,0,0,,{\an2}Paint on bottle caps to make your go stones.
+Dialogue: 0,0:22:40.01,0:22:46.93,Note,,0,0,20,,{\an2}Paint on bottle caps to make your go stones.
 Dialogue: 0,0:22:43.09,0:22:45.55,Default,,0,0,0,,{\an8}That was a good move.
 Dialogue: 0,0:22:47.24,0:22:48.43,Default,,0,0,0,,{\an8}Oh yeah!
-Dialogue: 0,0:22:48.72,0:22:50.27,Note,,0,0,0,,{\an2}Mai-chan wins!
+Dialogue: 0,0:22:48.72,0:22:50.27,Note,,0,0,20,,{\an2}Mai-chan wins!
 Dialogue: 0,0:22:48.93,0:22:52.31,Default,,0,0,0,,{\an8}Mai chan wins. Congratulations.
 Dialogue: 0,0:22:52.43,0:22:55.31,Default,,0,0,0,,{\an8}Now thank your opponent for the game.
-Dialogue: 0,0:22:53.27,0:22:55.27,Note,,0,0,0,,{\an2}Greet your opponent when you start the\Ngame, and thank your opponent at the end.
+Dialogue: 0,0:22:53.27,0:22:55.27,Note,,0,0,20,,{\an2}Greet your opponent when you start the\Ngame, and thank your opponent at the end.
 Dialogue: 0,0:22:55.06,0:22:57.23,Background,,0,0,0,,{\an8}Thanks for the game.
-Dialogue: 0,0:22:55.48,0:22:57.36,Note,,0,0,0,,{\an2}To be continued...
+Dialogue: 0,0:22:55.48,0:22:57.36,Note,,0,0,20,,{\an2}To be continued...
 Dialogue: 0,0:22:58.86,0:23:01.49,Background,,0,0,0,,Sai you said it was alright!
 Dialogue: 0,0:23:01.87,0:23:05.88,Background,,0,0,0,,Tsutsui, the members for the Igo\Nteam tournament's been decided.
 Dialogue: 0,0:23:06.18,0:23:07.82,Sai,,0,0,0,,I think I understand now...
