@@ -7,7 +7,7 @@
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro.png" width="300"/>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Igo.png" width="300"/>
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/c548e5904d1c540e92c9eac468e07cfa97098c0a/Screenshots/61%20Igo%20v2.png" width="300"/>
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/64%20Igo%201.png" width="300"/>
