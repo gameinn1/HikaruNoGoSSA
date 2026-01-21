@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 317
-Active Line: 338
-Video Position: 35465
+Active Line: 12
+Video Position: 4209
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,8 +64,8 @@ Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
@@ -95,8 +94,8 @@ Dialogue: 0,0:02:29.64,0:02:34.53,Thinking,,0,0,0,,Only I can measure Shindou's 
 Dialogue: 0,0:02:36.60,0:02:41.11,Thinking,,0,0,0,,I knew the moment he appeared\Nin front of me that night.
 Dialogue: 0,0:02:42.79,0:02:43.76,Thinking,,0,0,0,,I just need to wait..
 Dialogue: 0,0:02:48.23,0:02:53.11,Thinking,,0,0,0,,They've already prepared a match between us.
-Dialogue: 0,0:02:55.03,0:02:59.99,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,320,1,\fscx99)\blur0.8\pos(355,113)}The Seventy-Second Match
-Dialogue: 0,0:02:55.03,0:02:59.99,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,320,1,\fscx100)\pos(328,365)}And so they began to run
+Dialogue: 0,0:02:55.03,0:02:59.99,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(350,115)}The Seventy-Second Match
+Dialogue: 0,0:02:55.03,0:02:59.99,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,330,1,\fscx100)\pos(325,365)}And so they began to run
 Dialogue: 0,0:03:26.15,0:03:32.19,Thinking,,0,0,0,,It may look like he's foiling Shindou-kun's\Nattack on White in the center,
 Dialogue: 0,0:03:33.69,0:03:37.11,Thinking,,0,0,0,,but Shindou-kun's planned for this to happen.
 Dialogue: 0,0:03:49.73,0:03:52.82,Thinking,,0,0,0,,Murakami-san thought he was\Nfoiling Shindou-kun's advance,

@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 262
-Active Line: 268
-Video Position: 32310
+Video Zoom Percent: 0.750000
+Scroll Position: 3
+Active Line: 13
+Video Position: 3779
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,8 +65,8 @@ Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
@@ -96,8 +96,8 @@ Dialogue: 0,0:02:15.68,0:02:18.04,Sai,,0,0,0,,built up slowly person by person.
 Dialogue: 0,0:02:21.33,0:02:25.21,Sai,,0,0,0,,The long path leading to the divine move...
 Dialogue: 0,0:02:32.84,0:02:34.38,Sai,,0,0,0,,My part in it...
 Dialogue: 0,0:02:35.13,0:02:36.01,Sai,,0,0,0,,is over...
-Dialogue: 0,0:02:37.22,0:02:42.14,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,313,1,\fscx99)\blur0.8\pos(335,113)}The Sixty-First Match
-Dialogue: 0,0:02:37.22,0:02:42.14,Title_eps,,0,0,0,,{\fs56\fad(274,0)\q2\blur0.8\fscy55\fscx330\t(0,313,1,\fscx100)\pos(328,365)}Sai is gone?
+Dialogue: 0,0:02:37.22,0:02:42.14,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(332,115)}The Sixty-First Match
+Dialogue: 0,0:02:37.22,0:02:42.14,Title_eps,,0,0,0,,{\fs56\fad(274,0)\q2\blur0.8\fscy50\fscx330\t(0,330,1,\fscx100)\pos(325,365)}Sai is gone?
 Dialogue: 0,0:02:58.07,0:02:58.74,Default,,0,0,0,,Sai?
 Dialogue: 0,0:02:59.79,0:03:00.48,Default,,0,0,0,,Hey!
 Dialogue: 0,0:03:01.05,0:03:02.80,Default,,0,0,0,,Why are you hiding?

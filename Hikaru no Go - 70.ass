@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 70 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 284
-Active Line: 314
-Video Position: 35430
+Active Line: 13
+Video Position: 4136
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,8 +64,8 @@ Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
@@ -96,8 +95,8 @@ Dialogue: 0,0:02:33.37,0:02:37.05,Default,,0,0,0,,Play... play a game for me.
 Dialogue: 0,0:02:38.88,0:02:40.31,Default,,0,0,0,,That's what I came here for today.
 Dialogue: 0,0:02:41.85,0:02:43.72,Default,,0,0,0,,I...sumi-san...
 Dialogue: 0,0:02:44.43,0:02:51.12,Default,,0,0,0,,Shindou, do you remember the game between\Nus in the pro exam last year?
-Dialogue: 0,0:02:52.15,0:02:57.07,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,316,1,\fscx99)\blur0.8\pos(305,113)}The Seventieth Match
-Dialogue: 0,0:02:52.15,0:02:57.07,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,316,1,\fscx100)\pos(328,365)}Sai Was Here...
+Dialogue: 0,0:02:52.15,0:02:57.07,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(305,115)}The Seventieth Match
+Dialogue: 0,0:02:52.15,0:02:57.07,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,330,1,\fscx100)\pos(325,365)}Sai Was Here...
 Dialogue: 0,0:03:17.44,0:03:18.16,Default,,0,0,0,,Shindou.
 Dialogue: 0,0:03:24.65,0:03:26.38,Default,,0,0,0,,Shindou, please.
 Dialogue: 0,0:03:28.40,0:03:29.56,Default,,0,0,0,,Just one match.

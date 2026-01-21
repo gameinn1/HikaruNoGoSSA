@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 325
-Active Line: 353
-Video Position: 35448
+Active Line: 11
+Video Position: 4203
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,8 +64,8 @@ Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
@@ -93,8 +92,8 @@ Dialogue: 0,0:02:27.55,0:02:28.17,Sai,,0,0,0,,It's not?...
 Dialogue: 0,0:02:34.68,0:02:36.18,Sai,,0,0,0,,Then I'll...
 Dialogue: 0,0:02:38.10,0:02:40.97,Sai,,0,0,0,,I... don't appear in this episode?
 Dialogue: 0,0:02:50.11,0:02:52.07,Sai,,0,0,0,,My... My hopes...
-Dialogue: 0,0:02:54.70,0:02:59.67,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,290,1,\fscx99)\blur0.8\pos(330,113)}The Sixty-Sixth Match
-Dialogue: 0,0:02:54.70,0:02:59.66,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,290,1,\fscx100)\pos(328,365)}The Fated Encounter
+Dialogue: 0,0:02:54.70,0:02:59.67,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,290,1,\fscx100)\blur0.8\pos(325,115)}The Sixty-Sixth Match
+Dialogue: 0,0:02:54.70,0:02:59.66,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx300\t(0,290,1,\fscx100)\pos(325,365)}The Fated Encounter
 Dialogue: 0,0:03:00.58,0:03:03.16,Background,,0,0,0,,Is this backpack Akira-kun's?
 Dialogue: 0,0:03:03.50,0:03:06.33,Default,,0,0,0,,Oh, sorry. I'll put that away right now.
 Dialogue: 0,0:03:07.37,0:03:13.88,Default,,0,0,0,,This is in such good shape. My grandson is in\Nthe sixth grade, and his is all scratched up.

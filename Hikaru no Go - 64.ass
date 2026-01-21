@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 362
-Active Line: 453
-Video Position: 30118
+Active Line: 10
+Video Position: 3284
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,8 +64,8 @@ Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
@@ -93,8 +92,8 @@ Dialogue: 0,0:02:01.72,0:02:02.85,Sai,,0,0,0,,Huh? Me?
 Dialogue: 0,0:02:02.93,0:02:05.31,Sai,,0,0,0,,I'll be... just as cool as ever of course!
 Dialogue: 0,0:02:05.47,0:02:09.73,Sai,,0,0,0,,After all I am the MAIN CHARACTER!
 Dialogue: 0,0:02:12.65,0:02:14.99,Sai,,0,0,0,,Well then, enjoy the show!
-Dialogue: 0,0:02:16.41,0:02:21.33,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,311,1,\fscx99)\blur0.8\pos(350,113)}The Sixty-Fourth Match
-Dialogue: 0,0:02:16.41,0:02:21.33,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,311,1,\fscx100)\pos(328,365)}Keichou Flowerpots
+Dialogue: 0,0:02:16.41,0:02:21.33,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Sixty-Fourth Match
+Dialogue: 0,0:02:16.41,0:02:21.33,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,330,1,\fscx100)\pos(325,365)}Keichou Flowerpots
 Dialogue: 0,0:02:28.37,0:02:32.13,Sai,,0,0,0,,Oh man, that English teacher just wouldn't shut up.
 Dialogue: 0,0:02:32.50,0:02:35.34,Sai,,0,0,0,,It's because you were sleeping in his class, Hikaru.
 Dialogue: 0,0:02:35.50,0:02:37.59,Default,,0,0,0,,You were asleep, too!
