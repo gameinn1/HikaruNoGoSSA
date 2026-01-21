@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 278
-Active Line: 299
-Video Position: 34676
+Active Line: 4
+Video Position: 2746
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,8 +64,8 @@ Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
@@ -87,8 +86,8 @@ Dialogue: 0,0:00:01.12,0:00:04.00,Memory,,0,0,0,,Fujiwarano Sai, a Go player fro
 Dialogue: 0,0:00:04.53,0:00:08.50,Memory,,0,0,0,,has passed through time and returned to\Nthis world in the mind of Shindou Hikaru,
 Dialogue: 0,0:00:09.38,0:00:11.70,Memory,,0,0,0,,in order to obtain the Hand of God.
 Dialogue: 0,0:01:51.99,0:01:53.40,Default,,0,0,0,,Shindou Hikaru...
-Dialogue: 0,0:01:54.18,0:01:59.10,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,312,1,\fscx99)\blur0.8\pos(245.45,116.89)}The Third Match
-Dialogue: 0,0:01:54.18,0:01:59.10,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,312,1,\fscx100)\pos(324.54,363.85)}Akira Bears his Fangs
+Dialogue: 0,0:01:54.18,0:01:59.10,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(245,115)}The Third Match
+Dialogue: 0,0:01:54.18,0:01:59.10,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Akira Bears his Fangs
 Dialogue: 0,0:02:06.41,0:02:07.30,Default,,0,0,0,,Touya...
 Dialogue: 0,0:02:07.91,0:02:09.10,Default,,0,0,0,,Hey Touya...
 Dialogue: 0,0:02:09.83,0:02:10.70,Default,,0,0,0,,What's going on?

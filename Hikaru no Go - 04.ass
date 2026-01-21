@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 330
-Active Line: 359
-Video Position: 34711
+Active Line: 8
+Video Position: 3250
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,8 +64,8 @@ Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000
 Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
-Style: Title_eps,Arial,43,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: Title_eps_top,Arial,23,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
+Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
 Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
 Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
@@ -90,8 +89,8 @@ Dialogue: 0,0:01:56.40,0:01:59.00,Thinking,,0,0,0,,If I could...
 Dialogue: 0,0:02:00.19,0:02:01.09,Thinking,,0,0,0,,could...
 Dialogue: 0,0:02:01.96,0:02:02.72,Thinking,,0,0,0,,{\c&HC5FEC1&}play like that!
 Dialogue: 0,0:02:10.09,0:02:10.90,Sai,,0,0,0,,Hikaru...
-Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,312,1,\fscx99)\blur0.8\pos(265.45,109.89)}The Fourth Match
-Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,312,1,\fscx100)\pos(324.54,363.85)}Kaga of the Shougi Club
+Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(265,115)}The Fourth Match
+Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Kaga of the Shougi Club
 Dialogue: 0,0:02:15.20,0:02:20.12,Note,,0,0,0,,[note: Shougi is the Japanese equivalent of Chess. It's a\Nmuch easier game than Go, and no where near as much fun]
 Dialogue: 0,0:02:28.17,0:02:38.22,Note,,0,0,0,,{\fs21.5}Anime addicts, and Go players. When viewing anime, please\Nmake sure the room is brightly lit, and not get too close to the\Nscreen. The light scares away the little critters that whisper into\Nyour ear "anime is goooood for you... you wish to watch\Nmooooore anime" and brings forth the little critters that whisper\N"come watch elite fansubs releases... elite fansubs is goooood."
 Dialogue: 0,0:02:38.10,0:02:39.01,Default,,0,0,0,,Sai...

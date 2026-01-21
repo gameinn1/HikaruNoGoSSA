@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
 Active Line: 3
-Video Position: 2992
+Video Position: 2987
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -86,7 +86,7 @@ Dialogue: 0,0:01:55.30,0:01:56.60,Thinking,,0,0,0,,He isn't here...
 Dialogue: 0,0:01:57.60,0:01:58.97,Thinking,,0,0,0,,Why aren't you here, Sai?
 Dialogue: 0,0:01:59.81,0:02:03.48,Thinking,,0,0,0,,Didn't you want to come and visit Torajirou's homeland?
 Dialogue: 0,0:02:04.19,0:02:09.11,Title_eps_top,,0,0,0,for ep 62,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(340,115)}The Sixty-Second Match
-Dialogue: 0,0:02:04.19,0:02:09.11,Title_eps,,0,0,0,for ep 62,{\fad(359,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Top Player in Hiroshima
+Dialogue: 0,0:02:04.19,0:02:09.11,Title_eps,,0,0,0,for ep 62,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Top Player in Hiroshima
 Dialogue: 0,0:02:09.11,0:02:12.11,NoteArial,,0,0,0,,GO IGO CLUB
 Dialogue: 0,0:02:10.19,0:02:12.11,Background,,0,0,0,,What are you talking about!? That makes no sense.
 Dialogue: 0,0:02:12.78,0:02:15.16,Background,,0,0,0,,Where did you get 50,000!?
