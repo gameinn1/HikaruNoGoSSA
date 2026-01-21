@@ -6,8 +6,6 @@ Synch Point: 0
 ScriptType: v4.00
 PlayResX: 640
 PlayResY: 480
-LayoutResX: 640
-LayoutResY: 480
 Timer: 100.0000
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
@@ -19,17 +17,17 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 983
-Active Line: 1002
-Video Position: 497
+Scroll Position: 464
+Active Line: 475
+Video Position: 53438
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.8,0.8,2,0,0,20,1
-Style: Background,Verdana,24,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.8,0.8,2,0,0,20,1
-Style: NoteArial_special,Arial,18,&H00B0B0B0,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.8,0,8,0,0,25,1
-Style: Thinking,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.8,0.8,2,0,0,20,1
-Style: Memory,Verdana,24,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.8,0.8,2,0,0,20,1
+Style: Default,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.8,2,0,0,20,1
+Style: Background,Verdana,24,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.8,2,0,0,20,1
+Style: NoteArial_special,Arial,18,&H00B0B0B0,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
+Style: Thinking,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.5,0.8,2,0,0,20,1
+Style: Memory,Verdana,24,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.8,2,0,0,20,1
 Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
 Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
 Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
