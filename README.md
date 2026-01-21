@@ -2,30 +2,45 @@
 
 <div align="center">
   <table cellspacing="12">
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro.png" width="300"/>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/E-F%20Intro.png" width="260"/><br/>
+        <small>E–F Intro</small>
       </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/c548e5904d1c540e92c9eac468e07cfa97098c0a/Screenshots/61%20Igo%20v2.png" width="300"/>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/61%20Igo%20v2.png" width="260"/><br/>
+        <small>Igo 61 Sub Example</small>
       </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/64%20Igo%201.png" width="300"/>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Igo%201.png" width="260"/><br/>
+        <small>Igo 64 Sub Example</small>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/62%20Logo.png" width="260"/><br/>
+        <small>Titles Example</small>
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%201.png" width="300"/>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Ending.png" width="260"/><br/>
+        <small>Music is my Thing</small>
       </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%202.png" width="300"/>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%201.png" width="260"/><br/>
+        <small>75 Karaoke</small>
       </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%203.png" width="300"/>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%202.png" width="260"/><br/>
+        <small>More 75 Karaoke</small>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%203.png" width="260"/><br/>
+        <small>Igo 75 Ending</small>
       </td>
     </tr>
   </table>
 </div>
+
+
 
 
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
