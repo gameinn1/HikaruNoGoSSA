@@ -17,17 +17,17 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 464
-Active Line: 475
-Video Position: 53438
+Scroll Position: 232
+Active Line: 255
+Video Position: 27128
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.8,2,0,0,20,1
-Style: Background,Verdana,24,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.8,2,0,0,20,1
-Style: NoteArial_special,Arial,18,&H00B0B0B0,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
-Style: Thinking,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.5,0.8,2,0,0,20,1
-Style: Memory,Verdana,24,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.8,2,0,0,20,1
+Style: Default,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
+Style: Background,Verdana,24,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
+Style: NoteArial_special,Arial,18,&H00B0B0B0,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
+Style: Thinking,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,0,0,20,1
+Style: Memory,Verdana,24,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
 Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
 Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
@@ -516,10 +516,10 @@ Dialogue: 0,0:37:04.66,0:37:07.04,Thinking,,0,0,0,,This is our first match in th
 Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\fad(375,0)}Note: 10th dan (jyudan) and gosei are titles Ogata-san holds.
 Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(254,255)}Honinbou League
 Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(419,255)}Fifth Match
-Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(272,349)}Ogata Seiji, 10th-dan
+Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(272,348)}Ogata Seiji, 10th-dan
 Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(437,349)}Gosei
 Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(324,368)}Vs.
-Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(323,423)}Touya Akira, 3rd-dan
+Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(323,422)}Touya Akira, 3rd-dan
 Dialogue: 0,0:37:24.05,0:37:33.06,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(323,258)}Honinbou League  Second preliminary match  Second round
 Dialogue: 0,0:37:24.05,0:37:33.06,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(323,349)}Morishita Shigeo, 9th-dan
 Dialogue: 0,0:37:24.05,0:37:33.06,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(323,370)}Vs.
