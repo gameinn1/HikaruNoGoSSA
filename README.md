@@ -4,37 +4,29 @@
   <table cellspacing="12">
       <td align="center">
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/E-F%20Intro.png" width="260"/><br/>
-        <small>E–F Intro</small>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/61%20Igo%20v2.png" width="260"/><br/>
-        <small>Igo 61 Sub Example</small>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Igo%201.png" width="260"/><br/>
-        <small>Igo 64 Sub Example</small>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/62%20Logo.png" width="260"/><br/>
-        <small>Titles Example</small>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Ending.png" width="260"/><br/>
-        <small>Music is my Thing</small>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%201.png" width="260"/><br/>
-        <small>75 Karaoke</small>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%202.png" width="260"/><br/>
-        <small>More 75 Karaoke</small>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%203.png" width="260"/><br/>
-        <small>Igo 75 Ending</small>
       </td>
     </tr>
   </table>
