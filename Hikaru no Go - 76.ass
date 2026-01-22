@@ -47,7 +47,7 @@ Dialogue: 0,0:01:56.05,0:01:57.06,Thinking,,0,0,0,,Don't go!
 Dialogue: 0,0:01:57.22,0:01:58.47,Thinking,,0,0,0,,Say something!
 Dialogue: 0,0:01:59.02,0:01:59.72,Thinking,,0,0,0,,Don't go away!
 Dialogue: 0,0:02:00.52,0:02:01.23,Thinking,,0,0,0,,Sai!
-Dialogue: 0,0:02:09.40,0:02:10.40,Thinking,,0,0,0,,Sai...
+Dialogue: 0,0:02:09.40,0:02:10.40,Thinking,,0,0,0,,Sai...?
 Dialogue: 0,0:02:27.42,0:02:30.42,Default,chptr,0,0,0,,{The Road to the Hokuto Cup}
 Dialogue: 0,0:02:27.59,0:02:32.42,Title_special,,0,0,0,for the special,{\fad(359,0)\q2\blur0.8\fscy67\fscx333\t(0,330,1,\fscx100)\pos(310,334)}The Road to the Hokuto Cup
 Dialogue: 0,0:03:04.87,0:03:06.54,Default,,0,0,0,,Is Hikaru playing?
