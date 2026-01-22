@@ -32,12 +32,9 @@
   </table>
 </div>
 
-
-
-
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
 
-Hello everyone. This is an update to the project started by gabest11. See table below for overall progress. The fonts are in fonts-v4.zip (compiled via fonts collector) as this has everything needed and made once 75/76 was complete. Once extracted, right click and install them.
+This is an update to the project started by gabest11. See table below for overall progress. The fonts are in fonts-v7.zip (compiled via fonts collector) as this has everything needed and made once 75/76 was complete. Once extracted, right click and install them. I've put up a full changelog and what still needs to be done pdfs (easier to read).
 
 ## Intro/Progress
 I restarted this project in late December 2025 after it was laid dormant by gabest11 (they stopped around episode 60). Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done but... there is some small problems. Most of the time they did not assign styling and there is generally some small differences between E-F/R-F/timing can be slightly off. This all needs relooked at.
@@ -55,6 +52,8 @@ What I am happy about is episodes 62 to 75 since I was in control from the start
 2: Perfectly recreated the episode 75 ending karaoke! This was the last big hurdle for a successful sub. It's very nice go check it out!
 
 3: Perfectly recreated the episode title animations. These will be put on all episodes (as talked about above).
+
+4: Intro and ending karaoke for the special as well as the intro text.
 
 It's funny because even with the subs in this state, it's still the best subs for this anime. Why? At the bare minimum you get the subs already available elsewhere with a somewhat complete ending Igo, but you also get the added opening and ending karaoke parts from start to finish for every episode.
 
