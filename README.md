@@ -3,7 +3,7 @@
 <div align="center">
   <table cellspacing="12">
       <td align="center">
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/E-F%20Intro.png" width="260"/><br/>
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro%20Fix.png" width="260"/><br/>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/61%20Igo%20v2.png" width="260"/><br/>
