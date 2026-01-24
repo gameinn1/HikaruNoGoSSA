@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 8
-Video Position: 3250
+Scroll Position: 350
+Active Line: 368
+Video Position: 727
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -411,7 +412,7 @@ Dialogue: 0,0:20:23.41,0:20:24.20,Default,,0,0,0,,What?!
 Dialogue: 0,0:20:24.37,0:20:25.37,Default,,0,0,0,,That many?!
 Dialogue: 0,0:20:29.78,0:20:32.30,Default,,0,0,0,,Time to resign perhaps?
 Dialogue: 0,0:20:34.10,0:20:36.22,Default,,0,0,0,,An ice cold pool awaits you...
-Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs45}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.42,0:22:13.62,Default,,0,0,0,,{\an8}I wonder what this is.
 Dialogue: 0,0:22:12.56,0:22:13.54,Note,,0,0,20,,{\an2}Mai-chan
@@ -450,8 +451,8 @@ Dialogue: 0,0:23:14.62,0:23:19.63,Note,,0,0,0,,[note from translator: I'll expla
 Dialogue: 0,0:23:14.62,0:23:16.46,SignsEp4,,0,0,0,,{\pos(464,358)}How to play\NJoseki correctly
 Dialogue: 0,0:23:22.73,0:23:25.22,Sai,,0,0,0,,Once you place the stone,\Nyou can't change its position,
 Dialogue: 0,0:23:25.29,0:23:26.76,Sai,,0,0,0,,and that is the importance of a move.
-Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\bord2\pos(324,247)}Elite-Fansubs presents
-Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\fs45\bord2.5\shad1\pos(322,297)}Hikaru no Go
+Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
+Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go\N
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:16.98,0:00:20.71,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える
 Dialogue: 0,0:00:20.85,0:00:26.73,Op1Kanji,,0,0,0,,{\kf33}だから{\kf151}迷い{\kf25}{\kf58}ながら{\kf17}も{\kf37}共{\kf36}に{\kf75}生きて{\kf78}いこう{\kf78}よ

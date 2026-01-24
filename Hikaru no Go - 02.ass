@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 02 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 5
-Video Position: 2673
+Scroll Position: 313
+Active Line: 334
+Video Position: 799
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -389,7 +390,7 @@ Dialogue: 0,0:20:28.21,0:20:29.00,Default,,0,0,0,,Touya...
 Dialogue: 0,0:20:32.68,0:20:33.55,Default,,0,0,0,,I found you...
 Dialogue: 0,0:20:36.14,0:20:38.22,Background,,0,0,0,,I finally found you...
 Dialogue: 0,0:20:39.28,0:20:40.59,Default,,0,0,0,,Shindou Hikaru.
-Dialogue: 0,0:22:09.72,0:22:12.32,Sai,,0,0,0,,{\an5\pos(320,152)}{\fs45}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.72,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.72,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.35,0:22:14.15,Note,,0,0,20,,{\an2}What would Miss.Yukari teach us today?
 Dialogue: 0,0:22:15.56,0:22:17.76,Default,,0,0,0,,{\an8}Ok, then why don't we play the "capture" game?
@@ -416,8 +417,8 @@ Dialogue: 0,0:23:04.29,0:23:06.11,Background,,0,0,0,,Place three stones.
 Dialogue: 0,0:23:06.80,0:23:08.66,Background,,0,0,0,,That's Akira's talent.
 Dialogue: 0,0:23:09.20,0:23:12.33,Default,,0,0,0,,Me, pro? I never thought about it.
 Dialogue: 0,0:23:22.63,0:23:26.12,Default,,0,0,0,,A person who plays Go wouldn't be so impudent!
-Dialogue: 0,0:00:33.30,0:00:39.60,Sai,,0,0,0,,{\bord2\pos(324,247)}Elite-Fansubs presents
-Dialogue: 0,0:00:33.30,0:00:39.60,Memory,,0,0,0,,{\fs45\bord2.5\shad1\pos(322,297)}Hikaru no Go
+Dialogue: 0,0:00:33.30,0:00:39.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
+Dialogue: 0,0:00:33.30,0:00:39.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:15.95,0:00:19.66,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:19.93,0:00:23.66,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える
 Dialogue: 0,0:00:23.80,0:00:29.68,Op1Kanji,,0,0,0,,{\kf33}だから{\kf151}迷い{\kf25}{\kf58}ながら{\kf17}も{\kf37}共{\kf36}に{\kf75}生きて{\kf78}いこう{\kf78}よ

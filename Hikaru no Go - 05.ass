@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 5
-Video Position: 2795
+Scroll Position: 338
+Active Line: 354
+Video Position: 727
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -404,7 +405,7 @@ Dialogue: 0,0:19:55.91,0:20:00.59,Sai,,0,0,0,,Was it only a fluke that Hikaru\Nr
 Dialogue: 0,0:20:01.43,0:20:06.14,Sai,,0,0,0,,And I thought I saw a glimpse of genius\Nof the level of Touya Akira, in Hikaru.
 Dialogue: 0,0:20:08.32,0:20:09.86,Default,,0,0,0,,Now it's one win one loss...
 Dialogue: 0,0:20:11.17,0:20:12.57,Default,,0,0,0,,Tsutsui's our only hope.
-Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5}{\fs45}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\pos(203,342)}Yuuki
 Dialogue: 0,0:22:13.02,0:22:14.49,Note,,0,0,0,,{\pos(323,342)}Teacher Yukari
@@ -435,8 +436,8 @@ Dialogue: 0,0:23:05.67,0:23:07.58,Sai,,0,0,0,,That you can't win on your own str
 Dialogue: 0,0:23:08.24,0:23:12.22,Default,,0,0,0,,I realize now that I won't reach the hand of god if I don't surpass you.
 Dialogue: 0,0:23:23.50,0:23:24.15,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:23:25.22,0:23:26.37,Sai,,0,0,0,,You have Awakened.
-Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\bord2\pos(324,247)}Elite-Fansubs presents
-Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\fs45\bord2.5\shad1\pos(322,297)}Hikaru no Go
+Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
+Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:16.98,0:00:20.71,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える
 Dialogue: 0,0:00:20.85,0:00:26.73,Op1Kanji,,0,0,0,,{\kf33}だから{\kf151}迷い{\kf25}{\kf58}ながら{\kf17}も{\kf37}共{\kf36}に{\kf75}生きて{\kf78}いこう{\kf78}よ

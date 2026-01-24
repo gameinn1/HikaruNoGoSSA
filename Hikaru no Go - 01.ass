@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Active Line: 4
-Video Position: 2456
+Video Zoom Percent: 0.625000
+Scroll Position: 356
+Active Line: 361
+Video Position: 32094
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,8 +86,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.44,0:00:04.32,Default,,0,0,0,,Who is it?!
 Dialogue: 0,0:00:07.24,0:00:09.20,Background,,0,0,0,,This is not the best move...
 Dialogue: 0,0:00:09.86,0:00:12.03,Background,,0,0,0,,or the strongest move...
-Dialogue: 0,0:01:41.54,0:01:46.04,Sai,,0,0,0,,{\fs30\bord2.5\pos(409,230)}The first match
-Dialogue: 0,0:01:41.54,0:01:46.04,Sai,,0,0,0,,{\fs45\bord2.5\pos(324,387)}The Eternal Rival
+Dialogue: 0,0:01:41.54,0:01:46.04,Sai,,0,0,0,,{\fs30\bord2\shad1\pos(409,230)}The first match
+Dialogue: 0,0:01:41.54,0:01:46.04,Sai,,0,0,0,,{\fs45\bord2.5\shad1\pos(324,387)}The Eternal Rival
 Dialogue: 0,0:02:01.02,0:02:03.35,Default,,0,0,0,,Run Akari! My grandpa's house is right there!
 Dialogue: 0,0:02:03.39,0:02:07.15,Default,,0,0,0,,I knew we should've gone straight home!
 Dialogue: 0,0:02:07.65,0:02:08.65,Background,,0,0,0,,Grandpa?!
@@ -443,7 +444,7 @@ Dialogue: 0,0:20:31.52,0:20:32.30,Sai,,0,0,0,,Okay!
 Dialogue: 0,0:20:32.54,0:20:32.96,Default,,0,0,0,,Yeah
 Dialogue: 0,0:20:33.72,0:20:34.55,Default,,0,0,0,,We're running home.
 Dialogue: 0,0:20:34.75,0:20:35.25,Sai,,0,0,0,,Okay!
-Dialogue: 0,0:22:09.75,0:22:11.84,Sai,,0,0,0,,{\an5}{\fs45}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.75,0:22:11.84,Sai,,0,0,0,,{\bord2.5\shad1\fs45\pos(320,281)}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.75,0:22:11.84,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.64,0:22:13.77,Default,,0,0,0,,{\an8}I am Umezawa Yukari.
 Dialogue: 0,0:22:12.64,0:22:18.44,Note,,0,0,0,,{\an2\pos(321,428)}Teacher Yukari
@@ -472,8 +473,8 @@ Dialogue: 0,0:22:58.98,0:23:06.53,Default,,0,0,0,,That move too... and this move
 Dialogue: 0,0:23:07.70,0:23:12.00,Default,,0,0,0,,no that kind of a child is\Nimpossible! Just who is he?!
 Dialogue: 0,0:23:22.38,0:23:24.51,Default,,0,0,0,,I finally found you!
 Dialogue: 0,0:23:25.30,0:23:26.43,Default,,0,0,0,,Shindou Hikaru!
-Dialogue: 0,0:00:33.30,0:00:39.60,Sai,,0,0,0,,{\bord2\pos(324,247)}Elite-Fansubs presents
-Dialogue: 0,0:00:33.30,0:00:39.60,Memory,,0,0,0,,{\fs45\bord2.5\shad1\pos(322,297)}Hikaru no Go
+Dialogue: 0,0:00:33.30,0:00:39.60,Sai,,0,0,0,,{\bord2\shad1\pos(324,246)}Elite-Fansubs presents
+Dialogue: 0,0:00:33.30,0:00:39.60,Memory,,0,0,0,,{\fs45\bord2.5\shad1\pos(322,298)}Hikaru no Go
 Dialogue: 0,0:00:15.95,0:00:19.66,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:19.93,0:00:23.66,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える
 Dialogue: 0,0:00:23.80,0:00:29.68,Op1Kanji,,0,0,0,,{\kf33}だから{\kf151}迷い{\kf25}{\kf58}ながら{\kf17}も{\kf37}共{\kf36}に{\kf75}生きて{\kf78}いこう{\kf78}よ
