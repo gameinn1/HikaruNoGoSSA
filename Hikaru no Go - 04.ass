@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 350
-Active Line: 368
-Video Position: 727
+Active Line: 10
+Video Position: 3553
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,7 +92,7 @@ Dialogue: 0,0:02:10.09,0:02:10.90,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(265,115)}The Fourth Match
 Dialogue: 0,0:02:15.20,0:02:20.12,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Kaga of the Shougi Club
 Dialogue: 0,0:02:15.20,0:02:20.12,Note,,0,0,0,,[note: Shougi is the Japanese equivalent of Chess. It's a\Nmuch easier game than Go, and no where near as much fun]
-Dialogue: 0,0:02:28.17,0:02:38.22,Note,,0,0,0,,{\fs21.5}Anime addicts, and Go players. When viewing anime, please\Nmake sure the room is brightly lit, and not get too close to the\Nscreen. The light scares away the little critters that whisper into\Nyour ear "anime is goooood for you... you wish to watch\Nmooooore anime" and brings forth the little critters that whisper\N"come watch elite fansubs releases... elite fansubs is goooood."
+Dialogue: 0,0:02:28.17,0:02:38.22,Note,,0,0,0,,{\fs21.5}Anime addicts, and Go players. When viewing anime, please\Nmake sure the room is brightly lit, and not get too close to the\Nscreen. The light scares away the little critters that whisper into\Nyour ear "anime is goooood for you... you wish to watch\Nmoooore anime" and brings forth the little critters that whisper\N"come watch elite fansubs releases... elite fansubs is gooood."
 Dialogue: 0,0:02:38.10,0:02:39.01,Default,,0,0,0,,Sai...
 Dialogue: 0,0:02:41.99,0:02:42.69,Background,,0,0,0,,Did you...
 Dialogue: 0,0:02:43.24,0:02:43.94,Background,,0,0,0,,Just...
