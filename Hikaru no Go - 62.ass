@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Active Line: 3
-Video Position: 2987
+Scroll Position: 246
+Active Line: 250
+Video Position: 32123
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,9 +80,12 @@ Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H660
 Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,10,1
 Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
+Style: 61Sign,HillWilliam,42,&H00594941,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,20,1
+Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0.333,0,1,0,1,7,56,56,14,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:42.58,0:01:44.08,61Sign,,0,0,0,,{\frz270\blur1.2\fscy70\move(224,192,224,111)}ONINBOU SHUUSAKU
 Dialogue: 0,0:01:55.30,0:01:56.60,Thinking,,0,0,0,,He isn't here...
 Dialogue: 0,0:01:57.60,0:01:58.97,Thinking,,0,0,0,,Why aren't you here, Sai?
 Dialogue: 0,0:01:59.81,0:02:03.48,Thinking,,0,0,0,,Didn't you want to come and visit Torajirou's homeland?
@@ -331,6 +335,24 @@ Dialogue: 0,0:20:22.70,0:20:23.79,Default,,0,0,0,,Bye...
 Dialogue: 0,0:20:24.49,0:20:27.91,Default,,0,0,0,,Wait... there really might be one there...
 Dialogue: 0,0:20:30.54,0:20:31.46,Default,,0,0,0,,There?
 Dialogue: 0,0:20:34.00,0:20:34.67,Default,,0,0,0,,Want to see?
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,54)\t(0,112,1,\alpha&H00&)}U
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,69)\t(25,137,1,\alpha&H00&)}m
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,84)\t(50,162,1,\alpha&H00&)}e
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,99)\t(75,187,1,\alpha&H00&)}z
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,114)\t(100,212,1,\alpha&H00&)}a
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,129)\t(125,237,1,\alpha&H00&)}w
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,144)\t(150,262,1,\alpha&H00&)}a
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,171)\t(175,287,1,\alpha&H00&)}Y
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,186)\t(200,312,1,\alpha&H00&)}u
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,201)\t(225,337,1,\alpha&H00&)}k
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,216)\t(250,362,1,\alpha&H00&)}a
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,231)\t(275,387,1,\alpha&H00&)}r
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,246)\t(300,412,1,\alpha&H00&)}i
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,262)\t(325,437,1,\alpha&H00&)}'
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\an5\alpha&HFF&\pos(415,268)\t(350,462,1,\alpha&H00&)}s
+Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,,{\an2\fscx300\fscy300\fs200\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
+Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,,{\an5\fscx300\fscy300\fs200\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
+Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,,{\an5\fscx300\fscy300\fs200\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:58.19,0:23:01.99,Thinking,,0,0,0,,I should have let Sai play from the beginning.
 Dialogue: 0,0:23:03.07,0:23:03.95,Thinking,,0,0,0,,Come back...
 Dialogue: 0,0:23:04.57,0:23:05.16,Thinking,,0,0,0,,Sai.
