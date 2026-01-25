@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 07 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 07 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 6
-Video Position: 2699
+Video Zoom Percent: 0.625000
+Scroll Position: 27
+Active Line: 49
+Video Position: 5462
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -89,47 +90,49 @@ Dialogue: 0,0:01:41.41,0:01:46.09,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0
 Dialogue: 0,0:01:41.41,0:01:46.09,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}I Won't Play Against You
 Dialogue: 0,0:01:50.80,0:01:59.27,Memory,,0,0,0,,{\an5\fs30}Public Haze Junior High School
 Dialogue: 0,0:01:52.57,0:01:56.60,Background,,0,0,0,,Spring came, and I entered Haze Jr. High.
-Dialogue: 0,0:02:44.74,0:02:46.19,Default,,0,0,0,,Hey have you decided on a club to join?
-Dialogue: 0,0:02:46.25,0:02:47.61,Default,,0,0,0,,Nope, not yet.
-Dialogue: 0,0:02:47.88,0:02:50.30,Default,,0,0,0,,There were a lot of posters from clubs on the bulletin board in the hall.
-Dialogue: 0,0:02:50.56,0:02:51.70,Default,,0,0,0,,Let's go and take a look at it later.
-Dialogue: 0,0:02:52.44,0:02:55.70,Note,,0,0,60,,{\an7}Men's\NVolleyball\NClub
-Dialogue: 0,0:02:52.44,0:02:55.70,Note,,0,0,60,,{\an8}Come to\NBaseball Club!\N\N...League
-Dialogue: 0,0:02:52.44,0:02:55.70,Note,,0,0,60,,{\an9}Drama Club\Nnew students\Nwelcome
-Dialogue: 0,0:02:52.44,0:02:55.70,Note,,0,0,160,,{\an1}...recruiting\N\Nclub
-Dialogue: 0,0:02:52.44,0:02:55.70,Note,,0,0,160,,{\an3}Orchestr...
+Dialogue: 0,0:02:44.69,0:02:46.27,Background,,0,0,0,,Hey have you decided on a club to join?
+Dialogue: 0,0:02:46.25,0:02:47.61,Background,,0,0,0,,Nope, not yet.
+Dialogue: 0,0:02:47.88,0:02:50.30,Background,,0,0,0,,There were a lot of posters from\Nclubs on the bulletin board in the hall.
+Dialogue: 0,0:02:50.56,0:02:51.73,Background,,0,0,0,,Let's go take a look at it later.
+Dialogue: 0,0:02:52.44,0:02:55.70,Note,,15,0,75,,{\an7}Men's Volleyball Club
+Dialogue: 0,0:02:52.44,0:02:55.70,Note,,0,0,0,,{\an5\pos(320,180)}Come to Baseball Club!\N\N\N\N...League
+Dialogue: 0,0:02:52.44,0:02:55.70,Note,,0,15,50,,{\an9}Drama Club,\Nnew students welcome
+Dialogue: 0,0:02:52.44,0:02:55.70,Note,,15,0,190,,{\an1}...recruiting
+Dialogue: 0,0:02:52.44,0:02:55.70,Note,,15,0,130,,{\an1}club
+Dialogue: 0,0:02:52.44,0:02:55.70,Note,,0,15,190,,{\an3}Orchestr...
 Dialogue: 0,0:02:53.95,0:02:55.70,Default,,0,0,0,,Which one are you going to join?
-Dialogue: 0,0:02:55.70,0:02:59.42,Note,,0,0,60,,{\an7}Women's\NVolleyball\NClub
-Dialogue: 0,0:02:55.70,0:02:59.42,Note,,0,0,60,,{\an8}Go Club Recruiting Members!\NContact Tsutsui in 3-2
-Dialogue: 0,0:02:55.70,0:02:59.42,Note,,0,0,60,,{\an9}Men's\NVolleyball\NClub
-Dialogue: 0,0:02:55.70,0:02:59.42,Note,,0,0,160,,{\an1}Recruiting new members!\Nclub\N\NCome to the Tea Ceremony Club!
-Dialogue: 0,0:02:55.70,0:02:59.42,Note,,0,0,160,,{\an3}...recruiting
-Dialogue: 0,0:02:56.40,0:02:58.44,Default,,0,0,0,,Hmm... I dunno...
+Dialogue: 0,0:02:56.28,0:02:59.42,Note,,15,0,75,,{\an7}Women's Volleyball Club
+Dialogue: 0,0:02:56.28,0:02:59.42,Note,,0,0,0,,{\an5\pos(320,253)}Go Club Recruiting Members!\N\NContact Tsutsui in 3-2
+Dialogue: 0,0:02:56.28,0:02:59.42,Note,,0,15,75,,{\an9}Men's Volleyball Club
+Dialogue: 0,0:02:56.28,0:02:59.42,Note,,15,0,135,,{\an1}Recruiting new members!\Nclub
+Dialogue: 0,0:02:56.28,0:02:59.42,Note,,15,0,85,,{\an1}Come to the Tea Ceremony Club!
+Dialogue: 0,0:02:56.28,0:02:59.42,Note,,0,15,190,,{\an3}...recruiting
+Dialogue: 0,0:02:56.28,0:02:58.37,Default,,0,0,0,,hmm... I dunno...
 Dialogue: 0,0:02:59.75,0:03:00.83,Default,,0,0,0,,Let's put ours up here.
 Dialogue: 0,0:03:00.83,0:03:03.52,Default,,0,0,0,,Yeah, the board near the main entrance is the best.
 Dialogue: 0,0:03:03.82,0:03:04.42,Default,,0,0,0,,Yup
-Dialogue: 0,0:03:04.73,0:03:05.34,Default,,0,0,0,,What is this?
-Dialogue: 0,0:03:05.34,0:03:15.34,Note,,0,0,0,,Go club Recruiting Members!\NContact Tsutsui in 3-2
-Dialogue: 0,0:03:08.45,0:03:09.35,Default,,0,0,0,,Go club?
-Dialogue: 0,0:03:09.44,0:03:11.00,Default,,0,0,0,,Did we have something like that?
-Dialogue: 0,0:03:11.13,0:03:13.10,Default,,0,0,0,,They took up so much space!
-Dialogue: 0,0:03:13.10,0:03:14.73,Default,,0,0,0,,Take it off, take it off.
-Dialogue: 0,0:03:16.25,0:03:17.81,Default,,0,0,0,,What do you think you're doing you bastards!?
+Dialogue: 0,0:03:04.66,0:03:05.34,Default,,0,0,0,,What is this?
+Dialogue: 0,0:03:05.34,0:03:11.30,Note,,0,0,0,,{\fs25}Go Club Recruiting Members!\NContact Tsutsui in 3-2
+Dialogue: 0,0:03:08.45,0:03:09.35,Background,,0,0,0,,Go Club?
+Dialogue: 0,0:03:09.44,0:03:11.00,Background,,0,0,0,,Did we have something like that?
+Dialogue: 0,0:03:11.13,0:03:13.10,Background,,0,0,0,,They took up so much space!
+Dialogue: 0,0:03:13.10,0:03:14.73,Background,,0,0,0,,Take it off, take it off.
+Dialogue: 0,0:03:16.25,0:03:17.84,Default,,0,0,0,,What do you think you're doing you bastards?!
 Dialogue: 0,0:03:18.28,0:03:18.98,Default,,0,0,0,,What?
-Dialogue: 0,0:03:19.99,0:03:21.90,Default,,0,0,0,,What did you do to the Go club poster!
+Dialogue: 0,0:03:19.99,0:03:21.90,Default,,0,0,0,,What did you do to the Go Club Poster!
 Dialogue: 0,0:03:22.03,0:03:23.04,Default,,0,0,0,,Take this!
-Dialogue: 0,0:03:24.02,0:03:25.52,Default,,0,0,0,,Keep away!
-Dialogue: 0,0:03:25.73,0:03:28.50,Default,,0,0,0,,Stop it! Isn't that the mop for the bathroom!?
-Dialogue: 0,0:03:26.39,0:03:28.26,Background,,0,0,0,,Take this! and this! and this!
+Dialogue: 0,0:03:24.02,0:03:25.52,Default,,0,0,0,,Keep it away!
+Dialogue: 0,0:03:25.69,0:03:28.40,Default,,0,0,0,,Stop it! Isn't that the mop for the bathroom?!
+Dialogue: 0,0:03:25.77,0:03:27.65,Background,,0,0,0,,Take this! and this! and this!
 Dialogue: 0,0:03:28.91,0:03:29.71,Default,,0,0,0,,Hikaru!
 Dialogue: 0,0:03:30.48,0:03:31.28,Default,,0,0,0,,Shindou-kun!
-Dialogue: 0,0:03:32.12,0:03:33.52,Default,,0,0,0,,What happened Shindou-kun?
-Dialogue: 0,0:03:34.04,0:03:36.32,Default,,0,0,0,,These guys ripped our poster!
+Dialogue: 0,0:03:32.12,0:03:33.52,Background,,0,0,0,,What happened Shindou-kun?
+Dialogue: 0,0:03:34.04,0:03:36.32,Background,,0,0,0,,These guys ripped our poster!
 Dialogue: 0,0:03:38.52,0:03:41.13,Default,,0,0,0,,No one's gonna join your Go club.
-Dialogue: 0,0:03:38.09,0:03:46.14,Note,,0,0,0,,Men's Basketball\N...tournament\N...champion!
-Dialogue: 0,0:03:41.77,0:03:44.75,Default,,0,0,0,,And you haven't even been recognized as a club yet!
+Dialogue: 0,0:03:38.03,0:03:46.14,Note,,0,0,0,,{\pos(156,154)}Men's Basketball\N...tournament\N...champion!
+Dialogue: 0,0:03:41.77,0:03:44.75,Default,,0,0,0,,And you haven't even been\Nrecognized as a club yet!
 Dialogue: 0,0:03:44.75,0:03:46.30,Default,,0,0,0,,Don't take up space on the bulletin boards!
-Dialogue: 0,0:03:47.80,0:03:50.24,Default,,0,0,0,,With great power comes greater privilege.
+Dialogue: 0,0:03:47.80,0:03:50.24,Background,,0,0,0,,With great power comes greater privilege.
 Dialogue: 0,0:03:50.93,0:03:53.70,Default,,0,0,0,,Our basketball teams strong so it only makes sense.
 Dialogue: 0,0:03:54.22,0:03:55.01,Default,,0,0,0,,Kaga...
 Dialogue: 0,0:03:55.61,0:03:57.20,Default,,0,0,0,,Seems like the Go clubs having a tough time...
