@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
+Video Zoom Percent: 0.750000
 Scroll Position: 170
-Active Line: 177
-Video Position: 29969
+Active Line: 182
+Video Position: 31857
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -265,7 +265,7 @@ Dialogue: 0,0:20:48.44,0:20:48.56,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz27
 Dialogue: 0,0:20:48.64,0:20:48.81,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz272\bord0\pos(528,77)\b1}Come{\b0}
 Dialogue: 0,0:20:48.81,0:20:49.64,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz272\bord0\pos(528,77)\b1}Come to the Go club!{\b0}
 Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(792,0)\fscy70\fs42\pos(440,351)}The End
-Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs27.5\c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1250)\bord0\pos(290,331)}Yukari Umezawa's
+Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs27.5\blur0.8\c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1250)\bord0\pos(290,331)}Yukari Umezawa's
 Dialogue: 0,0:22:10.56,0:22:14.48,Default,,0,0,0,,Today is the last episode of Go Go Igo\Nafter running for a year and a half.
 Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&HF90000&\fad(667,667)\pos(129,244)}Yuuki
 Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&H117AF8&\fad(667,667)\pos(323,232)}Teacher Yukari
