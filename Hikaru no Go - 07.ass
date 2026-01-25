@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 07 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 27
-Active Line: 49
-Video Position: 5462
+Scroll Position: 298
+Active Line: 318
+Video Position: 35562
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -371,30 +371,37 @@ Dialogue: 0,0:20:03.91,0:20:07.23,Default,,0,0,0,,The sakura hasn't changed at a
 Dialogue: 0,0:20:09.27,0:20:10.50,Default,,0,0,0,,how peaceful...
 Dialogue: 0,0:20:33.58,0:20:35.28,Default,,0,0,0,,I'll be waiting... Touya!
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
-Dialogue: 0,0:22:12.58,0:22:15.30,Default,,0,0,0,,Let's play a game of capturing stones.
-Dialogue: 0,0:22:15.73,0:22:17.87,Default,,0,0,0,,You go first, Yuki.
-Dialogue: 0,0:22:20.30,0:22:21.40,Note,,0,0,0,,Yuki captures a stone!!
-Dialogue: 0,0:22:21.70,0:22:24.04,Note,,0,0,0,,But... Mai...
-Dialogue: 0,0:22:24.44,0:22:25.27,Default,,0,0,0,,I don't have a move!
-Dialogue: 0,0:22:25.41,0:22:27.72,Default,,0,0,0,,You're right... That is a problem.
-Dialogue: 0,0:22:28.71,0:22:29.99,Default,,0,0,0,,And Yuki?
-Dialogue: 0,0:22:29.41,0:22:31.74,Note,,0,0,0,,Yuki is... also unable to make a move.
-Dialogue: 0,0:22:31.84,0:22:32.59,Default,,0,0,0,,I can't move anywhere.
-Dialogue: 0,0:22:32.83,0:22:34.31,Default,,0,0,0,,You can't, can you?
-Dialogue: 0,0:22:35.68,0:22:38.29,Default,,0,0,0,,When both players have created areas...
-Dialogue: 0,0:22:38.42,0:22:41.98,Default,,0,0,0,,where neither can capture stones or be captured,
-Dialogue: 0,0:22:42.45,0:22:44.21,Default,,0,0,0,,we call these areas "territory".
-Dialogue: 0,0:22:44.52,0:22:48.68,Default,,0,0,0,,In a real game of Go, the size of the territory determines which player wins.
-Dialogue: 0,0:22:49.31,0:22:51.28,Default,,0,0,0,,The size of Black's territory,
-Dialogue: 0,0:22:51.50,0:22:53.08,Default,,0,0,0,,the size of White's territory,
-Dialogue: 0,0:22:53.08,0:22:56.05,Default,,0,0,0,,and the number of capture stones are very important.
-Dialogue: 0,0:22:55.15,0:22:57.37,Note,,0,0,0,,We'll continue next week
-Dialogue: 0,0:22:58.06,0:23:00.27,Default,,0,0,0,,That guy's replaying games alone.
-Dialogue: 0,0:23:00.43,0:23:03.00,Default,,0,0,0,,I guess it's a waste of his time to play against us.
-Dialogue: 0,0:23:03.08,0:23:07.08,Default,,0,0,0,,After all he is the son of Touya Meijin, the holder of 4 titles.
-Dialogue: 0,0:23:07.34,0:23:09.66,Default,,0,0,0,,What are you plotting?
-Dialogue: 0,0:23:10.03,0:23:12.38,Default,,0,0,0,,A way to win against Touya Akira.
-Dialogue: 0,0:23:22.76,0:23:26.84,Default,,0,0,0,,Anyways... no matter what we do... we'll win against Touya Akira...
+Dialogue: 0,0:22:12.58,0:22:15.30,Default,,0,0,0,,{\an8}Well, let's try the stone\Ncapturing game from here today.
+Dialogue: 0,0:22:12.64,0:22:14.69,Note,,0,0,0,,{\pos(321,298)}How to decide win loss at Go.
+Dialogue: 0,0:22:15.69,0:22:18.01,Default,,0,0,0,,{\an8}Yuuki-kun, why don't we start\Nwith you? Start from here...
+Dialogue: 0,0:22:15.76,0:22:18.05,Note,,0,0,0,,{\pos(216,353)}Yuuki
+Dialogue: 0,0:22:15.76,0:22:18.05,Note,,0,0,0,,{\pos(320,295)}Teacher Yukari
+Dialogue: 0,0:22:15.76,0:22:18.05,Note,,0,0,0,,{\pos(431,353)}Mai
+Dialogue: 0,0:22:20.26,0:22:21.40,Note,,0,0,20,,{\an2}Yuuki-kun gets a stone!
+Dialogue: 0,0:22:21.55,0:22:23.72,Note,,0,0,20,,{\an2}But... Mai is...
+Dialogue: 0,0:22:24.40,0:22:25.15,Default,,0,0,0,,{\an8}I can't move!
+Dialogue: 0,0:22:25.27,0:22:27.69,Default,,0,0,0,,{\an8}You can't move, how inconvenient.
+Dialogue: 0,0:22:28.72,0:22:30.06,Default,,0,0,0,,{\an8}How about you Yuuki-kun?
+Dialogue: 0,0:22:29.27,0:22:31.74,Note,,0,0,20,,{\an2}Yuuki can't find a place to play either.
+Dialogue: 0,0:22:31.88,0:22:32.63,Default,,0,0,0,,{\an8}I can't move!
+Dialogue: 0,0:22:32.86,0:22:34.36,Default,,0,0,0,,{\an8}You can't move right?
+Dialogue: 0,0:22:35.71,0:22:41.97,Default,,0,0,0,,{\an8}Making situations like this where neither side\Ncan take a stone is actually really important.
+Dialogue: 0,0:22:37.70,0:22:41.84,Note,,0,0,20,,{\an2}It's important to create situations\Nwhere neither side can take a stone.
+Dialogue: 0,0:22:42.49,0:22:44.21,Default,,0,0,0,,{\an8}These spaces are called Ji
+Dialogue: 0,0:22:44.57,0:22:48.63,Default,,0,0,0,,{\an8}Deciding win loss depending on the size of\Nyour territory is what Igo is really about.
+Dialogue: 0,0:22:42.49,0:22:44.21,Note,,0,0,20,,{\an2}Ji = Jinchi
+Dialogue: 0,0:22:44.57,0:22:48.63,Note,,0,0,20,,{\an2}Deciding upon win loss based on the size of the territory is Igo.
+Dialogue: 0,0:22:42.49,0:22:48.63,Note,,0,0,0,,{\an5}[note: Ji is the term usually used in Go for\Nterritory. Jinchi is Japanese for territory]
+Dialogue: 0,0:22:49.29,0:22:50.76,Default,,0,0,0,,{\an8}In this case, here are black's territories...
+Dialogue: 0,0:22:51.48,0:22:52.56,Default,,0,0,0,,{\an8}and here are white's territories.
+Dialogue: 0,0:22:53.05,0:22:56.05,Default,,0,0,0,,{\an8}And captured stones play an important role too.
+Dialogue: 0,0:22:54.80,0:22:57.37,Note,,0,0,20,,{\an2}To be continued next week!!
+Dialogue: 0,0:22:58.06,0:23:00.27,Background,,0,0,0,,That guy's replaying games alone...
+Dialogue: 0,0:23:00.43,0:23:03.00,Background,,0,0,0,,I guess playing us is useless for him.
+Dialogue: 0,0:23:03.08,0:23:07.08,Background,,0,0,0,,After all he is the son of\NTouya-meijin, the holder of 4 titles.
+Dialogue: 0,0:23:07.34,0:23:09.66,Background,,0,0,0,,Hey, what are you thinking about?
+Dialogue: 0,0:23:10.03,0:23:12.38,Background,,0,0,0,,How to win against Touya Akira...
+Dialogue: 0,0:23:22.76,0:23:26.93,Background,,0,0,0,,No matter what I have to do,\NI will defeat Touya Akira.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
