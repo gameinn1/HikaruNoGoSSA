@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 268
-Active Line: 287
-Video Position: 29577
+Active Line: 289
+Video Position: 32096
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -372,6 +372,7 @@ Dialogue: 0,0:20:03.91,0:20:07.23,Sai,,0,0,0,,The sakura hasn't changed at\Nall 
 Dialogue: 0,0:20:09.27,0:20:10.50,Sai,,0,0,0,,how peaceful...
 Dialogue: 0,0:20:33.58,0:20:35.28,Thinking,,0,0,0,,I'll be waiting... Touya!
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.58,0:22:15.30,Default,,0,0,0,,{\an8}Well, let's try the stone\Ncapturing game from here today.
 Dialogue: 0,0:22:12.64,0:22:14.69,Note,,0,0,0,,{\pos(321,298)}How to decide win loss at Go.
 Dialogue: 0,0:22:15.69,0:22:18.01,Default,,0,0,0,,{\an8}Yuuki-kun, why don't we start\Nwith you? Start from here...
