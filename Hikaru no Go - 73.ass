@@ -12,13 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
+Audio File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
+Video File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Active Line: 12
-Video Position: 3887
+Video Zoom Percent: 0.750000
+Scroll Position: 105
+Active Line: 115
+Video Position: 16995
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -197,6 +198,7 @@ Dialogue: 0,0:10:55.38,0:10:57.30,Default,,0,0,0,,Hikaru you're such a tease.
 Dialogue: 0,0:11:18.66,0:11:19.87,Background,,0,0,0,,Have a safe trip.
 Dialogue: 0,0:11:21.54,0:11:22.33,Default,,0,0,0,,I'll be going.
 Dialogue: 0,0:11:36.76,0:11:37.59,Default,,0,0,0,,I'll be going now.
+Dialogue: 0,0:11:47.69,0:11:52.57,NoteArial,,0,0,0,,{\fs80\q2\fscy70\bord1\shad2\1c&H354B46&\move(612,75,100,75)}Japanese Go Institute
 Dialogue: 0,0:11:54.82,0:11:57.32,Default,,0,0,0,,You've got a big match today, Saeki-san.
 Dialogue: 0,0:11:57.74,0:12:02.16,Default,,0,0,0,,Yeah... Ashiwara, who studies\Nunder Touya, is my opponent.
 Dialogue: 0,0:12:02.87,0:12:06.71,Default,,0,0,0,,I'm sure Master Morishita will be\Nfurious if you lose this game...
