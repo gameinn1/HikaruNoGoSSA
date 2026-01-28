@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 07 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 268
-Active Line: 289
-Video Position: 32096
+Scroll Position: 283
+Active Line: 291
+Video Position: 32196
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -374,7 +374,7 @@ Dialogue: 0,0:20:33.58,0:20:35.28,Thinking,,0,0,0,,I'll be waiting... Touya!
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.58,0:22:15.30,Default,,0,0,0,,{\an8}Well, let's try the stone\Ncapturing game from here today.
-Dialogue: 0,0:22:12.64,0:22:14.69,Note,,0,0,0,,{\pos(321,298)}How to decide win loss at Go.
+Dialogue: 0,0:22:12.64,0:22:14.69,Note,,0,0,160,,{\an2)}How to decide win loss at Go.
 Dialogue: 0,0:22:15.69,0:22:18.01,Default,,0,0,0,,{\an8}Yuuki-kun, why don't we start\Nwith you? Start from here...
 Dialogue: 0,0:22:15.76,0:22:18.05,Note,,0,0,0,,{\pos(216,353)}Yuuki
 Dialogue: 0,0:22:15.76,0:22:18.05,Note,,0,0,0,,{\pos(320,295)}Teacher Yukari
