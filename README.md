@@ -50,7 +50,7 @@ I wanted to get the actual subs complete and I am happy to say that the main sub
 
 I did pretty well in recreating episode 1. Everything is there with all the quirks of early E-F subs. From episode 2 onwards, I have considered changing the titles to the later versions that R-F did as it looks far better. I just decided to do Episode 1 exactly the same style as E-F had done as a homage.
 
-The subbing for the ending Igo sections is not what what E-F/R-F had so they also have to get resubbed. I want to make it clear that all ending Igo is now done but just non E-F/R-F versions for the majority. Anything I did with a full green tick is E-F/R-F Igo.
+The subbing for the ending Igo sections is not what what E-F/R-F had so they also have to get resubbed. I want to make it clear that all ending Igo is now done but just non E-F/R-F versions for the majority. Anything I did with a full green (or blue tick) tick is E-F/R-F Igo.
 
 As one person I'm really struggling to go back through all the remaining episodes. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
