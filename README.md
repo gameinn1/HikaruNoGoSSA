@@ -39,22 +39,20 @@
   </tr>
 </table>
 
-
-
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
 
-This is an update to the project started by gabest11. See table below for overall progress. The fonts are in fonts-v8.zip (compiled via fonts collector) as this has everything needed and made once 75/76 was complete. Once extracted, right click and install them. I've put up a full changelog and what still needs to be done pdfs (easier to read).
+This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-v8.zip (compiled via fonts collector) as this has everything needed and made once 75/76 was complete. Once extracted, right click and install them.
 
 ## Intro/Progress
-I restarted this project in late December 2025 after it was laid dormant by gabest11 (they stopped around episode 60). Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done but... there is some small problems. Most of the time they did not assign styling and there is generally some small differences between E-F/R-F/timing can be slightly off. This all needs relooked at.
+I restarted this project in late December 2025 after it was laid dormant by gabest11 (they stopped around episode 60). Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done but there are some small problems. Most of the time they did not assign styles and there are very small differences to E-F/R-F in timing and punctuation, so this needs relooked at. I am pretty sure gabest11 took existing subs very similar to E-F/R-F and then put the openings and endings in with some notes.
 
-I did pretty well in recreating episode 1. Everything is there with all the quirks of early E-F subs. From episode 2 onwards, I have considered changing the titles to the more modern versions that R-F did as it looks far better. I just decided to do Episode 1 exactly the same style as E-F had done as a sort of tribute.
+I wanted to get the actual subs complete and I am happy to say that the main subs for 61 to 75 are now done with full styling! After that I decided to go back to the start.
 
-The subbing for the ending Igo sections is not what what E-F/R-F did so they also have to get properly resubbed as I make my way through. I also properly subbed 75 Igo so I atleast had done the start and end of Igo... just not the inbetween. I want to make it clear that all ending Igo is technically now done but just non E-F/R-F versions for the majority.
+I did pretty well in recreating episode 1. Everything is there with all the quirks of early E-F subs. From episode 2 onwards, I have considered changing the titles to the later versions that R-F did as it looks far better. I just decided to do Episode 1 exactly the same style as E-F had done as a homage.
 
-I am pretty sure gabest11 just took existing subs (similar to E-F/R-F for the main body) and transplanted them in and then added the opening and ending sections. The problem here is you get no styling and the timing at points isn't the best. I don't want to sound ungrateful to gabest11. The work they did in subbing the intro and endings is remarkable that this can somewhat be attempted.
+The subbing for the ending Igo sections is not what what E-F/R-F had so they also have to get resubbed. I want to make it clear that all ending Igo is now done but just non E-F/R-F versions for the majority. Anything I did with a full green tick is E-F/R-F Igo.
 
-What I am happy about is episodes 62 to 75 since I was in control from the start. Every line is identical to R-F and timing is almost perfect. I was frame advancing most of the time. The problem now? As one person I'm really struggling to do 75 episodes. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
+As one person I'm really struggling to go back through all the remaining episodes. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
 1: Perfectly recreated the "Music is my Thing" karaoke ending that gabest11 did not get around to (starts episode 64). That was one of the last big hurdles for anyone wanting to actually properly restore the subs.
 
@@ -64,23 +62,23 @@ What I am happy about is episodes 62 to 75 since I was in control from the start
 
 4: Intro and ending karaoke for the special as well as the intro text.
 
-It's funny because even with the subs in this state, it's still the best subs for this anime. Why? At the bare minimum you get the subs already available elsewhere with a somewhat complete ending Igo, but you also get the added opening and ending karaoke parts from start to finish for every episode.
+It's funny because even with the subs in this state, it's by far the best subs for this anime. At the bare minimum you get the subs already available elsewhere with a complete ending Igo, but you also get the added opening and ending karaoke parts from start to finish for every episode.
 
 As I type it's January 2nd 2026. Having to go retime and style 3-61 plus properly sub the Igo sections is a big task. I'm glad I put enough effort in to have this in a state where it's basically just a time investment now.
 
-If anyone ever sees this and has a passion to properly finish, I'd like to see it done. You can reach me on Discord at gameinn1 or make an Issues post. If you need it visualized of what work needs to be done, below is a table.
+If anyone ever sees this and has a passion to properly finish, I'd like to see it done. If you think you can help, you can reach me at gameinn1 on Discord or make an Issue in the tab. If you need it visualized of what work needs to be done, below is a table. I've also put up a full changelog pdf and an indepth "everything yet to do" pdf (easier to read).
 
 Update: January 4th 2026. I've decided to restore the AonE subs for the New Year Special (Episode 76). This will be uploaded to give more eyes on the project. It's over an hour and I have to start from scratch so probably a week or so. The current DVD/Blu-Ray subs are bad (mainly timing wise) and needs done.
 
 Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully subbed! As for the main episodes, I may consider doing an episode per week (starting from 3) but for now I am looking at getting the special uploaded to get more eyes on the project.
 
+Update: January 28th. Special is uploaded and I have done up till episode 8. I honestly don't know if I will do more now but definitely need a break.
+
 ### Status Legend
 - ✅ Complete
-- ✔️ Non E-F/R-F Igo
-- ⏳ WIP
+- ✔️ To be checked/Non E-F or R-F Igo
 - ☑️ Subbed but no signs
 - ❗ No subtitles exist
-- ❌ Still to do
   
 | Episode | Subbed | Timed/Styled | Ending Igo |
 |:------:|:------:|:-------:|:---------:|
@@ -92,58 +90,58 @@ Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully
 | 6  | ✅ | ✅ | ✅ |
 | 7  | ✅ | ✅ | ✅ |
 | 8  | ✅ | ✅ | ✅ |
-| 9  | ✅ | ❌ | ✔️ |
-| 10 | ✅ | ❌ | ✔️ |
-| 11 | ✅ | ❌ | ✔️ |
-| 12 | ✅ | ❌ | ✔️ |
-| 13 | ✅ | ❌ | ✔️ |
-| 14 | ✅ | ❌ | ✔️ |
-| 15 | ✅ | ❌ | ✔️ |
-| 16 | ✅ | ❌ | ✔️ |
-| 17 | ✅ | ❌ | ✔️ |
-| 18 | ✅ | ❌ | ✔️ |
-| 19 | ✅ | ❌ | ✔️ |
-| 20 | ✅ | ❌ | ✔️ |
-| 21 | ✅ | ❌ | ✔️ |
-| 22 | ✅ | ❌ | ✔️ |
-| 23 | ✅ | ❌ | ✔️ |
-| 24 | ✅ | ❌ | ✔️ |
-| 25 | ✅ | ❌ | ✔️ |
-| 26 | ✅ | ❌ | ✔️ |
-| 27 | ✅ | ❌ | ✔️ |
-| 28 | ✅ | ❌ | ✔️ |
-| 29 | ✅ | ❌ | ✔️ |
-| 30 | ✅ | ❌ | ✔️ |
-| 31 | ✅ | ❌ | ✔️ |
-| 32 | ✅ | ❌ | ✔️ |
-| 33 | ✅ | ❌ | ✔️ |
-| 34 | ✅ | ❌ | ✔️ |
-| 35 | ✅ | ❌ | ✔️ |
-| 36 | ✅ | ❌ | ✔️ |
-| 37 | ✅ | ❌ | ✔️ |
-| 38 | ✅ | ❌ | ✔️ |
-| 39 | ✅ | ❌ | ✔️ |
-| 40 | ✅ | ❌ | ✔️ |
-| 41 | ✅ | ❌ | ✔️ |
-| 42 | ✅ | ❌ | ✔️ |
-| 43 | ✅ | ❌ | ✔️ |
-| 44 | ✅ | ❌ | ✔️ |
-| 45 | ✅ | ❌ | ✔️ |
-| 46 | ✅ | ❌ | ✔️ |
-| 47 | ✅ | ❌ | ✔️ |
-| 48 | ✅ | ❌ | ✔️ |
-| 49 | ✅ | ❌ | ✔️ |
-| 50 | ✅ | ❌ | ✔️ |
-| 51 | ✅ | ❌ | ✔️ |
-| 52 | ✅ | ❌ | ✔️ |
-| 53 | ✅ | ❌ | ✔️ |
-| 54 | ✅ | ❌ | ✔️ |
-| 55 | ✅ | ❌ | ✔️ |
-| 56 | ✅ | ❌ | ✔️ |
-| 57 | ✅ | ❌ | ✔️ |
-| 58 | ✅ | ❌ | ✔️ |
-| 59 | ✅ | ❌ | ✔️ |
-| 60 | ✅ | ❌ | ✔️ |
+| 9  | ✅ | ✔️ | ✔️ |
+| 10 | ✅ | ✔️ | ✔️ |
+| 11 | ✅ | ✔️ | ✔️ |
+| 12 | ✅ | ✔️ | ✔️ |
+| 13 | ✅ | ✔️ | ✔️ |
+| 14 | ✅ | ✔️ | ✔️ |
+| 15 | ✅ | ✔️ | ✔️ |
+| 16 | ✅ | ✔️ | ✔️ |
+| 17 | ✅ | ✔️ | ✔️ |
+| 18 | ✅ | ✔️ | ✔️ |
+| 19 | ✅ | ✔️ | ✔️ |
+| 20 | ✅ | ✔️ | ✔️ |
+| 21 | ✅ | ✔️ | ✔️ |
+| 22 | ✅ | ✔️ | ✔️ |
+| 23 | ✅ | ✔️ | ✔️ |
+| 24 | ✅ | ✔️ | ✔️ |
+| 25 | ✅ | ✔️ | ✔️ |
+| 26 | ✅ | ✔️ | ✔️ |
+| 27 | ✅ | ✔️ | ✔️ |
+| 28 | ✅ | ✔️ | ✔️ |
+| 29 | ✅ | ✔️ | ✔️ |
+| 30 | ✅ | ✔️ | ✔️ |
+| 31 | ✅ | ✔️ | ✔️ |
+| 32 | ✅ | ✔️ | ✔️ |
+| 33 | ✅ | ✔️ | ✔️ |
+| 34 | ✅ | ✔️ | ✔️ |
+| 35 | ✅ | ✔️ | ✔️ |
+| 36 | ✅ | ✔️ | ✔️ |
+| 37 | ✅ | ✔️ | ✔️ |
+| 38 | ✅ | ✔️ | ✔️ |
+| 39 | ✅ | ✔️ | ✔️ |
+| 40 | ✅ | ✔️ | ✔️ |
+| 41 | ✅ | ✔️ | ✔️ |
+| 42 | ✅ | ✔️ | ✔️ |
+| 43 | ✅ | ✔️ | ✔️ |
+| 44 | ✅ | ✔️ | ✔️ |
+| 45 | ✅ | ✔️ | ✔️ |
+| 46 | ✅ | ✔️ | ✔️ |
+| 47 | ✅ | ✔️ | ✔️ |
+| 48 | ✅ | ✔️ | ✔️ |
+| 49 | ✅ | ✔️ | ✔️ |
+| 50 | ✅ | ✔️ | ✔️ |
+| 51 | ✅ | ✔️ | ✔️ |
+| 52 | ✅ | ✔️ | ✔️ |
+| 53 | ✅ | ✔️ | ✔️ |
+| 54 | ✅ | ✔️ | ✔️ |
+| 55 | ✅ | ✔️ | ✔️ |
+| 56 | ✅ | ✔️ | ✔️ |
+| 57 | ✅ | ✔️ | ✔️ |
+| 58 | ✅ | ✔️ | ✔️ |
+| 59 | ✅ | ✔️ | ✔️ |
+| 60 | ✅ | ✔️ | ✔️ |
 | 61 | ✅ | ✅ | ✅ |
 | 62 | ✅ | ✅ | ❗ |
 | 63 | ✅ | ✅ | ✅ |
