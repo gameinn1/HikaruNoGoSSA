@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 65 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 9
-Video Position: 3085
+Scroll Position: 145
+Active Line: 169
+Video Position: 16146
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -201,6 +202,7 @@ Dialogue: 0,0:08:26.98,0:08:29.94,Background,,0,0,0,,He really showed me how str
 Dialogue: 0,0:08:30.44,0:08:31.49,Background,,0,0,0,,I'm not surprised.
 Dialogue: 0,0:08:32.24,0:08:33.45,Default,,0,0,0,,Isumi, haven't you heard?
 Dialogue: 0,0:08:34.08,0:08:37.00,Default,,0,0,0,,All the pros here were chosen out of the pros.
+Dialogue: 0,0:08:37.12,0:08:41.13,NoteArial_Igo,,0,0,10,,{\fs20\1c&H6FE6D7&\shad1\3c&H24696C&\fad(0,501)}'Zhong Guo Go Institute'
 Dialogue: 0,0:08:37.87,0:08:43.25,Background,,0,0,0,,China has pro players in every Sheng...\Nin Japanese that means "prefecture".
 Dialogue: 0,0:08:43.88,0:08:46.71,Background,,0,0,0,,Anyone that is thought to have potential out of all of them,
 Dialogue: 0,0:08:47.05,0:08:49.97,Background,,0,0,0,,is gathered here in Bei'jing to get daily training.
@@ -250,6 +252,7 @@ Dialogue: 0,0:10:52.13,0:10:53.84,Default,,0,0,0,,So, Isumi. What are you going 
 Dialogue: 0,0:10:55.13,0:10:56.71,Thinking,,0,0,0,,I didn't expect this, but...
 Dialogue: 0,0:10:57.84,0:10:59.47,Thinking,,0,0,0,,It might be a good opportunity!
 Dialogue: 0,0:11:01.30,0:11:03.64,Default,,0,0,0,,Okay! Thank you for letting me stay here.
+Dialogue: 0,0:11:07.65,0:11:12.07,NoteArial_Igo,,0,0,10,,{\fs20\1c&H6FE6D7&\shad1\3c&H24696C&\fad(0,501)}'Zhong Guo Go Institute'
 Dialogue: 0,0:11:08.85,0:11:10.39,Background,,0,0,0,,How much do you know about this place?
 Dialogue: 0,0:11:11.56,0:11:13.23,Background,,0,0,0,,It's a place where all the best pros gather.
 Dialogue: 0,0:11:13.61,0:11:15.19,Background,,0,0,0,,But it is a very strict place.
