@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 26
-Active Line: 37
-Video Position: 5345
+Scroll Position: 319
+Active Line: 341
+Video Position: 35439
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -399,22 +399,33 @@ Dialogue: 0,0:20:20.49,0:20:23.20,Default,,0,0,0,,It's not ego or selfishness!
 Dialogue: 0,0:20:24.24,0:20:27.25,Default,,0,0,0,,I'm the only one who can play him evenly!
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:16.65,0:22:19.85,Default,,0,0,0,,Today, we're visiting Hoya Middle School.
-Dialogue: 0,0:22:23.07,0:22:25.07,Default,,0,0,0,,Sensei and I were overwhelmed at first...
-Dialogue: 0,0:22:25.29,0:22:28.89,Default,,0,0,0,,by the Go club's warm reception.
-Dialogue: 0,0:22:29.70,0:22:33.38,Default,,0,0,0,,Once the games began, however everyone was all business.
-Dialogue: 0,0:22:34.60,0:22:37.11,Default,,0,0,0,,I tried playing some games,
-Dialogue: 0,0:22:37.41,0:22:38.95,Default,,0,0,0,,but I was no match for them.
-Dialogue: 0,0:22:39.77,0:22:41.64,Default,,0,0,0,,I need to practice more!
-Dialogue: 0,0:22:42.79,0:22:46.07,Default,,0,0,0,,Yukari Sensei played five people at the same time.
-Dialogue: 0,0:22:47.27,0:22:49.28,Default,,0,0,0,,Yukari Sensei is awesome.
-Dialogue: 0,0:22:50.94,0:22:53.23,Default,,0,0,0,,Thank you very much, Yukari Sensei!
+Dialogue: 0,0:22:14.59,0:22:15.59,NoteArialEF,,0,0,0,,{\fnTimes New Roman\fs32.5\bord2\1c&HFFFFFF&\pos(320,285)}West Tokyo Private, Hoya Junior High School
+Dialogue: 0,0:22:16.65,0:22:20.31,Default,,0,0,0,,Today we have come to Hoya Junior\NHigh School of West Tokyo for fun.
+Dialogue: 0,0:22:17.14,0:22:19.45,Note,,0,0,0,,{\fs27.5\pos(197,354)}Teacher Yukari
+Dialogue: 0,0:22:17.14,0:22:19.45,Note,,0,0,0,,{\fs27.5\pos(445,354)}Mai
+Dialogue: 0,0:22:20.46,0:22:22.60,Note,,0,0,0,,{\fs27.5\pos(490,338)}Teacher Umezawa Yukari
+Dialogue: 0,0:22:20.48,0:22:22.03,Default,,0,0,0,,Please give her a big welcome!
+Dialogue: 0,0:22:23.07,0:22:28.99,Background,,0,0,0,,Both I and teacher Yukari were overwhelemd by the\Nwelcome we received from everyone in the Go club.
+Dialogue: 0,0:22:23.33,0:22:24.94,Note,,0,0,0,,{\fs27.5\pos(323,347)}Everyone in the Go club
+Dialogue: 0,0:22:24.99,0:22:34.46,Note,,0,0,0,,{\fs27.5\q2\move(1534,355,-890,355)}Formed in April 2001, 33 Members. *4th place in the Eastern Beginners Tournament Goal: To Enter the City tournament, and to enter the Eastern Champion Matches.
+Dialogue: 0,0:22:29.69,0:22:33.58,Background,,0,0,0,,But once the matches begin, everyone was serious.
+Dialogue: 0,0:22:34.58,0:22:38.97,Background,,0,0,0,,I played a game while I was\Nthere, but I didn't stand a chance.
+Dialogue: 0,0:22:34.38,0:22:36.43,Note,,0,0,0,,{\fs26.5\pos(320,350)}Mai challenges a female student!
+Dialogue: 0,0:22:38.42,0:22:41.22,Note,,0,0,0,,{\fs24.5\pos(322,358)}but lost miserably~~
+Dialogue: 0,0:22:39.77,0:22:41.69,Background,,0,0,0,,I still need a lot of practice.
+Dialogue: 0,0:22:42.12,0:22:46.62,Note,,0,0,0,,{\fs27.5\move(905,337,-285,337)}Teacher Yukari played 5 people simultaneously!!
+Dialogue: 0,0:22:42.79,0:22:46.07,Background,,0,0,0,,Teacher Yukari played 5 people simultaneously.
+Dialogue: 0,0:22:47.27,0:22:49.61,Background,,0,0,0,,Teacher Yukari is incredible!
+Dialogue: 0,0:22:50.94,0:22:53.23,Default,,0,0,0,,Teacher Yukari, Thank you very much.
+Dialogue: 0,0:22:51.15,0:22:52.95,Note,,0,0,0,,{\fs27.5\pos(336,242)}Club President
+Dialogue: 0,0:22:53.66,0:22:56.58,Default,,0,0,0,,Thank you very much!
 Dialogue: 0,0:22:59.08,0:23:01.61,Default,,0,0,0,,Go club huh? Not too exciting...
 Dialogue: 0,0:23:02.28,0:23:05.12,Default,,0,0,0,,Hey, umm, there's a tournament soon.
-Dialogue: 0,0:23:05.41,0:23:07.12,Default,,0,0,0,,A Go tournament, for Junion High Schools.
-Dialogue: 0,0:23:07.79,0:23:09.80,Default,,0,0,0,,This child has quite a bit of potential.
-Dialogue: 0,0:23:10.34,0:23:12.10,Default,,0,0,0,,He makes honest and good moves.
-Dialogue: 0,0:23:23.06,0:23:26.21,Default,,0,0,0,,He's cheating at seichi!
+Dialogue: 0,0:23:05.41,0:23:07.20,Default,,0,0,0,,A Go tournament, for Junior High Schools.
+Dialogue: 0,0:23:07.79,0:23:09.80,Sai,,0,0,0,,This child has quite a bit of potential.
+Dialogue: 0,0:23:10.34,0:23:12.10,Sai,,0,0,0,,He makes honest and good moves.
+Dialogue: 0,0:23:23.01,0:23:26.26,Sai,,0,0,0,,Hikaru! That child is cheating in the Seichi!
+Dialogue: 0,0:23:23.01,0:23:26.26,Note,,0,0,10,,[Translators note: Seichi to be explained in next episode]
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
