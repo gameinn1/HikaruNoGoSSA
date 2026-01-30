@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 217
-Active Line: 245
-Video Position: 34823
+Active Line: 223
+Video Position: 32127
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -308,6 +308,7 @@ Dialogue: 0,0:20:08.89,0:20:09.49,Default,,0,0,0,,Here.
 Dialogue: 0,0:20:12.70,0:20:19.30,Background,,0,0,0,,Anyways... no matter what we do...\Nwe'll win against Touya Akira...
 Dialogue: 0,0:20:22.48,0:20:26.48,Background,,0,0,0,,We'll shatter his pride...
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.77,0:22:14.99,NoteArialEF,,0,0,165,,{\an2}How to decide win loss at Go.
 Dialogue: 0,0:22:12.77,0:22:14.99,NoteArialEF,,200,0,0,,{\an2}Continued from last week.
 Dialogue: 0,0:22:12.99,0:22:15.54,Default,,0,0,0,,{\an8}Then let's count to see whose territory is larger.
