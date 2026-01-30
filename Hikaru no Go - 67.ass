@@ -12,13 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 67 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 67 (BD 1440x1080 x.264 Flac).mkv
+Audio File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 67 (BD 1440x1080 x.264 Flac).mkv
+Video File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 67 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Active Line: 10
-Video Position: 3450
+Video Zoom Percent: 0.750000
+Scroll Position: 116
+Active Line: 121
+Video Position: 13786
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -203,6 +204,7 @@ Dialogue: 0,0:09:16.53,0:09:17.56,Default,,0,0,0,,Let's go, Zhao Shi!
 Dialogue: 0,0:09:19.74,0:09:20.41,Default,,0,0,0,,Le Ping!
 Dialogue: 0,0:09:21.91,0:09:24.71,Default,,0,0,0,,We'll have the match in a week. Don't forget.
 Dialogue: 0,0:09:25.80,0:09:26.80,Default,,0,0,0,,Whatever.
+Dialogue: 0,0:09:34.18,0:09:36.39,NoteArial,,0,0,0,,{\fs16\fscy110\1c&H516163&\bord0\frz346\pos(332,188)}Japanese Go Institute
 Dialogue: 0,0:09:43.20,0:09:44.04,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:09:50.35,0:09:51.18,Default,,0,0,0,,Shindou?
 Dialogue: 0,0:09:55.89,0:09:56.72,Thinking,,0,0,0,,Nase!
