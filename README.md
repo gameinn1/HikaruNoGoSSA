@@ -90,7 +90,7 @@ Update: January 28th. Special is uploaded and I am working my way through gabest
 | 6  | ✅ | ✅ | ✅ |
 | 7  | ✅ | ✅ | ✅ |
 | 8  | ✅ | ✅ | ✅ |
-| 9  | ✅ | ✅ | ✔️ |
+| 9  | ✅ | ✅ | ✅ |
 | 10 | ✅ | ✔️ | ✔️ |
 | 11 | ✅ | ✔️ | ✔️ |
 | 12 | ✅ | ✔️ | ✔️ |
