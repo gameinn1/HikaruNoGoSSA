@@ -72,7 +72,7 @@ Update: January 4th 2026. I've decided to restore the AonE subs for the New Year
 
 Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully subbed! As for the main episodes, I may consider doing an episode per week (starting from 3) but for now I am looking at getting the special uploaded to get more eyes on the project.
 
-Update: January 28th. Special is uploaded and I am working my way through gabest11 episodes now. I have done up till episode 8. Going to take a break.
+Update: January 28th. Special is uploaded and I am working my way through gabest11 episodes now. I have done up till episode 10. Going to take a break.
 
 ### Status Legend
 - ✅ Complete
@@ -91,7 +91,7 @@ Update: January 28th. Special is uploaded and I am working my way through gabest
 | 7  | ✅ | ✅ | ✅ |
 | 8  | ✅ | ✅ | ✅ |
 | 9  | ✅ | ✅ | ✅ |
-| 10 | ✅ | ✔️ | ✔️ |
+| 10 | ✅ | ✅ | ✅ |
 | 11 | ✅ | ✔️ | ✔️ |
 | 12 | ✅ | ✔️ | ✔️ |
 | 13 | ✅ | ✔️ | ✔️ |
