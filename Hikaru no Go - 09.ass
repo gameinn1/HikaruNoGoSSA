@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 319
-Active Line: 341
-Video Position: 35439
+Scroll Position: 452
+Active Line: 467
+Video Position: 34824
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -547,3 +547,8 @@ Dialogue: 0,0:21:48.58,0:21:50.37,Ed1English,,0,0,0,,That flower is fleeting!
 Dialogue: 0,0:21:50.41,0:21:54.13,Ed1English,,0,0,0,,Some day I will laugh with you!
 Dialogue: 0,0:21:54.67,0:21:58.42,Ed1English,,0,0,0,,I will surpass any obstacle!
 Dialogue: 0,0:21:58.80,0:22:03.89,Ed1English,,0,0,0,,I'm not afraid of anything any more!
+Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
+Dialogue: 0,0:01:49.09,0:01:52.09,Default,chptr,0,0,0,,{An Irritating Presence}
+Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
+Dialogue: 0,0:22:07.31,0:22:10.31,Default,chptr,0,0,0,,{Go Go Igo}
+Dialogue: 0,0:22:57.37,0:23:00.37,Default,chptr,0,0,0,,{Next Episode Preview}

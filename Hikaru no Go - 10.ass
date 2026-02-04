@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 10 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 292
-Active Line: 318
-Video Position: 35439
+Scroll Position: 426
+Active Line: 444
+Video Position: 34824
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -524,3 +524,8 @@ Dialogue: 0,0:21:48.62,0:21:50.40,Ed1English,,0,0,0,,That flower is fleeting!
 Dialogue: 0,0:21:50.44,0:21:54.15,Ed1English,,0,0,0,,Some day I will laugh with you!
 Dialogue: 0,0:21:54.69,0:21:58.44,Ed1English,,0,0,0,,I will surpass any obstacle!
 Dialogue: 0,0:21:58.82,0:22:03.92,Ed1English,,0,0,0,,I'm not afraid of anything any more!
+Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
+Dialogue: 0,0:01:57.26,0:02:00.26,Default,chptr,0,0,0,,{The Third Member}
+Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
+Dialogue: 0,0:22:07.31,0:22:10.31,Default,chptr,0,0,0,,{Go Go Igo}
+Dialogue: 0,0:22:57.37,0:23:00.37,Default,chptr,0,0,0,,{Next Episode Preview}

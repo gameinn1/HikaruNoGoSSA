@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 105
-Active Line: 115
-Video Position: 16995
+Scroll Position: 340
+Active Line: 357
+Video Position: 3888
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -439,3 +439,8 @@ Dialogue: 0,0:21:29.48,0:21:33.52,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(
 Dialogue: 0,0:21:37.36,0:21:40.82,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Feel the light
 Dialogue: 0,0:21:44.28,0:21:48.37,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I draw with black and white
 Dialogue: 0,0:21:51.92,0:21:56.59,ed64_eng,,0,0,0,ed64ed,{\fad(300,1400)\fry90\t(0,300,1,\fry0)}The unending Harmony
+Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
+Dialogue: 0,0:02:41.68,0:02:44.68,Default,chptr,0,0,0,,{Shindou vs Touya}
+Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
+Dialogue: 0,0:22:07.31,0:22:10.31,Default,chptr,0,0,0,,{Go Go Igo}
+Dialogue: 0,0:22:57.37,0:23:00.37,Default,chptr,0,0,0,,{Next Episode Preview}
