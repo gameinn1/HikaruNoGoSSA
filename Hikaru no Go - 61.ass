@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 3
-Active Line: 13
-Video Position: 3779
+Video Zoom Percent: 0.625000
+Scroll Position: 285
+Active Line: 296
+Video Position: 74
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -81,6 +81,9 @@ Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80
 Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.3,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
 Style: 61Sign,HillWilliam,42,&H00594941,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,20,1
+Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -242,6 +245,9 @@ Dialogue: 0,0:12:09.83,0:12:14.59,Background,,0,0,0,,It says the Shuusaku Memori
 Dialogue: 0,0:12:15.04,0:12:17.01,Background,,0,0,0,,Shuusaku Memorial Museum?
 Dialogue: 0,0:12:17.26,0:12:21.04,Background,,0,0,0,,Yup, yup. It's the remains of the\Nhouse Shuusaku was born in.
 Dialogue: 0,0:12:21.26,0:12:23.60,Background,,0,0,0,,Isn't that the kind of place you wanted to go to?
+Dialogue: 0,0:12:24.01,0:12:33.97,bannersign,,0,0,0,,{\blur1.2\fscx101\fscy110\an4\fs26\frz271.8\move(316,114,316,-425,16,9943)\c&H9B66DA&}THE TOP {\fscx116}GO GO{\fsp2}D OF
+Dialogue: 0,0:12:24.01,0:12:34.02,bannersign,,0,0,0,,{\blur1.2\fscy110\an4\fs26\frz271.8\fscx125\fsp2\move(328,482,327.84,-60,0,0)\c&H9B66DA&}JAPAN
+Dialogue: 0,0:12:24.01,0:12:34.02,bannersign,,0,0,0,,{\blur1.2\fscx131\fscy90\fs32\an4\frz270\move(236,459,236,-81,16,9993)\c&H60504A&}HONINBOU SHUUSAKU
 Dialogue: 0,0:12:25.31,0:12:27.18,Thinking,,0,0,0,,A Memorial Museum...
 Dialogue: 0,0:12:27.54,0:12:30.02,Thinking,,0,0,0,,Would Sai go to a place like that?
 Dialogue: 0,0:12:30.52,0:12:34.02,Thinking,,0,0,0,,I have a feeling that he wouldn't\Nbe very comfortable there...
@@ -377,6 +383,57 @@ Dialogue: 0,0:23:07.66,0:23:08.74,Thinking,,0,0,0,,Shuusaku's...
 Dialogue: 0,0:23:09.24,0:23:10.29,Thinking,,0,0,0,,Torajirou's...
 Dialogue: 0,0:23:10.87,0:23:12.37,Thinking,,0,0,0,,grave is in Tokyo!?
 Dialogue: 0,0:23:22.71,0:23:24.26,Default,,0,0,0,,Then let's play.
+Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,238,640,244)}Real Fansubbers presents
+Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,220,640,232)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H2C00EE&\clip(0,220,640,230)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H2813EE&\clip(0,230,640,232)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H185FEF&\clip(0,238,640,240)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H1471F0&\clip(0,240,640,242)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H1084F0&\clip(0,242,640,244)}Real Fansubbers presents
+Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R 2ndbord,{\bord4\an5\move(817.42,237,357,237)\c&H000000&\3c&H000000&\clip(0,244,640,262)}Real Fansubbers presents
+Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R 2ndbord,{\bord4\an5\move(817.42,237,357,237)\c&H000000&\3c&H000000&\clip(0,232,640,238)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H2426EF&\clip(0,232,640,234)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H2039EF&\clip(0,234,640,236)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H1C4CEF&\clip(0,236,640,238)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H0C97F0&\clip(0,244,640,246)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H08AAF0&\clip(0,246,640,248)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H04BDF1&\clip(0,248,640,250)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H00D0F1&\clip(0,250,640,252)}Real Fansubbers presents
+Dialogue: 9,0:00:03.32,0:00:03.82,intro_credit,,0,0,0,white,{\alpha&HFF&\ko0\bord9\an5\pos(320,237)\4c&HFFFFFF&\4a&H00&\xshad0.001\t(30,0,\bord0\4a&FF&)}Real Fansubbers presents
+Dialogue: 0,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,2ndbord,{\bord4\an5\pos(320,237)\c&H000000&\3c&H000000&}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H2C00EE&\clip(0,220,640,230)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H2813EE&\clip(0,230,640,232)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H2426EF&\clip(0,232,640,234)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H2039EF&\clip(0,234,640,236)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H1C4CEF&\clip(0,236,640,238)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H185FEF&\clip(0,238,640,240)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H1471F0&\clip(0,240,640,242)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H1084F0&\clip(0,242,640,244)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H0C97F0&\clip(0,244,640,246)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H08AAF0&\clip(0,246,640,248)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H04BDF1&\clip(0,248,640,250)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\an5\pos(320,237)\c&H00D0F1&\clip(0,250,640,252)}Real Fansubbers presents
+Dialogue: 0,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord7\fs86\pos(320,381)\3c&H000000&\c&H000000&\1a&HFF&\t(889,934,\1a&H00&)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H00D0F1&\clip(110,337,535,341)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H02C5F1&\clip(110,341,535,345)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H05BAF1&\clip(110,345,535,349)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H07AFF1&\clip(110,349,535,353)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H09A4F0&\clip(110,353,535,357)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H0C99F0&\clip(110,357,535,361)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H0E8EF0&\clip(110,361,535,365)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H1083F0&\clip(110,365,535,369)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H1378F0&\clip(110,369,535,373)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H156DF0&\clip(110,373,535,377)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H1763EF&\clip(110,377,535,381)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H1958EF&\clip(110,381,535,385)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H1C4DEF&\clip(110,385,535,389)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H1E42EF&\clip(110,389,535,393)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H2037EF&\clip(110,393,535,397)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H232CEF&\clip(110,397,535,401)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H2521EE&\clip(110,401,535,405)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H2716EE&\clip(110,405,535,409)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H2A0BEE&\clip(110,409,535,413)}Hikaru no Go
+Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H2C00EE&\clip(110,413,535,417)}Hikaru no Go
 Dialogue: 0,0:00:08.85,0:00:12.64,Op3Kanji,,0,0,0,,胸の鼓動　熱くゆるがす
 Dialogue: 0,0:00:12.64,0:00:16.55,Op3Kanji,,0,0,0,,刺激求めて歩く My Heart
 Dialogue: 0,0:00:16.55,0:00:20.71,Op3Kanji,,0,0,0,,時間だけが過ぎる毎日じゃ
