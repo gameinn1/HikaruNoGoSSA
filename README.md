@@ -2,39 +2,27 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro%20Credits.png" width="260">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/61%20Igo%20v2.png" width="260">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Igo%201.png" width="260">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/62%20Logo.png" width="260">
-    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro%20Credits.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/61%20Igo%20v2.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Igo%201.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/62%20Title.png" width="260"></td>
   </tr>
-
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Ending.png" width="260">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%201.png" width="260">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%202.png" width="260">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/63%20Note.png" width="260">
-    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Ending.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%201.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%202.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/63%20Note.png" width="260"></td>
   </tr>
-
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/31%20Intro.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Intro.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/11%20Note.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Go%20Go%20Igo%20Intro.png" width="260"></td>
+  </tr>
+ <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Funny%20E-F.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Go%20Go%20Igo%20Intro.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/62%20Sign.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Sign.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%203.png" width="260"></td>
   </tr>
 </table>
