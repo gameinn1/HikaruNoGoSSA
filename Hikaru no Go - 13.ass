@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 13 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 54
-Active Line: 78
-Video Position: 8722
+Scroll Position: 65
+Active Line: 85
+Video Position: 10686
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -163,13 +163,13 @@ Dialogue: 0,0:05:37.35,0:05:40.57,Default,,0,0,0,,Kawahagi Junior High against\N
 Dialogue: 0,0:05:41.01,0:05:43.95,Default,,0,0,0,,Iwana Junior High against\NHaze Junior High in seat C
 Dialogue: 0,0:05:44.18,0:05:47.49,Background,,0,0,0,,Kaiou Junior High against\NSawara Junior High in seat D
 Dialogue: 0,0:06:03.75,0:06:04.87,Background,,0,0,0,,I'm black.
-Dialogue: 0,0:06:16.59,0:06:18.17,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:06:58.30,0:06:59.00,Thinking,,0,0,0,,He's fast.
-Dialogue: 0,0:07:02.36,0:07:04.31,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:07:11.33,0:07:13.66,Thinking,,0,0,0,,Look, I'm so good.
-Dialogue: 0,0:07:14.74,0:07:18.96,Thinking,,0,0,0,,Even Tsutsui-san, who dislikes me, said that I was ten times better.
-Dialogue: 0,0:07:20.56,0:07:22.96,Default,,0,0,0,,Let's make it a game suitable for the first board.
-Dialogue: 0,0:07:23.86,0:07:25.86,Thinking,,0,0,0,,Fine, we'll see.
+Dialogue: 0,0:06:16.59,0:06:18.17,Background,,0,0,0,,Good luck.
+Dialogue: 0,0:06:58.30,0:06:59.23,Thinking,,0,0,0,,He's fast.
+Dialogue: 0,0:07:02.36,0:07:04.31,Background,,0,0,0,,Oh no!
+Dialogue: 0,0:07:11.33,0:07:13.79,Thinking,,0,0,0,,{\1c&HC5FEC1&}Look, I'm so good.
+Dialogue: 0,0:07:14.74,0:07:19.21,Thinking,,0,0,0,,Even Tsutsui-san, who dislikes me,\Nsaid that I was ten times better.
+Dialogue: 0,0:07:20.56,0:07:23.26,Memory,,0,0,0,,Let's make it a game suitable for the first board.
+Dialogue: 0,0:07:23.86,0:07:25.72,Thinking,,0,0,0,,{\1c&HC5FEC1&}Fine, we'll see.
 Dialogue: 0,0:07:47.64,0:07:48.64,Default,,0,0,0,,I resign.
 Dialogue: 0,0:07:50.46,0:07:51.31,Thinking,,0,0,0,,Already!?
 Dialogue: 0,0:08:02.31,0:08:03.46,Default,,0,0,0,,I'm going to go watch Kaiou.

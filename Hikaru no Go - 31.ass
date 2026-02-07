@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 279
-Active Line: 294
-Video Position: 613
+Active Line: 5
+Video Position: 2887
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,13 +84,14 @@ Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H0000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.11,0:01:43.75,Default,,0,0,0,,This is the last Insei study session.
+Dialogue: 0,0:01:42.11,0:01:43.83,Default,,0,0,0,,This is the last Insei study session.
 Dialogue: 0,0:01:44.61,0:01:46.54,Default,,0,0,0,,The pro exams will begin as soon as we enter.
-Dialogue: 0,0:01:47.08,0:01:47.77,Default,,0,0,0,,Good luck!
-Dialogue: 0,0:01:48.08,0:01:51.00,Default,,0,0,0,,I'm looking forward to seeing you during the first match of the actual pro exam.
+Dialogue: 0,0:01:47.08,0:01:47.77,Background,,0,0,0,,Good luck!
+Dialogue: 0,0:01:48.08,0:01:51.17,Background,,0,0,0,,I'm looking forward to seeing you during\Nthe first match of the actual exam.
 Dialogue: 0,0:01:53.34,0:01:56.30,Thinking,,0,0,0,,Shindou was laughing...
-Dialogue: 0,0:01:56.82,0:01:59.79,Thinking,,0,0,0,,Does he understand that we're all rivals?
-Dialogue: 0,0:01:59.89,0:02:04.90,Title,,0,0,0,,{\fs28}Thirty-first match\N\N{\fs}The Preliminary Starts
+Dialogue: 0,0:01:56.82,0:01:59.79,Thinking,,0,0,0,,does he understand that we're all rivals?
+Dialogue: 0,0:01:59.93,0:02:04.90,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(320,115)}The Thirty First Match
+Dialogue: 0,0:01:59.93,0:02:04.90,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Preliminary Starts
 Dialogue: 0,0:02:11.38,0:02:15.42,Default,,0,0,0,,The pro exam preliminaries start today and go for five days. One match a day.
 Dialogue: 0,0:02:16.02,0:02:20.45,Default,,0,0,0,,Those with three wins get to advance to the finals a month from now right?
 Dialogue: 0,0:02:20.71,0:02:21.37,Default,,0,0,0,,Yeah.
