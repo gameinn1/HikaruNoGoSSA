@@ -86,7 +86,7 @@ Update: February 7th 2026. Timed and styled up till ep 12, doing 13 now. Thanks 
 | 10 | ✅ | ✅ | ✅ |
 | 11 | ✅ | ✅ | ✅ |
 | 12 | ✅ | ✅ | ✅ |
-| 13 | ✅ | ✔️ | ✔️ |
+| 13 | ✅ | ✅ | ✅ |
 | 14 | ✅ | ✔️ | ✔️ |
 | 15 | ✅ | ✔️ | ✔️ |
 | 16 | ✅ | ✔️ | ✔️ |
