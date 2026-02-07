@@ -16,9 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 5
-Video Position: 2887
+Video Zoom Percent: 0.625000
+Active Line: 10
+Video Position: 3368
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,8 +92,9 @@ Dialogue: 0,0:01:53.34,0:01:56.30,Thinking,,0,0,0,,Shindou was laughing...
 Dialogue: 0,0:01:56.82,0:01:59.79,Thinking,,0,0,0,,does he understand that we're all rivals?
 Dialogue: 0,0:01:59.93,0:02:04.90,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(320,115)}The Thirty First Match
 Dialogue: 0,0:01:59.93,0:02:04.90,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Preliminary Starts
-Dialogue: 0,0:02:11.38,0:02:15.42,Default,,0,0,0,,The pro exam preliminaries start today and go for five days. One match a day.
-Dialogue: 0,0:02:16.02,0:02:20.45,Default,,0,0,0,,Those with three wins get to advance to the finals a month from now right?
+Dialogue: 0,0:02:09.40,0:02:10.99,Note,,0,0,0,,{\fs20\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(530,104)}Japanese Go Institute
+Dialogue: 0,0:02:11.38,0:02:15.45,Default,,0,0,0,,The Pro exam preliminaries start today\Nand go for five days. One match a day.
+Dialogue: 0,0:02:16.02,0:02:20.45,Sai,,0,0,0,,Those with three wins get to advance\Nto the finals a month from now right?
 Dialogue: 0,0:02:20.71,0:02:21.37,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:02:22.12,0:02:26.10,Default,,0,0,0,,But, I'm just going to play Go as usual, in the place that I normally play at.
 Dialogue: 0,0:02:26.52,0:02:30.89,Default,,0,0,0,,Isumi-san, Waya, and the other top eight aren't in the preliminary, so that's good.
@@ -195,7 +196,7 @@ Dialogue: 0,0:08:10.55,0:08:21.44,Note,,0,0,0,,Byouyomi is what happens when you
 Dialogue: 0,0:08:16.15,0:08:18.35,Default,,0,0,0,,You know who's black and who's white right?
 Dialogue: 0,0:08:19.51,0:08:21.44,Thinking,,0,0,0,,It doesn't matter who my opponent is!
 Dialogue: 0,0:08:23.70,0:08:25.64,Default,,0,0,0,,Then please start!
-Dialogue: 0,0:08:27.52,0:08:28.76,Noise,,0,0,0,,Good luck.
+Dialogue: 0,0:08:27.52,0:08:28.76,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:08:28.76,0:08:29.58,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:08:33.83,0:08:34.41,Thinking,,0,0,0,,Okay.
 Dialogue: 0,0:08:40.95,0:08:41.87,Default,,0,0,0,,Excuse me for a bit.
@@ -476,3 +477,8 @@ Dialogue: 0,0:21:43.33,0:21:48.70,Ed3English,,0,0,0,,I'm not like I was before
 Dialogue: 0,0:21:48.90,0:21:54.00,Ed3English,,0,0,0,,I won't give up anymore, I'll keep on walking,
 Dialogue: 0,0:21:54.10,0:21:58.70,Ed3English,,0,0,0,,no matter what the future holds.
 Dialogue: 0,0:21:59.80,0:22:05.70,Ed3English,,0,0,0,,So that I can become stronger.
+Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
+Dialogue: 0,0:01:59.89,0:02:02.89,Default,chptr,0,0,0,,{The Preliminary Starts}
+Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
+Dialogue: 0,0:22:07.31,0:22:10.31,Default,chptr,0,0,0,,{Go Go Igo}
+Dialogue: 0,0:22:57.37,0:23:00.37,Default,chptr,0,0,0,,{Next Episode Preview}
