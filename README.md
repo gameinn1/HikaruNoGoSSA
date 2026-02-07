@@ -29,7 +29,7 @@
 
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
 
-This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-v11.zip (compiled via fonts collector) and made once 75/76 was complete. Once extracted, right click and install them.
+This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-v11.zip (compiled via fonts collector) and made after 75/76 was complete. Once extracted, right click and install them.
 
 ## Intro/Progress
 I restarted this project in late December 2025 after it was laid dormant by gabest11 (they stopped around episode 60). Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done but there are some small problems. Most of the time they did not assign styles and there are very small differences to E-F/R-F in timing and punctuation, so this needs relooked at. I am pretty sure gabest11 took existing subs very similar to E-F/R-F and then put the openings and endings in with some notes.
@@ -63,6 +63,8 @@ Update: January 4th 2026. I've decided to restore the AonE subs for the New Year
 Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully subbed! As for the main episodes, I may consider doing an episode per week (starting from 3) but for now I am looking at getting the special uploaded to get more eyes on the project.
 
 Update: January 28th 2026. Special is uploaded and I am working my way through gabest11 episodes now. I have done up till episode 10. Going to take a break.
+
+Update: February 7th 2026. Timed and styled up till ep 12, doing 13 now. Thanks to llbx who did some intro texts which have all been put on current episodes.
 
 ### Status Legend
 - ✅ Complete
