@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 13 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 74
-Active Line: 95
-Video Position: 14086
+Scroll Position: 127
+Active Line: 145
+Video Position: 20695
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -180,53 +180,56 @@ Dialogue: 0,0:09:22.57,0:09:24.21,Background,,0,0,0,,Thank you for the game.
 Dialogue: 0,0:09:25.88,0:09:29.48,Default,,0,0,0,,Did you learn anything? Mitani-kun?
 Dialogue: 0,0:09:40.40,0:09:41.35,Thinking,,0,0,0,,I see...
 Dialogue: 0,0:09:41.96,0:09:47.53,Thinking,,0,0,0,,This guy thinks that I'm a weak little freshman\Nwho's only playing first board for strategic purposes too...
-Dialogue: 0,0:09:48.27,0:09:50.20,Thinking,,0,0,0,,That handshake was just to be polite.
-Dialogue: 0,0:09:50.70,0:09:53.16,Thinking,,0,0,0,,He doesn't care about his game against me at all.
-Dialogue: 0,0:10:11.00,0:10:13.45,Default,,0,0,0,,Shindou's not doing so well in his game right now.
-Dialogue: 0,0:10:14.91,0:10:16.95,Default,,0,0,0,,Tsutsui-san, I promise you.
-Dialogue: 0,0:10:17.57,0:10:18.86,Default,,0,0,0,,I'll stop cheating for awhile.
-Dialogue: 0,0:10:19.37,0:10:21.74,Default,,0,0,0,,I want to play against Kishimoto of Kaiou.
-Dialogue: 0,0:10:22.41,0:10:24.37,Default,,0,0,0,,So don't you lose!
-Dialogue: 0,0:10:27.10,0:10:29.55,Default,,0,0,0,,Damn, I'm not doing so well.
-Dialogue: 0,0:10:29.85,0:10:31.07,Default,,0,0,0,,I've gotta do something.
-Dialogue: 0,0:10:40.63,0:10:42.90,Default,,0,0,0,,Haha, I've just about won!
-Dialogue: 0,0:10:44.02,0:10:45.04,Default,,0,0,0,,You laughed!?
-Dialogue: 0,0:10:45.84,0:10:49.17,Default,,0,0,0,,Don't laugh until the game's actually over!
-Dialogue: 0,0:10:52.84,0:10:53.74,Default,,0,0,0,,What!?
-Dialogue: 0,0:11:21.35,0:11:24.52,Default,,0,0,0,,These children, they've all changed from coming here...
-Dialogue: 0,0:11:26.11,0:11:28.87,Default,,0,0,0,,Hikaru is growing... steadily.
-Dialogue: 0,0:11:30.07,0:11:33.64,Default,,0,0,0,,But Hikaru isn't the only one who's growing...
-Dialogue: 0,0:11:37.07,0:11:38.54,Default,,0,0,0,,Touya Akira, he is as well...
-Dialogue: 0,0:12:52.88,0:12:54.88,Default,,0,0,0,,White 72 and a half moku.
-Dialogue: 0,0:12:55.72,0:12:57.53,Default,,0,0,0,,Black 56 moku.
-Dialogue: 0,0:12:58.09,0:12:58.89,Default,,0,0,0,,I won!
-Dialogue: 0,0:12:59.47,0:13:00.75,Default,,0,0,0,,By 16 and a half moku.
-Dialogue: 0,0:13:03.69,0:13:04.95,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:13:05.33,0:13:06.53,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:13:08.21,0:13:09.56,Default,,0,0,0,,Thanks for the game!
+Dialogue: 0,0:09:48.27,0:09:50.28,Thinking,,0,0,0,,That handshake was just to be polite.
+Dialogue: 0,0:09:50.69,0:09:53.61,Thinking,,0,0,0,,He doesn't care about his game against me at all.
+Dialogue: 0,0:10:11.00,0:10:13.59,Default,,0,0,0,,Shindou's not doing well in his game right now.
+Dialogue: 0,0:10:14.91,0:10:17.26,Default,,0,0,0,,Tsutsui-san, I promise you.
+Dialogue: 0,0:10:17.51,0:10:18.86,Default,,0,0,0,,I'll stop cheating for a while.
+Dialogue: 0,0:10:19.37,0:10:21.98,Default,,0,0,0,,I want to play against Kishimoto of Kaiou.
+Dialogue: 0,0:10:22.41,0:10:24.40,Default,,0,0,0,,So don't you lose!
+Dialogue: 0,0:10:27.10,0:10:29.55,Background,,0,0,0,,Damn, I'm not doing well.
+Dialogue: 0,0:10:29.85,0:10:31.28,Default,,0,0,0,,I've gotta do something!
+Dialogue: 0,0:10:40.63,0:10:42.96,Default,,0,0,0,,Haha, I've just about won!
+Dialogue: 0,0:10:44.02,0:10:45.12,Default,,0,0,0,,You laughed!?
+Dialogue: 0,0:10:45.84,0:10:49.21,Default,,0,0,0,,Don't laugh until the game's actually over!
+Dialogue: 0,0:10:52.84,0:10:53.84,Default,,0,0,0,,What!?
+Dialogue: 0,0:11:21.35,0:11:24.83,Sai,,0,0,0,,These children, they've all\Nchanged from coming here...
+Dialogue: 0,0:11:26.11,0:11:28.96,Sai,,0,0,0,,Hikaru is growing... steadily.
+Dialogue: 0,0:11:30.07,0:11:33.71,Sai,,0,0,0,,But Hikaru isn't the only one who's growing...
+Dialogue: 0,0:11:37.07,0:11:38.76,Sai,,0,0,0,,Touya Akira he is as well...
+Dialogue: 0,0:12:52.88,0:12:54.96,Background,,0,0,0,,White 72 and a half moku.
+Dialogue: 0,0:12:55.72,0:12:57.72,Background,,0,0,0,,Black 56 moku.
+Dialogue: 0,0:12:58.09,0:12:59.09,Default,,0,0,0,,I won!
+Dialogue: 0,0:12:59.47,0:13:00.75,Default,,0,0,0,,By 16 and a half moku!
+Dialogue: 0,0:13:03.69,0:13:05.10,Default,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:13:05.31,0:13:06.64,Background,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:13:08.21,0:13:09.64,Background,,0,0,0,,Thanks for the game!
 Dialogue: 0,0:13:11.62,0:13:13.24,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:13:22.31,0:13:23.31,Default,,0,0,0,,I resign.
-Dialogue: 0,0:13:24.62,0:13:25.87,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:13:27.40,0:13:30.00,Default,,0,0,0,,You took your time.
+Dialogue: 0,0:13:22.31,0:13:23.41,Background,,0,0,0,,I resign.
+Dialogue: 0,0:13:24.62,0:13:25.99,Default,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:13:27.40,0:13:30.08,Background,,0,0,0,,You took your time.
 Dialogue: 0,0:13:31.04,0:13:32.04,Default,,0,0,0,,Mr. Yun!
-Dialogue: 0,0:13:34.25,0:13:36.93,Default,,0,0,0,,I thought it would calm myself down a bit.
-Dialogue: 0,0:13:37.63,0:13:39.50,Default,,0,0,0,,Haze Junior High won 3-0.
-Dialogue: 0,0:13:43.56,0:13:46.23,Default,,0,0,0,,You saw Shindou's game?
-Dialogue: 0,0:13:47.35,0:13:48.20,Default,,0,0,0,,How was it?
-Dialogue: 0,0:13:51.80,0:13:53.30,Default,,0,0,0,,You'll know once you play him.
-Dialogue: 0,0:13:56.58,0:14:04.56,Note,,0,0,0,,Iwana vs Haze 0-3 | Sawara vs Kaiou 0-3
-Dialogue: 0,0:13:57.43,0:14:00.15,Default,,0,0,0,,We'd like to break for lunch now.
-Dialogue: 0,0:14:00.57,0:14:02.53,Default,,0,0,0,,The afternoon session will begin at 1.
-Dialogue: 0,0:14:05.18,0:14:06.78,Default,,0,0,0,,Hitaka, wanna go grab lunch?
-Dialogue: 0,0:14:07.22,0:14:08.12,Default,,0,0,0,,Yeah, sure.
-Dialogue: 0,0:14:09.28,0:14:10.47,Default,,0,0,0,,Hey, let's grab Touya too.
-Dialogue: 0,0:14:11.91,0:14:12.61,Default,,0,0,0,,Hitaka.
-Dialogue: 0,0:14:13.07,0:14:14.02,Default,,0,0,0,,Can I talk to for a bit?
-Dialogue: 0,0:14:14.10,0:14:14.90,Default,,0,0,0,,What is it?
+Dialogue: 0,0:13:34.25,0:13:36.96,Default,,0,0,0,,I thought it would calm myself down a bit.
+Dialogue: 0,0:13:37.63,0:13:39.42,Background,,0,0,0,,Haze Junior High won 3-0.
+Dialogue: 0,0:13:43.56,0:13:46.39,Default,,0,0,0,,You saw Shindou's game?
+Dialogue: 0,0:13:47.35,0:13:48.35,Default,,0,0,0,,How was it?
+Dialogue: 0,0:13:51.80,0:13:53.60,Default,,0,0,0,,You'll know once you play him.
+Dialogue: 0,0:13:56.58,0:14:01.74,Note,,0,0,0,,{\fs23.5\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(170,130)}I\Nw\Na\Nn\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:13:56.58,0:14:01.74,Note,,0,0,0,,{\fs23.5\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(321,155)}H\Na\Nz\Ne\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:13:56.58,0:14:01.74,Note,,0,0,0,,{\fs23.5\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(464,108)}S\Na\Nw\Na\Nr\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:13:56.58,0:14:01.74,Note,,0,0,0,,{\fs23.5\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(620,132)}K\Na\Ni\No\Nu\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:13:57.43,0:14:00.28,Background,,0,0,0,,We'd like to break for lunch now.
+Dialogue: 0,0:14:00.57,0:14:02.74,Background,,0,0,0,,The afternoon session will begin at 1.
+Dialogue: 0,0:14:05.18,0:14:07.16,Background,,0,0,0,,Hitaka, wanna go grab lunch?
+Dialogue: 0,0:14:07.16,0:14:08.24,Default,,0,0,0,,Yeah, sure.
+Dialogue: 0,0:14:08.24,0:14:10.50,Default,,0,0,0,,Hey, let's grab Touya too.
+Dialogue: 0,0:14:11.91,0:14:12.75,Default,,0,0,0,,Hitaka
+Dialogue: 0,0:14:13.07,0:14:14.08,Default,,0,0,0,,Can I talk to you for a bit?
+Dialogue: 0,0:14:14.10,0:14:15.04,Default,,0,0,0,,What is it?
 Dialogue: 0,0:14:15.83,0:14:17.34,Default,,0,0,0,,Hikaru! Lunch!
-Dialogue: 0,0:14:17.87,0:14:18.97,Default,,0,0,0,,I'll pass.
-Dialogue: 0,0:14:20.10,0:14:21.10,Default,,0,0,0,,Pass?
-Dialogue: 0,0:14:22.01,0:14:22.91,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:14:17.84,0:14:18.80,Default,,0,0,0,,I'll pass.
+Dialogue: 0,0:14:20.05,0:14:21.01,Default,,0,0,0,,Pass?
+Dialogue: 0,0:14:22.01,0:14:23.18,Background,,0,0,0,,Hikaru!
 Dialogue: 0,0:14:39.97,0:14:42.34,Default,,0,0,0,,That was a splendid come back.
 Dialogue: 0,0:14:42.48,0:14:44.94,Default,,0,0,0,,Yeah! Wasn't it great?
 Dialogue: 0,0:14:45.31,0:14:46.47,Default,,0,0,0,,It wasn't luck!
