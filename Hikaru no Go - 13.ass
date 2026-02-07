@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 13 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 65
-Active Line: 85
-Video Position: 10686
+Scroll Position: 74
+Active Line: 95
+Video Position: 14086
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,16 +170,16 @@ Dialogue: 0,0:07:11.33,0:07:13.79,Thinking,,0,0,0,,{\1c&HC5FEC1&}Look, I'm so go
 Dialogue: 0,0:07:14.74,0:07:19.21,Thinking,,0,0,0,,Even Tsutsui-san, who dislikes me,\Nsaid that I was ten times better.
 Dialogue: 0,0:07:20.56,0:07:23.26,Memory,,0,0,0,,Let's make it a game suitable for the first board.
 Dialogue: 0,0:07:23.86,0:07:25.72,Thinking,,0,0,0,,{\1c&HC5FEC1&}Fine, we'll see.
-Dialogue: 0,0:07:47.64,0:07:48.64,Default,,0,0,0,,I resign.
-Dialogue: 0,0:07:50.46,0:07:51.31,Thinking,,0,0,0,,Already!?
-Dialogue: 0,0:08:02.31,0:08:03.46,Default,,0,0,0,,I'm going to go watch Kaiou.
-Dialogue: 0,0:08:31.38,0:08:36.16,Thinking,,0,0,0,,The old men from the Go salon developed their own style of play but him...
-Dialogue: 0,0:08:44.56,0:08:48.36,Thinking,,0,0,0,,Junior High clubs are this good!?
-Dialogue: 0,0:09:20.97,0:09:21.77,Default,,0,0,0,,I resign.
-Dialogue: 0,0:09:22.57,0:09:23.87,Default,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:07:47.64,0:07:48.70,Default,,0,0,0,,I resign.
+Dialogue: 0,0:07:50.46,0:07:51.41,Thinking,,0,0,0,,Already!?
+Dialogue: 0,0:08:02.25,0:08:03.67,Default,,0,0,0,,I'm going to go watch Kaiou.
+Dialogue: 0,0:08:31.38,0:08:36.20,Thinking,,0,0,0,,The old men from the Go salon developed\Ntheir own style of play but him...
+Dialogue: 0,0:08:44.56,0:08:48.72,Thinking,,0,0,0,,{\1c&HC5FEC1&}Junior High clubs are this good!?
+Dialogue: 0,0:09:20.97,0:09:22.00,Default,,0,0,0,,I resign.
+Dialogue: 0,0:09:22.57,0:09:24.21,Background,,0,0,0,,Thank you for the game.
 Dialogue: 0,0:09:25.88,0:09:29.48,Default,,0,0,0,,Did you learn anything? Mitani-kun?
-Dialogue: 0,0:09:40.40,0:09:41.26,Thinking,,0,0,0,,I see...
-Dialogue: 0,0:09:41.96,0:09:47.14,Thinking,,0,0,0,,This guy thinks that I'm a weak little freshman who's only playing first board for strategic purposes.
+Dialogue: 0,0:09:40.40,0:09:41.35,Thinking,,0,0,0,,I see...
+Dialogue: 0,0:09:41.96,0:09:47.53,Thinking,,0,0,0,,This guy thinks that I'm a weak little freshman\Nwho's only playing first board for strategic purposes too...
 Dialogue: 0,0:09:48.27,0:09:50.20,Thinking,,0,0,0,,That handshake was just to be polite.
 Dialogue: 0,0:09:50.70,0:09:53.16,Thinking,,0,0,0,,He doesn't care about his game against me at all.
 Dialogue: 0,0:10:11.00,0:10:13.45,Default,,0,0,0,,Shindou's not doing so well in his game right now.
