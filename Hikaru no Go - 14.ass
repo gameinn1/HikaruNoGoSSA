@@ -16,9 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 14 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 14 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 109
+Video Zoom Percent: 0.625000
+Active Line: 16
+Video Position: 3265
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,6 +85,7 @@ Style: NoteArialEF,Arial,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0
 Style: CreditsEF,Bookman Old Style,22.5,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -94,13 +95,18 @@ Dialogue: 0,0:00:09.38,0:00:11.70,Memory,,0,0,0,,in order to obtain the Hand of 
 Dialogue: 0,0:01:42.11,0:01:45.84,Default,,0,0,0,,Is Touya going to quit the Go club after today?
 Dialogue: 0,0:01:48.02,0:01:48.82,Default,,0,0,0,,Sai...
 Dialogue: 0,0:01:50.73,0:01:51.73,Default,,0,0,0,,you play...
-Dialogue: 0,0:01:53.19,0:01:54.20,Default,,0,0,0,,Is that okay?
-Dialogue: 0,0:01:56.38,0:01:58.54,Default,,0,0,0,,You said you wanted to.
+Dialogue: 0,0:01:53.19,0:01:54.20,Sai,,0,0,0,,Is that okay?
+Dialogue: 0,0:01:56.38,0:01:58.54,Sai,,0,0,0,,You said you wanted to.
 Dialogue: 0,0:02:00.36,0:02:01.76,Default,,0,0,0,,You play...
-Dialogue: 0,0:02:03.22,0:02:07.01,Default,,0,0,0,,Tsutsui-san is just as motivated too.
-Dialogue: 0,0:02:07.91,0:02:10.20,Default,,0,0,0,,First and second boards really should be like that.
-Dialogue: 0,0:02:11.15,0:02:16.16,Title,,0,0,0,,{\fs28}Fourteenth match\N\N{\fs}The Third Match
-Dialogue: 0,0:02:16.16,0:02:24.17,Note,,0,0,0,,The Fourth Annual North District\NSummer Junior High Go Tournament Hall
+Dialogue: 0,0:02:03.22,0:02:07.01,Default,,0,0,0,,Tsutsui-san's just as motivated too.
+Dialogue: 0,0:02:07.91,0:02:10.40,Background,,0,0,0,,First and second boards really should be like that.
+Dialogue: 0,0:02:11.24,0:02:16.16,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(305,115)}The Fourteenth Match
+Dialogue: 0,0:02:11.24,0:02:16.16,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Third Match
+Dialogue: 0,0:02:16.16,0:02:24.17,NoteTimes,,0,0,0,,{\pos(510,5)}T\Nh\Ne\N\NF\No\Nu\Nr\Nt\Nh
+Dialogue: 0,0:02:16.16,0:02:24.17,NoteTimes,,0,0,0,,{\pos(415,5)}A\Nn\Nn\Nu\Na\Nl\N\NN\No\Nr\Nt\Nh\N\ND\Ni\Ns\Nt\Nr\Ni\Nc\Nt
+Dialogue: 0,0:02:16.16,0:02:24.17,NoteTimes,,0,0,0,,{\pos(365,5)}S\Nu\Nm\Nm\Ne\Nr\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:02:16.16,0:02:24.17,NoteTimes,,0,0,0,,{\pos(230,5)}G\No\N\NT\No\Nu\Nr\Nn\Na\Nm\Ne\Nn\Nt\N\NH\Na\Nl\Nl
+Dialogue: 0,0:02:16.16,0:02:24.17,NoteArialEF,,0,0,0,,{\an2\fs17.5}Note: Read from right to left
 Dialogue: 0,0:02:34.12,0:02:35.02,Default,,0,0,0,,Are you okay?
 Dialogue: 0,0:02:35.55,0:02:38.00,Default,,0,0,0,,I'm fine, let's do it Tsutsui-san.
 Dialogue: 0,0:02:38.68,0:02:39.52,Default,,0,0,0,,Let's Nigiri.
@@ -358,7 +364,7 @@ Dialogue: 0,0:21:43.47,0:21:46.70,Ed2English,,0,0,0,,I am starting to change!
 Dialogue: 0,0:21:46.80,0:21:50.40,Ed2English,,0,0,0,,In order to cast off
 Dialogue: 0,0:21:50.50,0:21:54.70,Ed2English,,0,0,0,,the swaying feelings of yesterday.
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
-Dialogue: 0,0:01:52.97,0:01:55.97,Default,chptr,0,0,0,,{Each of Their Decision}
+Dialogue: 0,0:02:11.15,0:02:14.15,Default,chptr,0,0,0,,{The Third Match}
 Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
 Dialogue: 0,0:22:07.31,0:22:10.31,Default,chptr,0,0,0,,{Go Go Igo}
 Dialogue: 0,0:22:57.37,0:23:00.37,Default,chptr,0,0,0,,{Next Episode Preview}
