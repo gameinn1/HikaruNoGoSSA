@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 14 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 16
-Video Position: 3265
+Scroll Position: 18
+Active Line: 31
+Video Position: 6700
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,20 +108,20 @@ Dialogue: 0,0:02:16.16,0:02:24.17,NoteTimes,,0,0,0,,{\pos(415,5)}A\Nn\Nn\Nu\Na\N
 Dialogue: 0,0:02:16.16,0:02:24.17,NoteTimes,,0,0,0,,{\pos(365,5)}S\Nu\Nm\Nm\Ne\Nr\N\NJ\Nr\N\NH\Ni\Ng\Nh
 Dialogue: 0,0:02:16.16,0:02:24.17,NoteTimes,,0,0,0,,{\pos(230,5)}G\No\N\NT\No\Nu\Nr\Nn\Na\Nm\Ne\Nn\Nt\N\NH\Na\Nl\Nl
 Dialogue: 0,0:02:16.16,0:02:24.17,NoteArialEF,,0,0,0,,{\an2\fs17.5}Note: Read from right to left
-Dialogue: 0,0:02:34.12,0:02:35.02,Default,,0,0,0,,Are you okay?
-Dialogue: 0,0:02:35.55,0:02:38.00,Default,,0,0,0,,I'm fine, let's do it Tsutsui-san.
-Dialogue: 0,0:02:38.68,0:02:39.52,Default,,0,0,0,,Let's Nigiri.
-Dialogue: 0,0:02:50.17,0:02:52.80,Default,,0,0,0,,2... 4... 6...
-Dialogue: 0,0:02:54.58,0:02:55.33,Default,,0,0,0,,I'm black.
+Dialogue: 0,0:02:34.12,0:02:35.13,Background,,0,0,0,,Are you okay?
+Dialogue: 0,0:02:35.55,0:02:38.10,Background,,0,0,0,,I'm fine, let's do it Tsutsui-san.
+Dialogue: 0,0:02:38.68,0:02:39.56,Default,,0,0,0,,Let's Nigiri.
+Dialogue: 0,0:02:50.17,0:02:52.80,Background,,0,0,0,,2...4...6...
+Dialogue: 0,0:02:54.58,0:02:55.36,Background,,0,0,0,,I'm black.
 Dialogue: 0,0:02:56.10,0:02:58.70,Default,,0,0,0,,I'm white, Shindou-kun's black.
-Dialogue: 0,0:03:14.75,0:03:16.50,Noise,,0,0,0,,Good luck
-Dialogue: 0,0:03:16.89,0:03:17.89,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:03:18.52,0:03:19.40,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:03:19.72,0:03:20.95,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:03:21.09,0:03:21.57,Default,,0,0,0,,Good lu...
-Dialogue: 0,0:03:21.57,0:03:22.40,Default,,0,0,0,,Finally...
-Dialogue: 0,0:03:26.25,0:03:28.20,Default,,0,0,0,,Finally, I can play against you...
-Dialogue: 0,0:04:38.34,0:04:39.39,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:03:14.75,0:03:16.30,Background,,0,0,0,,Good luck
+Dialogue: 0,0:03:16.89,0:03:17.76,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:03:18.47,0:03:19.22,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:03:19.72,0:03:20.72,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:03:21.09,0:03:21.93,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:03:21.57,0:03:22.52,Background,,0,0,0,,Finally...
+Dialogue: 0,0:03:26.25,0:03:28.19,Default,,0,0,0,,Finally, I can play against you...
+Dialogue: 0,0:04:38.34,0:04:39.47,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:04:41.90,0:04:43.71,Default,,0,0,0,,Hikaru, let's go.
 Dialogue: 0,0:04:44.43,0:04:46.11,Default,,0,0,0,,Upper-right corner, komoku.
 Dialogue: 0,0:04:57.23,0:04:58.13,Default,,0,0,0,,That was fast!
