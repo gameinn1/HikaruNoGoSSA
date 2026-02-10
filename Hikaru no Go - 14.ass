@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 14 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 14 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 138
-Active Line: 158
-Video Position: 29509
+Video Zoom Percent: 0.500000
+Scroll Position: 165
+Active Line: 193
+Video Position: 35539
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -251,25 +251,39 @@ Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFF
 Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(620,174)}K\Na\Ni\No\Nu\N\NJ\Nr\N\NH\Ni\Ng\Nh
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:13.63,0:22:16.26,Default,,0,0,0,,Let's do {\i1}nigiri{\i}, which is how we determine which color to play.
-Dialogue: 0,0:22:18.75,0:22:21.69,Default,,0,0,0,,Mai, since you are older than Yuki,
-Dialogue: 0,0:22:21.77,0:22:24.40,Default,,0,0,0,,please choose for color with the white stones.
-Dialogue: 0,0:22:25.21,0:22:28.78,Default,,0,0,0,,Grab some stones and conceal them in your hand over the board.
-Dialogue: 0,0:22:30.08,0:22:33.36,Default,,0,0,0,,Yuki, if you think she has an even number of stones,
-Dialogue: 0,0:22:33.36,0:22:36.31,Default,,0,0,0,,say "Even first", and take out two stones.
-Dialogue: 0,0:22:36.56,0:22:37.71,Default,,0,0,0,,If you think she has an off number of stones,
-Dialogue: 0,0:22:37.71,0:22:40.66,Default,,0,0,0,,say "Odd first", while taking out one stone.
-Dialogue: 0,0:22:44.51,0:22:45.51,Default,,0,0,0,,Odd first.
-Dialogue: 0,0:22:49.39,0:22:50.46,Default,,0,0,0,,It's an odd number.
-Dialogue: 0,0:22:51.15,0:22:55.27,Default,,0,0,0,,Yuki guessed correctly, so that means Yuki is Black and plays first.
-Dialogue: 0,0:22:54.80,0:22:57.34,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:58.90,0:23:01.59,Default,,0,0,0,,You can play against people from all over the world here.
-Dialogue: 0,0:23:01.84,0:23:04.49,Default,,0,0,0,,Hikaru, what are you trying to do?
-Dialogue: 0,0:23:04.73,0:23:07.98,Default,,0,0,0,,I thought I'd let you play all the Go you want.
-Dialogue: 0,0:23:08.79,0:23:09.84,Default,,0,0,0,,Gotta get a nickname first.
-Dialogue: 0,0:23:10.45,0:23:12.38,Default,,0,0,0,,The name will be... Sai!
-Dialogue: 0,0:23:22.76,0:23:24.72,Default,,0,0,0,,All I want? Really?
-Dialogue: 0,0:23:25.08,0:23:26.59,Default,,0,0,0,,Well, let's go.
+Dialogue: 0,0:22:13.62,0:22:16.43,Default,,0,0,0,,Let's try Nigiri, which is used to\Ndecide black and white, today.
+Dialogue: 0,0:22:13.96,0:22:15.34,NoteArialEF,,0,0,130,,{\an2}Nigiri today!
+Dialogue: 0,0:22:16.04,0:22:18.13,NoteArialEF,,0,0,0,,{\pos(320,289)}Teacher Yukari
+Dialogue: 0,0:22:16.04,0:22:18.13,NoteArialEF,,0,0,0,,{\pos(111,370)}Yuuki
+Dialogue: 0,0:22:16.04,0:22:18.13,NoteArialEF,,0,0,0,,{\pos(542,370)}Mai
+Dialogue: 0,0:22:18.75,0:22:21.72,Default,,0,0,0,,With Mai-chan and Yuuki-kun, Mai-chan is older,
+Dialogue: 0,0:22:20.68,0:22:22.43,NoteArialEF,,0,0,130,,{\an2}The older person does nigiri.
+Dialogue: 0,0:22:21.77,0:22:24.52,Default,,0,0,0,,so Mai-chan, will you please\Nnigiri the white stones?
+Dialogue: 0,0:22:22.97,0:22:24.77,NoteArialEF,,0,0,130,,{\an2}You grab the white stones.
+Dialogue: 0,0:22:25.21,0:22:28.92,Default,,0,0,0,,Will you grab some stones and place\Nyour hand over the board like this?
+Dialogue: 0,0:22:26.24,0:22:29.49,NoteArialEF,,0,0,130,,{\an2}The stones that you've grabbed should be placed on\Nthe board in a way that the opponent can't see them.
+Dialogue: 0,0:22:30.04,0:22:33.36,Default,,0,0,0,,Now Yuuki-kun, if you think Mai-chan\Nholds an even number of stones,
+Dialogue: 0,0:22:30.09,0:22:32.14,NoteArialEF,,0,0,132,,{\an2}The opponent guesses whether the\Nnumber of stones are even or odd.
+Dialogue: 0,0:22:32.61,0:22:36.16,NoteArialEF,,0,0,130,,{\an2}If you think it's even, take out two\Nblack stones, and say "Even first"
+Dialogue: 0,0:22:33.36,0:22:36.33,Default,,0,0,0,,say "Even First" while taking two stones out.
+Dialogue: 0,0:22:36.61,0:22:40.67,NoteArialEF,,0,0,130,,{\an2}If you think it's odd, take out one\Nblack stone, and say "Odd First"
+Dialogue: 0,0:22:36.56,0:22:40.74,Default,,0,0,0,,If you think there's an odd number, say\N"Odd First" while taking one stone out.
+Dialogue: 0,0:22:44.51,0:22:46.02,Default,,0,0,0,,Odd First!
+Dialogue: 0,0:22:44.51,0:22:46.02,NoteArialEF,,0,0,130,,{\an2}Odd First!!
+Dialogue: 0,0:22:48.01,0:22:49.39,NoteArialEF,,0,0,130,,{\an2}There's five so...
+Dialogue: 0,0:22:49.39,0:22:50.56,Default,,0,0,0,,Oh it's odd!
+Dialogue: 0,0:22:49.93,0:22:50.90,NoteArialEF,,0,0,130,,{\an2}Mai grabbed an odd number of stones.
+Dialogue: 0,0:22:51.15,0:22:55.37,Default,,0,0,0,,That means that the game\Nbegins with Yuuki-kun as black.
+Dialogue: 0,0:22:51.93,0:22:54.48,NoteArialEF,,0,0,130,,{\an2}Yuuki was right, so Yuuki plays first with black.
+Dialogue: 0,0:22:55.08,0:22:57.37,NoteArialEF,,0,0,130,,{\an2}To be continued...
+Dialogue: 0,0:22:58.86,0:23:01.69,Default,,0,0,0,,So you can play people from all\Nover the world if you go here.
+Dialogue: 0,0:23:01.84,0:23:04.61,Sai,,0,0,0,,Hikaru! What are you trying to do?
+Dialogue: 0,0:23:04.73,0:23:08.16,Default,,0,0,0,,I thought I'd let you play all the Go you want.
+Dialogue: 0,0:23:08.78,0:23:10.12,Default,,0,0,0,,First I've gotta choose a name...
+Dialogue: 0,0:23:10.45,0:23:12.70,Default,,0,0,0,,the name is..."Sai"!
+Dialogue: 0,0:23:12.37,0:23:28.39,NoteTimes,,0,0,0,,{\an5\fs32.5}This is F-Zhang(Loae666)'s 50th translation.\NCongratulations!
+Dialogue: 0,0:23:22.76,0:23:24.76,Sai,,0,0,0,,All I want!? Really?
+Dialogue: 0,0:23:25.08,0:23:26.84,Default,,0,0,0,,Okay, let's go!
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
