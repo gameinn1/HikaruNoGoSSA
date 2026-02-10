@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Active Line: 23
-Video Position: 4202
+Scroll Position: 85
+Active Line: 107
+Video Position: 12803
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,86 +115,89 @@ Dialogue: 0,0:02:52.78,0:02:54.15,Background,,0,0,0,,Could I get some over here 
 Dialogue: 0,0:02:54.36,0:02:55.23,Default,,0,0,0,,Just one second.
 Dialogue: 0,0:02:55.24,0:03:00.70,Default,,0,0,0,,{\fs28\1c&HFFFFFF&\shad1\bord2\b0\pos(325,285)}The Fourteenth Annual\N\N\NNCC Cup Tournament\N\N\NFifth game{\b1}
 Dialogue: 0,0:02:56.05,0:02:58.80,Background,,0,0,0,,Hey! The TV broadcast of the\NNCC Cup's about to begin!
-Dialogue: 0,0:03:08.10,0:03:13.24,Default,,0,0,0,,If you subscribe to our magazine for an extra year, you will get a special on the subscription fee.
-Dialogue: 0,0:03:13.75,0:03:17.20,Default,,0,0,0,,You can even play Go through the internet these days.
+Dialogue: 0,0:03:00.70,0:03:04.21,Note,,0,10,0,,{\an6\fs18\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}The Fourteenth Annual\N\NNCC Cup Tournament\N\NFifth game of the First match.
+Dialogue: 0,0:03:08.10,0:03:10.67,Default,,0,0,0,,If you subscribe to our magazine for an entire year
+Dialogue: 0,0:03:10.88,0:03:13.21,Default,,0,0,0,,you will get a special on the subscription fee.
+Dialogue: 0,0:03:13.75,0:03:17.20,Default,,0,0,0,,You can even play Go through\Nthe internet these days!
 Dialogue: 0,0:03:18.22,0:03:20.60,Default,,0,0,0,,Why don't you try it once?
-Dialogue: 0,0:03:20.91,0:03:23.70,Default,,0,0,0,,Hmm... 29... Oh here it is!
-Dialogue: 0,0:03:29.42,0:03:33.44,Default,,0,0,0,,But is it interesting at all watching a match from this far away?
-Dialogue: 0,0:03:33.92,0:03:38.24,Default,,0,0,0,,A pro player uses a big board and explains each move for us.
-Dialogue: 0,0:03:40.73,0:03:45.01,Default,,0,0,0,,Don't the people playing the game find it annoying? Having people talk so loudly right next to them.
-Dialogue: 0,0:03:46.41,0:03:47.81,Default,,0,0,0,,I'm sure they enjoy it.
-Dialogue: 0,0:03:48.32,0:03:50.81,Default,,0,0,0,,Wow! What a Go board!
-Dialogue: 0,0:03:51.70,0:03:54.81,Thinking,,0,0,0,,Great, seems like Sai's enjoying himself.
-Dialogue: 0,0:03:56.12,0:03:57.75,Default,,0,0,0,,It's about to begin.
-Dialogue: 0,0:03:58.60,0:04:02.31,Default,,0,0,0,,Greetings ladies and gentlemen of the audience, and everyone watching on TV.
-Dialogue: 0,0:04:03.26,0:04:08.27,Default,,0,0,0,,We are about to begin the fifth game of the first match of the fourteenth annual NCC Cup Go tournament,
-Dialogue: 0,0:04:08.78,0:04:13.12,Default,,0,0,0,,between Fujisawa Kikou 9-dan and Takada Kouichi 7-dan.
-Dialogue: 0,0:04:16.02,0:04:19.61,Default,,0,0,0,,The game will be explained by Murase 9-dan and the moves will be read out by Yoshinaga 2-dan.
+Dialogue: 0,0:03:20.91,0:03:23.52,Background,,0,0,0,,Hmmm... 29... Oh here it is!
+Dialogue: 0,0:03:22.14,0:03:23.52,Note,,0,0,0,,{\an5}NCC Cup Tournament
+Dialogue: 0,0:03:29.42,0:03:33.44,Default,,0,0,0,,But is it interesting at all watching\Na match from this far away?
+Dialogue: 0,0:03:33.92,0:03:38.24,Default,,0,0,0,,A pro player uses a big board,\Nand explains each move for us.
+Dialogue: 0,0:03:40.74,0:03:45.04,Background,,0,0,0,,Don't the people playing the game find it annoying?\NHaving people talk so loudly right next to them.
+Dialogue: 0,0:03:46.41,0:03:47.83,Background,,0,0,0,,I'm sure they enjoy it.
+Dialogue: 0,0:03:48.32,0:03:50.81,Sai,,0,0,0,,Wow! What a Go board!
+Dialogue: 0,0:03:51.67,0:03:54.81,Thinking,,0,0,0,,Great, seems like Sai's enjoying himself.
+Dialogue: 0,0:03:56.12,0:03:57.75,Background,,0,0,0,,It's about to begin.
+Dialogue: 0,0:03:58.60,0:04:02.31,Default,,0,0,0,,Greetings ladies and gentlemen of the\Naudience, and everyone watching on TV.
+Dialogue: 0,0:04:03.26,0:04:08.27,Default,,0,0,0,,We are about to begin the Fifth game\Nof the first match of the fourteenth\Nannual NCC Cup Go Tournament,
+Dialogue: 0,0:04:08.78,0:04:13.12,Default,,0,0,0,,between Fujisawa Kikou 9dan and Takada Kouichi 7dan.
+Dialogue: 0,0:04:16.02,0:04:19.70,Default,,0,0,0,,The game will be explained by Murase 9dan and\Nthe moves will be read out by Yoshinaga 2dan.
 Dialogue: 0,0:04:23.29,0:04:25.92,Default,,0,0,0,,Let's get on with the game now.
-Dialogue: 0,0:04:27.96,0:04:33.71,Default,,0,0,0,,Well, Murase 9-dan, what do you think will be the most interesting point of our game today?
-Dialogue: 0,0:04:33.71,0:04:39.35,Default,,0,0,0,,Well, Fujisawa 9-dan has a seat in both the Meijin League and the Honinbou league...
-Dialogue: 0,0:04:39.35,0:04:41.71,Thinking,,0,0,0,,I did something horrible to Sai...
-Dialogue: 0,0:04:42.11,0:04:45.01,Thinking,,0,0,0,,I did play his match against Touya instead of him...
+Dialogue: 0,0:04:27.96,0:04:33.71,Default,,0,0,0,,Well, Murase 9dan, what do you think will be\Nthe most interesting point of our game today?
+Dialogue: 0,0:04:33.71,0:04:45.01,Background,,0,0,0,,Well, Fujisawa 9dan has a seat in both the\NMeijin League and the Honinbou league...
+Dialogue: 0,0:04:39.35,0:04:45.01,Thinking,,0,0,0,,I did something horrible to Sai... I did play\Nhis match against Touya instead of him...
 Dialogue: 0,0:04:46.69,0:04:47.51,Thinking,,0,0,0,,Touya...
-Dialogue: 0,0:04:49.59,0:04:53.41,Thinking,,0,0,0,,I'll try it! I can't see it until I play myself!
-Dialogue: 0,0:04:53.85,0:04:56.75,Thinking,,0,0,0,,I want to know the gap between him and I!
-Dialogue: 0,0:05:01.12,0:05:02.13,Default,,0,0,0,,Stop messing around!
+Dialogue: 0,0:04:49.59,0:04:53.41,Memory,,0,0,0,,{\b0\i1}I'll try it! I can't see it until I play myself!{\i0\b1}
+Dialogue: 0,0:04:53.85,0:04:56.75,Memory,,0,0,0,,{\b0\i1}I want to know the gap between him and I!{\i0\b1}
+Dialogue: 0,0:05:01.12,0:05:02.13,Memory,,0,0,0,,Stop messing around!
 Dialogue: 0,0:05:03.83,0:05:06.01,Thinking,,0,0,0,,What I did was bad to Touya too...
 Dialogue: 0,0:05:06.89,0:05:08.91,Thinking,,0,0,0,,He wanted to play against Sai so badly...
-Dialogue: 0,0:05:09.86,0:05:14.93,Default,,0,0,0,,Hmm... How interesting, what an exciting development.
+Dialogue: 0,0:05:09.86,0:05:14.93,Default,,0,0,0,,Hmm... How interesting, what\Nan exciting development.
 Dialogue: 0,0:05:15.76,0:05:18.11,Default,,0,0,0,,Will he go around here next?
 Dialogue: 0,0:05:20.91,0:05:24.41,Default,,0,0,0,,25 seconds, 6, 7, 8...
 Dialogue: 0,0:05:24.83,0:05:26.61,Default,,0,0,0,,4-12... hmm...
 Dialogue: 0,0:05:26.94,0:05:28.77,Default,,0,0,0,,Wow, you were right!
 Dialogue: 0,0:05:30.05,0:05:33.21,Default,,0,0,0,,I'm not explaining the game for nothing you know?
 Dialogue: 0,0:06:04.59,0:06:06.82,Thinking,,0,0,0,,But what will I do now?
-Dialogue: 0,0:06:07.47,0:06:09.82,Thinking,,0,0,0,,I want to let Sai play every now and then, but he's so strong.
+Dialogue: 0,0:06:07.47,0:06:09.85,Thinking,,0,0,0,,I want to let Sai play every now\Nand then, but he's so strong.
 Dialogue: 0,0:06:10.36,0:06:14.60,Thinking,,0,0,0,,It'll make me the master of winning through luck.
-Dialogue: 0,0:06:17.25,0:06:20.52,Default,,0,0,0,,This is becoming a fierce battle.
+Dialogue: 0,0:06:17.25,0:06:20.52,Background,,0,0,0,,This is becoming a fierce battle.
 Dialogue: 0,0:06:19.71,0:06:24.22,Default,,0,0,0,,10 seconds, 1, 2, 3, 4...
 Dialogue: 0,0:06:24.89,0:06:26.62,Default,,0,0,0,,4-13
 Dialogue: 0,0:06:26.95,0:06:28.82,Default,,0,0,0,,Ohh... he went here?
-Dialogue: 0,0:06:30.02,0:06:32.62,Default,,0,0,0,,Oh oops, I haven't been paying attention at all.
+Dialogue: 0,0:06:29.16,0:06:32.62,Default,,0,0,0,,Oh oops, I haven't been paying attention at all.
 Dialogue: 0,0:06:33.41,0:06:36.02,Default,,0,0,0,,Has this stone been killed?
-Dialogue: 0,0:06:36.14,0:06:40.32,Default,,0,0,0,,Yes, but, maybe he could have gone to atari from this side as well...
-Dialogue: 0,0:06:40.68,0:06:42.02,Default,,0,0,0,,Let's try playing it out.
-Dialogue: 0,0:06:42.72,0:06:45.82,Default,,0,0,0,,This hand here... and this...
-Dialogue: 0,0:06:46.94,0:06:48.77,Default,,0,0,0,,Are we going to keep on watching this Tsutsui-san?
+Dialogue: 0,0:06:36.14,0:06:40.32,Default,,0,0,0,,Yes, but, maybe he could have gone\Nto atari from this side as well...
+Dialogue: 0,0:06:40.68,0:06:42.02,Background,,0,0,0,,let's try playing it out.
+Dialogue: 0,0:06:42.72,0:06:45.82,Background,,0,0,0,,This and here... and this...
+Dialogue: 0,0:06:46.14,0:06:48.77,Default,,0,0,0,,Are we going to keep on watching this Tsutsui-san?
 Dialogue: 0,0:06:49.08,0:06:51.72,Default,,0,0,0,,Keep on watching... but it's not over yet!
 Dialogue: 0,0:06:52.70,0:06:54.62,Default,,0,0,0,,I'm gonna hang around the lobby for a bit.
-Dialogue: 0,0:06:55.77,0:06:56.42,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:06:55.77,0:06:56.42,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:06:56.72,0:06:59.83,Default,,0,0,0,,I'm at the limit, I can't just sit around any more.
-Dialogue: 0,0:07:00.10,0:07:02.22,Default,,0,0,0,,But!
-Dialogue: 0,0:07:03.53,0:07:06.22,Default,,0,0,0,,I was looking forward to today so much!
+Dialogue: 0,0:07:00.10,0:07:02.22,Sai,,0,0,0,,But!
+Dialogue: 0,0:07:03.53,0:07:06.22,Sai,,0,0,0,,I was looking forward to today so much!
 Dialogue: 0,0:07:07.85,0:07:09.02,Default,,0,0,0,,Sai...
 Dialogue: 0,0:07:12.36,0:07:14.52,Default,,0,0,0,,Look they're selling books about Go.
 Dialogue: 0,0:07:15.50,0:07:18.32,Default,,0,0,0,,Looks like they're playing Go on the PC over there.
-Dialogue: 0,0:07:19.49,0:07:22.12,Default,,0,0,0,,Hey, Sai, let's take a look at it.
-Dialogue: 0,0:07:40.94,0:07:42.56,Default,,0,0,0,,Did your dad or someone else bring you here?
+Dialogue: 0,0:07:19.49,0:07:22.12,Background,,0,0,0,,Hey, Sai, let's take a look at it.
+Dialogue: 0,0:07:40.94,0:07:42.73,Default,,0,0,0,,Did your dad or someone else bring you here?
 Dialogue: 0,0:07:43.04,0:07:44.83,Default,,0,0,0,,No, I came with a friend.
 Dialogue: 0,0:07:45.17,0:07:47.03,Default,,0,0,0,,Wow, you don't see much of that these days.
-Dialogue: 0,0:07:47.18,0:07:48.46,Default,,0,0,0,,Do you have a computer at home?
-Dialogue: 0,0:07:48.72,0:07:49.64,Default,,0,0,0,,No, I don't.
+Dialogue: 0,0:07:47.18,0:07:48.57,Default,,0,0,0,,Do you have a computer at home?
+Dialogue: 0,0:07:48.72,0:07:49.64,Default,,0,0,0,,Nope, I don't.
 Dialogue: 0,0:07:50.03,0:07:52.73,Default,,0,0,0,,Are you interested in stuff like the internet at all?
-Dialogue: 0,0:07:53.06,0:07:54.23,Default,,0,0,0,,Internet?
-Dialogue: 0,0:07:54.68,0:07:58.33,Default,,0,0,0,,Yeah, this kid is playing someone over the internet right now.
-Dialogue: 0,0:07:58.76,0:08:06.43,Default,,0,0,0,,He's black and, look, his opponent just played a white stone, and now he plays a black stone.
-Dialogue: 0,0:08:06.76,0:08:08.83,Default,,0,0,0,,Hey, if you play there...
-Dialogue: 0,0:08:12.89,0:08:13.54,Default,,0,0,0,,See?
-Dialogue: 0,0:08:16.99,0:08:18.04,Default,,0,0,0,,What do you think you're doing?
+Dialogue: 0,0:07:53.06,0:07:54.12,Default,,0,0,0,,Internet?
+Dialogue: 0,0:07:54.68,0:07:58.33,Default,,0,0,0,,Yeah, this kid is playing someone\Nover the internet right now.
+Dialogue: 0,0:07:58.76,0:08:06.43,Default,,0,0,0,,He's black and, look, his opponent just played\Na white stone, and now he plays a black stone.
+Dialogue: 0,0:08:06.76,0:08:08.83,Background,,0,0,0,,Hey, if you play there...
+Dialogue: 0,0:08:12.89,0:08:13.31,Background,,0,0,0,,See?
+Dialogue: 0,0:08:16.56,0:08:17.77,Background,,0,0,0,,What do you think you're doing?
 Dialogue: 0,0:08:18.23,0:08:19.98,Default,,0,0,0,,This isn't a computer game!
 Dialogue: 0,0:08:20.05,0:08:21.45,Default,,0,0,0,,I've got to apologize.
-Dialogue: 0,0:08:25.04,0:08:27.63,Default,,0,0,0,,I'm sorry for ending the game so suddenly...
-Dialogue: 0,0:08:29.25,0:08:29.95,Default,,0,0,0,,What does it say?
-Dialogue: 0,0:08:29.95,0:08:35.95,Computer,,0,0,370,,Hey jerk off!! Don't quit the game just because I captured a bunch of your stones! Moron!
+Dialogue: 0,0:08:23.65,0:08:27.45,Default,,0,0,0,,I'm sorry for ending the game so suddenly...
+Dialogue: 0,0:08:29.25,0:08:29.95,Background,,0,0,0,,What does it say?
+Dialogue: 0,0:08:29.95,0:08:35.95,Note,,0,0,370,,{\an5\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Hey Jerkoff!\NDon't quit the game just because I\Ncaptured a bunch of your stones! Moron!
+Dialogue: 0,0:08:30.41,0:08:35.75,Background,,0,0,0,,Let's see... "Hey Jerkoff! Don't quit the game just\Nbecause I captured a bunch of your stones! Moron!"
 Dialogue: 0,0:08:36.67,0:08:38.43,Default,,0,0,0,,He typed something in first...
-Dialogue: 0,0:08:39.34,0:08:41.03,Default,,0,0,0,,Wow, it's interesting!
+Dialogue: 0,0:08:39.34,0:08:40.92,Default,,0,0,0,,Wow, it's interesting!
 Dialogue: 0,0:08:41.25,0:08:43.23,Default,,0,0,0,,I wonder if this person is a child.
 Dialogue: 0,0:08:43.67,0:08:44.42,Default,,0,0,0,,A child?
-Dialogue: 0,0:08:45.11,0:08:46.51,Default,,0,0,0,,He's a child?
-Dialogue: 0,0:08:47.08,0:08:51.59,Default,,0,0,0,,Given what he said, and his nickname, he might be a child.
-Dialogue: 0,0:08:51.91,0:08:53.04,Default,,0,0,0,,Nickname?
-Dialogue: 0,0:08:53.98,0:08:55.93,Default,,0,0,0,,It's a fake identity that you use on the internet.
+Dialogue: 0,0:08:45.11,0:08:46.38,Default,,0,0,0,,He's a child?
+Dialogue: 0,0:08:47.08,0:08:51.59,Background,,0,0,0,,Given what he said, and his\Nnickname, he might be a child.
+Dialogue: 0,0:08:51.91,0:08:53.04,Background,,0,0,0,,Nickname?
+Dialogue: 0,0:08:53.98,0:08:55.97,Background,,0,0,0,,It's a fake identity that you use on the internet.
 Dialogue: 0,0:08:57.81,0:08:58.93,Default,,0,0,0,,Zelda... huh?
 Dialogue: 0,0:08:59.54,0:09:01.75,Default,,0,0,0,,Wow there are kids too?
 Dialogue: 0,0:09:02.57,0:09:07.44,Default,,0,0,0,,Neither your face, name, nor age gets revealed on the internet, so you don't know.
