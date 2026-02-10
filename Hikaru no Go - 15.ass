@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 361
-Active Line: 390
-Video Position: 2755
+Active Line: 23
+Video Position: 4202
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,17 +103,17 @@ Dialogue: 0,0:02:07.94,0:02:10.50,Default,,0,0,0,,Is teacher Akira taking the pr
 Dialogue: 0,0:02:10.86,0:02:12.40,Default,,0,0,0,,Yeah, seems like it.
 Dialogue: 0,0:02:12.61,0:02:15.30,Default,,0,0,0,,I heard about it from Muroi-san this morning.
 Dialogue: 0,0:02:16.65,0:02:18.60,Default,,0,0,0,,Is it true Ichikawa-san?
-Dialogue: 0,0:02:20.68,0:02:24.40,Default,,0,0,0,,Really!? That's big news.
-Dialogue: 0,0:02:24.86,0:02:27.67,Default,,0,0,0,,The world of Go's going to be exciting starting next year.
-Dialogue: 0,0:02:29.03,0:02:35.40,Default,,0,0,0,,It sure was sudden though. I completely thought he wasn't going to take it again this year.
+Dialogue: 0,0:02:20.68,0:02:22.58,Default,,0,0,0,,Really!? That's big news.
+Dialogue: 0,0:02:22.83,0:02:27.54,Default,,0,0,0,,The world of Go's going to be\Nexciting starting next year.
+Dialogue: 0,0:02:29.03,0:02:35.40,Default,,0,0,0,,It sure was sudden though. I completely thought\Nhe wasn't going to take it again this year.
 Dialogue: 0,0:02:36.43,0:02:39.53,Default,,0,0,0,,Did something happen to Teacher Akira?
 Dialogue: 0,0:02:39.81,0:02:40.61,Default,,0,0,0,,Who knows?
-Dialogue: 0,0:02:41.28,0:02:44.40,Default,,0,0,0,,I asked him how his Go club at school was because he stopped talking about it but...
-Dialogue: 0,0:02:45.65,0:02:52.37,Default,,0,0,0,,"It doesn't matter anymore, it was just a detour" he said.
-Dialogue: 0,0:02:52.78,0:02:54.15,Default,,0,0,0,,Could I get some over here too?
-Dialogue: 0,0:02:54.42,0:02:55.23,Default,,0,0,0,,Just a second.
-Dialogue: 0,0:02:55.24,0:03:00.70,Note,,0,0,0,,The Fourteenth Annual\NNCC Cup Tournament\NFifth game
-Dialogue: 0,0:02:56.05,0:02:58.80,Default,,0,0,0,,Hey! The TV broadcast of the NCC cup's about to begin!
+Dialogue: 0,0:02:41.28,0:02:44.60,Background,,0,0,0,,I asked him how his Go club at school was\Nbecause he stopped talking about it but...
+Dialogue: 0,0:02:45.65,0:02:52.37,Background,,0,0,0,,"It doesn't matter anymore, it was just a detour" he said.
+Dialogue: 0,0:02:52.78,0:02:54.15,Background,,0,0,0,,Could I get some over here too?
+Dialogue: 0,0:02:54.36,0:02:55.23,Default,,0,0,0,,Just one second.
+Dialogue: 0,0:02:55.24,0:03:00.70,Default,,0,0,0,,{\fs28\1c&HFFFFFF&\shad1\bord2\b0\pos(325,285)}The Fourteenth Annual\N\N\NNCC Cup Tournament\N\N\NFifth game{\b1}
+Dialogue: 0,0:02:56.05,0:02:58.80,Background,,0,0,0,,Hey! The TV broadcast of the\NNCC Cup's about to begin!
 Dialogue: 0,0:03:08.10,0:03:13.24,Default,,0,0,0,,If you subscribe to our magazine for an extra year, you will get a special on the subscription fee.
 Dialogue: 0,0:03:13.75,0:03:17.20,Default,,0,0,0,,You can even play Go through the internet these days.
 Dialogue: 0,0:03:18.22,0:03:20.60,Default,,0,0,0,,Why don't you try it once?
