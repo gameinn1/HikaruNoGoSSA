@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 14 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 18
-Active Line: 31
-Video Position: 6700
+Scroll Position: 138
+Active Line: 158
+Video Position: 29509
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -122,130 +122,133 @@ Dialogue: 0,0:03:21.09,0:03:21.93,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:03:21.57,0:03:22.52,Background,,0,0,0,,Finally...
 Dialogue: 0,0:03:26.25,0:03:28.19,Default,,0,0,0,,Finally, I can play against you...
 Dialogue: 0,0:04:38.34,0:04:39.47,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:04:41.90,0:04:43.71,Default,,0,0,0,,Hikaru, let's go.
-Dialogue: 0,0:04:44.43,0:04:46.11,Default,,0,0,0,,Upper-right corner, komoku.
+Dialogue: 0,0:04:41.90,0:04:43.71,Sai,,0,0,0,,Hikaru, let's go.
+Dialogue: 0,0:04:44.43,0:04:46.11,Sai,,0,0,0,,Upper right corner, Komoku.
 Dialogue: 0,0:04:57.23,0:04:58.13,Default,,0,0,0,,That was fast!
 Dialogue: 0,0:04:59.51,0:05:02.01,Default,,0,0,0,,He must have already decided where to go.
-Dialogue: 0,0:05:02.85,0:05:04.11,Default,,0,0,0,,That's probably the case.
-Dialogue: 0,0:05:05.65,0:05:10.51,Default,,0,0,0,,He must have gone over many matches against me in his mind.
-Dialogue: 0,0:05:11.58,0:05:13.58,Default,,0,0,0,,15-4 hiraki
-Dialogue: 0,0:05:24.06,0:05:26.21,Default,,0,0,0,,5-7 moku-hazushi
-Dialogue: 0,0:05:24.06,0:05:39.07,Note,,0,0,0,,Moku-hazushi is the third most popular opening move. It moves one spot outwards from the komoku. It is the most aggressive of the three most popular opening moves, but it doesn't secure very much of the corner for you.
-Dialogue: 0,0:06:19.42,0:06:20.62,Thinking,,0,0,0,,They're the eyes from before.
-Dialogue: 0,0:06:21.76,0:06:23.35,Thinking,,0,0,0,,The eyes he had when he challenged Sai.
-Dialogue: 0,0:06:24.58,0:06:28.72,Thinking,,0,0,0,,I came all this way pulled by your eyes...
-Dialogue: 0,0:06:29.10,0:06:31.22,Thinking,,0,0,0,,You're my far away objective.
-Dialogue: 0,0:06:41.69,0:06:42.44,Thinking,,0,0,0,,Sai?
-Dialogue: 0,0:06:46.43,0:06:51.43,Thinking,,0,0,0,,Thinking? Here? I'd go to 11-8 without hesitation.
-Dialogue: 0,0:06:55.74,0:06:57.62,Thinking,,0,0,0,,What are you thinking about, Sai?
-Dialogue: 0,0:06:59.02,0:07:01.69,Thinking,,0,0,0,,Dammit, I don't get it.
-Dialogue: 0,0:07:02.59,0:07:04.72,Thinking,,0,0,0,,What's wrong with 11-8?
-Dialogue: 0,0:07:24.04,0:07:26.89,Default,,0,0,0,,Have I improved a little?
-Dialogue: 0,0:07:31.23,0:07:34.46,Thinking,,0,0,0,,You really don't need to improve anymore.
-Dialogue: 0,0:07:34.72,0:07:36.13,Default,,0,0,0,,You've changed as well.
-Dialogue: 0,0:07:37.56,0:07:39.45,Default,,0,0,0,,You hold your stone correctly now.
-Dialogue: 0,0:07:40.33,0:07:41.53,Default,,0,0,0,,Hold my stone?
-Dialogue: 0,0:07:42.35,0:07:44.23,Thinking,,0,0,0,,Of course I hold it correctly now.
-Dialogue: 0,0:07:44.50,0:07:47.33,Thinking,,0,0,0,,I played Tsutsui-san everyday, and I played Mitani too.
-Dialogue: 0,0:07:47.44,0:07:49.83,Thinking,,0,0,0,,I've gotten a lot stronger, really.
-Dialogue: 0,0:07:52.99,0:07:53.79,Thinking,,0,0,0,,Touya...
+Dialogue: 0,0:05:02.85,0:05:04.20,Sai,,0,0,0,,That's probably the case.
+Dialogue: 0,0:05:05.65,0:05:10.51,Sai,,0,0,0,,He must have gone over many\Nmatches against me in his mind.
+Dialogue: 0,0:05:11.58,0:05:13.58,Sai,,0,0,0,,15-4 Hiraki
+Dialogue: 0,0:05:24.01,0:05:26.26,Sai,,0,0,0,,5-7 Moku-Hazushi
+Dialogue: 0,0:05:24.01,0:05:38.94,NoteArialEF,,0,0,0,,[note: Moku-Hazushi is the third most popular opening\Nmove. It moves one spot outwards from the komoku. It is the\Nmost aggressive of the three most popular opening moves,\Nbut it doesn't secure very much of the corner for you.]
+Dialogue: 0,0:06:19.42,0:06:20.82,Thinking,,0,0,0,,{\1c&HC5FEC1&}They're the eyes from before.
+Dialogue: 0,0:06:21.76,0:06:23.53,Thinking,,0,0,0,,{\1c&HC5FEC1&}The eyes he had when he challenged Sai.
+Dialogue: 0,0:06:24.58,0:06:29.04,Thinking,,0,0,0,,{\1c&HC5FEC1&}I came all this way pulled by your eyes...
+Dialogue: 0,0:06:29.08,0:06:31.29,Thinking,,0,0,0,,{\1c&HC5FEC1&}You're my far away objective.
+Dialogue: 0,0:06:41.69,0:06:42.55,Thinking,,0,0,0,,Sai?
+Dialogue: 0,0:06:46.43,0:06:51.64,Thinking,,0,0,0,,{\1c&HC5FEC1&}Thinking? Here? I'd go to 11-8 without hesitation.
+Dialogue: 0,0:06:55.69,0:06:57.77,Thinking,,0,0,0,,What are you thinking about, Sai?
+Dialogue: 0,0:06:59.02,0:07:01.82,Thinking,,0,0,0,,{\1c&HC5FEC1&}Dammit, I don't get it.
+Dialogue: 0,0:07:02.57,0:07:04.78,Thinking,,0,0,0,,{\1c&HC5FEC1&}What's wrong with 11-8?
+Dialogue: 0,0:07:24.04,0:07:26.72,Default,,0,0,0,,Have I improved a little?
+Dialogue: 0,0:07:31.23,0:07:34.68,Thinking,,0,0,0,,You really don't need to improve anymore.
+Dialogue: 0,0:07:34.68,0:07:36.27,Background,,0,0,0,,You've changed as well.
+Dialogue: 0,0:07:37.56,0:07:39.61,Default,,0,0,0,,You hold your stone correctly now.
+Dialogue: 0,0:07:40.33,0:07:41.65,Default,,0,0,0,,Hold my stone?
+Dialogue: 0,0:07:42.35,0:07:44.32,Thinking,,0,0,0,,Of course I hold it correctly now.
+Dialogue: 0,0:07:44.44,0:07:47.41,Thinking,,0,0,0,,{\1c&HC5FEC1&}I played Tsutsui-san everyday, and I played Mitani too.
+Dialogue: 0,0:07:47.41,0:07:49.87,Thinking,,0,0,0,,{\1c&HC5FEC1&}I've gotten a lot stronger, really.
+Dialogue: 0,0:07:52.99,0:07:53.83,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:07:55.16,0:07:55.91,Thinking,,0,0,0,,I...
-Dialogue: 0,0:07:57.62,0:08:00.55,Thinking,,0,0,0,,How much closer am I too you now?
-Dialogue: 0,0:08:14.93,0:08:16.33,Default,,0,0,0,,You've realized already right?
+Dialogue: 0,0:07:57.62,0:08:00.71,Thinking,,0,0,0,,{\1c&HC5FEC1&}How much closer am I too you now?
+Dialogue: 0,0:08:14.93,0:08:16.52,Default,,0,0,0,,You've realized already right?
 Dialogue: 0,0:08:17.53,0:08:20.30,Default,,0,0,0,,That I'm not just a weak freshman.
-Dialogue: 0,0:08:28.64,0:08:29.54,Default,,0,0,0,,Thinking?
-Dialogue: 0,0:08:33.60,0:08:36.33,Thinking,,0,0,0,,Moron. You understand me, right?
-Dialogue: 0,0:08:36.72,0:08:39.49,Thinking,,0,0,0,,I'm not just any Jr. High kid.
-Dialogue: 0,0:08:40.47,0:08:42.60,Thinking,,0,0,0,,Yeah, you are better than me,
-Dialogue: 0,0:08:42.97,0:08:46.59,Thinking,,0,0,0,,but by confusing you through overly aggressive moves and unexpected moves,
-Dialogue: 0,0:08:46.75,0:08:48.17,Thinking,,0,0,0,,and dragging you into my pace,
-Dialogue: 0,0:08:48.65,0:08:50.63,Thinking,,0,0,0,,I might stand a chance.
-Dialogue: 0,0:08:53.90,0:08:54.65,Thinking,,0,0,0,,What is it?
-Dialogue: 0,0:08:55.63,0:08:56.73,Thinking,,0,0,0,,What is he thinking about?
-Dialogue: 0,0:09:47.03,0:09:49.24,Default,,0,0,0,,Go ahead and think about it.
-Dialogue: 0,0:09:49.86,0:09:53.04,Default,,0,0,0,,In order to make this match befitting of the first board.
+Dialogue: 0,0:08:28.65,0:08:29.57,Default,,0,0,0,,Thinking?
+Dialogue: 0,0:08:33.60,0:08:36.41,Thinking,,0,0,0,,Moron. You underestimated me, right?
+Dialogue: 0,0:08:36.72,0:08:39.33,Thinking,,0,0,0,,I'm not just any Jr. High kid.
+Dialogue: 0,0:08:40.47,0:08:42.63,Thinking,,0,0,0,,Yeah, you are better than me,
+Dialogue: 0,0:08:42.92,0:08:46.71,Thinking,,0,0,0,,{\1c&HC5FEC1&}but by confusing you through overly\Naggressive moves and unexpected moves,
+Dialogue: 0,0:08:46.71,0:08:48.38,Thinking,,0,0,0,,{\1c&HC5FEC1&}and dragging you into my pace,
+Dialogue: 0,0:08:48.63,0:08:50.76,Thinking,,0,0,0,,{\1c&HC5FEC1&}I might stand a chance.
+Dialogue: 0,0:08:53.90,0:08:54.76,Thinking,,0,0,0,,What is it?
+Dialogue: 0,0:08:55.63,0:08:56.97,Thinking,,0,0,0,,What is he thinking about?
+Dialogue: 0,0:09:47.03,0:09:49.36,Background,,0,0,0,,Go ahead and think about it.
+Dialogue: 0,0:09:49.86,0:09:53.11,Background,,0,0,0,,In order to make this match\Nbefitting of the first board.
 Dialogue: 0,0:09:56.85,0:10:01.27,Default,,0,0,0,,You're to aggressive. You should relent a little.
-Dialogue: 0,0:10:02.11,0:10:04.15,Default,,0,0,0,,Talking in the middle of a match?
-Dialogue: 0,0:10:04.66,0:10:07.48,Default,,0,0,0,,So you're still underestimating me.
-Dialogue: 0,0:10:09.02,0:10:12.79,Default,,0,0,0,,Watch this, I'll make this match befitting of the first board.
-Dialogue: 0,0:10:16.29,0:10:19.84,Thinking,,0,0,0,,This guys really cautious.
-Dialogue: 0,0:10:21.18,0:10:24.76,Thinking,,0,0,0,,Last year, I was able to use my opponent's mistake to win.
-Dialogue: 0,0:10:25.95,0:10:28.04,Thinking,,0,0,0,,but this second board plays solidly.
-Dialogue: 0,0:10:28.82,0:10:30.34,Thinking,,0,0,0,,He's really strong.
-Dialogue: 0,0:10:42.87,0:10:43.74,Thinking,,0,0,0,,I want to play!
-Dialogue: 0,0:10:44.59,0:10:47.64,Thinking,,0,0,0,,Touya, just like you're chasing after Sai,
-Dialogue: 0,0:10:47.98,0:10:50.04,Thinking,,0,0,0,,I'm chasing you,
-Dialogue: 0,0:10:50.40,0:10:51.94,Thinking,,0,0,0,,I'll catch you some day.
-Dialogue: 0,0:10:52.68,0:10:53.87,Default,,0,0,0,,13-4
-Dialogue: 0,0:10:54.65,0:10:57.65,Thinking,,0,0,0,,I'll play at 11-8, and then...
-Dialogue: 0,0:11:01.11,0:11:03.04,Default,,0,0,0,,Hikaru? 13-...
-Dialogue: 0,0:11:04.68,0:11:05.53,Thinking,,0,0,0,,I want to try it.
-Dialogue: 0,0:11:06.21,0:11:07.54,Thinking,,0,0,0,,Sai, sorry.
-Dialogue: 0,0:11:08.03,0:11:09.86,Thinking,,0,0,0,,I can't see it unless I play myself.
-Dialogue: 0,0:11:10.34,0:11:11.54,Thinking,,0,0,0,,I want to know,
-Dialogue: 0,0:11:11.88,0:11:13.23,Thinking,,0,0,0,,the gap between him and I.
-Dialogue: 0,0:11:15.60,0:11:16.95,Default,,0,0,0,,11-8!?
-Dialogue: 0,0:11:17.96,0:11:18.86,Thinking,,0,0,0,,I'm going to play.
-Dialogue: 0,0:11:27.19,0:11:27.94,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:11:31.62,0:11:32.42,Thinking,,0,0,0,,This is...
-Dialogue: 0,0:11:33.64,0:11:36.25,Thinking,,0,0,0,,it surprised me for a second but... this is...
-Dialogue: 0,0:11:38.98,0:11:40.75,Thinking,,0,0,0,,or is there something else?
-Dialogue: 0,0:12:12.18,0:12:13.03,Default,,0,0,0,,It's interesting.
-Dialogue: 0,0:12:13.56,0:12:15.62,Default,,0,0,0,,11-8 is interesting.
-Dialogue: 0,0:12:16.51,0:12:20.75,Default,,0,0,0,,It's too bad that Hikaru doesn't have the strength to follow up on that idea,
-Dialogue: 0,0:12:21.69,0:12:27.18,Default,,0,0,0,,But, I can feel his will to keep playing with each move he makes.
-Dialogue: 0,0:12:33.82,0:12:34.47,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:12:36.50,0:12:41.25,Default,,0,0,0,,I will simply watch over you for now...
-Dialogue: 0,0:12:46.50,0:12:47.65,Default,,0,0,0,,Stop messing around!
-Dialogue: 0,0:12:48.88,0:12:49.68,Default,,0,0,0,,T-Touya...
-Dialogue: 0,0:12:50.57,0:12:51.27,Default,,0,0,0,,Touya!
-Dialogue: 0,0:12:55.31,0:12:56.95,Default,,0,0,0,,I'm not messing around!
-Dialogue: 0,0:12:57.40,0:12:59.65,Default,,0,0,0,,Yes! We're very serious!
-Dialogue: 0,0:13:00.41,0:13:03.06,Default,,0,0,0,,Touya's too busy chasing after me,
-Dialogue: 0,0:13:03.29,0:13:05.17,Default,,0,0,0,,and can't see Hikaru's strength.
-Dialogue: 0,0:13:06.01,0:13:11.06,Default,,0,0,0,,He can't hear Hikaru approaching him step by step.
-Dialogue: 0,0:13:15.30,0:13:16.00,Default,,0,0,0,,Touya...
-Dialogue: 0,0:13:16.92,0:13:20.69,Default,,0,0,0,,Play to the end. Either that or resign.
-Dialogue: 0,0:13:27.53,0:13:30.73,Default,,0,0,0,,I told you, you'd know once you played him.
-Dialogue: 0,0:13:38.59,0:13:39.29,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:14:26.99,0:14:28.06,Thinking,,0,0,0,,Is he an idiot?
-Dialogue: 0,0:14:29.41,0:14:31.46,Thinking,,0,0,0,,Getting so fired up over Shindou.
-Dialogue: 0,0:14:32.62,0:14:33.96,Thinking,,0,0,0,,You over estimate him too much.
-Dialogue: 0,0:14:34.44,0:14:36.86,Thinking,,0,0,0,,I know exactly how strong he is.
-Dialogue: 0,0:14:43.09,0:14:44.66,Thinking,,0,0,0,,Tsutsui-san can't do it either.
-Dialogue: 0,0:14:46.03,0:14:46.95,Thinking,,0,0,0,,I'm our only hope.
-Dialogue: 0,0:15:18.95,0:15:19.70,Thinking,,0,0,0,,What is it!?
-Dialogue: 0,0:15:20.09,0:15:23.35,Thinking,,0,0,0,,He's fighting over a stone like this!?
-Dialogue: 0,0:15:38.60,0:15:42.57,Thinking,,0,0,0,,I'm fighting back but...
-Dialogue: 0,0:15:42.99,0:15:44.99,Thinking,,0,0,0,,Is there that much meaning behind this stone?
-Dialogue: 0,0:15:54.81,0:15:58.47,Thinking,,0,0,0,,He's... why is he this stubborn!?
-Dialogue: 0,0:16:17.86,0:16:20.07,Thinking,,0,0,0,,A stone like this... I should just give it to him.
-Dialogue: 0,0:16:22.82,0:16:23.72,Default,,0,0,0,,You pulled back.
-Dialogue: 0,0:16:25.95,0:16:29.54,Default,,0,0,0,,As I see it, you play a game based on strength, from yourself training.
+Dialogue: 0,0:10:02.11,0:10:04.25,Default,,0,0,0,,Talking in the middle of a match?
+Dialogue: 0,0:10:04.63,0:10:07.55,Default,,0,0,0,,So you're still underestimating me.
+Dialogue: 0,0:10:08.96,0:10:12.59,Default,,0,0,0,,Watch this, I'll make this match\Nbefitting of the first board.
+Dialogue: 0,0:10:16.29,0:10:19.84,Thinking,,0,0,0,,This guy's really cautious.
+Dialogue: 0,0:10:21.18,0:10:24.90,Thinking,,0,0,0,,Last year, I was able to use\Nmy opponent's mistake to win,
+Dialogue: 0,0:10:25.95,0:10:28.19,Thinking,,0,0,0,,but this second board plays solidly.
+Dialogue: 0,0:10:28.82,0:10:30.44,Thinking,,0,0,0,,He's really strong.
+Dialogue: 0,0:10:42.87,0:10:43.75,Thinking,,0,0,0,,{\1c&HC5FEC1&}I want to play!
+Dialogue: 0,0:10:44.59,0:10:47.71,Thinking,,0,0,0,,{\1c&HC5FEC1&}Touya, just like you're chasing after Sai,
+Dialogue: 0,0:10:47.98,0:10:50.04,Thinking,,0,0,0,,{\1c&HC5FEC1&}I'm chasing you.
+Dialogue: 0,0:10:50.40,0:10:52.01,Thinking,,0,0,0,,I'll catch you some day.
+Dialogue: 0,0:10:52.68,0:10:53.87,Sai,,0,0,0,,13-4
+Dialogue: 0,0:10:54.65,0:10:57.72,Thinking,,0,0,0,,I'll play at 11-8, and then...
+Dialogue: 0,0:11:01.11,0:11:03.18,Sai,,0,0,0,,Hikaru? 13-...
+Dialogue: 0,0:11:04.68,0:11:05.69,Thinking,,0,0,0,,{\1c&HC5FEC1&}I want to try it.
+Dialogue: 0,0:11:06.21,0:11:07.65,Thinking,,0,0,0,,{\1c&HC5FEC1&}Sai, sorry,
+Dialogue: 0,0:11:08.03,0:11:09.90,Thinking,,0,0,0,,{\1c&HC5FEC1&}I can't see it unless I play myself.
+Dialogue: 0,0:11:10.34,0:11:11.65,Thinking,,0,0,0,,{\1c&HC5FEC1&}I want to know,
+Dialogue: 0,0:11:11.88,0:11:13.28,Thinking,,0,0,0,,{\1c&HC5FEC1&}the gap between him and I.
+Dialogue: 0,0:11:15.60,0:11:16.86,Sai,,0,0,0,,11-8!?
+Dialogue: 0,0:11:17.96,0:11:19.03,Thinking,,0,0,0,,I'm going to play.
+Dialogue: 0,0:11:27.19,0:11:28.17,Sai,,0,0,0,,Hikaru...
+Dialogue: 0,0:11:31.62,0:11:32.55,Thinking,,0,0,0,,This is...
+Dialogue: 0,0:11:33.64,0:11:36.34,Thinking,,0,0,0,,it surprised me for a second but... this is...
+Dialogue: 0,0:11:38.98,0:11:40.85,Thinking,,0,0,0,,{\1c&HC5FEC1&}or is there something else?
+Dialogue: 0,0:12:12.18,0:12:13.17,Sai,,0,0,0,,It's interesting.
+Dialogue: 0,0:12:13.56,0:12:15.71,Sai,,0,0,0,,11-8 is interesting.
+Dialogue: 0,0:12:16.51,0:12:20.93,Sai,,0,0,0,,It's too bad that Hikaru doesn't have\Nthe strength to follow up on that idea,
+Dialogue: 0,0:12:21.69,0:12:27.23,Sai,,0,0,0,,but, I can feel his will to keep\Nplaying with each move he makes.
+Dialogue: 0,0:12:33.82,0:12:34.65,Sai,,0,0,0,,Hikaru...
+Dialogue: 0,0:12:36.50,0:12:41.37,Sai,,0,0,0,,I will simply watch over you for now...
+Dialogue: 0,0:12:46.50,0:12:47.71,Default,,0,0,0,,Stop messing around!
+Dialogue: 0,0:12:48.25,0:12:49.68,Default,,0,0,0,,T-Touya...
+Dialogue: 0,0:12:50.57,0:12:51.29,Default,,0,0,0,,Touya!
+Dialogue: 0,0:12:55.31,0:12:56.80,Default,,0,0,0,,I'm not messing around!
+Dialogue: 0,0:12:57.40,0:12:59.76,Sai,,0,0,0,,Yes! We're very serious!
+Dialogue: 0,0:13:00.41,0:13:03.22,Sai,,0,0,0,,Touya's too busy chasing after me,
+Dialogue: 0,0:13:03.29,0:13:05.22,Sai,,0,0,0,,and he can't see Hikaru's strength.
+Dialogue: 0,0:13:06.01,0:13:11.15,Sai,,0,0,0,,He can't hear Hikaru approaching him step by step.
+Dialogue: 0,0:13:15.30,0:13:16.19,Default,,0,0,0,,Touya...
+Dialogue: 0,0:13:16.92,0:13:20.74,Default,,0,0,0,,play to the end. Either that or resign.
+Dialogue: 0,0:13:27.53,0:13:30.87,Background,,0,0,0,,I told you, you'd know once you played him.
+Dialogue: 0,0:13:38.59,0:13:39.55,Background,,0,0,0,,Damn it!
+Dialogue: 0,0:14:26.99,0:14:28.10,Thinking,,0,0,0,,Is he an idiot?
+Dialogue: 0,0:14:29.41,0:14:31.64,Thinking,,0,0,0,,Getting so fired up over Shindou.
+Dialogue: 0,0:14:32.62,0:14:34.06,Thinking,,0,0,0,,{\1c&HC5FEC1&}You over estimate him too much.
+Dialogue: 0,0:14:34.44,0:14:36.98,Thinking,,0,0,0,,{\1c&HC5FEC1&}I know exactly how strong he is.
+Dialogue: 0,0:14:43.09,0:14:44.70,Thinking,,0,0,0,,Tsutsui-san can't do it either.
+Dialogue: 0,0:14:45.99,0:14:46.95,Thinking,,0,0,0,,I'm our only hope.
+Dialogue: 0,0:15:18.95,0:15:19.82,Thinking,,0,0,0,,What is it!?
+Dialogue: 0,0:15:20.09,0:15:23.44,Thinking,,0,0,0,,He's fighting me over a stone like this!?
+Dialogue: 0,0:15:38.60,0:15:40.96,Thinking,,0,0,0,,{\1c&HC5FEC1&}I'm fighting back but...
+Dialogue: 0,0:15:41.55,0:15:44.99,Thinking,,0,0,0,,{\1c&HC5FEC1&}is there that much meaning behind this stone?
+Dialogue: 0,0:15:54.81,0:15:58.52,Thinking,,0,0,0,,He's... why is he this stubborn!?
+Dialogue: 0,0:16:17.86,0:16:20.33,Thinking,,0,0,0,,{\1c&HC5FEC1&}A stone like this... I should just give it to him.
+Dialogue: 0,0:16:22.82,0:16:23.80,Default,,0,0,0,,You pulled back.
+Dialogue: 0,0:16:25.95,0:16:29.64,Default,,0,0,0,,As I see it, you play a game based\Non strength, from your self training.
 Dialogue: 0,0:16:30.47,0:16:32.16,Default,,0,0,0,,In that case, you can't pull back.
-Dialogue: 0,0:16:32.94,0:16:36.04,Default,,0,0,0,,Even if there's no real meaning behind this stone, you can't pull back.
-Dialogue: 0,0:16:36.37,0:16:40.40,Default,,0,0,0,,With people like you, once you pull back, you've lost emotionally.
+Dialogue: 0,0:16:32.94,0:16:36.18,Background,,0,0,0,,Even if there's no real meaning\Nbehind this stone, you can't pull back.
+Dialogue: 0,0:16:36.37,0:16:40.44,Background,,0,0,0,,With people like you, once you\Npull back, you've lost emotionally.
 Dialogue: 0,0:16:40.77,0:16:44.25,Default,,0,0,0,,You'll only fall apart from now on.
 Dialogue: 0,0:16:45.46,0:16:47.61,Default,,0,0,0,,So your plan is to make me worry by saying that.
-Dialogue: 0,0:16:47.67,0:16:48.81,Default,,0,0,0,,Go ahead and play!
-Dialogue: 0,0:17:19.06,0:17:20.26,Default,,0,0,0,,I resign...
-Dialogue: 0,0:17:22.40,0:17:23.05,Default,,0,0,0,,Touya!
-Dialogue: 0,0:17:27.36,0:17:28.66,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:17:30.93,0:17:32.48,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:17:52.87,0:17:53.77,Default,,0,0,0,,I thought...
-Dialogue: 0,0:17:56.82,0:18:01.89,Default,,0,0,0,,I thought I saw the hand of god in you...
-Dialogue: 0,0:18:29.88,0:18:30.78,Default,,0,0,0,,I resign.
-Dialogue: 0,0:18:31.71,0:18:32.98,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:19:06.48,0:19:10.64,Default,,0,0,0,,To be honest, I didn't think you were this strong.
+Dialogue: 0,0:16:47.61,0:16:48.74,Default,,0,0,0,,Go ahead and play!
+Dialogue: 0,0:17:19.06,0:17:20.35,Background,,0,0,0,,I resign...
+Dialogue: 0,0:17:22.40,0:17:23.19,Background,,0,0,0,,Touya!
+Dialogue: 0,0:17:27.36,0:17:28.74,Default,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:17:30.93,0:17:32.57,Default,,0,0,0,,Thanks for the game...
+Dialogue: 0,0:17:52.87,0:17:53.89,Background,,0,0,0,,I thought...
+Dialogue: 0,0:17:56.82,0:18:01.98,Default,,0,0,0,,I thought I saw the Hand of God in you...
+Dialogue: 0,0:18:29.88,0:18:31.01,Default,,0,0,0,,I resign.
+Dialogue: 0,0:18:31.71,0:18:33.09,Default,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:19:06.48,0:19:10.75,Default,,0,0,0,,To be honest, I didn't think you were this strong.
 Dialogue: 0,0:19:11.08,0:19:12.08,Default,,0,0,0,,It was fun.
-Dialogue: 0,0:19:12.54,0:19:13.29,Default,,0,0,0,,It's not...
-Dialogue: 0,0:19:15.50,0:19:16.75,Default,,0,0,0,,over yet!
-Dialogue: 0,0:19:20.45,0:19:21.15,Default,,0,0,0,,Oh?
-Dialogue: 0,0:19:22.28,0:19:23.97,Default,,0,0,0,,You intend to play to the end?
-Dialogue: 0,0:19:40.73,0:19:41.58,Default,,0,0,0,,I resign.
-Dialogue: 0,0:19:43.19,0:19:44.59,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:20:26.09,0:20:30.59,Default,,0,0,0,,Kaiou against Haze, Kaiou wins with a score of 3-0
-Dialogue: 0,0:20:30.75,0:20:36.25,Note,,0,0,0,,Haze vs Kaiou 0-3\NIwana vs Haze 0-3 | Sawara vs Kaiou 0-3
+Dialogue: 0,0:19:12.54,0:19:13.47,Default,,0,0,0,,It's not...
+Dialogue: 0,0:19:15.50,0:19:16.80,Default,,0,0,0,,over yet!
+Dialogue: 0,0:19:20.45,0:19:21.31,Default,,0,0,0,,Oh?
+Dialogue: 0,0:19:22.28,0:19:24.06,Default,,0,0,0,,You intend to play to the end?
+Dialogue: 0,0:19:40.73,0:19:41.70,Default,,0,0,0,,I resign...
+Dialogue: 0,0:19:43.19,0:19:44.66,Default,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:20:26.09,0:20:30.59,Background,,0,0,0,,Kaiou against Haze, Kaiou wins with a score of 3-0
+Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(171,174)}I\Nw\Na\Nn\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(318,198)}H\Na\Nz\Ne\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(462,150)}S\Na\Nw\Na\Nr\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(620,174)}K\Na\Ni\No\Nu\N\NJ\Nr\N\NH\Ni\Ng\Nh
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:13.63,0:22:16.26,Default,,0,0,0,,Let's do {\i1}nigiri{\i}, which is how we determine which color to play.
