@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 85
-Active Line: 107
-Video Position: 12803
+Video Zoom Percent: 0.625000
+Scroll Position: 251
+Active Line: 272
+Video Position: 29686
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -188,7 +188,7 @@ Dialogue: 0,0:08:18.23,0:08:19.98,Default,,0,0,0,,This isn't a computer game!
 Dialogue: 0,0:08:20.05,0:08:21.45,Default,,0,0,0,,I've got to apologize.
 Dialogue: 0,0:08:23.65,0:08:27.45,Default,,0,0,0,,I'm sorry for ending the game so suddenly...
 Dialogue: 0,0:08:29.25,0:08:29.95,Background,,0,0,0,,What does it say?
-Dialogue: 0,0:08:29.95,0:08:35.95,Note,,0,0,370,,{\an5\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Hey Jerkoff!\NDon't quit the game just because I\Ncaptured a bunch of your stones! Moron!
+Dialogue: 0,0:08:29.95,0:08:35.95,Note,,0,0,0,,{\an5\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Hey Jerkoff!\NDon't quit the game just because I\Ncaptured a bunch of your stones! Moron!
 Dialogue: 0,0:08:30.41,0:08:35.75,Background,,0,0,0,,Let's see... "Hey Jerkoff! Don't quit the game just\Nbecause I captured a bunch of your stones! Moron!"
 Dialogue: 0,0:08:36.67,0:08:38.43,Default,,0,0,0,,He typed something in first...
 Dialogue: 0,0:08:39.34,0:08:40.92,Default,,0,0,0,,Wow, it's interesting!
@@ -198,168 +198,171 @@ Dialogue: 0,0:08:45.11,0:08:46.38,Default,,0,0,0,,He's a child?
 Dialogue: 0,0:08:47.08,0:08:51.59,Background,,0,0,0,,Given what he said, and his\Nnickname, he might be a child.
 Dialogue: 0,0:08:51.91,0:08:53.04,Background,,0,0,0,,Nickname?
 Dialogue: 0,0:08:53.98,0:08:55.97,Background,,0,0,0,,It's a fake identity that you use on the internet.
-Dialogue: 0,0:08:57.81,0:08:58.93,Default,,0,0,0,,Zelda... huh?
+Dialogue: 0,0:08:57.81,0:08:58.93,Background,,0,0,0,,Zelda... huh?
 Dialogue: 0,0:08:59.54,0:09:01.75,Default,,0,0,0,,Wow there are kids too?
-Dialogue: 0,0:09:02.57,0:09:07.44,Default,,0,0,0,,Neither your face, name, nor age gets revealed on the internet, so you don't know.
-Dialogue: 0,0:09:07.90,0:09:11.78,Default,,0,0,0,,It's not just kids, look, people from other nations are here too!
-Dialogue: 0,0:09:13.05,0:09:17.63,Default,,0,0,0,,JPN is for Japan, CHN is China, CAN is Canada.
-Dialogue: 0,0:09:17.93,0:09:19.74,Default,,0,0,0,,There's USA, and GER.
-Dialogue: 0,0:09:20.72,0:09:22.04,Default,,0,0,0,,What about NLD?
-Dialogue: 0,0:09:22.11,0:09:22.95,Default,,0,0,0,,It's the Netherlands.
-Dialogue: 0,0:09:23.95,0:09:28.84,Default,,0,0,0,,People on this list challenge each other or are challenged be each other for games.
+Dialogue: 0,0:09:02.57,0:09:07.44,Default,,0,0,0,,Neither your face, name, nor age gets\Nrevealed on the internet, so you don't know.
+Dialogue: 0,0:09:07.90,0:09:11.78,Background,,0,0,0,,It's not just kids, look, people\Nfrom other nations are here too!
+Dialogue: 0,0:09:13.05,0:09:17.63,Background,,0,0,0,,JPN is for Japan, CHN is China, CAN is Canada.
+Dialogue: 0,0:09:17.93,0:09:19.74,Background,,0,0,0,,There's USA, and GER.
+Dialogue: 0,0:09:20.72,0:09:22.04,Background,,0,0,0,,What about NLD?
+Dialogue: 0,0:09:22.11,0:09:22.95,Background,,0,0,0,,It's the Netherlands.
+Dialogue: 0,0:09:23.95,0:09:28.84,Default,,0,0,0,,People on this list challenge each other or\Nare challenged by each other for games.
 Dialogue: 0,0:09:30.02,0:09:32.67,Default,,0,0,0,,It's easy to operate.
-Dialogue: 0,0:09:33.06,0:09:35.74,Default,,0,0,0,,Like if you want to play a game, do this here...
+Dialogue: 0,0:09:33.06,0:09:35.74,Background,,0,0,0,,Like if you want to play a game, do this here...
 Dialogue: 0,0:09:37.59,0:09:39.07,Default,,0,0,0,,Then you do this...
-Dialogue: 0,0:09:40.88,0:09:41.72,Default,,0,0,0,,Wanna try?
-Dialogue: 0,0:09:41.92,0:09:49.09,Default,,0,0,0,,Nah, not yet. But could you teach me some more about operating it?
-Dialogue: 0,0:09:49.68,0:09:52.94,Default,,0,0,0,,You have to register first, right?
-Dialogue: 0,0:09:55.00,0:09:58.54,Default,,0,0,0,,Wanna start at loading this homepage first then?
+Dialogue: 0,0:09:40.88,0:09:41.72,Default,,0,0,0,,wanna try?
+Dialogue: 0,0:09:41.92,0:09:49.09,Default,,0,0,0,,Nah, not yet. But could you teach\Nme some more about operating it?
+Dialogue: 0,0:09:49.68,0:09:52.94,Background,,0,0,0,,You have to register first, right?
+Dialogue: 0,0:09:55.00,0:09:58.54,Background,,0,0,0,,Wanna start at loading this homepage first then?
 Dialogue: 0,0:09:58.70,0:10:01.04,Thinking,,0,0,0,,They can't tell your face, age, or real name!
-Dialogue: 0,0:09:59.03,0:10:02.44,Default,,0,0,0,,First enter in world Igo net and try a search.
+Dialogue: 0,0:09:59.03,0:10:02.44,Background,,0,0,0,,First enter in world igo net and try a search.
 Dialogue: 0,0:10:01.68,0:10:02.44,Thinking,,0,0,0,,This is it!
-Dialogue: 0,0:10:12.48,0:10:14.84,Default,,0,0,0,,Sorry for making you play someone so weak.
-Dialogue: 0,0:10:15.06,0:10:16.06,Default,,0,0,0,,Nah, it's okay.
-Dialogue: 0,0:10:16.58,0:10:17.84,Default,,0,0,0,,And if white goes here?
-Dialogue: 0,0:10:19.36,0:10:20.16,Default,,0,0,0,,Here right?
-Dialogue: 0,0:10:22.22,0:10:22.97,Default,,0,0,0,,Here?
-Dialogue: 0,0:10:23.30,0:10:23.90,Default,,0,0,0,,Yup.
-Dialogue: 0,0:10:25.18,0:10:27.77,Default,,0,0,0,,Here? Or Here?
+Dialogue: 0,0:10:12.48,0:10:14.84,Background,,0,0,0,,Sorry for making you play someone so weak.
+Dialogue: 0,0:10:15.06,0:10:16.06,Background,,0,0,0,,Nah, it's okay.
+Dialogue: 0,0:10:16.58,0:10:17.89,Background,,0,0,0,,And if white goes here?
+Dialogue: 0,0:10:19.36,0:10:20.16,Background,,0,0,0,,Here right?
+Dialogue: 0,0:10:22.22,0:10:22.97,Background,,0,0,0,,Here?
+Dialogue: 0,0:10:23.30,0:10:23.90,Background,,0,0,0,,Yup.
+Dialogue: 0,0:10:25.18,0:10:27.77,Background,,0,0,0,,Here? Or here?
 Dialogue: 0,0:10:28.48,0:10:30.44,Default,,0,0,0,,Once you've come this far, it doesn't matter.
 Dialogue: 0,0:10:30.98,0:10:32.49,Default,,0,0,0,,This is okay right?
 Dialogue: 0,0:10:32.97,0:10:34.34,Default,,0,0,0,,Huh? Just the two of you?
 Dialogue: 0,0:10:36.61,0:10:37.71,Default,,0,0,0,,What about Shindou-kun?
-Dialogue: 0,0:10:38.46,0:10:40.00,Default,,0,0,0,,He said something about internet.
+Dialogue: 0,0:10:38.46,0:10:40.04,Default,,0,0,0,,He said something about internet.
 Dialogue: 0,0:10:40.29,0:10:42.44,Default,,0,0,0,,Internet? Already?
 Dialogue: 0,0:10:42.57,0:10:43.64,Default,,0,0,0,,Already?
-Dialogue: 0,0:10:43.94,0:10:48.28,Default,,0,0,0,,I went to watch a public pro match with Shindou-kun yesterday, but...
-Dialogue: 0,0:10:49.38,0:10:53.38,Default,,0,0,0,,He got tired of sitting around, and left half way through.
-Dialogue: 0,0:10:53.78,0:10:54.68,Default,,0,0,0,,Why is that?
-Dialogue: 0,0:10:56.28,0:10:57.64,Default,,0,0,0,,What was Hikaru doing then?
-Dialogue: 0,0:10:58.08,0:10:59.39,Default,,0,0,0,,He was doing something on the internet.
-Dialogue: 0,0:10:59.76,0:11:02.08,Default,,0,0,0,,I'm not sure what drew him.
-Dialogue: 0,0:11:02.37,0:11:05.54,Default,,0,0,0,,But they were displaying internet Go in the lobby,
-Dialogue: 0,0:11:05.82,0:11:08.14,Default,,0,0,0,,and he listened to the guy's explanation the entire time.
-Dialogue: 0,0:11:09.54,0:11:12.84,Default,,0,0,0,,Until I came out after the pro match.
+Dialogue: 0,0:10:43.91,0:10:48.28,Default,,0,0,0,,I went to watch a public pro match\Nwith Shindou-kun yesterday, but...
+Dialogue: 0,0:10:49.38,0:10:54.68,Default,,0,0,0,,he got tired of sitting around,\Nand left half way through.
+Dialogue: 0,0:10:55.68,0:10:57.64,Default,,0,0,0,,What was Hikaru doing then?
+Dialogue: 0,0:10:58.05,0:10:59.39,Default,,0,0,0,,He was doing something on the internet.
+Dialogue: 0,0:10:59.76,0:11:02.08,Background,,0,0,0,,I'm not sure what drew him.
+Dialogue: 0,0:11:02.37,0:11:05.54,Default,,0,0,0,,But they were displaying internet Go in the lobby
+Dialogue: 0,0:11:05.82,0:11:08.15,Default,,0,0,0,,and he listened to the guy's\Nexplanation the entire time.
+Dialogue: 0,0:11:09.54,0:11:12.84,Background,,0,0,0,,Until I came out after the pro match.
 Dialogue: 0,0:11:20.83,0:11:24.85,Default,,0,0,0,,But where did he go to to access the internet?
-Dialogue: 0,0:11:25.90,0:11:29.65,Default,,0,0,0,,You can do it at this store that Mitani's sister is working at.
+Dialogue: 0,0:11:25.90,0:11:29.65,Default,,0,0,0,,You can do it at this store that\NMitani's sister is working at.
 Dialogue: 0,0:11:30.03,0:11:30.95,Default,,0,0,0,,Mitani's sister?
-Dialogue: 0,0:11:32.12,0:11:34.95,Default,,0,0,0,,My sister's working at an internet cafe part-time.
-Dialogue: 0,0:11:36.04,0:11:38.50,Default,,0,0,0,,He rushed out of here when I told him where it was.
+Dialogue: 0,0:11:32.12,0:11:34.95,Default,,0,0,0,,My sister's working at an internet cafe.
+Dialogue: 0,0:11:36.04,0:11:38.50,Default,,0,0,0,,He rushed out of here when\NI told him where it was.
 Dialogue: 0,0:11:41.78,0:11:43.15,Default,,0,0,0,,Tsutsui-san, you wanna play?
-Dialogue: 0,0:11:43.68,0:11:44.85,Default,,0,0,0,,No, that's okay.
-Dialogue: 0,0:11:47.29,0:11:47.89,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:11:43.68,0:11:44.85,Default,,0,0,0,,No, that's okay!
+Dialogue: 0,0:11:47.29,0:11:47.89,Background,,0,0,0,,Here you go.
 Dialogue: 0,0:11:50.81,0:11:53.45,Default,,0,0,0,,Fujisaki-san, are you starting to understand Go?
-Dialogue: 0,0:11:53.68,0:11:55.93,Default,,0,0,0,,Yup, I just learned shichou and geta.
-Dialogue: 0,0:11:58.90,0:12:02.45,Default,,0,0,0,,It's off the subject but, it's almost summer, what will we do with the club?
+Dialogue: 0,0:11:53.68,0:11:55.93,Default,,0,0,0,,Yup, I just learned Shichou and Geta
+Dialogue: 0,0:11:58.90,0:12:02.45,Default,,0,0,0,,It's off the subject but, it's almost\Nsummer, what will we do with the club?
 Dialogue: 0,0:12:03.00,0:12:06.25,Default,,0,0,0,,I have summer school so I'm kinda busy.
-Dialogue: 0,0:12:06.51,0:12:10.10,Default,,0,0,0,,Oh yeah, Tsutsui-san has to prepare for High School entrance exams.
-Dialogue: 0,0:12:10.88,0:12:15.25,Default,,0,0,0,,From the way Hikaru was acting earlier, Hikaru'll probably be on the internet the entire time.
-Dialogue: 0,0:12:15.52,0:12:20.45,Default,,0,0,0,,I'll... go to that Go salon again.
+Dialogue: 0,0:12:06.51,0:12:10.10,Default,,0,0,0,,Oh yeah, Tsutsui-san has to prepare\Nfor High School entrance exams.
+Dialogue: 0,0:12:10.88,0:12:15.25,Default,,0,0,0,,From the way he was acting earlier, Hikaru'll\Nprobably be on the internet the entire time.
+Dialogue: 0,0:12:15.52,0:12:20.45,Default,,0,0,0,,I'll... go to that Go Salon again.
 Dialogue: 0,0:12:21.17,0:12:26.65,Default,,0,0,0,,I'll go to that Go school that Hikaru went to.
-Dialogue: 0,0:12:27.70,0:12:31.25,Default,,0,0,0,,And once second quarter begins, I'm gonna get some female members.
-Dialogue: 0,0:12:31.60,0:12:33.10,Default,,0,0,0,,I want to go to the tournaments too.
+Dialogue: 0,0:12:27.70,0:12:31.25,Default,,0,0,0,,And once second quarter begins, I'm\Ngonna get some female members.
+Dialogue: 0,0:12:31.60,0:12:33.19,Default,,0,0,0,,I want to go to the tournaments too.
 Dialogue: 0,0:12:34.17,0:12:36.40,Default,,0,0,0,,You can compete in individual matches too.
 Dialogue: 0,0:12:37.46,0:12:38.84,Default,,0,0,0,,No! A group match is better!
-Dialogue: 0,0:12:38.96,0:12:41.15,Default,,0,0,0,,I thought so when I was watching you guys play.
+Dialogue: 0,0:12:38.96,0:12:41.20,Default,,0,0,0,,I thought so when I was watching you guys play.
 Dialogue: 0,0:12:41.49,0:12:44.25,Default,,0,0,0,,A group match is definitely more fun!
 Dialogue: 0,0:12:49.50,0:12:50.45,Default,,0,0,0,,You're right...
 Dialogue: 0,0:12:51.89,0:12:54.25,Default,,0,0,0,,We lost to Kaiou but it was fun.
 Dialogue: 0,0:12:57.50,0:12:59.60,Default,,0,0,0,,Yeah, group matches are nice.
-Dialogue: 0,0:13:04.20,0:13:07.56,Default,,0,0,0,,Hey let's meet at least once a week during the summer!
+Dialogue: 0,0:13:04.20,0:13:07.56,Default,,0,0,0,,Hey let's meet at least once\Na week during the summer!
 Dialogue: 0,0:13:07.99,0:13:10.37,Default,,0,0,0,,Yeah, I can make it once a week at least.
 Dialogue: 0,0:13:10.81,0:13:11.66,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:13:12.31,0:13:15.64,Note,,300,0,0,,{\an4}Experience\N\N\N\Nthe\N\N\N\Ninternet\N\N\N\Nhere!\N\N\N\NState-of-the-art\N\N\N\Nsystems\N\N\N\Navailable.
-Dialogue: 0,0:13:19.96,0:13:21.76,Default,,0,0,0,,World Igo net?
+Dialogue: 0,0:13:12.31,0:13:17.15,Note,,0,0,0,,{\an4\fs22.5\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(281,218)}Experience\N\N\N\Nthe\N\N\N\NInternet\N\N\N\NHere!\N\N\N\NState-of-the-art\N\N\N\Nsystems\N\N\N\Navailable.
+Dialogue: 0,0:13:19.96,0:13:21.76,Default,,0,0,0,,World Igo Net?
 Dialogue: 0,0:13:22.40,0:13:24.16,Default,,0,0,0,,I just have to access this?
-Dialogue: 0,0:13:25.50,0:13:29.76,Default,,0,0,0,,But even if I know about computers, I know nothing about Go.
+Dialogue: 0,0:13:25.50,0:13:29.76,Default,,0,0,0,,But even if I know about computers,\NI know nothing about Go.
 Dialogue: 0,0:13:30.43,0:13:34.38,Default,,0,0,0,,That's okay, I learned how to play on my own.
-Dialogue: 0,0:13:36.96,0:13:39.88,Default,,0,0,0,,World Igo net.
-Dialogue: 0,0:13:40.75,0:13:42.39,Default,,0,0,0,,And search!
+Dialogue: 0,0:13:36.59,0:13:42.22,NoteArialEF,,0,0,0,,{\fs31\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\b0\pos(152,166)}{\k19}W{\k19}o{\k19}r{\k19}l{\k19}d{\k19} {\k19}I{\k19}g{\k19}o{\k19} {\k19}N{\k19}e{\k19}t\N
+Dialogue: 0,0:13:35.25,0:13:41.26,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(531,157)}Search
+Dialogue: 0,0:13:41.26,0:13:42.22,Note,,0,0,0,,{\fs30\1c&HB15EFA&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(531,157)}Search
+Dialogue: 0,0:13:36.96,0:13:39.88,Default,,0,0,0,,World Igo Net
+Dialogue: 0,0:13:40.75,0:13:42.22,Default,,0,0,0,,And search!
 Dialogue: 0,0:13:42.54,0:13:43.54,Default,,0,0,0,,Let's see...
-Dialogue: 0,0:13:44.29,0:13:45.40,Default,,0,0,0,,Oh, this, right?
-Dialogue: 0,0:13:47.09,0:13:49.90,Default,,0,0,0,,You can play against people from all over the world here.
+Dialogue: 0,0:13:44.29,0:13:45.72,Default,,0,0,0,,Oh, this, right?
+Dialogue: 0,0:13:47.09,0:13:49.90,Default,,0,0,0,,You can play against people\Nfrom all over the world here.
 Dialogue: 0,0:13:50.27,0:13:53.52,Default,,0,0,0,,All over the world? But do you speak English?
-Dialogue: 0,0:13:54.10,0:13:57.84,Default,,0,0,0,,I don't have to speak English, all I'm doing is playing Go.
-Dialogue: 0,0:14:00.15,0:14:06.06,Default,,0,0,0,,Hikaru. You were looking at a box like this yesterday too. Though it was flatter...
+Dialogue: 0,0:13:54.10,0:13:57.73,Default,,0,0,0,,I don't have to speak English,\Nall I'm doing is playing Go.
+Dialogue: 0,0:14:00.15,0:14:06.06,Sai,,0,0,0,,Hikaru. You were looking at a box like\Nthis yesterday too. Though it was flatter...
 Dialogue: 0,0:14:06.33,0:14:08.16,Default,,0,0,0,,Yeah, but the inside's the same.
-Dialogue: 0,0:14:11.09,0:14:13.83,Default,,0,0,0,,But, what are you trying to do?
+Dialogue: 0,0:14:11.09,0:14:13.83,Sai,,0,0,0,,But, what are you trying to do?
 Dialogue: 0,0:14:14.96,0:14:18.25,Thinking,,0,0,0,,I thought I'd let you play all the Go you want.
-Dialogue: 0,0:14:18.81,0:14:21.71,Default,,0,0,0,,Huh? Hikaru, what did you just say?
+Dialogue: 0,0:14:18.81,0:14:21.71,Sai,,0,0,0,,Huh? Hikaru, what did you just say?
 Dialogue: 0,0:14:22.89,0:14:24.46,Thinking,,0,0,0,,Well, wait and see.
 Dialogue: 0,0:14:27.86,0:14:31.16,Default,,0,0,0,,Hey, where did Mitani learn Go?
-Dialogue: 0,0:14:31.77,0:14:33.36,Default,,0,0,0,,From our late grandfather.
-Dialogue: 0,0:14:33.80,0:14:38.51,Default,,0,0,0,,When he was in grade school he had a teacher that knew how to play, and they played each other a lot.
-Dialogue: 0,0:14:38.96,0:14:41.56,Default,,0,0,0,,After he graduated, he started going to Go salons.
-Dialogue: 0,0:14:43.76,0:14:45.26,Default,,0,0,0,,Is Yuuki good?
+Dialogue: 0,0:14:31.77,0:14:33.39,Default,,0,0,0,,From our late grandfather.
+Dialogue: 0,0:14:33.73,0:14:35.06,Default,,0,0,0,,When he was in grade school
+Dialogue: 0,0:14:35.15,0:14:38.23,Default,,0,0,0,,he had a teacher that knew how to\Nplay, and they played each other a lot.
+Dialogue: 0,0:14:38.96,0:14:41.56,Default,,0,0,0,,After he graduated, he started going to Go Salons.
+Dialogue: 0,0:14:43.76,0:14:45.03,Default,,0,0,0,,Is Yuuki good?
 Dialogue: 0,0:14:45.58,0:14:46.66,Default,,0,0,0,,Yeah he is!
 Dialogue: 0,0:14:47.58,0:14:48.66,Default,,0,0,0,,You didn't know?
 Dialogue: 0,0:14:48.83,0:14:52.06,Default,,0,0,0,,Oh really!? What about you?
 Dialogue: 0,0:14:52.37,0:14:56.66,Default,,0,0,0,,Me? I'm... okay I guess.
-Dialogue: 0,0:14:57.11,0:15:01.06,Default,,0,0,0,,You're only okay and your playing people from all over the world through the internet?
+Dialogue: 0,0:14:57.11,0:15:01.06,Default,,0,0,0,,You're only okay and your playing people\Nfrom all over the world through the internet?
 Dialogue: 0,0:15:01.54,0:15:03.37,Default,,0,0,0,,Yeah, thanks.
-Dialogue: 0,0:15:04.12,0:15:07.03,Default,,0,0,0,,Sorry, sorry. I guess your skill doesn't matter.
-Dialogue: 0,0:15:07.71,0:15:09.53,Default,,0,0,0,,You can handle the rest, right?
+Dialogue: 0,0:15:04.12,0:15:07.03,Default,,0,0,0,,Sorry Sorry. I guess your skill doesn't matter.
+Dialogue: 0,0:15:07.71,0:15:09.56,Background,,0,0,0,,You can handle the rest, right?
 Dialogue: 0,0:15:10.96,0:15:13.97,Default,,0,0,0,,Hey, can I really play for free?
-Dialogue: 0,0:15:14.47,0:15:19.37,Default,,0,0,0,,Yeah, it's fine. But don't tell anyone. And you can't when I'm not working here.
+Dialogue: 0,0:15:14.47,0:15:19.37,Default,,0,0,0,,Yeah it's fine. But don't tell anyone. And\Nyou can't when I'm not working here.
 Dialogue: 0,0:15:19.75,0:15:21.77,Default,,0,0,0,,Okay, thanks!
-Dialogue: 0,0:15:22.10,0:15:23.77,Default,,0,0,0,,Call me when you're about to leave.
+Dialogue: 0,0:15:22.10,0:15:23.86,Default,,0,0,0,,Call me when you're about to leave.
 Dialogue: 0,0:15:24.20,0:15:25.41,Default,,0,0,0,,Then, later.
-Dialogue: 0,0:15:26.89,0:15:29.12,Default,,0,0,0,,Well, gotta get a nickname first.
-Dialogue: 0,0:15:31.24,0:15:34.83,Default,,0,0,0,,Hey, all I want? Really?
-Dialogue: 0,0:15:40.83,0:15:41.83,Default,,0,0,0,,The name will be...
-Dialogue: 0,0:15:43.08,0:15:43.78,Default,,0,0,0,,S...
-Dialogue: 0,0:15:44.65,0:15:45.35,Default,,0,0,0,,A...
-Dialogue: 0,0:15:46.10,0:15:46.80,Default,,0,0,0,,I...
-Dialogue: 0,0:15:48.83,0:15:49.48,Default,,0,0,0,,Sai!
+Dialogue: 0,0:15:26.89,0:15:28.82,Default,,0,0,0,,Well, gotta get a nick first.
+Dialogue: 0,0:15:28.87,0:15:34.83,NoteArialEF,,0,0,0,,{\an4\fs45\1c&HFFFFFF&\bord3\shad1\b0\pos(104,65)}Registration Form
+Dialogue: 0,0:15:28.87,0:15:34.83,NoteArialEF,,0,0,0,,{\an4\fs45\1c&HFFFFFF&\bord3\shad1\b0\pos(104,165)}Name
+Dialogue: 0,0:15:31.24,0:15:34.83,Sai,,0,0,0,,Hey, all I want? Really?
+Dialogue: 0,0:15:40.83,0:15:41.67,Default,,0,0,0,,The name will be...
+Dialogue: 0,0:15:43.08,0:15:46.26,Background,,0,0,0,,S...A...I...
+Dialogue: 0,0:15:48.83,0:15:49.48,Background,,0,0,0,,Sai!
 Dialogue: 0,0:15:54.73,0:15:56.59,Default,,0,0,0,,Well, let's go.
 Dialogue: 0,0:16:19.88,0:16:23.87,Default,,0,0,0,,I'll be in Japan next month for about a week Mom.
-Dialogue: 0,0:16:26.09,0:16:31.17,Default,,0,0,0,,Yeah, I was chosen as the representative for the US for the International Amateur Go Tournament.
+Dialogue: 0,0:16:26.09,0:16:31.17,Default,,0,0,0,,Yeah, I was chosen as the representative for the\NUS for the International Amateur Go Tournament.
 Dialogue: 0,0:16:35.42,0:16:37.17,Default,,0,0,0,,Yeah, about 50 nations.
-Dialogue: 0,0:16:37.65,0:16:43.47,Default,,0,0,0,,One rep for each nation. I became number one in the nation during tryouts.
+Dialogue: 0,0:16:37.65,0:16:43.47,Default,,0,0,0,,One rep for each nation. I became\Nnumber one in the nation during tryouts.
 Dialogue: 0,0:16:45.79,0:16:51.57,Default,,0,0,0,,Of course, Asia is strong. Japan, China, and Korea.
-Dialogue: 0,0:16:52.42,0:16:54.78,Default,,0,0,0,,The US? We were eighth last year.
-Dialogue: 0,0:16:55.41,0:17:00.08,Default,,0,0,0,,But we're rising in strength every year, thanks to the internet.
-Dialogue: 0,0:17:01.18,0:17:03.88,Default,,0,0,0,,We can play someone strong when ever we want.
-Dialogue: 0,0:17:05.10,0:17:08.18,Default,,0,0,0,,And I hear that Japan is getting weaker these days.
+Dialogue: 0,0:16:52.42,0:16:54.78,Background,,0,0,0,,The US? We were Eighth last year.
+Dialogue: 0,0:16:55.41,0:17:00.08,Background,,0,0,0,,But we're rising in strength every\Nyear, thanks to the internet.
+Dialogue: 0,0:17:01.18,0:17:03.88,Background,,0,0,0,,We can play someone strong whenever we want.
+Dialogue: 0,0:17:05.10,0:17:08.18,Background,,0,0,0,,And I hear that Japan is getting weaker these days.
 Dialogue: 0,0:17:10.34,0:17:11.78,Default,,0,0,0,,Yeah, I'll do my best.
-Dialogue: 0,0:17:14.07,0:17:17.48,Default,,0,0,0,,Oh, a challenge right as I was about to hang up.
-Dialogue: 0,0:17:18.75,0:17:20.98,Default,,0,0,0,,Well then Mom, take care.
-Dialogue: 0,0:17:27.62,0:17:31.16,Default,,0,0,0,,Sai? I've never seen this name before.
+Dialogue: 0,0:17:14.07,0:17:17.48,Background,,0,0,0,,Oh, a challenge right as I was about to hang up.
+Dialogue: 0,0:17:18.75,0:17:20.98,Background,,0,0,0,,Well then Mom, take care.
+Dialogue: 0,0:17:27.62,0:17:31.16,Background,,0,0,0,,Sai? I've never seen this name before.
 Dialogue: 0,0:17:32.31,0:17:34.40,Default,,0,0,0,,Well, let's see how strong he is.
 Dialogue: 0,0:17:36.31,0:17:37.58,Default,,0,0,0,,Oh, here he comes.
 Dialogue: 0,0:17:59.70,0:18:01.78,Default,,0,0,0,,Master! Could I get a tutoring game...
-Dialogue: 0,0:18:04.34,0:18:10.48,Default,,0,0,0,,The Master's training through the internet right now for the International Amateur Go Tournament next month.
+Dialogue: 0,0:18:04.34,0:18:10.36,Default,,0,0,0,,The Master's training through the\Ninternet right now for the International\NAmateur Go Tournament next month.
 Dialogue: 0,0:18:16.55,0:18:20.28,Default,,0,0,0,,Too bad... I have no choice then.
 Dialogue: 0,0:18:20.39,0:18:22.65,Default,,0,0,0,,I'll play you instead though.
 Dialogue: 0,0:18:23.17,0:18:25.28,Default,,0,0,0,,Yeah, yeah, thanks.
-Dialogue: 0,0:18:46.70,0:18:50.19,Default,,0,0,0,,Were no match for the master at all.
-Dialogue: 0,0:18:53.82,0:18:59.79,Default,,0,0,0,,He's the rep for the Netherlands two years in a row! He's incredible!
+Dialogue: 0,0:18:46.70,0:18:50.19,Default,,0,0,0,,We're no match for the master at all.
+Dialogue: 0,0:18:53.82,0:18:59.79,Default,,0,0,0,,He's the rep for the Netherlands\Ntwo years in a row! He's incredible!
 Dialogue: 0,0:19:00.72,0:19:03.86,Default,,0,0,0,,He was sixth last year! Sixth!
 Dialogue: 0,0:19:04.27,0:19:07.37,Default,,0,0,0,,He might be able to break Asia's control this year!
 Dialogue: 0,0:19:07.75,0:19:10.49,Default,,0,0,0,,But what about his real job?
-Dialogue: 0,0:19:10.77,0:19:15.08,Default,,0,0,0,,He's so intent on Go he even opened a class like this.
-Dialogue: 0,0:19:15.70,0:19:19.49,Default,,0,0,0,,Yeah you're right, he might get fired from his position as Assistant Professor.
-Dialogue: 0,0:19:25.11,0:19:25.99,Default,,0,0,0,,Master?
+Dialogue: 0,0:19:10.77,0:19:15.08,Default,,0,0,0,,He's so intent on Go he even\Nopened a class like this.
+Dialogue: 0,0:19:15.70,0:19:19.60,Default,,0,0,0,,Yeah you're right, he might get fired\Nfrom his position as Assistant Professor.
+Dialogue: 0,0:19:25.11,0:19:25.85,Default,,0,0,0,,Master?
 Dialogue: 0,0:19:33.76,0:19:36.89,Default,,0,0,0,,Oh! He's a pro! He's a pro!
 Dialogue: 0,0:19:38.82,0:19:40.17,Default,,0,0,0,,That's gotta be it!
-Dialogue: 0,0:19:41.02,0:19:43.38,Default,,0,0,0,,You can't tell who it is over the internet.
-Dialogue: 0,0:19:44.23,0:19:49.51,Default,,0,0,0,,I heard that Asian pros sometimes play over the internet amongst amateurs to kill time.
+Dialogue: 0,0:19:41.02,0:19:43.45,Background,,0,0,0,,You can't tell who it is over the internet.
+Dialogue: 0,0:19:44.23,0:19:49.51,Background,,0,0,0,,I heard that Asian pros sometimes play over\Nthe internet amongst Amateurs to kill time.
 Dialogue: 0,0:19:50.54,0:19:51.54,Default,,0,0,0,,Master?
 Dialogue: 0,0:19:51.96,0:19:52.86,Default,,0,0,0,,Master?
 Dialogue: 0,0:19:54.46,0:19:55.36,Default,,0,0,0,,Master...
-Dialogue: 0,0:19:57.12,0:19:58.32,Default,,0,0,0,,Did you lose?
+Dialogue: 0,0:19:57.12,0:19:58.22,Default,,0,0,0,,Did you lose?
 Dialogue: 0,0:20:00.06,0:20:01.19,Default,,0,0,0,,I was slaughtered!
-Dialogue: 0,0:20:01.73,0:20:05.38,Default,,0,0,0,,I thought I'd get a heart attack from how badly I lost.
-Dialogue: 0,0:20:08.49,0:20:10.29,Default,,0,0,0,,Huh? His name's off the list now.
+Dialogue: 0,0:20:01.73,0:20:05.23,Default,,0,0,0,,I thought I'd get a heart\Nattack from how badly I lost.
+Dialogue: 0,0:20:07.52,0:20:10.29,Default,,0,0,0,,Huh? His name's off the list now.
 Dialogue: 0,0:20:11.68,0:20:13.59,Default,,0,0,0,,I'd never heard of him before....
-Dialogue: 0,0:20:14.42,0:20:16.92,Default,,0,0,0,,I doubt any of my contacts over the net will know who he is either...
-Dialogue: 0,0:20:17.42,0:20:19.72,Default,,0,0,0,,Sai... I wonder who he is...
-Dialogue: 0,0:20:22.64,0:20:23.89,Default,,0,0,0,,Wasn't that fun!?
-Dialogue: 0,0:20:23.89,0:20:24.49,Default,,0,0,0,,Yup!
-Dialogue: 0,0:20:24.94,0:20:29.19,Default,,0,0,0,,Okay! We're gonna come to play on the net everyday for the rest of the summer!
-Dialogue: 0,0:20:29.62,0:20:32.89,Default,,0,0,0,,What!? You're going to let me play everyday!?
-Dialogue: 0,0:20:33.61,0:20:37.71,Default,,0,0,0,,Yeah. I'm gonna make you play until you get sick and tired of it!
-Dialogue: 0,0:20:38.15,0:20:38.75,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:20:14.42,0:20:16.99,Default,,0,0,0,,I doubt any of my contacts over the\Nnet will know who he is either...
+Dialogue: 0,0:20:17.42,0:20:19.72,Background,,0,0,0,,Sai... I wonder who he is...
+Dialogue: 0,0:20:21.95,0:20:23.79,Default,,0,0,0,,Wasn't that fun!?
+Dialogue: 0,0:20:23.89,0:20:24.49,Sai,,0,0,0,,Yup!
+Dialogue: 0,0:20:24.94,0:20:29.25,Default,,0,0,0,,Okay! We're gonna come to play on the\Nnet everyday for the rest of the summer!
+Dialogue: 0,0:20:29.62,0:20:32.89,Sai,,0,0,0,,What!? You're going to let me play every day!?
+Dialogue: 0,0:20:33.61,0:20:37.71,Background,,0,0,0,,Yeah. I'm gonna make you play\Nuntil you get sick and tired of it!
+Dialogue: 0,0:20:38.15,0:20:38.75,Sai,,0,0,0,,Yeah!
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:13.23,0:22:15.80,Default,,0,0,0,,Last time, we talked about choosing for color.
