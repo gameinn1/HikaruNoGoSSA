@@ -32,15 +32,15 @@ Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format
 This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-v15.zip (compiled via fonts collector) and made after 75/76 was complete. Once extracted, right click and install them.
 
 ## Intro/Progress
-I restarted this project in late December 2025 after it was laid dormant by gabest11 (they stopped around episode 60). Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done but there are some small problems. Most of the time they did not assign styles and there are very small differences to E-F/R-F in timing and punctuation, so this needs relooked at. I am pretty sure gabest11 took existing subs very similar to E-F/R-F and then put the openings and endings in with some notes.
+I restarted this project in late December 2025 after it was laid dormant by gabest11 (they stopped around episode 60). Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done but there are some small problems. Most of the time they did not assign styles/missed some notes so this needs relooked at. There are also some small errors in the text comapred to E-F/R-F (see Everything yet to do pdf for examples).
 
-I wanted to get the actual subs complete and I am happy to say that the main subs for 61 to 75 are now done with full styling! After that I decided to go back to the start.
+I wanted to get the actual subs complete and I am happy to say that the main subs for 61 to 75 are now done with full styling! After that I decided to go back to the start to style/do signs.
 
-I did pretty well in recreating episode 1. Everything is there with all the quirks of early E-F subs. From episode 2 onwards, I have considered changing the titles to the later versions that R-F did as it looks far better. I just decided to do Episode 1 exactly the same style as E-F had done as a homage.
+I did pretty well in recreating episode 1. Everything is there with all the quirks of early E-F subs. From episode 2 onwards, I have changed the titles to the later versions that R-F did as it looks far better. I just decided to do Episode 1 exactly the same style as E-F for a homage.
 
 The subbing for the ending Igo sections is not what what E-F/R-F had so they also have to get resubbed. I want to make it clear that all ending Igo is now done but just non E-F/R-F versions for the majority. Anything I did with a full green (or blue tick) tick is E-F/R-F Igo.
 
-As one person I'm really struggling to go back through all the remaining episodes. We're talking multiple months if it wants to get to the level of say Episode 1 or 75. I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
+I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
 1: Perfectly recreated the "Music is my Thing" karaoke ending that gabest11 did not get around to (starts episode 64). That was one of the last big hurdles for anyone wanting to actually properly restore the subs.
 
@@ -62,7 +62,7 @@ Update: January 4th 2026. I've decided to restore the AonE subs for the New Year
 
 Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully subbed! As for the main episodes, I may consider doing an episode per week (starting from 3) but for now I am looking at getting the special uploaded to get more eyes on the project.
 
-Update: January 28th 2026. Special is uploaded and I am working my way through gabest11 episodes now. I have done up till episode 10. Going to take a break.
+Update: January 28th 2026. Special is uploaded and I am working my way through gabest11 episodes now. I have done up till episode 10.
 
 Update: February 7th 2026. Timed and styled up till ep 12, doing 13 now. Thanks to llbx who did some intro texts which have all been put on current episodes.
 
