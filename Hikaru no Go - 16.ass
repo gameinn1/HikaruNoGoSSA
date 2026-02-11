@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 16 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 16 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 53
-Active Line: 78
-Video Position: 8064
+Video Zoom Percent: 0.625000
+Scroll Position: 213
+Active Line: 238
+Video Position: 29546
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -172,162 +172,163 @@ Dialogue: 0,0:05:32.56,0:05:36.36,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFF
 Dialogue: 0,0:05:32.56,0:05:36.36,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad0\pos(315,280)}Zelda> Who are you! I'm an "Insei"!
 Dialogue: 0,0:05:33.39,0:05:38.21,Background,,0,0,0,,Who are you... I'm an "Insei"...
 Dialogue: 0,0:05:41.66,0:05:42.56,Default,,0,0,0,,Insei?
-Dialogue: 0,0:05:43.88,0:05:49.31,Default,,0,0,0,,Hikaru-kun, can you find a place to stop soon? My shift is almost over.
-Dialogue: 0,0:05:49.59,0:05:51.31,Default,,0,0,0,,Oh, I'm done. Thanks much.
+Dialogue: 0,0:05:43.88,0:05:49.31,Default,,0,0,0,,Hikaru-kun, can you find a place to\Nstop soon? My shift's almost over.
+Dialogue: 0,0:05:49.59,0:05:51.16,Default,,0,0,0,,Oh, I'm done. Thanks much.
 Dialogue: 0,0:05:54.07,0:05:56.41,Default,,0,0,0,,So Zelda's an Insei...
-Dialogue: 0,0:05:58.39,0:06:00.00,Default,,0,0,0,,He's aimed for the pros...
-Dialogue: 0,0:06:02.01,0:06:06.97,Note,,0,0,0,,Japanese Institute of Go
+Dialogue: 0,0:05:58.39,0:06:00.13,Background,,0,0,0,,He's aimed for the pros...
+Dialogue: 0,0:06:02.01,0:06:06.97,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}Japanese Institute of Go
 Dialogue: 0,0:06:14.24,0:06:17.13,Default,,0,0,0,,It's time for lunch, so please halt your game.
-Dialogue: 0,0:06:27.70,0:06:29.43,Default,,0,0,0,,What's wrong Waya-kun?
-Dialogue: 0,0:06:31.66,0:06:35.69,Default,,0,0,0,,What are you thinking about? Did you make a mistake in the first half?
+Dialogue: 0,0:06:27.70,0:06:29.45,Background,,0,0,0,,What's wrong Waya-kun?
+Dialogue: 0,0:06:31.66,0:06:35.83,Default,,0,0,0,,What are you thinking about?\NDid you make a mistake in the first half?
 Dialogue: 0,0:06:37.41,0:06:39.68,Default,,0,0,0,,No, I didn't! Quiet you!
-Dialogue: 0,0:06:44.38,0:06:48.74,Thinking,,0,0,0,,Why am I so agitated? I'm in the middle of the pro examinations.
-Dialogue: 0,0:06:55.48,0:06:57.76,Default,,0,0,0,,Wow! Look at those wrinkles on his forehead.
-Dialogue: 0,0:06:59.68,0:07:01.38,Background,,0,0,0,,You're such a moron.
-Dialogue: 0,0:07:00.81,0:07:02.90,Default,,0,0,0,,It is a chance that comes along only once a year...
+Dialogue: 0,0:06:44.38,0:06:48.74,Thinking,,0,0,0,,Why am I so agitated? I'm in the\Nmiddle of the pro examinations.
+Dialogue: 0,0:06:55.48,0:06:58.11,Background,,0,0,0,,Wow! Look at those wrinkles on his forehead.
+Dialogue: 0,0:06:59.68,0:07:01.38,Default,,0,0,0,,You're such a moron.
+Dialogue: 0,0:07:00.81,0:07:02.94,Background,,0,0,0,,It is a chance that comes along only once a year...
 Dialogue: 0,0:07:08.68,0:07:10.98,Default,,0,0,0,,Oh yeah, it concerns me too.
-Dialogue: 0,0:07:13.99,0:07:15.98,Default,,0,0,0,,Look, there's one guy that's all calm.
-Dialogue: 0,0:07:19.10,0:07:20.58,Default,,0,0,0,,Touya... Akira...?
-Dialogue: 0,0:07:21.36,0:07:21.96,Default,,0,0,0,,Yes?
-Dialogue: 0,0:07:25.20,0:07:26.00,Default,,0,0,0,,That's...
-Dialogue: 0,0:07:27.24,0:07:30.56,Default,,0,0,0,,I knew that Touya Meijin's son was taking the exam here but...
-Dialogue: 0,0:07:31.06,0:07:33.72,Default,,0,0,0,,Not many people know how he looks...
-Dialogue: 0,0:07:34.21,0:07:35.73,Default,,0,0,0,,That's it!
+Dialogue: 0,0:07:12.95,0:07:15.98,Default,,0,0,0,,Look, there's one guy that's all calm.
+Dialogue: 0,0:07:19.10,0:07:20.58,Background,,0,0,0,,Touya... Akira...?
+Dialogue: 0,0:07:21.36,0:07:22.00,Default,,0,0,0,,Yes?
+Dialogue: 0,0:07:25.22,0:07:26.09,Background,,0,0,0,,That's...
+Dialogue: 0,0:07:27.24,0:07:30.89,Background,,0,0,0,,I knew that Touya Meijin's son\Nwas taking the exam here but...
+Dialogue: 0,0:07:31.06,0:07:33.77,Background,,0,0,0,,Not many people know how he looks...
+Dialogue: 0,0:07:34.21,0:07:35.77,Background,,0,0,0,,That's it!
 Dialogue: 0,0:07:36.87,0:07:38.19,Default,,0,0,0,,You didn't know?
 Dialogue: 0,0:07:39.55,0:07:42.17,Default,,0,0,0,,I knew that he was Touya-kun.
-Dialogue: 0,0:07:42.52,0:07:43.12,Default,,0,0,0,,Why?
-Dialogue: 0,0:07:43.24,0:07:48.34,Default,,0,0,0,,Because he's my opponent today. I don't stand a chance.
-Dialogue: 0,0:07:48.87,0:07:53.46,Default,,0,0,0,,A guy aimed at becoming pro shouldn't give up so quickly!
+Dialogue: 0,0:07:42.52,0:07:43.19,Default,,0,0,0,,Why?
+Dialogue: 0,0:07:43.19,0:07:48.34,Default,,0,0,0,,Because he's my opponent\Ntoday. I don't stand a chance.
+Dialogue: 0,0:07:48.87,0:07:53.46,Default,,0,0,0,,A guy aimed at becoming pro\Nshouldn't give up so quickly!
 Dialogue: 0,0:07:53.46,0:07:55.46,Default,,0,0,0,,B-But!
 Dialogue: 0,0:07:56.90,0:07:58.94,Default,,0,0,0,,Are the two of you Insei?
-Dialogue: 0,0:08:00.31,0:08:06.87,Default,,0,0,0,,Yup. It's my first exam this year. It's the third for you Waya-kun, right?
+Dialogue: 0,0:08:00.31,0:08:06.87,Default,,0,0,0,,Yup. It's my first exam this year. It's\Nthe third for you Waya-kun, right?
 Dialogue: 0,0:08:07.15,0:08:08.26,Default,,0,0,0,,Don't "right?" me!
-Dialogue: 0,0:08:09.99,0:08:13.76,Default,,0,0,0,,Oh, I'm totally going to lose today. A loss on the first match.
-Dialogue: 0,0:08:13.91,0:08:19.16,Default,,0,0,0,,But your game isn't over! Just make a come back against this guy!
-Dialogue: 0,0:08:21.29,0:08:25.45,Default,,0,0,0,,Waya-kun you're to irritated. Did something happen?
-Dialogue: 0,0:08:33.02,0:08:37.45,Default,,0,0,0,,When I was playing Go over the internet yesterday, someone really strong came and beat me.
-Dialogue: 0,0:08:38.10,0:08:39.95,Default,,0,0,0,,Given his strength, he's definitely a pro.
-Dialogue: 0,0:08:40.48,0:08:45.65,Default,,0,0,0,,And that guy said to me "I'm strong aren't I?" How can I not be irritated?
+Dialogue: 0,0:08:08.72,0:08:13.76,Default,,0,0,0,,Oh, I'm totally going to lose today.\NA loss on the first match.
+Dialogue: 0,0:08:13.91,0:08:19.16,Default,,0,0,0,,But your game isn't over! Just\Nmake a come back against this guy!
+Dialogue: 0,0:08:21.29,0:08:25.45,Default,,0,0,0,,Waya-kun you're too irritated.\NDid something happen?
+Dialogue: 0,0:08:33.02,0:08:37.54,Default,,0,0,0,,When I was playing Go over the internet yesterday,\Nsomeone really strong came and beat me.
+Dialogue: 0,0:08:38.10,0:08:40.17,Default,,0,0,0,,Given his strength, he's definitely a pro.
+Dialogue: 0,0:08:40.48,0:08:45.65,Default,,0,0,0,,And that guy said to me "I'm strong,\Naren't I?" How can I not be irritated?
 Dialogue: 0,0:08:46.77,0:08:49.33,Default,,0,0,0,,Would a pro really say that?
 Dialogue: 0,0:08:49.82,0:08:51.64,Default,,0,0,0,,I'm not talking to you!
-Dialogue: 0,0:08:52.11,0:08:54.00,Default,,0,0,0,,Waya-kun, your being too loud!
-Dialogue: 0,0:09:06.70,0:09:10.47,Default,,0,0,0,,Damn, I'm gonna get three wins and pass out of the try outs.
+Dialogue: 0,0:08:52.11,0:08:54.14,Default,,0,0,0,,Waya-kun, you're being too loud!
+Dialogue: 0,0:09:06.70,0:09:10.47,Default,,0,0,0,,Damn, I'm gonna get three wins\Nand pass out of the try outs.
 Dialogue: 0,0:09:11.93,0:09:13.83,Default,,0,0,0,,Don't think about Sai.
 Dialogue: 0,0:09:18.79,0:09:20.00,Default,,0,0,0,,Hmm... so this is Sai.
-Dialogue: 0,0:09:20.66,0:09:23.78,Default,,0,0,0,,What's your opinion on him as the American rep from last year?
+Dialogue: 0,0:09:20.66,0:09:23.88,Default,,0,0,0,,What's your opinion on him as\Nthe American rep from last year?
 Dialogue: 0,0:09:24.00,0:09:27.04,Default,,0,0,0,,Subarashii! I'd love to play him once.
-Dialogue: 0,0:09:27.81,0:09:32.55,Default,,0,0,0,,But, Sai gets so many challenges these days, it's hard to get a game.
-Dialogue: 0,0:09:32.79,0:09:36.52,Default,,0,0,0,,Well, well, then watching like this is all we can do, I guess.
-Dialogue: 0,0:09:38.02,0:09:40.27,Note,,0,0,0,,Shanghai
-Dialogue: 0,0:09:44.14,0:09:46.73,Default,,0,0,0,,The number of observers are increasing every day.
-Dialogue: 0,0:09:47.70,0:09:49.77,Default,,0,0,0,,People are starting to take notice of Sai.
+Dialogue: 0,0:09:27.81,0:09:32.55,Default,,0,0,0,,But, Sai gets so many challenges\Nthese days, it's hard to get a game.
+Dialogue: 0,0:09:32.79,0:09:36.52,Default,,0,0,0,,Well, well, then watching like\Nthis is all we can do, I guess.
+Dialogue: 0,0:09:38.02,0:09:40.27,Note,,0,0,10,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}Shanghai...
+Dialogue: 0,0:09:44.14,0:09:49.94,Default,,0,0,0,,The number of observers are increasing every\Nday. People are starting to take notice of Sai.
 Dialogue: 0,0:09:49.97,0:09:52.68,Default,,0,0,0,,Master, is this person a pro?
-Dialogue: 0,0:09:52.85,0:09:58.36,Default,,0,0,0,,Probably not, a pro wouldn't play amateurs constantly like this.
-Dialogue: 0,0:09:59.01,0:10:00.32,Default,,0,0,0,,So he's not a pro...
+Dialogue: 0,0:09:52.85,0:09:58.36,Default,,0,0,0,,Probably not, a pro wouldn't play\Namateurs constantly like this.
+Dialogue: 0,0:09:59.01,0:10:00.37,Background,,0,0,0,,So he's not a pro...
 Dialogue: 0,0:10:01.27,0:10:03.04,Default,,0,0,0,,If he's not a pro... who is he!?
 Dialogue: 0,0:10:04.98,0:10:06.97,Default,,0,0,0,,He may be the God of Go.
-Dialogue: 0,0:10:08.21,0:10:12.92,Default,,0,0,0,,The only time I played Sai, he ignored my messages.
+Dialogue: 0,0:10:08.21,0:10:12.92,Default,,0,0,0,,The only time I played Sai,\Nhe ignored my messages.
 Dialogue: 0,0:10:14.52,0:10:18.42,Default,,0,0,0,,No matter who I ask, they were all ignored.
 Dialogue: 0,0:10:19.28,0:10:21.73,Default,,0,0,0,,And no one has any information on Sai.
-Dialogue: 0,0:10:23.03,0:10:26.71,Default,,0,0,0,,The International Amateur Go Tournament is coming up... if I go to Japan...
+Dialogue: 0,0:10:23.03,0:10:26.71,Default,,0,0,0,,The International Amateur Go Tournament\Nis coming up... if I go to Japan...
 Dialogue: 0,0:10:27.10,0:10:28.41,Default,,0,0,0,,If I go to Japan...
 Dialogue: 0,0:10:28.91,0:10:31.63,Default,,0,0,0,,I might find out something about Sai.
-Dialogue: 0,0:10:32.32,0:10:35.28,Computer,,0,0,250,,Resignation
-Dialogue: 0,0:10:46.95,0:10:51.46,Thinking,,0,0,0,,I first saw Sai in the beginning of July. I've seen him constantly since then...
-Dialogue: 0,0:10:55.88,0:11:00.34,Thinking,,0,0,0,,But it's the middle of the day! Doesn't this guy have a job!?
-Dialogue: 0,0:11:02.94,0:11:05.91,Background,,0,0,0,,If you go everyday you'll...
-Dialogue: 0,0:11:06.19,0:11:08.44,Computer,,0,0,200,,{\fs70}> I'm strong aren't I?
+Dialogue: 0,0:10:32.32,0:10:35.28,Note,,0,0,250,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}Resign
+Dialogue: 0,0:10:46.95,0:10:51.55,Thinking,,0,0,0,,I first saw Sai in the beginning of July.\NI've seen him constantly since then...
+Dialogue: 0,0:10:55.88,0:11:00.34,Thinking,,0,0,0,,{\1c&HC5FEC1&}But it's the middle of the day!\NDoesn't this guy have a job!?
+Dialogue: 0,0:11:02.94,0:11:05.91,Default,,0,0,0,,if you go everyday you'll...
+Dialogue: 0,0:11:06.19,0:11:08.44,Note,,0,0,155,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}I'm strong aren't I?
 Dialogue: 0,0:11:12.08,0:11:16.13,Default,,0,0,0,,July... August... Summer Vacation!?
-Dialogue: 0,0:11:18.45,0:11:19.10,Default,,0,0,0,,Could it be!?
-Dialogue: 0,0:11:20.50,0:11:21.25,Default,,0,0,0,,A child!?
-Dialogue: 0,0:11:29.92,0:11:34.47,Note,,0,0,0,,Japanese Institute of Go
-Dialogue: 0,0:11:42.87,0:11:47.09,Default,,0,0,0,,Recently, the international skill level of Go has been rising steadily.
-Dialogue: 0,0:11:47.55,0:11:50.94,Default,,0,0,0,,And this year, we once again have more than 50 nations competing!
-Dialogue: 0,0:11:51.55,0:11:58.78,Default,,0,0,0,,This is clear proof of how much all of you enjoy Go, and dedicate yourself to it.
-Dialogue: 0,0:11:59.58,0:12:08.38,Default,,0,0,0,,I like to believe that one of our goals for the future, is to continuously explore new possibilities.
-Dialogue: 0,0:12:09.09,0:12:13.91,Default,,0,0,0,,Well then, four days from today, there'll be eight matches, at two a day.
+Dialogue: 0,0:11:18.45,0:11:19.28,Default,,0,0,0,,Could it be!?
+Dialogue: 0,0:11:20.50,0:11:21.37,Background,,0,0,0,,A child!?
+Dialogue: 0,0:11:29.92,0:11:34.47,Note,,0,0,0,,{\fs22.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(457,170)}Japanese Institute of Go
+Dialogue: 0,0:11:42.87,0:11:47.52,Default,,0,0,0,,Recently, the international skill\Nlevel of Go has been rising steadily.
+Dialogue: 0,0:11:47.55,0:11:50.94,Default,,0,0,0,,And this year, we once again have\Nmore than 50 nations competing!
+Dialogue: 0,0:11:51.55,0:11:58.78,Background,,0,0,0,,This is clear proof of how much all of\Nyou enjoy go, and dedicate yourself to it.
+Dialogue: 0,0:11:59.58,0:12:08.38,Default,,0,0,0,,I like to believe that one of our goals for the\Nfuture, is to continuously explore new possibilities.
+Dialogue: 0,0:12:09.09,0:12:13.91,Default,,0,0,0,,Well then, Four days from today,\Nthere'll be 8 matches, at two a day.
 Dialogue: 0,0:12:14.02,0:12:17.03,Default,,0,0,0,,Please enjoy them all you can.
 Dialogue: 0,0:12:19.18,0:12:22.97,Thinking,,0,0,0,,Sai... the mysterious player on the internet.
-Dialogue: 0,0:12:24.56,0:12:28.28,Thinking,,0,0,0,,When I first played him last month, I thought he was incredibly strong.
-Dialogue: 0,0:12:29.47,0:12:32.95,Thinking,,0,0,0,,Since then I've watched his games over and over...
+Dialogue: 0,0:12:24.56,0:12:28.39,Thinking,,0,0,0,,{\1c&HC5FEC1&}When I first played him last month,\NI thought he was incredibly strong.
+Dialogue: 0,0:12:29.47,0:12:32.95,Thinking,,0,0,0,,{\1c&HC5FEC1&}Since then I've watched his games over and over...
 Dialogue: 0,0:12:46.82,0:12:50.69,Thinking,,0,0,0,,He has... within the past month... changed...
-Dialogue: 0,0:13:05.96,0:13:09.07,Default,,0,0,0,,Master, please figure out who Sai is for us!
-Dialogue: 0,0:13:09.25,0:13:12.72,Default,,0,0,0,,He's so cool! The ultimate player who lurks on the nets.
+Dialogue: 0,0:13:05.96,0:13:09.07,Memory,,0,0,0,,Master, please figure out who Sai is for us!
+Dialogue: 0,0:13:09.25,0:13:12.72,Memory,,0,0,0,,He's so cool! The ultimate\Nplayer who lurks on the nets.
 Dialogue: 0,0:13:15.92,0:13:20.45,Thinking,,0,0,0,,I wish greatly to know about Sai, but there's no rush.
-Dialogue: 0,0:13:21.32,0:13:23.75,Thinking,,0,0,0,,I have to do my best in the tournament first.
-Dialogue: 0,0:13:26.12,0:13:30.55,Thinking,,0,0,0,,The most important goal is to bring the trophy back to China.
+Dialogue: 0,0:13:21.32,0:13:23.87,Thinking,,0,0,0,,I have to do my best in the tournament first.
+Dialogue: 0,0:13:26.12,0:13:30.62,Thinking,,0,0,0,,The most important goal is to\Nbring the trophy back to China.
 Dialogue: 0,0:13:31.79,0:13:34.12,Thinking,,0,0,0,,I have to win, no matter what.
-Dialogue: 0,0:13:34.95,0:13:36.34,Thinking,,0,0,0,,I'll worry about Sai after that.
+Dialogue: 0,0:13:34.95,0:13:36.46,Thinking,,0,0,0,,I'll worry about Sai after that.
 Dialogue: 0,0:13:37.63,0:13:39.63,Default,,0,0,0,,Well then, please Nigiri!
 Dialogue: 0,0:13:46.38,0:13:48.31,Default,,0,0,0,,Well then, please begin!
-Dialogue: 0,0:14:00.86,0:14:05.33,Default,,0,0,0,,Mr. Morishita, thank you for coming as head judge for the next four days.
+Dialogue: 0,0:14:00.86,0:14:05.33,Default,,0,0,0,,Mr. Morishita, thank you for coming\Nas head judge for the next four days.
 Dialogue: 0,0:14:06.56,0:14:08.87,Default,,0,0,0,,It must be hard running this tournament.
-Dialogue: 0,0:14:09.47,0:14:15.96,Default,,0,0,0,,It's not a problem once it begins like this, but it's very difficult until all the players arrive here.
-Dialogue: 0,0:14:16.34,0:14:18.66,Default,,0,0,0,,Every nation has some problem with it.
+Dialogue: 0,0:14:09.47,0:14:15.96,Default,,0,0,0,,It's not a problem once it begins like this, but\Nit's very difficult until all the players arrive here.
+Dialogue: 0,0:14:16.34,0:14:18.75,Default,,0,0,0,,Every nation has some problem with it.
 Dialogue: 0,0:14:19.23,0:14:22.53,Default,,0,0,0,,But I love this tournament the most.
 Dialogue: 0,0:14:23.02,0:14:26.51,Default,,0,0,0,,It shows how Go is spreading internationally.
-Dialogue: 0,0:14:27.11,0:14:28.71,Default,,0,0,0,,It's worth the effort.
-Dialogue: 0,0:14:36.44,0:14:37.28,Default,,0,0,0,,Waya!
+Dialogue: 0,0:14:27.11,0:14:28.71,Background,,0,0,0,,It's worth the effort.
+Dialogue: 0,0:14:36.44,0:14:37.28,Background,,0,0,0,,Waya!
 Dialogue: 0,0:14:38.92,0:14:39.77,Default,,0,0,0,,Teacher.
 Dialogue: 0,0:14:41.44,0:14:42.68,Default,,0,0,0,,Is he your student?
 Dialogue: 0,0:14:43.32,0:14:45.98,Default,,0,0,0,,Yes, I called him to come help today.
-Dialogue: 0,0:14:50.45,0:14:52.20,Default,,0,0,0,,What kind of a face is that!?
-Dialogue: 0,0:14:52.90,0:14:59.48,Default,,0,0,0,,The reason I had you come was to play the foreign players who have finished their games.
-Dialogue: 0,0:14:59.94,0:15:05.00,Default,,0,0,0,,Even you might have a hard time against the strongest of the International amateurs, but the weaker ones still have much to learn.
-Dialogue: 0,0:15:05.71,0:15:10.02,Default,,0,0,0,,They came all this way, we should teach them as much as possible.
-Dialogue: 0,0:15:14.41,0:15:18.77,Default,,0,0,0,,He passed the tryouts for this year's pro examinations with 3 wins and a loss.
+Dialogue: 0,0:14:50.45,0:14:52.25,Default,,0,0,0,,What kind of a face is that!?
+Dialogue: 0,0:14:52.90,0:14:59.48,Default,,0,0,0,,The reason I had you come was to play the\Nforeign players who have finished their games.
+Dialogue: 0,0:14:59.88,0:15:05.22,Default,,0,0,0,,Even you might have a hard time against the\Nstrongest of the International Amateurs, but\Nthe weaker ones still have much to learn.
+Dialogue: 0,0:15:05.71,0:15:10.02,Default,,0,0,0,,They came all this way, we should\Nteach them as much as possible.
+Dialogue: 0,0:15:14.41,0:15:18.81,Default,,0,0,0,,He passed the tryouts for this year's Pro\Nexaminations with 3 wins and a loss.
 Dialogue: 0,0:15:19.17,0:15:22.88,Default,,0,0,0,,That one loss was against Touya Meijin's son.
-Dialogue: 0,0:15:23.97,0:15:28.07,Default,,0,0,0,,Oh! Touya Akira-kun! I heard he was taking the exam this year.
-Dialogue: 0,0:15:28.89,0:15:30.62,Default,,0,0,0,,Hey, don't you dare lose at the real thing.
+Dialogue: 0,0:15:23.97,0:15:28.07,Default,,0,0,0,,Oh! Touya Akira-kun! I heard he\Nwas taking the exam this year.
+Dialogue: 0,0:15:28.89,0:15:30.83,Background,,0,0,0,,Hey, don't you dare lose at the real thing.
 Dialogue: 0,0:15:32.93,0:15:33.63,Default,,0,0,0,,Teacher!
 Dialogue: 0,0:15:38.13,0:15:38.98,Default,,0,0,0,,There's...
 Dialogue: 0,0:15:43.28,0:15:45.09,Default,,0,0,0,,There's someone really strong...
 Dialogue: 0,0:15:50.36,0:15:52.67,Default,,0,0,0,,Like I said. Touya Jr.
-Dialogue: 0,0:15:54.08,0:15:56.89,Default,,0,0,0,,Not that. On the internet!
+Dialogue: 0,0:15:54.08,0:15:56.89,Default,,0,0,0,,Not that! On the internet!
 Dialogue: 0,0:15:57.26,0:16:00.60,Default,,0,0,0,,Internet? Then it's a pro isn't it?
-Dialogue: 0,0:16:00.70,0:16:03.29,Default,,0,0,0,,He's not a pro! He's there even during pro matches!
-Dialogue: 0,0:16:03.92,0:16:06.85,Default,,0,0,0,,Then he's an amateur. There are strong amateurs too.
-Dialogue: 0,0:16:07.48,0:16:11.34,Default,,0,0,0,,Shimada-san, who's representing Japan today plays pros evenly!
-Dialogue: 0,0:16:11.76,0:16:12.78,Default,,0,0,0,,He's stronger than that!
+Dialogue: 0,0:16:00.70,0:16:03.32,Default,,0,0,0,,He's not a pro! He's there even during pro matches!
+Dialogue: 0,0:16:03.92,0:16:06.90,Default,,0,0,0,,Then he's an amateur. There\Nare strong amateurs too.
+Dialogue: 0,0:16:07.48,0:16:11.34,Default,,0,0,0,,Shimada-san, who's representing\NJapan today plays Pros evenly!
+Dialogue: 0,0:16:11.76,0:16:12.95,Default,,0,0,0,,He's stronger than that!
 Dialogue: 0,0:16:14.53,0:16:15.96,Default,,0,0,0,,How much stronger?
 Dialogue: 0,0:16:17.56,0:16:22.21,Thinking,,0,0,0,,He's stronger than you teacher... I can't say that...
-Dialogue: 0,0:16:24.81,0:16:25.98,Default,,0,0,0,,Ah, I don't care anymore.
-Dialogue: 0,0:16:27.29,0:16:30.16,Default,,0,0,0,,But really, amateurs are getting stronger these days...
+Dialogue: 0,0:16:24.81,0:16:26.05,Default,,0,0,0,,Ah, I don't care anymore.
+Dialogue: 0,0:16:27.29,0:16:30.22,Default,,0,0,0,,But really, Amateurs are\Ngetting stronger these days...
 Dialogue: 0,0:16:30.72,0:16:32.78,Default,,0,0,0,,Teacher, anyways, can you...
-Dialogue: 0,0:16:33.45,0:16:36.39,Default,,0,0,0,,I'll listen to you some other time. We have work to do today.
-Dialogue: 0,0:16:42.49,0:16:43.29,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:16:44.78,0:16:45.43,Default,,0,0,0,,Yes?
+Dialogue: 0,0:16:33.45,0:16:36.48,Default,,0,0,0,,I'll listen to you some other\Ntime. We have work to do today.
+Dialogue: 0,0:16:42.49,0:16:43.36,Background,,0,0,0,,Excuse me.
+Dialogue: 0,0:16:44.78,0:16:45.48,Default,,0,0,0,,Yes?
 Dialogue: 0,0:16:46.41,0:16:48.41,Default,,0,0,0,,I'm Waya, an Insei.
-Dialogue: 0,0:16:49.03,0:16:52.81,Default,,0,0,0,,Is there a computer with internet access that I could borrow?
+Dialogue: 0,0:16:49.03,0:16:52.91,Default,,0,0,0,,Is there a computer with internet\Naccess that I could borrow?
 Dialogue: 0,0:16:53.16,0:16:56.53,Default,,0,0,0,,Sure. Use that laptop over there.
 Dialogue: 0,0:16:57.74,0:16:59.16,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:17:05.05,0:17:07.05,Computer,,334,0,173,,{\an7\fs24}Idle Players: 56
-Dialogue: 0,0:17:19.89,0:17:20.64,Default,,0,0,0,,He's not there...
-Dialogue: 0,0:17:24.86,0:17:26.51,Default,,0,0,0,,Thank you very much for your help.
+Dialogue: 0,0:17:04.54,0:17:11.55,Computer,,0,0,0,,{\fs22.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(363,178)}Idle Players: 56
+Dialogue: 0,0:17:04.54,0:17:11.55,Computer,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(520,155)}Refresh
+Dialogue: 0,0:17:04.54,0:17:11.55,Computer,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(596,155)}Observe
+Dialogue: 0,0:17:19.89,0:17:20.81,Default,,0,0,0,,He's not there...
+Dialogue: 0,0:17:24.86,0:17:26.57,Default,,0,0,0,,Thank you very much for your help.
 Dialogue: 0,0:17:27.00,0:17:29.12,Default,,0,0,0,,Oh you can leave it like that.
 Dialogue: 0,0:17:29.56,0:17:30.16,Default,,0,0,0,,Okay.
-Dialogue: 0,0:18:11.55,0:18:12.25,Default,,0,0,0,,I resign.
-Dialogue: 0,0:18:13.48,0:18:14.69,Default,,0,0,0,,Thank you for the game.
-Dialogue: 0,0:18:29.77,0:18:30.42,Thinking,,0,0,0,,Sai...
-Dialogue: 0,0:18:42.16,0:18:44.26,Thinking,,0,0,0,,International amateur... Japanese representative.
-Dialogue: 0,0:18:45.96,0:18:48.66,Thinking,,0,0,0,,Sai is Japanese... could he be?
-Dialogue: 0,0:18:51.33,0:18:53.78,Thinking,,0,0,0,,No, he's not Sai.
-Dialogue: 0,0:18:57.30,0:19:00.00,Thinking,,0,0,0,,Sai is stronger than that.
-Dialogue: 0,0:19:06.85,0:19:12.03,Thinking,,0,0,0,,But if he's that strong, there may be other people looking for him.
-Dialogue: 0,0:19:20.61,0:19:25.12,Thinking,,0,0,0,,Maybe there are people on this very stage who have played Sai, like me.
-Dialogue: 0,0:19:26.56,0:19:27.21,Default,,0,0,0,,Sai...
+Dialogue: 0,0:18:11.55,0:18:12.57,Default,,0,0,0,,I resign.
+Dialogue: 0,0:18:13.48,0:18:14.95,Default,,0,0,0,,Thank you for the game.
+Dialogue: 0,0:18:29.77,0:18:30.51,Thinking,,0,0,0,,Sai...
+Dialogue: 0,0:18:42.16,0:18:44.73,Thinking,,0,0,0,,{\1c&HC5FEC1&}International Amateur... Japanese representative.
+Dialogue: 0,0:18:45.96,0:18:48.82,Thinking,,0,0,0,,Sai is Japanese... could he be?
+Dialogue: 0,0:18:51.33,0:18:53.86,Thinking,,0,0,0,,{\1c&HC5FEC1&}No, he's not Sai.
+Dialogue: 0,0:18:57.30,0:19:00.08,Thinking,,0,0,0,,Sai is stronger than that.
+Dialogue: 0,0:19:06.85,0:19:12.13,Thinking,,0,0,0,,But if he's that strong, there may\Nbe other people looking for him.
+Dialogue: 0,0:19:20.61,0:19:25.31,Thinking,,0,0,0,,Maybe there are people on this very\Nstage who have played Sai, like me.
+Dialogue: 0,0:19:26.56,0:19:27.31,Default,,0,0,0,,Sai...
 Dialogue: 0,0:19:35.78,0:19:38.63,Default,,0,0,0,,T-This person... he just...
-Dialogue: 0,0:19:39.72,0:19:40.42,Default,,0,0,0,,Waya...
-Dialogue: 0,0:19:42.99,0:19:43.94,Default,,0,0,0,,Come here for a sec.
+Dialogue: 0,0:19:39.72,0:19:40.45,Default,,0,0,0,,Waya...
+Dialogue: 0,0:19:42.99,0:19:44.04,Default,,0,0,0,,Come here for a sec.
 Dialogue: 0,0:19:45.02,0:19:46.27,Default,,0,0,0,,O-okay.
 Dialogue: 0,0:19:49.94,0:19:52.03,Default,,0,0,0,,He's almost a pro.
 Dialogue: 0,0:19:54.27,0:19:56.84,Default,,0,0,0,,B-But I don't have time for this!
-Dialogue: 0,0:19:56.84,0:19:59.82,Default,,0,0,0,,What are you talking about? Just do it. Give him six stones.
-Dialogue: 0,0:20:15.83,0:20:18.80,Thinking,,0,0,0,,He's strong... But it's not him...
+Dialogue: 0,0:19:56.84,0:19:59.89,Default,,0,0,0,,What are you talking about?\NJust do it. Give him six stones.
+Dialogue: 0,0:20:15.83,0:20:18.86,Thinking,,0,0,0,,He's strong... but it's not him...
 Dialogue: 0,0:20:19.79,0:20:20.89,Thinking,,0,0,0,,He's not Sai...
 Dialogue: 0,0:20:23.19,0:20:23.94,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:20:26.31,0:20:27.06,Thinking,,0,0,0,,Sai...
-Dialogue: 0,0:20:29.65,0:20:31.53,Thinking,,0,0,0,,Where are you... Sai?
+Dialogue: 0,0:20:29.65,0:20:31.59,Thinking,,0,0,0,,Where are you... Sai?
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.60,0:22:16.42,Default,,0,0,0,,Today, we'll discuss how to ensure that your stones aren't captured.
