@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 16 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Active Line: 3
-Video Position: 2458
+Scroll Position: 53
+Active Line: 78
+Video Position: 8064
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,79 +93,84 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.12,0:00:04.00,Memory,,0,0,0,,Fujiwarano Sai, a Go player from the Heian period
 Dialogue: 0,0:00:04.53,0:00:08.50,Memory,,0,0,0,,has passed through time and returned to\Nthe world in the mind of Shindou Hikaru...
 Dialogue: 0,0:00:09.38,0:00:11.70,Memory,,0,0,0,,in order to obtain the Hand of God.
-Dialogue: 0,0:01:42.48,0:01:45.05,Default,,0,0,0,,Hey, all I want? Really?
-Dialogue: 0,0:01:41.08,0:01:45.04,Note,,0,0,0,,Registration Form
+Dialogue: 0,0:01:42.48,0:01:45.05,Sai,,0,0,0,,Hey, all I want? Really?
+Dialogue: 0,0:01:41.08,0:01:45.04,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\pos(264,52)}Registration Form
+Dialogue: 0,0:01:41.08,0:01:45.04,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\pos(141,239)}Name
 Dialogue: 0,0:01:47.07,0:01:47.97,Default,,0,0,0,,The name is...
-Dialogue: 0,0:01:49.22,0:01:50.22,Default,,0,0,0,,S...
-Dialogue: 0,0:01:50.80,0:01:51.80,Default,,0,0,0,,a...
-Dialogue: 0,0:01:52.25,0:01:53.25,Default,,0,0,0,,i...
-Dialogue: 0,0:01:54.98,0:01:55.63,Default,,0,0,0,,Sai!
-Dialogue: 0,0:02:01.04,0:02:02.89,Default,,0,0,0,,Okay, let's do it!
+Dialogue: 0,0:01:49.22,0:01:50.22,Background,,0,0,0,,S...
+Dialogue: 0,0:01:50.80,0:01:51.80,Background,,0,0,0,,a...
+Dialogue: 0,0:01:52.25,0:01:53.25,Background,,0,0,0,,i...
+Dialogue: 0,0:01:54.98,0:01:55.63,Background,,0,0,0,,Sai!
+Dialogue: 0,0:02:01.04,0:02:02.89,Default,,0,0,0,,Okay let's do it!
 Dialogue: 0,0:02:03.44,0:02:08.40,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(295,115)}The Sixteenth Match
 Dialogue: 0,0:02:03.44,0:02:08.40,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Who is Sai!?
-Dialogue: 0,0:02:12.36,0:02:15.49,Note,,0,0,0,,The current temperature is 36.5 degrees...
-Dialogue: 0,0:02:15.49,0:02:19.62,Note,,0,0,0,,Experience the internet here!\NState-of-the-art systems available.
+Dialogue: 0,0:02:12.36,0:02:15.49,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(261,10)}The current temperature is 36.5 degrees...
+Dialogue: 0,0:02:15.49,0:02:16.32,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Experience
+Dialogue: 0,0:02:16.32,0:02:17.53,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}the internet here!
+Dialogue: 0,0:02:17.53,0:02:18.58,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}State-of-the-art
+Dialogue: 0,0:02:18.58,0:02:19.62,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}systems available.
 Dialogue: 0,0:02:23.80,0:02:24.88,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:02:26.20,0:02:28.48,Default,,0,0,0,,He suddenly sent me a message in English!
 Dialogue: 0,0:02:29.17,0:02:30.28,Default,,0,0,0,,Where?
-Dialogue: 0,0:02:31.76,0:02:34.51,Default,,0,0,0,,Let's see... Anata wa tsuyosugiru! Puro desuka? He said.
-Dialogue: 0,0:02:34.51,0:02:37.18,Default,,0,0,0,,Wow, that's incredible!
-Dialogue: 0,0:02:37.49,0:02:39.28,Default,,0,0,0,,This guy was to weak that's all.
-Dialogue: 0,0:02:39.53,0:02:41.18,Default,,0,0,0,,Do you want to reply?
-Dialogue: 0,0:02:41.71,0:02:42.68,Default,,0,0,0,,No! No!
-Dialogue: 0,0:02:43.03,0:02:48.57,Default,,0,0,0,,Then bring your cursor over here and click on it. Look at the monitor, not me.
-Dialogue: 0,0:02:49.08,0:02:49.98,Default,,0,0,0,,Y-Yeah!
-Dialogue: 0,0:02:50.19,0:02:53.07,Default,,0,0,0,,When you don't want to reply, just do that.
+Dialogue: 0,0:02:31.76,0:02:34.51,Background,,0,0,0,,Let's see... Anata wa tsuyosugiru!\NPuro desuka? He said.
+Dialogue: 0,0:02:34.51,0:02:37.18,Background,,0,0,0,,Wow that's incredible!
+Dialogue: 0,0:02:37.49,0:02:39.28,Background,,0,0,0,,This guy was too weak that's all.
+Dialogue: 0,0:02:39.53,0:02:41.18,Background,,0,0,0,,Do you want to reply?
+Dialogue: 0,0:02:41.71,0:02:42.68,Background,,0,0,0,,No! No!
+Dialogue: 0,0:02:43.03,0:02:48.57,Background,,0,0,0,,Then bring your cursor over here and\Nclick on it. Look at the monitor, not me.
+Dialogue: 0,0:02:48.77,0:02:50.15,Default,,0,0,0,,Y-Yeah!
+Dialogue: 0,0:02:50.15,0:02:53.07,Background,,0,0,0,,When you don't want to reply, just do that.
 Dialogue: 0,0:02:53.91,0:02:54.89,Default,,0,0,0,,Thanks!
-Dialogue: 0,0:02:54.98,0:02:56.13,Default,,0,0,0,,You are welcome.
-Dialogue: 0,0:02:54.98,0:02:56.13,Background,,0,0,0,,Dou itashimashite
-Dialogue: 0,0:02:56.94,0:02:58.57,Default,,0,0,0,,It means "You're welcome".
+Dialogue: 0,0:02:54.98,0:02:56.13,Default,,0,0,0,,Dou itashimashite
+Dialogue: 0,0:02:56.94,0:02:58.57,Default,,0,0,0,,It means "You're Welcome".
 Dialogue: 0,0:03:00.94,0:03:02.83,Default,,0,0,0,,Foreigners are so much trouble.
-Dialogue: 0,0:03:02.92,0:03:08.47,Default,,0,0,0,,How peculiar, why can we play Go with so many people with a box like this?
+Dialogue: 0,0:03:02.92,0:03:08.47,Sai,,0,0,0,,How peculiar, why can we play Go with\Nso many people with a box like this?
 Dialogue: 0,0:03:09.29,0:03:10.80,Default,,0,0,0,,Don't ask me!
-Dialogue: 0,0:03:10.80,0:03:11.86,Default,,0,0,0,,But...
-Dialogue: 0,0:03:14.28,0:03:15.18,Default,,0,0,0,,Come on out!
-Dialogue: 0,0:03:17.78,0:03:18.86,Default,,0,0,0,,Well then...
+Dialogue: 0,0:03:10.80,0:03:11.86,Sai,,0,0,0,,But...
+Dialogue: 0,0:03:12.76,0:03:15.18,Sai,,0,0,0,,come on out!
+Dialogue: 0,0:03:15.80,0:03:16.80,Default,,0,0,0,,Hey...
+Dialogue: 0,0:03:17.78,0:03:18.86,Background,,0,0,0,,Well then...
 Dialogue: 0,0:03:21.23,0:03:22.96,Default,,0,0,0,,Let's play a Japanese next.
-Dialogue: 0,0:03:23.42,0:03:24.76,Default,,0,0,0,,Be quiet already!
-Dialogue: 0,0:03:29.62,0:03:33.55,Default,,0,0,0,,Given his nick and the way he speaks, I just thought he might be a child that's all.
-Dialogue: 0,0:03:33.55,0:03:35.99,Computer,,0,0,370,,{\fad(200,0)}Hey jerkoff! Don't quit the game just because I killed a big cluster of stones! Moron!
+Dialogue: 0,0:03:23.42,0:03:24.60,Default,,0,0,0,,Be quiet already!
+Dialogue: 0,0:03:24.60,0:03:28.10,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad0\pos(242,40)}Nick
+Dialogue: 0,0:03:29.62,0:03:33.48,Memory,,0,0,0,,Given his nick and the way he speaks, I\Njust thought he might be a child that's all.
+Dialogue: 0,0:03:33.55,0:03:35.99,NoteTimes,,0,0,10,,{\an2\fs32.5}Hey jerkoff! Don't quit the game just because\NI killed a big cluster of stones! Moron!
 Dialogue: 0,0:03:36.55,0:03:39.57,Default,,0,0,0,,That guy! Okay, let's play him!
-Dialogue: 0,0:03:41.47,0:03:43.05,Default,,0,0,0,,Yay! Another game!
-Dialogue: 0,0:03:43.74,0:03:46.25,Default,,0,0,0,,I get to play more, right? Yay! Yay!
-Dialogue: 0,0:03:45.70,0:03:47.19,Default,,0,0,0,,You look happy, Sai.
-Dialogue: 0,0:03:47.19,0:03:48.25,Default,,0,0,0,,Well, of course!
-Dialogue: 0,0:03:48.75,0:03:49.55,Default,,0,0,0,,I'm so happy!
-Dialogue: 0,0:03:49.55,0:03:51.25,Default,,0,0,0,,I'm so happy, so happy!
-Dialogue: 0,0:03:49.05,0:03:51.55,Default,,0,0,0,,I'll let you play for awhile, it's only summer break anyways.
+Dialogue: 0,0:03:40.45,0:03:42.87,Sai,,0,0,0,,Yay! Another game!
+Dialogue: 0,0:03:43.74,0:03:46.25,Sai,,0,0,0,,I get to play more, right? Yay! Yay!
+Dialogue: 0,0:03:45.70,0:03:47.58,Default,,0,0,0,,You look happy, Sai.
+Dialogue: 0,0:03:47.19,0:03:48.42,Sai,,0,0,0,,Well, of course!
+Dialogue: 0,0:03:48.75,0:03:51.59,Sai,,0,0,0,,I'm so happy!
+Dialogue: 0,0:03:49.05,0:03:51.71,Default,,0,0,0,,I'll let you play for awhile, it's\Nonly summer break anyways.
 Dialogue: 0,0:03:53.19,0:03:56.55,Default,,0,0,0,,It's Japanese. He might be a child.
-Dialogue: 0,0:03:57.11,0:03:57.76,Default,,0,0,0,,A child!?
-Dialogue: 0,0:03:59.16,0:03:59.76,Default,,0,0,0,,here...
-Dialogue: 0,0:04:00.66,0:04:04.85,Default,,0,0,0,,Hikaru! Please don't click the wrong spot this time! Last game, half way through, you...
+Dialogue: 0,0:03:57.11,0:03:57.88,Sai,,0,0,0,,A child!?
+Dialogue: 0,0:03:59.16,0:03:59.89,Background,,0,0,0,,here...
+Dialogue: 0,0:04:00.66,0:04:05.10,Sai,,0,0,0,,Hikaru! Please don't click the wrong spot this time!\NLast game, half way through, you...
 Dialogue: 0,0:04:05.20,0:04:07.64,Default,,0,0,0,,Like I said, I'm not used to computers!
-Dialogue: 0,0:04:21.77,0:04:22.52,Default,,0,0,0,,What the...
+Dialogue: 0,0:04:21.77,0:04:22.66,Background,,0,0,0,,What the...
 Dialogue: 0,0:04:26.70,0:04:28.24,Default,,0,0,0,,Who is this!?
-Dialogue: 0,0:04:32.76,0:04:35.13,Default,,0,0,0,,How is he Sai?
-Dialogue: 0,0:04:36.05,0:04:38.70,Default,,0,0,0,,He's strong... Stronger than anyone else.
-Dialogue: 0,0:04:40.80,0:04:41.63,Default,,0,0,0,,1-10
+Dialogue: 0,0:04:32.76,0:04:35.17,Background,,0,0,0,,How is he Sai?
+Dialogue: 0,0:04:36.05,0:04:38.70,Sai,,0,0,0,,He's strong... Stronger than anyone else
+Dialogue: 0,0:04:40.80,0:04:41.63,Sai,,0,0,0,,1-10.
 Dialogue: 0,0:04:43.05,0:04:45.03,Default,,0,0,0,,Coming from Sai that's gotta mean a lot...
-Dialogue: 0,0:04:49.31,0:04:52.32,Computer,,0,0,260,,Resignation
-Dialogue: 0,0:04:50.28,0:04:52.13,Default,,0,0,0,,but look, he just resigned.
-Dialogue: 0,0:04:52.72,0:04:56.13,Default,,0,0,0,,He's strong, so he can accurately and quickly judge the situation.
-Dialogue: 0,0:04:56.75,0:05:00.13,Default,,0,0,0,,Knowing my strength, he probably decided that he couldn't do any more.
-Dialogue: 0,0:05:01.64,0:05:04.62,Default,,0,0,0,,The weaker an opponent is, the lesser his ability to judge,
-Dialogue: 0,0:05:04.84,0:05:06.72,Default,,0,0,0,,and they continue a game that they've already lost.
-Dialogue: 0,0:05:08.35,0:05:09.75,Default,,0,0,0,,Just like the way Hikaru used to be.
-Dialogue: 0,0:05:09.99,0:05:11.17,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:04:49.31,0:04:52.32,Note,,0,0,10,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Resignation.
+Dialogue: 0,0:04:50.28,0:04:52.13,Background,,0,0,0,,but look, he just resigned.
+Dialogue: 0,0:04:52.72,0:04:56.28,Sai,,0,0,0,,He's strong, so he can accurately\Nand quickly judge the situation.
+Dialogue: 0,0:04:56.75,0:05:00.36,Sai,,0,0,0,,Knowing my strength, he probably\Ndecided that he couldn't do any more.
+Dialogue: 0,0:05:01.64,0:05:04.70,Sai,,0,0,0,,The weaker an opponent is,\Nthe lesser his ability to judge,
+Dialogue: 0,0:05:04.84,0:05:06.91,Sai,,0,0,0,,and they continue a game that they've already lost.
+Dialogue: 0,0:05:08.35,0:05:09.91,Sai,,0,0,0,,Just like the way Hikaru used to be.
+Dialogue: 0,0:05:09.99,0:05:11.08,Default,,0,0,0,,Shut up!
 Dialogue: 0,0:05:12.12,0:05:13.32,Default,,0,0,0,,Mitani's sister!
 Dialogue: 0,0:05:14.31,0:05:15.46,Default,,0,0,0,,What is it this time?
-Dialogue: 0,0:05:15.77,0:05:17.94,Default,,0,0,0,,Can you send "I'm strong aren't I?" to the other guy?
+Dialogue: 0,0:05:15.77,0:05:18.01,Default,,0,0,0,,Can you send "I'm strong,\Naren't I?" to the other guy?
 Dialogue: 0,0:05:18.06,0:05:21.22,Default,,0,0,0,,Sure, but learn to do it yourself already okay?
 Dialogue: 0,0:05:23.72,0:05:24.72,Default,,0,0,0,,There you go.
 Dialogue: 0,0:05:24.97,0:05:25.62,Default,,0,0,0,,Arigatou!
-Dialogue: 0,0:05:29.34,0:05:31.33,Default,,0,0,0,,The internet is so much fun.
-Dialogue: 0,0:05:32.56,0:05:36.36,Computer,,86,0,250,,{\an7\fs30}Sai> I'm strong, aren't I?\NZelda> Who are you!\N\h\h\h\h\h\h\h\h\h\h\h\h\hI'm an "Insei"!
-Dialogue: 0,0:05:33.39,0:05:38.21,Default,,0,0,0,,Who are you... I'm an "Insei"...
+Dialogue: 0,0:05:29.34,0:05:31.33,Default,,0,0,0,,The internet's so much fun.
+Dialogue: 0,0:05:32.56,0:05:36.36,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad0\pos(243,240)}Sai> I'm strong, aren't I?
+Dialogue: 0,0:05:32.56,0:05:36.36,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad0\pos(315,280)}Zelda> Who are you! I'm an "Insei"!
+Dialogue: 0,0:05:33.39,0:05:38.21,Background,,0,0,0,,Who are you... I'm an "Insei"...
 Dialogue: 0,0:05:41.66,0:05:42.56,Default,,0,0,0,,Insei?
 Dialogue: 0,0:05:43.88,0:05:49.31,Default,,0,0,0,,Hikaru-kun, can you find a place to stop soon? My shift is almost over.
 Dialogue: 0,0:05:49.59,0:05:51.31,Default,,0,0,0,,Oh, I'm done. Thanks much.
