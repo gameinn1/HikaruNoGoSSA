@@ -72,7 +72,7 @@ Update: February 7th 2026. Timed and styled up till ep 12, doing 13 now. Thanks 
 - ☑️ Subbed but no signs
 - ❗ No subtitles exist
   
-| Episode | Subbed | Timed/Styled | Ending Igo |
+| Episode | Subbed | Checked/Styled | Ending Igo |
 |:------:|:------:|:-------:|:---------:|
 | 1  | ✅ | ✅ | ✅ |
 | 2  | ✅ | ✅ | ✅ |
