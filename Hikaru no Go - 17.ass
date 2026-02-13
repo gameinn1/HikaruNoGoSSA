@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 17 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 266
-Active Line: 287
-Video Position: 29510
+Scroll Position: 288
+Active Line: 307
+Video Position: 35529
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -380,25 +380,24 @@ Dialogue: 0,0:20:08.65,0:20:12.23,Default,,0,0,0,,Sorry, I've gotta hurry.
 Dialogue: 0,0:20:28.10,0:20:29.96,Default,,0,0,0,,Okay let's go!
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:12.77,0:22:15.00,Default,,0,0,0,,Today, we continue our discussion on eyes.
-Dialogue: 0,0:22:15.23,0:22:19.32,Default,,0,0,0,,One of these three shapes ensures that no black stones will be captured.
-Dialogue: 0,0:22:19.32,0:22:20.67,Default,,0,0,0,,Which one is it?
-Dialogue: 0,0:22:21.20,0:22:22.50,Default,,0,0,0,,- This.\N- This one.
-Dialogue: 0,0:22:24.17,0:22:29.56,Default,,0,0,0,,This one that Mai selected has two solid eyes, so Black cannot be captured.
-Dialogue: 0,0:22:29.75,0:22:31.21,Default,,0,0,0,,Now how about this one?
-Dialogue: 0,0:22:31.48,0:22:37.33,Default,,0,0,0,,These look like eyes, but a stone can be captured, which leaves only one eye.
-Dialogue: 0,0:22:37.54,0:22:41.03,Default,,0,0,0,,Now let's look at the one Yuki selected.
-Dialogue: 0,0:22:41.16,0:22:47.15,Default,,0,0,0,,They look like eyes, but these stones can be captured, leaving only a single eye.
-Dialogue: 0,0:22:48.47,0:22:52.18,Default,,0,0,0,,Shapes that look like eyes but are really not are "false eyes".
-Dialogue: 0,0:22:52.30,0:22:55.48,Default,,0,0,0,,False eyes are extremely important, so learn them well.
-Dialogue: 0,0:22:55.73,0:22:56.48,Default,,0,0,0,,Okay!
-Dialogue: 0,0:22:55.67,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:58.94,0:23:01.78,Default,,0,0,0,,There's a strong player, his name is Sai.
-Dialogue: 0,0:23:02.23,0:23:04.62,Default,,0,0,0,,People are raising a ruckus as to who Sai is.
-Dialogue: 0,0:23:05.15,0:23:08.63,Default,,0,0,0,,I feel a wall higher than when Shindou defeated me.
-Dialogue: 0,0:23:09.40,0:23:12.17,Default,,0,0,0,,I'll force white to reveal his eyes structure with the move.
-Dialogue: 0,0:23:23.18,0:23:24.74,Default,,0,0,0,,Come, tell me...
-Dialogue: 0,0:23:25.11,0:23:26.27,Default,,0,0,0,,Who are you!?
+Dialogue: 0,0:22:12.77,0:22:15.03,Default,,0,0,0,,Today, we continue our discussion on eyes.
+Dialogue: 0,0:22:15.23,0:22:19.32,Default,,0,0,0,,One of these formations, there is one\Nthat can't get captured no matter what.
+Dialogue: 0,0:22:19.32,0:22:20.67,Default,,0,0,0,,Which one of it is it?
+Dialogue: 0,0:22:21.20,0:22:22.50,Default,,0,0,0,,This one.
+Dialogue: 0,0:22:24.17,0:22:29.76,Default,,0,0,0,,This one that Mai-chan selected, has\Ntwo solid eyes, so it can't get captured.
+Dialogue: 0,0:22:29.75,0:22:31.48,Default,,0,0,0,,What about this one?
+Dialogue: 0,0:22:31.48,0:22:37.55,Default,,0,0,0,,Though it looks like an eye, this can get\Ncaptured. Which means, there's only one eye.
+Dialogue: 0,0:22:37.54,0:22:42.85,Default,,0,0,0,,What about this one? It's the one that Yuuki-kun\Nhas selected, but this part can get captured too,
+Dialogue: 0,0:22:43.20,0:22:47.29,Default,,0,0,0,,although it looks like an eye.\NAnd now you only have one eye.
+Dialogue: 0,0:22:48.47,0:22:55.68,Default,,0,0,0,,Kakemas are very important to\Nknow about so let's remember it.
+Dialogue: 0,0:22:55.68,0:22:56.60,Default,,0,0,0,,Okay!
+Dialogue: 0,0:22:58.94,0:23:00.48,Default,,0,0,0,,There is a strong player.
+Dialogue: 0,0:23:00.48,0:23:01.86,Default,,0,0,0,,His name is Sai.
+Dialogue: 0,0:23:02.23,0:23:04.78,Default,,0,0,0,,Everyone is talking about who is Sai.
+Dialogue: 0,0:23:05.15,0:23:08.70,Default,,0,0,0,,I feel a wall higher than when\NI was defeated by Shindou.
+Dialogue: 0,0:23:09.40,0:23:12.29,Default,,0,0,0,,With this move, I'll force him\Nto reveal his eye formation.
+Dialogue: 0,0:23:23.18,0:23:24.88,Default,,0,0,0,,Come on tell me...
+Dialogue: 0,0:23:25.11,0:23:26.43,Default,,0,0,0,,Who are you!?
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
