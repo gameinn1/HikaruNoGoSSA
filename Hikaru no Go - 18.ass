@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 16
-Video Position: 3784
+Video Zoom Percent: 0.625000
+Scroll Position: 6
+Active Line: 26
+Video Position: 4480
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,9 +108,15 @@ Dialogue: 0,0:02:20.37,0:02:25.38,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0
 Dialogue: 0,0:02:20.37,0:02:25.38,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Akira vs Sai
 Dialogue: 0,0:02:37.80,0:02:40.30,Sai,,0,0,0,,I get to play him again, right?
 Dialogue: 0,0:02:40.84,0:02:42.90,Default,,0,0,0,,Yup, I'll let you play all you want.
-Dialogue: 0,0:02:43.66,0:02:46.45,Default,,0,0,0,,Last time, during the team match, I played instead, so.
-Dialogue: 0,0:02:47.33,0:02:49.72,Thinking,,0,0,0,,Touya... Akira...
+Dialogue: 0,0:02:43.66,0:02:46.48,Default,,0,0,0,,Last time, during the team\Nmatch, I played instead, so.
+Dialogue: 0,0:02:47.33,0:02:49.72,Thinking,,0,0,0,,{\1c&HFEFECE&}Touya... Akira...
 Dialogue: 0,0:02:51.13,0:02:53.40,Default,,0,0,0,,It's 10. Let's log on.
+Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs22.5\bord2.5\pos(203,28)}People awaiting games
+Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs17.5\bord2.5\pos(217,100)}Awaiting games: 120 people/230
+Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs17.5\bord2.5\pos(108,172)}USER ID
+Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs17.5\bord2.5\pos(338,172)}Nationality
+Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs17.5\bord2.5\pos(543,172)}Wins
+Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs17.5\bord2.5\pos(605,172)}Losses
 Dialogue: 0,0:03:14.13,0:03:15.48,Default,,0,0,0,,He's not a pro...
 Dialogue: 0,0:03:15.81,0:03:18.24,Default,,0,0,0,,but he's as strong as a pro.
 Dialogue: 0,0:03:20.34,0:03:24.39,Default,,0,0,0,,It's as if Honinbou Shuusaku learned modern Joseki.
