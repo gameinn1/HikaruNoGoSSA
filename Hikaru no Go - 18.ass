@@ -17,41 +17,18 @@ Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 6
-Active Line: 26
-Video Position: 4480
+Scroll Position: 203
+Active Line: 220
+Video Position: 34824
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Op1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
 Style: Op1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Op1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op2Kanji,MS Gothic,22,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2Romaji,Wordy Diva,36,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English,Wordy Diva,36,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op2Romaji2,Pristina,40,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English2,Pristina,40,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op3Kanji,MS Gothic,24,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,20,1
-Style: Op3Romaji,Polo,28,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,55,1
-Style: Op3Romaji2,Pristina,70,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,180,100,0,0,1,1,0,8,30,30,55,1
-Style: Op3English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,2,20,20,20,1
-Style: Ed1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
-Style: Ed1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
 Style: Ed2Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
 Style: Ed2Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed2English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed3Kanji,MS Gothic,30,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3Romaji,Palatino Linotype,34,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3English,Palatino Linotype,34,&H00A7C6FA,&H0080FFFF,&H00082E51,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed3Romaji2,Pristina,40,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3English2,Pristina,40,&H0089D6F3,&H0080FFFF,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed4Kanji,MS Gothic,22,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4Romaji,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
-Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
-Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
 Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,15,1
@@ -59,33 +36,8 @@ Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
-Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
-Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
-Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
-Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
-Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
-Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
-Style: op75_eng,Freehand471 BT,29,&H00DBF3F2,&H006B6F7B,&H00000000,&H7D000000,0,0,0,0,100,100,0,0,1,2,2,2,0,0,14,1
-Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1,0,0,98.5,98.5,0,0,1,2,2,2,19,19,16,1
-Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
-Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
-Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
-Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
-Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
-Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: 61Sign,HillWilliam,42,&H00594941,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,20,1
-Style: NoteArialEF,Arial,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,20,1
-Style: CreditsEF,Bookman Old Style,22.5,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,20,1
 
 [Events]
@@ -117,52 +69,53 @@ Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs17.5\bord2.5\pos(108,172
 Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs17.5\bord2.5\pos(338,172)}Nationality
 Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs17.5\bord2.5\pos(543,172)}Wins
 Dialogue: 0,0:03:06.83,0:03:09.79,NoteTimes,,0,0,0,,{\fs17.5\bord2.5\pos(605,172)}Losses
-Dialogue: 0,0:03:14.13,0:03:15.48,Default,,0,0,0,,He's not a pro...
-Dialogue: 0,0:03:15.81,0:03:18.24,Default,,0,0,0,,but he's as strong as a pro.
-Dialogue: 0,0:03:20.34,0:03:24.39,Default,,0,0,0,,It's as if Honinbou Shuusaku learned modern Joseki.
-Dialogue: 0,0:03:25.32,0:03:28.06,Default,,0,0,0,,Is he a God... or a demon?
-Dialogue: 0,0:03:29.64,0:03:31.01,Default,,0,0,0,,He may be a child.
-Dialogue: 0,0:03:33.02,0:03:33.77,Thinking,,0,0,0,,A child.
+Dialogue: 0,0:03:14.13,0:03:15.48,Memory,,0,0,0,,He's not a pro...
+Dialogue: 0,0:03:15.81,0:03:18.24,Memory,,0,0,0,,but he's as strong as a pro.
+Dialogue: 0,0:03:20.34,0:03:24.39,Memory,,0,0,0,,It's as if Honinbou Shuusaku\Nlearned modern Joseki.
+Dialogue: 0,0:03:25.32,0:03:28.06,Memory,,0,0,0,,Is he a god... or a demon?
+Dialogue: 0,0:03:29.64,0:03:31.01,Memory,,0,0,0,,He may be a child.
+Dialogue: 0,0:03:33.02,0:03:33.77,Memory,,0,0,0,,A child...
 Dialogue: 0,0:03:38.09,0:03:38.84,Thinking,,0,0,0,,It can't be!
 Dialogue: 0,0:03:45.65,0:03:46.35,Thinking,,0,0,0,,It can't be!
 Dialogue: 0,0:03:47.00,0:03:48.15,Thinking,,0,0,0,,It just can't...
-Dialogue: 0,0:04:10.15,0:04:10.75,Default,,0,0,0,,He's here!
+Dialogue: 0,0:04:10.15,0:04:10.75,Background,,0,0,0,,He's here!
 Dialogue: 0,0:04:16.95,0:04:18.25,Default,,0,0,0,,I'll be going first.
 Dialogue: 0,0:04:33.81,0:04:35.36,Default,,0,0,0,,Come, tell me...
-Dialogue: 0,0:04:40.45,0:04:41.55,Default,,0,0,0,,Who are you!?
+Dialogue: 0,0:04:40.45,0:04:41.55,Default,,0,0,0,,who are you!?
 Dialogue: 0,0:05:52.06,0:05:53.70,Thinking,,0,0,0,,An hour's passed...
 Dialogue: 0,0:06:16.20,0:06:21.00,Thinking,,0,0,0,,In exchange for a loss, he's messing around on the net.
 Dialogue: 0,0:06:21.58,0:06:24.03,Thinking,,0,0,0,,He must think very little of all of us.
 Dialogue: 0,0:06:43.36,0:06:44.01,Default,,0,0,0,,He's strong...
-Dialogue: 0,0:06:55.37,0:06:58.82,Default,,0,0,0,,I feel a wall higher than when Shindou defeated me.
+Dialogue: 0,0:06:55.37,0:06:58.82,Default,,0,0,0,,I feel a wall higher than\Nwhen Shindou defeated me.
 Dialogue: 0,0:07:00.11,0:07:00.81,Default,,0,0,0,,He's...
 Dialogue: 0,0:07:08.45,0:07:10.40,Default,,0,0,0,,not Shindou!
-Dialogue: 0,0:07:13.76,0:07:16.53,Default,,0,0,0,,I'll force white to reveal his eyes structure with the move.
-Dialogue: 0,0:07:44.36,0:07:45.11,Default,,0,0,0,,That was...
+Dialogue: 0,0:07:13.76,0:07:16.58,Default,,0,0,0,,I'll force white to reveal his\Neyes structure with this move.
+Dialogue: 0,0:07:44.36,0:07:45.11,Background,,0,0,0,,That was...
 Dialogue: 0,0:07:49.82,0:07:50.57,Default,,0,0,0,,Could it be...
 Dialogue: 0,0:07:55.02,0:07:55.67,Default,,0,0,0,,Could it be!
-Dialogue: 0,0:08:17.64,0:08:20.02,Default,,0,0,0,,No... This strength...
-Dialogue: 0,0:08:20.81,0:08:24.87,Default,,0,0,0,,This strength that tore through the top players on the internet is...
+Dialogue: 0,0:08:17.64,0:08:20.02,Default,,0,0,0,,No... this strength...
+Dialogue: 0,0:08:20.81,0:08:24.94,Default,,0,0,0,,this strength that tore through the\Ntop players on the internet is...
 Dialogue: 0,0:08:25.92,0:08:27.31,Default,,0,0,0,,different from his.
-Dialogue: 0,0:08:28.53,0:08:33.44,Default,,0,0,0,,Then why did that move look like one of Shindou's moves?
+Dialogue: 0,0:08:28.53,0:08:33.44,Default,,0,0,0,,Then why did that move look\Nlike one of Shindou's moves?
 Dialogue: 0,0:09:00.27,0:09:03.68,Default,,0,0,0,,I still have a chance but...
-Dialogue: 0,0:09:05.34,0:09:06.62,Default,,0,0,0,,I feel like I've already lost...
-Dialogue: 0,0:09:09.61,0:09:12.41,Default,,0,0,0,,Oh no! I didn't block white off soon enough!
-Dialogue: 0,0:09:13.76,0:09:17.29,Default,,0,0,0,,Now it'll be difficult to take control of both the center and the left side.
-Dialogue: 0,0:09:29.51,0:09:32.70,Default,,0,0,0,,The black in the center... is dead...
+Dialogue: 0,0:09:05.34,0:09:06.78,Background,,0,0,0,,I feel like I've already lost...
+Dialogue: 0,0:09:09.61,0:09:12.41,Background,,0,0,0,,Oh no! I didn't block white off soon enough!
+Dialogue: 0,0:09:13.76,0:09:17.37,Default,,0,0,0,,Now it'll be difficult to take control\Nof both the center and the left side.
+Dialogue: 0,0:09:29.51,0:09:32.70,Background,,0,0,0,,The black in the center... is dead...
+Dialogue: 0,0:09:39.73,0:09:42.19,NoteTimes,,0,0,0,,{\fs30\bord2.5\pos(322,272)}Resignation
 Dialogue: 0,0:09:43.48,0:09:44.64,Default,,0,0,0,,He resigned...
 Dialogue: 0,0:09:51.96,0:09:55.38,Default,,0,0,0,,Sai, how about it? Was it Touya?
-Dialogue: 0,0:09:58.10,0:09:59.52,Default,,0,0,0,,Without a doubt.
+Dialogue: 0,0:09:58.10,0:09:59.52,Sai,,0,0,0,,Without a doubt.
 Dialogue: 0,0:10:00.36,0:10:03.46,Default,,0,0,0,,Oh... and, your thoughts?
 Dialogue: 0,0:10:05.30,0:10:06.20,Default,,0,0,0,,Sai?
-Dialogue: 0,0:10:07.50,0:10:11.39,Default,,0,0,0,,Oh yes, he was very strong.
-Dialogue: 0,0:10:12.07,0:10:16.76,Default,,0,0,0,,His instinct is great, and he always thinks in all the critical moments.
+Dialogue: 0,0:10:07.50,0:10:11.39,Sai,,0,0,0,,Oh yes, he was very strong.
+Dialogue: 0,0:10:12.07,0:10:16.76,Sai,,0,0,0,,His instinct is great, and he always\Nthinks in all the critical moments.
 Dialogue: 0,0:10:18.50,0:10:20.35,Default,,0,0,0,,And? Was he stronger?
-Dialogue: 0,0:10:22.49,0:10:25.21,Default,,0,0,0,,I was the one that grew stronger.
-Dialogue: 0,0:10:28.47,0:10:30.28,Default,,0,0,0,,And Hikaru, you too.
+Dialogue: 0,0:10:22.49,0:10:25.21,Sai,,0,0,0,,I was the one that grew stronger.
+Dialogue: 0,0:10:28.47,0:10:30.28,Sai,,0,0,0,,And Hikaru, you too.
 Dialogue: 0,0:10:31.21,0:10:31.91,Default,,0,0,0,,Me too?
-Dialogue: 0,0:10:32.55,0:10:35.87,Default,,0,0,0,,You watched dozens of my matches.
-Dialogue: 0,0:10:38.84,0:10:43.41,Default,,0,0,0,,The two of us seem to have grown considerably within the past month.
+Dialogue: 0,0:10:32.55,0:10:35.87,Sai,,0,0,0,,You watched dozens of my matches.
+Dialogue: 0,0:10:38.84,0:10:43.41,Sai,,0,0,0,,The two of us seem to have grown\Nconsiderably within the past month.
 Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,510,0,50,,{\an7\fs23}White
 Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,444,1,115,,{\an7\fs23}Captured: 1 stone
 Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,510,0,220,,{\an7\fs23}Black
@@ -172,95 +125,96 @@ Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,442,0,412,,{\an7\fs18}komi
 Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,0,13,412,,{\an9\fs18}moku
 Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,442,0,447,,{\an7\fs18}move
 Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,0,1,445,,{\an9\fs18}white
-Dialogue: 0,0:10:44.48,0:10:46.85,Default,,0,0,0,,I see, Sai...
+Dialogue: 0,0:10:44.48,0:10:46.85,Background,,0,0,0,,I see, Sai...
 Dialogue: 0,0:10:48.52,0:10:51.02,Default,,0,0,0,,He defeated Touya Akira easily...
 Dialogue: 0,0:10:52.30,0:10:54.30,Default,,0,0,0,,I wonder if even I'm a match...
-Dialogue: 0,0:10:55.89,0:10:57.29,Default,,0,0,0,,I can't believe that he's and amateur.
-Dialogue: 0,0:10:58.94,0:11:02.45,Default,,0,0,0,,Though it is unlikely that there are pros anywhere on this thing.
-Dialogue: 0,0:11:03.25,0:11:06.43,Default,,0,0,0,,Anyways, the internet is an unknown.
+Dialogue: 0,0:10:55.89,0:10:57.43,Background,,0,0,0,,I can't believe that he's an Amateur.
+Dialogue: 0,0:10:58.01,0:11:02.52,Default,,0,0,0,,Though it is unlikely that there\Nare pros anywhere on this thing.
+Dialogue: 0,0:11:03.25,0:11:06.43,Background,,0,0,0,,Anyways, the internet is an unknown.
 Dialogue: 0,0:11:09.76,0:11:11.64,Default,,0,0,0,,But... he's not a child.
-Dialogue: 0,0:11:12.93,0:11:14.75,Default,,0,0,0,,Children are careless with their play.
-Dialogue: 0,0:11:16.03,0:11:18.60,Default,,0,0,0,,No matter how much potential they have, they always make mistakes.
+Dialogue: 0,0:11:12.93,0:11:14.86,Default,,0,0,0,,Children are careless with their play.
+Dialogue: 0,0:11:16.03,0:11:18.74,Default,,0,0,0,,No matter how much potential they\Nhave, they always make mistakes.
 Dialogue: 0,0:11:20.02,0:11:22.92,Default,,0,0,0,,But... Sai's play is different...
-Dialogue: 0,0:11:24.83,0:11:28.93,Default,,0,0,0,,The solidness of his play suggests a great deal of experience.
+Dialogue: 0,0:11:24.83,0:11:29.00,Default,,0,0,0,,The solidness of his play suggests\Na great deal of experience.
 Dialogue: 0,0:11:38.81,0:11:39.46,Default,,0,0,0,,It's him...
-Dialogue: 0,0:11:44.33,0:11:46.03,Default,,0,0,0,,No... it's not.
+Dialogue: 0,0:11:44.33,0:11:46.03,Default,,0,0,0,,No... it's not...
 Dialogue: 0,0:11:46.77,0:11:48.37,Default,,0,0,0,,It's definitely not him...
-Dialogue: 0,0:11:49.56,0:11:53.45,Default,,0,0,0,,The match against Haze Jr. High that was all he had, wasn't it?
-Dialogue: 0,0:11:54.95,0:12:02.90,Default,,0,0,0,,But, why do I feel as if I've finally caught up with Shindou, after chasing him for so long?
+Dialogue: 0,0:11:49.56,0:11:53.53,Default,,0,0,0,,the match against Haze Jr. High,\Nthat was all he had, wasn't it?
+Dialogue: 0,0:11:54.95,0:12:02.90,Default,,0,0,0,,But, why do I feel as if I've finally caught up\Nwith Shindou, after chasing him for so long?
 Dialogue: 0,0:12:07.43,0:12:09.53,Default,,0,0,0,,No... he's not Shindou...
 Dialogue: 0,0:12:10.92,0:12:11.57,Default,,0,0,0,,He's not...
-Dialogue: 0,0:12:15.45,0:12:18.28,Default,,0,0,0,,The person that lurked in the darkness, isn't a child!
+Dialogue: 0,0:12:15.45,0:12:18.47,Background,,0,0,0,,The person that lurked in\Nthe darkness, isn't a child!
 Dialogue: 0,0:12:35.96,0:12:37.06,Default,,0,0,0,,Akira-kun!
 Dialogue: 0,0:12:38.04,0:12:39.11,Default,,0,0,0,,How was yesterday?
 Dialogue: 0,0:12:40.84,0:12:41.44,Default,,0,0,0,,Huh?
 Dialogue: 0,0:12:41.75,0:12:44.34,Default,,0,0,0,,Not huh, the pro exam!
-Dialogue: 0,0:12:45.41,0:12:47.91,Default,,0,0,0,,Of course, you won the first match, right?
+Dialogue: 0,0:12:45.41,0:12:47.96,Default,,0,0,0,,Of course, you won the first match, right?
 Dialogue: 0,0:12:49.03,0:12:52.19,Default,,0,0,0,,Umm... I didn't go.
 Dialogue: 0,0:12:52.47,0:12:54.20,Default,,0,0,0,,Okay! You didn't g...
 Dialogue: 0,0:12:54.89,0:12:55.98,Default,,0,0,0,,Wha!?
-Dialogue: 0,0:12:56.59,0:12:58.77,Default,,0,0,0,,There was someone that I really wanted to play,
-Dialogue: 0,0:12:59.19,0:13:00.83,Default,,0,0,0,,and I kinda chose to play him.
+Dialogue: 0,0:12:56.59,0:12:58.80,Default,,0,0,0,,There was someone I really wanted to play,
+Dialogue: 0,0:12:59.19,0:13:00.93,Default,,0,0,0,,and I kinda chose to play him.
 Dialogue: 0,0:13:01.29,0:13:03.48,Default,,0,0,0,,Kinda... what!?
 Dialogue: 0,0:13:03.93,0:13:08.12,Default,,0,0,0,,Ichikawa-san don't worry. It's okay.
-Dialogue: 0,0:13:08.83,0:13:10.98,Default,,0,0,0,,I'll go to the second match tomorrow.
-Dialogue: 0,0:13:11.52,0:13:12.93,Default,,0,0,0,,O-Oh...
-Dialogue: 0,0:13:13.33,0:13:14.65,Default,,0,0,0,,Akira-sensei!
+Dialogue: 0,0:13:08.81,0:13:10.98,Default,,0,0,0,,I'll go to the second match tomorrow.
+Dialogue: 0,0:13:11.52,0:13:12.93,Default,,0,0,0,,Oh...oh...
+Dialogue: 0,0:13:13.33,0:13:14.65,Background,,0,0,0,,Akira-sensei!
 Dialogue: 0,0:13:16.01,0:13:17.01,Default,,0,0,0,,Hirose-san!
 Dialogue: 0,0:13:17.46,0:13:18.31,Default,,0,0,0,,Hello.
 Dialogue: 0,0:13:18.81,0:13:21.27,Default,,0,0,0,,How was it? Your first match?
-Dialogue: 0,0:13:24.12,0:13:28.16,Default,,0,0,0,,Oh, how rude of me to ask Akira-san whether he won or not.
-Dialogue: 0,0:13:28.68,0:13:32.95,Default,,0,0,0,,Hiroe-san, you don't need to worry about the pro exams.
-Dialogue: 0,0:13:33.27,0:13:34.27,Default,,0,0,0,,Pay up already!
+Dialogue: 0,0:13:24.12,0:13:28.16,Default,,0,0,0,,Oh, how rude of me to ask\NAkira-san whether he won or not.
+Dialogue: 0,0:13:28.68,0:13:32.95,Default,,0,0,0,,Hirose-san, you don't need to\Nworry about the pro exams.
+Dialogue: 0,0:13:33.27,0:13:34.29,Default,,0,0,0,,Pay up already!
 Dialogue: 0,0:13:34.67,0:13:37.11,Default,,0,0,0,,Okay, okay... money...
-Dialogue: 0,0:13:37.55,0:13:39.55,Default,,0,0,0,,Oh yes, Akira-sensei.
+Dialogue: 0,0:13:37.55,0:13:39.55,Default,,0,0,0,,oh yes Akira-sensei.
 Dialogue: 0,0:13:40.06,0:13:40.66,Default,,0,0,0,,Yes?
 Dialogue: 0,0:13:40.78,0:13:43.78,Default,,0,0,0,,I saw him on my way here.
 Dialogue: 0,0:13:44.19,0:13:48.13,Default,,0,0,0,,That boy who beat you before, umm...
 Dialogue: 0,0:13:49.16,0:13:49.91,Default,,0,0,0,,Shindou?
 Dialogue: 0,0:13:50.52,0:13:52.87,Default,,0,0,0,,I don't know much about it,
-Dialogue: 0,0:13:53.20,0:13:59.30,Default,,0,0,0,,but you know those stores where there are lots of computers and you can access the internet?
-Dialogue: 0,0:14:04.38,0:14:05.18,Default,,0,0,0,,Shindou!
-Dialogue: 0,0:14:25.26,0:14:26.01,Thinking,,0,0,0,,Shindou!
-Dialogue: 0,0:14:29.73,0:14:30.48,Thinking,,0,0,0,,Is it you!?
-Dialogue: 0,0:14:53.72,0:14:54.47,Thinking,,0,0,0,,Shindou!?
+Dialogue: 0,0:13:53.20,0:13:59.44,Default,,0,0,0,,but you know those stores where there are lots\Nof computers and you can access the internet?
+Dialogue: 0,0:14:04.38,0:14:05.24,Background,,0,0,0,,Shindou!
+Dialogue: 0,0:14:25.26,0:14:26.01,Thinking,,0,0,0,,{\1c&HC5FEC1&}Shindou!
+Dialogue: 0,0:14:29.73,0:14:30.48,Thinking,,0,0,0,,{\1c&HC5FEC1&}Is it you!?
+Dialogue: 0,0:14:53.72,0:14:54.47,Thinking,,0,0,0,,{\1c&HC5FEC1&}Shindou!
 Dialogue: 0,0:14:55.67,0:14:56.92,Thinking,,0,0,0,,Are you Sai!?
-Dialogue: 0,0:15:17.65,0:15:18.55,Default,,0,0,0,,T-Touya...
+Dialogue: 0,0:15:16.98,0:15:18.55,Default,,0,0,0,,T-Touya...
 Dialogue: 0,0:15:19.77,0:15:23.57,Note,,0,0,1,,{\fs40\bord1.5\b0\fsp2\3c&H816778H}{\1c&H9e75e0H}Go! Go! {\1c&Hbc7898H}Stupid Eggplant {\1c&Ha7d3ffH}Boy!
 Dialogue: 0,0:15:26.87,0:15:27.47,Default,,0,0,0,,This is?
-Dialogue: 0,0:15:28.72,0:15:31.92,Default,,0,0,0,,It's a web comic! What is it all of a sudden!?
+Dialogue: 0,0:15:28.72,0:15:31.92,Default,,0,0,0,,It's a webcomic! What is it all of a sudden!?
 Dialogue: 0,0:15:36.37,0:15:37.42,Default,,0,0,0,,A friend?
 Dialogue: 0,0:15:38.69,0:15:40.86,Default,,0,0,0,,Yeah, a friend... I think...
-Dialogue: 0,0:15:41.26,0:15:42.98,Default,,0,0,0,,Sorry, I'm gonna go outside for just a second.
+Dialogue: 0,0:15:41.26,0:15:43.13,Default,,0,0,0,,Sorry, I'm gonna go outside for just a second.
 Dialogue: 0,0:15:49.16,0:15:50.65,Default,,0,0,0,,Really!
-Dialogue: 0,0:15:54.31,0:15:57.35,Default,,0,0,0,,Why do you suddenly appear before me all the time?
+Dialogue: 0,0:15:53.35,0:15:57.35,Default,,0,0,0,,Why do you suddenly appear\Nbefore me all the time?
 Dialogue: 0,0:15:58.13,0:15:59.33,Default,,0,0,0,,What is it?
-Dialogue: 0,0:16:06.18,0:16:09.19,Thinking,,0,0,0,,Crap, he seriously suspects something.
-Dialogue: 0,0:16:10.20,0:16:12.09,Default,,0,0,0,,Have you ever played Go on the internet?
+Dialogue: 0,0:16:06.18,0:16:09.28,Thinking,,0,0,0,,Crap, he seriously suspects something.
+Dialogue: 0,0:16:10.20,0:16:12.28,Default,,0,0,0,,Have you ever played Go on the internet?
 Dialogue: 0,0:16:12.40,0:16:13.30,Default,,0,0,0,,No!
 Dialogue: 0,0:16:14.50,0:16:15.60,Default,,0,0,0,,You know about it?
 Dialogue: 0,0:16:16.11,0:16:18.26,Default,,0,0,0,,I saw it once.
-Dialogue: 0,0:16:18.67,0:16:21.52,Default,,0,0,0,,They were doing it when I went to go watch a pro match with Tsutsui-san.
-Dialogue: 0,0:16:26.57,0:16:29.37,Thinking,,0,0,0,,Okay, I'm gonna lie my way out of this! Just try your best!
-Dialogue: 0,0:16:31.14,0:16:32.44,Default,,0,0,0,,There's a strong player.
+Dialogue: 0,0:16:18.67,0:16:21.63,Default,,0,0,0,,They were doing it when I went to go\Nwatch a pro match with Tsutsui-san.
+Dialogue: 0,0:16:26.57,0:16:29.47,Thinking,,0,0,0,,Okay, I'm gonna lie my way\Nout of this! Just try your best!
+Dialogue: 0,0:16:31.14,0:16:32.60,Default,,0,0,0,,There's a strong player.
 Dialogue: 0,0:16:32.96,0:16:36.05,Default,,0,0,0,,His name is Sai, I played him yesterday.
 Dialogue: 0,0:16:36.18,0:16:38.72,Default,,0,0,0,,Huh? What's a Sai?
-Dialogue: 0,0:16:39.12,0:16:40.59,Default,,0,0,0,,A white rhinoceros? A black rhinoceros?
-Dialogue: 0,0:16:39.12,0:16:47.90,Note,,0,0,0,,The joke comes from the word Sai meaning rhinoceros in Japanese.
-Dialogue: 0,0:16:41.24,0:16:47.90,Default,,0,0,0,,It's a handle. The people who play Go on the internet are raising a ruckus as to who Sai is.
+Dialogue: 0,0:16:39.06,0:16:40.65,Default,,0,0,0,,A white rhinoceros? A black rhinoceros?
+Dialogue: 0,0:16:39.06,0:16:47.90,Note,,0,0,0,,[note: The joke comes from the word Sai meaning rhinoceros in Japanese]
+Dialogue: 0,0:16:41.24,0:16:47.90,Default,,0,0,0,,It's a handle. The people who play go on the\Ninternet are raising a ruckus as to who Sai is.
 Dialogue: 0,0:16:48.39,0:16:50.12,Default,,0,0,0,,Huh? Who Sai is!?
+Dialogue: 0,0:16:51.11,0:16:51.78,Default,,0,0,0,,Oh...
 Dialogue: 0,0:16:52.05,0:16:53.05,Thinking,,0,0,0,,Crap!
 Dialogue: 0,0:16:55.63,0:16:58.79,Default,,0,0,0,,So you thought that I might be Sai?
-Dialogue: 0,0:17:00.02,0:17:03.07,Default,,0,0,0,,Oh yeah, I did beat you before.
-Dialogue: 0,0:17:03.87,0:17:05.65,Default,,0,0,0,,No wonder you thought it was me.
-Dialogue: 0,0:17:07.16,0:17:12.47,Default,,0,0,0,,But when I played you as the third board for the Go club, you didn't stand a chance.
+Dialogue: 0,0:17:00.02,0:17:03.07,Background,,0,0,0,,Oh yeah, I did beat you before.
+Dialogue: 0,0:17:03.87,0:17:05.71,Background,,0,0,0,,No wonder you thought it was me.
+Dialogue: 0,0:17:07.16,0:17:12.47,Default,,0,0,0,,But when I played you as the third board\Nfor the Go club, you didn't stand a chance.
 Dialogue: 0,0:17:13.02,0:17:17.01,Default,,0,0,0,,Oh that? I played poorly on purpose there!
 Dialogue: 0,0:17:17.01,0:17:18.84,Default,,0,0,0,,It can't be! You have no reason to!
-Dialogue: 0,0:17:19.36,0:17:24.58,Default,,0,0,0,,If you were as strong as Sai you'd try to become a pro and take a title or two!
+Dialogue: 0,0:17:19.36,0:17:24.58,Default,,0,0,0,,If you were as strong as Sai, you'd try\Nto become a pro and take a title or two!
 Dialogue: 0,0:17:24.68,0:17:25.43,Default,,0,0,0,,Am I wrong?
 Dialogue: 0,0:17:27.44,0:17:29.90,Default,,0,0,0,,Thanks for saying what was on my mind for me!
 Dialogue: 0,0:17:37.57,0:17:38.93,Default,,0,0,0,,Do you finally get it?
-Dialogue: 0,0:17:39.83,0:17:42.56,Default,,0,0,0,,I guess it really wasn't you.
+Dialogue: 0,0:17:39.83,0:17:42.56,Background,,0,0,0,,I guess it really wasn't you.
 Dialogue: 0,0:17:43.57,0:17:45.22,Default,,0,0,0,,What do you mean by that?
 Dialogue: 0,0:17:45.85,0:17:47.75,Default,,0,0,0,,So you didn't think it was me.
 Dialogue: 0,0:17:48.97,0:17:51.88,Default,,0,0,0,,No, it can't be you.
@@ -269,37 +223,50 @@ Dialogue: 0,0:17:55.65,0:17:58.48,Default,,0,0,0,,I'll never appear before you a
 Dialogue: 0,0:18:13.39,0:18:14.09,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:18:18.39,0:18:20.09,Default,,0,0,0,,Wait! Touya!
 Dialogue: 0,0:18:32.09,0:18:32.79,Default,,0,0,0,,If you...
-Dialogue: 0,0:18:37.03,0:18:42.57,Default,,0,0,0,,If you keep chasing after an illusion of me, I'll pass you by eventually!
+Dialogue: 0,0:18:37.03,0:18:42.57,Default,,0,0,0,,If you keep chasing after an illusion\Nof me, I'll pass you by eventually!
 Dialogue: 0,0:18:48.83,0:18:49.53,Default,,0,0,0,,You?
 Dialogue: 0,0:18:58.13,0:19:01.62,Default,,0,0,0,,Do you want to play now and not eventually?
 Dialogue: 0,0:19:39.97,0:19:40.82,Default,,0,0,0,,Screw you!
 Dialogue: 0,0:19:52.23,0:19:53.03,Default,,0,0,0,,Screw you...
 Dialogue: 0,0:20:01.31,0:20:02.86,Default,,0,0,0,,Who was he?
-Dialogue: 0,0:20:05.29,0:20:07.60,Default,,0,0,0,,I'm going home now.
+Dialogue: 0,0:20:05.29,0:20:07.60,Default,,0,0,0,,I'm gonna go home now.
 Dialogue: 0,0:20:08.59,0:20:09.24,Default,,0,0,0,,Oh.
-Dialogue: 0,0:20:10.58,0:20:15.50,Thinking,,0,0,0,,Raising a ruckus over who Sai is... can't play on the internet anymore.
+Dialogue: 0,0:20:10.58,0:20:15.50,Thinking,,0,0,0,,Raising a ruckus over who Sai is...\Ncan't play on the internet anymore.
 Dialogue: 0,0:20:17.42,0:20:19.12,Thinking,,0,0,0,,Let's stop Sai.
-Dialogue: 0,0:20:21.48,0:20:23.62,Default,,0,0,0,,Thanks for everything Mitani's sister.
-Dialogue: 0,0:20:23.71,0:20:24.81,Default,,0,0,0,,Hikaru-kun?
-Dialogue: 0,0:20:27.58,0:20:31.50,Default,,0,0,0,,I won't come anymore. Summer vacation is going to end soon too.
+Dialogue: 0,0:20:21.48,0:20:23.70,Default,,0,0,0,,Thanks for everything Mitani's sister.
+Dialogue: 0,0:20:23.71,0:20:24.87,Default,,0,0,0,,Hikaru-kun?
+Dialogue: 0,0:20:27.58,0:20:31.54,Default,,0,0,0,,I won't come anymore. Summer\Nvacation is going to end soon too.
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:12.77,0:22:14.86,Default,,0,0,0,,Today, we're at a Go salon.
-Dialogue: 0,0:22:15.06,0:22:18.47,Default,,0,0,0,,When I was a child I came here often.
-Dialogue: 0,0:22:19.60,0:22:22.90,Default,,0,0,0,,I brought two beginners.
-Dialogue: 0,0:22:23.26,0:22:26.09,Default,,0,0,0,,Please show them around.
-Dialogue: 0,0:22:26.42,0:22:30.15,Default,,0,0,0,,First, I'll test you to see how strong you are.
-Dialogue: 0,0:22:32.52,0:22:35.71,Default,,0,0,0,,Okay, I have a pretty good idea... You're about 25 {\i1}kyu{\i}.
-Dialogue: 0,0:22:39.99,0:22:42.73,Default,,0,0,0,,Mai's strength is about 22 kyu.
-Dialogue: 0,0:22:43.62,0:22:45.49,Note,,0,0,0,,At this salon, players are given a game card
-Dialogue: 0,0:22:45.63,0:22:48.10,Default,,0,0,0,,One for each of you.
-Dialogue: 0,0:22:49.88,0:22:52.45,Default,,0,0,0,,Let's take those cards and try playing someone.
-Dialogue: 0,0:22:53.12,0:22:54.93,Default,,0,0,0,,Onegaishimasu.
-Dialogue: 0,0:22:53.53,0:22:56.93,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:59.90,0:23:04.93,Default,,0,0,0,,That last match, the comeback that he made, that is his real strength.
-Dialogue: 0,0:23:05.93,0:23:07.35,Default,,0,0,0,,We're going to win this time!
-Dialogue: 0,0:23:07.85,0:23:11.51,Default,,0,0,0,,I can feel it myself, that I'm getting better!
-Dialogue: 0,0:23:22.61,0:23:26.59,Default,,0,0,0,,You really can't judge how strong your opponent is unless you're strong yourself...
+Dialogue: 0,0:22:12.77,0:22:14.91,Default,,0,0,0,,We're at a Go Salon today!
+Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(152,307)}Yuuki
+Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(321,212)}Teacher Yukari
+Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(502,307)}Mai
+Dialogue: 0,0:22:15.06,0:22:18.53,Default,,0,0,0,,This is a place I used to come\Nto a lot when I was a child.
+Dialogue: 0,0:22:16.63,0:22:19.35,NoteTimes,,0,0,0,,{\fs32\pos(216,257)}Tokyo City
+Dialogue: 0,0:22:16.63,0:22:19.35,NoteTimes,,0,0,0,,{\fs32\pos(442,320)}Lower Shimozawa Go Hall
+Dialogue: 0,0:22:20.11,0:22:22.62,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}At a Go Salon for the first time.
+Dialogue: 0,0:22:19.60,0:22:22.93,Default,,0,0,0,,I brought two beginners along today, so...
+Dialogue: 0,0:22:23.13,0:22:25.77,NoteTimes,,0,0,0,,{\fs32\pos(320,225)}Always check up on the entrance fee and system\Nthey're using before entering a Go Salon.
+Dialogue: 0,0:22:23.26,0:22:26.15,Default,,0,0,0,,Please show us around.
+Dialogue: 0,0:22:26.42,0:22:30.15,Default,,0,0,0,,Since it's your first time, I'll test\Nyou to see how strong you are.
+Dialogue: 0,0:22:26.59,0:22:29.76,NoteTimes,,0,0,0,,{\fs32\pos(475,320)}Yamaguchi Susumu-san
+Dialogue: 0,0:22:30.98,0:22:33.73,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}Let's find out how strong you are!
+Dialogue: 0,0:22:32.52,0:22:35.71,Default,,0,0,0,,Okay, I think I know now. You're about 25 kyu.
+Dialogue: 0,0:22:34.40,0:22:36.26,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}Yuuki is around 25 kyu!
+Dialogue: 0,0:22:39.99,0:22:42.79,Default,,0,0,0,,Mai-chan's strength is around 22 kyu.
+Dialogue: 0,0:22:40.90,0:22:43.40,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}Mai is 22 kyu!!
+Dialogue: 0,0:22:43.97,0:22:45.49,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}They'll give you a match card here.
+Dialogue: 0,0:22:45.63,0:22:48.88,Default,,0,0,0,,Both of you, hold on to this.
+Dialogue: 0,0:22:49.88,0:22:52.45,Default,,0,0,0,,Then, let's try playing someone using the cards!
+Dialogue: 0,0:22:50.09,0:22:52.70,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}Let's try playing a match!!
+Dialogue: 0,0:22:53.12,0:22:54.92,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:22:53.76,0:22:57.37,NoteTimes,,0,0,0,,{\fs32\pos(320,225)}Let's go with a parent or a\Nguardian your first time!
+Dialogue: 0,0:22:53.76,0:22:57.37,NoteTimes,,0,0,0,,{\fs22.5\pos(320,405)}To be continued.
+Dialogue: 0,0:22:59.90,0:23:04.93,Background,,0,0,0,,That match... his come back from a\Ndisadvantage is from his real strength.
+Dialogue: 0,0:23:05.93,0:23:07.35,Background,,0,0,0,,We'll win this time!
+Dialogue: 0,0:23:07.85,0:23:11.51,Background,,0,0,0,,I can really feel that I've gotten stronger.
+Dialogue: 0,0:23:22.61,0:23:26.76,Background,,0,0,0,,You really can't judge how strong your\Nopponent is unless you're strong yourself.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
