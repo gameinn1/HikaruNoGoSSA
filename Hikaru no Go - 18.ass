@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
+Audio File: ../Hikaru no Go/[E-F]_Hikaru_no_Go_18.avi
+Video File: ../Hikaru no Go/[E-F]_Hikaru_no_Go_18.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 203
-Active Line: 220
-Video Position: 34824
+Video Zoom Percent: 2.500000
+Scroll Position: 153
+Active Line: 157
+Video Position: 23954
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -199,7 +199,7 @@ Dialogue: 0,0:16:31.14,0:16:32.60,Default,,0,0,0,,There's a strong player.
 Dialogue: 0,0:16:32.96,0:16:36.05,Default,,0,0,0,,His name is Sai, I played him yesterday.
 Dialogue: 0,0:16:36.18,0:16:38.72,Default,,0,0,0,,Huh? What's a Sai?
 Dialogue: 0,0:16:39.06,0:16:40.65,Default,,0,0,0,,A white rhinoceros? A black rhinoceros?
-Dialogue: 0,0:16:39.06,0:16:47.90,Note,,0,0,0,,[note: The joke comes from the word Sai meaning rhinoceros in Japanese]
+Dialogue: 0,0:16:39.06,0:16:47.90,Note,,0,0,20,,[note: The joke comes from the word Sai meaning rhinoceros in Japanese]
 Dialogue: 0,0:16:41.24,0:16:47.90,Default,,0,0,0,,It's a handle. The people who play go on the\Ninternet are raising a ruckus as to who Sai is.
 Dialogue: 0,0:16:48.39,0:16:50.12,Default,,0,0,0,,Huh? Who Sai is!?
 Dialogue: 0,0:16:51.11,0:16:51.78,Default,,0,0,0,,Oh...

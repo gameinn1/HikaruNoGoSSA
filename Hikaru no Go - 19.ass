@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 19 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Active Line: 13
-Video Position: 3361
+Scroll Position: 153
+Active Line: 174
+Video Position: 16749
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -103,167 +104,170 @@ Dialogue: 0,0:02:11.54,0:02:12.74,Default,,0,0,0,,Hikaru-kun?
 Dialogue: 0,0:02:15.12,0:02:18.88,Default,,0,0,0,,I won't come anymore. Summer\Nvacation is going to end soon too.
 Dialogue: 0,0:02:19.41,0:02:24.33,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(300,115)}The Nineteenth Match
 Dialogue: 0,0:02:19.41,0:02:24.33,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Hikaru's Strength
-Dialogue: 0,0:02:46.56,0:02:49.10,Default,,0,0,0,,I can't go on the internet anymore...
-Dialogue: 0,0:02:50.43,0:02:52.98,Default,,0,0,0,,I guess we have no choice, Sai you wanna play me?
-Dialogue: 0,0:02:53.97,0:02:54.62,Default,,0,0,0,,Really!?
-Dialogue: 0,0:02:54.89,0:02:57.83,Default,,0,0,0,,Hikaru you never mentioned that before!
-Dialogue: 0,0:02:58.30,0:03:00.84,Default,,0,0,0,,That's because I didn't want to play you.
-Dialogue: 0,0:03:01.32,0:03:04.28,Default,,0,0,0,,I mean, I have to place stones for two people! That's so much work.
-Dialogue: 0,0:03:05.45,0:03:09.24,Default,,0,0,0,,But Hikaru... You don't have a Go board in your room.
-Dialogue: 0,0:03:09.52,0:03:10.37,Default,,0,0,0,,Or Go stones.
+Dialogue: 0,0:02:46.56,0:02:49.10,Thinking,,0,0,0,,I can't go on the internet anymore...
+Dialogue: 0,0:02:50.43,0:02:52.98,Thinking,,0,0,0,,I guess we have no choice, Sai you wanna play me?
+Dialogue: 0,0:02:53.97,0:02:54.62,Sai,,0,0,0,,Really!?
+Dialogue: 0,0:02:54.89,0:02:57.83,Sai,,0,0,0,,Hikaru you never mentioned that before!
+Dialogue: 0,0:02:58.30,0:03:00.84,Thinking,,0,0,0,,That's because I didn't want to play you.
+Dialogue: 0,0:03:01.33,0:03:04.33,Thinking,,0,0,0,,I mean, I have to place stones for\Ntwo people! That's so much work.
+Dialogue: 0,0:03:05.45,0:03:09.24,Sai,,0,0,0,,But Hikaru... you don't have\Na go board in your room.
+Dialogue: 0,0:03:09.52,0:03:10.37,Thinking,,0,0,0,,Or Go stones.
 Dialogue: 0,0:03:11.29,0:03:11.89,Default,,0,0,0,,You...
-Dialogue: 0,0:03:14.13,0:03:15.17,Default,,0,0,0,,have gotten stronger.
+Dialogue: 0,0:03:14.13,0:03:15.22,Default,,0,0,0,,have gotten stronger.
 Dialogue: 0,0:03:17.05,0:03:18.16,Default,,0,0,0,,Really?
 Dialogue: 0,0:03:20.05,0:03:21.05,Default,,0,0,0,,I thought so.
-Dialogue: 0,0:03:21.74,0:03:23.21,Default,,0,0,0,,You're not getting as large a handicap next time.
-Dialogue: 0,0:03:24.27,0:03:27.67,Default,,0,0,0,,Mitani, if you're giving up you should say "I resign".
-Dialogue: 0,0:03:28.74,0:03:33.10,Default,,0,0,0,,Why you! Don't get cocky, I'm still better than you are.
-Dialogue: 0,0:03:33.33,0:03:37.16,Default,,0,0,0,,That doesn't matter, even with a handicap, a win is a win.
+Dialogue: 0,0:03:21.74,0:03:23.39,Default,,0,0,0,,You're not getting as large a handicap next time.
+Dialogue: 0,0:03:24.27,0:03:27.67,Default,,0,0,0,,Mitani, if you're giving up\Nyou should say "I resign."
+Dialogue: 0,0:03:28.74,0:03:33.10,Default,,0,0,0,,Why you! Don't get cocky,\NI'm still better than you are.
+Dialogue: 0,0:03:33.33,0:03:37.16,Default,,0,0,0,,That doesn't matter, even with\Na handicap, a win is a win.
 Dialogue: 0,0:03:37.16,0:03:38.54,Default,,0,0,0,,What!?
-Dialogue: 0,0:03:39.12,0:03:44.73,Default,,0,0,0,,Hey everyone! Ms. Tamako bought two sets of Go boards and stones for us using the club budget.
-Dialogue: 0,0:03:45.50,0:03:46.57,Default,,0,0,0,,Go board and Go stones!?
+Dialogue: 0,0:03:39.12,0:03:44.73,Default,,0,0,0,,Hey everyone! Ms. Tamako bought two sets of Go\Nboards and stones for us using the club budget.
+Dialogue: 0,0:03:45.50,0:03:46.62,Default,,0,0,0,,Go board and Go stones!?
 Dialogue: 0,0:03:46.94,0:03:47.54,Default,,0,0,0,,Hey you!
-Dialogue: 0,0:03:48.98,0:03:49.95,Default,,0,0,0,,Wow, they're foldable.
+Dialogue: 0,0:03:48.25,0:03:49.95,Default,,0,0,0,,Wow, they're foldable.
 Dialogue: 0,0:03:50.79,0:03:53.31,Default,,0,0,0,,It's like a toy. Well it is a toy.
 Dialogue: 0,0:03:53.48,0:03:54.79,Default,,0,0,0,,Don't say that!
-Dialogue: 0,0:03:56.37,0:03:57.52,Default,,0,0,0,,We have a new member!
+Dialogue: 0,0:03:55.63,0:03:57.52,Default,,0,0,0,,Hey! We have a new member!
 Dialogue: 0,0:03:57.96,0:03:58.76,Default,,0,0,0,,Come in!
 Dialogue: 0,0:03:59.33,0:04:00.33,Default,,0,0,0,,Oh, hi.
 Dialogue: 0,0:04:03.62,0:04:04.52,Default,,0,0,0,,Just a girl?
-Dialogue: 0,0:04:04.61,0:04:06.67,Default,,0,0,0,,What do you mean by "Just a girl".
-Dialogue: 0,0:04:07.82,0:04:12.57,Default,,0,0,0,,Well, if it was a guy, we'd be able to go to the tournaments even after Tsutsui-san graduates.
+Dialogue: 0,0:04:04.61,0:04:06.67,Default,,0,0,0,,What do you mean by "Just a girl."
+Dialogue: 0,0:04:07.82,0:04:12.65,Default,,0,0,0,,Well, if it was a guy, we'd be able to go to the\Ntournaments even after Tsutsui-san graduates.
 Dialogue: 0,0:04:13.72,0:04:16.63,Default,,0,0,0,,Hey Akari, I don't know anything.
 Dialogue: 0,0:04:16.77,0:04:19.82,Default,,0,0,0,,Don't worry, I'll teach you everything.
 Dialogue: 0,0:04:20.07,0:04:21.85,Default,,0,0,0,,Who's going to teach what?
 Dialogue: 0,0:04:21.85,0:04:23.87,Default,,0,0,0,,I'm going to teach Go!
-Dialogue: 0,0:04:24.08,0:04:25.97,Default,,0,0,0,,I'm even going to Go class!
+Dialogue: 0,0:04:24.08,0:04:25.97,Background,,0,0,0,,I'm even going to a Go class!
 Dialogue: 0,0:04:26.38,0:04:27.19,Default,,0,0,0,,Serious!
-Dialogue: 0,0:04:27.00,0:04:27.75,Default,,0,0,0,,Serious!
+Dialogue: 0,0:04:27.00,0:04:27.75,Background,,0,0,0,,Serious!
 Dialogue: 0,0:04:27.64,0:04:28.68,Default,,0,0,0,,Alone?
-Dialogue: 0,0:04:28.32,0:04:29.01,Default,,0,0,0,,Yup.
+Dialogue: 0,0:04:28.32,0:04:29.01,Background,,0,0,0,,Yup.
 Dialogue: 0,0:04:29.01,0:04:30.17,Default,,0,0,0,,Why?
 Dialogue: 0,0:04:30.59,0:04:32.78,Default,,0,0,0,,The Go club's going great.
-Dialogue: 0,0:04:32.92,0:04:34.92,Default,,0,0,0,,It's too bad I have to study for High school entrance exams.
-Dialogue: 0,0:04:35.59,0:04:37.38,Default,,0,0,0,,You can come play every now and then, right?
-Dialogue: 0,0:04:37.99,0:04:40.42,Default,,0,0,0,,He's gotten strong over, summer break.
+Dialogue: 0,0:04:32.92,0:04:35.00,Default,,0,0,0,,It's too bad I have to study for\NHigh school entrance exams.
+Dialogue: 0,0:04:35.59,0:04:37.42,Default,,0,0,0,,You can come play every now and then, right?
+Dialogue: 0,0:04:37.99,0:04:40.51,Default,,0,0,0,,He's gotten strong over summer break.
 Dialogue: 0,0:04:40.97,0:04:42.66,Default,,0,0,0,,Okay, let's play a game.
-Dialogue: 0,0:04:43.16,0:04:44.55,Default,,0,0,0,,Play me with no handicap!
-Dialogue: 0,0:04:44.55,0:04:45.57,Default,,0,0,0,,Really?
-Dialogue: 0,0:04:46.31,0:04:47.99,Default,,0,0,0,,Then, Mitani-kun, teach us!
-Dialogue: 0,0:04:48.72,0:04:49.84,Default,,0,0,0,,He said he'll teach us!
-Dialogue: 0,0:04:51.94,0:04:56.76,Default,,0,0,0,,Oh yeah, Tsutsui-san, how much does a Go board and stones cost?
-Dialogue: 0,0:04:57.27,0:05:00.25,Default,,0,0,0,,This probably wouldn't even cost about 10,000 yen per set.
-Dialogue: 0,0:05:00.81,0:05:02.59,Default,,0,0,0,,That's expensive!
-Dialogue: 0,0:05:03.14,0:05:05.34,Default,,0,0,0,,I guess I have no choice but to talk to Gramps.
-Dialogue: 0,0:05:05.72,0:05:06.72,Default,,0,0,0,,What are you talking about?
-Dialogue: 0,0:05:12.08,0:05:15.35,Default,,0,0,0,,Yeah, I heard. You're playing Go?
-Dialogue: 0,0:05:15.35,0:05:17.84,Default,,0,0,0,,You knew? Yeah, it's been about a year now.
+Dialogue: 0,0:04:43.16,0:04:44.55,Background,,0,0,0,,Play me with no handicap!
+Dialogue: 0,0:04:44.55,0:04:45.57,Background,,0,0,0,,Really?
+Dialogue: 0,0:04:46.31,0:04:47.99,Background,,0,0,0,,Then, Mitani-kun, teach us!
+Dialogue: 0,0:04:48.18,0:04:48.73,Background,,0,0,0,,Huh?
+Dialogue: 0,0:04:48.72,0:04:49.89,Background,,0,0,0,,He said he'll teach us!
+Dialogue: 0,0:04:51.94,0:04:56.76,Memory,,0,0,0,,Oh yeah, Tsutsui-san, how much\Ndoes a Go board and stones cost?
+Dialogue: 0,0:04:57.27,0:05:00.32,Memory,,0,0,0,,This probably wouldn't even\Ncost 10,000 yen per set.
+Dialogue: 0,0:05:00.81,0:05:02.59,Memory,,0,0,0,,That's expensive!
+Dialogue: 0,0:05:03.14,0:05:05.45,Memory,,0,0,0,,I guess I have no choice but to talk to Gramps.
+Dialogue: 0,0:05:05.72,0:05:06.87,Memory,,0,0,0,,What are you talking about?
+Dialogue: 0,0:05:12.08,0:05:15.35,Background,,0,0,0,,Yeah, I heard. You're playing Go?
+Dialogue: 0,0:05:15.35,0:05:17.84,Background,,0,0,0,,You knew? Yeah, it's been about a year now.
 Dialogue: 0,0:05:18.87,0:05:22.02,Default,,0,0,0,,And you're in the Go club at school?
 Dialogue: 0,0:05:23.21,0:05:24.06,Default,,0,0,0,,Yup!
-Dialogue: 0,0:05:24.71,0:05:27.96,Default,,0,0,0,,And I came to ask you for something today.
-Dialogue: 0,0:05:28.51,0:05:29.41,Default,,0,0,0,,Ask me for something?
+Dialogue: 0,0:05:24.71,0:05:27.96,Background,,0,0,0,,And I came to ask you for something today.
+Dialogue: 0,0:05:28.51,0:05:29.56,Background,,0,0,0,,Ask me for something?
 Dialogue: 0,0:05:29.93,0:05:30.88,Default,,0,0,0,,No! No!
-Dialogue: 0,0:05:31.27,0:05:36.72,Default,,0,0,0,,Your mother strictly told me not to give you money all the time.
-Dialogue: 0,0:05:37.04,0:05:39.93,Default,,0,0,0,,I don't want money! I want you to buy me a Go board.
-Dialogue: 0,0:05:40.24,0:05:40.89,Default,,0,0,0,,Go stones too.
+Dialogue: 0,0:05:31.27,0:05:36.72,Default,,0,0,0,,Your mother strictly told me not\Nto give you money all the time.
+Dialogue: 0,0:05:37.04,0:05:39.93,Default,,0,0,0,,I don't want money! I want\Nyou to buy me a Go board.
+Dialogue: 0,0:05:40.24,0:05:40.95,Default,,0,0,0,,Go stones too.
 Dialogue: 0,0:05:40.98,0:05:43.60,Default,,0,0,0,,A Go board!? You don't have one?
-Dialogue: 0,0:05:44.48,0:05:47.18,Default,,0,0,0,,Okay! It's my grandson's request, I'll buy you one!
-Dialogue: 0,0:05:47.67,0:05:49.27,Default,,0,0,0,,A foldable one's fine, right?
+Dialogue: 0,0:05:44.48,0:05:47.20,Default,,0,0,0,,Okay! It's my grandson's request, I'll buy you one!
+Dialogue: 0,0:05:47.67,0:05:49.33,Default,,0,0,0,,A foldable one's fine, right?
 Dialogue: 0,0:05:49.96,0:05:51.66,Default,,0,0,0,,I want one with legs!
-Dialogue: 0,0:05:52.49,0:05:54.73,Default,,0,0,0,,If I beat you with no handicap, will you buy me one with legs?
+Dialogue: 0,0:05:52.49,0:05:54.73,Default,,0,0,0,,If I beat you with no handicap,\Nwill you buy me one with legs?
 Dialogue: 0,0:05:55.67,0:05:58.96,Default,,0,0,0,,N-N-N-No handicap!?
 Dialogue: 0,0:05:59.98,0:06:01.93,Default,,0,0,0,,Who do you think I am!
 Dialogue: 0,0:06:03.86,0:06:04.56,Default,,0,0,0,,How's this!
-Dialogue: 0,0:06:04.81,0:06:07.05,Default,,0,0,0,,Champion of the third City Go tournament!
-Dialogue: 0,0:06:07.37,0:06:09.67,Default,,0,0,0,,Winner of the 8th Go salon Grand prix!
+Dialogue: 0,0:06:04.81,0:06:07.10,Default,,0,0,0,,Champion of the Third City Go tournament!
+Dialogue: 0,0:06:07.37,0:06:09.77,Default,,0,0,0,,Winner of the 8th Go salon Grand prix!
 Dialogue: 0,0:06:09.96,0:06:12.05,Default,,0,0,0,,Countless other wins as well!
 Dialogue: 0,0:06:12.62,0:06:15.02,Default,,0,0,0,,Yeah, you showed me all that before.
 Dialogue: 0,0:06:15.53,0:06:19.29,Default,,0,0,0,,Come on, let's play already!
-Dialogue: 0,0:06:22.14,0:06:25.51,Default,,0,0,0,,If you beat me in an even match, I'll even give you this Go board.
+Dialogue: 0,0:06:22.14,0:06:25.53,Default,,0,0,0,,If you beat me in an even match,\NI'll even give you this Go board.
 Dialogue: 0,0:06:25.81,0:06:27.12,Default,,0,0,0,,What? A used board?
 Dialogue: 0,0:06:27.12,0:06:29.78,Default,,0,0,0,,Quiet you! This is a good board!
-Dialogue: 0,0:06:31.43,0:06:35.21,Default,,0,0,0,,Yeah! Gramps, what about that Go board in your shed.
-Dialogue: 0,0:06:37.29,0:06:40.40,Default,,0,0,0,,Oh that? From when you collapsed?
-Dialogue: 0,0:06:42.78,0:06:43.88,Default,,0,0,0,,Can't give you that.
-Dialogue: 0,0:06:44.52,0:06:45.32,Default,,0,0,0,,Why?
-Dialogue: 0,0:06:46.04,0:06:49.84,Default,,0,0,0,,There's a rumor that a ghost with a tall hat appears from it.
+Dialogue: 0,0:06:31.43,0:06:35.21,Default,,0,0,0,,Oh yeah! Gramps, what about\Nthat Go board in your shed.
+Dialogue: 0,0:06:37.29,0:06:40.40,Background,,0,0,0,,Oh that? From when you collapsed?
+Dialogue: 0,0:06:42.78,0:06:43.97,Background,,0,0,0,,Can't give you that.
+Dialogue: 0,0:06:44.52,0:06:45.32,Background,,0,0,0,,Why?
+Dialogue: 0,0:06:46.04,0:06:49.97,Background,,0,0,0,,There's a rumor that a Ghost\Nwith a tall hat appears from it.
 Dialogue: 0,0:06:53.41,0:06:54.71,Default,,0,0,0,,A ghost?
-Dialogue: 0,0:06:55.18,0:06:56.70,Default,,0,0,0,,Though it's just a rumor.
-Dialogue: 0,0:07:01.84,0:07:07.42,Default,,0,0,0,,That Go board is something my brother bought from an antique shop out of curiosity.
-Dialogue: 0,0:07:07.91,0:07:11.90,Default,,0,0,0,,Then when my brother died it was given to me as a memoir of him.
-Dialogue: 0,0:07:13.08,0:07:16.72,Default,,0,0,0,,But I've never seen a ghost like that even once.
-Dialogue: 0,0:07:19.55,0:07:22.68,Default,,0,0,0,,I'm with Hikaru right now.
-Dialogue: 0,0:07:24.97,0:07:27.02,Default,,0,0,0,,About a hundred years ago I was with Torajirou.
-Dialogue: 0,0:07:28.53,0:07:31.30,Default,,0,0,0,,Before that, I played within the palace in the capital.
-Dialogue: 0,0:07:36.05,0:07:39.03,Default,,0,0,0,,It's been a thousand years since then.
-Dialogue: 0,0:07:47.88,0:07:50.10,Default,,0,0,0,,I am still before a Go board.
-Dialogue: 0,0:07:51.19,0:07:56.02,Default,,0,0,0,,How long will God allow me to continue with my selfishness?
-Dialogue: 0,0:07:57.97,0:07:59.39,Default,,0,0,0,,Oh no! Don't!
-Dialogue: 0,0:08:00.86,0:08:02.73,Default,,0,0,0,,All my stones are going to get captured!
-Dialogue: 0,0:08:02.96,0:08:11.04,Default,,0,0,0,,Yeah, so you should have gone here instead of here earlier.
-Dialogue: 0,0:08:11.84,0:08:13.58,Default,,0,0,0,,Then can I take back my move?
-Dialogue: 0,0:08:13.93,0:08:14.95,Default,,0,0,0,,Sure sure.
-Dialogue: 0,0:08:15.46,0:08:16.38,Default,,0,0,0,,Thanks mister!
+Dialogue: 0,0:06:55.18,0:06:56.77,Background,,0,0,0,,Though it's just a rumor.
+Dialogue: 0,0:07:01.82,0:07:07.37,Default,,0,0,0,,That Go board is something my brother\Nbought from an antique shop out of curiosity.
+Dialogue: 0,0:07:07.87,0:07:11.83,Default,,0,0,0,,Then when my brother died, it was\Ngiven to me as a memoir of him.
+Dialogue: 0,0:07:13.08,0:07:16.79,Background,,0,0,0,,But I've never seen a ghost like that even once.
+Dialogue: 0,0:07:19.55,0:07:22.80,Sai,,0,0,0,,I'm with Hikaru right now.
+Dialogue: 0,0:07:24.97,0:07:27.13,Sai,,0,0,0,,About a hundred years ago I was with Torajirou.
+Dialogue: 0,0:07:28.53,0:07:31.35,Sai,,0,0,0,,Before that, I played within\Nthe Palace in the Capitol.
+Dialogue: 0,0:07:36.05,0:07:39.03,Sai,,0,0,0,,It's been a thousand years since then.
+Dialogue: 0,0:07:47.88,0:07:50.10,Sai,,0,0,0,,I am still before a Go board.
+Dialogue: 0,0:07:51.19,0:07:56.04,Sai,,0,0,0,,How long will God allow me to \Nontinue with my selfishness?
+Dialogue: 0,0:07:57.97,0:07:59.39,Background,,0,0,0,,Oh no! Don't!
+Dialogue: 0,0:08:00.17,0:08:02.75,Default,,0,0,0,,All my stones are going to get captured!
+Dialogue: 0,0:08:02.96,0:08:11.04,Default,,0,0,0,,Yeah, so you should have gone\Nhere instead of here earlier.
+Dialogue: 0,0:08:11.84,0:08:13.68,Default,,0,0,0,,Then can I take back my move?
+Dialogue: 0,0:08:13.93,0:08:14.95,Background,,0,0,0,,Sure sure.
+Dialogue: 0,0:08:15.43,0:08:16.43,Background,,0,0,0,,Thanks mister!
 Dialogue: 0,0:08:18.70,0:08:20.63,Default,,0,0,0,,Akota-san, you're so nice.
-Dialogue: 0,0:08:22.39,0:08:27.40,Default,,0,0,0,,Really, Akota-san's really changed since Fujisaki-san started to come.
+Dialogue: 0,0:08:22.39,0:08:27.40,Default,,0,0,0,,Really, Akota-san's really changed\Nsince Fujisaki-san started to come.
 Dialogue: 0,0:08:27.57,0:08:29.78,Default,,0,0,0,,No it's not like that.
-Dialogue: 0,0:08:30.02,0:08:32.06,Default,,0,0,0,,Speaking of, how's Shindou-kun doing?
-Dialogue: 0,0:08:32.60,0:08:35.32,Default,,0,0,0,,He's fine, Hikaru seems to have gotten a lot stronger.
-Dialogue: 0,0:08:35.44,0:08:40.93,Default,,0,0,0,,Oh yes, Fujisaki-san's been here before with Hikaru-kun!
+Dialogue: 0,0:08:30.02,0:08:32.12,Default,,0,0,0,,Speaking of, how's Shindou-kun doing?
+Dialogue: 0,0:08:32.60,0:08:35.32,Default,,0,0,0,,He's fine, Hikaru seems to\Nhave gotten a lot stronger.
+Dialogue: 0,0:08:35.44,0:08:40.93,Default,,0,0,0,,Oh yes, Fujisaki-san's been\Nhere before with Hikaru-kun!
 Dialogue: 0,0:08:41.11,0:08:41.71,Default,,0,0,0,,Yup.
-Dialogue: 0,0:08:42.13,0:08:46.30,Default,,0,0,0,,Hey, hey, Fujisaki-san you like Hikaru-kun don't you?
-Dialogue: 0,0:08:48.66,0:08:49.87,Default,,0,0,0,,N-Not really...
-Dialogue: 0,0:08:49.98,0:08:54.92,Default,,0,0,0,,Come on! You wouldn't suddenly take up Go if you didn't.
+Dialogue: 0,0:08:42.13,0:08:46.30,Default,,0,0,0,,Hey, hey, Fujisaki-san you\Nlike Hikaru-kun don't you?
+Dialogue: 0,0:08:48.30,0:08:49.80,Default,,0,0,0,,N-Not really...
+Dialogue: 0,0:08:49.98,0:08:54.92,Default,,0,0,0,,Come on! You wouldn't suddenly\Ntake up Go if you didn't.
 Dialogue: 0,0:08:56.61,0:08:57.61,Default,,0,0,0,,That's...
-Dialogue: 0,0:08:58.17,0:09:02.93,Default,,0,0,0,,W-Well, ask Shindou-kun to stop by here again sometime.
+Dialogue: 0,0:08:58.17,0:09:02.93,Default,,0,0,0,,W-Well, ask Shindou-kun to\Nstop by here again sometime.
 Dialogue: 0,0:09:03.83,0:09:04.43,Default,,0,0,0,,Okay.
 Dialogue: 0,0:09:09.51,0:09:12.60,Thinking,,0,0,0,,What am I doing in a place like this?
 Dialogue: 0,0:09:22.67,0:09:23.97,Default,,0,0,0,,Let's see...
-Dialogue: 0,0:09:25.60,0:09:27.25,Default,,0,0,0,,I think I'm lacking a bit.
+Dialogue: 0,0:09:25.60,0:09:27.34,Default,,0,0,0,,I think I'm lacking a bit.
 Dialogue: 0,0:09:30.80,0:09:34.41,Default,,0,0,0,,What is it gramps, stop groaning, it's distracting.
 Dialogue: 0,0:09:37.32,0:09:39.80,Default,,0,0,0,,You said you've played for a year now?
-Dialogue: 0,0:09:40.61,0:09:42.62,Default,,0,0,0,,Improving this much in just a year...
-Dialogue: 0,0:09:43.63,0:09:47.13,Default,,0,0,0,,Well, you're really become strong.
+Dialogue: 0,0:09:40.61,0:09:42.77,Default,,0,0,0,,Improving this much in just a year...
+Dialogue: 0,0:09:43.63,0:09:47.13,Default,,0,0,0,,Well, you've really become strong.
 Dialogue: 0,0:09:48.32,0:09:49.07,Default,,0,0,0,,Really?
-Dialogue: 0,0:09:49.61,0:09:51.96,Default,,0,0,0,,This is why you can't underestimate children...
-Dialogue: 0,0:09:53.77,0:09:55.12,Default,,0,0,0,,or actually you've got talent.
+Dialogue: 0,0:09:49.61,0:09:52.11,Default,,0,0,0,,This is why you can't underestimate children...
+Dialogue: 0,0:09:53.77,0:09:55.24,Default,,0,0,0,,or actually you've got talent.
 Dialogue: 0,0:09:55.43,0:09:58.47,Default,,0,0,0,,Really!? Then I'm winning this!
-Dialogue: 0,0:09:58.97,0:10:04.26,Default,,0,0,0,,No not at all, even if you don't make a mistake in the endgame, I'm still winning.
+Dialogue: 0,0:09:58.97,0:10:04.17,Default,,0,0,0,,No not at all, even if you don't make a\Nmistake in the endgame, I'm still winning.
 Dialogue: 0,0:10:05.71,0:10:07.13,Default,,0,0,0,,Then I lost.
-Dialogue: 0,0:10:07.55,0:10:09.56,Default,,0,0,0,,Like I said, who do you think I am!?
-Dialogue: 0,0:10:09.91,0:10:12.93,Default,,0,0,0,,I was the only one who beat Inoue-san from Kutsuwa city!
+Dialogue: 0,0:10:07.55,0:10:09.67,Default,,0,0,0,,Like I said, who do you think I am!?
+Dialogue: 0,0:10:09.91,0:10:13.01,Default,,0,0,0,,I was the only one who beat\NInoue-san from Kutsuwa city!
 Dialogue: 0,0:10:13.16,0:10:15.82,Default,,0,0,0,,Who is that? No one knows him!
 Dialogue: 0,0:10:20.80,0:10:23.47,Default,,0,0,0,,With legs... I guess it's okay.
 Dialogue: 0,0:10:23.57,0:10:26.16,Default,,0,0,0,,I'll get you one, the cheapest one.
-Dialogue: 0,0:10:26.87,0:10:30.09,Default,,0,0,0,,If that's all it takes to encourage you further, it's a good buy.
+Dialogue: 0,0:10:26.87,0:10:30.19,Default,,0,0,0,,If that's all it takes to encourage\Nyou further, it's a good buy.
 Dialogue: 0,0:10:30.64,0:10:31.39,Default,,0,0,0,,Really!?
-Dialogue: 0,0:10:32.92,0:10:34.22,Default,,0,0,0,,I have a delivery!
-Dialogue: 0,0:10:34.57,0:10:35.42,Default,,0,0,0,,Oh thanks.
-Dialogue: 0,0:10:38.07,0:10:40.42,Default,,0,0,0,,Hikaru! What are you doing! Are you okay?
-Dialogue: 0,0:10:42.70,0:10:45.20,Default,,0,0,0,,5-50,000 yen!? This!?
+Dialogue: 0,0:10:32.92,0:10:34.22,Background,,0,0,0,,I have a delivery!
+Dialogue: 0,0:10:34.57,0:10:35.49,Background,,0,0,0,,Oh thanks.
+Dialogue: 0,0:10:37.37,0:10:40.42,Background,,0,0,0,,Oh Hikaru! What are you doing! Are you okay?
+Dialogue: 0,0:10:42.70,0:10:45.25,Background,,0,0,0,,5-50,000 yen!? This!?
 Dialogue: 0,0:10:45.55,0:10:47.31,Default,,0,0,0,,Thanks gramps!
-Dialogue: 0,0:10:47.74,0:10:50.04,Default,,0,0,0,,Did you thank your grandfather properly?
+Dialogue: 0,0:10:47.74,0:10:50.17,Default,,0,0,0,,Did you thank your grandfather properly?
 Dialogue: 0,0:10:50.63,0:10:51.48,Default,,0,0,0,,Yeah, yeah.
-Dialogue: 0,0:10:55.38,0:11:00.02,Default,,0,0,0,,I had no idea he would continue Go for this long.
-Dialogue: 0,0:11:01.00,0:11:02.60,Default,,0,0,0,,What will we do?
-Dialogue: 0,0:11:03.20,0:11:03.90,Default,,0,0,0,,What will we do?
-Dialogue: 0,0:11:03.99,0:11:05.71,Default,,0,0,0,,What will we do and what will we do?
-Dialogue: 0,0:11:05.71,0:11:07.88,Default,,0,0,0,,What will we do?
+Dialogue: 0,0:10:55.38,0:11:00.14,Default,,0,0,0,,I had no idea he would continue Go for this long.
+Dialogue: 0,0:11:01.00,0:11:01.85,Sai,,0,0,0,,What will we do?
+Dialogue: 0,0:11:01.93,0:11:02.73,Sai,,0,0,0,,What will we do?
+Dialogue: 0,0:11:03.18,0:11:03.85,Sai,,0,0,0,,What will we do?
+Dialogue: 0,0:11:03.93,0:11:04.69,Sai,,0,0,0,,What will we do?
+Dialogue: 0,0:11:04.77,0:11:06.40,Sai,,0,0,0,,What will we do and what will we do?
+Dialogue: 0,0:11:06.94,0:11:07.77,Sai,,0,0,0,,What will we do?
 Dialogue: 0,0:11:08.57,0:11:11.35,Default,,0,0,0,,It's nice having a Go board in my room.
-Dialogue: 0,0:11:11.75,0:11:14.10,Default,,0,0,0,,Hikaru! Let's play! Let's play!
+Dialogue: 0,0:11:11.75,0:11:14.10,Sai,,0,0,0,,Hikaru! Let's play! Let's play!
 Dialogue: 0,0:11:14.54,0:11:16.26,Default,,0,0,0,,Okay! Okay!
-Dialogue: 0,0:11:17.67,0:11:21.36,Default,,0,0,0,,It's so cool! New stuff's so good!
-Dialogue: 0,0:11:22.19,0:11:25.10,Default,,0,0,0,,Hikaru, place all the handicap stones you want!
-Dialogue: 0,0:11:25.51,0:11:27.34,Default,,0,0,0,,All I want?
+Dialogue: 0,0:11:17.67,0:11:21.36,Background,,0,0,0,,It's so cool! New stuff's so good!
+Dialogue: 0,0:11:22.19,0:11:25.16,Sai,,0,0,0,,Hikaru, place all the handicap stones you want!
+Dialogue: 0,0:11:25.51,0:11:27.34,Background,,0,0,0,,All I want?
 Dialogue: 0,0:11:27.77,0:11:28.90,Default,,0,0,0,,What's that!
-Dialogue: 0,0:11:28.90,0:11:30.36,Default,,0,0,0,,I don't need any handicap!
+Dialogue: 0,0:11:28.90,0:11:30.42,Default,,0,0,0,,I don't need any handicap!
 Dialogue: 0,0:11:32.45,0:11:33.58,Default,,0,0,0,,Come on, Nigiri!
-Dialogue: 0,0:11:33.98,0:11:37.92,Default,,0,0,0,,Nigiri? B-But... Nigiri!?
-Dialogue: 0,0:11:38.57,0:11:42.87,Default,,0,0,0,,Oh man. Fine then you're white and I'm black. Komi is 5.5 moku. Okay?
-Dialogue: 0,0:11:38.57,0:11:46.39,Note,,0,0,0,,China recently enacted a new rule setting Komi to 7.5 moku. Korea has been working with a Komi of 6.5 moku for a long time now. Japan is still at 5.5 moku though.
-Dialogue: 0,0:11:44.06,0:11:44.66,Default,,0,0,0,,Sure.
-Dialogue: 0,0:11:45.70,0:11:46.40,Default,,0,0,0,,There we go.
-Dialogue: 0,0:11:48.26,0:11:49.19,Default,,0,0,0,,4-3!
+Dialogue: 0,0:11:33.98,0:11:37.92,Sai,,0,0,0,,Nigiri? B-But... Nigiri!?
+Dialogue: 0,0:11:38.57,0:11:42.97,Background,,0,0,0,,Oh man. Fine then you're white and\NI'm black. Komi is 5.5 moku. Okay?
+Dialogue: 0,0:11:38.57,0:11:46.39,Note,,0,0,20,,[note: China recently enacted a new rule setting Komi to\N7.5 moku. Korea has been working with a Komi of 6.5 moku\Nfor a long time now. Japan is still at 5.5 moku though]
+Dialogue: 0,0:11:44.02,0:11:44.73,Sai,,0,0,0,,Sure.
+Dialogue: 0,0:11:45.64,0:11:46.60,Background,,0,0,0,,There we go.
+Dialogue: 0,0:11:48.26,0:11:49.19,Sai,,0,0,0,,4-3!
 Dialogue: 0,0:11:54.21,0:11:56.34,Default,,0,0,0,,Umm... Hikaru.
 Dialogue: 0,0:11:56.92,0:11:59.49,Default,,0,0,0,,Oh yeah, I'm placing it...
 Dialogue: 0,0:12:04.81,0:12:06.28,Default,,0,0,0,,17-16!
