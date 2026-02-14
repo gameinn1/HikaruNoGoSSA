@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 189
-Active Line: 198
-Video Position: 32152
+Scroll Position: 146
+Active Line: 157
+Video Position: 23954
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -199,7 +199,7 @@ Dialogue: 0,0:16:31.14,0:16:32.60,Default,,0,0,0,,There's a strong player.
 Dialogue: 0,0:16:32.96,0:16:36.05,Default,,0,0,0,,His name is Sai, I played him yesterday.
 Dialogue: 0,0:16:36.18,0:16:38.72,Default,,0,0,0,,Huh? What's a Sai?
 Dialogue: 0,0:16:39.06,0:16:40.65,Default,,0,0,0,,A white rhinoceros? A black rhinoceros?
-Dialogue: 0,0:16:39.06,0:16:47.90,Note,,0,0,20,,[note: The joke comes from the word Sai meaning rhinoceros in Japanese]
+Dialogue: 0,0:16:39.06,0:16:47.90,Note,,0,0,0,,[note: The joke comes from the word Sai meaning rhinoceros in Japanese]
 Dialogue: 0,0:16:41.24,0:16:47.90,Default,,0,0,0,,It's a handle. The people who play go on the\Ninternet are raising a ruckus as to who Sai is.
 Dialogue: 0,0:16:48.39,0:16:50.12,Default,,0,0,0,,Huh? Who Sai is!?
 Dialogue: 0,0:16:51.11,0:16:51.78,Default,,0,0,0,,Oh...
@@ -239,29 +239,29 @@ Dialogue: 0,0:20:27.58,0:20:31.54,Default,,0,0,0,,I won't come anymore. Summer\N
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.77,0:22:14.91,Default,,0,0,0,,We're at a Go Salon today!
-Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(152,307)}Yuuki
-Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(320,212)}Teacher Yukari
-Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(502,307)}Mai
+Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32.5\pos(153,307)}Yuuki
+Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32.5\pos(320,212)}Teacher Yukari
+Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32.5\pos(505,307)}Mai
 Dialogue: 0,0:22:15.06,0:22:18.53,Default,,0,0,0,,This is a place I used to come\Nto a lot when I was a child.
-Dialogue: 0,0:22:16.63,0:22:19.35,NoteTimes,,0,0,0,,{\fs32\pos(216,257)}Tokyo City
-Dialogue: 0,0:22:16.63,0:22:19.35,NoteTimes,,0,0,0,,{\fs32\pos(442,320)}Lower Shimozawa Go Hall
-Dialogue: 0,0:22:20.11,0:22:22.62,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}At a Go Salon for the first time.
+Dialogue: 0,0:22:16.63,0:22:19.35,NoteTimes,,0,0,0,,{\fs32.5\pos(215,257)}Tokyo City
+Dialogue: 0,0:22:16.63,0:22:19.35,NoteTimes,,0,0,0,,{\fs32.5\pos(442,320)}Lower Shimozawa Go Hall
+Dialogue: 0,0:22:20.11,0:22:22.62,NoteTimes,,0,0,0,,{\fs32.5\pos(320,320)}At a Go Salon for the first time.
 Dialogue: 0,0:22:19.60,0:22:22.93,Default,,0,0,0,,I brought two beginners along today, so...
-Dialogue: 0,0:22:23.13,0:22:25.77,NoteTimes,,0,0,0,,{\fs32\pos(320,225)}Always check up on the entrance fee and system\Nthey're using before entering a Go Salon.
+Dialogue: 0,0:22:23.13,0:22:25.77,NoteTimes,,0,0,0,,{\fs32.5\pos(320,225)}Always check up on the entrance fee and system\Nthey're using before entering a Go Salon.
 Dialogue: 0,0:22:23.26,0:22:26.15,Default,,0,0,0,,Please show us around.
 Dialogue: 0,0:22:26.42,0:22:30.15,Default,,0,0,0,,Since it's your first time, I'll test\Nyou to see how strong you are.
-Dialogue: 0,0:22:26.59,0:22:29.76,NoteTimes,,0,0,0,,{\fs32\pos(475,320)}Yamaguchi Susumu-san
-Dialogue: 0,0:22:30.98,0:22:33.73,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}Let's find out how strong you are!
+Dialogue: 0,0:22:26.59,0:22:29.76,NoteTimes,,0,0,0,,{\fs32.5\pos(475,320)}Yamaguchi Susumu-san
+Dialogue: 0,0:22:30.98,0:22:33.73,NoteTimes,,0,0,0,,{\fs32.5\pos(320,320)}Let's find out how strong you are!
 Dialogue: 0,0:22:32.52,0:22:35.71,Default,,0,0,0,,Okay, I think I know now. You're about 25 kyu.
-Dialogue: 0,0:22:34.40,0:22:36.26,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}Yuuki is around 25 kyu!
+Dialogue: 0,0:22:34.40,0:22:36.26,NoteTimes,,0,0,0,,{\fs32.5\pos(320,320)}Yuuki is around 25 kyu!
 Dialogue: 0,0:22:39.99,0:22:42.79,Default,,0,0,0,,Mai-chan's strength is around 22 kyu.
-Dialogue: 0,0:22:40.90,0:22:43.40,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}Mai is 22 kyu!!
-Dialogue: 0,0:22:43.97,0:22:45.49,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}They'll give you a match card here.
+Dialogue: 0,0:22:40.90,0:22:43.40,NoteTimes,,0,0,0,,{\fs32.5\pos(320,320)}Mai is 22 kyu!!
+Dialogue: 0,0:22:43.97,0:22:45.49,NoteTimes,,0,0,0,,{\fs32.5\pos(320,320)}They'll give you a match card here.
 Dialogue: 0,0:22:45.63,0:22:48.88,Default,,0,0,0,,Both of you, hold on to this.
 Dialogue: 0,0:22:49.88,0:22:52.45,Default,,0,0,0,,Then, let's try playing someone using the cards!
-Dialogue: 0,0:22:50.09,0:22:52.70,NoteTimes,,0,0,0,,{\fs32\pos(320,320)}Let's try playing a match!!
+Dialogue: 0,0:22:50.09,0:22:52.70,NoteTimes,,0,0,0,,{\fs32.5\pos(320,320)}Let's try playing a match!!
 Dialogue: 0,0:22:53.12,0:22:54.92,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:22:53.76,0:22:57.37,NoteTimes,,0,0,0,,{\fs32\pos(320,225)}Let's go with a parent or a\Nguardian your first time!
+Dialogue: 0,0:22:53.76,0:22:57.37,NoteTimes,,0,0,0,,{\fs32.5\pos(320,225)}Let's go with a parent or a\Nguardian your first time!
 Dialogue: 0,0:22:53.76,0:22:57.37,NoteTimes,,0,0,0,,{\fs22.5\pos(320,405)}To be continued.
 Dialogue: 0,0:22:59.90,0:23:04.93,Background,,0,0,0,,That match... his come back from a\Ndisadvantage is from his real strength.
 Dialogue: 0,0:23:05.93,0:23:07.35,Background,,0,0,0,,We'll win this time!

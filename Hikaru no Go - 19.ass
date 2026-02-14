@@ -16,76 +16,27 @@ Audio File: [Moozzi2] Hikaru no Go - 19 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 19 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 261
-Active Line: 284
-Video Position: 32126
+Video Zoom Percent: 0.625000
+Scroll Position: 299
+Active Line: 318
+Video Position: 35530
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Op1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
 Style: Op1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Op1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op2Kanji,MS Gothic,22,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2Romaji,Wordy Diva,36,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English,Wordy Diva,36,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op2Romaji2,Pristina,40,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English2,Pristina,40,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op3Kanji,MS Gothic,24,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,20,1
-Style: Op3Romaji,Polo,28,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,55,1
-Style: Op3Romaji2,Pristina,70,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,180,100,0,0,1,1,0,8,30,30,55,1
-Style: Op3English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,2,20,20,20,1
-Style: Ed1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
-Style: Ed1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
 Style: Ed2Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
 Style: Ed2Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed2English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed3Kanji,MS Gothic,30,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3Romaji,Palatino Linotype,34,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3English,Palatino Linotype,34,&H00A7C6FA,&H0080FFFF,&H00082E51,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed3Romaji2,Pristina,40,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3English2,Pristina,40,&H0089D6F3,&H0080FFFF,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed4Kanji,MS Gothic,22,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4Romaji,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
-Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
-Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
 Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,15,1
-Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
-Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
-Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
-Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
-Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
-Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
-Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
-Style: op75_eng,Freehand471 BT,29,&H00DBF3F2,&H006B6F7B,&H00000000,&H7D000000,0,0,0,0,100,100,0,0,1,2,2,2,0,0,14,1
-Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1,0,0,98.5,98.5,0,0,1,2,2,2,19,19,16,1
-Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
-Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
-Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
-Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
-Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
-Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: 61Sign,HillWilliam,42,&H00594941,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,20,1
-Style: NoteArialEF,Arial,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,20,1
-Style: CreditsEF,Bookman Old Style,22.5,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,20,1
 
 [Events]
@@ -374,29 +325,41 @@ Dialogue: 0,0:20:27.39,0:20:28.04,Default,,0,0,0,,Wait.
 Dialogue: 0,0:20:36.16,0:20:37.82,Default,,0,0,0,,Do you have time?
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:12.36,0:22:15.36,NoteTimes,,0,0,0,,{\fs32\pos(320,162)}Teacher Yukari
-Dialogue: 0,0:22:12.86,0:22:14.72,Default,,0,0,0,,Today, let's learn about {\i1}dame{\i}.
-Dialogue: 0,0:22:15.28,0:22:19.50,Default,,0,0,0,,Place where neither Black nor White can benefit are called {\i1}dame{\i}.
-Dialogue: 0,0:22:19.88,0:22:22.23,Default,,0,0,0,,Where do you think the {\i1}dame{\i} in this game are?
-Dialogue: 0,0:22:22.61,0:22:23.21,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:24.21,0:22:25.83,Default,,0,0,0,,This one isn't a {\i1}dame{\i}.
-Dialogue: 0,0:22:26.39,0:22:27.64,Default,,0,0,0,,Okay, let's look at them both.
-Dialogue: 0,0:22:27.97,0:22:30.67,Default,,0,0,0,,If Black plays here, nothing changes, right?
-Dialogue: 0,0:22:31.19,0:22:33.67,Default,,0,0,0,,And even if White goes here, there is no benefit.
-Dialogue: 0,0:22:34.28,0:22:35.83,Default,,0,0,0,,Now how about this one over here?
-Dialogue: 0,0:22:36.53,0:22:39.20,Default,,0,0,0,,If Black plays here, White will lose a stone with Black's next move,
-Dialogue: 0,0:22:39.28,0:22:41.31,Default,,0,0,0,,so it must move to protect.
-Dialogue: 0,0:22:42.06,0:22:46.07,Default,,0,0,0,,That means that this was not a {\i1}dame{\i}.
-Dialogue: 0,0:22:46.07,0:22:47.47,Default,,0,0,0,,This one, however, is a {\i1}dame{\i}.
-Dialogue: 0,0:22:47.82,0:22:51.23,Default,,0,0,0,,These {\i1}dame{\i} should be played before the game is over.
-Dialogue: 0,0:22:52.05,0:22:56.08,Default,,0,0,0,,Also, fill in dame after the game is over to simplify counting.
-Dialogue: 0,0:22:55.07,0:22:57.35,Note,,0,0,0,,To be continued
+Dialogue: 0,0:22:12.36,0:22:14.99,Note,,0,0,0,,[note: "Dame" Literally means "No"]
+Dialogue: 0,0:22:12.36,0:22:14.99,NoteTimes,,0,0,0,,{\fs32.5\pos(320,162)}Teacher Yukari
+Dialogue: 0,0:22:12.36,0:22:14.99,NoteTimes,,0,0,0,,{\fs32.5\pos(131,237)}Yuuki
+Dialogue: 0,0:22:12.36,0:22:14.99,NoteTimes,,0,0,0,,{\fs32.5\pos(521,237)}Mai
+Dialogue: 0,0:22:12.36,0:22:14.99,NoteTimes,,0,0,0,,{\fs32.5\pos(320,331)}Learning "Dame" Today
+Dialogue: 0,0:22:12.86,0:22:14.86,Default,,0,0,0,,Let's learn Dame today
+Dialogue: 0,0:22:15.28,0:22:25.85,Note,,0,0,0,,[note: This rule is used only in Japan. In China, these points\Nare still counted in to your points. Because of this gap in the\Nrules, sometimes games that are considered a win for one\Nside in Japan, are considered a win for the other in China.]
+Dialogue: 0,0:22:15.28,0:22:19.50,Default,,0,0,0,,Places where neither white nor\Nblack can get a point is called Dame.
+Dialogue: 0,0:22:15.74,0:22:19.38,NoteTimes,,0,0,0,,{\fs32.5\pos(320,300)}Worthless points where\Nneither side can get a moku.
+Dialogue: 0,0:22:19.88,0:22:22.27,Default,,0,0,0,,Where do you think you can\Nfind a Dame on this board?
+Dialogue: 0,0:22:22.61,0:22:23.22,Default,,0,0,0,,Here.
+Dialogue: 0,0:22:24.21,0:22:25.85,Default,,0,0,0,,That's not it Mai-chan, it's here.
+Dialogue: 0,0:22:26.39,0:22:27.69,Default,,0,0,0,,Then let's take a look at it.
+Dialogue: 0,0:22:27.97,0:22:30.66,Default,,0,0,0,,Nothing changes here even if Black plays right?
+Dialogue: 0,0:22:28.31,0:22:30.63,NoteTimes,,0,0,0,,{\fs32.5\pos(320,331)}Nothing changes if Black plays.
+Dialogue: 0,0:22:31.19,0:22:33.86,Default,,0,0,0,,If white goes, white doesn't gain a benefit either.
+Dialogue: 0,0:22:31.28,0:22:34.38,NoteTimes,,0,0,0,,{\fs32.5\pos(320,331)}Even if white goes there, there's no benefit.
+Dialogue: 0,0:22:34.28,0:22:35.95,Default,,0,0,0,,Then what about here?
+Dialogue: 0,0:22:36.53,0:22:37.78,Default,,0,0,0,,If black plays here,
+Dialogue: 0,0:22:37.18,0:22:41.02,NoteTimes,,0,0,0,,{\fs32.5\pos(320,237)}If black plays, White is in danger of getting\Ncaptured, so needs to protect his stone.
+Dialogue: 0,0:22:37.78,0:22:41.20,Default,,0,0,0,,white can get captured, so you\Nhave to protect your stone.
+Dialogue: 0,0:22:42.09,0:22:46.01,Default,,0,0,0,,That means, this is not a "dame".
+Dialogue: 0,0:22:46.09,0:22:47.51,Default,,0,0,0,,This is a "Dame" though.
+Dialogue: 0,0:22:47.84,0:22:57.37,Note,,0,0,0,,[note: Recently in Japan, during the fifth match out of\Nseven for the Kisei Title, something interesting happened\Nconcerning "Dame". You should check it out ^_^]
+Dialogue: 0,0:22:47.84,0:22:51.35,Default,,0,0,0,,You should play these points\Nbefore the end of the game.
+Dialogue: 0,0:22:49.06,0:22:51.43,NoteTimes,,0,0,0,,{\fs32.5\pos(320,331)}Play there before the end of the game!
+Dialogue: 0,0:22:46.69,0:22:48.54,NoteTimes,,0,0,0,,{\fs32.5\pos(320,305)}Dame.
+Dialogue: 0,0:22:51.95,0:22:54.58,NoteTimes,,0,0,0,,{\fs32.5\pos(320,331)}Fill in Dame after the end of the game.
+Dialogue: 0,0:22:51.95,0:22:56.12,Default,,0,0,0,,And you should fill in Dame after the end\Nof the game to make counting easier.
+Dialogue: 0,0:22:55.27,0:22:57.37,NoteTimes,,0,0,0,,{\fs32.5\pos(320,324)}To be continued...
 Dialogue: 0,0:22:59.08,0:23:00.57,Default,,0,0,0,,What do you want to know?
 Dialogue: 0,0:23:00.78,0:23:02.95,Default,,0,0,0,,Your real strength.
-Dialogue: 0,0:23:03.24,0:23:03.84,Default,,0,0,0,,Huh?
-Dialogue: 0,0:23:04.22,0:23:08.03,Default,,0,0,0,,You can't possibly catch up to him unless you desperately run after him starting now.
-Dialogue: 0,0:23:08.55,0:23:12.16,Default,,0,0,0,,Touya has already passed the Pro examinations.
-Dialogue: 0,0:23:22.77,0:23:26.20,Default,,0,0,0,,I thought Insei's couldn't go to amateur tournaments...
+Dialogue: 0,0:23:04.22,0:23:08.16,Default,,0,0,0,,You can't possibly catch up to him\Nunless you chase after him frantically.
+Dialogue: 0,0:23:08.55,0:23:12.20,Default,,0,0,0,,Touya has already passed the pro exam.
+Dialogue: 0,0:23:22.77,0:23:26.38,Default,,0,0,0,,I thought Inseis couldn't go\Nto Amateur competitions.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
