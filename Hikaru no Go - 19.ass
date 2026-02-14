@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 19 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 153
-Active Line: 174
-Video Position: 16749
+Scroll Position: 261
+Active Line: 284
+Video Position: 32126
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -268,112 +268,113 @@ Dialogue: 0,0:11:38.57,0:11:46.39,Note,,0,0,20,,[note: China recently enacted a 
 Dialogue: 0,0:11:44.02,0:11:44.73,Sai,,0,0,0,,Sure.
 Dialogue: 0,0:11:45.64,0:11:46.60,Background,,0,0,0,,There we go.
 Dialogue: 0,0:11:48.26,0:11:49.19,Sai,,0,0,0,,4-3!
-Dialogue: 0,0:11:54.21,0:11:56.34,Default,,0,0,0,,Umm... Hikaru.
+Dialogue: 0,0:11:54.21,0:11:56.34,Sai,,0,0,0,,umm... Hikaru?
 Dialogue: 0,0:11:56.92,0:11:59.49,Default,,0,0,0,,Oh yeah, I'm placing it...
-Dialogue: 0,0:12:04.81,0:12:06.28,Default,,0,0,0,,17-16!
+Dialogue: 0,0:12:04.81,0:12:06.28,Sai,,0,0,0,,17-16!
 Dialogue: 0,0:12:08.02,0:12:10.30,Default,,0,0,0,,This is really a lot of work.
-Dialogue: 0,0:12:10.79,0:12:13.06,Default,,0,0,0,,It'll be fine once you get used to it.
-Dialogue: 0,0:12:14.45,0:12:17.72,Default,,0,0,0,,You go over there! Over there! Otherwise it's not a match at all.
-Dialogue: 0,0:12:19.08,0:12:20.40,Default,,0,0,0,,O-Okay!
-Dialogue: 0,0:12:21.36,0:12:22.24,Default,,0,0,0,,I guess this is fine.
+Dialogue: 0,0:12:10.79,0:12:13.09,Sai,,0,0,0,,It'll be fine once you get used to it.
+Dialogue: 0,0:12:14.45,0:12:17.76,Default,,0,0,0,,You go over there! Over there!\NOtherwise it's not a match at all!
+Dialogue: 0,0:12:19.08,0:12:20.40,Sai,,0,0,0,,O-Okay!
+Dialogue: 0,0:12:21.36,0:12:22.39,Default,,0,0,0,,I guess this is fine.
 Dialogue: 0,0:12:22.66,0:12:23.46,Default,,0,0,0,,Go Sai.
-Dialogue: 0,0:12:24.94,0:12:25.69,Default,,0,0,0,,10-3
+Dialogue: 0,0:12:24.94,0:12:25.69,Sai,,0,0,0,,10-3.
 Dialogue: 0,0:12:27.31,0:12:28.11,Default,,0,0,0,,10-3
-Dialogue: 0,0:12:32.27,0:12:33.62,Default,,0,0,0,,You placed it in the wrong spot.
+Dialogue: 0,0:12:30.60,0:12:33.65,Sai,,0,0,0,,You placed it in the wrong spot.
 Dialogue: 0,0:12:35.17,0:12:36.92,Default,,0,0,0,,But 10-3 is over here.
-Dialogue: 0,0:12:37.80,0:12:39.40,Default,,0,0,0,,But this is...
-Dialogue: 0,0:12:42.15,0:12:45.90,Default,,0,0,0,,I sat over here so that's this and this is that and...
+Dialogue: 0,0:12:37.80,0:12:39.40,Sai,,0,0,0,,But this is...
+Dialogue: 0,0:12:42.15,0:12:45.90,Sai,,0,0,0,,I sat over here so that's this and this is that and...
 Dialogue: 0,0:12:46.71,0:12:48.71,Default,,0,0,0,,Stop calling it out then!
-Dialogue: 0,0:12:49.43,0:12:50.98,Default,,0,0,0,,Point out where you want to go with that!
+Dialogue: 0,0:12:49.43,0:12:51.08,Background,,0,0,0,,Point out where you want to go with that!
 Dialogue: 0,0:13:04.14,0:13:07.20,Default,,0,0,0,,Yeah, I guess this is fine.
 Dialogue: 0,0:13:10.75,0:13:12.28,Default,,0,0,0,,I guess this is fine.
-Dialogue: 0,0:13:12.59,0:13:14.78,Default,,0,0,0,,You jerk! I give up!
-Dialogue: 0,0:13:15.97,0:13:18.59,Default,,0,0,0,,You're not holding back at all are you!
-Dialogue: 0,0:13:20.94,0:13:26.23,Default,,0,0,0,,Why you! The first time you played Touya you said it was a tutoring game and took it easy on him!
-Dialogue: 0,0:13:26.54,0:13:29.76,Default,,0,0,0,,Come on Hikaru, one more game, one more game.
-Dialogue: 0,0:13:30.40,0:13:34.88,Default,,0,0,0,,Hikaru! Why are you raising a ruckus all alone? Be quiet.
-Dialogue: 0,0:13:35.12,0:13:37.30,Default,,0,0,0,,AHHHH! I resign!
+Dialogue: 0,0:13:12.59,0:13:14.78,Background,,0,0,0,,You jerk! I give up!
+Dialogue: 0,0:13:15.97,0:13:18.69,Default,,0,0,0,,You're not holding back at all are you!
+Dialogue: 0,0:13:20.94,0:13:26.37,Default,,0,0,0,,Why you! The first time you played Touya you said\Nit was a tutoring game and took it easy on him!
+Dialogue: 0,0:13:26.54,0:13:29.76,Sai,,0,0,0,,Come on Hikaru, one more game, one more game.
+Dialogue: 0,0:13:30.40,0:13:34.92,Default,,0,0,0,,Hikaru! Why are you raising\Na ruckus all alone? Be quiet.
+Dialogue: 0,0:13:35.13,0:13:37.30,Default,,0,0,0,,AHHHH! I resign!
 Dialogue: 0,0:13:38.48,0:13:39.94,Default,,0,0,0,,Clean up the stones.
-Dialogue: 0,0:13:40.30,0:13:43.70,Default,,0,0,0,,Huh? But! Clean up? But...
-Dialogue: 0,0:13:43.70,0:13:47.45,Default,,0,0,0,,Hey Hikaru! Hikaru!
-Dialogue: 0,0:13:51.97,0:13:58.07,Default,,0,0,0,,53... 54... 55... 56... I lose by 2 moku.
-Dialogue: 0,0:13:58.32,0:14:01.65,Default,,0,0,0,,Yes! I beat Tsutsui-san giving him a 2 stone handicap!
+Dialogue: 0,0:13:40.30,0:13:43.70,Sai,,0,0,0,,Huh? But! Clean up? But...
+Dialogue: 0,0:13:43.70,0:13:47.45,Sai,,0,0,0,,Hey Hikaru! Hikaru!
+Dialogue: 0,0:13:51.97,0:13:57.98,Background,,0,0,0,,53... 54... 55... 56... I lose by 2 moku.
+Dialogue: 0,0:13:58.32,0:14:01.74,Default,,0,0,0,,Yes! I beat Tsutsui-san giving\Nhim a 2 stone handicap!
 Dialogue: 0,0:14:02.87,0:14:03.47,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:14:07.21,0:14:11.02,Default,,0,0,0,,I'm angry... why do I have to study for High school?
-Dialogue: 0,0:14:11.84,0:14:15.66,Default,,0,0,0,,Shindou-kun's so much stronger... and Mitani's here...
-Dialogue: 0,0:14:16.12,0:14:18.35,Default,,0,0,0,,and Fujisaki-san and Tsuda-san are here...
+Dialogue: 0,0:14:07.21,0:14:11.02,Default,,0,0,0,,I'm angry... why do I have to study for high school?
+Dialogue: 0,0:14:11.84,0:14:15.66,Default,,0,0,0,,Shindou-kun's so much\Nstronger... and Mitani's here...
+Dialogue: 0,0:14:16.12,0:14:18.34,Default,,0,0,0,,and Fujisaki-san and Tsuda-san are here...
 Dialogue: 0,0:14:19.62,0:14:23.58,Default,,0,0,0,,It's great! I want to keep playing here too!
-Dialogue: 0,0:14:24.31,0:14:26.54,Default,,0,0,0,,Not just stopping by every now and then.
-Dialogue: 0,0:14:30.40,0:14:34.69,Default,,0,0,0,,If you keep getting stronger like this, the winter tournament's going to be great!
-Dialogue: 0,0:14:35.06,0:14:36.92,Default,,0,0,0,,Though we'll need another member.
-Dialogue: 0,0:14:37.70,0:14:39.81,Default,,0,0,0,,I'll put up another poster, like last time.
-Dialogue: 0,0:14:40.88,0:14:43.68,Default,,0,0,0,,You haven't been playing as many stupid moves lately.
-Dialogue: 0,0:14:44.44,0:14:48.72,Default,,0,0,0,,I hope we don't experience what happened at the last tournament again.
-Dialogue: 0,0:14:54.23,0:14:55.23,Default,,0,0,0,,I resign...
-Dialogue: 0,0:14:56.36,0:14:56.96,Default,,0,0,0,,Touya!
-Dialogue: 0,0:15:01.35,0:15:02.55,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:15:18.77,0:15:19.57,Default,,0,0,0,,I resign.
-Dialogue: 0,0:15:04.20,0:15:05.55,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:15:20.53,0:15:21.76,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:15:30.80,0:15:32.38,Default,,0,0,0,,Oh, you want to play till the end?
-Dialogue: 0,0:15:45.97,0:15:46.72,Default,,0,0,0,,I resign.
-Dialogue: 0,0:15:48.41,0:15:49.71,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:16:14.73,0:16:16.08,Default,,0,0,0,,We're going to win this time!
+Dialogue: 0,0:14:24.31,0:14:26.60,Default,,0,0,0,,Not just stopping by every now and then.
+Dialogue: 0,0:14:30.40,0:14:34.77,Default,,0,0,0,,If you keep getting stronger like this, the\NWinter tournament's going to be great!
+Dialogue: 0,0:14:35.06,0:14:37.06,Default,,0,0,0,,Though we'll need another member.
+Dialogue: 0,0:14:37.70,0:14:39.90,Default,,0,0,0,,I'll put up another poster, like last time.
+Dialogue: 0,0:14:40.88,0:14:43.78,Default,,0,0,0,,You haven't been playing as\Nmany stupid moves lately.
+Dialogue: 0,0:14:44.44,0:14:48.74,Default,,0,0,0,,I hope we don't experience what\Nhappened at the last tournament again.
+Dialogue: 0,0:14:54.23,0:14:55.29,Memory,,0,0,0,,I resign...
+Dialogue: 0,0:14:56.36,0:14:57.00,Memory,,0,0,0,,Touya!
+Dialogue: 0,0:15:01.35,0:15:02.59,Memory,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:15:04.20,0:15:05.68,Memory,,0,0,0,,Thanks for the game...
+Dialogue: 0,0:15:18.77,0:15:19.61,Memory,,0,0,0,,I resign.
+Dialogue: 0,0:15:20.53,0:15:21.76,Memory,,0,0,0,,Thanks for the game...
+Dialogue: 0,0:15:28.99,0:15:32.45,Memory,,0,0,0,,Oh, you want to play till the end?
+Dialogue: 0,0:15:45.97,0:15:46.84,Memory,,0,0,0,,I resign.
+Dialogue: 0,0:15:48.41,0:15:49.76,Memory,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:16:14.73,0:16:16.20,Default,,0,0,0,,We're going to win this time!
 Dialogue: 0,0:16:16.43,0:16:20.01,Default,,0,0,0,,I can feel it myself, that I'm getting better!
-Dialogue: 0,0:16:21.98,0:16:23.66,Default,,0,0,0,,What are you getting excited over?
-Dialogue: 0,0:16:29.14,0:16:30.95,Default,,0,0,0,,Akota-san, that was a good move.
+Dialogue: 0,0:16:21.98,0:16:23.75,Default,,0,0,0,,What are you getting excited over?
+Dialogue: 0,0:16:28.43,0:16:30.95,Default,,0,0,0,,Akota-san, that was a good move.
 Dialogue: 0,0:16:31.26,0:16:34.29,Default,,0,0,0,,Really? Yeah, don't you think so?
-Dialogue: 0,0:16:43.70,0:16:46.66,Default,,0,0,0,,But Shindou-kun's development is really astounding.
+Dialogue: 0,0:16:43.70,0:16:46.69,Default,,0,0,0,,But Shindou-kun's development\Nis really astounding.
 Dialogue: 0,0:16:47.14,0:16:49.47,Default,,0,0,0,,Your Go club must have taught you a great deal.
-Dialogue: 0,0:16:50.61,0:16:53.83,Default,,0,0,0,,You're still a little weaker than me though, right Shindou-kun?
+Dialogue: 0,0:16:49.91,0:16:53.83,Default,,0,0,0,,You're still a little weaker than\Nme though, right Shindou-kun?
 Dialogue: 0,0:16:54.48,0:16:55.08,Default,,0,0,0,,How's this?
-Dialogue: 0,0:16:57.36,0:17:01.27,Default,,0,0,0,,I guess this is it. Please drop by every now and then?
+Dialogue: 0,0:16:57.36,0:17:01.27,Default,,0,0,0,,I guess this is it. Please drop\Nby every now and then?
 Dialogue: 0,0:17:06.19,0:17:09.59,Thinking,,0,0,0,,He can't hear me. What great concentration he has.
-Dialogue: 0,0:17:12.99,0:17:14.10,Default,,0,0,0,,Thanks teacher!
+Dialogue: 0,0:17:12.99,0:17:14.18,Background,,0,0,0,,Thanks teacher!
 Dialogue: 0,0:17:15.06,0:17:18.15,Default,,0,0,0,,Thanks to you too Akota-san. It was fun!
 Dialogue: 0,0:17:18.35,0:17:19.92,Default,,0,0,0,,Oh, wait! Hikaru!
-Dialogue: 0,0:17:20.84,0:17:21.99,Default,,0,0,0,,Goodbye Teacher!
+Dialogue: 0,0:17:20.84,0:17:22.02,Default,,0,0,0,,Goodbye Teacher!
 Dialogue: 0,0:17:22.58,0:17:23.92,Default,,0,0,0,,Hey wait a second!
-Dialogue: 0,0:17:24.21,0:17:25.11,Default,,0,0,0,,Be careful!
-Dialogue: 0,0:17:27.33,0:17:30.62,Default,,0,0,0,,Teacher! The reason he made a comeback is because I underestimated him.
-Dialogue: 0,0:17:30.91,0:17:37.41,Default,,0,0,0,,I thought Shindou-kun would be weaker and because you complimented me on that move,
+Dialogue: 0,0:17:24.21,0:17:25.19,Default,,0,0,0,,Be careful!
+Dialogue: 0,0:17:27.33,0:17:30.65,Default,,0,0,0,,Teacher! The reason he made a comeback\Nis because I underestimated him.
+Dialogue: 0,0:17:30.91,0:17:37.45,Default,,0,0,0,,I thought Shindou-kun would be weaker and\Nbecause you complimented me on that move,
 Dialogue: 0,0:17:37.56,0:17:39.43,Default,,0,0,0,,I lost concentration and...
 Dialogue: 0,0:17:40.12,0:17:40.87,Default,,0,0,0,,Akota-san.
 Dialogue: 0,0:17:42.98,0:17:45.58,Default,,0,0,0,,You didn't make any real mistakes.
-Dialogue: 0,0:17:46.53,0:17:51.48,Default,,0,0,0,,That last match, the comeback that he made, that is his real strength.
-Dialogue: 0,0:17:52.91,0:17:55.51,Default,,0,0,0,,It's not even a year since he started Go.
-Dialogue: 0,0:17:56.73,0:17:58.97,Default,,0,0,0,,Is his club sponsor that strong?
-Dialogue: 0,0:17:59.86,0:18:02.47,Default,,0,0,0,,Or is Shindou-kun that dedicated?
+Dialogue: 0,0:17:46.53,0:17:51.51,Default,,0,0,0,,That last match, the comeback that\Nhe made, that is his real strength.
+Dialogue: 0,0:17:52.91,0:17:55.60,Background,,0,0,0,,It's not even a year since he started Go.
+Dialogue: 0,0:17:56.73,0:17:59.02,Background,,0,0,0,,Is his club sponsor that strong?
+Dialogue: 0,0:17:59.86,0:18:02.47,Background,,0,0,0,,Or is Shindou-kun that dedicated?
 Dialogue: 0,0:18:14.03,0:18:15.42,Default,,0,0,0,,What is it Hikaru?
-Dialogue: 0,0:18:16.41,0:18:20.47,Default,,0,0,0,,You really can't judge how strong your opponent is unless you're strong yourself...
+Dialogue: 0,0:18:16.41,0:18:20.54,Default,,0,0,0,,You really can't judge how strong your\Nopponent is unless you're strong yourself...
 Dialogue: 0,0:18:22.16,0:18:24.69,Default,,0,0,0,,Akota-san was really strong...
-Dialogue: 0,0:18:26.17,0:18:28.06,Default,,0,0,0,,I finally understand that now.
+Dialogue: 0,0:18:26.17,0:18:28.09,Default,,0,0,0,,I finally understand that now.
 Dialogue: 0,0:18:30.00,0:18:33.30,Default,,0,0,0,,But Hikaru you beat that Akota-san!
 Dialogue: 0,0:18:36.43,0:18:39.29,Default,,0,0,0,,Yeah! I'll beat Mitani too someday!
-Dialogue: 0,0:18:40.49,0:18:45.44,Default,,0,0,0,,Oh well, if Hikaru was this strong at that last tournament...
-Dialogue: 0,0:18:46.08,0:18:49.92,Default,,0,0,0,,Maybe Touya-kun wouldn't have yelled out "Stop messing around!"
-Dialogue: 0,0:18:52.35,0:18:53.65,Default,,0,0,0,,Umm... he's...
-Dialogue: 0,0:18:57.78,0:19:02.70,Default,,0,0,0,,He's not someone you can catch up to getting a little stronger.
-Dialogue: 0,0:19:09.92,0:19:14.22,Default,,0,0,0,,Yes! I beat Mitani at an even match!
-Dialogue: 0,0:19:14.52,0:19:18.06,Default,,0,0,0,,I caught up! I caught up! I caught up to Mitani!
-Dialogue: 0,0:19:18.18,0:19:21.57,Default,,0,0,0,,What are you talking about! You only won one game!
+Dialogue: 0,0:18:40.49,0:18:45.48,Default,,0,0,0,,Oh well, if Hikaru was this\Nstrong at that last tournament...
+Dialogue: 0,0:18:46.08,0:18:49.94,Default,,0,0,0,,maybe Touya-kun wouldn't have\Nyelled out "Stop messing around!"
+Dialogue: 0,0:18:52.35,0:18:53.65,Background,,0,0,0,,Umm... he's...
+Dialogue: 0,0:18:57.78,0:19:02.70,Default,,0,0,0,,he's not someone you can catch\Nup to by getting a little stronger.
+Dialogue: 0,0:19:09.92,0:19:14.22,Background,,0,0,0,,Yes! I beat Mitani at an even match!
+Dialogue: 0,0:19:14.52,0:19:18.14,Default,,0,0,0,,I caught up! I caught up! I caught up to Mitani!
+Dialogue: 0,0:19:18.18,0:19:21.57,Default,,0,0,0,,What are you talking about!\NYou only won one game!
 Dialogue: 0,0:19:21.75,0:19:23.60,Default,,0,0,0,,I want a rematch! A rematch!
-Dialogue: 0,0:19:23.91,0:19:25.30,Default,,0,0,0,,Oh yes!
-Dialogue: 0,0:19:25.93,0:19:29.38,Default,,0,0,0,,Did you hear me Shindou? I want a rematch!
-Dialogue: 0,0:19:30.09,0:19:36.90,Thinking,,0,0,0,,I thought he'd catch up eventually... but he caught up to Mitani so quickly...
-Dialogue: 0,0:19:38.41,0:19:44.70,Thinking,,0,0,0,,Maybe at the next tournament Shindou-kun can make our goal...
-Dialogue: 0,0:19:46.27,0:19:47.59,Thinking,,0,0,0,,of defeating Kaiou come true...
-Dialogue: 0,0:19:48.27,0:19:52.80,Thinking,,0,0,0,,Maybe... he'll make it come true...
-Dialogue: 0,0:20:07.49,0:20:09.52,Default,,0,0,0,,Hikaru, buying manga again?
+Dialogue: 0,0:19:23.91,0:19:25.30,Background,,0,0,0,,Oh yes!
+Dialogue: 0,0:19:25.93,0:19:29.38,Background,,0,0,0,,Did you hear me Shindou? I want a rematch!
+Dialogue: 0,0:19:30.09,0:19:36.90,Thinking,,0,0,0,,I thought he'd catch up eventually...\Nbut he caught up to Mitani so quickly...
+Dialogue: 0,0:19:38.41,0:19:44.70,Thinking,,0,0,0,,maybe at the next tournament\NShindou-kun can make our goal...
+Dialogue: 0,0:19:46.27,0:19:47.71,Thinking,,0,0,0,,of defeating Kaiou come true...
+Dialogue: 0,0:19:48.27,0:19:52.80,Thinking,,0,0,0,,maybe... he'll make it come true...
+Dialogue: 0,0:20:07.49,0:20:09.52,Sai,,0,0,0,,Hikaru, buying Manga again?
 Dialogue: 0,0:20:09.52,0:20:11.80,Default,,0,0,0,,No, I need a reference book for English.
-Dialogue: 0,0:20:12.44,0:20:14.80,Default,,0,0,0,,You really can't help me with English.
-Dialogue: 0,0:20:15.79,0:20:17.07,Default,,0,0,0,,Of course not.
+Dialogue: 0,0:20:12.44,0:20:14.94,Default,,0,0,0,,You really can't help me with English.
+Dialogue: 0,0:20:15.79,0:20:17.07,Sai,,0,0,0,,Of course not.
 Dialogue: 0,0:20:19.00,0:20:20.36,Default,,0,0,0,,Is it over here?
-Dialogue: 0,0:20:22.76,0:20:23.81,Default,,0,0,0,,Oh! Kaiou's first board!
-Dialogue: 0,0:20:27.39,0:20:27.99,Default,,0,0,0,,Wait.
+Dialogue: 0,0:20:21.91,0:20:23.81,Default,,0,0,0,,Oh! Kaiou's first board!
+Dialogue: 0,0:20:27.39,0:20:28.04,Default,,0,0,0,,Wait.
 Dialogue: 0,0:20:36.16,0:20:37.82,Default,,0,0,0,,Do you have time?
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
+Dialogue: 0,0:22:12.36,0:22:15.36,NoteTimes,,0,0,0,,{\fs32\pos(320,162)}Teacher Yukari
 Dialogue: 0,0:22:12.86,0:22:14.72,Default,,0,0,0,,Today, let's learn about {\i1}dame{\i}.
 Dialogue: 0,0:22:15.28,0:22:19.50,Default,,0,0,0,,Place where neither Black nor White can benefit are called {\i1}dame{\i}.
 Dialogue: 0,0:22:19.88,0:22:22.23,Default,,0,0,0,,Where do you think the {\i1}dame{\i} in this game are?

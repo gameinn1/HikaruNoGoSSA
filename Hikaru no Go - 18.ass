@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../Hikaru no Go/[E-F]_Hikaru_no_Go_18.avi
-Video File: ../Hikaru no Go/[E-F]_Hikaru_no_Go_18.avi
+Audio File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
+Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 2.500000
-Scroll Position: 153
-Active Line: 157
-Video Position: 23954
+Video Zoom Percent: 0.625000
+Scroll Position: 189
+Active Line: 198
+Video Position: 32152
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -240,7 +240,7 @@ Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Y
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.77,0:22:14.91,Default,,0,0,0,,We're at a Go Salon today!
 Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(152,307)}Yuuki
-Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(321,212)}Teacher Yukari
+Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(320,212)}Teacher Yukari
 Dialogue: 0,0:22:12.79,0:22:15.94,NoteTimes,,0,0,0,,{\fs32\pos(502,307)}Mai
 Dialogue: 0,0:22:15.06,0:22:18.53,Default,,0,0,0,,This is a place I used to come\Nto a lot when I was a child.
 Dialogue: 0,0:22:16.63,0:22:19.35,NoteTimes,,0,0,0,,{\fs32\pos(216,257)}Tokyo City
