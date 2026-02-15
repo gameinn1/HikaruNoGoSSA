@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 21 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 21 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 2
-Video Position: 225
+Video Zoom Percent: 0.625000
+Scroll Position: 210
+Active Line: 231
+Video Position: 28476
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,36 +93,36 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.12,0:00:04.00,Memory,,0,0,0,,Fujiwarano Sai, a Go player from the Heian period
 Dialogue: 0,0:00:04.53,0:00:08.50,Memory,,0,0,0,,has passed through time and returned to\Nthe world in the mind of Shindou Hikaru,
 Dialogue: 0,0:00:09.38,0:00:11.70,Memory,,0,0,0,,in order to obtain the Hand of God.
-Dialogue: 0,0:01:42.46,0:01:46.97,Default,,0,0,0,,Touya has already passed the pro examinations.
-Dialogue: 0,0:01:47.28,0:01:52.80,Default,,0,0,0,,Pro? You've gotta be kidding? He's only in the 7th grade.
+Dialogue: 0,0:01:42.46,0:01:46.97,Default,,0,0,0,,Touya has already passed the Pro examinations.
+Dialogue: 0,0:01:47.28,0:01:52.80,Default,,0,0,0,,Pro? You've gotta be kidding?\NHe's only in the 7th grade.
 Dialogue: 0,0:01:53.59,0:01:56.40,Default,,0,0,0,,Most pros become pro in their teens.
-Dialogue: 0,0:01:57.16,0:01:59.92,Default,,0,0,0,,April next year, Touya will start his race.
-Dialogue: 0,0:02:00.23,0:02:03.10,Default,,0,0,0,,And he will move forward faster than anyone else.
-Dialogue: 0,0:02:04.26,0:02:08.21,Default,,0,0,0,,You can't possibly catch up to him unless you desperately run after him starting now.
+Dialogue: 0,0:01:57.16,0:01:59.92,Background,,0,0,0,,April next year, Touya will start his race.
+Dialogue: 0,0:02:00.23,0:02:03.10,Background,,0,0,0,,And he will move forward faster than anyone else.
+Dialogue: 0,0:02:04.26,0:02:08.40,Background,,0,0,0,,You can't possibly catch up to him unless\Nyou desperately run after him starting now.
 Dialogue: 0,0:02:08.88,0:02:09.78,Default,,0,0,0,,Hey!
 Dialogue: 0,0:02:11.50,0:02:14.15,Default,,0,0,0,,How do you take the pro examination?
 Dialogue: 0,0:02:15.17,0:02:17.82,Default,,0,0,0,,The Insei examination for December?
-Dialogue: 0,0:02:18.13,0:02:23.42,Default,,0,0,0,,Yeah, we're holding it this Sunday, but we're past the deadline for the applications already.
+Dialogue: 0,0:02:18.13,0:02:23.42,Default,,0,0,0,,Yeah, we're holding it this Sunday, but we're\Npast the deadline for the applications already.
 Dialogue: 0,0:02:23.42,0:02:26.80,Default,,0,0,0,,What? But! I want to take it now!
 Dialogue: 0,0:02:27.28,0:02:28.18,Default,,0,0,0,,Insei...
 Dialogue: 0,0:02:28.40,0:02:29.30,Default,,0,0,0,,Examination!?
-Dialogue: 0,0:02:32.38,0:02:37.00,Default,,0,0,0,,I thought Inseis weren't allowed to go to amateur tournaments.
+Dialogue: 0,0:02:32.38,0:02:37.00,Default,,0,0,0,,I thought Inseis weren't allowed\Nto go to amateur tournaments
 Dialogue: 0,0:02:38.30,0:02:43.27,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(325,115)}The Twenty-First Match
 Dialogue: 0,0:02:38.30,0:02:43.27,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Haze Jr. High Go Club
 Dialogue: 0,0:02:44.39,0:02:46.10,Default,,0,0,0,,Quit the Go club?
 Dialogue: 0,0:02:47.60,0:02:49.50,Default,,0,0,0,,Hikaru, you're going to quit the Go club?
 Dialogue: 0,0:02:50.71,0:02:53.40,Default,,0,0,0,,I don't intend to quit the Go club...
-Dialogue: 0,0:02:54.20,0:02:59.20,Default,,0,0,0,,Even if you don't quit, once you become an Insei, you can't go to the tournaments anymore.
+Dialogue: 0,0:02:54.20,0:02:59.20,Default,,0,0,0,,Even if you don't quit, once you become an\NInsei, you can't go to the tournaments anymore.
 Dialogue: 0,0:02:59.50,0:03:00.50,Default,,0,0,0,,Insei?
 Dialogue: 0,0:03:01.12,0:03:02.50,Default,,0,0,0,,What's an Insei?
-Dialogue: 0,0:03:03.96,0:03:06.00,Default,,0,0,0,,There's no way Hikaru would quit the Go club!
-Dialogue: 0,0:03:06.20,0:03:10.00,Default,,0,0,0,,He was just talking about how great the tournament's going to be! Right, Hikaru?
+Dialogue: 0,0:03:03.96,0:03:06.00,Background,,0,0,0,,There's no way Hikaru would quit the Go club!
+Dialogue: 0,0:03:06.20,0:03:10.00,Background,,0,0,0,,He was just talking about how great the\Ntournament's going to be! Right Hikaru?
 Dialogue: 0,0:03:12.60,0:03:13.50,Default,,0,0,0,,I...
 Dialogue: 0,0:03:14.03,0:03:16.80,Default,,0,0,0,,I... just...Touya...
-Dialogue: 0,0:03:17.80,0:03:23.10,Default,,0,0,0,,Shindou! You made me join the Go club to make me a member for the tournament, right!
+Dialogue: 0,0:03:17.80,0:03:23.10,Default,,0,0,0,,Shindou! You made me join the Go club to\Nmake me a member for the tournament, right!
 Dialogue: 0,0:03:23.88,0:03:26.76,Default,,0,0,0,,And now you're backing out of that!?
 Dialogue: 0,0:03:26.90,0:03:27.90,Default,,0,0,0,,Mitani!
-Dialogue: 0,0:03:28.50,0:03:29.75,Default,,0,0,0,,Sup, Tsutsui?
+Dialogue: 0,0:03:28.50,0:03:29.75,Background,,0,0,0,,Sup, Tsutsui?
 Dialogue: 0,0:03:31.91,0:03:35.70,Default,,0,0,0,,Sorry for disturbing your fun, but hide me for a bit.
 Dialogue: 0,0:03:37.16,0:03:38.29,Default,,0,0,0,,Hide?
 Dialogue: 0,0:03:42.20,0:03:44.60,Default,,0,0,0,,Tsutsui! Have you seen Kaga?
@@ -130,196 +131,197 @@ Dialogue: 0,0:03:52.03,0:03:54.56,Default,,0,0,0,,That brat, where did he go?
 Dialogue: 0,0:03:57.46,0:03:59.09,Default,,0,0,0,,Is... he gone?
 Dialogue: 0,0:04:01.13,0:04:02.43,Default,,0,0,0,,Sorry! Sorry!
 Dialogue: 0,0:04:02.95,0:04:05.15,Default,,0,0,0,,Kaga, what did you do?
-Dialogue: 0,0:04:05.15,0:04:06.80,Default,,0,0,0,,Well, well...
+Dialogue: 0,0:04:05.15,0:04:06.80,Default,,0,0,0,,well... well...
 Dialogue: 0,0:04:06.80,0:04:08.81,Default,,0,0,0,,Tsutsui-san, who is he?
-Dialogue: 0,0:04:09.27,0:04:12.33,Default,,0,0,0,,He's Kaga a third year student, he's the president of the Shougi club and...
-Dialogue: 0,0:04:12.33,0:04:15.03,Default,,0,0,0,,And I'm better at Go than he is, Although he's in the Go club.
+Dialogue: 0,0:04:09.27,0:04:12.33,Default,,0,0,0,,He's Kaga a third year student, he's\Nthe president of the Shougi club and...
+Dialogue: 0,0:04:12.33,0:04:15.03,Default,,0,0,0,,and I'm better at Go than he is,\Nalthough he's in the Go club.
 Dialogue: 0,0:04:15.43,0:04:17.65,Default,,0,0,0,,In the Shougi club and is good at Go?
 Dialogue: 0,0:04:18.37,0:04:19.50,Default,,0,0,0,,He's lying.
-Dialogue: 0,0:04:20.31,0:04:21.50,Default,,0,0,0,,What'd you say!? You little brat!
+Dialogue: 0,0:04:19.66,0:04:21.50,Default,,0,0,0,,What'd you say!? You little brat!
 Dialogue: 0,0:04:21.50,0:04:22.40,Default,,0,0,0,,Kaga!
 Dialogue: 0,0:04:22.58,0:04:24.10,Default,,0,0,0,,I'm gonna crush you!
-Dialogue: 0,0:04:26.60,0:04:29.43,Default,,0,0,0,,Oh, there are new members in the Go club.
-Dialogue: 0,0:04:32.37,0:04:34.98,Default,,0,0,0,,Last year, you were the only one!
-Dialogue: 0,0:04:35.50,0:04:40.04,Default,,0,0,0,,Kaga, Shindou-kun says he wants to take the Insei exams.
+Dialogue: 0,0:04:26.60,0:04:29.43,Background,,0,0,0,,Oh, there are new members in the Go club.
+Dialogue: 0,0:04:32.37,0:04:34.98,Default,,0,0,0,,Last year, you were the only one too!
+Dialogue: 0,0:04:35.50,0:04:40.04,Default,,0,0,0,,Kaga, Shindou-kun says he\Nwants to take the Insei exams.
 Dialogue: 0,0:04:43.91,0:04:47.56,Default,,0,0,0,,Oh? Insei! Do it! Do it! Just do it!
 Dialogue: 0,0:04:48.24,0:04:51.19,Default,,0,0,0,,Huh? What's with the sad face?
 Dialogue: 0,0:04:51.90,0:04:53.35,Default,,0,0,0,,Well... I...
-Dialogue: 0,0:04:54.55,0:04:57.75,Default,,0,0,0,,Forgot that I can't go to the tournaments if I become an Insei.
+Dialogue: 0,0:04:54.55,0:04:57.75,Default,,0,0,0,,forgot that I can't go to th\N tournaments if I become an Insei.
 Dialogue: 0,0:04:58.03,0:05:00.78,Default,,0,0,0,,Tournaments? Those don't matter.
 Dialogue: 0,0:05:00.95,0:05:03.71,Default,,0,0,0,,Those don't matter!? Who are you to say that!
 Dialogue: 0,0:05:03.90,0:05:05.61,Default,,0,0,0,,Shut up already!
 Dialogue: 0,0:05:07.06,0:05:08.46,Default,,0,0,0,,Insei, huh?
-Dialogue: 0,0:05:08.29,0:05:18.13,Note,,0,0,0,,Monthly Go World\N12
-Dialogue: 0,0:05:09.17,0:05:14.00,Default,,0,0,0,,If you want to become an Insei, you must have a higher goal than the tournaments.
+Dialogue: 0,0:05:08.29,0:05:18.26,Note,,0,0,0,,{\1c&H29FDFF&\i1}Monthly Go World\N{\1c&H6834B3&}12{\i0}
+Dialogue: 0,0:05:09.17,0:05:14.00,Background,,0,0,0,,If you want to become an Insei, you must\Nhave a higher goal than the tournaments.
 Dialogue: 0,0:05:14.32,0:05:17.49,Default,,0,0,0,,Shindou-kun's goal is Touya Akira.
-Dialogue: 0,0:05:18.89,0:05:22.14,Default,,0,0,0,,This book says he passed this years pro exams.
+Dialogue: 0,0:05:18.89,0:05:22.14,Default,,0,0,0,,This book says he passed this years Pro exams.
 Dialogue: 0,0:05:22.47,0:05:23.37,Default,,0,0,0,,Touya...
-Dialogue: 0,0:05:25.04,0:05:28.04,Default,,0,0,0,,If you're going to go after Touya, you can't muddle around in the Go club.
-Dialogue: 0,0:05:28.74,0:05:31.09,Default,,0,0,0,,You've got to go all out at him as soon as possible.
-Dialogue: 0,0:05:32.49,0:05:33.39,Default,,0,0,0,,I see...
+Dialogue: 0,0:05:23.72,0:05:28.04,Default,,0,0,0,,Oh? If you're going to go after Touya,\Nyou can't muddle around in the Go club.
+Dialogue: 0,0:05:28.74,0:05:31.09,Background,,0,0,0,,You've got to go all out at him as soon as possible.
+Dialogue: 0,0:05:32.49,0:05:33.39,Background,,0,0,0,,I see...
 Dialogue: 0,0:05:34.42,0:05:36.22,Default,,0,0,0,,You chase Touya...
-Dialogue: 0,0:05:36.57,0:05:41.05,Default,,0,0,0,,But Touya won't be an easy goal. Do you understand?
+Dialogue: 0,0:05:36.57,0:05:41.05,Default,,0,0,0,,But Touya won't be an easy\Ngoal. Do you understand?
 Dialogue: 0,0:05:41.90,0:05:43.07,Default,,0,0,0,,I understand.
 Dialogue: 0,0:05:46.07,0:05:47.20,Default,,0,0,0,,Shindou-kun...
 Dialogue: 0,0:05:49.71,0:05:52.82,Default,,0,0,0,,You're right. You can't muddle with tournaments.
-Dialogue: 0,0:05:53.44,0:05:55.22,Default,,0,0,0,,Tsutsui-san!
-Dialogue: 0,0:05:56.18,0:05:59.77,Default,,0,0,0,,Shindou-kun says he's going to aim higher than Kaiou.
-Dialogue: 0,0:05:59.77,0:06:04.00,Default,,0,0,0,,He hasn't said it! He hasn't mouthed those words at all yet!
+Dialogue: 0,0:05:53.42,0:05:54.17,Default,,0,0,0,,Tsutsui-san!
+Dialogue: 0,0:05:54.17,0:05:55.17,Default,,0,0,0,,Tsutsui-san...
+Dialogue: 0,0:05:56.18,0:05:59.77,Default,,0,0,0,,Shindou-kun says he's going\Nto aim higher than Kaiou.
+Dialogue: 0,0:05:59.77,0:06:04.00,Default,,0,0,0,,He hasn't said it! He hasn't\Nmouthed those words at all yet!
 Dialogue: 0,0:06:04.25,0:06:07.58,Default,,0,0,0,,He just forgot that he can't go to the tournaments!
 Dialogue: 0,0:06:07.90,0:06:08.55,Default,,0,0,0,,Right?
-Dialogue: 0,0:06:11.77,0:06:12.67,Default,,0,0,0,,Shindou!
+Dialogue: 0,0:06:11.77,0:06:12.67,Background,,0,0,0,,Shindou!
 Dialogue: 0,0:06:14.30,0:06:15.10,Default,,0,0,0,,I...
 Dialogue: 0,0:06:16.46,0:06:18.76,Default,,0,0,0,,Doesn't this kid know how to shut up?
 Dialogue: 0,0:06:19.65,0:06:22.29,Default,,0,0,0,,It's his choice to participate in the club or not.
-Dialogue: 0,0:06:22.50,0:06:28.23,Default,,0,0,0,,You don't know! He forcefully dragged me into the Go club for the tournaments!
+Dialogue: 0,0:06:22.50,0:06:28.23,Default,,0,0,0,,You don't know! He forcefully dragged\Nme into the Go club for the tournaments!
 Dialogue: 0,0:06:30.52,0:06:32.24,Default,,0,0,0,,It's my choice whether to participate or not?
 Dialogue: 0,0:06:32.65,0:06:36.74,Default,,0,0,0,,Fine I understand! Then I'll quit the Go club too!
 Dialogue: 0,0:06:37.01,0:06:37.97,Default,,0,0,0,,Mitani-kun!
-Dialogue: 0,0:06:38.21,0:06:42.52,Default,,0,0,0,,Do what you want. Quit if you want to. You're free to do as you wish.
+Dialogue: 0,0:06:38.21,0:06:42.52,Default,,0,0,0,,Do what you want. Quit if you want\Nto. You're free to do as you wish.
 Dialogue: 0,0:06:42.71,0:06:43.60,Default,,0,0,0,,Kaga!
 Dialogue: 0,0:06:44.58,0:06:46.80,Default,,0,0,0,,Tsutsui, how many Go boards do you have?
 Dialogue: 0,0:06:48.24,0:06:49.10,Default,,0,0,0,,Three.
 Dialogue: 0,0:06:49.84,0:06:50.80,Default,,0,0,0,,Get them all.
 Dialogue: 0,0:06:52.13,0:06:54.90,Default,,0,0,0,,Shindou! Play three games at once!
 Dialogue: 0,0:06:55.20,0:06:57.82,Default,,0,0,0,,What!? Three games at once!?
-Dialogue: 0,0:06:58.15,0:06:59.60,Default,,0,0,0,,Hey you, loud and annoying kid!
-Dialogue: 0,0:06:59.74,0:07:01.09,Default,,0,0,0,,You're playing too.
-Dialogue: 0,0:07:01.53,0:07:07.00,Default,,0,0,0,,Shindou's going to quit after showing you, Tsutsui and I exactly how strong he is.
+Dialogue: 0,0:06:58.15,0:06:59.60,Background,,0,0,0,,Hey you, loud and annoying kid!
+Dialogue: 0,0:06:59.74,0:07:01.09,Background,,0,0,0,,You're playing too.
+Dialogue: 0,0:07:01.53,0:07:07.00,Background,,0,0,0,,Shindou's going to quit after showing\Nyou, Tsutsui and I exactly how strong he is.
 Dialogue: 0,0:07:12.37,0:07:15.70,Thinking,,0,0,0,,Kaga is pushing Shindou-kun from behind.
-Dialogue: 0,0:07:16.27,0:07:20.70,Thinking,,0,0,0,,He's right, we can't give Shindou-kun more doubt than he already has.
-Dialogue: 0,0:07:25.42,0:07:28.80,Default,,0,0,0,,Okay, Kaga. We'll have Shindou-kun play three games against us.
+Dialogue: 0,0:07:16.27,0:07:20.70,Thinking,,0,0,0,,He's right, we can't give Shindou-kun\Nmore doubt than he already has.
+Dialogue: 0,0:07:25.42,0:07:28.80,Default,,0,0,0,,Okay, Kaga. We'll have Shindou-kun\Nplay three games against us.
 Dialogue: 0,0:07:29.59,0:07:32.50,Default,,0,0,0,,Fujisaki-san can you help me get the boards?
 Dialogue: 0,0:07:32.70,0:07:33.34,Default,,0,0,0,,Sure.
 Dialogue: 0,0:07:33.75,0:07:37.94,Default,,0,0,0,,Mitani, you're playing too. It's the last match!
-Dialogue: 0,0:07:40.42,0:07:43.50,Note,,0,0,0,,King
+Dialogue: 0,0:07:40.69,0:07:42.32,NoteTimes,,0,0,0,,{\fs32.5\pos(330,195)}King
 Dialogue: 0,0:07:44.01,0:07:45.40,Default,,0,0,0,,Haven't played Go in awhile.
 Dialogue: 0,0:07:50.80,0:07:52.80,Default,,0,0,0,,Mitani! Play!
 Dialogue: 0,0:07:55.50,0:07:56.38,Default,,0,0,0,,This is it!
 Dialogue: 0,0:08:03.38,0:08:07.63,Note,,0,0,0,,Chemistry Lab
 Dialogue: 0,0:08:33.60,0:08:37.36,Default,,0,0,0,,Mitani... if I fail the Insei exam.
 Dialogue: 0,0:08:37.84,0:08:40.02,Default,,0,0,0,,Then let's go to the tournament...
-Dialogue: 0,0:08:40.32,0:08:44.49,Default,,0,0,0,,You've gotta be kidding! I'm quitting no matter what you do!
-Dialogue: 0,0:08:45.10,0:08:50.26,Default,,0,0,0,,Shindou, you're the one that's quitting, you can't have everything you want.
+Dialogue: 0,0:08:40.32,0:08:44.49,Default,,0,0,0,,You've gotta be kidding! I'm\Nquitting no matter what you do!
+Dialogue: 0,0:08:45.10,0:08:50.26,Default,,0,0,0,,Shindou, you're the one that's quitting,\Nyou can't have everything you want.
 Dialogue: 0,0:08:53.43,0:08:54.80,Default,,0,0,0,,Well let's start!
 Dialogue: 0,0:09:10.90,0:09:12.09,Default,,0,0,0,,Umm...
 Dialogue: 0,0:09:17.54,0:09:18.90,Default,,0,0,0,,Hurry up and play!
 Dialogue: 0,0:09:19.00,0:09:20.90,Default,,0,0,0,,But I have to think...
-Dialogue: 0,0:09:20.90,0:09:23.51,Default,,0,0,0,,You don't have time to think when playing multiple games!
-Dialogue: 0,0:09:23.63,0:09:25.00,Default,,0,0,0,,Play with your instincts! Instincts!
-Dialogue: 0,0:09:25.06,0:09:26.83,Default,,0,0,0,,Sense! Flashes!
+Dialogue: 0,0:09:20.90,0:09:23.51,Default,,0,0,0,,You don't have time to think\Nwhen playing multiple games!
+Dialogue: 0,0:09:23.63,0:09:25.38,Default,,0,0,0,,Play with your instincts! Instinct!
+Dialogue: 0,0:09:25.54,0:09:26.83,Default,,0,0,0,,Sense! Flashes!
 Dialogue: 0,0:09:35.37,0:09:36.48,Default,,0,0,0,,Over there, now!?
 Dialogue: 0,0:09:37.20,0:09:38.10,Default,,0,0,0,,And here too?
 Dialogue: 0,0:10:25.40,0:10:28.20,Thinking,,0,0,0,,I really am not a match for him at all...
-Dialogue: 0,0:10:29.07,0:10:32.60,Default,,0,0,0,,Tsutsui hang in there. Don't let Shindou take it easy.
-Dialogue: 0,0:10:46.23,0:10:49.30,Default,,0,0,0,,Shindou-kun and Mitani-kun are quitting the Go club?
-Dialogue: 0,0:10:50.46,0:10:52.50,Default,,0,0,0,,Tsutsui-san will be graduating...
+Dialogue: 0,0:10:29.07,0:10:32.60,Default,,0,0,0,,Tsutsui hang in there. Don't\Nlet Shindou take it easy.
+Dialogue: 0,0:10:46.23,0:10:49.30,Default,,0,0,0,,Shindou-kun and Mitani-kun\Nare quitting the Go club?
+Dialogue: 0,0:10:50.46,0:10:52.59,Default,,0,0,0,,Tsutsui-san will be graduating...
 Dialogue: 0,0:10:53.20,0:10:55.20,Default,,0,0,0,,Akari, what will we do?
 Dialogue: 0,0:10:56.00,0:10:56.90,Default,,0,0,0,,I...
 Dialogue: 0,0:11:01.20,0:11:03.50,Default,,0,0,0,,I won't quit!
 Dialogue: 0,0:11:04.68,0:11:05.60,Default,,0,0,0,,Because...
-Dialogue: 0,0:11:06.70,0:11:11.30,Default,,0,0,0,,Because Hikaru isn't quitting Go!
+Dialogue: 0,0:11:06.70,0:11:11.30,Background,,0,0,0,,Because Hikaru isn't quitting Go!
 Dialogue: 0,0:11:19.66,0:11:22.87,Note,,0,0,0,,Chemistry Lab
-Dialogue: 0,0:11:46.40,0:11:48.50,Thinking,,0,0,0,,He's moving to all the critical spots with no thinking time!
+Dialogue: 0,0:11:46.40,0:11:48.56,Thinking,,0,0,0,,He's moving to all the critical spots with no thinking time!
 Dialogue: 0,0:12:08.80,0:12:09.90,Default,,0,0,0,,This is it...
 Dialogue: 0,0:12:10.80,0:12:12.00,Default,,0,0,0,,I resign.
 Dialogue: 0,0:12:17.93,0:12:20.10,Default,,0,0,0,,Shindou-kun's incredible.
-Dialogue: 0,0:12:25.49,0:12:27.00,Thinking,,0,0,0,,Mitani's done with his game too.
+Dialogue: 0,0:12:25.49,0:12:27.18,Thinking,,0,0,0,,{\1c&HC5FEC1&}Mitani's done with his game too.
 Dialogue: 0,0:12:28.17,0:12:29.00,Default,,0,0,0,,No...
 Dialogue: 0,0:12:29.78,0:12:30.60,Thinking,,0,0,0,,I'm short.
-Dialogue: 0,0:12:32.24,0:12:34.75,Thinking,,0,0,0,,I lose by six and a half moku including Komi...
+Dialogue: 0,0:12:32.24,0:12:34.90,Thinking,,0,0,0,,{\1c&HC5FEC1&}I lose by six and a half moku including Komi...
 Dialogue: 0,0:13:10.28,0:13:11.10,Default,,0,0,0,,I resign...
-Dialogue: 0,0:13:20.50,0:13:22.50,Default,,0,0,0,,No one heard but...
-Dialogue: 0,0:13:23.57,0:13:25.76,Default,,0,0,0,,I was here so I heard you.
-Dialogue: 0,0:13:31.00,0:13:31.80,Default,,0,0,0,,Sorry.
-Dialogue: 0,0:13:33.20,0:13:34.00,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:13:35.14,0:13:39.98,Default,,0,0,0,,Hikaru, Mitani spent everything he had playing you.
-Dialogue: 0,0:13:45.54,0:13:48.06,Default,,0,0,0,,Can you tell who's winning, Shindou?
+Dialogue: 0,0:13:20.50,0:13:22.50,Sai,,0,0,0,,No one heard but...
+Dialogue: 0,0:13:23.57,0:13:25.76,Sai,,0,0,0,,I was here so I heard you.
+Dialogue: 0,0:13:31.00,0:13:31.80,Sai,,0,0,0,,Sorry.
+Dialogue: 0,0:13:33.20,0:13:34.04,Sai,,0,0,0,,Thank you.
+Dialogue: 0,0:13:35.14,0:13:39.98,Sai,,0,0,0,,Hikaru, Mitani spent everything he had playing you.
+Dialogue: 0,0:13:45.54,0:13:48.06,Background,,0,0,0,,Can you tell who's winning, Shindou?
 Dialogue: 0,0:13:50.00,0:13:50.80,Default,,0,0,0,,Kaga.
 Dialogue: 0,0:13:52.01,0:13:54.83,Default,,0,0,0,,You can learn to count points already.
-Dialogue: 0,0:13:56.10,0:14:00.99,Default,,0,0,0,,Well, we don't need seichi, right? I win by six and a half moku.
+Dialogue: 0,0:13:56.10,0:14:00.99,Default,,0,0,0,,Well, we don't need Seichi, right?\NI win by six and a half moku.
 Dialogue: 0,0:14:05.79,0:14:06.70,Thinking,,0,0,0,,He...
 Dialogue: 0,0:14:07.96,0:14:08.99,Default,,0,0,0,,I can't win.
 Dialogue: 0,0:14:11.01,0:14:13.10,Default,,0,0,0,,Like I said! I'm really good!
-Dialogue: 0,0:14:13.45,0:14:18.08,Default,,0,0,0,,Well, if you do this well playing three games, it's probably enough.
+Dialogue: 0,0:14:13.45,0:14:18.08,Default,,0,0,0,,Well, if you do this well playing\Nthree games, it's probably enough.
 Dialogue: 0,0:14:18.45,0:14:20.29,Default,,0,0,0,,Huh? Really?
 Dialogue: 0,0:14:20.72,0:14:25.34,Default,,0,0,0,,I told you, playing multiple games is different.
 Dialogue: 0,0:14:26.05,0:14:28.10,Default,,0,0,0,,Will I pass the Insei exam!?
 Dialogue: 0,0:14:28.35,0:14:32.47,Default,,0,0,0,,I don't know, I'm not an exam official.
-Dialogue: 0,0:14:33.25,0:14:38.60,Default,,0,0,0,,If it's one on one, I can beat Kaga as well!
+Dialogue: 0,0:14:33.25,0:14:38.48,Default,,0,0,0,,Oh...! If it's one on one, I can beat Kaga as well!
 Dialogue: 0,0:14:38.85,0:14:41.07,Default,,0,0,0,,No one said that!
-Dialogue: 0,0:14:42.10,0:14:45.76,Default,,0,0,0,,Yeah, Tsutsui-san, do you know how to write Kifu?
-Dialogue: 0,0:14:45.90,0:14:47.18,Default,,0,0,0,,Um, yes.
-Dialogue: 0,0:14:47.94,0:14:51.32,Default,,0,0,0,,I have to bring in Kifu's for three games I played.
-Dialogue: 0,0:14:51.70,0:14:55.70,Default,,0,0,0,,Perfect, I'll write the three matches I just played. Can you teach me how?
-Dialogue: 0,0:14:57.07,0:15:01.90,Default,,0,0,0,,H-Hey... The matches you just played... Do you remember all three games?
+Dialogue: 0,0:14:41.57,0:14:45.76,Default,,0,0,0,,Oh yeah, Tsutsui-san, do\Nyou know how to write Kifu?
+Dialogue: 0,0:14:45.90,0:14:47.18,Default,,0,0,0,,Um, Yes.
+Dialogue: 0,0:14:47.94,0:14:51.32,Default,,0,0,0,,I have to bring in Kifus for three games I played.
+Dialogue: 0,0:14:51.70,0:14:55.70,Default,,0,0,0,,Perfect, I'll write the three matches I\Njust played. Can you teach me how?
+Dialogue: 0,0:14:52.54,0:14:55.71,Note,,0,0,0,,{\pos(178,222)}Kifu Paper
+Dialogue: 0,0:14:56.63,0:15:01.90,Default,,0,0,0,,H-Hey... the matches you just played...\NDo you remember all three games?
 Dialogue: 0,0:15:02.35,0:15:04.20,Default,,0,0,0,,Yeah, of course.
-Dialogue: 0,0:15:07.02,0:15:10.74,Default,,0,0,0,,Do you have a red and black pen? A red pencil will also work.
-Dialogue: 0,0:15:11.17,0:15:14.96,Default,,0,0,0,,Red is white, and just put numbers in the same orders as the moves.
-Dialogue: 0,0:15:15.54,0:15:16.30,Default,,0,0,0,,One...
-Dialogue: 0,0:15:16.38,0:15:17.00,Default,,0,0,0,,Two...
-Dialogue: 0,0:15:17.40,0:15:18.10,Default,,0,0,0,,Three...
-Dialogue: 0,0:15:18.36,0:15:19.00,Default,,0,0,0,,Four...
-Dialogue: 0,0:15:19.39,0:15:20.10,Default,,0,0,0,,Five...
-Dialogue: 0,0:15:20.39,0:15:21.06,Default,,0,0,0,,Six...
+Dialogue: 0,0:15:07.02,0:15:10.74,Default,,0,0,0,,Do you have a red and black\Npen? A red pencil will also work.
+Dialogue: 0,0:15:11.17,0:15:14.96,Default,,0,0,0,,Red is white, and just put numbers\Nin the same orders as the moves.
+Dialogue: 0,0:15:15.54,0:15:16.30,Default,,0,0,0,,one...
+Dialogue: 0,0:15:16.38,0:15:17.00,Default,,0,0,0,,two...
+Dialogue: 0,0:15:17.40,0:15:18.10,Default,,0,0,0,,three...
+Dialogue: 0,0:15:18.36,0:15:19.00,Default,,0,0,0,,four...
+Dialogue: 0,0:15:19.39,0:15:20.10,Default,,0,0,0,,five...
+Dialogue: 0,0:15:20.39,0:15:21.06,Default,,0,0,0,,six...
 Dialogue: 0,0:15:22.40,0:15:23.88,Default,,0,0,0,,I look forward to his future.
 Dialogue: 0,0:15:27.36,0:15:28.20,Default,,0,0,0,,What about Ko?
 Dialogue: 0,0:15:28.36,0:15:32.00,Default,,0,0,0,,Put the numbers here and write "Taking Ko" here.
 Dialogue: 0,0:15:33.51,0:15:35.31,Default,,0,0,0,,I hope he fails the exam.
-Dialogue: 0,0:15:36.53,0:15:40.30,Default,,0,0,0,,How childish are you!? How long are you going to whine about this?
+Dialogue: 0,0:15:36.53,0:15:40.30,Default,,0,0,0,,How childish are you!? How long\Nare you going to whine about this?
 Dialogue: 0,0:15:41.56,0:15:43.44,Default,,0,0,0,,Hey, what's all the ruckus...
 Dialogue: 0,0:15:44.60,0:15:45.60,Default,,0,0,0,,Kaga!
-Dialogue: 0,0:16:03.78,0:16:07.52,Default,,0,0,0,,So it's basically a school for Go, right?
-Dialogue: 0,0:16:08.07,0:16:12.03,Note,,0,0,0,,Japanese Institute of Go\N{\1c&H0000FF&\3c&H0000FF&}←{\r} ahead 40m
-Dialogue: 0,0:16:08.70,0:16:13.70,Default,,0,0,0,,But to pay an expensive fee to take the test to go in there...
-Dialogue: 0,0:16:13.70,0:16:19.00,Default,,0,0,0,,Like I said, it's filled with skilled players, so it's hard to get in too.
-Dialogue: 0,0:16:19.40,0:16:22.40,Default,,0,0,0,,What's wrong with the Go class you went to before?
-Dialogue: 0,0:16:22.91,0:16:25.03,Default,,0,0,0,,That place was close to where we live.
-Dialogue: 0,0:16:25.72,0:16:30.90,Default,,0,0,0,,That place is where a bunch of old ladies who don't improve go to play for fun.
-Dialogue: 0,0:16:31.29,0:16:37.32,Default,,0,0,0,,Well, you've never focused on something like this before, so it's okay but...
-Dialogue: 0,0:16:37.90,0:16:40.72,Default,,0,0,0,,only if you cared about your studies as much as this...
+Dialogue: 0,0:16:03.78,0:16:07.52,Background,,0,0,0,,So it's basically a school for Go, right?
+Dialogue: 0,0:16:08.07,0:16:12.03,Note,,0,0,0,,{\1c&HA17A58&\pos(400,15)}Japanese Institute of Go {\1c&H2D27C6&}<----- {\1c{\1c&HA17A58&}ahead 40m
+Dialogue: 0,0:16:08.70,0:16:13.70,Background,,0,0,0,,But to pay an expensive fee to\Ntake the test to go in there...
+Dialogue: 0,0:16:13.70,0:16:19.00,Default,,0,0,0,,Like I said, it's filled with skilled\Nplayers, so it's hard to get in too.
+Dialogue: 0,0:16:19.40,0:16:22.40,Default,,0,0,0,,What's wrong with the Go\Nclass you went to before?
+Dialogue: 0,0:16:22.91,0:16:25.03,Default,,0,0,0,,That place is close to where we live.
+Dialogue: 0,0:16:25.72,0:16:30.90,Default,,0,0,0,,That place is where a bunch of old ladies\Nwho don't improve go to play for fun.
+Dialogue: 0,0:16:31.29,0:16:37.32,Default,,0,0,0,,Well, you've never focused on something\Nlike this before, so it's okay but...
+Dialogue: 0,0:16:37.90,0:16:40.72,Default,,0,0,0,,only if you cared about your\Nstudies as much as this...
 Dialogue: 0,0:16:44.00,0:16:46.25,Default,,0,0,0,,Oh, Shindou-kun, right?
 Dialogue: 0,0:16:46.58,0:16:47.90,Default,,0,0,0,,I'll show you the way.
 Dialogue: 0,0:17:03.06,0:17:05.10,Default,,0,0,0,,Please take off your shoes here.
-Dialogue: 0,0:17:22.60,0:17:23.40,Default,,0,0,0,,Hikaru.
-Dialogue: 0,0:17:24.05,0:17:24.61,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:17:25.76,0:17:26.80,Default,,0,0,0,,They must be Insei.
-Dialogue: 0,0:17:27.64,0:17:28.94,Default,,0,0,0,,That's it, right?
+Dialogue: 0,0:17:22.60,0:17:23.40,Sai,,0,0,0,,Hikaru.
+Dialogue: 0,0:17:24.05,0:17:26.82,Default,,0,0,0,,Yeah, they must be Insei.
+Dialogue: 0,0:17:27.64,0:17:28.94,Sai,,0,0,0,,That's it, right?
 Dialogue: 0,0:17:29.57,0:17:32.09,Default,,0,0,0,,Yeah, that's where it begins.
 Dialogue: 0,0:17:32.84,0:17:35.20,Default,,0,0,0,,The first step to defeating Touya Akira!
-Dialogue: 0,0:17:37.12,0:17:41.07,Default,,0,0,0,,Please come back after getting a little stronger.
+Dialogue: 0,0:17:37.12,0:17:41.07,Background,,0,0,0,,Please come back after getting a little stronger.
 Dialogue: 0,0:17:41.63,0:17:43.31,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,0:17:46.65,0:17:49.08,Default,,0,0,0,,Teacher, the last student is here.
 Dialogue: 0,0:17:49.71,0:17:51.61,Default,,0,0,0,,Oh yes, please this way.
 Dialogue: 0,0:17:56.27,0:17:57.86,Default,,0,0,0,,Please sit there.
-Dialogue: 0,0:18:01.13,0:18:02.66,Default,,0,0,0,,What!? Seiza!?
-Dialogue: 0,0:18:01.13,0:18:05.39,Note,,0,0,0,,Seiza is the Japanese term for sitting properly, with your calves under your thighs.
-Dialogue: 0,0:18:05.88,0:18:08.40,Default,,0,0,0,,Please show me your application form and Kifus.
+Dialogue: 0,0:18:01.13,0:18:02.66,Background,,0,0,0,,What!? Seiza!?
+Dialogue: 0,0:18:01.13,0:18:05.39,Note,,0,0,0,,[note: Seiza is the Japanese term for sitting\Nproperly, with your calves under your thighs.]
+Dialogue: 0,0:18:05.88,0:18:08.40,Default,,0,0,0,,Please show me your\Napplication form and your Kifus.
 Dialogue: 0,0:18:11.55,0:18:13.02,Default,,0,0,0,,Let's see the Kifu...
 Dialogue: 0,0:18:14.49,0:18:16.79,Default,,0,0,0,,You're white for all three, right?
-Dialogue: 0,0:18:21.87,0:18:24.30,Thinking,,0,0,0,,What careless play?
-Dialogue: 0,0:18:24.73,0:18:28.40,Thinking,,0,0,0,,This kids taking the exam at this level!?
+Dialogue: 0,0:18:21.87,0:18:24.30,Thinking,,0,0,0,,What careless play!?
+Dialogue: 0,0:18:24.73,0:18:28.40,Thinking,,0,0,0,,This kid's taking the exam at this level!?
 Dialogue: 0,0:18:29.19,0:18:31.99,Thinking,,0,0,0,,His opponents are really weak too and...
-Dialogue: 0,0:18:35.13,0:18:37.01,Default,,0,0,0,,Who is this Tsutsui?
-Dialogue: 0,0:18:37.37,0:18:38.72,Default,,0,0,0,,A senpai from the Go club.
+Dialogue: 0,0:18:35.13,0:18:37.01,Background,,0,0,0,,Who is this Tsutsui?
+Dialogue: 0,0:18:37.37,0:18:38.76,Default,,0,0,0,,A sempai from the Go club.
 Dialogue: 0,0:18:39.33,0:18:40.18,Default,,0,0,0,,Mitani?
-Dialogue: 0,0:18:40.81,0:18:42.41,Default,,0,0,0,,A friend in the Go club.
+Dialogue: 0,0:18:40.81,0:18:42.41,Default,,0,0,0,,A friend from the Go club.
 Dialogue: 0,0:18:44.84,0:18:47.17,Default,,0,0,0,,This Kaga. What about him?
 Dialogue: 0,0:18:47.74,0:18:49.39,Default,,0,0,0,,Kaga is the head of the Shougi club.
 Dialogue: 0,0:18:49.73,0:18:50.71,Default,,0,0,0,,Shougi!?
 Dialogue: 0,0:18:51.61,0:18:54.09,Thinking,,0,0,0,,He plays the best out of all of them.
 Dialogue: 0,0:18:54.59,0:18:57.32,Thinking,,0,0,0,,But, he is sponsored by Ogata-san.
-Dialogue: 0,0:18:59.56,0:19:00.82,Default,,0,0,0,,Then let's play.
+Dialogue: 0,0:18:59.56,0:19:00.82,Background,,0,0,0,,Then let's play.
 Dialogue: 0,0:19:01.34,0:19:02.34,Default,,0,0,0,,Any handicap?
-Dialogue: 0,0:19:02.68,0:19:03.78,Default,,0,0,0,,Place three stones.
+Dialogue: 0,0:19:02.68,0:19:03.83,Default,,0,0,0,,Place three stones.
 Dialogue: 0,0:19:04.65,0:19:05.80,Default,,0,0,0,,Umm...
 Dialogue: 0,0:19:07.24,0:19:10.23,Default,,0,0,0,,How long will the exam take?
-Dialogue: 0,0:19:10.75,0:19:15.88,Default,,0,0,0,,It will take at least an hour, feel free to wait outside.
+Dialogue: 0,0:19:10.75,0:19:15.88,Default,,0,0,0,,It will take at least an hour,\Nfeel free to wait outside.
 Dialogue: 0,0:19:15.98,0:19:19.50,Default,,0,0,0,,Oh, is that the case? Then...
-Dialogue: 0,0:19:20.51,0:19:25.54,Default,,0,0,0,,Hikaru, I'll be drinking tea in the coffee shop on the first floor, come get me when you're done.
+Dialogue: 0,0:19:20.51,0:19:25.60,Default,,0,0,0,,Hikaru, I'll be drinking tea in the coffee shop on\Nthe first floor, come get me when you're done.
 Dialogue: 0,0:19:33.33,0:19:35.61,Thinking,,0,0,0,,It's unfortunate, but he'll fail.
 Dialogue: 0,0:19:36.39,0:19:39.50,Thinking,,0,0,0,,He can't hold Seiza for even five minutes.
-Dialogue: 0,0:19:45.79,0:19:47.42,Default,,0,0,0,,Oh, the Insei exams are going on today?
+Dialogue: 0,0:19:44.96,0:19:47.42,Default,,0,0,0,,Oh, the Insei exams are going on today?
 Dialogue: 0,0:19:48.82,0:19:50.84,Default,,0,0,0,,Yeah, a girl just failed it.
 Dialogue: 0,0:19:52.52,0:19:54.07,Default,,0,0,0,,Who's taking it right now?
 Dialogue: 0,0:19:54.28,0:19:57.51,Default,,0,0,0,,A guy, probably a little younger than me.
