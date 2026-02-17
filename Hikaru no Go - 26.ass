@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 165
-Active Line: 196
-Video Position: 19190
+Video Zoom Percent: 0.625000
+Scroll Position: 305
+Active Line: 330
+Video Position: 29439
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -288,128 +288,139 @@ Dialogue: 0,0:13:13.83,0:13:16.61,Sai,,0,0,0,,It's no good if you can hear me!
 Dialogue: 0,0:13:16.61,0:13:19.08,Sai,,0,0,0,,Wait... what am I saying?
 Dialogue: 0,0:13:20.35,0:13:22.95,Thinking,,0,0,0,,{\1c&HC5FEC1&}I saw Sai's matches many times.
 Dialogue: 0,0:13:23.95,0:13:25.13,Thinking,,0,0,0,,He's not Sai.
-Dialogue: 0,0:13:27.21,0:13:29.58,Thinking,,0,0,0,,Sai is much stronger than this.
-Dialogue: 0,0:13:31.67,0:13:32.11,Thinking,,0,0,0,,But...
-Dialogue: 0,0:13:34.30,0:13:35.17,Thinking,,0,0,0,,How should I put it...
+Dialogue: 0,0:13:27.21,0:13:29.58,Thinking,,0,0,0,,{\1c&HC5FEC1&}Sai is much stronger than this.
+Dialogue: 0,0:13:31.67,0:13:32.11,Thinking,,0,0,0,,{\1c&HC5FEC1&}But...
+Dialogue: 0,0:13:34.30,0:13:35.21,Thinking,,0,0,0,,How should I put it...
 Dialogue: 0,0:13:36.18,0:13:37.98,Thinking,,0,0,0,,I feel Sai within his moves.
 Dialogue: 0,0:13:43.64,0:13:47.01,Thinking,,0,0,0,,No! No! Don't think about that crap!
 Dialogue: 0,0:13:53.63,0:13:54.16,Thinking,,0,0,0,,But...
 Dialogue: 0,0:13:54.54,0:13:57.19,Thinking,,0,0,0,,Shindou knew about my match against Sai.
-Dialogue: 0,0:14:02.49,0:14:04.69,Thinking,,0,0,0,,Is he Sai after all?
-Dialogue: 0,0:14:06.23,0:14:07.20,Thinking,,0,0,0,,No! It can't be!
-Dialogue: 0,0:14:07.39,0:14:07.87,Thinking,,0,0,0,,It can't be!
-Dialogue: 0,0:14:07.87,0:14:08.49,Thinking,,0,0,0,,IT CAN'T BE!
+Dialogue: 0,0:14:02.49,0:14:04.69,Thinking,,0,0,0,,{\1c&HC5FEC1&}Is he Sai after all?
+Dialogue: 0,0:14:06.23,0:14:07.20,Thinking,,0,0,0,,{\1c&HC5FEC1&}No! It can't be!
+Dialogue: 0,0:14:07.39,0:14:07.87,Thinking,,0,0,0,,{\1c&HC5FEC1&}It can't be!
+Dialogue: 0,0:14:07.87,0:14:08.49,Thinking,,0,0,0,,{\1c&HC5FEC1&}IT CAN'T BE!
 Dialogue: 0,0:14:33.32,0:14:34.06,Default,,0,0,0,,I resign.
-Dialogue: 0,0:14:36.28,0:14:37.70,Default,,0,0,0,,We won....
+Dialogue: 0,0:14:36.28,0:14:37.70,Sai,,0,0,0,,We won....
 Dialogue: 0,0:14:38.19,0:14:40.64,Default,,0,0,0,,I have... three straight wins...
 Dialogue: 0,0:14:42.16,0:14:42.83,Default,,0,0,0,,That's it...
-Dialogue: 0,0:14:43.52,0:14:44.22,Default,,0,0,0,,I figured it out...
+Dialogue: 0,0:14:43.52,0:14:44.28,Default,,0,0,0,,I figured it out...
 Dialogue: 0,0:14:45.21,0:14:45.74,Default,,0,0,0,,Shindou!
-Dialogue: 0,0:14:47.40,0:14:48.92,Default,,0,0,0,,You're Sai's student aren't you!?
-Dialogue: 0,0:14:49.83,0:14:54.01,Default,,0,0,0,,You were watching my match against Sai from behind him weren't you!
-Dialogue: 0,0:14:54.47,0:14:56.95,Default,,0,0,0,,Close! He wasn't behind me, he was in front of me!
+Dialogue: 0,0:14:47.28,0:14:48.92,Default,,0,0,0,,You're Sai's student aren't you!?
+Dialogue: 0,0:14:49.83,0:14:54.01,Default,,0,0,0,,You were watching my match against\NSai from behind him weren't you!
+Dialogue: 0,0:14:54.47,0:14:56.95,Sai,,0,0,0,,Close! He wasn't behind me, he was in front of me!
 Dialogue: 0,0:14:58.09,0:14:59.83,Default,,0,0,0,,If you're learning Go from Sai...
 Dialogue: 0,0:15:00.87,0:15:03.91,Default,,0,0,0,,Touya Akira said he was chasing after you right?
 Dialogue: 0,0:15:04.73,0:15:08.73,Default,,0,0,0,,Yeah. That's because he saw some of Sai inside of you right?
 Dialogue: 0,0:15:09.07,0:15:11.89,Thinking,,0,0,0,,It sounds kinda right and kinda wrong...
-Dialogue: 0,0:15:12.16,0:15:13.94,Thinking,,0,0,0,,Waya is really sharp.
-Dialogue: 0,0:15:14.46,0:15:15.75,Default,,0,0,0,,Shindou! Answer me!
-Dialogue: 0,0:15:16.30,0:15:18.40,Default,,0,0,0,,How do you know about my match against Sai?
+Dialogue: 0,0:15:12.16,0:15:13.94,Thinking,,0,0,0,,{\1c&HFEFECE&}Waya is really sharp.
+Dialogue: 0,0:15:14.43,0:15:14.94,Default,,0,0,0,,Shindou!
+Dialogue: 0,0:15:15.06,0:15:15.73,Default,,0,0,0,,Answer me!
+Dialogue: 0,0:15:16.30,0:15:18.40,Default,,0,0,0,,How do you know about my match against Sai!?
 Dialogue: 0,0:15:24.95,0:15:25.54,Default,,0,0,0,,Waya...
-Dialogue: 0,0:15:26.61,0:15:30.12,Default,,0,0,0,,It was only coincidence that I saw the match between Sai and Zelda.
-Dialogue: 0,0:15:32.00,0:15:35.30,Default,,0,0,0,,Remember? I told you that I went to an internet cafe?
-Dialogue: 0,0:15:35.90,0:15:39.58,Default,,0,0,0,,There was someone playing Go on the internet there.
-Dialogue: 0,0:15:41.32,0:15:44.37,Default,,0,0,0,,When I turned to look, the match was already over.
-Dialogue: 0,0:15:46.79,0:15:49.89,Default,,0,0,0,,And the conversation between Sai and Zelda from then was interesting.
-Dialogue: 0,0:15:50.24,0:15:51.65,Default,,0,0,0,,So I remember it. That's all.
+Dialogue: 0,0:15:26.61,0:15:30.12,Default,,0,0,0,,It was only coincidence that I saw\Nthe match between Sai and Zelda.
+Dialogue: 0,0:15:32.00,0:15:35.30,Background,,0,0,0,,Remember? I told you that\NI went to an internet cafe?
+Dialogue: 0,0:15:35.90,0:15:39.58,Background,,0,0,0,,There was someone playing\NGo on the Internet there.
+Dialogue: 0,0:15:41.32,0:15:44.37,Background,,0,0,0,,When I turned to look, the match was already over.
+Dialogue: 0,0:15:46.79,0:15:49.89,Background,,0,0,0,,And the conversation between Sai\Nand Zelda from then was interesting,
+Dialogue: 0,0:15:50.24,0:15:51.68,Background,,0,0,0,,so I remembered it. That's all.
 Dialogue: 0,0:15:53.63,0:15:54.41,Default,,0,0,0,,What about him?
-Dialogue: 0,0:15:54.96,0:15:57.31,Default,,0,0,0,,He went home right away. I didn't even see his face.
-Dialogue: 0,0:16:00.12,0:16:00.72,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:16:01.12,0:16:02.71,Default,,0,0,0,,You're getting better at lying.
-Dialogue: 0,0:16:02.98,0:16:04.52,Default,,0,0,0,,It's all thanks to you.
-Dialogue: 0,0:16:05.58,0:16:06.71,Default,,0,0,0,,So he doesn't know him...
+Dialogue: 0,0:15:54.96,0:15:57.31,Default,,0,0,0,,He went home right away.\NI didn't even see his face.
+Dialogue: 0,0:16:00.12,0:16:00.72,Thinking,,0,0,0,,{\1c&HFEFECE&}Hikaru...
+Dialogue: 0,0:16:01.12,0:16:02.71,Thinking,,0,0,0,,{\1c&HFEFECE&}You're getting better at lying.
+Dialogue: 0,0:16:02.98,0:16:04.52,Thinking,,0,0,0,,It's all thanks to you.
+Dialogue: 0,0:16:05.58,0:16:06.74,Default,,0,0,0,,So he doesn't know him...
 Dialogue: 0,0:16:11.56,0:16:13.14,Default,,0,0,0,,It was a good game Shindou.
-Dialogue: 0,0:16:13.80,0:16:15.28,Default,,0,0,0,,The moves, they were interesting.
+Dialogue: 0,0:16:13.80,0:16:15.37,Default,,0,0,0,,The moves, they were interesting.
 Dialogue: 0,0:16:17.45,0:16:19.08,Default,,0,0,0,,Maybe you will become strong!
-Dialogue: 0,0:16:19.91,0:16:20.99,Default,,0,0,0,,Like Sai someday.
+Dialogue: 0,0:16:19.91,0:16:21.13,Background,,0,0,0,,Like Sai someday.
+Dialogue: 0,0:16:25.34,0:16:26.30,NoteArialEF,,0,0,0,,{\fs19\1c&HFDFBFF&\bord0.5\pos(37,231)}Kaneda
+Dialogue: 0,0:16:25.34,0:16:26.30,NoteArialEF,,0,0,0,,{\fs19\1c&HFDFBFF&\bord0.5\pos(114,85)}Takakura
+Dialogue: 0,0:16:25.34,0:16:26.30,NoteArialEF,,0,0,0,,{\fs19\1c&HFDFBFF&\bord0.5\pos(231,67)}Nakamura
+Dialogue: 0,0:16:25.34,0:16:26.30,NoteArialEF,,0,0,0,,{\fs19\1c&HFDFBFF&\bord0.5\pos(351,45)}Shindou
 Dialogue: 0,0:16:28.60,0:16:31.23,Thinking,,0,0,0,,Three straight wins!? Against Waya!?
-Dialogue: 0,0:16:35.07,0:16:37.46,Thinking,,0,0,0,,My opponent for the afternoon seemed scared of me.
+Dialogue: 0,0:16:35.07,0:16:37.52,Thinking,,0,0,0,,My opponent for the afternoon\Nseemed scared of me.
 Dialogue: 0,0:16:38.23,0:16:40.29,Thinking,,0,0,0,,I moved in too far sometimes, and...
 Dialogue: 0,0:16:40.93,0:16:41.97,Default,,0,0,0,,I resign.
-Dialogue: 0,0:16:42.14,0:16:43.67,Thinking,,0,0,0,,I got my fourth straight win.
-Dialogue: 0,0:16:44.33,0:16:46.83,Thinking,,0,0,0,,Just when I thought "I'm gonna have all wins from now on!"
-Dialogue: 0,0:16:46.83,0:16:51.00,Thinking,,0,0,0,,I got straight losses from the next match,
-Dialogue: 0,0:16:51.42,0:16:54.53,Default,,0,0,0,,and I started to doubt whether I'm getting stronger.
-Dialogue: 0,0:16:59.00,0:17:02.50,Note,,0,0,0,,NcDonald's Hamburgers
-Dialogue: 0,0:16:59.74,0:17:02.18,Default,,0,0,0,,Well, I guess you did well.
-Dialogue: 0,0:17:03.35,0:17:06.90,Default,,0,0,0,,You managed to make it all the way to 16th after all.
-Dialogue: 0,0:17:08.20,0:17:10.92,Default,,0,0,0,,Now you qualify for the Wakajishisen. Congratulations.
-Dialogue: 0,0:17:11.07,0:17:11.79,Default,,0,0,0,,Congratulations.
-Dialogue: 0,0:17:12.86,0:17:13.73,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:17:14.22,0:17:17.69,Default,,0,0,0,,And he was getting ten straight losses in second class recently.
+Dialogue: 0,0:16:42.14,0:16:43.73,Thinking,,0,0,0,,I got my fourth straight win.
+Dialogue: 0,0:16:44.33,0:16:47.95,Thinking,,0,0,0,,Just when I thought "I'm gonna\Nhave all wins from now on!"
+Dialogue: 0,0:16:48.53,0:16:51.00,Thinking,,0,0,0,,I got straight losses from the next match,
+Dialogue: 0,0:16:51.42,0:16:54.53,Thinking,,0,0,0,,and I start to doubt whether I'm getting stronger.
+Dialogue: 0,0:16:59.00,0:17:02.50,Note,,0,0,0,,{\fs50.5\1c&H00E8FF&\pos(272,85)}N
+Dialogue: 0,0:16:59.00,0:17:02.50,Note,,0,0,0,,{\fs22.5\1c&H00E8FF&\pos(337,91)}cDonald
+Dialogue: 0,0:16:59.00,0:17:02.50,Note,,0,0,0,,{\fs22.5\1c&H00E8FF&\pos(379,120)}Hamburgers
+Dialogue: 0,0:16:59.74,0:17:02.18,Background,,0,0,0,,Well, I guess you did well.
+Dialogue: 0,0:17:03.35,0:17:06.90,Default,,0,0,0,,You managed to make it all\Nthe way to sixteenth after all.
+Dialogue: 0,0:17:08.20,0:17:10.92,Default,,0,0,0,,Now you qualify for the\NWakajishisen. Congratulations.
+Dialogue: 0,0:17:11.07,0:17:11.84,Default,,0,0,0,,Congratulations.
+Dialogue: 0,0:17:12.86,0:17:13.73,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:17:14.22,0:17:17.69,Default,,0,0,0,,And he was getting ten straight\Nlosses in second class recently.
 Dialogue: 0,0:17:18.00,0:17:20.16,Default,,0,0,0,,But he's still not a rival.
-Dialogue: 0,0:17:21.64,0:17:23.59,Default,,0,0,0,,He did get over the hurdle in front of him,
+Dialogue: 0,0:17:21.64,0:17:23.61,Default,,0,0,0,,He did get over the hurdle in front of him,
 Dialogue: 0,0:17:23.95,0:17:25.62,Default,,0,0,0,,so congratulations it is.
 Dialogue: 0,0:17:25.92,0:17:27.43,Default,,0,0,0,,Doesn't matter to me.
 Dialogue: 0,0:17:27.75,0:17:29.82,Default,,0,0,0,,And? When is the Wakajishisen?
-Dialogue: 0,0:17:29.95,0:17:30.81,Default,,0,0,0,,Touya will be there right?
+Dialogue: 0,0:17:29.95,0:17:30.86,Default,,0,0,0,,Touya will be there right?
 Dialogue: 0,0:17:31.10,0:17:34.80,Default,,0,0,0,,Is Touya Akira the only thing in your head?
-Dialogue: 0,0:17:34.99,0:17:36.25,Default,,0,0,0,,Next month and the month after.
-Dialogue: 0,0:17:36.73,0:17:38.78,Default,,0,0,0,,On Saturdays we won't have Insei matches.
+Dialogue: 0,0:17:34.99,0:17:36.24,Default,,0,0,0,,Next month and the month after.
+Dialogue: 0,0:17:36.73,0:17:38.83,Default,,0,0,0,,On Saturdays we won't have Insei matches.
 Dialogue: 0,0:17:39.20,0:17:40.60,Default,,0,0,0,,It takes more than a day.
-Dialogue: 0,0:17:41.13,0:17:44.64,Default,,0,0,0,,It's a tournament between 16 Insei and 16 new pros.
+Dialogue: 0,0:17:41.13,0:17:44.64,Default,,0,0,0,,It's a tournament between\N16 Insei and 16 new pros.
 Dialogue: 0,0:17:44.85,0:17:46.12,Default,,0,0,0,,It takes three days.
-Dialogue: 0,0:17:46.59,0:17:49.29,Default,,0,0,0,,The first match is all between Insei and pro.
+Dialogue: 0,0:17:46.55,0:17:49.29,Default,,0,0,0,,The first match is all between Insei and pro.
 Dialogue: 0,0:17:49.78,0:17:51.09,Default,,0,0,0,,It's an even game of course.
 Dialogue: 0,0:17:51.60,0:17:52.99,Default,,0,0,0,,How was it last year?
 Dialogue: 0,0:17:53.44,0:17:55.96,Default,,0,0,0,,The Insei that went past the first round...
-Dialogue: 0,0:17:56.14,0:17:56.90,Default,,0,0,0,,There were five of them.
-Dialogue: 0,0:17:57.36,0:18:01.15,Default,,0,0,0,,Isumi-san and I were the only ones that won the second round. But that was it.
-Dialogue: 0,0:18:01.62,0:18:03.79,Default,,0,0,0,,But you won against pros! Wow!
-Dialogue: 0,0:18:03.79,0:18:04.97,Default,,0,0,0,,What are you talking about?
-Dialogue: 0,0:18:05.83,0:18:09.01,Default,,0,0,0,,You won't pass the pro exams unless you can win against pros.
-Dialogue: 0,0:18:09.63,0:18:11.52,Default,,0,0,0,,Wakajishisen is a good testing ground.
-Dialogue: 0,0:18:12.32,0:18:13.66,Default,,0,0,0,,Will Kurata 5-dan be there?
+Dialogue: 0,0:17:56.14,0:17:57.01,Default,,0,0,0,,There were five of them.
+Dialogue: 0,0:17:57.36,0:18:01.15,Default,,0,0,0,,Isumi-san and I were the only ones that\Nwon the second round. But that was it.
+Dialogue: 0,0:18:01.62,0:18:03.69,Default,,0,0,0,,But you won against pros! Wow!
+Dialogue: 0,0:18:03.79,0:18:05.02,Background,,0,0,0,,What are you talking about?
+Dialogue: 0,0:18:05.83,0:18:09.01,Default,,0,0,0,,You won't pass the pro exams\Nunless you can win against pros.
+Dialogue: 0,0:18:09.63,0:18:11.57,Default,,0,0,0,,Wakajishisen is a good testing ground.
+Dialogue: 0,0:18:12.32,0:18:13.66,Default,,0,0,0,,Will Kurata 5 dan be there?
 Dialogue: 0,0:18:13.93,0:18:16.47,Default,,0,0,0,,He won't. I think he's over the age limit.
 Dialogue: 0,0:18:16.98,0:18:19.01,Default,,0,0,0,,I'd rather not go up against Saeki-san.
-Dialogue: 0,0:18:19.54,0:18:20.66,Default,,0,0,0,,A match within your class?
-Dialogue: 0,0:18:20.77,0:18:24.05,Default,,0,0,0,,More importantly. We have to get past the first match first.
-Dialogue: 0,0:18:24.93,0:18:26.79,Default,,0,0,0,,Oh yeah, Nakayama-san will be there too, I heard.
+Dialogue: 0,0:18:19.12,0:18:20.66,Default,,0,0,0,,Oh a match within your class?
+Dialogue: 0,0:18:20.77,0:18:24.05,Default,,0,0,0,,More importantly. We have to\Nget past the first match first.
+Dialogue: 0,0:18:24.42,0:18:27.46,Background,,0,0,0,,Oh yeah, Nakayama-san will be there too, I heard.
 Dialogue: 0,0:18:28.96,0:18:29.57,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:18:30.20,0:18:32.93,Thinking,,0,0,0,,I couldn't even respond to you back then...
-Dialogue: 0,0:18:35.77,0:18:38.00,Default,,0,0,0,,Want to play now instead of someday?
-Dialogue: 0,0:18:38.70,0:18:39.63,Thinking,,0,0,0,,Now I can.
-Dialogue: 0,0:18:40.51,0:18:41.87,Default,,0,0,0,,"Yeah, let's play."
-Dialogue: 0,0:18:49.90,0:18:53.00,Default,,0,0,0,,Mashiba Mitsuru, 17 year old, from the Chiba prefecture.
-Dialogue: 0,0:18:53.52,0:18:55.31,Default,,0,0,0,,Studied under Mizokuchi Hiroshi 9-dan.
-Dialogue: 0,0:18:58.71,0:19:01.45,Default,,0,0,0,,Touya Akira, 13 year old from the city of Tokyo.
-Dialogue: 0,0:19:01.85,0:19:03.76,Default,,0,0,0,,Studied under Touya Kouyou Meijin.
-Dialogue: 0,0:19:10.99,0:19:13.08,Default,,0,0,0,,Ogata-san! Ogata-san!
+Dialogue: 0,0:18:35.77,0:18:38.00,Memory,,0,0,0,,Want to play now instead of someday?
+Dialogue: 0,0:18:38.70,0:18:39.63,Thinking,,0,0,0,,{\1c&HC5FEC1&}Now I can.
+Dialogue: 0,0:18:40.51,0:18:41.87,Thinking,,0,0,0,,"Yeah, let's play."
+Dialogue: 0,0:18:48.36,0:18:53.36,Note,,0,0,0,,{\1c&H385F73&\pos(330,263)}Japanese
+Dialogue: 0,0:18:48.36,0:18:53.36,Note,,0,0,0,,{\1c&H385F73&\pos(404,288)}Go
+Dialogue: 0,0:18:48.36,0:18:53.36,Note,,0,0,0,,{\1c&H385F73&\pos(474,314)}Institute
+Dialogue: 0,0:18:49.90,0:18:53.00,Background,,0,0,0,,Mashiba Mitsuru, 17 year old\Nfrom the Chiba prefecture.
+Dialogue: 0,0:18:53.52,0:18:55.36,Background,,0,0,0,,Studied under Mizokuchi Hiroshi 9 dan.
+Dialogue: 0,0:18:58.71,0:19:01.45,Background,,0,0,0,,Touya Akira, 13 year old from the city of Tokyo.
+Dialogue: 0,0:19:01.85,0:19:03.76,Background,,0,0,0,,Studied under Touya Kouyou Meijin.
+Dialogue: 0,0:19:10.99,0:19:13.08,Background,,0,0,0,,Ogata-san! Ogata-san!
 Dialogue: 0,0:19:13.86,0:19:14.41,Default,,0,0,0,,Oga...
 Dialogue: 0,0:19:17.36,0:19:18.14,Default,,0,0,0,,Welcome...
-Dialogue: 0,0:19:19.13,0:19:20.19,Default,,0,0,0,,To the world of the pros.
-Dialogue: 0,0:19:24.73,0:19:27.09,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:19:27.44,0:19:32.40,Default,,0,0,0,,Haze Jr. High School Graduation Ceremony
+Dialogue: 0,0:19:19.13,0:19:20.35,Default,,0,0,0,,To the world of the pros.
+Dialogue: 0,0:19:24.73,0:19:25.35,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:19:26.02,0:19:26.98,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:19:27.44,0:19:32.40,Note,,0,0,0,,Haze Jr. High School Graduation Ceremony
 Dialogue: 0,0:19:36.32,0:19:37.20,Default,,0,0,0,,Tsutsui-san.
 Dialogue: 0,0:19:38.74,0:19:41.70,Default,,0,0,0,,Umm... Thank you very much!
 Dialogue: 0,0:19:42.07,0:19:45.04,Default,,0,0,0,,Stop it, I'm the one that should be thanking you.
-Dialogue: 0,0:19:45.76,0:19:49.25,Default,,0,0,0,,It's thanks to you guys that the Go club was able to continue.
+Dialogue: 0,0:19:45.76,0:19:49.25,Default,,0,0,0,,It's thanks to you guys that the\NGo club was able to continue.
 Dialogue: 0,0:19:50.32,0:19:52.94,Default,,0,0,0,,Thank you. It was fun.
-Dialogue: 0,0:19:53.53,0:19:54.33,Default,,0,0,0,,Tsutsui-san...
-Dialogue: 0,0:19:55.22,0:19:55.95,Default,,0,0,0,,Take care.
-Dialogue: 0,0:19:56.87,0:19:58.59,Default,,0,0,0,,Yeah, you guys take care.
-Dialogue: 0,0:19:58.90,0:19:59.33,Default,,0,0,0,,Yes.
+Dialogue: 0,0:19:53.38,0:19:54.42,Default,,0,0,0,,Tsutsui-san...
+Dialogue: 0,0:19:55.22,0:19:56.01,Background,,0,0,0,,Take care.
+Dialogue: 0,0:19:56.87,0:19:58.59,Background,,0,0,0,,Yeah, you guys too.
+Dialogue: 0,0:19:58.90,0:19:59.47,Background,,0,0,0,,Yes.
 Dialogue: 0,0:20:01.99,0:20:02.80,Default,,0,0,0,,Kaga...
 Dialogue: 0,0:20:03.49,0:20:04.26,Default,,0,0,0,,Kaga!
 Dialogue: 0,0:20:04.90,0:20:06.07,Default,,0,0,0,,Oh! Shindou!
-Dialogue: 0,0:20:06.28,0:20:07.82,Default,,0,0,0,, Umm... I...
-Dialogue: 0,0:20:09.02,0:20:12.95,Default,,0,0,0,,The three board match from then... umm...
+Dialogue: 0,0:20:06.28,0:20:07.82,Default,,0,0,0,,Umm... I...
+Dialogue: 0,0:20:09.02,0:20:12.95,Default,,0,0,0,,the three board match from then... umm...
 Dialogue: 0,0:20:14.02,0:20:16.90,Default,,0,0,0,,Don't worry about it. Take care man.
 Dialogue: 0,0:20:19.00,0:20:20.63,Default,,0,0,0,,Yeah! I'll be working hard!
-Dialogue: 0,0:20:21.38,0:20:25.16,Default,,0,0,0,,I'll be looking forward to the news that Shindou-kun's become a pro!
-Dialogue: 0,0:20:25.31,0:20:27.21,Default,,0,0,0,,Good bye! Tsutsui-san!
-Dialogue: 0,0:20:27.21,0:20:29.21,Default,,0,0,0,,Please write.
-Dialogue: 0,0:20:27.08,0:20:28.79,Default,,0,0,0,,Watch me Tsutsui-san!
+Dialogue: 0,0:20:21.38,0:20:25.00,Default,,0,0,0,,I'll be looking forward to the news\Nthat Shindou-kun's become a pro!
+Dialogue: 0,0:20:25.20,0:20:26.96,Default,,0,0,0,,Good bye! Tsutsui-san!
+Dialogue: 0,0:20:27.04,0:20:27.75,Default,,0,0,0,,Please write.
+Dialogue: 0,0:20:27.75,0:20:29.58,Default,,0,0,0,,Watch me Tsutsui-san!
 Dialogue: 0,0:20:34.84,0:20:37.51,Thinking,,0,0,0,,I... really will be working hard!
 Dialogue: 0,0:22:13.00,0:22:15.88,Default,,0,0,0,,This is Yuta Iyama, who turned pro this year.
 Dialogue: 0,0:22:16.30,0:22:18.20,Default,,0,0,0,,He's still just a 7th grader.
