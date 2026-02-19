@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 293
-Active Line: 312
-Video Position: 35456
+Active Line: 6
+Video Position: 2896
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,7 +46,7 @@ Dialogue: 0,0:01:47.08,0:01:47.77,Background,,0,0,0,,Good luck!
 Dialogue: 0,0:01:48.08,0:01:51.17,Background,,0,0,0,,I'm looking forward to seeing you during\Nthe first match of the actual exam.
 Dialogue: 0,0:01:53.34,0:01:56.30,Thinking,,0,0,0,,Shindou was laughing...
 Dialogue: 0,0:01:56.82,0:01:59.79,Thinking,,0,0,0,,does he understand that we're all rivals?
-Dialogue: 0,0:01:59.93,0:02:04.90,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(320,115)}The Thirty First Match
+Dialogue: 0,0:01:59.93,0:02:04.90,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(320,115)}The Thirty-First Match
 Dialogue: 0,0:01:59.93,0:02:04.90,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Preliminary Starts
 Dialogue: 0,0:02:09.40,0:02:10.99,Note,,0,0,0,,{\fs20\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(530,104)}Japanese Go Institute
 Dialogue: 0,0:02:11.38,0:02:15.45,Default,,0,0,0,,The Pro exam preliminaries start today\Nand go for five days. One match a day.
