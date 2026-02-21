@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 34 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 42
-Active Line: 68
-Video Position: 8783
+Scroll Position: 267
+Active Line: 288
+Video Position: 29722
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,11 +93,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:42.10,0:01:45.20,Sai,,0,0,0,,I see... this is a good learning place.
 Dialogue: 0,0:01:45.97,0:01:50.20,Sai,,0,0,0,,Since Hikaru has only played myself,\Na stronger opponent, he will\Ngain a new strength here.
 Dialogue: 0,0:01:51.26,0:01:55.01,Sai,,0,0,0,,In Go, if you have half a moku more\Nthan your opponent, you win.
-Dialogue: 0,0:01:55.84,0:02:00.22,Sai,,0,0,0,,In an even match, you start off even. All\Nyou need to do is hold a marginal lead.
+Dialogue: 0,0:01:55.80,0:02:00.22,Sai,,0,0,0,,In an even match, you start off even. All\Nyou need to do is hold a marginal lead.
 Dialogue: 0,0:02:01.43,0:02:06.79,Sai,,0,0,0,,But a handicap game is like giving 20 to\N30 moku to your opponent to start with.
-Dialogue: 0,0:02:07.82,0:02:11.65,Sai,,0,0,0,,In that case, you must take territory\Nwith moves you don't usually see.
-Dialogue: 0,0:02:15.17,0:02:17.33,Sai,,0,0,0,,In other words, you become better\Nat terrorizing your opponent.
-Dialogue: 0,0:02:20.94,0:02:26.04,Sai,,0,0,0,,That offers a strength to come back from\Nlosing situations in even games.
+Dialogue: 0,0:02:07.77,0:02:11.65,Sai,,0,0,0,,In that case, you must take territory\Nwith moves you don't usually see.
+Dialogue: 0,0:02:15.11,0:02:17.33,Sai,,0,0,0,,In other words, you become better\Nat terrorizing your opponent.
+Dialogue: 0,0:02:20.91,0:02:26.04,Sai,,0,0,0,,That offers a strength to come back from\Nlosing situations in even games.
 Dialogue: 0,0:02:27.21,0:02:32.13,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Thirty-Fourth Match
 Dialogue: 0,0:02:27.21,0:02:32.13,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Don't Win
 Dialogue: 0,0:02:39.75,0:02:41.12,Default,,0,0,0,,Good morning!
@@ -108,7 +108,7 @@ Dialogue: 0,0:02:49.18,0:02:50.40,Background,,0,0,0,,But the fee...
 Dialogue: 0,0:02:50.63,0:02:52.87,Background,,0,0,0,,Don't worry about that.
 Dialogue: 0,0:02:53.18,0:02:56.42,Default,,0,0,0,,Hey!? Oh well.
 Dialogue: 0,0:02:57.13,0:02:58.38,Default,,0,0,0,,Oh well what?
-Dialogue: 0,0:02:59.94,0:03:01.35,Background,,0,0,0,,It's okay for him.
+Dialogue: 0,0:02:59.91,0:03:01.35,Background,,0,0,0,,It's okay for him.
 Dialogue: 0,0:03:03.34,0:03:04.21,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:03:04.32,0:03:05.89,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:03:14.01,0:03:16.80,Note,,0,0,0,,{\fs30.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(325,120,325,-30)}Friendly Go Festival
@@ -137,7 +137,7 @@ Dialogue: 0,0:04:31.80,0:04:32.78,Default,,0,0,0,,What!?
 Dialogue: 0,0:04:33.28,0:04:39.11,Default,,0,0,0,,It was an emergency. So we had Touya\N2dan come in the place of Ms. Sakurano.
 Dialogue: 0,0:04:39.42,0:04:43.39,Default,,0,0,0,,Touya 2dan? He's just a little bratty kid.
 Dialogue: 0,0:04:44.08,0:04:49.11,Default,,0,0,0,,Touya 2dan is Touya Meijin's son, and\Nhighly praised in the Go world.
-Dialogue: 0,0:04:49.89,0:04:51.90,Default,,0,0,0,,It's nothing special to be playing the son.
+Dialogue: 0,0:04:49.85,0:04:51.90,Default,,0,0,0,,It's nothing special to be playing the son.
 Dialogue: 0,0:04:52.23,0:04:54.41,Default,,0,0,0,,Oh well. Give me some iced tea.
 Dialogue: 0,0:04:54.86,0:04:56.02,Default,,0,0,0,,Okay, this way please.
 Dialogue: 0,0:04:56.03,0:04:59.95,Note,,0,0,0,,{\fs30.5\fsp10\bord1\1a&HFF&\3c&H000000&\4c&HDDDDDD&\shad1\frz346\pos(414,85)}Friendly Go Festival
@@ -151,175 +151,175 @@ Dialogue: 0,0:05:31.31,0:05:32.60,Default,,0,0,0,,Give me five stones.
 Dialogue: 0,0:05:32.77,0:05:34.79,Default,,0,0,0,,Then I'll need six stones.
 Dialogue: 0,0:05:35.23,0:05:37.32,Default,,0,0,0,,What about you? Three stones?
 Dialogue: 0,0:05:37.55,0:05:42.30,Default,,0,0,0,,Yes. I was told three stones would be plenty\Nwhen playing a tutoring game with a pro.
-Dialogue: 0,0:05:42.65,0:05:46.37,Default,,0,0,0,,If you're playing with three stones, I'm playing\Nwith three too. I can't put anymore down.
-Dialogue: 0,0:05:47.23,0:05:48.74,Default,,0,0,0,,Is three stones really enough?
+Dialogue: 0,0:05:42.61,0:05:46.37,Default,,0,0,0,,If you're playing with three stones, I'm playing\Nwith three too. I can't put anymore down.
+Dialogue: 0,0:05:47.20,0:05:48.74,Default,,0,0,0,,Is three stones really enough?
 Dialogue: 0,0:05:49.03,0:05:51.71,Default,,0,0,0,,Yes! I'm always beating pros at five stones!
 Dialogue: 0,0:05:52.05,0:05:53.66,Default,,0,0,0,,Well then, good luck.
-Dialogue: 0,0:05:53.82,0:05:55.17,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:05:53.79,0:05:55.17,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:05:57.67,0:05:59.84,Background,,0,0,0,,You can't just look unexpressive like that.
 Dialogue: 0,0:06:00.72,0:06:05.10,Default,,0,0,0,,Your job deals with people, you have\Nto learn how to be friendly.
 Dialogue: 0,0:06:06.30,0:06:07.99,Memory,,0,0,0,,Please lose to them.
-Dialogue: 0,0:06:11.75,0:06:12.47,Default,,0,0,0,,Four of them...
+Dialogue: 0,0:06:11.73,0:06:12.64,Thinking,,0,0,0,,Four of them...
 Dialogue: 0,0:06:13.70,0:06:16.28,Default,,0,0,0,,What's wrong Mr. Touya?
 Dialogue: 0,0:06:16.88,0:06:18.59,Default,,0,0,0,,Nothing, let us begin.
-Dialogue: 0,0:06:21.17,0:06:23.44,Default,,0,0,0,,64 moku...
+Dialogue: 0,0:06:21.17,0:06:23.44,Background,,0,0,0,,64 moku...
 Dialogue: 0,0:06:24.52,0:06:27.04,Default,,0,0,0,,It's my turn now!
-Dialogue: 0,0:06:27.20,0:06:28.62,Default,,0,0,0,,Are you bad at counting?
-Dialogue: 0,0:06:27.20,0:06:32.85,Note,,0,0,0,,Counting is when you determine the territory of each player and estimate who's winning. Also called mokusan.
+Dialogue: 0,0:06:27.16,0:06:28.70,Default,,0,0,0,,Are you bad at counting?
+Dialogue: 0,0:06:27.16,0:06:32.85,Note,,0,0,0,,[note: Counting is when you determine the territory of each\Nplayer and estimate who's winning. Also called mokusan.]
 Dialogue: 0,0:06:29.13,0:06:29.69,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:29.96,0:06:32.85,Default,,0,0,0,,What!? Are you not even counting?
-Dialogue: 0,0:06:33.10,0:06:36.41,Default,,0,0,0,,I'm counting! I can estimate how much territory there is.
-Dialogue: 0,0:06:36.51,0:06:38.50,Default,,0,0,0,,Looks like you're not precise enough.
-Dialogue: 0,0:06:39.06,0:06:40.96,Default,,0,0,0,,This next match, try to force a draw.
-Dialogue: 0,0:06:41.16,0:06:43.14,Default,,0,0,0,,Intentionally make the game a draw.
+Dialogue: 0,0:06:33.10,0:06:36.41,Default,,0,0,0,,I'm counting! I can estimate\Nhow much territory there is.
+Dialogue: 0,0:06:36.46,0:06:38.50,Default,,0,0,0,,Looks like you're not precise enough.
+Dialogue: 0,0:06:39.06,0:06:40.96,Background,,0,0,0,,This next match, try to force a draw.
+Dialogue: 0,0:06:41.16,0:06:43.14,Background,,0,0,0,,Intentionally make the game a draw.
 Dialogue: 0,0:06:43.55,0:06:44.39,Default,,0,0,0,,Intentionally?
-Dialogue: 0,0:06:44.69,0:06:53.57,Default,,0,0,0,,Yes, intentionally. With a handicap game, there isn't a 5.5 moku komi so a draw can occur.
-Dialogue: 0,0:06:54.22,0:07:00.42,Default,,0,0,0,,Listen, make the general estimate during the mid-game, and calculate precisely during the endgame.
+Dialogue: 0,0:06:44.69,0:06:53.57,Default,,0,0,0,,Yes, intentionally. With a handicapped game, there\Nisn't a 5.5 moku komi so a draw can occur.
+Dialogue: 0,0:06:54.22,0:07:00.42,Default,,0,0,0,,Listen, make the general estimate during the\Nmid-game, and calculate precisely\Nduring the endgame.
 Dialogue: 0,0:07:00.71,0:07:02.02,Default,,0,0,0,,That's the hard part.
-Dialogue: 0,0:07:02.33,0:07:06.97,Default,,0,0,0,,The board changes with every move of your opponent, so you must keep counting.
-Dialogue: 0,0:07:08.60,0:07:13.19,Default,,0,0,0,,And you have to be exact, so you can't miss by even one moku.
-Dialogue: 0,0:07:16.58,0:07:22.26,Default,,0,0,0,,Just so you know, you can't just force a draw. You can't play any slower than usual.
-Dialogue: 0,0:07:22.91,0:07:24.90,Default,,0,0,0,,You have to play at your normal speed.
-Dialogue: 0,0:07:25.52,0:07:27.59,Default,,0,0,0,,Hikaru! Sounds fun!
-Dialogue: 0,0:07:27.89,0:07:28.77,Default,,0,0,0,,And...
+Dialogue: 0,0:07:02.33,0:07:06.97,Background,,0,0,0,,The board changes with every move of your\Nopponent, so you must keep counting.
+Dialogue: 0,0:07:08.60,0:07:13.19,Background,,0,0,0,,And, you have to be exact, so you\Ncan't miss by even one moku.
+Dialogue: 0,0:07:16.58,0:07:22.26,Default,,0,0,0,,Just so you know, you can't just force a draw.\NYou can't play any slower than usual.
+Dialogue: 0,0:07:22.88,0:07:24.90,Default,,0,0,0,,You have to play at your normal speed.
+Dialogue: 0,0:07:25.52,0:07:27.59,Sai,,0,0,0,,Hikaru! Sounds fun!
+Dialogue: 0,0:07:27.89,0:07:28.77,Background,,0,0,0,,And...
 Dialogue: 0,0:07:29.02,0:07:30.22,Default,,0,0,0,,There's more!?
 Dialogue: 0,0:07:30.86,0:07:33.85,Default,,0,0,0,,You can't make a bad move to let them catch up.
-Dialogue: 0,0:07:34.57,0:07:38.70,Default,,0,0,0,,You have to play well enough so that your opponent, doesn't realize that you're trying to force a draw.
+Dialogue: 0,0:07:34.57,0:07:38.70,Default,,0,0,0,,You have to play well enough so that your\Nopponent doesn't realize that\Nyou're trying to force a draw.
 Dialogue: 0,0:07:39.05,0:07:40.49,Default,,0,0,0,,I already know though.
 Dialogue: 0,0:07:40.75,0:07:43.41,Default,,0,0,0,,You just play normally Doumoto-san.
-Dialogue: 0,0:07:43.67,0:07:45.08,Default,,0,0,0,,Let's do it Hikaru!
-Dialogue: 0,0:07:45.28,0:07:47.38,Default,,0,0,0,,Give it a try, it'll help you.
-Dialogue: 0,0:07:47.74,0:07:48.33,Default,,0,0,0,,Okay.
-Dialogue: 0,0:07:48.68,0:07:49.61,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:07:43.67,0:07:45.08,Sai,,0,0,0,,Let's do it Hikaru!
+Dialogue: 0,0:07:45.28,0:07:47.38,Background,,0,0,0,,Give it a try, it'll help you.
+Dialogue: 0,0:07:47.74,0:07:48.33,Default,,0,0,0,,Okay!
+Dialogue: 0,0:07:48.68,0:07:49.61,Default,,0,0,0,,Good luck!
 Dialogue: 0,0:07:52.40,0:07:54.16,Default,,0,0,0,,To force a draw...
 Dialogue: 0,0:07:54.41,0:07:56.73,Default,,0,0,0,,If you manage that, try it with two boards next.
 Dialogue: 0,0:07:57.05,0:07:59.60,Default,,0,0,0,,Two boards!? Force a draw on both?
 Dialogue: 0,0:07:59.74,0:08:02.51,Default,,0,0,0,,Owner! That's crazy!
 Dialogue: 0,0:08:03.13,0:08:05.91,Default,,0,0,0,,Want to try three if you can do two?
-Dialogue: 0,0:08:06.62,0:08:08.16,Default,,0,0,0,,If I do that, will I be working on four?
+Dialogue: 0,0:08:06.59,0:08:08.22,Default,,0,0,0,,If I do that, will I be working on four?
 Dialogue: 0,0:08:08.82,0:08:11.17,Default,,0,0,0,,Easy to say that, but I wonder how far you'll get.
 Dialogue: 0,0:08:11.33,0:08:12.97,Default,,0,0,0,,Don't be getting cocky!
 Dialogue: 0,0:08:16.18,0:08:18.91,Default,,0,0,0,,If you can't count properly, you can't force a draw.
 Dialogue: 0,0:08:19.40,0:08:22.15,Default,,0,0,0,,Try to force a draw against Doumoto-san first.
-Dialogue: 0,0:08:23.72,0:08:25.79,Default,,0,0,0,,It's your first time with even one person right?
-Dialogue: 0,0:08:26.14,0:08:29.37,Default,,0,0,0,,You'll be playing two people with two boards! That's impossible.
-Dialogue: 0,0:08:29.56,0:08:32.87,Default,,0,0,0,,No! Hikaru you'll be okay. Let's do it!
-Dialogue: 0,0:08:43.19,0:08:45.19,Thinking,,0,0,0,,I can tell how strong they are after ten moves.
-Dialogue: 0,0:08:46.49,0:08:51.41,Thinking,,0,0,0,,The two people on my sides are more or less what I expected. Their handicaps are about right.
+Dialogue: 0,0:08:23.69,0:08:25.79,Default,,0,0,0,,It's your first time with even one person right?
+Dialogue: 0,0:08:26.11,0:08:29.37,Default,,0,0,0,,You'll be playing two people with\Ntwo boards! That's impossible.
+Dialogue: 0,0:08:29.53,0:08:32.87,Sai,,0,0,0,,No! Hikaru you'll be okay. Let's do it!
+Dialogue: 0,0:08:43.17,0:08:45.21,Thinking,,0,0,0,,I can tell how strong they are after ten moves.
+Dialogue: 0,0:08:46.46,0:08:51.41,Thinking,,0,0,0,,The two people on my sides are more or less what\NI expected. Their handicaps are about right.
 Dialogue: 0,0:08:52.36,0:08:55.45,Thinking,,0,0,0,,This person is very weak just as I had imagined.
-Dialogue: 0,0:08:56.34,0:09:00.86,Thinking,,0,0,0,,He is a good player. He'll take advantage of any weak moves I make.
-Dialogue: 0,0:09:04.48,0:09:07.23,Thinking,,0,0,0,,A kid who just became pro last year.
+Dialogue: 0,0:08:56.31,0:09:00.86,Thinking,,0,0,0,,He is a good player. He'll take advantage\Nof any weak moves I make.
+Dialogue: 0,0:09:04.48,0:09:07.23,Thinking,,0,0,0,,A kid who just became pro this year.
 Dialogue: 0,0:09:08.17,0:09:11.10,Thinking,,0,0,0,,He's probably been told to lose to the council member.
-Dialogue: 0,0:09:11.77,0:09:18.03,Thinking,,0,0,0,,I guess you'll do it hesitantly. Or will you refuse to let someone like him to win?
-Dialogue: 0,0:09:18.92,0:09:26.71,Thinking,,0,0,0,,You can't do that, though you're just a kid. You are a pro. Good luck with losing.
+Dialogue: 0,0:09:11.74,0:09:18.03,Thinking,,0,0,0,,{\1c&HC5FEC1&}I guess you'll do it hesitantly. Or will you\Nrefuse to let someone like him to win?
+Dialogue: 0,0:09:18.87,0:09:26.71,Thinking,,0,0,0,,You can't do that, though you're just a kid,\Nyou are a pro. Good luck with losing.
 Dialogue: 0,0:09:37.31,0:09:38.51,Default,,0,0,0,,Yes! A draw!
-Dialogue: 0,0:09:39.82,0:09:41.22,Default,,0,0,0,,Good job Hikaru!
+Dialogue: 0,0:09:39.82,0:09:41.22,Sai,,0,0,0,,Good job Hikaru!
 Dialogue: 0,0:09:41.61,0:09:43.24,Default,,0,0,0,,Nice job!
 Dialogue: 0,0:09:43.33,0:09:45.01,Default,,0,0,0,,Hey! Stop that!
-Dialogue: 0,0:09:45.93,0:09:48.52,Default,,0,0,0,,But, it's not too hard now that I've done it.
-Dialogue: 0,0:09:48.87,0:09:55.48,Default,,0,0,0,,Just so you know, a pro can easily force a draw 100 times out of 100 games.
-Dialogue: 0,0:09:55.95,0:10:03.98,Default,,0,0,0,,Good point. I take back what I said earlier. If you're an Insei you can't be satisfied over just one board.
+Dialogue: 0,0:09:45.90,0:09:48.52,Default,,0,0,0,,But, it's not too hard now that I've done it.
+Dialogue: 0,0:09:48.87,0:09:55.48,Default,,0,0,0,,Just so you know, a pro can easily force\Na draw 100 times out of 100 games.
+Dialogue: 0,0:09:55.95,0:10:03.98,Default,,0,0,0,,Good point. I take back what I said earlier. If\Nyou're an Insei you can't be satisfied\Nover just one board.
 Dialogue: 0,0:10:04.06,0:10:04.75,Default,,0,0,0,,Okay.
 Dialogue: 0,0:10:04.85,0:10:08.05,Default,,0,0,0,,Okay let's go with two boards now! Two!
-Dialogue: 0,0:10:08.81,0:10:09.90,Default,,0,0,0,,I'll play.
-Dialogue: 0,0:10:10.12,0:10:12.89,Default,,0,0,0,,Hey! That's not fair!
+Dialogue: 0,0:10:08.81,0:10:10.09,Default,,0,0,0,,I'll play.
+Dialogue: 0,0:10:10.09,0:10:12.89,Default,,0,0,0,,Hey! That's not fair!
 Dialogue: 0,0:10:13.15,0:10:15.85,Default,,0,0,0,,Then Doumoto-san, switch with me.
-Dialogue: 0,0:10:15.95,0:10:17.16,Default,,0,0,0,,Kawai-san...
-Dialogue: 0,0:10:17.26,0:10:19.98,Default,,0,0,0,,You don't have to be good right? Then let me play too.
+Dialogue: 0,0:10:15.93,0:10:17.16,Background,,0,0,0,,Kawai-san...
+Dialogue: 0,0:10:17.26,0:10:19.98,Background,,0,0,0,,You don't have to be good right?\NThen let me play too.
 Dialogue: 0,0:10:20.19,0:10:22.50,Default,,0,0,0,,I don't care who it is!
-Dialogue: 0,0:10:22.60,0:10:27.55,Default,,0,0,0,,With two opponents you'll have to calculate twice as much. It'll be hard.
-Dialogue: 0,0:10:27.97,0:10:31.29,Default,,0,0,0,,I'll triple with three people right? I know.
-Dialogue: 0,0:10:31.78,0:10:36.45,Default,,0,0,0,,You can probably manage two. But three will be hard.
-Dialogue: 0,0:10:36.72,0:10:40.18,Default,,0,0,0,,Hurry! Three! Let's do three Hikaru!
+Dialogue: 0,0:10:22.60,0:10:27.55,Default,,0,0,0,,With two opponents you'll have to calculate\Ntwice as much. It'll be hard.
+Dialogue: 0,0:10:27.94,0:10:31.29,Default,,0,0,0,,I'll triple with three people right? I know.
+Dialogue: 0,0:10:31.78,0:10:36.45,Default,,0,0,0,,You can probably manage two.\NBut three will be hard.
+Dialogue: 0,0:10:36.70,0:10:40.18,Sai,,0,0,0,,Hurry! Three! Let's do three Hikaru!
 Dialogue: 0,0:10:40.23,0:10:42.83,Default,,0,0,0,,Like I said, I haven't done two yet.
-Dialogue: 0,0:10:42.93,0:10:44.67,Default,,0,0,0,,So end it quickly!
+Dialogue: 0,0:10:42.93,0:10:44.67,Sai,,0,0,0,,So end it quickly!
 Dialogue: 0,0:10:44.79,0:10:45.97,Default,,0,0,0,,Really...
 Dialogue: 0,0:10:51.76,0:10:53.90,Default,,0,0,0,,Okay going with two boards!
-Dialogue: 0,0:11:04.94,0:11:06.39,Thinking,,0,0,0,,The handicap stones placed in the beginning.
+Dialogue: 0,0:11:04.94,0:11:06.52,Thinking,,0,0,0,,The handicap stones placed in the beginning.
 Dialogue: 0,0:11:07.08,0:11:09.73,Thinking,,0,0,0,,I've already gained back most of it.
 Dialogue: 0,0:11:11.72,0:11:13.12,Thinking,,0,0,0,,15 moku with him.
 Dialogue: 0,0:11:14.54,0:11:15.94,Thinking,,0,0,0,,10 moku with him.
-Dialogue: 0,0:11:17.45,0:11:21.35,Thinking,,0,0,0,,I'll bring my throwaway stones back to life, and turn the right side into white territory, and that'll be enough.
+Dialogue: 0,0:11:17.45,0:11:21.45,Thinking,,0,0,0,,I'll bring my throwaway stones back to life, and turn the\Nright side into white territory, and that'll be enough.
 Dialogue: 0,0:11:24.05,0:11:26.80,Thinking,,0,0,0,,6 or 7 moku against him.
-Dialogue: 0,0:11:33.88,0:11:36.00,Thinking,,0,0,0,,What's with his serious face?
-Dialogue: 0,0:11:41.09,0:11:42.84,Thinking,,0,0,0,,He keeps staring at the game against me.
-Dialogue: 0,0:11:44.31,0:11:48.79,Thinking,,0,0,0,,He's going all out against me. He doesn't look like he's holding back.
-Dialogue: 0,0:11:49.92,0:11:56.60,Thinking,,0,0,0,,Oh I see! Because you're letting the council member win, you're going to beat us no matter what instead.
-Dialogue: 0,0:11:57.26,0:12:01.97,Thinking,,0,0,0,,You may be able to beat the other two easily, but that's not the case with me.
-Dialogue: 0,0:12:02.26,0:12:05.24,Thinking,,0,0,0,,So you're concentrating on your match against me.
-Dialogue: 0,0:12:07.01,0:12:09.98,Thinking,,0,0,0,,You must be really angry about having to lose to him.
-Dialogue: 0,0:12:10.96,0:12:18.09,Thinking,,0,0,0,,But if that's the case. I'll beat you no matter what and make you, the Meijin's son, cry.
-Dialogue: 0,0:12:20.01,0:12:26.07,Default,,0,0,0,,Mr. Touya certainly is impressive. He's the same age as my grandson, but he's much more mature.
+Dialogue: 0,0:11:33.84,0:11:36.00,Thinking,,0,0,0,,What's with his serious face?
+Dialogue: 0,0:11:41.06,0:11:42.89,Thinking,,0,0,0,,He keeps staring at the game against me.
+Dialogue: 0,0:11:44.31,0:11:48.79,Thinking,,0,0,0,,He's going all out against me. He doesn't\Nlook like he's holding back.
+Dialogue: 0,0:11:49.90,0:11:56.60,Thinking,,0,0,0,,Oh I see! Because you're letting the council member\Nwin, you're going to beat us no matter what instead.
+Dialogue: 0,0:11:57.24,0:12:01.97,Thinking,,0,0,0,,{\1c&HC5FEC1&}You may be able to beat the other two\Neasily, but that's not the case with me.
+Dialogue: 0,0:12:02.26,0:12:05.24,Thinking,,0,0,0,,{\1c&HC5FEC1&}So you're concentrating on your match against me.
+Dialogue: 0,0:12:07.01,0:12:09.98,Thinking,,0,0,0,,{\1c&HC5FEC1&}You must be really angry about having to lose to him.
+Dialogue: 0,0:12:10.96,0:12:18.09,Thinking,,0,0,0,,But if that's the case, I'll beat you no matter\Nwhat and make you, the Meijin's son, cry.
+Dialogue: 0,0:12:20.01,0:12:26.07,Default,,0,0,0,,Mr. Touya certainly is impressive. He's the same\Nage as my grandson, but he's much more mature.
 Dialogue: 0,0:12:26.70,0:12:28.83,Default,,0,0,0,,But I'm still a little worried...
-Dialogue: 0,0:12:29.23,0:12:33.12,Default,,0,0,0,,that he may slaughter our customers in a tutoring game.
+Dialogue: 0,0:12:29.23,0:12:33.12,Default,,0,0,0,,that he may slaughter our customers\Nin a tutoring game.
 Dialogue: 0,0:12:33.44,0:12:37.74,Default,,0,0,0,,I'm sure he won't. He's a pro after all.
 Dialogue: 0,0:12:38.15,0:12:39.98,Default,,0,0,0,,That may be so but...
-Dialogue: 0,0:12:42.64,0:12:44.82,Thinking,,0,0,0,,I'll let him get 2 moku with seme-dori.
+Dialogue: 0,0:12:42.62,0:12:44.82,Thinking,,0,0,0,,I'll let him get 2 moku with seme-dori.
 Dialogue: 0,0:12:46.46,0:12:48.34,Thinking,,0,0,0,,I'll let him take sente for 4 moku.
 Dialogue: 0,0:12:49.55,0:12:50.29,Thinking,,0,0,0,,With him...
-Dialogue: 0,0:12:54.43,0:12:56.19,Thinking,,0,0,0,,I've read all the moves till the end.
+Dialogue: 0,0:12:54.42,0:12:56.26,Thinking,,0,0,0,,I've read all of the moves till the end.
 Dialogue: 0,0:12:57.34,0:12:59.35,Thinking,,0,0,0,,If I go straight through, it'll be fine.
 Dialogue: 0,0:13:04.97,0:13:06.82,Thinking,,0,0,0,,But, he won't let me do that...
 Dialogue: 0,0:13:07.68,0:13:09.01,Thinking,,0,0,0,,Adjust for that...
 Dialogue: 0,0:13:11.32,0:13:12.01,Thinking,,0,0,0,,Adjust...
 Dialogue: 0,0:13:14.64,0:13:15.33,Thinking,,0,0,0,,Adjust...
-Dialogue: 0,0:13:30.59,0:13:33.22,Thinking,,0,0,0,,Okay. After that, this game is over.
-Dialogue: 0,0:13:34.09,0:13:34.82,Thinking,,0,0,0,,It's over.
+Dialogue: 0,0:13:30.59,0:13:33.22,Thinking,,0,0,0,,Okay! After that, this game is over.
+Dialogue: 0,0:13:34.04,0:13:34.84,Thinking,,0,0,0,,It's over.
 Dialogue: 0,0:13:37.93,0:13:38.93,Default,,0,0,0,,This is...
 Dialogue: 0,0:13:39.39,0:13:39.89,Default,,0,0,0,,Yes.
 Dialogue: 0,0:13:43.99,0:13:49.04,Thinking,,0,0,0,,I'm losing? No I'm winning.
-Dialogue: 0,0:13:49.64,0:13:51.56,Default,,0,0,0,,Black, 63 moku.
-Dialogue: 0,0:13:52.22,0:13:53.95,Default,,0,0,0,,White, 63 moku.
-Dialogue: 0,0:13:55.10,0:13:55.71,Default,,0,0,0,,A draw!
+Dialogue: 0,0:13:49.64,0:13:51.56,Background,,0,0,0,,Black, 63 moku.
+Dialogue: 0,0:13:52.22,0:13:53.95,Background,,0,0,0,,White, 63 moku.
+Dialogue: 0,0:13:55.10,0:13:55.86,Default,,0,0,0,,A draw!
 Dialogue: 0,0:13:56.27,0:13:58.41,Default,,0,0,0,,Yes! I drew them both!
-Dialogue: 0,0:13:58.66,0:14:01.64,Default,,0,0,0,,Why you! I guess there's a reason you're an Insei.
+Dialogue: 0,0:13:58.66,0:14:01.64,Background,,0,0,0,,Why you! I guess there's a reason you're an Insei.
 Dialogue: 0,0:14:01.70,0:14:03.38,Default,,0,0,0,,Hey stop that!
 Dialogue: 0,0:14:03.62,0:14:06.23,Default,,0,0,0,,Okay let's do three board with me in the fray now!
 Dialogue: 0,0:14:06.64,0:14:07.87,Default,,0,0,0,,No!
 Dialogue: 0,0:14:08.61,0:14:09.31,Default,,0,0,0,,Why?
 Dialogue: 0,0:14:10.01,0:14:11.30,Default,,0,0,0,,I'm the one joining in.
 Dialogue: 0,0:14:11.45,0:14:13.12,Default,,0,0,0,,Huh? Why!?
-Dialogue: 0,0:14:13.33,0:14:15.47,Default,,0,0,0,,Soga-san, that's unfair!
-Dialogue: 0,0:14:15.75,0:14:17.00,Default,,0,0,0,,No it's not.
-Dialogue: 0,0:14:17.00,0:14:18.97,Default,,0,0,0,,You'll come in next.
-Dialogue: 0,0:14:19.11,0:14:22.81,Default,,0,0,0,,Hikaru! It's so fun! It'll be four boards next! Four!
+Dialogue: 0,0:14:13.33,0:14:15.47,Background,,0,0,0,,Soga-san, that's unfair!
+Dialogue: 0,0:14:15.75,0:14:17.00,Background,,0,0,0,,No it's not.
+Dialogue: 0,0:14:17.00,0:14:18.97,Background,,0,0,0,,You'll come in next.
+Dialogue: 0,0:14:19.09,0:14:22.81,Sai,,0,0,0,,Hikaru! It's so fun! It'll be four boards next! Four!
 Dialogue: 0,0:14:22.94,0:14:26.10,Default,,0,0,0,,I haven't done three yet.
-Dialogue: 0,0:14:26.94,0:14:30.66,Default,,0,0,0,,And, it was a little too early to come to atari on these two stones.
-Dialogue: 0,0:14:31.44,0:14:34.43,Default,,0,0,0,,White was able to take territory in the center in the mean while.
+Dialogue: 0,0:14:26.94,0:14:30.66,Background,,0,0,0,,And, it was a little too early to come\Nto atari on these two stones.
+Dialogue: 0,0:14:31.44,0:14:34.43,Default,,0,0,0,,White was able to take territory\Nin the center in the meanwhile.
 Dialogue: 0,0:14:35.11,0:14:37.90,Default,,0,0,0,,Other than that I think you played fine.
-Dialogue: 0,0:14:39.52,0:14:45.05,Thinking,,0,0,0,,Touya failed to beat me, but the rest should be easy wins.
+Dialogue: 0,0:14:39.52,0:14:45.05,Thinking,,0,0,0,,Touya failed to beat me, but the\Nrest should be easy wins.
 Dialogue: 0,0:14:50.02,0:14:51.95,Thinking,,0,0,0,,He still looks serious...
 Dialogue: 0,0:14:52.57,0:14:53.20,Thinking,,0,0,0,,What could...
 Dialogue: 0,0:14:58.22,0:14:59.65,Default,,0,0,0,,Oh a draw!
 Dialogue: 0,0:15:00.98,0:15:03.32,Default,,0,0,0,,What a shame!
 Dialogue: 0,0:15:03.68,0:15:06.65,Default,,0,0,0,,It must have been because I lost those four stones.
-Dialogue: 0,0:15:07.24,0:15:12.22,Default,,0,0,0,,Concerning that, you probably intended to come out, and extend after I responded...
-Dialogue: 0,0:15:12.46,0:15:13.87,Thinking,,0,0,0,,A draw!? again?
-Dialogue: 0,0:15:16.33,0:15:17.78,Thinking,,0,0,0,,Could he have done it... intentionally?
+Dialogue: 0,0:15:07.24,0:15:12.22,Default,,0,0,0,,Concerning that, you probably intended to\Ncome out, and extend after I responded...
+Dialogue: 0,0:15:12.46,0:15:13.87,Thinking,,0,0,0,,A draw!? Again?
+Dialogue: 0,0:15:16.33,0:15:17.81,Thinking,,0,0,0,,Could he have done it... intentionally?
 Dialogue: 0,0:15:20.39,0:15:23.42,Thinking,,0,0,0,,Nothing out of the ordinary happened in my game...
-Dialogue: 0,0:15:24.14,0:15:27.50,Thinking,,0,0,0,,It should have been difficult for Touya to even beat me.
-Dialogue: 0,0:15:28.64,0:15:31.92,Thinking,,0,0,0,,I was told to place three stones when I was the only one playing.
-Dialogue: 0,0:15:32.80,0:15:35.93,Default,,0,0,0,,Playing me at three stones with three other games, should be very difficult.
+Dialogue: 0,0:15:24.11,0:15:27.50,Thinking,,0,0,0,,it should have been difficult for Touya to even beat me.
+Dialogue: 0,0:15:28.62,0:15:31.92,Thinking,,0,0,0,,I was told to place three stones when\NI was the only one playing.
+Dialogue: 0,0:15:32.80,0:15:35.96,Thinking,,0,0,0,,Playing me at three stones with three\Nother games, should be very difficult.
 Dialogue: 0,0:15:37.17,0:15:40.03,Thinking,,0,0,0,,And to end it nicely in a tie?
 Dialogue: 0,0:15:42.30,0:15:44.05,Thinking,,0,0,0,,It's impossible! It's just a coincidence.
 Dialogue: 0,0:15:45.89,0:15:51.36,Default,,0,0,0,,20... 40... 77...
-Dialogue: 0,0:15:52.77,0:15:55.77,Default,,0,0,0,,You have 77 moku too!? A draw...
-Dialogue: 0,0:15:56.86,0:16:01.23,Default,,0,0,0,,Ahh what a shame! I could've won if I had just another moku!
+Dialogue: 0,0:15:53.10,0:15:55.77,Background,,0,0,0,,You have 77 moku too!? A draw...
+Dialogue: 0,0:15:56.86,0:16:01.23,Background,,0,0,0,,Ahh what a shame! I could've won\Nif I had just another moku!
 Dialogue: 0,0:16:02.56,0:16:05.50,Default,,0,0,0,,And I thought I played well even for myself.
 Dialogue: 0,0:16:05.93,0:16:08.14,Default,,0,0,0,,Oh, you had a draw too sir?
 Dialogue: 0,0:16:08.40,0:16:10.08,Default,,0,0,0,,You mean you had a draw too?
-Dialogue: 0,0:16:11.25,0:16:16.00,Default,,0,0,0,,Don't compare yourself to me. I was playing at three stones and you were at six.
+Dialogue: 0,0:16:11.25,0:16:16.00,Default,,0,0,0,,Don't compare yourself to me. I was playing\Nat three stones and you were at six.
 Dialogue: 0,0:16:16.13,0:16:19.18,Default,,0,0,0,,Oh, I just thought it was peculiar.
-Dialogue: 0,0:16:19.35,0:16:24.13,Default,,0,0,0,,This means that I can play at three stones against a pro.
+Dialogue: 0,0:16:19.35,0:16:24.13,Default,,0,0,0,,This means that I can play at\Nthree stones against a pro.
 Dialogue: 0,0:16:26.85,0:16:31.24,Default,,0,0,0,,Oh yes, you were at three stones too. How was it?
-Dialogue: 0,0:16:32.76,0:16:33.70,Default,,0,0,0,,It was a draw...
-Dialogue: 0,0:16:34.63,0:16:35.37,Default,,0,0,0,,Oh what a...
+Dialogue: 0,0:16:32.76,0:16:33.72,Default,,0,0,0,,It was a draw...
+Dialogue: 0,0:16:34.01,0:16:35.37,Default,,0,0,0,,Oh what a...
 Dialogue: 0,0:16:38.50,0:16:40.10,Default,,0,0,0,,What a coincidence...
 Dialogue: 0,0:16:40.57,0:16:41.53,Default,,0,0,0,,Coincidence!?
 Dialogue: 0,0:16:42.61,0:16:44.37,Default,,0,0,0,,Argh, you've caught up.
 Dialogue: 0,0:16:44.99,0:16:50.38,Default,,0,0,0,,I wonder if I have any left... it's pretty close...
-Dialogue: 0,0:16:50.89,0:16:53.29,Default,,0,0,0,,10... 20...
-Dialogue: 0,0:16:53.35,0:16:55.23,Default,,0,0,0,,Aw damn! It's a draw.
+Dialogue: 0,0:16:50.86,0:16:53.16,Default,,0,0,0,,10... 20...
+Dialogue: 0,0:16:53.33,0:16:55.23,Background,,0,0,0,,Aw damn! It's a draw.
 Dialogue: 0,0:16:55.66,0:16:58.06,Default,,0,0,0,,What a shame, it's a draw...
 Dialogue: 0,0:16:58.56,0:17:00.20,Default,,0,0,0,,Huh? What's wrong?
 Dialogue: 0,0:17:05.26,0:17:06.63,Default,,0,0,0,,All four of us...
@@ -330,56 +330,56 @@ Dialogue: 0,0:17:24.15,0:17:26.40,Default,,0,0,0,,Now let us discuss the match f
 Dialogue: 0,0:17:27.89,0:17:28.37,Default,,0,0,0,,Go ahead.
 Dialogue: 0,0:17:31.97,0:17:35.38,Default,,0,0,0,,Oh, I hope you're not angry about it...
 Dialogue: 0,0:17:35.90,0:17:39.66,Default,,0,0,0,,Don't worry. They're all more surprised than angry.
-Dialogue: 0,0:17:40.19,0:17:44.15,Default,,0,0,0,,And it'll be good for the council member to deal with this every year now and then.
+Dialogue: 0,0:17:40.16,0:17:44.15,Default,,0,0,0,,And it'll be good for the council member\Nto deal with this every now and then.
 Dialogue: 0,0:17:46.96,0:17:48.08,Default,,0,0,0,,I'm sorry!
-Dialogue: 0,0:17:49.30,0:17:53.12,Default,,0,0,0,,Make sure to do a better job in the future Mr. Touya.
-Dialogue: 0,0:17:54.10,0:17:56.54,Default,,0,0,0,,It's rude for you to do it with just anybody.
+Dialogue: 0,0:17:49.30,0:17:53.12,Default,,0,0,0,,Make sure to do a better job\Nin the future Mr. Touya.
+Dialogue: 0,0:17:54.10,0:17:56.54,Background,,0,0,0,,It's rude for you to do it with just anybody.
 Dialogue: 0,0:17:57.13,0:17:57.74,Default,,0,0,0,,Yes!
-Dialogue: 0,0:17:59.43,0:18:03.60,Default,,0,0,0,,Now that I can think about it, I can brag that I tied a pro at three stones!
-Dialogue: 0,0:18:03.80,0:18:05.74,Default,,0,0,0,,Yes that's it sir!
-Dialogue: 0,0:18:06.11,0:18:09.61,Default,,0,0,0,,Then sir, would you like to play a game sometime?
-Dialogue: 0,0:18:10.32,0:18:12.52,Default,,0,0,0,,No, I've had enough Go for awhile.
-Dialogue: 0,0:18:13.39,0:18:14.57,Default,,0,0,0,,But anyways...
-Dialogue: 0,0:18:15.56,0:18:16.98,Default,,0,0,0,,Anyways?
-Dialogue: 0,0:18:17.87,0:18:19.71,Default,,0,0,0,,Pros are really amazing.
+Dialogue: 0,0:17:59.43,0:18:03.60,Background,,0,0,0,,Now that I can think about it, I can brag\Nthat I tied a pro at three stones!
+Dialogue: 0,0:18:03.80,0:18:05.74,Background,,0,0,0,,Yes that's it sir!
+Dialogue: 0,0:18:06.11,0:18:09.61,Background,,0,0,0,,Then sir, would you like to play a game sometime?
+Dialogue: 0,0:18:10.32,0:18:12.52,Background,,0,0,0,,No, I've had enough Go for awhile.
+Dialogue: 0,0:18:13.39,0:18:14.61,Background,,0,0,0,,But anyways...
+Dialogue: 0,0:18:15.56,0:18:16.98,Background,,0,0,0,,Anyways?
+Dialogue: 0,0:18:17.87,0:18:19.71,Background,,0,0,0,,Pros are really amazing.
 Dialogue: 0,0:18:23.15,0:18:24.16,Default,,0,0,0,,Akira-kun!
 Dialogue: 0,0:18:24.82,0:18:25.79,Default,,0,0,0,,Ashiwara-san...
-Dialogue: 0,0:18:26.15,0:18:29.52,Default,,0,0,0,,I heard about the four way game you played this morning.
-Dialogue: 0,0:18:30.12,0:18:30.78,Default,,0,0,0,,But I...
+Dialogue: 0,0:18:26.13,0:18:29.52,Default,,0,0,0,,I heard about the four way game\Nyou played this morning.
+Dialogue: 0,0:18:30.13,0:18:30.76,Default,,0,0,0,,But I...
 Dialogue: 0,0:18:30.85,0:18:33.75,Default,,0,0,0,,No buts! What were you thinking!?
 Dialogue: 0,0:18:34.08,0:18:38.14,Default,,0,0,0,,I'm sorry, I was going to let the...
 Dialogue: 0,0:18:38.24,0:18:39.04,Default,,0,0,0,,No!
 Dialogue: 0,0:18:40.68,0:18:43.73,Default,,0,0,0,,Don't waste your effort at a place like this!
-Dialogue: 0,0:18:47.33,0:18:52.86,Default,,0,0,0,,You have the first round of preliminaries for the Honinbou titles between your normal matches for promotions.
-Dialogue: 0,0:18:56.10,0:18:58.73,Default,,0,0,0,,If you keep winning, you'll necessarily be playing more games.
-Dialogue: 0,0:18:59.39,0:19:04.69,Default,,0,0,0,,You shouldn't go all out at places like this and exhaust yourself.
-Dialogue: 0,0:19:05.72,0:19:07.64,Default,,0,0,0,,Are you irritated about something?
+Dialogue: 0,0:18:47.33,0:18:52.86,Default,,0,0,0,,You have the first round of preliminaries\Nfor the Honinbou titles between your\Nnormal matches for promotions.
+Dialogue: 0,0:18:56.07,0:18:58.78,Default,,0,0,0,,If you keep winning, you'll necessarily\Nbe playing more games.
+Dialogue: 0,0:18:59.39,0:19:04.69,Default,,0,0,0,,You shouldn't go all out at places\Nlike this and exhaust yourself.
+Dialogue: 0,0:19:05.72,0:19:07.64,Background,,0,0,0,,Are you irritated about something?
 Dialogue: 0,0:19:08.29,0:19:10.23,Default,,0,0,0,,No, I'm not.
 Dialogue: 0,0:19:11.78,0:19:12.64,Default,,0,0,0,,Okay then.
-Dialogue: 0,0:19:13.36,0:19:19.38,Default,,0,0,0,,But you... well, you seem as if you're not confident, or you're too emotional.
+Dialogue: 0,0:19:13.36,0:19:19.38,Default,,0,0,0,,But you... well, you seem as if you're not\Nconfident, or you're too emotional.
 Dialogue: 0,0:19:20.49,0:19:21.34,Default,,0,0,0,,Really?
-Dialogue: 0,0:19:22.16,0:19:25.51,Default,,0,0,0,,Don't worry! Don't worry! No one's coming up to get you.
+Dialogue: 0,0:19:22.16,0:19:25.51,Default,,0,0,0,,Don't worry! Don't worry! No\None's coming up to get you.
 Dialogue: 0,0:19:31.41,0:19:31.94,Default,,0,0,0,,But...
-Dialogue: 0,0:19:32.48,0:19:34.19,Default,,0,0,0,,He passed the preliminaries for the pro exam.
-Dialogue: 0,0:19:46.54,0:19:47.38,Default,,0,0,0,,It's nothing.
+Dialogue: 0,0:19:32.48,0:19:34.36,Default,,0,0,0,,He passed the preliminaries for the pro exam.
+Dialogue: 0,0:19:46.54,0:19:47.46,Default,,0,0,0,,It's nothing.
 Dialogue: 0,0:19:53.72,0:19:56.08,Default,,0,0,0,,You missed by one moku against me.
 Dialogue: 0,0:19:56.73,0:19:57.79,Default,,0,0,0,,One moku...
-Dialogue: 0,0:19:58.12,0:20:01.61,Default,,0,0,0,,Even if it's just one moku, it's not a draw.
-Dialogue: 0,0:20:01.88,0:20:04.08,Default,,0,0,0,,It's all because you're so loud Kawai-san!
+Dialogue: 0,0:19:58.09,0:20:01.64,Default,,0,0,0,,Even if it's just one moku, it's not a draw.
+Dialogue: 0,0:20:01.85,0:20:04.08,Default,,0,0,0,,It's all because you're so loud Kawai-san!
 Dialogue: 0,0:20:04.08,0:20:06.62,Default,,0,0,0,,What!? You're blaming it on me!?
 Dialogue: 0,0:20:06.62,0:20:07.76,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:20:07.76,0:20:08.63,Default,,0,0,0,,Why you!
+Dialogue: 0,0:20:07.76,0:20:08.69,Default,,0,0,0,,Why you!
 Dialogue: 0,0:20:09.86,0:20:11.40,Default,,0,0,0,,Stop it! Stop it already!
-Dialogue: 0,0:20:12.69,0:20:16.25,Default,,0,0,0,,Even if he missed it by one moku, he forced draws on the other three right?
-Dialogue: 0,0:20:16.69,0:20:18.33,Default,,0,0,0,,Isn't that enough?
+Dialogue: 0,0:20:12.65,0:20:16.25,Background,,0,0,0,,Even if he missed it by one moku, he forced\Ndraws on the other three right?
+Dialogue: 0,0:20:16.69,0:20:18.33,Background,,0,0,0,,Isn't that enough?
 Dialogue: 0,0:20:19.17,0:20:20.73,Default,,0,0,0,,Yeah... more than enough.
 Dialogue: 0,0:20:21.96,0:20:27.57,Default,,0,0,0,,I've finally seen someone grow before my eyes...
 Dialogue: 0,0:20:28.78,0:20:30.54,Default,,0,0,0,,Don't be upset about it.
 Dialogue: 0,0:20:30.64,0:20:31.67,Default,,0,0,0,,Another round!
 Dialogue: 0,0:20:32.70,0:20:34.68,Default,,0,0,0,,Make it succeed this time.
 Dialogue: 0,0:20:35.00,0:20:37.89,Default,,0,0,0,,Oh well, we'll play you until you do it.
-Dialogue: 0,0:20:38.79,0:20:39.29,Default,,0,0,0,,Okay!
-Dialogue: 0,0:20:40.21,0:20:41.09,Default,,0,0,0,,Thanks!
+Dialogue: 0,0:20:38.76,0:20:39.43,Default,,0,0,0,,Okay!
+Dialogue: 0,0:20:40.18,0:20:41.14,Default,,0,0,0,,Thanks!
 Dialogue: 0,0:22:16.02,0:22:19.87,Default,,0,0,0,,On May 24th, the second game of the 57th Honinbou match...
 Dialogue: 0,0:22:20.06,0:22:22.60,Default,,0,0,0,,was held here in Kure City, Hiroshima Prefecture.
 Dialogue: 0,0:22:24.22,0:22:28.36,Default,,0,0,0,,Masao Kato 9-dan is challenging O Meien Honinbou.
