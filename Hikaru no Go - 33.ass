@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 33 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 277
-Active Line: 300
-Video Position: 29788
+Scroll Position: 102
+Active Line: 113
+Video Position: 12025
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -203,7 +203,7 @@ Dialogue: 0,0:08:17.84,0:08:20.61,Default,,0,0,0,,He sure is persistent, that Ku
 Dialogue: 0,0:08:20.76,0:08:21.64,Default,,0,0,0,,But,
 Dialogue: 0,0:08:21.80,0:08:24.68,Background,,0,0,0,,Ogata will take a title in the near future.
 Dialogue: 0,0:08:21.52,0:08:23.52,Note,,0,0,0,,{\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz24\pos(420,131)}Welcome to
-Dialogue: 0,0:08:21.52,0:08:23.52,Note,,0,0,0,,{\fsp9\fs30.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz29\pos(377,309)}Heart of Stone
+Dialogue: 0,0:08:21.52,0:08:23.52,Note,,0,0,0,,{\fsp10\fs30.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz29\pos(377,309)}Heart of Stone
 Dialogue: 0,0:08:25.54,0:08:27.55,Default,,0,0,0,,He's got so much momentum.
 Dialogue: 0,0:08:33.15,0:08:35.18,Default,,0,0,0,,What is it? What's going on?
 Dialogue: 0,0:08:35.49,0:08:36.42,Default,,0,0,0,,Kawai-san!
