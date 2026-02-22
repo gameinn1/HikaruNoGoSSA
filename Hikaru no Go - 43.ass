@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 43 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 183
-Active Line: 206
-Video Position: 29514
+Scroll Position: 153
+Active Line: 168
+Video Position: 24391
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -258,7 +258,7 @@ Dialogue: 0,0:15:39.42,0:15:43.94,Thinking,,0,0,0,,If I turn this area, under wh
 Dialogue: 0,0:15:47.09,0:15:48.76,Thinking,,0,0,0,,You have to try to take some of it.
 Dialogue: 0,0:15:58.74,0:15:59.74,Thinking,,0,0,0,,Come on let's play!
 Dialogue: 0,0:16:53.83,0:16:54.53,Thinking,,0,0,0,,Okay!
-Dialogue: 0,0:16:57.28,0:16:59.53,Thinking,,0,0,0,,If this black lives, you win.
+Dialogue: 0,0:16:57.28,0:16:59.53,Thinking,,0,0,0,,{\1c&HC5FEC1&}If this black lives, you win.
 Dialogue: 0,0:17:00.71,0:17:02.75,Thinking,,0,0,0,,If I kill this black, I win.
 Dialogue: 0,0:17:04.05,0:17:05.54,Thinking,,0,0,0,,I would pass the pro exam.
 Dialogue: 0,0:17:30.54,0:17:31.36,Thinking,,0,0,0,,Can I kill it?
