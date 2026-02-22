@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 37 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 99
-Active Line: 110
-Video Position: 14937
+Scroll Position: 144
+Active Line: 159
+Video Position: 22286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -249,7 +249,7 @@ Dialogue: 0,0:15:11.99,0:15:13.00,Default,,0,0,0,,I resign.
 Dialogue: 0,0:15:15.28,0:15:21.83,Thinking,,0,0,0,,So far, the only undefeated people are Isumi-san,\Nand me, and Waya, and...  Shindou too?
 Dialogue: 0,0:15:24.20,0:15:25.84,Thinking,,0,0,0,,Oh well, it doesn't matter.
 Dialogue: 0,0:15:26.92,0:15:28.97,Thinking,,0,0,0,,My goal is to pass with no losses.
-Dialogue: 0,0:15:29.49,0:15:33.45,NoteArialEF,,0,0,0,,{\fs23\1c&HFFFFFF&\shad1\fad(0,834)\pos(322,362)}Sixth Match of the Pro Exam Finals
+Dialogue: 0,0:15:29.49,0:15:33.45,NoteArialEF,,0,0,0,,{\fs23\1c&HFFFFFF&\shad1\fad(0,834)\pos(320,362)}Sixth Match of the Pro Exam Finals
 Dialogue: 0,0:15:37.29,0:15:38.20,Default,,0,0,0,,I resign.
 Dialogue: 0,0:15:41.21,0:15:42.24,Default,,0,0,0,,I resign.
 Dialogue: 0,0:15:45.36,0:15:46.11,Default,,0,0,0,,I resign.
