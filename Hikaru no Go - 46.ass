@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 46 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 54
-Active Line: 77
-Video Position: 11059
+Scroll Position: 232
+Active Line: 254
+Video Position: 29652
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,181 +170,181 @@ Dialogue: 0,0:07:36.94,0:07:40.65,Background,,0,0,0,,I'd like to hear some motiv
 Dialogue: 0,0:07:41.23,0:07:44.26,Background,,0,0,0,,Do you have time for dinner after\Nyour tutoring games tonight?
 Dialogue: 0,0:07:48.92,0:07:51.43,Default,,0,0,0,,I have somewhere to go to after this so...
 Dialogue: 0,0:07:54.30,0:07:56.36,Thinking,,0,0,0,,I'll be done here at 7:40.
-Dialogue: 0,0:07:56.94,0:07:59.46,Thinking,,0,0,0,,I won't get to Ochi's house until late...
+Dialogue: 0,0:07:56.91,0:07:59.46,Thinking,,0,0,0,,I won't get to Ochi's house until late...
 Dialogue: 0,0:08:01.97,0:08:04.51,Default,,0,0,0,,Well, umm, another time maybe.
-Dialogue: 0,0:08:05.08,0:08:07.03,Default,,0,0,0,,Sorry for bothering you during your break.
-Dialogue: 0,0:08:07.43,0:08:08.57,Default,,0,0,0,,Oh, It's okay.
+Dialogue: 0,0:08:05.05,0:08:07.03,Default,,0,0,0,,Sorry for bothering you during your break.
+Dialogue: 0,0:08:07.43,0:08:08.57,Default,,0,0,0,,Oh, it's okay.
 Dialogue: 0,0:08:09.10,0:08:11.33,Default,,0,0,0,,Oh wow, it's this late already?
 Dialogue: 0,0:08:11.57,0:08:13.43,Default,,0,0,0,,I guess I'll call the Research Center.
-Dialogue: 0,0:08:13.86,0:08:16.08,Default,,0,0,0,,The results from the Pro Exam might be in.
+Dialogue: 0,0:08:13.86,0:08:16.08,Background,,0,0,0,,The results from the Pro Exam might be in.
 Dialogue: 0,0:08:17.92,0:08:19.50,Default,,0,0,0,,W-Wait! Please!
 Dialogue: 0,0:08:19.59,0:08:22.33,Default,,0,0,0,,U-Umm, may I hear the results too!?
 Dialogue: 0,0:08:29.62,0:08:31.82,Default,,0,0,0,,Two matches left...
-Dialogue: 0,0:08:32.39,0:08:35.51,Default,,0,0,0,,And what important matches they are.
-Dialogue: 0,0:08:35.92,0:08:37.52,Default,,0,0,0,,Two boys at three losses each...
-Dialogue: 0,0:08:37.83,0:08:42.32,Default,,0,0,0,,I wonder how that boy who's still at four losses feels,
-Dialogue: 0,0:08:42.64,0:08:45.10,Default,,0,0,0,,waiting for their results.
-Dialogue: 0,0:08:46.95,0:08:52.34,Default,,0,0,0,,His chances of passing or not, depends on the results of these matches.
-Dialogue: 0,0:09:05.19,0:09:06.04,Default,,0,0,0,,Rain?
+Dialogue: 0,0:08:32.37,0:08:35.51,Default,,0,0,0,,And what important matches they are.
+Dialogue: 0,0:08:35.92,0:08:37.41,Background,,0,0,0,,Two boys at three losses each...
+Dialogue: 0,0:08:37.83,0:08:42.32,Background,,0,0,0,,I wonder how that boy who's\Nstill at four losses feels,
+Dialogue: 0,0:08:42.64,0:08:45.10,Background,,0,0,0,,waiting for their results.
+Dialogue: 0,0:08:46.92,0:08:52.34,Background,,0,0,0,,His chances of passing or not, depends\Non the results of these matches.
+Dialogue: 0,0:09:05.19,0:09:05.90,Default,,0,0,0,,Rain.
 Dialogue: 0,0:09:39.40,0:09:40.55,Thinking,,0,0,0,,Waya won.
-Dialogue: 0,0:09:42.80,0:09:44.54,Thinking,,0,0,0,,Waya is the second one to pass.
-Dialogue: 0,0:09:46.55,0:09:47.90,Thinking,,0,0,0,,Those that win will rise.
+Dialogue: 0,0:09:42.77,0:09:44.54,Thinking,,0,0,0,,Waya is the second one to pass.
+Dialogue: 0,0:09:46.52,0:09:47.90,Thinking,,0,0,0,,Those that win will rise.
 Dialogue: 0,0:09:49.03,0:09:51.86,Thinking,,0,0,0,,That is something everyone in the Go world knows.
-Dialogue: 0,0:09:54.56,0:10:00.11,Thinking,,0,0,0,,We all laughed and worked together knowing that.
-Dialogue: 0,0:10:02.62,0:10:04.07,Thinking,,0,0,0,,Only three can become pros.
-Dialogue: 0,0:10:04.90,0:10:07.30,Thinking,,0,0,0,,Only Shindou's game against Ochi is left.
-Dialogue: 0,0:10:08.76,0:10:12.20,Thinking,,0,0,0,,If Shindou loses, he'll have a playoff match against me, at four losses.
+Dialogue: 0,0:09:54.53,0:10:00.11,Thinking,,0,0,0,,{\1c&HC5FEC1&}We all laughed together and worked\Ntogether knowing that.
+Dialogue: 0,0:10:02.62,0:10:04.07,Thinking,,0,0,0,,{\1c&HC5FEC1&}Only three can become pros.
+Dialogue: 0,0:10:04.88,0:10:07.30,Thinking,,0,0,0,,{\1c&HC5FEC1&}Only Shindou's game against Ochi is left.
+Dialogue: 0,0:10:08.76,0:10:12.20,Thinking,,0,0,0,,If Shindou loses, he'll have a playoff\Nmatch against me, at four losses.
 Dialogue: 0,0:10:20.65,0:10:21.40,Default,,0,0,0,,It's over.
-Dialogue: 0,0:10:26.38,0:10:27.23,Thinking,,0,0,0,,Who won!?
+Dialogue: 0,0:10:26.36,0:10:27.23,Thinking,,0,0,0,,Who won!?
 Dialogue: 0,0:10:40.00,0:10:40.90,Thinking,,0,0,0,,No one...
 Dialogue: 0,0:10:42.38,0:10:43.28,Thinking,,0,0,0,,is coming...
-Dialogue: 0,0:10:44.90,0:10:45.80,Thinking,,0,0,0,,If...
-Dialogue: 0,0:10:46.76,0:10:49.97,Thinking,,0,0,0,,If Shindou has lost... he'll have a playoff match against me.
+Dialogue: 0,0:10:44.87,0:10:45.71,Thinking,,0,0,0,,if...
+Dialogue: 0,0:10:46.76,0:10:49.97,Thinking,,0,0,0,,If Shindou has lost... he'll have\Na playoff match against me.
 Dialogue: 0,0:10:52.15,0:10:54.01,Thinking,,0,0,0,,Wouldn't someone come tell me...
 Dialogue: 0,0:10:55.02,0:10:56.52,Thinking,,0,0,0,,That there's going to be a playoff?
 Dialogue: 0,0:11:10.03,0:11:12.63,Thinking,,0,0,0,,Shindou... must have won.
-Dialogue: 0,0:11:37.30,0:11:40.84,Default,,0,0,0,,Kousuke! How long are you going to be like this.
-Dialogue: 0,0:11:41.73,0:11:46.07,Default,,0,0,0,,I can understand that you're upset about losing to that Shindou boy today.
-Dialogue: 0,0:11:46.76,0:11:49.94,Default,,0,0,0,,But, it doesn't change the fact that you passed with the top score.
-Dialogue: 0,0:11:50.80,0:11:54.78,Default,,0,0,0,,You can get even with Shindou-kun when you play him as a pro.
-Dialogue: 0,0:11:58.28,0:12:01.61,Default,,0,0,0,,More importantly, about the celebration for your passing...
-Dialogue: 0,0:12:06.07,0:12:07.28,Default,,0,0,0,,You don't have to get that.
+Dialogue: 0,0:11:37.30,0:11:40.84,Background,,0,0,0,,Kousuke! How long are you going to be like this.
+Dialogue: 0,0:11:41.73,0:11:46.07,Default,,0,0,0,,I can understand that you're upset about\Nlosing to that Shindou boy today.
+Dialogue: 0,0:11:46.73,0:11:49.94,Default,,0,0,0,,But, it doesn't change the fact that\Nyou passed with the top score.
+Dialogue: 0,0:11:50.80,0:11:54.78,Default,,0,0,0,,You can get even with Shindou-kun\Nwhen you play him as a pro.
+Dialogue: 0,0:11:58.28,0:12:01.61,Default,,0,0,0,,More importantly, about the celebration\Nfor your passing...
+Dialogue: 0,0:12:06.04,0:12:07.28,Default,,0,0,0,,You don't have to get that.
 Dialogue: 0,0:12:08.45,0:12:09.62,Default,,0,0,0,,It's probably Touya.
 Dialogue: 0,0:12:12.39,0:12:15.47,Default,,0,0,0,,No, it's okay. I'll get it.
-Dialogue: 0,0:12:24.26,0:12:25.01,Default,,0,0,0,,Yes?
+Dialogue: 0,0:12:24.26,0:12:24.93,Background,,0,0,0,,Yes?
 Dialogue: 0,0:12:25.82,0:12:26.62,Default,,0,0,0,,It's Touya.
-Dialogue: 0,0:12:27.33,0:12:31.80,Default,,0,0,0,,Oh, hello. I believe yesterday was the last day you were supposed to be tutoring.
-Dialogue: 0,0:12:32.65,0:12:36.02,Default,,0,0,0,,Did you come to find out how Kousuke did today?
-Dialogue: 0,0:12:37.18,0:12:39.81,Default,,0,0,0,,No. I heard the results at the institute.
-Dialogue: 0,0:12:40.53,0:12:42.79,Default,,0,0,0,,Then why are you here?
+Dialogue: 0,0:12:27.33,0:12:31.80,Background,,0,0,0,,Oh, hello. I believe yesterday was the last\Nday you were supposed to be tutoring.
+Dialogue: 0,0:12:32.65,0:12:36.02,Background,,0,0,0,,Did you come to find out how Kousuke did today?
+Dialogue: 0,0:12:37.15,0:12:39.81,Default,,0,0,0,,No. I heard the results at the Institute.
+Dialogue: 0,0:12:40.49,0:12:42.79,Background,,0,0,0,,Then why are you here?
 Dialogue: 0,0:12:43.71,0:12:46.09,Default,,0,0,0,,I'm sorry for not coming earlier.
-Dialogue: 0,0:12:46.85,0:12:50.05,Default,,0,0,0,,But, I came to ask you to show me that match.
-Dialogue: 0,0:12:59.76,0:13:03.01,Default,,0,0,0,,He says he doesn't want to show you a game he lost.
+Dialogue: 0,0:12:46.83,0:12:50.05,Default,,0,0,0,,But, I came to ask you to show me that match.
+Dialogue: 0,0:12:59.76,0:13:02.93,Background,,0,0,0,,He says he doesn't want to\Nshow you a game he lost.
 Dialogue: 0,0:13:08.00,0:13:08.80,Default,,0,0,0,,Oh.
-Dialogue: 0,0:13:09.77,0:13:12.25,Default,,0,0,0,,I see. I will be going then.
+Dialogue: 0,0:13:09.77,0:13:12.25,Background,,0,0,0,,I see. I will be going then.
 Dialogue: 0,0:13:22.44,0:13:25.72,Default,,0,0,0,,Really. You can be so difficult sometimes.
-Dialogue: 0,0:13:33.25,0:13:35.00,Default,,0,0,0,,One and a half moku...
-Dialogue: 0,0:13:35.98,0:13:38.09,Default,,0,0,0,,This one and a half moku is big.
-Dialogue: 0,0:13:38.62,0:13:41.62,Default,,0,0,0,,It shows Shindou-kun's determination.
-Dialogue: 0,0:13:42.93,0:13:46.98,Default,,0,0,0,,I can see why Ochi-kun made beating Shindou-kun his goal.
-Dialogue: 0,0:13:50.11,0:13:51.88,Default,,0,0,0,,Ochi-kun played well too, but...
+Dialogue: 0,0:13:33.25,0:13:35.00,Memory,,0,0,0,,One and a half moku...
+Dialogue: 0,0:13:35.98,0:13:38.09,Memory,,0,0,0,,This one and a half moku is big.
+Dialogue: 0,0:13:38.62,0:13:41.62,Memory,,0,0,0,,It shows Shindou-kun's determination.
+Dialogue: 0,0:13:42.93,0:13:46.98,Memory,,0,0,0,,I can see why Ochi-kun made\Nbeating Shindou-kun his goal.
+Dialogue: 0,0:13:50.11,0:13:51.88,Memory,,0,0,0,,Ochi-kun played well too, but...
 Dialogue: 0,0:13:59.00,0:14:00.26,Thinking,,0,0,0,,Shindou is coming.
-Dialogue: 0,0:14:01.31,0:14:03.23,Thinking,,0,0,0,,He will appear before me soon.
+Dialogue: 0,0:14:01.28,0:14:03.23,Thinking,,0,0,0,,He will appear before me soon.
 Dialogue: 0,0:14:04.73,0:14:06.75,Thinking,,0,0,0,,With the answer to,
 Dialogue: 0,0:14:07.51,0:14:09.04,Thinking,,0,0,0,,the mystery behind you.
-Dialogue: 0,0:14:11.52,0:14:13.48,Thinking,,0,0,0,,I will just have to see for myself.
-Dialogue: 0,0:14:14.75,0:14:16.22,Thinking,,0,0,0,,Come, Shindou!
+Dialogue: 0,0:14:11.50,0:14:13.48,Thinking,,0,0,0,,I will just have to see for myself.
+Dialogue: 0,0:14:14.71,0:14:16.22,Thinking,,0,0,0,,Come, Shindou!
 Dialogue: 0,0:14:16.78,0:14:18.05,Thinking,,0,0,0,,I am right here...
-Dialogue: 0,0:14:19.50,0:14:20.80,Thinking,,0,0,0,,In the world of the pros!
-Dialogue: 0,0:14:30.02,0:14:37.56,Note,,0,0,0,,Student Guidance Office
-Dialogue: 0,0:14:31.19,0:14:32.59,Default,,0,0,0,,Congratulations!
-Dialogue: 0,0:14:33.20,0:14:35.61,Default,,0,0,0,,I heard about it from Shindou-kun this morning.
-Dialogue: 0,0:14:35.97,0:14:36.87,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:14:19.46,0:14:20.80,Thinking,,0,0,0,,in the world of the pros!
+Dialogue: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,{\fs23\bord0.5\1c&H000000&\3c&HFFFFFF&\frz21\frx10\fry346\pos(317,129)}Student Guidance Office
+Dialogue: 0,0:14:31.19,0:14:32.59,Background,,0,0,0,,Congratulations!
+Dialogue: 0,0:14:33.20,0:14:35.61,Background,,0,0,0,,I heard about it from Shindou-kun this morning.
+Dialogue: 0,0:14:35.97,0:14:36.87,Background,,0,0,0,,Thank you.
 Dialogue: 0,0:14:38.04,0:14:41.26,Default,,0,0,0,,I hear he found out that he passed on Saturday.
-Dialogue: 0,0:14:41.89,0:14:44.76,Default,,0,0,0,,But to be honest, I'm really surprised.
-Dialogue: 0,0:14:45.62,0:14:48.04,Default,,0,0,0,,I can't believe that Shindou-kun is going to become a pro Go player.
-Dialogue: 0,0:14:50.18,0:14:53.74,Default,,0,0,0,,Though I probably shouldn't say that, since I'm his homeroom teacher.
+Dialogue: 0,0:14:41.86,0:14:44.76,Default,,0,0,0,,But to be honest, I'm really surprised.
+Dialogue: 0,0:14:45.62,0:14:48.04,Default,,0,0,0,,I can't believe that Shindou-kun is\Ngoing to become a pro Go player.
+Dialogue: 0,0:14:50.18,0:14:53.74,Default,,0,0,0,,Though I probably shouldn't say that,\Nsince I'm his homeroom teacher.
 Dialogue: 0,0:14:54.22,0:14:56.28,Default,,0,0,0,,My husband and I feel the same way.
 Dialogue: 0,0:14:56.72,0:14:58.49,Default,,0,0,0,,We have no idea what's going on.
 Dialogue: 0,0:14:59.68,0:15:03.55,Default,,0,0,0,,It's just... we've suddenly become really worried.
 Dialogue: 0,0:15:04.80,0:15:07.69,Default,,0,0,0,,He's going to miss a lot more days of school right?
-Dialogue: 0,0:15:08.25,0:15:09.74,Default,,0,0,0,,I'm not sure.
-Dialogue: 0,0:15:11.07,0:15:12.49,Default,,0,0,0,,He's going to make some money too, right?
-Dialogue: 0,0:15:13.68,0:15:15.33,Default,,0,0,0,,Pardon me for asking, but how much?
+Dialogue: 0,0:15:08.22,0:15:09.74,Background,,0,0,0,,I'm not sure.
+Dialogue: 0,0:15:11.07,0:15:12.52,Default,,0,0,0,,He's going to make some money too, right?
+Dialogue: 0,0:15:13.68,0:15:15.35,Default,,0,0,0,,Pardon me for asking, but how much?
 Dialogue: 0,0:15:15.85,0:15:18.15,Default,,0,0,0,,I still have no idea about that.
-Dialogue: 0,0:15:19.52,0:15:25.48,Default,,0,0,0,,We're just worried that his schooling and social life may be effected.
+Dialogue: 0,0:15:19.52,0:15:25.48,Default,,0,0,0,,We're just worried that his schooling\Nand social life may be affected.
 Dialogue: 0,0:15:25.87,0:15:27.31,Default,,0,0,0,,We're really worried about him.
 Dialogue: 0,0:15:28.06,0:15:28.71,Default,,0,0,0,,I see.
-Dialogue: 0,0:15:29.39,0:15:31.30,Default,,0,0,0,,And there is the matter about high school.
-Dialogue: 0,0:15:32.40,0:15:35.66,Default,,0,0,0,,There's a boy named Waya-kun who passed with him.
-Dialogue: 0,0:15:36.32,0:15:38.71,Default,,0,0,0,,He's a year older than Hikaru and in the 9th grade.
+Dialogue: 0,0:15:29.37,0:15:31.30,Default,,0,0,0,,And there is the matter about high school.
+Dialogue: 0,0:15:32.40,0:15:35.66,Default,,0,0,0,,There's a boy named Waya-kun\Nwho passed with him.
+Dialogue: 0,0:15:36.29,0:15:38.71,Default,,0,0,0,,He's a year older than Hikaru and in the 9th grade.
 Dialogue: 0,0:15:38.71,0:15:41.40,Default,,0,0,0,,And he says he's not going to high school.
 Dialogue: 0,0:15:42.76,0:15:45.26,Default,,0,0,0,,Is Shindou-kun not going to go to high school?
 Dialogue: 0,0:15:46.23,0:15:48.13,Default,,0,0,0,,He hasn't said anything about it yet.
 Dialogue: 0,0:15:49.23,0:15:51.52,Default,,0,0,0,,He says it's still a whole year away.
-Dialogue: 0,0:15:52.30,0:15:54.23,Default,,0,0,0,,He's allowed to go, right?
+Dialogue: 0,0:15:52.26,0:15:54.23,Default,,0,0,0,,He's allowed to go, right?
 Dialogue: 0,0:15:55.95,0:15:56.85,Default,,0,0,0,,Well...
 Dialogue: 0,0:15:57.34,0:16:00.50,Default,,0,0,0,,I suppose he has made it out into the world.
 Dialogue: 0,0:16:01.28,0:16:03.26,Default,,0,0,0,,Though it might not be the normal world.
-Dialogue: 0,0:16:03.88,0:16:05.85,Default,,0,0,0,,You're absolutely right.
-Dialogue: 0,0:16:07.63,0:16:11.46,Default,,0,0,0,,Anyways, I'd like to meet Waya-kun's parents.
-Dialogue: 0,0:16:11.60,0:16:14.47,Default,,0,0,0,,and talk to them about all of this.
-Dialogue: 0,0:16:14.90,0:16:15.65,Default,,0,0,0,,I see.
+Dialogue: 0,0:16:03.88,0:16:05.90,Default,,0,0,0,,You're absolutely right.
+Dialogue: 0,0:16:07.63,0:16:11.46,Background,,0,0,0,,Anyways, I'd like to meet Waya-kun's parents,
+Dialogue: 0,0:16:11.58,0:16:14.47,Background,,0,0,0,,and talk to them about all of this.
+Dialogue: 0,0:16:14.87,0:16:15.65,Default,,0,0,0,,I see.
 Dialogue: 0,0:16:16.23,0:16:19.75,Default,,0,0,0,,When I asked Hikaru, he yelled at me, saying,
 Dialogue: 0,0:16:19.75,0:16:22.88,Default,,0,0,0,,'Mind your own business'. But he is my business.
-Dialogue: 0,0:16:23.31,0:16:24.42,Default,,0,0,0,,Yes, yes.
-Dialogue: 0,0:16:25.04,0:16:28.07,Default,,0,0,0,,He doesn't know that I came to meet you either.
-Dialogue: 0,0:16:34.22,0:16:35.42,Default,,0,0,0,,Well, but...
-Dialogue: 0,0:16:36.10,0:16:40.27,Default,,0,0,0,,He won't become a pro until later... not until Spring, right?
-Dialogue: 0,0:16:41.41,0:16:44.09,Default,,0,0,0,,Please feel free to come talk to me again when you find out more.
+Dialogue: 0,0:16:23.31,0:16:24.42,Background,,0,0,0,,Yes, yes.
+Dialogue: 0,0:16:25.01,0:16:28.07,Background,,0,0,0,,He doesn't know that I came to meet you either.
+Dialogue: 0,0:16:34.18,0:16:35.42,Default,,0,0,0,,Well, but...
+Dialogue: 0,0:16:36.10,0:16:40.27,Default,,0,0,0,,He won't become a pro until later...\Nnot until spring, right?
+Dialogue: 0,0:16:41.41,0:16:44.09,Default,,0,0,0,,Please feel free to come talk to me\Nagain when you find out more.
 Dialogue: 0,0:16:44.48,0:16:46.14,Default,,0,0,0,,Yes I will. Thank you.
-Dialogue: 0,0:16:58.07,0:16:58.87,Default,,0,0,0,,I hear...
+Dialogue: 0,0:16:58.04,0:16:58.87,Default,,0,0,0,,I hear...
 Dialogue: 0,0:16:59.82,0:17:01.01,Default,,0,0,0,,that you're a pro now.
-Dialogue: 0,0:17:01.98,0:17:02.73,Default,,0,0,0,,Yeah...
-Dialogue: 0,0:17:09.63,0:17:11.65,Default,,0,0,0,,Well, good luck with that.
+Dialogue: 0,0:17:01.96,0:17:02.73,Default,,0,0,0,,Yeah...
+Dialogue: 0,0:17:09.59,0:17:11.65,Default,,0,0,0,,Well, good luck with that.
 Dialogue: 0,0:17:27.95,0:17:30.36,Default,,0,0,0,,I wonder if the Go club is meeting today.
-Dialogue: 0,0:17:30.79,0:17:32.21,Default,,0,0,0,,I'm sure they are.
-Dialogue: 0,0:17:35.01,0:17:36.22,Default,,0,0,0,,It's Akari-chan!
+Dialogue: 0,0:17:30.79,0:17:32.21,Sai,,0,0,0,,I'm sure they are.
+Dialogue: 0,0:17:35.01,0:17:36.22,Sai,,0,0,0,,It's Akari-chan!
 Dialogue: 0,0:17:37.42,0:17:38.94,Thinking,,0,0,0,,It's still going on...
-Dialogue: 0,0:17:39.87,0:17:41.79,Thinking,,0,0,0,,The Go club that Tsutsui-san made.
+Dialogue: 0,0:17:39.83,0:17:41.79,Thinking,,0,0,0,,The Go club that Tsutsui-san made.
 Dialogue: 0,0:17:42.77,0:17:44.39,Default,,0,0,0,,Well, let's start.
 Dialogue: 0,0:17:44.39,0:17:47.21,Default,,0,0,0,,I hear Shindou-kun passed the pro exam?
 Dialogue: 0,0:17:47.47,0:17:50.43,Default,,0,0,0,,Yup! Hikaru said that he passed when I asked him.
-Dialogue: 0,0:17:52.53,0:17:56.85,Default,,0,0,0,,Shindou is the old Go club member who became an Insei, right?
-Dialogue: 0,0:17:57.00,0:17:58.25,Default,,0,0,0,,Wow!
+Dialogue: 0,0:17:52.53,0:17:56.85,Default,,0,0,0,,Shindou is the old Go club member\Nwho became an Insei, right?
+Dialogue: 0,0:17:56.97,0:17:58.25,Default,,0,0,0,,Wow!
 Dialogue: 0,0:17:59.81,0:18:02.07,Default,,0,0,0,,Hikaru should have dropped by.
-Dialogue: 0,0:18:02.54,0:18:04.34,Default,,0,0,0,,All of us would have celebrated it with him.
-Dialogue: 0,0:18:05.00,0:18:05.75,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:18:06.81,0:18:07.81,Thinking,,0,0,0,,It's okay...
-Dialogue: 0,0:18:09.04,0:18:12.67,Default,,0,0,0,,But, I don't really understand exactly how incredible that is.
+Dialogue: 0,0:18:02.54,0:18:04.44,Default,,0,0,0,,All of us would have celebrated it with him.
+Dialogue: 0,0:18:05.00,0:18:05.75,Sai,,0,0,0,,Hikaru...
+Dialogue: 0,0:18:06.77,0:18:07.81,Thinking,,0,0,0,,It's okay...
+Dialogue: 0,0:18:09.04,0:18:12.67,Default,,0,0,0,,But, I don't really understand\Nexactly how incredible that is.
 Dialogue: 0,0:18:12.67,0:18:13.74,Default,,0,0,0,,Me neither!
 Dialogue: 0,0:18:14.70,0:18:17.23,Default,,0,0,0,,Maybe I'll get him a gift,
-Dialogue: 0,0:18:17.86,0:18:19.02,Default,,0,0,0,,to celebrate his passing.
+Dialogue: 0,0:18:17.83,0:18:19.02,Default,,0,0,0,,to celebrate his passing.
 Dialogue: 0,0:18:20.09,0:18:21.27,Default,,0,0,0,,Hello!
-Dialogue: 0,0:18:21.82,0:18:22.77,Default,,0,0,0,,I'm here again!
+Dialogue: 0,0:18:21.75,0:18:22.54,Default,,0,0,0,,I'm here again!
 Dialogue: 0,0:18:22.77,0:18:25.98,Default,,0,0,0,,Kaneko-san! You came again!? That's great!
 Dialogue: 0,0:18:26.14,0:18:27.40,Default,,0,0,0,,What about the volleyball team?
 Dialogue: 0,0:18:27.63,0:18:30.31,Default,,0,0,0,,It's fine. I'll be coming to the Go club for awhile.
-Dialogue: 0,0:18:31.27,0:18:35.47,Default,,0,0,0,,We lost in the first round that last time we went to a team tournament.
-Dialogue: 0,0:18:36.09,0:18:40.20,Default,,0,0,0,,I want to make it to the second round for the winter tournament.
+Dialogue: 0,0:18:31.27,0:18:35.47,Default,,0,0,0,,We lost in the first round the last time\Nwe went to a team tournament.
+Dialogue: 0,0:18:36.09,0:18:40.20,Default,,0,0,0,,I want to make it to the second round\Nfor the winter tournament.
 Dialogue: 0,0:18:40.44,0:18:43.65,Default,,0,0,0,,Yay! Kaneko-san is getting serious about Go!
 Dialogue: 0,0:18:44.45,0:18:45.80,Default,,0,0,0,,We'll all have to work all the harder now!
-Dialogue: 0,0:18:46.72,0:18:49.29,Default,,0,0,0,,I wonder if Mitani-kun will come today.
+Dialogue: 0,0:18:46.69,0:18:49.29,Default,,0,0,0,,I wonder if Mitani-kun will come today.
 Dialogue: 0,0:18:49.93,0:18:53.35,Default,,0,0,0,,Senpai, I want to go to a tournament too.
-Dialogue: 0,0:18:53.86,0:18:58.17,Default,,0,0,0,,Why didn't you just write Mitani-kun's name down when signing up for the tournament?
-Dialogue: 0,0:18:58.64,0:19:00.04,Default,,0,0,0,,We can't do that!
+Dialogue: 0,0:18:53.82,0:18:58.17,Default,,0,0,0,,Why didn't you just write Mitani-kun's name\Ndown when signing up for the tournament?
+Dialogue: 0,0:18:58.62,0:19:00.16,Default,,0,0,0,,We can't do that!
 Dialogue: 0,0:19:00.15,0:19:01.71,Default,,0,0,0,,He said he didn't want to.
 Dialogue: 0,0:19:02.67,0:19:04.15,Default,,0,0,0,,I'm sure it'll turn out okay.
-Dialogue: 0,0:19:04.57,0:19:07.71,Default,,0,0,0,,Natsume-kun, you're the club president, so you have to be more forceful about it.
+Dialogue: 0,0:19:04.54,0:19:07.71,Default,,0,0,0,,Natsume-kun, you're the club president so\Nyou have to be more forceful about it.
 Dialogue: 0,0:19:08.20,0:19:09.71,Default,,0,0,0,,She's right, senpai.
 Dialogue: 0,0:19:10.22,0:19:11.55,Default,,0,0,0,,You too, Koike-kun?
-Dialogue: 0,0:19:13.42,0:19:14.77,Default,,0,0,0,,What's all the fuss about?
-Dialogue: 0,0:19:16.72,0:19:17.80,Default,,0,0,0,,M-Mitani senpai!
-Dialogue: 0,0:19:17.96,0:19:19.47,Default,,0,0,0,,N-Nothing!
+Dialogue: 0,0:19:13.38,0:19:14.77,Default,,0,0,0,,What's all the fuss about?
+Dialogue: 0,0:19:16.34,0:19:17.93,Default,,0,0,0,,M-Mitani senpai!
+Dialogue: 0,0:19:17.93,0:19:19.47,Default,,0,0,0,,N-Nothing!
 Dialogue: 0,0:19:20.00,0:19:22.08,Default,,0,0,0,,There you are, first board.
 Dialogue: 0,0:19:22.47,0:19:23.37,Default,,0,0,0,,First board?
-Dialogue: 0,0:19:24.56,0:19:26.88,Default,,0,0,0,,First board for the guys' team tournament.
-Dialogue: 0,0:19:27.87,0:19:31.48,Noise,,0,0,0,,W-What are you talking about!? What do you mean, 'first board'!?
-Dialogue: 0,0:19:31.05,0:19:31.97,Noise,,0,0,0,,Calm down.
-Dialogue: 0,0:19:31.97,0:19:33.00,Noise,,0,0,0,,Hey, Kaneko.
-Dialogue: 0,0:19:33.00,0:19:33.63,Noise,,0,0,0,,Let's play a game!
-Dialogue: 0,0:19:33.14,0:19:34.00,Noise,,0,0,0,,What?
-Dialogue: 0,0:19:34.52,0:19:35.60,Noise,,0,0,0,,Don't decide things for me!
-Dialogue: 0,0:19:35.65,0:19:38.47,Noise,,0,0,0,,Did I bring Mitani-kun's notebook today? We need his notebook.
+Dialogue: 0,0:19:24.52,0:19:26.88,Background,,0,0,0,,First board for the guys' team tournament.
+Dialogue: 0,0:19:27.87,0:19:31.27,Default,,0,0,0,,W-What are you talking about!? What\Ndo you mean, 'first board'!?
+Dialogue: 0,0:19:31.27,0:19:31.94,Default,,0,0,0,,Calm down.
+Dialogue: 0,0:19:31.94,0:19:32.82,Background,,0,0,0,,Hey, Kaneko!
+Dialogue: 0,0:19:32.82,0:19:34.15,Background,,0,0,0,,Let's play a game! Yeah!
+Dialogue: 0,0:19:33.11,0:19:33.90,Background,,0,0,0,,What?
+Dialogue: 0,0:19:34.11,0:19:35.57,Background,,0,0,0,,Don't be deciding things for me!
+Dialogue: 0,0:19:34.82,0:19:38.16,Background,,0,0,0,,Did I bring Mitani-kun's notebook\Ntoday? We need his notebook.
 Dialogue: 0,0:19:51.94,0:19:52.79,Default,,0,0,0,,Shindou!
-Dialogue: 0,0:19:55.64,0:19:57.67,Default,,0,0,0,,I heard from someone in your class,
-Dialogue: 0,0:19:58.12,0:20:00.91,Default,,0,0,0,,that you're becoming a pro Go player?
-Dialogue: 0,0:20:02.05,0:20:02.75,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:19:55.64,0:19:57.67,Background,,0,0,0,,I heard from someone in your class,
+Dialogue: 0,0:19:58.09,0:20:00.91,Background,,0,0,0,,that you're becoming a pro Go player?
+Dialogue: 0,0:20:02.01,0:20:02.68,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:20:03.47,0:20:06.55,Default,,0,0,0,,Then our Go club must be really good!
-Dialogue: 0,0:20:06.99,0:20:09.96,Default,,0,0,0,,You can win any tournament you go to, right?
+Dialogue: 0,0:20:06.99,0:20:09.86,Default,,0,0,0,,You can win any tournament you go to, right?
 Dialogue: 0,0:20:10.32,0:20:12.98,Default,,0,0,0,,I can't go, even if I wanted to!
-Dialogue: 0,0:20:14.48,0:20:16.11,Default,,0,0,0,,Oh... Really?
+Dialogue: 0,0:20:14.44,0:20:16.11,Default,,0,0,0,,Oh... Really?
 Dialogue: 0,0:20:16.98,0:20:19.76,Default,,0,0,0,,Aww man, being a pro sure sucks.
-Dialogue: 0,0:20:21.65,0:20:23.30,Default,,0,0,0,,I've finally made it there.
-Dialogue: 0,0:20:25.52,0:20:26.27,Default,,0,0,0,,Hey!
+Dialogue: 0,0:20:21.65,0:20:23.30,Background,,0,0,0,,I've finally made it there.
+Dialogue: 0,0:20:25.50,0:20:26.25,Default,,0,0,0,,Hey!
 Dialogue: 0,0:20:27.42,0:20:30.48,Thinking,,0,0,0,,Touya has been there since last year.
-Dialogue: 0,0:20:31.19,0:20:33.43,Thinking,,0,0,0,,I've finally made it to Touya's world.
-Dialogue: 0,0:20:34.03,0:20:36.52,Thinking,,0,0,0,,Touya! To your world!
+Dialogue: 0,0:20:31.17,0:20:33.43,Thinking,,0,0,0,,I've finally made it to Touya's world.
+Dialogue: 0,0:20:34.00,0:20:36.46,Thinking,,0,0,0,,Touya! To your world!
 Dialogue: 0,0:22:12.79,0:22:14.57,Default,,0,0,0,,Let's do another problem today!
 Dialogue: 0,0:22:14.57,0:22:15.25,Default,,0,0,0,,Okay!
 Dialogue: 0,0:22:15.82,0:22:19.36,Default,,0,0,0,,You can still play something in this white territory.
