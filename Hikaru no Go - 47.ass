@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 92
-Video Position: 10206
+Video Zoom Percent: 0.625000
+Scroll Position: 285
+Active Line: 311
+Video Position: 29753
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -183,101 +183,103 @@ Dialogue: 0,0:06:58.41,0:06:59.57,Default,,0,0,0,,Don't be elated!
 Dialogue: 0,0:07:00.79,0:07:01.44,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:07:01.69,0:07:04.04,Default,,0,0,0,,But I want to play Touya first!
 Dialogue: 0,0:07:04.32,0:07:05.45,Default,,0,0,0,,I want to play against Touya!
-Dialogue: 0,0:07:06.66,0:07:07.46,Default,,0,0,0,,I...
+Dialogue: 0,0:07:06.66,0:07:07.41,Sai,,0,0,0,,I...
 Dialogue: 0,0:07:07.84,0:07:09.74,Default,,0,0,0,,He's still a lower-dan player.
-Dialogue: 0,0:07:10.00,0:07:12.34,Default,,0,0,0,,So, if your lucky, you'll get to play him sometime soon.
+Dialogue: 0,0:07:10.00,0:07:12.34,Default,,0,0,0,,So, if you're lucky, you'll get\Nto play him sometime soon.
 Dialogue: 0,0:07:12.68,0:07:14.76,Default,,0,0,0,,Our pairings are randomly made.
 Dialogue: 0,0:07:14.90,0:07:16.39,Default,,0,0,0,,Random?
-Dialogue: 0,0:07:16.74,0:07:17.56,Default,,0,0,0,,I...
-Dialogue: 0,0:07:19.12,0:07:23.57,Default,,0,0,0,,I'll get to play Shirakawa-sensei or Morishita-sensei in a real match, too!
+Dialogue: 0,0:07:16.71,0:07:17.56,Sai,,0,0,0,,I...
+Dialogue: 0,0:07:19.12,0:07:23.57,Default,,0,0,0,,I'll get to play Shirakawa-sensei or\NMorishita-sensei in a real match, too!
 Dialogue: 0,0:07:24.18,0:07:25.69,Default,,0,0,0,,Like I keep saying...
 Dialogue: 0,0:07:25.93,0:07:28.05,Default,,0,0,0,,You won't play high-dan players for a long time.
 Dialogue: 0,0:07:28.32,0:07:29.98,Default,,0,0,0,,But we are connected!
 Dialogue: 0,0:07:30.10,0:07:32.00,Default,,0,0,0,,That means we'll be playing sometime!
 Dialogue: 0,0:07:32.34,0:07:35.19,Default,,0,0,0,,I mean, we're in the same world already!
-Dialogue: 0,0:07:37.25,0:07:38.15,Default,,0,0,0,,Yes...
-Dialogue: 0,0:07:39.43,0:07:41.23,Default,,0,0,0,,I'm not the one that's connected...
-Dialogue: 0,0:07:43.32,0:07:44.12,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:07:45.24,0:07:46.23,Default,,0,0,0,,It's just Hikaru.
-Dialogue: 0,0:07:48.55,0:07:49.55,Default,,0,0,0,,Will Hikaru...
-Dialogue: 0,0:07:50.36,0:07:52.71,Default,,0,0,0,,not let me play anymore?
-Dialogue: 0,0:07:50.48,0:07:52.73,Default,,0,0,0,,That is true, but...
-Dialogue: 0,0:07:52.73,0:07:55.25,Default,,0,0,0,,Right? Let's see who becomes 2-dan first!
-Dialogue: 0,0:08:03.05,0:08:05.38,Note,,0,0,0,,The 48th Ouza Title Match
-Dialogue: 0,0:08:03.05,0:08:05.38,Note,,0,0,0,,The 23th graduating class of Koike Jr. High School, Reunion
-Dialogue: 0,0:08:07.50,0:08:10.57,Thinking,,0,0,0,,Ten minutes before the match starts...
-Dialogue: 0,0:08:23.30,0:08:25.66,Default,,0,0,0,,Good morning, Master Zama.
+Dialogue: 0,0:07:37.23,0:07:38.06,Sai,,0,0,0,,Yes...
+Dialogue: 0,0:07:39.40,0:07:41.23,Sai,,0,0,0,,I'm not the one that's connected...
+Dialogue: 0,0:07:43.32,0:07:44.12,Sai,,0,0,0,,Hikaru...
+Dialogue: 0,0:07:45.24,0:07:46.23,Sai,,0,0,0,,It's just Hikaru.
+Dialogue: 0,0:07:48.55,0:07:49.55,Sai,,0,0,0,,Will Hikaru...
+Dialogue: 0,0:07:50.32,0:07:52.71,Sai,,0,0,0,,not let me play anymore?
+Dialogue: 0,0:07:51.45,0:07:52.70,Default,,0,0,0,,{\pos(320,375)}That is true, but...
+Dialogue: 0,0:07:52.70,0:07:54.87,Default,,0,0,0,,{\pos(320,375)}Right!? Let's see who becomes 2-dan first!
+Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs37\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz349\pos(302,134)}The 48th Ouza Title Match
+Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs26\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz350\pos(219.645,295.933)}The 23rd graduating class of
+Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs32\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz352\pos(374,377)}Koike Jr. High School, Reunion
+Dialogue: 0,0:08:07.50,0:08:10.64,Thinking,,0,0,0,,Ten minutes before the match starts...
+Dialogue: 0,0:08:23.27,0:08:25.57,Default,,0,0,0,,Good morning, Master Zama.
 Dialogue: 0,0:08:26.37,0:08:28.19,Default,,0,0,0,,Good morning.
-Dialogue: 0,0:08:43.66,0:08:46.99,Default,,0,0,0,,Now that I think about it, I still haven't congratulated you...
-Dialogue: 0,0:08:47.21,0:08:49.13,Default,,0,0,0,,for the sixth successful defense of the Meijin title.
-Dialogue: 0,0:08:49.69,0:08:52.29,Default,,0,0,0,,Congratulations, Master Touya.
-Dialogue: 0,0:08:53.06,0:08:53.76,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:08:54.44,0:08:58.39,Default,,0,0,0,,But you lost the challenger rights to the Kisei title.
-Dialogue: 0,0:08:58.91,0:09:03.54,Default,,0,0,0,,I'm sure it's because you're exhausted from playing too many matches, Master Touya.
+Dialogue: 0,0:08:43.63,0:08:46.99,Default,,0,0,0,,Now that I think about it, I still\Nhaven't congratulated you...
+Dialogue: 0,0:08:47.17,0:08:49.13,Default,,0,0,0,,for the sixth successful defense of the Meijin title.
+Dialogue: 0,0:08:49.69,0:08:52.09,Default,,0,0,0,,Congratulations, Master Touya.
+Dialogue: 0,0:08:53.06,0:08:53.85,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:08:54.44,0:08:58.39,Background,,0,0,0,,But you lost the challenger rights to the Kisei title.
+Dialogue: 0,0:08:58.91,0:09:03.54,Default,,0,0,0,,I'm sure it's because you're exhausted from\Nplaying too many matches, Master Touya.
 Dialogue: 0,0:09:04.81,0:09:05.81,Default,,0,0,0,,You may be right.
-Dialogue: 0,0:09:06.12,0:09:08.73,Default,,0,0,0,,I may have lost the final match to decide the challenger
+Dialogue: 0,0:09:06.12,0:09:08.73,Default,,0,0,0,,I may have lost the final match\Nto decide the challenger
 Dialogue: 0,0:09:08.73,0:09:11.22,Default,,0,0,0,,for the Kisei title, because I was tired.
 Dialogue: 0,0:09:12.17,0:09:16.15,Default,,0,0,0,,But I am in the best condition today.
-Dialogue: 0,0:09:17.63,0:09:21.27,Default,,0,0,0,,I believe it is your son who is in the best of conditions.
+Dialogue: 0,0:09:17.63,0:09:21.27,Default,,0,0,0,,I believe it is your son who\Nis in the best of conditions.
 Dialogue: 0,0:09:21.63,0:09:23.46,Default,,0,0,0,,Isn't he undefeated?
 Dialogue: 0,0:09:24.05,0:09:25.77,Default,,0,0,0,,He has had twenty straight wins so far.
-Dialogue: 0,0:09:29.11,0:09:32.95,Default,,0,0,0,,The only match Akira lost was the new first dan series match, from right before he became pro...
+Dialogue: 0,0:09:29.11,0:09:32.95,Default,,0,0,0,,The only match Akira lost was the new first dan\Nseries match, from right before he became pro...
 Dialogue: 0,0:09:33.66,0:09:34.66,Default,,0,0,0,,Master Zama,
 Dialogue: 0,0:09:35.48,0:09:37.40,Default,,0,0,0,,just that match against you.
-Dialogue: 0,0:09:37.83,0:09:41.63,Default,,0,0,0,,Then you'll be trying to get revenge for your beloved little boy today!
+Dialogue: 0,0:09:37.83,0:09:41.63,Default,,0,0,0,,Then you'll be trying to get revenge\Nfor your beloved little boy today!
 Dialogue: 0,0:09:50.39,0:09:52.67,Default,,0,0,0,,You first, Zama Ouza.
-Dialogue: 0,0:09:55.74,0:09:58.24,Note,,0,0,0,,Ouza Title Match
-Dialogue: 0,0:09:55.74,0:09:58.24,Note,,0,0,0,,Affiliates Only
-Dialogue: 0,0:09:59.29,0:10:02.75,Note,,0,0,0,,The First Game of the Ouza Title Match
-Dialogue: 0,0:10:05.82,0:10:07.90,Default,,0,0,0,,What is it, Master Kuwabara?
+Dialogue: 0,0:09:55.74,0:09:58.24,NoteTimes,,0,0,0,,{\fs19\1c&H000000&\3c&HFFFFFF&\bord1\shad0\pos(277,62)}O\Nu\Nz\Na\N\NT\Ni\Nt\Nl\Ne\N\NM\Na\Nt\Nc\Nh
+Dialogue: 0,0:09:55.74,0:09:58.24,NoteTimes,,0,0,0,,{\fs19\1c&H000000&\3c&HFFFFFF&\bord1\shad0\pos(385,195)}A\Nf\Nf\Ni\Nl\Ni\Na\Nt\Ne\Ns\N\NO\Nn\Nl\Ny
+Dialogue: 0,0:09:59.25,0:10:02.75,NoteTimes,,0,0,0,,{\fs22.5\bord1\shad0\fad(459,0)\pos(320,368)}The First Game of the Ouza Title Match
+Dialogue: 0,0:10:02.75,0:10:05.25,NoteArial,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\bord1\frz346\pos(380,169)}Japanese Go Institute
+Dialogue: 0,0:10:05.79,0:10:07.96,Background,,0,0,0,,What is it, Master Kuwabara?
 Dialogue: 0,0:10:09.00,0:10:10.76,Default,,0,0,0,,Is there an interesting article?
 Dialogue: 0,0:10:11.59,0:10:14.29,Default,,0,0,0,,The results of the pro exam are on this.
 Dialogue: 0,0:10:14.56,0:10:15.78,Default,,0,0,0,,Pro exam?
-Dialogue: 0,0:10:15.97,0:10:18.01,Note,,0,0,0,,{\an5\org(320,240)\pos(480, 243)\frz21.5}Ochi Kouske (13)
-Dialogue: 0,0:10:15.97,0:10:18.01,Note,,0,0,0,,{\an5\org(320,240)\pos(285, 415)\frz23.5}Shindou Hikaru (14)
-Dialogue: 0,0:10:15.97,0:10:18.01,Note,,0,0,0,,{\an5\org(320,240)\pos(483, 415)\frz23.5}Waya Yoshitaka (15)
-Dialogue: 0,0:10:16.83,0:10:19.03,Default,,0,0,0,,That boy passed...
-Dialogue: 0,0:10:19.37,0:10:21.80,Default,,0,0,0,,I see, his name is Shindou.
+Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\frz21\pos(461,174)}Ochi Kousuke (13)
+Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\frz24\pos(352,402)}Shindou Hikaru (14)
+Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\frz24\pos(524,324)}Waya Yoshitaka (15)
+Dialogue: 0,0:10:16.80,0:10:19.03,Background,,0,0,0,,{\an8}That boy passed...
+Dialogue: 0,0:10:19.35,0:10:21.80,Background,,0,0,0,,{\an8}I see, his name is Shindou.
 Dialogue: 0,0:10:22.62,0:10:24.94,Default,,0,0,0,,Shindou? Who is that?
 Dialogue: 0,0:10:25.48,0:10:28.09,Default,,0,0,0,,Just a boy I passed by once.
 Dialogue: 0,0:10:28.60,0:10:30.42,Default,,0,0,0,,That you just passed by?
 Dialogue: 0,0:10:31.76,0:10:34.48,Default,,0,0,0,,Yes... right over there.
 Dialogue: 0,0:10:35.00,0:10:36.68,Default,,0,0,0,,I think it was six months ago...
-Dialogue: 0,0:10:36.68,0:10:39.49,Default,,0,0,0,,When I got off the elevator,
-Dialogue: 0,0:10:39.60,0:10:42.72,Default,,0,0,0,,I saw a lot of youngsters from the Insei program.
-Dialogue: 0,0:10:59.52,0:11:01.22,Default,,0,0,0,,And...
-Dialogue: 0,0:11:02.15,0:11:05.66,Default,,0,0,0,,I felt something exceptional about that boy.
+Dialogue: 0,0:10:36.68,0:10:39.58,Default,,0,0,0,,When I got off the elevator,
+Dialogue: 0,0:10:39.58,0:10:42.72,Default,,0,0,0,,I saw a lot of youngsters from the Insei program.
+Dialogue: 0,0:10:59.52,0:11:01.22,Background,,0,0,0,,And...
+Dialogue: 0,0:11:02.15,0:11:05.66,Background,,0,0,0,,I felt something exceptional about that boy.
 Dialogue: 0,0:11:06.13,0:11:08.28,Default,,0,0,0,,Something exceptional?
 Dialogue: 0,0:11:08.41,0:11:10.15,Default,,0,0,0,,That sounds interesting!
 Dialogue: 0,0:11:10.48,0:11:12.35,Default,,0,0,0,,Yes, it's very interesting.
-Dialogue: 0,0:11:13.05,0:11:17.07,Default,,0,0,0,,He may be part of the new wave that Ogata was speaking of.
-Dialogue: 0,0:11:17.88,0:11:20.97,Default,,0,0,0,,A new wave... 'Nouvelle vague.'
-Dialogue: 0,0:11:22.64,0:11:24.00,Default,,0,0,0,,Looking forward to it.
-Dialogue: 0,0:11:24.95,0:11:26.95,Default,,0,0,0,,I'm really looking forward to it!
-Dialogue: 0,0:11:28.09,0:11:30.49,Default,,0,0,0,,Spring... it starts in the spring!
-Dialogue: 0,0:11:31.16,0:11:33.24,Default,,0,0,0,,I wonder who my first match is going to be against.
+Dialogue: 0,0:11:13.05,0:11:17.07,Default,,0,0,0,,He may be part of the new wave\Nthat Ogata was speaking of.
+Dialogue: 0,0:11:17.88,0:11:20.97,Default,,0,0,0,,A new wave... 'nouvelle vague.'
+Dialogue: 0,0:11:22.64,0:11:24.00,Default,,0,0,0,,I look forward to it.
+Dialogue: 0,0:11:24.95,0:11:26.95,Background,,0,0,0,,I'm really looking forward to it!
+Dialogue: 0,0:11:28.09,0:11:30.34,Default,,0,0,0,,Spring... it starts in the spring!
+Dialogue: 0,0:11:31.13,0:11:33.24,Background,,0,0,0,,I wonder who my first match is going to be against.
 Dialogue: 0,0:11:34.04,0:11:34.89,Default,,0,0,0,,Hey, Sai!
 Dialogue: 0,0:11:38.03,0:11:38.93,Default,,0,0,0,,Sai?
 Dialogue: 0,0:11:39.80,0:11:42.00,Default,,0,0,0,,What's wrong? Come on, let's play!
-Dialogue: 0,0:11:48.44,0:11:50.87,Default,,0,0,0,,Just like Hikaru can't wait to play other pros,
-Dialogue: 0,0:11:51.85,0:11:54.57,Default,,0,0,0,,They are also waiting for Hikaru...
-Dialogue: 0,0:11:57.21,0:12:00.13,Default,,0,0,0,,They aren't waiting for me.
-Dialogue: 0,0:12:04.33,0:12:05.09,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:12:07.04,0:12:07.79,Default,,0,0,0,,Hikaru!
-Dialogue: 0,0:12:09.57,0:12:10.57,Default,,0,0,0,,It's Hikaru.
-Dialogue: 0,0:12:17.68,0:12:20.24,Default,,0,0,0,,You come to report that you passed after all this time!?
-Dialogue: 0,0:12:21.67,0:12:23.79,Default,,0,0,0,,We've known about it forever!
+Dialogue: 0,0:11:48.44,0:11:50.87,Sai,,0,0,0,,Just like Hikaru can't wait to play other pros,
+Dialogue: 0,0:11:51.85,0:11:54.57,Sai,,0,0,0,,they are also waiting for Hikaru...
+Dialogue: 0,0:11:57.21,0:12:00.13,Sai,,0,0,0,,They aren't waiting for me.
+Dialogue: 0,0:12:04.33,0:12:05.09,Sai,,0,0,0,,Hikaru...
+Dialogue: 0,0:12:07.04,0:12:07.71,Sai,,0,0,0,,Hikaru!
+Dialogue: 0,0:12:09.54,0:12:10.57,Sai,,0,0,0,,It's Hikaru.
+Dialogue: 0,0:12:17.63,0:12:19.97,Background,,0,0,0,,You come to report that you\Npassed after all this time!?
+Dialogue: 0,0:12:21.67,0:12:23.89,Default,,0,0,0,,We've known about it forever!
 Dialogue: 0,0:12:23.88,0:12:25.20,Default,,0,0,0,,That hurts!
-Dialogue: 0,0:12:25.20,0:12:28.05,Default,,0,0,0,,You're late! You should have come earlier!
-Dialogue: 0,0:12:28.14,0:12:31.54,Default,,0,0,0,,It's all thanks to me that you passed, remember that!
+Dialogue: 0,0:12:25.20,0:12:28.14,Default,,0,0,0,,You're late! You should have come earlier!
+Dialogue: 0,0:12:28.14,0:12:31.54,Default,,0,0,0,,It's all thanks to me that you\Npassed, remember that!
 Dialogue: 0,0:12:31.54,0:12:34.11,Default,,0,0,0,,How is it thanks to you, Kawai-san?
 Dialogue: 0,0:12:35.91,0:12:39.42,Default,,0,0,0,,What? That boy said he passed the pro exam.
-Dialogue: 0,0:12:39.89,0:12:42.71,Default,,0,0,0,,Terauchi-san, you don't know Shindou-kun, do you?
+Dialogue: 0,0:12:39.86,0:12:42.12,Default,,0,0,0,,Terauchi-san, you don't know Shindou-kun, do you?
 Dialogue: 0,0:12:42.47,0:12:44.93,Default,,0,0,0,,So you think it's not all thanks to me?
-Dialogue: 0,0:12:43.14,0:12:46.37,Default,,0,0,0,,He came here almost everyday during the his summer break.
+Dialogue: 0,0:12:43.14,0:12:46.37,Background,,0,0,0,,He came here almost every day\Nduring his summer break.
 Dialogue: 0,0:12:44.93,0:12:47.00,Default,,0,0,0,,It's not all thanks to you, Kawai-san!
 Dialogue: 0,0:12:47.00,0:12:48.53,Default,,0,0,0,,What'd you say?
-Dialogue: 0,0:12:49.30,0:12:52.95,Default,,0,0,0,,The results of the pro exam were in weekly Go, a little while ago.
+Dialogue: 0,0:12:49.30,0:12:52.95,Default,,0,0,0,,The results of the pro exam were\Nin Weekly Go, a little while ago.
 Dialogue: 0,0:12:54.25,0:12:55.25,Default,,0,0,0,,Here, this one.
 Dialogue: 0,0:12:57.28,0:12:59.47,Default,,0,0,0,,Shindou Hikaru is his name...
 Dialogue: 0,0:12:59.63,0:13:02.23,Default,,0,0,0,,Say this when you get a title,
@@ -285,120 +287,121 @@ Dialogue: 0,0:13:02.43,0:13:06.13,Default,,0,0,0,,'It's all thanks to Kawai-san 
 Dialogue: 0,0:13:06.13,0:13:07.41,Default,,0,0,0,,What are you talking about!?
 Dialogue: 0,0:13:07.41,0:13:08.96,Default,,0,0,0,,A title? sounds good!
 Dialogue: 0,0:13:09.38,0:13:12.06,Default,,0,0,0,,Get four of them, just like Touya Meijin!
-Dialogue: 0,0:13:12.24,0:13:15.24,Default,,0,0,0,,Nah, he'll have five of them soon.
-Dialogue: 0,0:13:15.83,0:13:18.20,Default,,0,0,0,,Five titles? Touya Meijin?
+Dialogue: 0,0:13:12.24,0:13:15.07,Default,,0,0,0,,Nah, he'll have five of them soon.
+Dialogue: 0,0:13:15.83,0:13:18.07,Default,,0,0,0,,Five titles? Touya Meijin?
 Dialogue: 0,0:13:18.58,0:13:20.48,Default,,0,0,0,,If he wins the Ouza match.
-Dialogue: 0,0:13:21.20,0:13:24.99,Default,,0,0,0,,There is a good chance of it, since he won both the first and second games.
-Dialogue: 0,0:13:25.17,0:13:27.12,Default,,0,0,0,,I'd hate to be Zama Ouza right now.
-Dialogue: 0,0:13:27.21,0:13:30.81,Default,,0,0,0,,And? How many times do you have to win to become Ouza?
-Dialogue: 0,0:13:31.16,0:13:33.32,Default,,0,0,0,,The Ouza match is a five game match!
+Dialogue: 0,0:13:21.20,0:13:24.99,Default,,0,0,0,,There is a good chance of it, since he won\Nboth the first and second games.
+Dialogue: 0,0:13:25.17,0:13:27.20,Default,,0,0,0,,I'd hate to be Zama Ouza right now.
+Dialogue: 0,0:13:27.21,0:13:30.81,Default,,0,0,0,,And? How many times do you\Nhave to win to become Ouza?
+Dialogue: 0,0:13:31.12,0:13:33.32,Default,,0,0,0,,The Ouza match is a five game match!
 Dialogue: 0,0:13:33.32,0:13:35.44,Default,,0,0,0,,You become Ouza if you win three times!
-Dialogue: 0,0:13:35.75,0:13:39.08,Default,,0,0,0,,He's even defended the Tengen title in between the Ouza games.
-Dialogue: 0,0:13:39.62,0:13:41.64,Default,,0,0,0,,Touya Meijin sure has it tough.
+Dialogue: 0,0:13:35.75,0:13:39.08,Background,,0,0,0,,He's even defending the Tengen title\Nin between the Ouza games.
+Dialogue: 0,0:13:39.62,0:13:41.64,Background,,0,0,0,,Touya Meijin sure has it tough.
 Dialogue: 0,0:13:42.62,0:13:43.62,Default,,0,0,0,,Tengen?
 Dialogue: 0,0:13:44.29,0:13:46.28,Default,,0,0,0,,Is that a title, too?
-Dialogue: 0,0:13:50.15,0:13:54.73,Default,,0,0,0,,It might be a little tough for him to get a title if he doesn't even know that...
+Dialogue: 0,0:13:50.15,0:13:54.73,Default,,0,0,0,,It might be a little tough for him to get\Na title if he doesn't even know that...
 Dialogue: 0,0:13:54.92,0:13:58.24,Default,,0,0,0,,Actually, are you sure he's going to become a pro?
 Dialogue: 0,0:13:58.24,0:14:02.80,Default,,0,0,0,,Why you! Don't embarrass me like that!
 Dialogue: 0,0:14:02.80,0:14:05.64,Default,,0,0,0,,It doesn't concern you, Kawai-san!
-Dialogue: 0,0:14:05.71,0:14:07.31,Default,,0,0,0,,Why you!
-Dialogue: 0,0:14:06.51,0:14:10.62,Default,,0,0,0,,Calm down. I'll give you some old papers, so read up on it.
+Dialogue: 0,0:14:05.71,0:14:06.49,Background,,0,0,0,,Why you!
+Dialogue: 0,0:14:06.51,0:14:10.62,Default,,0,0,0,,Calm down. I'll give you some\Nold papers, so read up on it.
 Dialogue: 0,0:14:12.64,0:14:15.06,Default,,0,0,0,,Th-Thanks, master...
 Dialogue: 0,0:14:20.33,0:14:22.46,Default,,0,0,0,,Oh, this is Touya's dad.
 Dialogue: 0,0:14:23.88,0:14:25.82,Default,,0,0,0,,It says he's going to play the Ouza match.
-Dialogue: 0,0:14:26.26,0:14:27.43,Default,,0,0,0,,There's a kifu for it.
-Dialogue: 0,0:14:28.43,0:14:29.93,Default,,0,0,0,,His opponent is Zama Ouza.
+Dialogue: 0,0:14:26.26,0:14:27.43,Default,,0,0,0,,There's a Kifu for it.
+Dialogue: 0,0:14:28.43,0:14:29.93,Background,,0,0,0,,His opponent is Zama Ouza.
 Dialogue: 0,0:14:31.92,0:14:33.45,Default,,0,0,0,,So this guy is Ouza...
-Dialogue: 0,0:14:33.73,0:14:36.47,Default,,0,0,0,,Hikaru, this is only part of the kifu.
-Dialogue: 0,0:14:39.99,0:14:41.27,Default,,0,0,0,,The rest is on the back.
+Dialogue: 0,0:14:33.73,0:14:36.47,Sai,,0,0,0,,Hikaru, this is only part of the Kifu.
+Dialogue: 0,0:14:39.99,0:14:41.27,Background,,0,0,0,,The rest is on the back.
 Dialogue: 0,0:14:43.11,0:14:44.95,Default,,0,0,0,,This is...
 Dialogue: 0,0:14:45.78,0:14:48.28,Default,,0,0,0,,'First game of the Tengen match'...
 Dialogue: 0,0:14:50.09,0:14:53.42,Default,,0,0,0,,It's Touya Meijin who has the Tengen title and...
 Dialogue: 0,0:14:53.81,0:14:56.67,Default,,0,0,0,,Ichiryuu Kisei is the challenger.
 Dialogue: 0,0:14:56.80,0:14:57.45,Default,,0,0,0,,Look.
 Dialogue: 0,0:15:00.88,0:15:02.88,Default,,0,0,0,,Touya's dad is in this one, too!
-Dialogue: 0,0:15:03.12,0:15:04.97,Default,,0,0,0,,Hikaru, turn the page! Turn the page!
-Dialogue: 0,0:15:10.49,0:15:15.33,Default,,0,0,0,,Let's see...  Touya Meijin... sixth successful defense!?
+Dialogue: 0,0:15:03.09,0:15:04.97,Sai,,0,0,0,,Hikaru, turn the page! Turn the page!
+Dialogue: 0,0:15:10.49,0:15:15.33,Default,,0,0,0,,Let's see...  Touya Meijin...\Nsixth successful defense!?
 Dialogue: 0,0:15:15.97,0:15:17.83,Default,,0,0,0,,He really is incredible...
-Dialogue: 0,0:15:21.45,0:15:23.88,Default,,0,0,0,,Don't put it on top, put it next to what I'm reading, Hikaru!
+Dialogue: 0,0:15:21.45,0:15:23.94,Sai,,0,0,0,,Don't put it on top, put it next\Nto what I'm reading, Hikaru!
 Dialogue: 0,0:15:26.04,0:15:27.23,Default,,0,0,0,,Oh boy.
 Dialogue: 0,0:15:28.20,0:15:29.36,Default,,0,0,0,,Let's see...
 Dialogue: 0,0:15:29.43,0:15:32.51,Default,,0,0,0,,Here... There's still...
-Dialogue: 0,0:15:32.97,0:15:36.16,Default,,0,0,0,,What? They're not in order, and some are missing.
-Dialogue: 0,0:15:36.49,0:15:39.59,Default,,0,0,0,,This is August... this is May...
-Dialogue: 0,0:15:39.97,0:15:41.26,Default,,0,0,0,,This one below it is...
+Dialogue: 0,0:15:32.97,0:15:36.16,Background,,0,0,0,,What? They're not in order, and some are missing.
+Dialogue: 0,0:15:36.49,0:15:39.59,Background,,0,0,0,,This is August... this is May...
+Dialogue: 0,0:15:39.97,0:15:41.26,Background,,0,0,0,,This one below it is...
 Dialogue: 0,0:15:42.88,0:15:44.25,Default,,0,0,0,,January!
 Dialogue: 0,0:15:44.87,0:15:45.92,Default,,0,0,0,,It's old!
-Dialogue: 0,0:15:47.85,0:15:48.70,Default,,0,0,0,,It's Touya!
+Dialogue: 0,0:15:47.85,0:15:48.70,Background,,0,0,0,,It's Touya!
 Dialogue: 0,0:15:50.14,0:15:52.28,Default,,0,0,0,,It's Zama Ouza standing next to him...
-Dialogue: 0,0:15:54.57,0:15:57.24,Default,,0,0,0,,Oh! This is the new first dan series match!
-Dialogue: 0,0:15:57.39,0:15:58.76,Default,,0,0,0,,Hikaru! Turn the page!
+Dialogue: 0,0:15:54.57,0:15:57.14,Default,,0,0,0,,Oh! This is the new first dan series match!
+Dialogue: 0,0:15:57.39,0:15:58.65,Sai,,0,0,0,,Hikaru! Turn the page!
 Dialogue: 0,0:16:02.07,0:16:03.51,Default,,0,0,0,,Yeah, this is it!
-Dialogue: 0,0:16:03.87,0:16:07.20,Default,,0,0,0,,We all watched this match together on that monitor.
+Dialogue: 0,0:16:03.87,0:16:07.20,Default,,0,0,0,,We all watched this match\Ntogether on that monitor.
 Dialogue: 0,0:16:08.22,0:16:10.39,Default,,0,0,0,,The new first dan series...
 Dialogue: 0,0:16:10.96,0:16:14.03,Default,,0,0,0,,Yeah... I forgot about this...
-Dialogue: 0,0:16:16.27,0:16:17.75,Default,,0,0,0,,I'm getting really excited!
-Dialogue: 0,0:16:18.69,0:16:19.57,Default,,0,0,0,,Right, Sai?
-Dialogue: 0,0:16:19.57,0:16:21.68,Default,,0,0,0,,Hikaru, show me that one!
+Dialogue: 0,0:16:16.25,0:16:17.75,Default,,0,0,0,,I'm getting really excited!
+Dialogue: 0,0:16:18.67,0:16:19.58,Default,,0,0,0,,Right, Sai?
+Dialogue: 0,0:16:19.58,0:16:21.68,Sai,,0,0,0,,Hikaru, show me that one!
 Dialogue: 0,0:16:30.73,0:16:32.78,Default,,0,0,0,,The new first dan series...
-Dialogue: 0,0:16:34.72,0:16:37.29,Default,,0,0,0,,It was snowing...
-Dialogue: 0,0:16:40.55,0:16:42.04,Default,,0,0,0,,It was snowing that day.
-Dialogue: 0,0:16:45.85,0:16:47.21,Default,,0,0,0,,It's my turn now.
+Dialogue: 0,0:16:34.72,0:16:37.29,Background,,0,0,0,,It was snowing...
+Dialogue: 0,0:16:40.52,0:16:42.04,Background,,0,0,0,,It was snowing that day.
+Dialogue: 0,0:16:45.82,0:16:47.21,Default,,0,0,0,,It's my turn now.
 Dialogue: 0,0:16:48.09,0:16:50.79,Default,,0,0,0,,I'm going to begin with this match.
 Dialogue: 0,0:16:53.41,0:16:54.57,Default,,0,0,0,,When the new year comes...
-Dialogue: 0,0:17:05.59,0:17:09.59,Note,,0,0,0,,Touya Kouyou
-Dialogue: 0,0:17:06.29,0:17:09.35,Default,,0,0,0,,Sorry for interviewing you during New Years.
-Dialogue: 0,0:17:10.22,0:17:12.97,Default,,0,0,0,,But now that you have your fifth title, Meijin,
-Dialogue: 0,0:17:13.16,0:17:16.38,Default,,0,0,0,,you and Touya are both going to get busier.
-Dialogue: 0,0:17:17.90,0:17:22.41,Default,,0,0,0,,It's too bad your winning streak stopped at 26 last year.
+Dialogue: 0,0:17:05.59,0:17:09.59,NoteArial,,0,0,0,,{\fs30\bord0\1c&H000000&\4c&HFFFFFF&\shad0.5\pos(377,67)\frx0\fry5}T\No\Nu\Ny\Na\N\NK\No\Nu\Ny\No\Nu
+Dialogue: 0,0:17:06.29,0:17:09.35,Background,,0,0,0,,Sorry for interviewing you during New Years.
+Dialogue: 0,0:17:10.22,0:17:13.14,Background,,0,0,0,,But now that you have your fifth title, Meijin,
+Dialogue: 0,0:17:13.14,0:17:16.38,Background,,0,0,0,,you and Touya are both going to get busier.
+Dialogue: 0,0:17:17.90,0:17:22.41,Default,,0,0,0,,It's too bad your winning streak\Nstopped at 26 last year.
 Dialogue: 0,0:17:22.83,0:17:25.70,Default,,0,0,0,,But, I'm expecting just as much from you this year.
 Dialogue: 0,0:17:26.00,0:17:27.00,Default,,0,0,0,,I'll try my best.
 Dialogue: 0,0:17:28.04,0:17:30.35,Default,,0,0,0,,Well I'll be leaving for today, then.
 Dialogue: 0,0:17:31.37,0:17:32.73,Default,,0,0,0,,Thank you for your time.
-Dialogue: 0,0:17:33.26,0:17:34.15,Default,,0,0,0,,Amano-san.
-Dialogue: 0,0:17:34.54,0:17:35.19,Default,,0,0,0,,Yes.
-Dialogue: 0,0:17:36.37,0:17:40.20,Default,,0,0,0,,That thing where you have a new pro player play a top pro...
+Dialogue: 0,0:17:33.26,0:17:33.99,Default,,0,0,0,,Amano-san.
+Dialogue: 0,0:17:34.54,0:17:35.19,Default,,0,0,0,,Yes?
+Dialogue: 0,0:17:36.37,0:17:40.25,Default,,0,0,0,,That thing where you have a new\Npro player play a top pro...
 Dialogue: 0,0:17:40.63,0:17:41.84,Default,,0,0,0,,The new first dan series?
-Dialogue: 0,0:17:42.14,0:17:43.65,Default,,0,0,0,,You're going to play in it!?
-Dialogue: 0,0:17:44.69,0:17:50.55,Default,,0,0,0,,You were too busy to play in it last year and the year before that.
+Dialogue: 0,0:17:42.14,0:17:43.46,Default,,0,0,0,,You're going to play in it!?
+Dialogue: 0,0:17:44.69,0:17:50.55,Default,,0,0,0,,You were too busy to play in it last\Nyear and the year before that.
 Dialogue: 0,0:17:50.75,0:17:52.65,Default,,0,0,0,,So I wasn't going to ask this year.
 Dialogue: 0,0:17:53.11,0:17:55.10,Default,,0,0,0,,Are you really going in it for us?
-Dialogue: 0,0:17:57.16,0:18:00.15,Default,,0,0,0,,But I would like to choose my opponent for it.
-Dialogue: 0,0:18:02.71,0:18:05.87,Default,,0,0,0,,So there's a new player good enough for you to request to play?
+Dialogue: 0,0:17:57.14,0:18:00.15,Default,,0,0,0,,But I would like to choose my opponent for it.
+Dialogue: 0,0:18:02.71,0:18:05.87,Default,,0,0,0,,So there's a new player good enough\Nfor you to request to play?
 Dialogue: 0,0:18:08.23,0:18:10.82,Default,,0,0,0,,It's been two years since I last met him.
 Dialogue: 0,0:18:11.35,0:18:12.65,Default,,0,0,0,,He's finally here.
-Dialogue: 0,0:18:13.32,0:18:14.13,Thinking,,0,0,0,,You mean...
-Dialogue: 0,0:18:15.30,0:18:16.61,Default,,0,0,0,,Shindou Hikaru.
+Dialogue: 0,0:18:13.32,0:18:13.99,Thinking,,0,0,0,,You mean...
+Dialogue: 0,0:18:15.30,0:18:16.49,Default,,0,0,0,,Shindou Hikaru.
 Dialogue: 0,0:18:39.16,0:18:43.28,Default,,0,0,0,,I-I see... that stops me from fighting back...
-Dialogue: 0,0:18:48.84,0:18:50.27,Default,,0,0,0,,S-Sai...
-Dialogue: 0,0:18:51.30,0:18:53.35,Default,,0,0,0,,Your expression's been scary lately...
+Dialogue: 0,0:18:48.82,0:18:50.27,Default,,0,0,0,,S-Sai...
+Dialogue: 0,0:18:51.28,0:18:53.24,Default,,0,0,0,,Your expression's been scary lately...
 Dialogue: 0,0:18:55.82,0:18:56.87,Default,,0,0,0,,H-Hey...
 Dialogue: 0,0:18:57.17,0:18:59.06,Default,,0,0,0,,About these newspapers...
-Dialogue: 0,0:18:59.50,0:19:03.25,Default,,0,0,0,,Mom is going to yell at me again if I don't clean it up already...
-Dialogue: 0,0:19:04.28,0:19:07.75,Default,,0,0,0,,I know that you can't look at it unless it's spread out, but...
-Dialogue: 0,0:19:08.73,0:19:10.51,Default,,0,0,0,,Go ahead, put them away.
-Dialogue: 0,0:19:11.93,0:19:13.89,Default,,0,0,0,,I have already memorized,
-Dialogue: 0,0:19:14.43,0:19:16.11,Default,,0,0,0,,all of his games that are there.
+Dialogue: 0,0:18:59.50,0:19:03.25,Default,,0,0,0,,Mom is going to yell at me again\Nif I don't clean it up already...
+Dialogue: 0,0:19:04.21,0:19:07.75,Default,,0,0,0,,I know that you can't look at it\Nunless it's spread out, but...
+Dialogue: 0,0:19:08.73,0:19:10.63,Sai,,0,0,0,,Go ahead, put them away.
+Dialogue: 0,0:19:11.93,0:19:13.89,Sai,,0,0,0,,I have already memorized,
+Dialogue: 0,0:19:14.43,0:19:16.13,Sai,,0,0,0,,all of his games that are there.
 Dialogue: 0,0:19:24.92,0:19:26.52,Default,,0,0,0,,Oh yeah, Mom's out shopping.
 Dialogue: 0,0:19:31.58,0:19:32.85,Default,,0,0,0,,Hello, this is Shindou.
-Dialogue: 0,0:19:35.10,0:19:37.82,Default,,0,0,0,,Yeah... I mean, yes, it's me.
+Dialogue: 0,0:19:35.07,0:19:37.82,Default,,0,0,0,,Yeah... I mean, yes, it's me.
 Dialogue: 0,0:19:39.61,0:19:42.90,Default,,0,0,0,,The new first dan series? Yes, I know what that is.
-Dialogue: 0,0:19:43.58,0:19:44.23,Default,,0,0,0,,Okay.
+Dialogue: 0,0:19:43.58,0:19:44.16,Default,,0,0,0,,Okay.
+Dialogue: 0,0:19:45.21,0:19:45.83,Default,,0,0,0,,Okay.
 Dialogue: 0,0:19:46.74,0:19:48.60,Default,,0,0,0,,Umm, who's my opponent?
-Dialogue: 0,0:19:51.83,0:19:53.28,Default,,0,0,0,,Touya Meijin?
-Dialogue: 0,0:19:56.04,0:19:58.63,Default,,0,0,0,,Y-Yes! I understand.
-Dialogue: 0,0:20:05.50,0:20:06.65,Default,,0,0,0,,Did you hear that, Sai?
+Dialogue: 0,0:19:51.83,0:19:53.05,Default,,0,0,0,,Touya Meijin!?
+Dialogue: 0,0:19:56.01,0:19:58.63,Default,,0,0,0,,Y-Yes! I understand.
+Dialogue: 0,0:20:05.48,0:20:06.65,Default,,0,0,0,,Did you hear that, Sai!?
 Dialogue: 0,0:20:06.99,0:20:09.39,Default,,0,0,0,,I'm going to be playing Touya Meijin!
 Dialogue: 0,0:20:09.61,0:20:11.28,Default,,0,0,0,,Remember the new first dan series?
-Dialogue: 0,0:20:12.69,0:20:15.60,Default,,0,0,0,,We watched it last year, remember? Between Touya and Zama Ouza!
-Dialogue: 0,0:20:16.91,0:20:20.48,Default,,0,0,0,,Oh yeah, Touya... will he... will he come watch?
+Dialogue: 0,0:20:12.65,0:20:15.44,Default,,0,0,0,,We watched it last year, remember?\NBetween Touya and Zama Ouza!
+Dialogue: 0,0:20:16.91,0:20:20.20,Default,,0,0,0,,Oh yeah, Touya... will he... will he come watch?
 Dialogue: 0,0:20:21.68,0:20:23.30,Default,,0,0,0,,Yeah, he'll definitely come!
-Dialogue: 0,0:20:23.84,0:20:28.17,Default,,0,0,0,,Okay! I'll show him how strong I am now!
-Dialogue: 0,0:20:28.84,0:20:29.59,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:20:29.82,0:20:30.47,Default,,0,0,0,,What?
-Dialogue: 0,0:20:33.88,0:20:34.68,Default,,0,0,0,,Let me...
-Dialogue: 0,0:20:35.54,0:20:36.99,Default,,0,0,0,,Let me play!
-Dialogue: 0,0:20:38.22,0:20:40.59,Default,,0,0,0,,Let me play that match!
+Dialogue: 0,0:20:23.84,0:20:27.91,Default,,0,0,0,,Okay! I'll show him how strong I am now!
+Dialogue: 0,0:20:28.79,0:20:29.29,Sai,,0,0,0,,Hikaru...
+Dialogue: 0,0:20:29.79,0:20:30.54,Default,,0,0,0,,What?
+Dialogue: 0,0:20:33.84,0:20:34.55,Sai,,0,0,0,,Let me...
+Dialogue: 0,0:20:35.46,0:20:36.80,Sai,,0,0,0,,Let me play!
+Dialogue: 0,0:20:38.22,0:20:40.47,Sai,,0,0,0,,Let me play that match!
 Dialogue: 0,0:22:12.32,0:22:14.46,Note,,0,0,0,,August 30th Japanese Go Institute
 Dialogue: 0,0:22:12.32,0:22:14.46,Note,,0,0,0,,Go Go Igo Cup Junior Pair Go Tournament was held
 Dialogue: 0,0:22:15.26,0:22:17.09,Default,,0,0,0,,It's finally the day of the Go tournament!
