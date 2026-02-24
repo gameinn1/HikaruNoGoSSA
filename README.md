@@ -32,13 +32,9 @@ Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format
 This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-v16.zip (compiled via fonts collector) and made after 75/76 was complete. Once extracted, right click and install them.
 
 ## Intro/Progress
-I restarted this project in late December 2025 after it was laid dormant by gabest11 (they stopped around episode 60). Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done but there are some small problems. Most of the time they did not assign styles/missed some notes so this needs relooked at. There are also some small errors in the text comapred to E-F/R-F (see Everything yet to do pdf for examples).
+I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were some problems. Most of the time they did not assign styles/missed notes so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see Everything yet to do pdf for examples).
 
-I wanted to get the actual subs complete and I am happy to say that the main subs for 61 to 75 are now done with full styling! After that I decided to go back to the start to style/do signs.
-
-I did pretty well in recreating episode 1. Everything is there with all the quirks of early E-F subs. From episode 2 onwards, I have changed the titles to the later versions that R-F did as it looks far better. I just decided to do Episode 1 exactly the same style as E-F for a homage.
-
-The subbing for the ending Igo sections is not what what E-F/R-F had so they also have to get resubbed. I want to make it clear that all ending Igo is now done but just non E-F/R-F versions for the majority. Anything I did with a full green (or blue tick) tick is E-F/R-F Igo.
+I wanted to get the actual subs done and I am happy to say that on January 2nd 2026, the main subs for 62 to 75 were complete! After that I decided to go back to the start to style/do signs and check timing for what gabest11 had done.
 
 I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
@@ -46,25 +42,23 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 
 2: Perfectly recreated the episode 75 ending karaoke! This was the last big hurdle for a successful sub. It's very nice go check it out!
 
-3: Perfectly recreated the episode title animations. These will be put on all episodes (as talked about above).
+3: Perfectly recreated the episode title card animations.
 
 4: Intro and ending karaoke for the special as well as the intro text.
 
 5: Intro texts such as "Elite-Fansubs presents" and "Real-Fansubbers presents".
 
-It's funny because even with the subs in this state, it's by far the best subs for this anime. At the bare minimum you get the subs already available elsewhere with a complete ending Igo, but you also get the added opening and ending karaoke parts from start to finish for every episode.
-
-As I type it's January 2nd 2026. Having to go retime and style 3-61 plus properly sub the Igo sections is a big task. I'm glad I put enough effort in to have this in a state where it's basically just a time investment now.
-
-If anyone ever sees this and has a passion to properly finish, I'd like to see it done. If you think you can help, you can reach me at gameinn1 on Discord or make an Issue in the tab. If you need it visualized of what work needs to be done, below is a table. I've also put up a full changelog pdf and an indepth "everything yet to do" pdf (easier to read).
+The subbing for the ending Igo sections is not what what E-F/R-F had so they also have to get resubbed. I want to make it clear that all ending Igo is now done but just non E-F/R-F versions for the majority. Anything I did with a full green (or blue tick) tick is E-F/R-F Igo.
 
 Update: January 4th 2026. I've decided to restore the AonE subs for the New Year Special (Episode 76). This will be uploaded to give more eyes on the project. It's over an hour and I have to start from scratch so probably a week or so. The current DVD/Blu-Ray subs are bad (mainly timing wise) and needs done.
 
-Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully subbed! As for the main episodes, I may consider doing an episode per week (starting from 3) but for now I am looking at getting the special uploaded to get more eyes on the project.
+Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully subbed! I am looking at getting the special uploaded to get more eyes on the project.
 
-Update: January 28th 2026. Special is uploaded and I am working my way through gabest11 episodes now. I have done up till episode 10.
+Update: January 28th 2026. Special is uploaded and I am working my way through gabest11 episodes. I have done up till episode 10.
 
 Update: February 7th 2026. Timed and styled up till ep 12, doing 13 now. Thanks to llbx who did some intro texts which have all been put on current episodes.
+
+Update: February 24th 2026. Made some good progress. I decided to dedicate all of February to this. I have now checked subs, ammended timing when needed and styled up till episode 46 for the main anime.
 
 ### Status Legend
 - ✅ Complete
