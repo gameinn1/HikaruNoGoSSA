@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 18
-Video Position: 3925
+Video Zoom Percent: 0.625000
+Scroll Position: 126
+Active Line: 135
+Video Position: 14691
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -110,113 +111,121 @@ Dialogue: 0,0:02:37.22,0:02:39.77,Default,,0,0,0,,So what you're saying is\Nthat
 Dialogue: 0,0:02:41.81,0:02:42.72,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:02:47.11,0:02:52.03,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(285,115)}The Fiftieth Match
 Dialogue: 0,0:02:47.11,0:02:52.03,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Sai of the Fujiwara
-Dialogue: 0,0:02:59.39,0:03:00.38,Default,,0,0,0,,Why did god...
-Dialogue: 0,0:03:01.14,0:03:05.07,Default,,0,0,0,,revive me in Hikaru's mind?
-Dialogue: 0,0:03:10.99,0:03:11.99,Default,,0,0,0,,It's true
-Dialogue: 0,0:03:12.34,0:03:14.10,Default,,0,0,0,,Hikaru is growing very quickly,
-Dialogue: 0,0:03:15.02,0:03:20.24,Default,,0,0,0,,and it brings me both pride and joy in teaching him...
-Dialogue: 0,0:03:21.85,0:03:22.80,Default,,0,0,0,,But,
-Dialogue: 0,0:03:22.80,0:03:23.90,Default,,0,0,0,,what about...
-Dialogue: 0,0:03:24.47,0:03:25.74,Default,,0,0,0,,What about my Go?
-Dialogue: 0,0:03:39.37,0:03:40.87,Default,,0,0,0,,I hate this existence.
-Dialogue: 0,0:03:43.38,0:03:45.91,Default,,0,0,0,,The chance to play him finally came...
-Dialogue: 0,0:03:48.31,0:03:52.61,Default,,0,0,0,,The game against him when I was supposed to master the divine move...
-Dialogue: 0,0:03:56.18,0:03:57.14,Default,,0,0,0,,But...
-Dialogue: 0,0:03:57.75,0:03:59.16,Default,,0,0,0,,I couldn't do it.
-Dialogue: 0,0:04:00.81,0:04:03.13,Default,,0,0,0,,In a game that I couldn't play as myself,
-Dialogue: 0,0:04:04.23,0:04:09.17,Default,,0,0,0,,I couldn't head for that divine height with him.
-Dialogue: 0,0:04:26.15,0:04:28.44,Default,,0,0,0,,If I cannot master the divine move...
-Dialogue: 0,0:04:29.39,0:04:31.97,Default,,0,0,0,,Why am I here?
-Dialogue: 0,0:04:34.88,0:04:36.93,Default,,0,0,0,,How long am I supposed to wait?
-Dialogue: 0,0:04:40.22,0:04:41.27,Default,,0,0,0,,A thousand years ago...
-Dialogue: 0,0:04:42.80,0:04:44.82,Default,,0,0,0,,Everything began from there.
-Dialogue: 0,0:04:49.73,0:04:51.07,Default,,0,0,0,,Every day...
-Dialogue: 0,0:04:51.91,0:04:54.25,Default,,0,0,0,,I played Go within the palace.
-Dialogue: 0,0:04:55.39,0:04:56.22,Default,,0,0,0,,But...
-Dialogue: 0,0:04:56.87,0:04:59.09,Default,,0,0,0,,When I played the other tutor that His Majesty had,
-Dialogue: 0,0:04:59.71,0:05:04.08,Default,,0,0,0,,In a match to decide who would become the only tutor for His Majesty...
-Dialogue: 0,0:05:18.11,0:05:21.95,Default,,0,0,0,,He placed a white stone that was hidden among his stones,
-Dialogue: 0,0:05:22.56,0:05:26.11,Default,,0,0,0,,In his Agehama during a moment when everyone was distracted.
-Dialogue: 0,0:05:27.55,0:05:29.54,Default,,0,0,0,,When I tried to raise my voice...
-Dialogue: 0,0:05:30.43,0:05:31.31,Default,,0,0,0,,You...
-Dialogue: 0,0:05:31.58,0:05:32.30,Default,,0,0,0,,just...
-Dialogue: 0,0:05:33.65,0:05:34.41,Default,,0,0,0,,Hey!
-Dialogue: 0,0:05:34.71,0:05:39.16,Default,,0,0,0,,You! You just placed a black stone from your Goke into your Agehama!
-Dialogue: 0,0:05:39.25,0:05:41.72,Default,,0,0,0,,W-What?
-Dialogue: 0,0:05:41.72,0:05:44.24,Default,,0,0,0,,That is what you just did!
-Dialogue: 0,0:05:44.36,0:05:46.91,Default,,0,0,0,,What a stupid excuse that is.
-Dialogue: 0,0:05:47.12,0:05:54.02,Default,,0,0,0,,You just placed a black stone that was hidden in your Goke into your Agehama when everyone's attention was on the board!
-Dialogue: 0,0:05:54.40,0:05:55.94,Default,,0,0,0,,You are the one making excuses!
-Dialogue: 0,0:05:55.94,0:05:57.80,Default,,0,0,0,,Stop it. Quiet.
-Dialogue: 0,0:05:59.38,0:06:04.81,Default,,0,0,0,,I do not wish to even consider that such a dishonest act has occurred before me.
-Dialogue: 0,0:06:05.46,0:06:06.68,Default,,0,0,0,,Continue.
-Dialogue: 0,0:06:09.56,0:06:10.93,Default,,0,0,0,,I lost.
-Dialogue: 0,0:06:12.58,0:06:15.89,Default,,0,0,0,,I could not contain my anger.
-Dialogue: 0,0:06:18.48,0:06:21.57,Default,,0,0,0,,I was charged with cheating during the game
-Dialogue: 0,0:06:22.35,0:06:24.25,Default,,0,0,0,,and driven out of the capital.
-Dialogue: 0,0:06:25.10,0:06:26.87,Default,,0,0,0,,I no longer had a reason to live.
-Dialogue: 0,0:06:34.13,0:06:35.68,Default,,0,0,0,,Two days after the match...
-Dialogue: 0,0:06:36.62,0:06:38.19,Default,,0,0,0,,I drowned myself.
-Dialogue: 0,0:06:38.94,0:06:39.62,Default,,0,0,0,,But...
-Dialogue: 0,0:06:40.34,0:06:43.01,Default,,0,0,0,,I wanted to play Go a lot more.
-Dialogue: 0,0:06:46.73,0:06:48.87,Default,,0,0,0,,My soul, unable to find peace,
-Dialogue: 0,0:06:49.37,0:06:50.68,Default,,0,0,0,,possessed a Go board,
-Dialogue: 0,0:06:51.48,0:06:52.96,Default,,0,0,0,,and after a long period of time
-Dialogue: 0,0:06:53.63,0:06:55.94,Default,,0,0,0,,heard a voice of a young boy
-Dialogue: 0,0:06:56.69,0:06:58.87,Default,,0,0,0,,on Innoshima, within the Sea of Seto.
-Dialogue: 0,0:07:00.65,0:07:01.51,Default,,0,0,0,,He was...
-Dialogue: 0,0:07:02.45,0:07:03.30,Default,,0,0,0,,Torajirou.
-Dialogue: 0,0:07:05.70,0:07:06.79,Default,,0,0,0,,Young boy,
-Dialogue: 0,0:07:07.60,0:07:10.49,Default,,0,0,0,,If you can see the tears of grief that I shed,
-Dialogue: 0,0:07:11.13,0:07:15.21,Default,,0,0,0,,let me dwell in a corner of your mind.
-Dialogue: 0,0:07:17.56,0:07:22.53,Default,,0,0,0,,I was able to play Go as much as I wished, together with him.
-Dialogue: 0,0:07:23.74,0:07:28.19,Default,,0,0,0,,He changed his name to Shuusaku, and became the successor to the Honinbou.
-Dialogue: 0,0:07:29.17,0:07:33.75,Default,,0,0,0,,I believed that I would be able to master the divine move together with him.
-Dialogue: 0,0:07:38.85,0:07:39.69,Default,,0,0,0,,But...
-Dialogue: 0,0:07:40.52,0:07:42.35,Default,,0,0,0,,he could not defeat disease and...
-Dialogue: 0,0:07:46.78,0:07:47.61,Default,,0,0,0,,Torajirou...
-Dialogue: 0,0:07:48.30,0:07:49.65,Default,,0,0,0,,Honinbou Shuusaku...
-Dialogue: 0,0:07:51.49,0:07:55.74,Default,,0,0,0,,I will never forget the time that I spent with him...
-Dialogue: 0,0:07:58.46,0:07:59.62,Default,,0,0,0,,Never...
-Dialogue: 0,0:07:59.62,0:08:01.12,Default,,0,0,0,,Sai...
-Dialogue: 0,0:08:03.99,0:08:05.79,Default,,0,0,0,,So that's how you want to play it...
-Dialogue: 0,0:08:08.95,0:08:09.68,Default,,0,0,0,,Yes...
-Dialogue: 0,0:08:10.39,0:08:13.48,Default,,0,0,0,,and then you appeared before me.
-Dialogue: 0,0:08:16.68,0:08:19.75,Default,,0,0,0,,This stain just won't come off.
-Dialogue: 0,0:08:20.78,0:08:23.32,Default,,0,0,0,,There's no stain. It's clean.
-Dialogue: 0,0:08:24.22,0:08:24.95,Default,,0,0,0,,This.
-Dialogue: 0,0:08:26.47,0:08:27.14,Default,,0,0,0,,Where?
-Dialogue: 0,0:08:27.14,0:08:28.03,Default,,0,0,0,,Here!
-Dialogue: 0,0:08:29.59,0:08:31.50,Default,,0,0,0,,There's nothing. Where!?
-Dialogue: 0,0:08:31.86,0:08:33.27,Default,,0,0,0,,Here!
-Dialogue: 0,0:08:33.45,0:08:34.61,Default,,0,0,0,,Can you see it?
-Dialogue: 0,0:08:34.77,0:08:36.69,Default,,0,0,0,,That's what I've been saying...
-Dialogue: 0,0:08:36.78,0:08:38.70,Default,,0,0,0,,Can you hear a voice!?
-Dialogue: 0,0:08:40.67,0:08:42.72,Default,,0,0,0,,You can hear my voice, can't you?
-Dialogue: 0,0:08:43.70,0:08:45.49,Default,,0,0,0,,There's nothing...
+Dialogue: 0,0:02:59.37,0:03:00.38,Sai,,0,0,0,,Why did God...
+Dialogue: 0,0:03:01.12,0:03:05.07,Sai,,0,0,0,,revive me in Hikaru's mind?
+Dialogue: 0,0:03:10.96,0:03:11.99,Sai,,0,0,0,,It's true that
+Dialogue: 0,0:03:12.34,0:03:14.10,Sai,,0,0,0,,Hikaru is growing very quickly,
+Dialogue: 0,0:03:15.02,0:03:20.24,Sai,,0,0,0,,and it brings me both\Npride and joy in teaching him...
+Dialogue: 0,0:03:21.85,0:03:22.52,Sai,,0,0,0,,But,
+Dialogue: 0,0:03:22.77,0:03:23.85,Sai,,0,0,0,,what about...
+Dialogue: 0,0:03:24.43,0:03:25.74,Sai,,0,0,0,,what about my Go?
+Dialogue: 0,0:03:39.37,0:03:40.87,Sai,,0,0,0,,I hate this existence.
+Dialogue: 0,0:03:43.38,0:03:45.91,Sai,,0,0,0,,The chance to play him finally came...
+Dialogue: 0,0:03:48.31,0:03:52.61,Sai,,0,0,0,,the game against him when I was\Nsupposed to master the divine move...
+Dialogue: 0,0:03:56.18,0:03:56.97,Sai,,0,0,0,,But...
+Dialogue: 0,0:03:57.75,0:03:59.16,Sai,,0,0,0,,I couldn't do it.
+Dialogue: 0,0:04:00.81,0:04:03.13,Sai,,0,0,0,,In a game that I couldn't play as myself,
+Dialogue: 0,0:04:04.23,0:04:09.17,Sai,,0,0,0,,I couldn't head for that divine height with him.
+Dialogue: 0,0:04:26.12,0:04:28.44,Sai,,0,0,0,,If I cannot master the divine move...
+Dialogue: 0,0:04:29.39,0:04:31.97,Sai,,0,0,0,,why am I here?
+Dialogue: 0,0:04:34.88,0:04:36.93,Sai,,0,0,0,,How long am I supposed to wait?
+Dialogue: 0,0:04:40.22,0:04:41.27,Sai,,0,0,0,,A thousand years ago...
+Dialogue: 0,0:04:42.80,0:04:44.82,Sai,,0,0,0,,Everything began from there.
+Dialogue: 0,0:04:49.73,0:04:51.07,Sai,,0,0,0,,Every day...
+Dialogue: 0,0:04:51.91,0:04:54.25,Sai,,0,0,0,,I played Go within the palace.
+Dialogue: 0,0:04:55.36,0:04:56.22,Sai,,0,0,0,,But...
+Dialogue: 0,0:04:56.87,0:04:59.20,Sai,,0,0,0,,when I played the other tutor that His Majesty had,
+Dialogue: 0,0:04:59.71,0:05:04.08,Sai,,0,0,0,,in a match to decide who would\Nbecome the only tutor for His Majesty...
+Dialogue: 0,0:05:18.09,0:05:21.95,Sai,,0,0,0,,he placed a white stone that\Nwas hidden among his stones,
+Dialogue: 0,0:05:22.56,0:05:26.11,Sai,,0,0,0,,in his Agehama during a moment\Nwhen everyone else was distracted.
+Dialogue: 0,0:05:27.52,0:05:29.54,Sai,,0,0,0,,When I tried to raise my voice...
+Dialogue: 0,0:05:30.43,0:05:31.31,Sai,,0,0,0,,You...
+Dialogue: 0,0:05:31.58,0:05:32.30,Sai,,0,0,0,,just...
+Dialogue: 0,0:05:33.65,0:05:34.41,Sai,,0,0,0,,Hey!
+Dialogue: 0,0:05:34.69,0:05:39.19,Default,,0,0,0,,You! You just placed a black stone\Nfrom your Goke into your Agehama!
+Dialogue: 0,0:05:39.19,0:05:41.70,Sai,,0,0,0,,W-What?
+Dialogue: 0,0:05:41.70,0:05:44.07,Sai,,0,0,0,,That is what you just did!
+Dialogue: 0,0:05:44.32,0:05:46.91,Default,,0,0,0,,What a stupid excuse that is.
+Dialogue: 0,0:05:47.12,0:05:49.91,Background,,0,0,0,,You just placed a black stone that was\Nhidden in your Goke into your Agehama
+Dialogue: 0,0:05:50.25,0:05:54.00,Background,,0,0,0,,when everyone's attention was on the board!
+Dialogue: 0,0:05:54.38,0:05:55.94,Sai,,0,0,0,,You are the one making excuses!
+Dialogue: 0,0:05:55.94,0:05:57.80,Background,,0,0,0,,Stop it. Quiet.
+Dialogue: 0,0:05:59.38,0:06:04.81,Default,,0,0,0,,I do not wish to even consider that such\Na dishonest act has occurred before me.
+Dialogue: 0,0:06:05.43,0:06:06.68,Default,,0,0,0,,Continue.
+Dialogue: 0,0:06:09.56,0:06:10.93,Sai,,0,0,0,,I lost.
+Dialogue: 0,0:06:12.58,0:06:15.89,Sai,,0,0,0,,I could not contain my anger.
+Dialogue: 0,0:06:18.48,0:06:21.57,Sai,,0,0,0,,I was charged with cheating during the game
+Dialogue: 0,0:06:22.32,0:06:24.25,Sai,,0,0,0,,and driven out of the capital.
+Dialogue: 0,0:06:25.07,0:06:26.87,Sai,,0,0,0,,I no longer had a reason to live.
+Dialogue: 0,0:06:34.13,0:06:35.68,Sai,,0,0,0,,Two days after the match...
+Dialogue: 0,0:06:36.62,0:06:38.19,Sai,,0,0,0,,I drowned myself.
+Dialogue: 0,0:06:38.94,0:06:39.62,Sai,,0,0,0,,But...
+Dialogue: 0,0:06:40.34,0:06:43.01,Sai,,0,0,0,,I wanted to play Go a lot more.
+Dialogue: 0,0:06:46.73,0:06:48.87,Sai,,0,0,0,,My soul, unable to find peace,
+Dialogue: 0,0:06:49.35,0:06:50.68,Sai,,0,0,0,,possessed a Go board,
+Dialogue: 0,0:06:51.48,0:06:52.96,Sai,,0,0,0,,and after a long period of time
+Dialogue: 0,0:06:53.63,0:06:55.94,Sai,,0,0,0,,heard a voice of a young boy
+Dialogue: 0,0:06:56.69,0:06:58.87,Sai,,0,0,0,,on Innoshima, within the sea of Seto.
+Dialogue: 0,0:07:00.65,0:07:01.51,Sai,,0,0,0,,He was...
+Dialogue: 0,0:07:02.45,0:07:03.30,Sai,,0,0,0,,Torajirou.
+Dialogue: 0,0:07:05.70,0:07:06.79,Memory,,0,0,0,,Young boy,
+Dialogue: 0,0:07:07.57,0:07:10.49,Memory,,0,0,0,,if you can see the tears of grief that I shed,
+Dialogue: 0,0:07:11.13,0:07:15.21,Memory,,0,0,0,,let me dwell in a corner of your mind.
+Dialogue: 0,0:07:17.56,0:07:22.53,Sai,,0,0,0,,I was able to play Go as much\Nas I wished, together with him.
+Dialogue: 0,0:07:23.74,0:07:28.19,Sai,,0,0,0,,He changed his name to Shuusaku, and\Nbecame the successor to the Honinbou.
+Dialogue: 0,0:07:29.17,0:07:33.75,Sai,,0,0,0,,I believed that I would be able to\Nmaster the divine move together with him.
+Dialogue: 0,0:07:38.85,0:07:39.69,Sai,,0,0,0,,But...
+Dialogue: 0,0:07:40.52,0:07:42.35,Sai,,0,0,0,,he could not defeat disease and...
+Dialogue: 0,0:07:46.78,0:07:47.61,Sai,,0,0,0,,Torajirou...
+Dialogue: 0,0:07:48.30,0:07:49.65,Sai,,0,0,0,,Honinbou Shuusaku...
+Dialogue: 0,0:07:51.45,0:07:55.74,Sai,,0,0,0,,I will never forget the time that I spent with him...
+Dialogue: 0,0:07:58.42,0:07:59.38,Sai,,0,0,0,,Never...
+Dialogue: 0,0:07:59.62,0:08:01.04,Background,,0,0,0,,Sai...
+Dialogue: 0,0:08:03.96,0:08:05.92,Default,,0,0,0,,So that's how you want to play it...
+Dialogue: 0,0:08:08.95,0:08:09.68,Sai,,0,0,0,,Yes...
+Dialogue: 0,0:08:10.39,0:08:13.48,Sai,,0,0,0,,and then you appeared before me.
+Dialogue: 0,0:08:16.68,0:08:19.75,Background,,0,0,0,,This stain just won't come off.
+Dialogue: 0,0:08:20.78,0:08:23.32,Background,,0,0,0,,There's no stain. It's clean.
+Dialogue: 0,0:08:24.22,0:08:24.95,Background,,0,0,0,,This.
+Dialogue: 0,0:08:26.44,0:08:27.14,Default,,0,0,0,,Where?
+Dialogue: 0,0:08:27.14,0:08:28.03,Background,,0,0,0,,Here!
+Dialogue: 0,0:08:29.59,0:08:31.24,Default,,0,0,0,,There's nothing. Where!?
+Dialogue: 0,0:08:31.82,0:08:33.24,Default,,0,0,0,,Here!
+Dialogue: 0,0:08:33.41,0:08:34.61,Sai,,0,0,0,,Can you see it?
+Dialogue: 0,0:08:34.74,0:08:36.69,Background,,0,0,0,,That's what I've been saying...
+Dialogue: 0,0:08:36.75,0:08:38.70,Sai,,0,0,0,,Can you hear my voice!?
+Dialogue: 0,0:08:40.67,0:08:42.72,Sai,,0,0,0,,You can hear my voice, can't you?
+Dialogue: 0,0:08:43.67,0:08:45.49,Default,,0,0,0,,There's nothing...
 Dialogue: 0,0:08:47.77,0:08:48.66,Default,,0,0,0,,Who are you!?
-Dialogue: 0,0:08:50.91,0:08:52.13,Default,,0,0,0,,The gods before me...
-Dialogue: 0,0:08:53.35,0:08:54.59,Default,,0,0,0,,I thank you.
-Dialogue: 0,0:08:55.45,0:08:56.45,Default,,0,0,0,,Now I can...
-Dialogue: 0,0:08:57.41,0:08:58.41,Default,,0,0,0,,I can...
-Dialogue: 0,0:09:00.87,0:09:02.96,Default,,0,0,0,,I can return to the present world,
-Dialogue: 0,0:09:04.05,0:09:05.51,Default,,0,0,0,,once more.
-Dialogue: 0,0:09:21.76,0:09:22.51,Default,,0,0,0,,But...
-Dialogue: 0,0:09:22.84,0:09:25.07,Default,,0,0,0,,I was concerned at first.
-Dialogue: 0,0:09:25.91,0:09:29.68,Default,,0,0,0,,After all, Hikaru, you had never played Go before.
-Dialogue: 0,0:09:30.58,0:09:32.22,Default,,0,0,0,,You like Go that much?
-Dialogue: 0,0:09:32.22,0:09:32.80,Default,,0,0,0,,Yes!
-Dialogue: 0,0:09:32.80,0:09:33.81,Default,,0,0,0,,You still want to play Go?
-Dialogue: 0,0:09:33.81,0:09:34.61,Default,,0,0,0,,Yes!
+Dialogue: 0,0:08:50.89,0:08:52.13,Sai,,0,0,0,,The gods before me...
+Dialogue: 0,0:08:53.35,0:08:54.59,Sai,,0,0,0,,I thank you.
+Dialogue: 0,0:08:55.45,0:08:56.56,Sai,,0,0,0,,Now I can...
+Dialogue: 0,0:08:57.41,0:08:58.23,Sai,,0,0,0,,I can...
+Dialogue: 0,0:09:00.87,0:09:02.81,Sai,,0,0,0,,I can return to the present world,
+Dialogue: 0,0:09:04.02,0:09:05.51,Sai,,0,0,0,,once more.
+Dialogue: 0,0:09:21.76,0:09:22.51,Sai,,0,0,0,,But...
+Dialogue: 0,0:09:22.84,0:09:25.07,Sai,,0,0,0,,I was concerned at first.
+Dialogue: 0,0:09:25.88,0:09:29.68,Sai,,0,0,0,,After all, Hikaru, you had never played Go before.
+Dialogue: 0,0:09:30.55,0:09:32.64,Default,,0,0,0,,You like Go that much?
+Dialogue: 0,0:09:32.18,0:09:32.64,Sai,,0,0,0,,Yes!
+Dialogue: 0,0:09:32.76,0:09:34.51,Default,,0,0,0,,You still want to play Go?
+Dialogue: 0,0:09:33.81,0:09:34.51,Sai,,0,0,0,,Yes!
 Dialogue: 0,0:09:34.61,0:09:38.76,Default,,0,0,0,,Too bad, I have no intentions of playing Go.
 Dialogue: 0,0:09:43.57,0:09:44.35,Default,,0,0,0,,Hikaru!
-Dialogue: 0,0:09:44.44,0:09:45.50,Default,,0,0,0,,Shindou-kun!
+Dialogue: 0,0:09:44.44,0:09:45.31,Default,,0,0,0,,Shindou-kun!
 Dialogue: 0,0:09:52.39,0:09:56.09,Default,,0,0,0,,Say, can't you possess someone other than me?
-Dialogue: 0,0:09:56.27,0:09:57.26,Default,,0,0,0,,Probably not...
-Dialogue: 0,0:10:02.68,0:10:05.80,Default,,0,0,0,,Fine, I guess it would be okay to play once in a while.
-Dialogue: 0,0:10:08.69,0:10:09.65,Default,,0,0,0,,And!? And!?
-Dialogue: 0,0:10:09.89,0:10:11.34,Default,,0,0,0,,Where are we playing?
-Dialogue: 0,0:10:11.62,0:10:12.58,Default,,0,0,0,,In a Go salon.
+Dialogue: 0,0:09:56.27,0:09:57.26,Sai,,0,0,0,,Probably not...
+Dialogue: 0,0:10:02.68,0:10:05.80,Background,,0,0,0,,Fine, I guess it would be\Nokay to play once in a while.
+Dialogue: 0,0:10:08.69,0:10:09.65,Sai,,0,0,0,,And!? And!?
+Dialogue: 0,0:10:09.89,0:10:11.34,Sai,,0,0,0,,Where are we playing?
+Dialogue: 0,0:10:11.59,0:10:12.72,Background,,0,0,0,,In a Go Salon.
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs13\an6\bord0\fscy150\1c&H000000&\pos(197,62)}Domestic and international\Ntravel
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs23\an6\fscx120\bord0\1c&H000000&\pos(197,105)}Sky Blue\NTravel
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs13\an6\bord0\fscy150\1c&H000000&\pos(197,136)}Tours of various locales -- Rental
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs32\an6\fscx120\fscy90\bord0\1c&H000000&\pos(197,249)}Go\NSalon
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs14\an6\bord0\fscy150\fscx115\1c&H000000&\pos(197,310)}Weekdays\N1PM~10PM\NWeekends 12PM~9PM
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs19\an6\fscy110\bord0\1c&H000000&\pos(197,425)}Hair\NStudio
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs35\an6\bord0\fscx150\fscy70\1c&H000000&\pos(197,457)}JOY
 Dialogue: 0,0:10:17.61,0:10:19.63,Default,,0,0,0,,Wow, It's filled with old men.
 Dialogue: 0,0:10:20.83,0:10:22.28,Default,,0,0,0,,Oh there's another kid.
 Dialogue: 0,0:10:22.36,0:10:23.43,Default,,0,0,0,,Can I play him?
