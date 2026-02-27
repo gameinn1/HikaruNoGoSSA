@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 357
-Active Line: 377
-Video Position: 29783
+Video Zoom Percent: 0.625000
+Scroll Position: 100
+Active Line: 116
+Video Position: 9885
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -139,54 +139,74 @@ Dialogue: 0,0:03:07.19,0:03:09.15,Default,,0,0,0,,Big... teai...?
 Dialogue: 0,0:03:13.36,0:03:18.42,Default,,0,0,0,,Really, I've never seen someone as stupid as he is.\NHe doesn't even know how to keep time.
 Dialogue: 0,0:03:18.42,0:03:20.64,Default,,0,0,0,,You're not in a position to call anyone an idiot,\NWaya.
 Dialogue: 0,0:03:22.85,0:03:26.64,Default,,0,0,0,,An Ooteai is a match to decide a player's rating.
-Dialogue: 0,0:03:27.15,0:03:30.27,Default,,0,0,0,,He became a pro before he learned what an Ooteai is.
-Dialogue: 0,0:03:30.54,0:03:34.10,Default,,0,0,0,,Shindou-kun's improvement at the game is incredible.
-Dialogue: 0,0:03:34.29,0:03:39.65,Default,,0,0,0,,I agree. I have a hard time believing that he went to my Go class just a short while ago.
-Dialogue: 0,0:03:39.94,0:03:43.04,Default,,0,0,0,,Well, he did have a wonderful teacher.
+Dialogue: 0,0:03:27.15,0:03:30.15,Default,,0,0,0,,He became a pro before he learned what an Ooteai\Nis.
+Dialogue: 0,0:03:30.54,0:03:34.10,Default,,0,0,0,,Shindou-kun's improvement at the game is\Nincredible.
+Dialogue: 0,0:03:34.29,0:03:39.65,Default,,0,0,0,,I agree. I have a hard time believing that he went\Nto my Go class just a short while ago.
+Dialogue: 0,0:03:39.94,0:03:43.04,Sai,,0,0,0,,Well, he did have a wonderful teacher.
 Dialogue: 0,0:03:43.24,0:03:44.37,Thinking,,0,0,0,,Whatever.
 Dialogue: 0,0:03:45.13,0:03:47.45,Default,,0,0,0,,Well, I'm just glad that you both passed.
 Dialogue: 0,0:03:47.78,0:03:50.03,Default,,0,0,0,,I guess you're competing with us now.
-Dialogue: 0,0:03:51.39,0:03:55.68,Default,,0,0,0,,But for the time being, the only people you will be playing will be lower dan players.
+Dialogue: 0,0:03:51.39,0:03:55.68,Default,,0,0,0,,But for the time being, the only people you will be\Nplaying will be lower dan players.
 Dialogue: 0,0:03:56.47,0:03:57.89,Default,,0,0,0,,Get some practice there.
-Dialogue: 0,0:03:59.60,0:04:03.57,Default,,0,0,0,,Umm... what do you mean by Ooteai deciding your rating?
+Dialogue: 0,0:03:59.60,0:04:03.43,Default,,0,0,0,,Umm... what do you mean by Ooteai deciding your\Nrating?
 Dialogue: 0,0:04:03.82,0:04:06.94,Default,,0,0,0,,You'll play ten or so Ooteai matches every year.
-Dialogue: 0,0:04:07.31,0:04:09.83,Default,,0,0,0,,Whether your dan rating increases or not is decided by how well you do.
-Dialogue: 0,0:04:10.19,0:04:12.06,Default,,0,0,0,,Saeki-kun is 4-dan right now.
+Dialogue: 0,0:04:07.31,0:04:09.83,Default,,0,0,0,,Whether your dan rating increases or not is decided\Nby how well you do.
+Dialogue: 0,0:04:10.19,0:04:12.06,Background,,0,0,0,,Saeki-kun is 4-dan right now.
 Dialogue: 0,0:04:12.92,0:04:14.90,Default,,0,0,0,,Tsuduki-san and I are both 7-dan.
 Dialogue: 0,0:04:15.41,0:04:18.15,Default,,0,0,0,,I want to rise to 5-dan already.
-Dialogue: 0,0:04:18.56,0:04:22.25,Default,,0,0,0,,Say Saeki, Isn't Ashiwara from Touya's study sessions also 4-dan?
-Dialogue: 0,0:04:22.45,0:04:24.28,Default,,0,0,0,,You have to rise to 5-dan before he does.
-Dialogue: 0,0:04:24.96,0:04:28.37,Default,,0,0,0,,Master, why do you always make us compete against them?
+Dialogue: 0,0:04:18.56,0:04:22.25,Default,,0,0,0,,Say Saeki, isn't Ashiwara from Touya's study\Nsessions also 4-dan?
+Dialogue: 0,0:04:22.41,0:04:24.33,Default,,0,0,0,,You have to rise to 5-dan before he does.
+Dialogue: 0,0:04:24.96,0:04:28.37,Default,,0,0,0,,Master, why do you always make us compete\Nagainst them?
 Dialogue: 0,0:04:28.70,0:04:30.78,Default,,0,0,0,,First you have to play your Ooteai match.
-Dialogue: 0,0:04:30.78,0:04:36.08,Default,,0,0,0,,Then once Summer starts, you'll have to play in the preliminaries for many title matches.
-Dialogue: 0,0:04:36.47,0:04:39.38,Default,,0,0,0,,You'll probably play two or three matches a month.
-Dialogue: 0,0:04:39.72,0:04:42.01,Default,,0,0,0,,Oh, that's all?
-Dialogue: 0,0:04:42.44,0:04:46.02,Default,,0,0,0,,You'll be playing more whether you want to or not, if you pass the preliminaries.
-Dialogue: 0,0:04:46.34,0:04:50.99,Default,,0,0,0,,Touya Akira has already moved up to the second preliminary round for the Honinbou title, and the Meijin title.
-Dialogue: 0,0:04:51.23,0:04:53.53,Default,,0,0,0,,He'll be playing more and more matches as time goes on.
-Dialogue: 0,0:04:53.75,0:04:55.56,Default,,0,0,0,,He's the center of attention.
+Dialogue: 0,0:04:30.78,0:04:35.88,Default,,0,0,0,,Then once summer starts, you'll have to play in the\Npreliminaries for many title matches.
+Dialogue: 0,0:04:36.47,0:04:39.38,Background,,0,0,0,,You'll probably play two or three matches a month.
+Dialogue: 0,0:04:39.72,0:04:41.89,Default,,0,0,0,,Oh, that's all?
+Dialogue: 0,0:04:42.44,0:04:46.02,Default,,0,0,0,,You'll be playing more whether you want to or not,\Nif you pass the preliminaries.
+Dialogue: 0,0:04:46.31,0:04:48.89,Background,,0,0,0,,Touya Akira has already moved up to the second\Npreliminary round
+Dialogue: 0,0:04:48.98,0:04:51.15,Background,,0,0,0,,for the Honinbou title, and the Meijin title.
+Dialogue: 0,0:04:51.19,0:04:53.61,Background,,0,0,0,,He'll be playing more and more matches as time\Ngoes on.
+Dialogue: 0,0:04:53.75,0:04:55.56,Background,,0,0,0,,He's the center of attention.
 Dialogue: 0,0:04:57.92,0:05:01.83,Default,,0,0,0,,Ahh! One of you stop Touya Akira!
-Dialogue: 0,0:05:02.59,0:05:07.04,Default,,0,0,0,,Saeki-san, you can't talk about Touya in front of the master.
+Dialogue: 0,0:05:02.59,0:05:07.04,Default,,0,0,0,,Saeki-san, you can't talk about the Touyas in front\Nof the master.
 Dialogue: 0,0:05:17.27,0:05:19.67,Default,,0,0,0,,It doesn't suit you.
 Dialogue: 0,0:05:20.27,0:05:22.74,Default,,0,0,0,,I don't care. Today is a special occasion.
-Dialogue: 0,0:05:23.09,0:05:27.08,Default,,0,0,0,,I have to go to the new first dan umm... classification ceremony.
-Dialogue: 0,0:05:27.62,0:05:29.57,Default,,0,0,0,,You mean the new first dan certification ceremony.
+Dialogue: 0,0:05:23.09,0:05:27.08,Default,,0,0,0,,I have to go to the new first dan umm...\Nclassification ceremony.
+Dialogue: 0,0:05:27.56,0:05:29.81,Default,,0,0,0,,You mean the new first dan certification ceremony.
 Dialogue: 0,0:05:31.58,0:05:34.29,Default,,0,0,0,,Besides, you really shouldn't be wearing a necktie.
 Dialogue: 0,0:05:34.71,0:05:37.27,Default,,0,0,0,,And you're only in Junior High, too.
-Dialogue: 0,0:05:38.96,0:05:42.75,Default,,0,0,0,,Ochi's in Junior High, too. Touya's in Junior High as well.
-Dialogue: 0,0:05:43.58,0:05:45.16,Default,,0,0,0,,What kind of profession is that?
-Dialogue: 0,0:05:45.65,0:05:50.16,Default,,0,0,0,,I'm so worried about you. Did you remember you application and resume?
-Dialogue: 0,0:05:50.69,0:05:51.47,Default,,0,0,0,,Yup.
+Dialogue: 0,0:05:38.96,0:05:42.75,Default,,0,0,0,,Ochi's in Junior High, too. Touya's in Junior High as\Nwell.
+Dialogue: 0,0:05:43.53,0:05:45.16,Default,,0,0,0,,What kind of a profession is that?
+Dialogue: 0,0:05:45.62,0:05:50.16,Default,,0,0,0,,I'm so worried about you. Did you remember your\Napplication and resumé?
+Dialogue: 0,0:05:50.66,0:05:51.41,Background,,0,0,0,,Yup.
 Dialogue: 0,0:05:57.10,0:06:00.52,Default,,0,0,0,,Oh yeah, Saeki-san said to open up a bank account.
 Dialogue: 0,0:06:00.66,0:06:05.25,Default,,0,0,0,,Bank account? Oh, they're going to wire money in.
-Dialogue: 0,0:06:05.72,0:06:06.46,Default,,0,0,0,,Yup.
-Dialogue: 0,0:06:06.46,0:06:10.59,Default,,0,0,0,,Oh, and this won't be for awhile, but I'll have to file tax refunds, too.
+Dialogue: 0,0:06:05.68,0:06:06.43,Default,,0,0,0,,Yup.
+Dialogue: 0,0:06:06.43,0:06:10.59,Default,,0,0,0,,Oh, and this won't be for a while, but I'll have to\Nfile tax refunds, too.
 Dialogue: 0,0:06:11.55,0:06:14.51,Default,,0,0,0,,T-Tax refunds!?
-Dialogue: 0,0:06:29.83,0:06:30.69,Default,,0,0,0,,Waya!
-Dialogue: 0,0:06:36.61,0:06:38.09,Default,,0,0,0,,You're early, what a surprise.
-Dialogue: 0,0:06:43.53,0:06:44.39,Default,,0,0,0,,Oh, it's Shindou!
+Dialogue: 0,0:06:14.69,0:06:19.15,NoteArial,,0,0,0,,{\fs60\q2\bord0.5\fscy80\1c&H545F59&\shad1\move(515,89,60,89)}Japanese Go Institute
+Dialogue: 0,0:06:19.15,0:06:21.57,NoteArial,,0,0,0,,{\fs18\1c&H000000&\bord0\frz13\move(190,269,-85,269)\frx6\fry350}Ookura Kichinarou\NAward Ceremony
+Dialogue: 0,0:06:19.15,0:06:22.99,NoteArial,,0,0,0,,{\fs20\1c&H000000&\bord0\frz14\frx6\fry350\move(417,175,-20,175)}Hideori Award Ceremony
+Dialogue: 0,0:06:19.15,0:06:22.99,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\frz13\frx6\fry350\move(697,112,260,112)}Kidou Award Ceremony
+Dialogue: 0,0:06:21.94,0:06:22.99,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\frz13\frx6\fry350\move(678,49,558,49)}Ooteai
+Dialogue: 0,0:06:28.83,0:06:31.79,NoteArial,,0,0,0,,{\fs21\blur2\fscy60\1c&H000000&\bord0\pos(-9,202)}Ookura Kichinarou\NAward Ceremony
+Dialogue: 0,0:06:28.83,0:06:31.79,NoteArial,,0,0,0,,{\fs28\blur2\fscy55\1c&H000000&\bord0\pos(598,171)}Kidou A
+Dialogue: 0,0:06:28.83,0:06:30.58,NoteArial,,0,0,0,,{\fs28\blur2\fscy55\1c&H000000&\bord0\pos(203,176)}H
+Dialogue: 0,0:06:28.83,0:06:30.41,NoteArial,,0,0,0,,{\fs28\blur2\fscy55\1c&H000000&\bord0\pos(453,176)}{\alpha&HFF&}o{\alpha&H00&}ny
+Dialogue: 0,0:06:30.41,0:06:30.79,NoteArial,,0,0,0,,{\fs28\blur2\fscy55\1c&H000000&\bord0\pos(453,176)}ony
+Dialogue: 0,0:06:30.79,0:06:31.79,NoteArial,,0,0,0,,{\fs28\blur2\fscy55\1c&H000000&\bord0\pos(453,176)}{\alpha&HFF&}o{\alpha&H00&}ny
+Dialogue: 0,0:06:29.83,0:06:30.69,Background,,0,0,0,,Waya!
+Dialogue: 0,0:06:35.79,0:06:39.21,NoteArial,,0,0,0,,{\fs17\blur0\fscy55\1c&H000000&\bord0\pos(228,6)}Ookura Kichinarou
+Dialogue: 0,0:06:39.21,0:06:39.30,NoteArial,,0,0,0,,{\fs17\blur0\fscy55\1c&H000000&\bord0\pos(228,6)}Ook{\alpha&HFF&}ura Kichinarou
+Dialogue: 0,0:06:39.59,0:06:39.71,NoteArial,,0,0,0,,{\fs17\blur0\fscy55\1c&H000000&\bord0\pos(228,6)}{\alpha&HFF&}Ookura K{\alpha&H00&}ichinarou
+Dialogue: 0,0:06:39.71,0:06:40.30,NoteArial,,0,0,0,,{\fs17\blur0\fscy55\1c&H000000&\bord0\pos(228,6)}Ookura Kichinarou
+Dialogue: 0,0:06:35.79,0:06:39.21,NoteArial,,0,0,0,,{\fs18\blur0\fscy55\1c&H000000&\bord0\pos(225,16)}Award Ceremony
+Dialogue: 0,0:06:39.21,0:06:39.30,NoteArial,,0,0,0,,{\fs18\blur0\fscy55\1c&H000000&\bord0\pos(225,16)}Aw{\alpha&HFF&}ard Ceremony
+Dialogue: 0,0:06:39.59,0:06:39.71,NoteArial,,0,0,0,,{\fs18\blur0\fscy55\1c&H000000&\bord0\pos(225,16)}{\alpha&HFF&}Award Ce{\alpha&H00&}remony
+Dialogue: 0,0:06:39.71,0:06:40.30,NoteArial,,0,0,0,,{\fs18\blur0\fscy55\1c&H000000&\bord0\pos(225,16)}Award Ceremony
+Dialogue: 0,0:06:36.58,0:06:38.09,Default,,0,0,0,,You're early, what a surprise.
+Dialogue: 0,0:06:42.97,0:06:44.39,Default,,0,0,0,,Oh, it's Shindou!
 Dialogue: 0,0:06:48.26,0:06:49.60,Default,,0,0,0,,Oh, Kurata-san.
-Dialogue: 0,0:06:50.91,0:06:53.94,Default,,0,0,0,,I'm not going to give you my autograph anymore, even if you ask for it.
+Dialogue: 0,0:06:50.91,0:06:53.94,Default,,0,0,0,,I'm not going to give you my autograph anymore,\Neven if you ask for it.
 Dialogue: 0,0:06:54.75,0:06:56.56,Default,,0,0,0,,I don't want it!
 Dialogue: 0,0:06:59.98,0:07:00.86,Default,,0,0,0,,Oh, Kurata-kun.
 Dialogue: 0,0:07:02.59,0:07:05.01,Default,,0,0,0,,You know Kurata-san?
