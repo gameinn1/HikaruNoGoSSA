@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 18
-Active Line: 48
-Video Position: 4954
+Scroll Position: 357
+Active Line: 377
+Video Position: 29783
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,7 +78,7 @@ Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1
 Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
 Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
 Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
-Style: NoteArial,Arial,17.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: 61Sign,HillWilliam,42,&H00594941,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,20,1
@@ -467,6 +467,6 @@ Dialogue: 0,0:21:49.62,0:21:54.71,Ed4English,,0,0,0,,what kind of dreams
 Dialogue: 0,0:21:54.71,0:22:03.68,Ed4English,,0,0,0,,are we going to talk about then?
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:27.09,0:02:30.09,Default,chptr,0,0,0,,{Hikaru vs. Akira}
-Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
+Dialogue: 0,0:20:42.18,0:20:45.22,Default,chptr,0,0,0,,{Ending}
 Dialogue: 0,0:22:07.26,0:22:10.26,Default,chptr,0,0,0,,{Go Go Igo}
 Dialogue: 0,0:22:57.33,0:23:00.33,Default,chptr,0,0,0,,{Next Episode Preview}
