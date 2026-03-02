@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 100
-Active Line: 116
-Video Position: 9885
+Scroll Position: 320
+Active Line: 338
+Video Position: 29245
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -205,162 +205,230 @@ Dialogue: 0,0:06:39.59,0:06:39.71,NoteArial,,0,0,0,,{\fs18\blur0\fscy55\1c&H0000
 Dialogue: 0,0:06:39.71,0:06:40.30,NoteArial,,0,0,0,,{\fs18\blur0\fscy55\1c&H000000&\bord0\pos(225,16)}Award Ceremony
 Dialogue: 0,0:06:36.58,0:06:38.09,Default,,0,0,0,,You're early, what a surprise.
 Dialogue: 0,0:06:42.97,0:06:44.39,Default,,0,0,0,,Oh, it's Shindou!
-Dialogue: 0,0:06:48.26,0:06:49.60,Default,,0,0,0,,Oh, Kurata-san.
+Dialogue: 0,0:06:48.22,0:06:49.60,Default,,0,0,0,,Oh, Kurata-san.
 Dialogue: 0,0:06:50.91,0:06:53.94,Default,,0,0,0,,I'm not going to give you my autograph anymore,\Neven if you ask for it.
-Dialogue: 0,0:06:54.75,0:06:56.56,Default,,0,0,0,,I don't want it!
-Dialogue: 0,0:06:59.98,0:07:00.86,Default,,0,0,0,,Oh, Kurata-kun.
-Dialogue: 0,0:07:02.59,0:07:05.01,Default,,0,0,0,,You know Kurata-san?
-Dialogue: 0,0:07:05.65,0:07:08.70,Default,,0,0,0,,I met him the other day when I went to a Go event.
+Dialogue: 0,0:06:54.73,0:06:56.44,Default,,0,0,0,,I don't want it!
+Dialogue: 0,0:06:59.48,0:07:00.86,Default,,0,0,0,,Oh, Kurata-kun.
+Dialogue: 0,0:07:02.57,0:07:05.01,Default,,0,0,0,,You know Kurata-san?
+Dialogue: 0,0:07:05.61,0:07:08.70,Default,,0,0,0,,I met him the other day when I went to a Go event.
 Dialogue: 0,0:07:09.24,0:07:10.82,Default,,0,0,0,,He's a weird guy.
 Dialogue: 0,0:07:11.23,0:07:13.62,Default,,0,0,0,,What's with that Kurata-san?
-Dialogue: 0,0:07:15.71,0:07:19.13,Default,,0,0,0,,He was the recipient of the Most Victories Award and Most Matches Played Award.
-Dialogue: 0,0:07:19.53,0:07:20.99,Default,,0,0,0,,Most victories?
-Dialogue: 0,0:07:21.14,0:07:24.84,Default,,0,0,0,,Yeah. A lot of pros are here today to receive awards.
-Dialogue: 0,0:07:25.83,0:07:28.96,Default,,0,0,0,,Touya Meijin is getting the Top Player Award, and there are other awards, too,
-Dialogue: 0,0:07:29.13,0:07:31.56,Default,,0,0,0,,like Exceptional Player Award or the Women's Award.
-Dialogue: 0,0:07:32.35,0:07:37.31,Default,,0,0,0,,Touya's getting the best Win/Loss Ratio Award and the longest Winning Streak Award.
-Dialogue: 0,0:07:38.02,0:07:40.86,Default,,0,0,0,,Best Win/Loss Ratio... Longest Winning Streak...
+Dialogue: 0,0:07:15.67,0:07:19.13,Default,,0,0,0,,He was the recipient of the Most Victories Award\Nand Most Matches Played Award.
+Dialogue: 0,0:07:19.50,0:07:20.99,Default,,0,0,0,,Most victories?
+Dialogue: 0,0:07:21.14,0:07:24.84,Default,,0,0,0,,Yeah. A lot of pros are here today to receive\Nawards.
+Dialogue: 0,0:07:25.80,0:07:29.05,Default,,0,0,0,,Touya Meijin is getting the Top Player Award, and\Nthere are other awards, too,
+Dialogue: 0,0:07:29.13,0:07:31.56,Default,,0,0,0,,like Exceptional Player Award or the Women's\NAward.
+Dialogue: 0,0:07:32.35,0:07:37.31,Background,,0,0,0,,Touya's getting the best Win/Loss Ratio Award and\Nthe longest Winning Streak Award.
+Dialogue: 0,0:07:38.02,0:07:40.86,Default,,0,0,0,,Best win/loss Ratio... longest winning streak...
 Dialogue: 0,0:07:42.19,0:07:44.64,Default,,0,0,0,,The award ceremony is the main event today.
 Dialogue: 0,0:07:45.52,0:07:46.82,Default,,0,0,0,,We're extras.
 Dialogue: 0,0:07:47.87,0:07:49.07,Default,,0,0,0,,Extras, huh?
-Dialogue: 0,0:07:49.40,0:07:55.59,Default,,0,0,0,,So what? Touya was here as an extra last year, too!
-Dialogue: 0,0:07:55.99,0:07:57.84,Thinking,,0,0,0,,Yeah, but...
-Dialogue: 0,0:07:58.35,0:08:02.79,Default,,0,0,0,,Touya took things step by step to reach where he is today.
+Dialogue: 0,0:07:49.37,0:07:55.59,Sai,,0,0,0,,So what? Touya was here as an extra last year, too!
+Dialogue: 0,0:07:55.96,0:07:57.84,Thinking,,0,0,0,,Yeah, but...
+Dialogue: 0,0:07:58.35,0:08:02.79,Sai,,0,0,0,,Touya took things step by step to reach where he is\Ntoday.
 Dialogue: 0,0:08:05.94,0:08:07.72,Default,,0,0,0,,One match at a time...
 Dialogue: 0,0:08:09.64,0:08:10.48,Default,,0,0,0,,Shindou?
 Dialogue: 0,0:08:11.15,0:08:15.82,Default,,0,0,0,,I wonder who my first opponent is going to be.
-Dialogue: 0,0:08:16.18,0:08:18.81,Default,,0,0,0,,That's the spirit. That's where it all starts, Hikaru.
+Dialogue: 0,0:08:16.18,0:08:18.81,Sai,,0,0,0,,That's the spirit. That's where it all starts, Hikaru.
 Dialogue: 0,0:08:21.50,0:08:22.32,Default,,0,0,0,,It might be me.
-Dialogue: 0,0:08:28.11,0:08:31.18,Default,,0,0,0,,But your opponent doesn't have to be a shodan.
-Dialogue: 0,0:08:31.77,0:08:33.80,Default,,0,0,0,,It might be a 2-dan or 3-dan.
+Dialogue: 0,0:08:28.07,0:08:31.18,Default,,0,0,0,,But your opponent doesn't have to be a shodan.
+Dialogue: 0,0:08:31.74,0:08:33.80,Default,,0,0,0,,It might be a 2-dan or 3-dan.
 Dialogue: 0,0:08:48.05,0:08:48.89,Default,,0,0,0,,Touya...
-Dialogue: 0,0:09:29.28,0:09:32.60,Thinking,,0,0,0,,Finally... I'm finally here.
-Dialogue: 0,0:09:39.14,0:09:42.25,Thinking,,0,0,0,,We're both pros, Touya. What do you think of me now?
-Dialogue: 0,0:09:43.53,0:09:45.29,Default,,0,0,0,,Touya, I'm...
-Dialogue: 0,0:09:45.69,0:09:46.55,Default,,0,0,0,,finally...
+Dialogue: 0,0:09:29.26,0:09:32.60,Thinking,,0,0,0,,Finally... I'm finally here.
+Dialogue: 0,0:09:39.10,0:09:42.25,Thinking,,0,0,0,,We're both pros, Touya. What do you think of me now?
+Dialogue: 0,0:09:43.52,0:09:45.02,Default,,0,0,0,,Touya, I'm...
+Dialogue: 0,0:09:45.65,0:09:46.55,Default,,0,0,0,,finally...
 Dialogue: 0,0:10:07.93,0:10:11.43,Default,,0,0,0,,What's up with him? He didn't have to ignore you.
-Dialogue: 0,0:10:11.71,0:10:15.80,Default,,0,0,0,,Man he pisses me off. Just because he's doing well...
+Dialogue: 0,0:10:11.71,0:10:15.80,Default,,0,0,0,,Man he pisses me off. Just because he's doing\Nwell...
 Dialogue: 0,0:10:17.73,0:10:20.05,Default,,0,0,0,,I guess he's not just doing 'well'...
-Dialogue: 0,0:10:21.03,0:10:21.81,Default,,0,0,0,,Morning...
-Dialogue: 0,0:10:21.88,0:10:22.63,Default,,0,0,0,,Morning.
-Dialogue: 0,0:10:24.34,0:10:25.36,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:10:21.03,0:10:21.77,Default,,0,0,0,,Morning.
+Dialogue: 0,0:10:21.88,0:10:22.31,Background,,0,0,0,,Morning.
+Dialogue: 0,0:10:24.31,0:10:25.36,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:10:27.14,0:10:28.75,Default,,0,0,0,,I won't just catch up to him.
 Dialogue: 0,0:10:29.44,0:10:30.65,Default,,0,0,0,,I'll pass him.
 Dialogue: 0,0:10:31.33,0:10:32.52,Default,,0,0,0,,That bastard...
-Dialogue: 0,0:10:34.60,0:10:35.40,Default,,0,0,0,,He's here.
-Dialogue: 0,0:10:36.82,0:10:37.87,Default,,0,0,0,,Touya-kun.
-Dialogue: 0,0:10:40.91,0:10:43.17,Default,,0,0,0,,Did you look at the pairings for the Ooteai matches?
-Dialogue: 0,0:10:43.49,0:10:45.51,Default,,0,0,0,,The pairing committee should have sent it to you.
-Dialogue: 0,0:10:45.65,0:10:47.32,Default,,0,0,0,,Have you gotten it yet?
-Dialogue: 0,0:10:47.54,0:10:50.85,Default,,0,0,0,,That boy... Shindou-kun's opponent for the first round is...
-Dialogue: 0,0:10:53.17,0:10:54.24,Default,,0,0,0,,I know.
+Dialogue: 0,0:10:34.57,0:10:35.40,Default,,0,0,0,,He's here.
+Dialogue: 0,0:10:36.78,0:10:37.87,Default,,0,0,0,,Touya-kun.
+Dialogue: 0,0:10:40.87,0:10:43.17,Default,,0,0,0,,Did you look at the pairings for the Ooteai\Nmatches?
+Dialogue: 0,0:10:43.46,0:10:45.51,Default,,0,0,0,,The pairing committee should have sent it to you.
+Dialogue: 0,0:10:45.65,0:10:47.32,Background,,0,0,0,,Have you gotten it yet?
+Dialogue: 0,0:10:47.54,0:10:50.85,Background,,0,0,0,,That boy... Shindou-kun's opponent for the first\Nround is...
+Dialogue: 0,0:10:53.17,0:10:54.43,Default,,0,0,0,,I know.
 Dialogue: 0,0:10:55.98,0:10:57.81,Default,,0,0,0,,Testing, testing.
-Dialogue: 0,0:10:58.39,0:11:04.35,Default,,0,0,0,,We're about to begin the award ceremony, and the new first dan certification ceremony.
-Dialogue: 0,0:11:05.15,0:11:08.35,Default,,0,0,0,,Anyone participating should gather at the main hall.
-Dialogue: 0,0:11:08.80,0:11:13.22,Default,,0,0,0,,We're about to begin the award ceremony, and the new first dan certification...
-Dialogue: 0,0:11:20.89,0:11:22.09,Thinking,,0,0,0,,I'll catch up to Touya...
-Dialogue: 0,0:11:22.79,0:11:23.63,Thinking,,0,0,0,,I'll surpass him!
-Dialogue: 0,0:11:25.12,0:11:29.34,Note,,0,0,0,,New First Dan Briefing Room
-Dialogue: 0,0:11:26.42,0:11:28.27,Default,,0,0,0,,That's about all.
+Dialogue: 0,0:10:58.39,0:11:04.35,Background,,0,0,0,,We're about to begin the award ceremony, and the\Nnew first dan certification ceremony.
+Dialogue: 0,0:11:05.15,0:11:08.35,Default,,0,0,0,,Anyone participating should gather at the main\Nhall.
+Dialogue: 0,0:11:08.80,0:11:13.22,Default,,0,0,0,,We're about to begin the award ceremony, and the\Nnew first dan certification...
+Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\move(312,22,434,22)}New first Dan\NCertification Ceremony
+Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\move(208,12,330,12)}Ooteai Awards Ceremony
+Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\move(103,12,225,12)}Kidou Award Ceremony
+Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\move(2,12,124,12)}Hideori Award Ceremony
+Dialogue: 0,0:11:13.78,0:11:16.36,NoteArial,,0,0,0,,{\fs11\fscy60\blur0\fad(0,0)\1c&H000000&\bord0\move(-45,25,18,25)}Ookura Kichinarou\NAward Ceremony
+Dialogue: 0,0:11:20.87,0:11:22.24,Thinking,,0,0,0,,I'll catch up to Touya...
+Dialogue: 0,0:11:22.79,0:11:23.75,Thinking,,0,0,0,,I'll surpass him!
+Dialogue: 0,0:11:25.12,0:11:29.34,NoteArial,,0,0,0,,{\fs14.5\1c&H766A63&\3c&HEFE3DC&\bord2\shad0\frz270\pos(198,285)}New First Dan Briefing Room
+Dialogue: 0,0:11:26.42,0:11:28.27,Background,,0,0,0,,That's about all.
 Dialogue: 0,0:11:30.06,0:11:32.59,Default,,0,0,0,,That's all we have to say.
-Dialogue: 0,0:11:33.64,0:11:39.39,Default,,0,0,0,,Then please open your envelopes. We'll explain what each thing inside is.
-Dialogue: 0,0:11:46.81,0:11:48.23,Computer,,0,0,0,,{\pos(310,220)\frz16.5}Ootei Pairings
-Dialogue: 0,0:11:46.81,0:11:48.23,Computer,,0,0,0,,{\fs12\pos(306,448)\frz16.7}prepared by
-Dialogue: 0,0:11:46.81,0:11:48.23,Computer,,0,0,0,,{\fs14\pos(414,418)\frz16.7}Japanese Go Institute
+Dialogue: 0,0:11:33.64,0:11:39.39,Background,,0,0,0,,Then please open your envelopes. We'll explain\Nwhat each thing inside is.
+Dialogue: 0,0:11:46.02,0:11:46.14,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(400,491)}Ooteai Pairings
+Dialogue: 0,0:11:46.14,0:11:46.27,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(366,409)}Ooteai Pairings
+Dialogue: 0,0:11:46.27,0:11:46.35,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(345,343)}Ooteai Pairings
+Dialogue: 0,0:11:46.35,0:11:46.52,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(326,282)}Ooteai Pairings
+Dialogue: 0,0:11:46.52,0:11:46.60,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(311,241)}Ooteai Pairings
+Dialogue: 0,0:11:46.60,0:11:48.23,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(310,236)}Ooteai Pairings
+Dialogue: 0,0:11:46.52,0:11:46.60,NoteArial,,0,0,0,,{\fs13\1c&H000000&\bord0\fscy90\frz17\pos(305,464)}prepared by
+Dialogue: 0,0:11:46.60,0:11:48.23,NoteArial,,0,0,0,,{\fs13\1c&H000000&\bord0\fscy90\frz17\pos(302,456)}prepared by
+Dialogue: 0,0:11:46.35,0:11:46.52,NoteArial,,0,0,0,,{\fs16.5\1c&H000000&\bord0\fscy80\frz17\pos(443,463)}Japanese Go Institute
+Dialogue: 0,0:11:46.52,0:11:46.60,NoteArial,,0,0,0,,{\fs16.5\1c&H000000&\bord0\fscy80\frz17\pos(431,424)}Japanese Go Institute
+Dialogue: 0,0:11:46.60,0:11:48.23,NoteArial,,0,0,0,,{\fs16.5\1c&H000000&\bord0\fscy80\frz17\pos(428,416)}Japanese Go Institute
 Dialogue: 0,0:11:49.37,0:11:52.49,Default,,0,0,0,,Oh, these are the pairings for the Ooteai matches.
-Dialogue: 0,0:11:53.03,0:11:58.03,Default,,0,0,0,,Yes. It has the pairings for all the Ooteai matches you will be playing this year.
-Dialogue: 0,0:11:58.22,0:11:59.85,Default,,0,0,0,,Huh? Where am I?
+Dialogue: 0,0:11:53.03,0:11:57.70,Default,,0,0,0,,Yes. It has the pairings for all the Ooteai matches\Nyou will be playing this year.
+Dialogue: 0,0:11:58.20,0:11:59.85,Default,,0,0,0,,Huh? Where am I?
 Dialogue: 0,0:12:00.32,0:12:01.26,Default,,0,0,0,,Towards the end.
-Dialogue: 0,0:12:01.89,0:12:05.72,Default,,0,0,0,,The person to the immediate right of your name is your opponent for the first match.
-Dialogue: 0,0:12:06.82,0:12:09.34,Default,,0,0,0,,Shindou Hikaru... there it is.
-Dialogue: 0,0:12:09.70,0:12:11.77,Default,,0,0,0,,My first opponent is...
-Dialogue: 0,0:12:17.87,0:12:19.81,Thinking,,0,0,0,,Tou...ya...
+Dialogue: 0,0:12:01.87,0:12:05.72,Default,,0,0,0,,The person to the immediate right of your name is\Nyour opponent for the first match.
+Dialogue: 0,0:12:06.79,0:12:09.34,Default,,0,0,0,,Shindou Hikaru... there it is.
+Dialogue: 0,0:12:09.67,0:12:11.77,Default,,0,0,0,,My first opponent is...
+Dialogue: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\move(227,213,-30,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\pos(546,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.54,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\pos(695,170)}Suzuki Ayuma
+Comment: 0,0:12:11.75,0:12:14.75,NoteArial,,0,0,0,,Need to animate above, either scroll or individually
+Dialogue: 0,0:12:16.47,0:12:21.51,NoteArial,,0,0,0,,{\fs45\blur1\1c&H000000&\bord0\fscy80\frz8.5\move(504,142,175,142)}Touya Akira 2-dan
+Dialogue: 0,0:12:17.84,0:12:19.81,Thinking,,0,0,0,,Tou...ya...
 Dialogue: 0,0:12:27.90,0:12:31.11,Thinking,,0,0,0,,My first opponent is... Touya!
-Dialogue: 0,0:12:33.15,0:12:38.35,Default,,0,0,0,,We'll inform you by mail when your match is. Lower dan matches are on Wednesdays...
-Dialogue: 0,0:12:38.19,0:12:39.01,Default,,0,0,0,,Touya!
-Dialogue: 0,0:12:38.94,0:12:44.39,Default,,0,0,0,,Upper dan matches are on Thursdays. Get used to leaving your Wednesdays open.
-Dialogue: 0,0:12:44.76,0:12:48.09,Default,,0,0,0,,A match against Touya. Exactly what you wanted.
-Dialogue: 0,0:12:49.04,0:12:52.36,Thinking,,0,0,0,,Touya... I wonder if he knows.
-Dialogue: 0,0:12:53.42,0:12:56.89,Default,,0,0,0,,He's already declared hostilities against you.
-Dialogue: 0,0:12:58.36,0:13:00.06,Default,,0,0,0,,His eyes when he passed by us...
-Dialogue: 0,0:13:00.27,0:13:05.77,Default,,0,0,0,,Didn't they seem to you like he already knew that he would be playing you?
-Dialogue: 0,0:13:13.61,0:13:15.37,Default,,0,0,0,,Let's show him....
-Dialogue: 0,0:13:16.23,0:13:17.27,Default,,0,0,0,,how strong you are!
-Dialogue: 0,0:13:23.12,0:13:24.00,Default,,0,0,0,,Okay!
-Dialogue: 0,0:13:25.82,0:13:28.30,Thinking,,0,0,0,,Just you wait... Touya!
-Dialogue: 0,0:13:33.88,0:13:39.40,Note,,0,0,360,,{\fad(550,550)}Jyudan Match        Five game match        Second game
-Dialogue: 0,0:13:46.72,0:13:52.06,Note,,0,0,360,,{\fad(550,0)}Ogata 9-dan wins by 3.5 moku
-Dialogue: 0,0:13:52.89,0:13:57.85,Default,,0,0,0,,I resigned the first match to you, Master. But now we're even again.
-Dialogue: 0,0:13:58.91,0:14:01.15,Default,,0,0,0,,I look forward to the third match.
-Dialogue: 0,0:14:09.86,0:14:10.81,Default,,0,0,0,,I'm home!
-Dialogue: 0,0:14:11.08,0:14:13.83,Default,,0,0,0,,Hikaru, you have mail from the Go Institute.
-Dialogue: 0,0:14:15.38,0:14:18.88,Computer,,0,0,0,,{\fs16\move(175,57,175,271)\frz13}Match
-Dialogue: 0,0:14:15.38,0:14:18.88,Computer,,0,0,0,,{\fs16\move(190,120,190,334)\frz13}Opponent
-Dialogue: 0,0:14:15.38,0:14:18.88,Computer,,0,0,0,,{\fs16\move(200,164,200,378)\frz13}Date
-Dialogue: 0,0:14:15.38,0:14:18.88,Computer,,0,0,0,,{\fs16\move(350,18,350,232)\frz13}Ooteai
-Dialogue: 0,0:14:15.38,0:14:18.88,Computer,,0,0,0,,{\fs16\move(360,83,360,297)\frz13}Touya 2-dan
-Dialogue: 0,0:14:15.38,0:14:18.88,Computer,,0,0,0,,{\fs16\move(370,128,370,342)\frz13}April 4th Wednesday
-Dialogue: 0,0:14:19.79,0:14:20.88,Default,,0,0,0,,It's finally time.
+Dialogue: 0,0:12:33.15,0:12:38.35,Background,,0,0,0,,We'll inform you by mail when your match is. Lower\Ndan matches are on Wednesdays...
+Dialogue: 0,0:12:38.15,0:12:39.20,Default,,0,0,0,,Touya!
+Dialogue: 0,0:12:38.90,0:12:43.83,Background,,0,0,0,,Upper dan matches are on Thursdays. Get used to\Nleaving your Wednesdays open.
+Dialogue: 0,0:12:44.76,0:12:48.09,Sai,,0,0,0,,A match against Touya. Exactly what you wanted.
+Dialogue: 0,0:12:49.00,0:12:52.36,Thinking,,0,0,0,,Touya... I wonder if he knows.
+Dialogue: 0,0:12:53.42,0:12:57.09,Sai,,0,0,0,,He's already declared hostilities against you.
+Dialogue: 0,0:12:58.36,0:13:00.84,Sai,,0,0,0,,His eyes when he passed by us...
+Dialogue: 0,0:13:00.97,0:13:05.81,Sai,,0,0,0,,Didn't they seem to you like he already knew that\Nhe would be playing you?
+Dialogue: 0,0:13:13.61,0:13:15.37,Sai,,0,0,0,,Let's show him...
+Dialogue: 0,0:13:16.15,0:13:17.27,Sai,,0,0,0,,how strong you are!
+Dialogue: 0,0:13:23.07,0:13:24.03,Default,,0,0,0,,Okay!
+Dialogue: 0,0:13:25.78,0:13:28.30,Thinking,,0,0,0,,Just you wait... Touya!
+Dialogue: 0,0:13:33.92,0:13:39.42,NoteArial,,0,0,0,,{\fs19\fad(501,584)\bord1.5\1c&HFFFFFF&\pos(320,364)}Jyudan Match    Five game match      Second Game
+Dialogue: 0,0:13:46.76,0:13:52.06,NoteArial,,0,0,0,,{\fs19\fad(542,0)\bord1.5\1c&HFFFFFF&\pos(320,364)}Ogata 9-dan wins by 3.5 moku
+Dialogue: 0,0:13:52.89,0:13:58.11,Default,,0,0,0,,I resigned the first match to you, Master. But now\Nwe're even again.
+Dialogue: 0,0:13:58.91,0:14:01.40,Default,,0,0,0,,I look forward to the third match.
+Dialogue: 0,0:14:09.83,0:14:10.81,Background,,0,0,0,,I'm home!
+Dialogue: 0,0:14:11.08,0:14:13.83,Background,,0,0,0,,Hikaru, you have mail from the Go Institute.
+Dialogue: 0,0:14:15.38,0:14:18.88,NoteArial,,0,0,0,,{\fs17\1c&H64636A&\bord0\fscy80\move(175,57,175,271)\frz13}Match
+Dialogue: 0,0:14:15.38,0:14:18.88,NoteArial,,0,0,0,,{\fs17\1c&H64636A&\bord0\fscy80\move(188,121,188,335)\frz13}Opponent
+Dialogue: 0,0:14:15.38,0:14:18.88,NoteArial,,0,0,0,,{\fs17\1c&H64636A&\bord0\fscy80\move(195,169,195,383)\frz13}Date
+Dialogue: 0,0:14:15.38,0:14:18.88,NoteArial,,0,0,0,,{\fs17\1c&H64636A&\bord0\fscy80\move(344,18,344,232)\frz13}Ooteai
+Dialogue: 0,0:14:15.38,0:14:18.88,NoteArial,,0,0,0,,{\fs17\1c&H64636A&\bord0\fscy80\move(352,85,352,299)\frz13}Touya       2-dan
+Dialogue: 0,0:14:15.38,0:14:18.88,NoteArial,,0,0,0,,{\fs17\1c&H64636A&\bord0\fscy80\move(356,133,356,347)\frz13}April 4th    Wednesday
+Dialogue: 0,0:14:19.76,0:14:20.92,Sai,,0,0,0,,It's finally time.
 Dialogue: 0,0:14:21.39,0:14:23.96,Default,,0,0,0,,Yeah, it's April 4th.
-Dialogue: 0,0:14:26.01,0:14:28.89,Default,,0,0,0,,My first match as a pro... against Touya!
-Dialogue: 0,0:14:29.39,0:14:33.94,Note,,0,0,360,,{\fad(550,0)}April 4th
-Dialogue: 0,0:14:39.88,0:14:40.99,Default,,0,0,0,,Saeki-san!
-Dialogue: 0,0:14:41.53,0:14:42.23,Default,,0,0,0,,You're late.
-Dialogue: 0,0:14:42.76,0:14:46.14,Default,,0,0,0,,Late? I have half an hour before it starts.
-Dialogue: 0,0:14:46.26,0:14:51.05,Default,,0,0,0,,I came early just so that I could help relieve your tension.
+Dialogue: 0,0:14:25.97,0:14:28.89,Default,,0,0,0,,My first match as a pro... against Touya!
+Dialogue: 0,0:14:28.89,0:14:33.94,NoteArial,,0,0,0,,{\fs16\1c&H516261&\fscy110\bord0\frz346\pos(378,169)}Japanese Go Institute
+Dialogue: 0,0:14:29.43,0:14:33.94,NoteArial,,0,0,0,,{\fs21\fad(542,0)\bord1.5\1c&HFFFFFF&\pos(320,364)}April 4th
+Dialogue: 0,0:14:39.86,0:14:40.99,Background,,0,0,0,,Saeki-san!
+Dialogue: 0,0:14:41.49,0:14:42.23,Default,,0,0,0,,You're late.
+Dialogue: 0,0:14:42.74,0:14:46.14,Default,,0,0,0,,Late? I have half an hour before it starts.
+Dialogue: 0,0:14:46.26,0:14:51.05,Default,,0,0,0,,I came early just so that I could help relieve your\Ntension.
 Dialogue: 0,0:14:52.59,0:14:55.83,Default,,0,0,0,,I came really early to my first match as a pro,
-Dialogue: 0,0:14:56.60,0:15:00.56,Default,,0,0,0,,and I was so nervous I could barely pick up the stones.
+Dialogue: 0,0:14:56.60,0:15:00.56,Default,,0,0,0,,and I was so nervous I could barely pick up the\Nstones.
 Dialogue: 0,0:15:01.38,0:15:03.54,Default,,0,0,0,,You don't seem that way though.
 Dialogue: 0,0:15:04.48,0:15:05.35,Default,,0,0,0,,Yeah...
-Dialogue: 0,0:15:05.95,0:15:08.00,Default,,0,0,0,,It's probably because I know my opponent.
+Dialogue: 0,0:15:05.93,0:15:08.00,Default,,0,0,0,,It's probably because I know my opponent.
 Dialogue: 0,0:15:08.72,0:15:12.52,Default,,0,0,0,,I feel some pressure... but I don't feel nervous.
-Dialogue: 0,0:15:13.63,0:15:14.54,Default,,0,0,0,,Touya, right?
-Dialogue: 0,0:15:26.83,0:15:29.04,Thinking,,0,0,0,,Neither Waya nor Ochi is here today.
-Dialogue: 0,0:15:32.36,0:15:34.42,Default,,0,0,0,,Shindou, what are you doing for lunch?
-Dialogue: 0,0:15:35.95,0:15:37.99,Default,,0,0,0,,Order here if you want something from the store.
+Dialogue: 0,0:15:13.60,0:15:14.54,Default,,0,0,0,,Touya, right?
+Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,1,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(635,135,660,135)}Shinkai
+Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,1,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(635,220,660,220)}6
+Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,2,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(635,365,660,365)}Hoshino
+Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,2,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(635,441,660,441)}6
+Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,3,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(580,146,664,146)}Kobayashi
+Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,3,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(580,220,664,220)}5
+Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,4,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(582,353,664,353)}Sano
+Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,4,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(582,441,664,441)}5
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,5,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(520,129,610,129)}Isawa
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,5,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(520,220,610,220)}5
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,6,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(520,364,610,364)}Okajima
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,6,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(520,441,610,441)}5
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,7,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(465,124,555,124)}Kita
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,7,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(465,220,555,220)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,8,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(465,361,555,361)}Ootake
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,8,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(465,441,555,441)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,9,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(402,136,492,136)}Kiyama
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,9,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(402,220,492,220)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,10,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(403,363,493,363)}Shibaki
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,10,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(403,441,493,441)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,11,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(349,128,439,128)}Izumi
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,11,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(349,220,439,220)}3
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,12,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(351,359,441,359)}Asada
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,12,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(352,441,442,441)}3
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(293,130,383,130)}Butou
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(293,220,383,220)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(293,367,383,367)}Edokawa
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(293,441,383,441)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,14,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(235,136,325,136)}Shibata
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,14,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(235,220,325,220)}2
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,15,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(235,359,325,359)}Sasagi
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,15,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(235,441,325,441)}2
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,16,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(172,126,262,126)}Dairi
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,16,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(172,220,262,220)}3
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,17,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(172,363,262,363)}Ueyama
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,17,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(172,441,262,441)}2
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,18,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(118,157,208,157)}Yamada (Jun)
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,18,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(118,220,208,220)}1
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,19,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(118,365,208,365)}Shimura
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,19,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(118,441,208,441)}1
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,20,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(50,144,140,144)}Taniguchi
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,20,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(50,220,140,220)}2
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,21,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(50,357,140,357)}Okada
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,21,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(50,441,140,441)}2
+Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,22,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(5,141,82,141)}Chikafuji
+Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,22,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(5,220,82,220)}1
+Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,23,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(5,355,82,355)}Gotou
+Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,23,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(5,441,82,441)}1
+Dialogue: 0,0:15:26.78,0:15:29.04,Thinking,,0,0,0,,Neither Waya nor Ochi is here today.
+Dialogue: 0,0:15:32.33,0:15:34.42,Default,,0,0,0,,Shindou, what are you doing for lunch?
+Dialogue: 0,0:15:34.96,0:15:35.46,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:35.91,0:15:38.08,Default,,0,0,0,,Order here if you want something from the store.
 Dialogue: 0,0:15:38.72,0:15:39.91,Default,,0,0,0,,The store?
-Dialogue: 0,0:15:41.78,0:15:42.69,Default,,0,0,0,,Oh...
+Dialogue: 0,0:15:41.75,0:15:42.42,Default,,0,0,0,,Oh...
 Dialogue: 0,0:15:42.97,0:15:45.86,Default,,0,0,0,,Why don't you eat out with us today?
 Dialogue: 0,0:15:46.46,0:15:47.12,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:15:51.42,0:15:54.12,Default,,0,0,0,,The match hall is the same one you used for the Insei study sessions.
-Dialogue: 0,0:15:54.48,0:15:55.65,Default,,0,0,0,,But there are a few differences.
-Dialogue: 0,0:15:56.06,0:15:57.74,Default,,0,0,0,,They give you tea in a pro match.
-Dialogue: 0,0:15:57.98,0:16:02.11,Default,,0,0,0,,You can bring in Coke or coffee or what ever you want, too.
+Dialogue: 0,0:15:51.42,0:15:54.39,Default,,0,0,0,,The match hall is the same one you use for the\NInsei study sessions.
+Dialogue: 0,0:15:54.48,0:15:55.85,Default,,0,0,0,,But there are a few differences.
+Dialogue: 0,0:15:56.02,0:15:57.81,Default,,0,0,0,,They give you tea in a pro match.
+Dialogue: 0,0:15:57.98,0:16:02.11,Default,,0,0,0,,You can bring in Coke or coffee or whatever you\Nwant, too.
 Dialogue: 0,0:16:08.42,0:16:10.54,Default,,0,0,0,,Saeki-san, who are you playing today?
-Dialogue: 0,0:16:10.83,0:16:12.31,Default,,0,0,0,,Sakurano-san from the women's division.
+Dialogue: 0,0:16:10.78,0:16:12.45,Default,,0,0,0,,Sakurano-san from the women's division.
 Dialogue: 0,0:16:12.87,0:16:15.03,Default,,0,0,0,,It looks like you've calmed down.
-Dialogue: 0,0:16:15.93,0:16:19.25,Default,,0,0,0,,You looked a little tense when you came off the elevator.
-Dialogue: 0,0:16:19.25,0:16:20.98,Default,,0,0,0,,R-Really!?
-Dialogue: 0,0:16:21.67,0:16:24.91,Default,,0,0,0,,You shouldn't be too relaxed, so let me teach you a little trick.
-Dialogue: 0,0:16:25.04,0:16:25.92,Default,,0,0,0,,Huh? What?
-Dialogue: 0,0:16:26.40,0:16:28.52,Default,,0,0,0,,Picture Master Morishita's face.
-Dialogue: 0,0:16:29.30,0:16:31.26,Default,,0,0,0,,Do something about Touya Akira!
-Dialogue: 0,0:16:31.63,0:16:33.79,Default,,0,0,0,,Ahh! Too much pressure!
-Dialogue: 0,0:16:51.23,0:16:52.71,Default,,0,0,0,,It's the opponent you've been waiting for.
-Dialogue: 0,0:16:53.43,0:16:56.31,Default,,0,0,0,,You've gotten a lot stronger, Hikaru. I look forward to the game.
-Dialogue: 0,0:17:03.56,0:17:06.06,Thinking,,0,0,0,,Soon... Touya will...
-Dialogue: 0,0:17:12.60,0:17:13.38,Default,,0,0,0,,Hikaru?
-Dialogue: 0,0:17:33.62,0:17:36.27,Default,,0,0,0,,He's the same as Touya was back then...
-Dialogue: 0,0:17:57.83,0:17:59.01,Thinking,,0,0,0,,The Summer tournament.
-Dialogue: 0,0:17:59.88,0:18:02.39,Thinking,,0,0,0,,The third board match between Haze Junior High and Kaiou Junior High.
-Dialogue: 0,0:18:03.23,0:18:06.19,Thinking,,0,0,0,,Back then, Touya was chasing after Sai.
-Dialogue: 0,0:18:07.44,0:18:10.70,Thinking,,0,0,0,,Now, I'm sitting here in pursuit of Touya.
-Dialogue: 0,0:18:11.48,0:18:12.37,Thinking,,0,0,0,,It's the same.
-Dialogue: 0,0:18:12.75,0:18:16.20,Thinking,,0,0,0,,I understand how he felt back then.
-Dialogue: 0,0:18:17.92,0:18:20.15,Default,,0,0,0,,To fight an opponent you fear...
-Dialogue: 0,0:18:21.18,0:18:23.76,Default,,0,0,0,,You have no idea how envious I am of you.
-Dialogue: 0,0:18:27.89,0:18:34.34,Default,,0,0,0,,When will I once again feel the pleasure of facing such an opponent?
+Dialogue: 0,0:16:15.93,0:16:19.25,Background,,0,0,0,,You looked a little tense when you came off the\Nelevator.
+Dialogue: 0,0:16:19.25,0:16:20.75,Default,,0,0,0,,R-Really!?
+Dialogue: 0,0:16:21.67,0:16:24.91,Default,,0,0,0,,You shouldn't be too relaxed, so let me teach you a\Nlittle trick.
+Dialogue: 0,0:16:25.01,0:16:25.76,Default,,0,0,0,,Huh? What?
+Dialogue: 0,0:16:26.40,0:16:28.59,Default,,0,0,0,,Picture Master Morishita's face.
+Dialogue: 0,0:16:29.30,0:16:31.26,Memory,,0,0,0,,Do something about Touya Akira!
+Dialogue: 0,0:16:31.63,0:16:33.85,Default,,0,0,0,,Ahh! Too much pressure!
+Dialogue: 0,0:16:51.20,0:16:52.87,Sai,,0,0,0,,It's the opponent you've been waiting for.
+Dialogue: 0,0:16:53.45,0:16:56.45,Sai,,0,0,0,,You've gotten a lot stronger, Hikaru. I look forward\Nto the game.
+Dialogue: 0,0:17:03.56,0:17:06.13,Thinking,,0,0,0,,Soon... Touya will...
+Dialogue: 0,0:17:12.60,0:17:13.14,Sai,,0,0,0,,Hikaru?
+Dialogue: 0,0:17:33.57,0:17:36.37,Sai,,0,0,0,,He's the same as Touya was back then...
+Dialogue: 0,0:17:57.81,0:17:59.27,Thinking,,0,0,0,,The summer tournament.
+Dialogue: 0,0:17:59.85,0:18:02.77,Thinking,,0,0,0,,The third board match between Haze Junior High and\NKaiou Junior High.
+Dialogue: 0,0:18:03.19,0:18:06.19,Thinking,,0,0,0,,Back then, Touya was chasing after Sai.
+Dialogue: 0,0:18:07.40,0:18:10.78,Thinking,,0,0,0,,Now, I'm sitting here in pursuit of Touya.
+Dialogue: 0,0:18:11.45,0:18:13.61,Thinking,,0,0,0,,It's the same.
+Dialogue: 0,0:18:14.24,0:18:16.83,Thinking,,0,0,0,,I understand how he felt back then.
+Dialogue: 0,0:18:17.87,0:18:20.20,Sai,,0,0,0,,To fight an opponent you fear...
+Dialogue: 0,0:18:21.18,0:18:24.21,Sai,,0,0,0,,You have no idea how envious I am of you.
+Dialogue: 0,0:18:27.89,0:18:34.38,Sai,,0,0,0,,When will I once again feel the pleasure of facing\Nsuch an opponent?
 Dialogue: 0,0:18:36.69,0:18:40.74,Thinking,,0,0,0,,Touya, I'll be the one playing you today.
-Dialogue: 0,0:18:41.17,0:18:43.95,Thinking,,0,0,0,,Not Sai, but me!
-Dialogue: 0,0:18:58.18,0:18:59.06,Thinking,,0,0,0,,He's late...
-Dialogue: 0,0:19:07.13,0:19:08.01,Thinking,,0,0,0,,Touya...
-Dialogue: 0,0:19:17.77,0:19:19.90,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:19:41.04,0:19:41.97,Thinking,,0,0,0,,Touya...?
-Dialogue: 0,0:19:47.69,0:19:49.03,Default,,0,0,0,,Shindou-kun, can I have a second?
-Dialogue: 0,0:20:09.85,0:20:11.10,Default,,0,0,0,,Touya-kun isn't coming.
-Dialogue: 0,0:20:13.16,0:20:16.97,Default,,0,0,0,,He called with big news.
-Dialogue: 0,0:20:17.72,0:20:19.49,Default,,0,0,0,,Touya Meijin collapsed,
-Dialogue: 0,0:20:19.75,0:20:22.50,Default,,0,0,0,,and he's in an ambulance, on the way to the hospital, right now.
+Dialogue: 0,0:18:41.14,0:18:43.95,Thinking,,0,0,0,,Not Sai, but me!
+Dialogue: 0,0:18:58.16,0:18:59.24,Thinking,,0,0,0,,He's late...
+Dialogue: 0,0:19:07.13,0:19:08.04,Thinking,,0,0,0,,Touya...
+Dialogue: 0,0:19:17.72,0:19:19.81,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:19:40.99,0:19:42.04,Thinking,,0,0,0,,Touya...?
+Dialogue: 0,0:19:47.67,0:19:49.58,Default,,0,0,0,,Shindou-kun, can I have a second?
+Dialogue: 0,0:20:09.81,0:20:11.27,Default,,0,0,0,,Touya-kun isn't coming.
+Dialogue: 0,0:20:13.16,0:20:17.07,Default,,0,0,0,,He called with big news.
+Dialogue: 0,0:20:17.70,0:20:19.49,Default,,0,0,0,,Touya Meijin collapsed,
+Dialogue: 0,0:20:19.75,0:20:22.50,Default,,0,0,0,,and he's in an ambulance, on the way to the\Nhospital, right now.
 Dialogue: 0,0:22:12.89,0:22:14.59,Default,,0,0,0,,Let's solve a problem today.
 Dialogue: 0,0:22:14.89,0:22:18.28,Default,,0,0,0,,It's a black first white dies problem. You should all thing along with us.
 Dialogue: 0,0:22:21.86,0:22:23.08,Default,,0,0,0,,Can you do it, Yuuki-kun?
