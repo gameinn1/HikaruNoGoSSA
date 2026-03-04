@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 106
-Active Line: 131
-Video Position: 11457
+Video Zoom Percent: 0.500000
+Scroll Position: 286
+Active Line: 314
+Video Position: 27751
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -198,18 +198,19 @@ Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnA
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs11\fscy150\pos(379,339)}Request
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs12\fscy135\pos(458,341)}Cancel
 Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 452 55 l 483 55 l  483 69 l 452 69 m 450 95 l 565 95 l 565 111 l 450 111 m 449 122 l 579 122 l 579 137 l 449 137 m 452 155 l 482 155 l 482 171 l 452 171 m 451 199 l 565 199 l 565 213 l 451 213 m 448 224 l 579 224 l 579 240 l 448 240 m 450 256 l 511 256 l 511 272 l 450 272 m 449 277 l 545 277 l 545 293 l 449 293 m 449 301 l 480 301 l 480 316 l 449 316 m 548 299 l 575 299 l 575 315 l 548 315 m 466 368 l 496 368 l 496 383 l 466 383 m 527 367 l 584 367 l 584 383 l 527 383 m 489 398 l 574 398 l 574 414 l 489 414{\p0}
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,57,,{\an7\fnArial\fs12}WHITE
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,95,,{\an7\fnArial\fs14\b0}Captured: 0 Stones
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,118,,{\an7\fnArial\fs14\b0}Rem. Time: 180 / 180
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,159,,{\an7\fnArial\fs12}BLACK
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,197,,{\an7\fnArial\fs13\b0}Captured: 0 Stones
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,220,,{\an7\fnArial\fs14\b0}Rem. Time: 180 / 180
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,259,,{\an7\fnArial\fs12}GAME INFO
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,278,,{\an7\fnArial\fs14\b0}Komi: 5.5 Moku
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,299,,{\an7\fnArial\fs14\b0}Move:
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,447,123,367,,{\fnArial\fs15\b0}Chat
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,520,50,367,,{\fnArial\fs15\b0}Chat-Win
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,450,50,398,,{\fnArial\fs15\b0}Stop Observing
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx98\fscy110\pos(451,57)}WHITE
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\pos(451,96)}Captured: 0 Stones
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\fscy110\pos(451,122)}Rem. Time: 180 / 180
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscy98\fscy110\pos(451,157)}BLACK
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\pos(451,197)}Captured: 0 Stones
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\fscy110\pos(451,224)}Rem. Time: 180 / 180
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscy110\pos(451,258)}GAME INFO
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\fscy110\pos(451,276)}Komi: 5.5 Moku
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\pos(451,301)}Move:
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\fscy110\pos(546,300)}Auto
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs14\blur1\fscx98\fscy110\pos(480,367)}Chat
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs14\blur1\fscx98\fscy110\pos(553,367)}Chat-Win
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs14\blur1\fscx98\fscy110\pos(520,397)}Stop Observing
 Dialogue: 0,0:06:25.79,0:06:28.03,Thinking,,0,0,0,,I can feel it, even through the net.
 Dialogue: 0,0:06:28.72,0:06:34.00,Thinking,,0,0,0,,The same... no... an even greater tension\Nthan I felt during the new first dan series.
 Dialogue: 0,0:06:35.40,0:06:36.83,Thinking,,0,0,0,,Touya Meijin...
@@ -222,188 +223,189 @@ Dialogue: 0,0:07:45.61,0:07:49.45,Background,,0,0,0,,Yoshitaka! What were you ou
 Dialogue: 0,0:07:49.75,0:07:52.79,Background,,0,0,0,,I thought the tutoring game was\Nsupposed to end last night!
 Dialogue: 0,0:07:53.76,0:07:57.46,Default,,0,0,0,,I played Go at Saeki-san's place, and stayed there.
 Dialogue: 0,0:07:57.84,0:08:01.51,Background,,0,0,0,,I told you to call home whenever you do that.
-Dialogue: 0,0:08:01.61,0:08:04.02,Default,,0,0,0,,I tried to call your cell, but you had turned it off.
+Dialogue: 0,0:08:01.61,0:08:04.21,Background,,0,0,0,,I tried to call your cell, but you had turned it off.
 Dialogue: 0,0:08:04.02,0:08:05.47,Default,,0,0,0,,Oh, sorry.
-Dialogue: 0,0:08:06.32,0:08:07.52,Default,,0,0,0,,Breakfast?
-Dialogue: 0,0:08:08.25,0:08:09.34,Default,,0,0,0,,I had it already!
-Dialogue: 0,0:08:12.02,0:08:14.93,Default,,0,0,0,,Maybe I'll get my own place, just like Saeki-san.
-Dialogue: 0,0:08:16.30,0:08:20.79,Default,,0,0,0,,I'll get more referrals from the Master, and pick up more record keeper jobs.
-Dialogue: 0,0:08:21.66,0:08:25.94,Default,,0,0,0,,I'll have the money from my matches, too. I should be able to pay for my own room...
+Dialogue: 0,0:08:06.32,0:08:07.52,Background,,0,0,0,,Breakfast?
+Dialogue: 0,0:08:08.22,0:08:09.51,Default,,0,0,0,,I had it already!
+Dialogue: 0,0:08:12.02,0:08:14.93,Background,,0,0,0,,Maybe I'll get my own place, just like Saeki-san.
+Dialogue: 0,0:08:16.30,0:08:20.86,Default,,0,0,0,,I'll get more referrals from the Master,\Nand pick up more record keeper jobs.
+Dialogue: 0,0:08:21.66,0:08:25.99,Default,,0,0,0,,I'll have the money from my matches, too.\NI should be able to pay for my own room...
 Dialogue: 0,0:08:26.77,0:08:29.04,Default,,0,0,0,,But what about food and laundry?
-Dialogue: 0,0:08:36.55,0:08:39.00,Default,,0,0,0,,Maybe I'll try playing on the net for a change.
-Dialogue: 0,0:08:42.15,0:08:44.65,Default,,0,0,0,,Yoshitaka, are you going to be home today?
-Dialogue: 0,0:08:45.16,0:08:47.18,Default,,0,0,0,,You're eating lunch and dinner at home, right?
-Dialogue: 0,0:08:47.81,0:08:49.37,Default,,0,0,0,,Yeah! I'll have them at home.
-Dialogue: 0,0:08:51.52,0:08:52.36,Default,,0,0,0,,Hmm! Sai!
-Dialogue: 0,0:08:53.21,0:08:57.40,Default,,0,0,0,,It must be the fake Sai from before. He showed up again?
+Dialogue: 0,0:08:36.50,0:08:39.00,Default,,0,0,0,,Maybe I'll try playing on the net for a change.
+Dialogue: 0,0:08:42.15,0:08:44.65,Background,,0,0,0,,Yoshitaka, are you going to be home today?
+Dialogue: 0,0:08:45.13,0:08:47.30,Background,,0,0,0,,You're eating lunch and dinner at home, right?
+Dialogue: 0,0:08:47.81,0:08:49.43,Default,,0,0,0,,Yeah! I'll have them at home.
+Dialogue: 0,0:08:50.34,0:08:52.36,Default,,0,0,0,,Hmm? Sai?
+Dialogue: 0,0:08:53.21,0:08:57.40,Default,,0,0,0,,It must be the fake Sai from before.\NHe showed up again?
 Dialogue: 0,0:08:57.80,0:08:59.91,Default,,0,0,0,,Or is it a different fake Sai?
-Dialogue: 0,0:09:02.32,0:09:04.45,Default,,0,0,0,,toya... koyo...?
+Dialogue: 0,0:09:02.32,0:09:04.45,Background,,0,0,0,,toya... koyo...?
 Dialogue: 0,0:09:05.02,0:09:07.41,Default,,0,0,0,,What!? Touya Kouyou!?
 Dialogue: 0,0:09:07.98,0:09:11.69,Default,,0,0,0,,There's a fake Touya Meijin, too!?
-Dialogue: 0,0:09:12.27,0:09:14.14,Default,,0,0,0,,There's no way that the Meijin would play Go on the internet.
-Dialogue: 0,0:09:14.51,0:09:17.91,Default,,0,0,0,,He's the type that looks down on it, just like Master Morishita.
-Dialogue: 0,0:09:19.36,0:09:21.29,Default,,0,0,0,,Besides, isn't he still in the hospital?
-Dialogue: 0,0:09:22.09,0:09:25.12,Default,,0,0,0,,Well, I guess he could play if he had a private room.
+Dialogue: 0,0:09:12.24,0:09:14.33,Default,,0,0,0,,There's no way that the Meijin\Nwould play Go on the Internet.
+Dialogue: 0,0:09:14.51,0:09:17.91,Default,,0,0,0,,He's the type that looks down on\Nit, just like Master Morishita.
+Dialogue: 0,0:09:19.33,0:09:21.37,Default,,0,0,0,,Besides, isn't he still in the hospital?
+Dialogue: 0,0:09:22.09,0:09:25.12,Default,,0,0,0,,Well, I guess he could play\Nif he had a private room.
 Dialogue: 0,0:09:27.19,0:09:29.43,Default,,0,0,0,,It can't be him, though.
-Dialogue: 0,0:09:30.91,0:09:34.43,Default,,0,0,0,,He's in a match. Who is he playing?
-Comment: 0,0:09:34.43,0:09:36.47,Computer,,0,0,0,,TODO
-Dialogue: 0,0:09:37.00,0:09:37.81,Default,,0,0,0,,Sai!?
-Dialogue: 0,0:09:38.43,0:09:40.43,Default,,0,0,0,,What!? They're playing each other?
+Dialogue: 0,0:09:30.84,0:09:34.30,Default,,0,0,0,,He's in a match. Who is he playing?
+Comment: 0,0:09:34.43,0:09:36.47,NoteArial,,0,0,0,,Need to do this still
+Dialogue: 0,0:09:34.43,0:09:36.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(205,90)}BLACK
+Dialogue: 0,0:09:36.97,0:09:38.02,Default,,0,0,0,,Sai!?
+Dialogue: 0,0:09:38.39,0:09:40.43,Default,,0,0,0,,What!? They're playing each other?
 Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 482 37 l 515 37 l 515 53 l 482 53 m 480 80 l 605 80 l 605 98 l 480 98 m 478 110 l 620 110 l 620 128 l 478 128 m 479 147 l 516 147 l 516 164 l 479 164 m 478 194 l 606 194 l 606 210 l 478 210 m 478 222 l 620 222 l 620 240 l 478 240 m 477 259 l 546 259 l 546 275 l 477 275 m 478 280 l 584 280 l 584 297 l 478 297 m 477 304 l 514 304 l 514 325 l 477 325 m 583 305 l 617 305 l 617 322 l 583 322 m 498 378 l 530 378 l 530 397 l 498 397 m 562 379 l 628 379 l 628 396 l 562 396 m 522 413 l 586 413 l 586 431 l 522 431{\p0}
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,40,,{\an7\fnArial\fs12}WHITE
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,82,,{\an7\fnArial\fs14\b0}Captured: 0 Stones
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,108,,{\an7\fnArial\fs14\b0}Rem. Time: 165 / 180
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,151,,{\an7\fnArial\fs12}BLACK
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,193,,{\an7\fnArial\fs14\b0}Captured: 0 Stones
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,219,,{\an7\fnArial\fs14\b0}Rem. Time: 168 / 180
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,260,,{\an7\fnArial\fs12}GAME INFO
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,281,,{\an7\fnArial\fs14\b0}Komi: 5.5 Moku
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,307,,{\an7\fnArial\fs14\b0}Move:
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,580,15,308,,{\fnArial\fs14\b0}Auto
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,477,86,380,,{\fnArial\fs15\b0}Chat
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,556,9,380,,{\fnArial\fs15\b0}Chat-Win
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,477,9,414,,{\fnArial\fs15\b0}Stop Observing
-Dialogue: 0,0:09:41.28,0:09:42.84,Default,,0,0,0,,It just started.
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx97\fscy110\pos(483,40)}WHITE
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx97\pos(480,84)}Captured: 0 Stones
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx97\pos(480,113)}Rem. Time: 165 / 180
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx97\fscy110\pos(483,150)}BLACK
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx97\pos(480,197)}Captured: 0 Stones
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx97\pos(480,224)}Rem. Time: 165 / 180
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13\blur1\fscx96\fscy105\pos(483,260)}MATCH INFO
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx96\fscy105\pos(480,283)}Komi: 5.5 Moku
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx96\fscy105\pos(480,306)}Move:
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx96\fscy105\pos(585,306)}Auto
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx96\fscy105\pos(500,380)}Chat
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx96\fscy105\pos(564,380)}Chat-Win
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx96\fscy105\pos(506,413)}Stop Observing
+Dialogue: 0,0:09:41.28,0:09:42.90,Background,,0,0,0,,It just started.
 Dialogue: 0,0:09:44.86,0:09:46.96,Default,,0,0,0,,Touya Kouyou against Sai!?
-Dialogue: 0,0:09:47.18,0:09:49.61,Default,,0,0,0,,It would be an incredible match if they were the real thing.
+Dialogue: 0,0:09:47.15,0:09:49.78,Default,,0,0,0,,It would be an incredible match\Nif they were the real thing.
 Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 81 8 l 196 8 l 196 64 l 81 64 m 77 174 l 295 174 l 295 227 l 77 227 m 321 191 l 332 191 l 332 201 l 321 201 m 321 212 l 332 212 l 332 224 l 321 224 m 428 177 l 545 177 l 545 227 l 428 227 m 72 282 l 296 282 l 296 334 l 72 334 m 348 277 l 583 277 l 583 333 l 348 333 m 73 405 l 306 405 l 306 461 l 73 461{\p0}
-Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,81,0,16,,{\an7\fnArial\fs38\fscy115}BLACK
-Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,81,0,170,,{\an7\fnArial\fs60\b0}Captured: 0 Stones
-Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,81,0,260,,{\an7\fnArial\fs60\b0}Rem. Time: 165 / 180
-Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,81,0,410,,{\an7\fnArial\fs38\fscy115}{\pos(81,410)}MATCH INFO
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs44\blur1\fscy110\pos(87,16)}BLACK
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs56\blur1\fscy110\pos(84,175)}Captured: 0 Stones
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs56\blur1\fscy110\pos(84,277)}Rem.Time: 165 / 180
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs44\blur1\fscy110\pos(86,412)}MATCH INFO
 Dialogue: 0,0:09:50.92,0:09:55.28,Default,,0,0,0,,Hmm? They have three hours!? On the net!?
 Dialogue: 0,0:10:00.09,0:10:03.04,Default,,0,0,0,,Could it be.... the Meijin!?
 Dialogue: 0,0:10:06.04,0:10:06.92,Default,,0,0,0,,Could it be...
-Dialogue: 0,0:10:10.98,0:10:11.80,Default,,0,0,0,,Sai!?
-Dialogue: 0,0:10:12.60,0:10:13.96,Default,,0,0,0,,Is it the real Sai!?
-Dialogue: 0,0:10:47.08,0:10:48.00,Default,,0,0,0,,Hello?
+Dialogue: 0,0:10:10.98,0:10:11.84,Default,,0,0,0,,Sai!?
+Dialogue: 0,0:10:12.60,0:10:14.09,Default,,0,0,0,,Is it the real Sai!?
+Dialogue: 0,0:10:47.08,0:10:48.09,Default,,0,0,0,,Hello?
 Dialogue: 0,0:10:48.68,0:10:51.63,Default,,0,0,0,,Oh, Meneer Ooijer. Thanks for the other day.
-Dialogue: 0,0:10:53.57,0:10:56.64,Default,,0,0,0,,And why are you calling me at this time of the night?
+Dialogue: 0,0:10:53.57,0:10:56.64,Default,,0,0,0,,And why are you calling me\Nat this time of the night?
 Dialogue: 0,0:10:57.41,0:10:58.12,Default,,0,0,0,,Yes?
 Dialogue: 0,0:11:00.05,0:11:02.54,Default,,0,0,0,,What? Touya Kouyou is playing on the net?
 Dialogue: 0,0:11:02.95,0:11:05.03,Default,,0,0,0,,And who is he playing?
 Dialogue: 0,0:11:08.54,0:11:09.28,Default,,0,0,0,,What!?
-Dialogue: 0,0:11:10.16,0:11:13.21,Default,,0,0,0,,It's Sai. The person you told me about the other day.
+Dialogue: 0,0:11:10.16,0:11:13.21,Default,,0,0,0,,It's Sai. The person you told\Nme about the other day.
 Dialogue: 0,0:11:14.49,0:11:17.57,Default,,0,0,0,,I don't know if he's the real thing, though.
-Dialogue: 0,0:11:17.95,0:11:19.16,Default,,0,0,0,,Sai, you say?
-Dialogue: 0,0:11:19.83,0:11:21.08,Default,,0,0,0,,Playing Touya Kouyou!?
-Dialogue: 0,0:11:21.76,0:11:23.33,Default,,0,0,0,,Hurry! Hurry!
+Dialogue: 0,0:11:17.91,0:11:19.16,Default,,0,0,0,,Sai, you say!?
+Dialogue: 0,0:11:19.83,0:11:21.20,Background,,0,0,0,,Playing Touya Kouyou!?
+Dialogue: 0,0:11:21.76,0:11:23.33,Background,,0,0,0,,Hurry! Hurry!
 Dialogue: 0,0:11:23.92,0:11:26.31,Default,,0,0,0,,It's around noon in Japan right now.
 Dialogue: 0,0:11:26.79,0:11:29.59,Default,,0,0,0,,Touya Kouyou and... Sai...
-Dialogue: 0,0:11:30.65,0:11:31.34,Default,,0,0,0,,This is it?
-Dialogue: 0,0:12:03.73,0:12:05.04,Thinking,,0,0,0,,So this is Sai...
-Dialogue: 0,0:12:06.32,0:12:07.20,Thinking,,0,0,0,,He is...
+Dialogue: 0,0:11:30.63,0:11:31.34,Default,,0,0,0,,This is it!
+Dialogue: 0,0:12:03.70,0:12:05.20,Thinking,,0,0,0,,So this is Sai...
+Dialogue: 0,0:12:06.32,0:12:07.33,Thinking,,0,0,0,,He is...
 Dialogue: 0,0:12:09.66,0:12:11.75,Thinking,,0,0,0,,a worthy opponent!
-Dialogue: 0,0:12:20.11,0:12:21.64,Default,,0,0,0,,See, it's Sai.
+Dialogue: 0,0:12:20.11,0:12:21.64,Background,,0,0,0,,See, it's Sai!
 Dialogue: 0,0:12:22.04,0:12:25.56,Default,,0,0,0,,Yeah! And he's playing Toya Koyo!
-Dialogue: 0,0:12:26.29,0:12:29.10,Default,,0,0,0,,I came here because I wanted to watch them play together.
+Dialogue: 0,0:12:26.27,0:12:29.10,Default,,0,0,0,,I came here because I wanted\Nto watch them play together.
 Dialogue: 0,0:12:29.92,0:12:32.16,Default,,0,0,0,,Look at the clock, they have three hours!
 Dialogue: 0,0:12:32.66,0:12:34.11,Default,,0,0,0,,There's plenty of time.
 Dialogue: 0,0:12:34.36,0:12:36.57,Default,,0,0,0,,Wow! This is incredible.
-Dialogue: 0,0:12:37.27,0:12:38.32,Default,,0,0,0,,I'll go make some coffee.
-Dialogue: 0,0:12:38.40,0:12:40.58,Default,,0,0,0,,Yeah, make some for me, too.
+Dialogue: 0,0:12:37.27,0:12:38.32,Background,,0,0,0,,I'll go make some coffee.
+Dialogue: 0,0:12:38.40,0:12:40.58,Background,,0,0,0,,Yeah, make some for me, too.
 Dialogue: 0,0:12:43.09,0:12:47.20,Default,,0,0,0,,This is incredible, is it really that Sai!?
-Dialogue: 0,0:12:49.43,0:12:54.38,Default,,0,0,0,,The Sai who disappeared from the net after the match against Akira?
-Dialogue: 0,0:12:56.72,0:12:58.14,Default,,0,0,0,,Then it's an incredible match.
-Dialogue: 0,0:12:58.69,0:13:00.40,Default,,0,0,0,,sai vs toya koyo.
-Dialogue: 0,0:13:04.09,0:13:09.06,Default,,0,0,0,,The match has progressed peacefully so far. I wonder how it'll go from here.
-Dialogue: 0,0:13:15.64,0:13:17.80,Thinking,,0,0,0,,He's not just an amateur.
+Dialogue: 0,0:12:49.43,0:12:54.38,Background,,0,0,0,,The Sai who disappeared from the net\Nafter the match against Akira?
+Dialogue: 0,0:12:56.72,0:12:58.34,Default,,0,0,0,,Then it's an incredible match.
+Dialogue: 0,0:12:58.69,0:13:00.47,Default,,0,0,0,,Sai vs. toya koyo.
+Dialogue: 0,0:13:04.09,0:13:09.06,Default,,0,0,0,,The match has progressed peacefully so\Nfar. I wonder how it'll go from here.
+Dialogue: 0,0:13:15.64,0:13:17.94,Thinking,,0,0,0,,He's not just an amateur.
 Dialogue: 0,0:13:21.25,0:13:24.17,Thinking,,0,0,0,,But he doesn't remind me of any pro.
-Dialogue: 0,0:13:29.91,0:13:35.00,Thinking,,0,0,0,,I have no intention of taking back my word that I will retire if I lose, but...
-Dialogue: 0,0:13:42.53,0:13:43.44,Thinking,,0,0,0,,If I win...
-Dialogue: 0,0:13:44.17,0:13:46.49,Thinking,,0,0,0,,You have to tell me...
-Dialogue: 0,0:13:49.71,0:13:51.76,Thinking,,0,0,0,,who you are!
-Dialogue: 0,0:13:55.38,0:13:58.07,Default,,0,0,0,,What a surprise, Sai is here!
+Dialogue: 0,0:13:29.91,0:13:35.00,Thinking,,0,0,0,,I have no intentions of taking back my\Nword that I will retire if I lose, but...
+Dialogue: 0,0:13:42.53,0:13:43.59,Thinking,,0,0,0,,If I win...
+Dialogue: 0,0:13:44.17,0:13:46.56,Thinking,,0,0,0,,You have to tell me...
+Dialogue: 0,0:13:49.71,0:13:51.73,Thinking,,0,0,0,,who you are!
+Dialogue: 0,0:13:55.38,0:13:58.07,Background,,0,0,0,,What a surprise, Sai is here!
 Dialogue: 0,0:13:59.47,0:14:03.03,Default,,0,0,0,,And he's playing Toya Koyo!
-Dialogue: 0,0:14:03.96,0:14:10.37,Default,,0,0,0,,I played Toya Koyo before, he's Touya Meijin from Japan. There's no doubt about it.
-Dialogue: 0,0:14:11.76,0:14:17.42,Default,,0,0,0,,Sai is playing the Meijin evenly, too. He's definitely the Sai...
-Dialogue: 0,0:14:17.75,0:14:19.56,Default,,0,0,0,,From two years ago.
+Dialogue: 0,0:14:03.96,0:14:10.37,Default,,0,0,0,,I played Toya Koyo before, he's Touya Meijin\Nfrom Japan. There's no doubt about it.
+Dialogue: 0,0:14:11.76,0:14:17.42,Default,,0,0,0,,Sai is playing the Meijin evenly,\Ntoo. He's definitely the Sai...
+Dialogue: 0,0:14:17.75,0:14:19.56,Background,,0,0,0,,from two years ago.
 Dialogue: 0,0:14:49.21,0:14:50.87,Thinking,,0,0,0,,He's attacking.
 Dialogue: 0,0:15:13.43,0:15:16.40,Thinking,,0,0,0,,I see what he's trying to do.
 Dialogue: 0,0:15:43.04,0:15:44.13,Thinking,,0,0,0,,Then...
 Dialogue: 0,0:15:47.47,0:15:49.09,Default,,0,0,0,,Touya made a move!
 Dialogue: 0,0:15:54.73,0:15:56.55,Default,,0,0,0,,Isn't this what White....
 Dialogue: 0,0:15:57.27,0:15:59.35,Default,,0,0,0,,what Sai wanted?
-Dialogue: 0,0:16:00.22,0:16:04.48,Default,,0,0,0,,This is the answer that the Meijin came up with after all that time?
+Dialogue: 0,0:16:00.19,0:16:04.48,Default,,0,0,0,,This is the answer that the Meijin\Ncame up with after all that time?
 Dialogue: 0,0:16:26.84,0:16:30.51,Thinking,,0,0,0,,This should be exactly what you wanted. But...
-Dialogue: 0,0:16:35.70,0:16:38.43,Thinking,,0,0,0,,By cautiously attacking from the Boushi...
-Dialogue: 0,0:16:38.88,0:16:44.11,Thinking,,0,0,0,,the situation turns into one that's not bad at all for me.
-Dialogue: 0,0:16:48.56,0:16:50.91,Default,,0,0,0,,It's Touya Meijin! It's him!
+Dialogue: 0,0:16:35.72,0:16:38.69,Thinking,,0,0,0,,by cautiously attacking from the Boushi...
+Dialogue: 0,0:16:38.89,0:16:44.11,Thinking,,0,0,0,,the situation turns into one that's not bad at all for me.
+Dialogue: 0,0:16:48.53,0:16:50.91,Background,,0,0,0,,It's Touya Meijin! It's him!
 Dialogue: 0,0:16:51.52,0:16:55.91,Default,,0,0,0,,I... I had no idea things could turn out this way.
-Dialogue: 0,0:16:56.91,0:16:59.84,Default,,0,0,0,,It looked as if Sai had the advantage...
-Dialogue: 0,0:17:00.29,0:17:01.98,Default,,0,0,0,,But now that we're here...
-Dialogue: 0,0:17:02.39,0:17:05.75,Default,,0,0,0,,That first move that Sai made... it's...
-Dialogue: 0,0:17:07.12,0:17:09.82,Default,,0,0,0,,It's lost its meaning!
+Dialogue: 0,0:16:56.91,0:16:59.84,Background,,0,0,0,,It looked as if Sai had the advantage...
+Dialogue: 0,0:17:00.29,0:17:01.98,Background,,0,0,0,,But now that we're here...
+Dialogue: 0,0:17:02.39,0:17:05.75,Background,,0,0,0,,That first move that Sai made... it's...
+Dialogue: 0,0:17:07.09,0:17:09.93,Background,,0,0,0,,It's lost its meaning!
 Dialogue: 0,0:17:10.99,0:17:14.43,Default,,0,0,0,,Wow! You're awesome, Master Touya!
 Dialogue: 0,0:17:17.05,0:17:22.44,Default,,0,0,0,,This is my Go. The Go of the Meijin, Touya Kouyou!
-Dialogue: 0,0:17:29.76,0:17:35.13,Default,,0,0,0,,I won't hold back. I will win and make you name yourself!
-Dialogue: 0,0:17:38.94,0:17:40.57,Default,,0,0,0,,Touya Meijin was okay this time, but...
-Dialogue: 0,0:17:41.10,0:17:43.88,Default,,0,0,0,,he has a full schedule of matches
+Dialogue: 0,0:17:29.76,0:17:35.13,Default,,0,0,0,,I won't hold back. I will win and\Nmake you name yourself!
+Dialogue: 0,0:17:38.95,0:17:40.71,Background,,0,0,0,,Touya Meijin was okay this time, but...
+Dialogue: 0,0:17:41.10,0:17:43.88,Background,,0,0,0,,he has a full schedule of matches
 Dialogue: 0,0:17:44.31,0:17:47.30,Default,,0,0,0,,outside the country next week.
 Dialogue: 0,0:17:47.34,0:17:49.88,Default,,0,0,0,,I wouldn't be surprised if he collapses again.
 Dialogue: 0,0:17:50.31,0:17:51.32,Default,,0,0,0,,Come on.
-Dialogue: 0,0:17:51.37,0:17:55.54,Default,,0,0,0,,That's why we young ones have to take on a title or two from him,
-Dialogue: 0,0:17:55.78,0:17:58.03,Default,,0,0,0,,to lighten the load a bit.
-Dialogue: 0,0:18:00.60,0:18:04.40,Default,,0,0,0,,Ogata-san is doing well in the Jyudan match with two wins and two losses.
-Dialogue: 0,0:18:04.85,0:18:08.29,Default,,0,0,0,,And Kurata has finally gotten the challenger spot for the next Honinbou match.
+Dialogue: 0,0:17:51.37,0:17:55.54,Default,,0,0,0,,That's why we young ones have\Nto take on a title or two from him,
+Dialogue: 0,0:17:55.78,0:17:58.03,Default,,0,0,0,,to lighten his load a bit.
+Dialogue: 0,0:18:00.60,0:18:04.40,Default,,0,0,0,,Ogata-san is doing well in the Jyudan\Nmatch with two wins and two losses.
+Dialogue: 0,0:18:04.81,0:18:08.36,Default,,0,0,0,,And Kurata has finally gotten the challenger\Nspot for the next Honinbou match.
 Dialogue: 0,0:18:08.79,0:18:10.67,Default,,0,0,0,,We've got to keep moving, too.
 Dialogue: 0,0:18:11.09,0:18:12.87,Default,,0,0,0,,Hey, how's it going?
 Dialogue: 0,0:18:13.03,0:18:14.61,Default,,0,0,0,,Why are you so late?
 Dialogue: 0,0:18:15.44,0:18:16.30,Default,,0,0,0,,Hello.
 Dialogue: 0,0:18:16.66,0:18:19.05,Default,,0,0,0,,Oh? Touya-kun, you're here, too?
 Dialogue: 0,0:18:19.12,0:18:21.16,Default,,0,0,0,,Yeah, I invited him.
-Dialogue: 0,0:18:21.71,0:18:25.17,Default,,0,0,0,,He comes up with all these great moves. We've been learning from him all day.
+Dialogue: 0,0:18:21.71,0:18:25.17,Default,,0,0,0,,He comes up with all these great moves.\NWe've been learning from him all day.
 Dialogue: 0,0:18:25.67,0:18:28.63,Default,,0,0,0,,How is Master Touya's health? Is he okay?
 Dialogue: 0,0:18:29.23,0:18:29.88,Default,,0,0,0,,Yes.
-Dialogue: 0,0:18:30.01,0:18:33.88,Default,,0,0,0,,Didn't you see the fourth game of the Jyudan match? He's healthier than you are.
+Dialogue: 0,0:18:30.01,0:18:33.88,Default,,0,0,0,,Didn't you see the fourth game of the Jyudan\Nmatch? He's healthier than you are.
 Dialogue: 0,0:18:34.43,0:18:35.96,Default,,0,0,0,,He'll be leaving the hospital in two days.
-Dialogue: 0,0:18:36.30,0:18:39.08,Default,,0,0,0,,I'm sure he's playing on the internet right now.
+Dialogue: 0,0:18:36.30,0:18:39.08,Default,,0,0,0,,I'm sure he's playing on the Internet right now.
 Dialogue: 0,0:18:39.29,0:18:41.37,Default,,0,0,0,,Internet? Master Touya?
 Dialogue: 0,0:18:41.94,0:18:43.89,Default,,0,0,0,,Wow, he doesn't look like the type.
-Dialogue: 0,0:18:44.56,0:18:45.93,Default,,0,0,0,,Are they playing right now?
-Dialogue: 0,0:18:46.58,0:18:48.40,Default,,0,0,0,,You have a PC. Turn it on.
-Dialogue: 0,0:18:48.75,0:18:51.66,Default,,0,0,0,,I don't play on the internet much, but...
+Dialogue: 0,0:18:44.52,0:18:46.02,Background,,0,0,0,,Are they playing right now?
+Dialogue: 0,0:18:46.58,0:18:48.40,Background,,0,0,0,,You have a PC. Turn it on.
+Dialogue: 0,0:18:48.75,0:18:51.66,Default,,0,0,0,,I don't play on the Internet much, but...
 Dialogue: 0,0:18:51.72,0:18:54.31,Default,,0,0,0,,Then what do you use your PC for?
-Dialogue: 0,0:18:54.63,0:18:56.19,Default,,0,0,0,,It's useful for organizing records of games.
+Dialogue: 0,0:18:54.63,0:18:56.28,Default,,0,0,0,,It's useful for organizing records of games.
 Dialogue: 0,0:18:56.55,0:18:58.69,Default,,0,0,0,,Hold on...
-Dialogue: 0,0:18:59.11,0:19:00.41,Default,,0,0,0,,What's his handle?
-Dialogue: 0,0:19:01.12,0:19:01.99,Default,,0,0,0,,His real name.
-Dialogue: 0,0:19:02.27,0:19:03.77,Default,,0,0,0,,Touya...
+Dialogue: 0,0:18:59.08,0:19:00.41,Default,,0,0,0,,What's his handle?
+Dialogue: 0,0:19:01.12,0:19:02.04,Default,,0,0,0,,His real name.
+Dialogue: 0,0:19:02.27,0:19:03.54,Background,,0,0,0,,Touya...
 Dialogue: 0,0:19:03.85,0:19:06.92,Default,,0,0,0,,Internet Go... maybe I'll get a PC, too.
 Dialogue: 0,0:19:07.27,0:19:09.14,Default,,0,0,0,,There he is, toya koyo.
 Dialogue: 0,0:19:09.28,0:19:10.92,Default,,0,0,0,,Where? Here?
 Dialogue: 0,0:19:11.43,0:19:13.55,Default,,0,0,0,,There are a lot of spectators.
 Dialogue: 0,0:19:13.74,0:19:15.74,Default,,0,0,0,,He is Touya Kouyou.
 Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 48 103 l 107 103 l 107 122 l 48 122 m 38 141 l 116 141 l 116 156 l 38 156 m 136 141 l 167 141 l 167 158 l 136 158 m 197 142 l 256 142 l 256 160 l 197 160 m 502 141 l 533 141 l 533 160 l 502 160 m 569 141 l 600 141 l 600 160 l 581 160 l 573 154 l 572 160 l 569 160 m 632 140 l 640 140 l 640 160 l 632 160 m 225 178 l 254 178 l 254 195 l 225 195 m 349 178 l 380 178 l 380 195 l 349 195 m 472 178 l 498 178 l 498 195 l 472 195 m 504 178 l 531 178 l 531 194 l 504 194 m 534 178 l 561 178 l 561 195 l 534 195 m 569 178 l 592 178 l 592 194 l 569 194 m 599 177 l 626 177 l 626 195 l 599 195 m 629 177 l 640 177 l 640 196 l 629 196{\p0}
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,50,0,103,,{\an7\fnArial\fs19\fscx80}Players  :
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,38,0,141,,{\an7\fnArial\fs16\b0}USER-ID
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,137,0,141,,{\an7\fnArial\fs16\b0}Nation
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,205,0,143,,{\an7\fnArial\fs19\fscx80}GAMES  :
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,501,0,143,,{\an7\fnArial\fs18\fscx60\b0}Refresh
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,566,0,143,,{\an7\fnArial\fs18\fscx50\b0}Observe
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,633,0,143,,{\an7\fnArial\fs18\fscx50\b0}Back
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,230,0,179,,{\an7\fnArial\fs16\b0}WHITE
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,355,0,179,,{\an7\fnArial\fs16\b0}BLACK
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,474,0,179,,{\an7\fnArial\fs16\fscx60\b0}MOVE
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,508,0,179,,{\an7\fnArial\fs16\fscx60\b0}SIZE
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,537,0,179,,{\an7\fnArial\fs16\fscx60\b0}HAND
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,570,0,179,,{\an7\fnArial\fs16\fscx60\b0}KOMI
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,601,0,179,,{\an7\fnArial\fs16\fscx60\b0}TIME
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy150\pos(52,101)}Players  :
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\blur1\fscy70\pos(38,142)}USER-ID
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15\blur1\fscy80\pos(138.4,144)}Nation
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy130\pos(201,143)}GAMES:
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs9.5\blur1\fscx100\fscy200\pos(502,141)}Refresh
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs9\blur1\fscx100\fscy200\pos(567,141)}Observe
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs9\blur1\fscx100\fscy200\pos(633,141)}Back
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx100\fscy130\pos(227,179)}WHITE
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx100\fscy130\pos(351,179)}BLACK
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(473,179)}MOVE
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(506,179)}SIZE
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(536,179)}HAND
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(569,179)}KOMI
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(601,179)}TIME
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 505 36 l 538 36 l 538 53 l 505 53 m 503 83 l 633 83 l 633 100 l 503 100 m 502 113 l 640 113 l 640 131 l 502 131 m 505 151 l 539 151 l 539 169 l 505 169 m 503 200 l 633 200 l 633 217 l 503 217 m 501 230 l 640 230 l 640 248 l 501 248 m 502 266 l 571 266 l 571 285 l 502 285 m 502 290 l 611 290 l 611 309 l 502 309 m 501 316 l 537 316 l 537 336 l 501 336 m 614 316 l 640 316 l 640 334 l 614 334 m 521 392 l 555 392 l 555 411 l 521 411 m 591 393 l 640 393 l 640 412 l 591 412 m 546 427 l 613 427 l 613 447 l 546 447{\p0}
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,39,,{\an7\fnArial\fs14}WHITE
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,84,,{\an7\fnArial\fs14\b0}Captured: 1 Stone
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,110,,{\an7\fnArial\fs14\b0}Rem. Time: 127 / 180
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,154,,{\an7\fnArial\fs14}BLACK
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,198,,{\an7\fnArial\fs14\b0}Captured: 0 Stones
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,224,,{\an7\fnArial\fs14\b0}Rem. Time: 168 / 180
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,269,,{\an7\fnArial\fs14}GAME INFO
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,292,,{\an7\fnArial\fs14\b0}Komi: 5.5 Moku
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,318,,{\an7\fnArial\fs14\b0}Move:
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,610,1,318,,{\fnArial\fs14\b0}Auto
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,500,60,396,,{\fnArial\fs15\b0}Chat
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,598,1,396,,{\fnArial\fs15\b0}Chat-Win
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,505,1,430,,{\fnArial\fs15\b0}Stop Observing
-Dialogue: 0,0:19:18.92,0:19:19.59,Default,,0,0,0,,Is this it?
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,39,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,38)}WHITE
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,84,,{\1c&H2E260E&\an7\fnArial\fs16\blur1\fscx100\fscy115\pos(505,81)}Captured: 1 Stone
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,110,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,113)}Rem. Time: 127 / 180
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,154,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,154)}BLACK
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,198,,{\1c&H2E260E&\an7\fnArial\fs16\blur1\fscx98\fscy115\pos(505,200)}Captured: 0 Stones
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,224,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,229)}Rem. Time: 122 / 180
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,269,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,270)}GAME INFO
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,292,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,290)}Komi: 5.5 Moku
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,318,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,316)}Move:
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,610,1,318,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(612,316)}Auto
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,500,60,396,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(522,393)}Chat
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,598,1,396,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(587,393)}Chat-Win
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,505,1,430,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(530,428)}Stop Observing
+Dialogue: 0,0:19:18.89,0:19:19.64,Background,,0,0,0,,Is this it?
 Dialogue: 0,0:19:21.14,0:19:24.94,Default,,0,0,0,,Wow, this is incredible. What's going on with white on the top side?
 Dialogue: 0,0:19:25.60,0:19:27.68,Default,,0,0,0,,The lower left looks interesting, too.
 Dialogue: 0,0:19:28.10,0:19:30.32,Default,,0,0,0,,The game is... I wonder...
