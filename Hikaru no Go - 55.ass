@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 13
-Active Line: 27
-Video Position: 5427
+Scroll Position: 293
+Active Line: 316
+Video Position: 27739
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -160,20 +160,20 @@ Dialogue: 0,0:05:29.83,0:05:32.12,Thinking,,0,0,0,,is he really going to retire?
 Dialogue: 0,0:05:33.31,0:05:36.26,Default,,0,0,0,,An even match with a komi of 5.5...
 Dialogue: 0,0:05:37.13,0:05:40.03,Default,,0,0,0,,Three hours on each of our clocks...
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 88 102 l 551 102 l 551 135 l 88 135 c{\p0}
-Dialogue: 0,0:05:40.03,0:05:44.87,NoteArial,,0,0,0,,{\fs28\1c&HA08020&\fscx101\fscy85\bord0\shad0\pos(322,106)}Request toya koyo-san for a game
+Dialogue: 0,0:05:40.03,0:05:44.87,NoteArial,,0,0,0,,{\fs28\1c&HA08020&\fscx101\fscy85\bord0\blur1\shad0\pos(322,106)}Request toya koyo-san for a game
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 151 171 l 278 171 l 278 195 l 151 195 c{\p0}
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\fscx100\pos(150,170)}Board Size
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\fscx100\blur1\pos(150,170)}Board Size
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 151 210 l 196 210 l 196 236 l 151 236 c{\p0}
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\b1\pos(150,212)}Komi
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\blur1\pos(150,212)}Komi
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 151 255 l 315 255 l 315 279 l 151 279 c{\p0}
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\b1\pos(150,256)}Time on Clock
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\blur1\pos(150,256)}Time on Clock
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 151 296 l 228 296 l 228 321 l 151 321 c{\p0}
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\b1\pos(150,298)}Byou-Yomi
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\blur1\pos(150,298)}Byou-Yomi
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 120 375 l 160 375 l 160 396 l 120 396 m 235 375 l 275 375 l 275 396 l 235 396 m 368 375 l 404 375 l 404 396 l 368 396 m 473 375 l 529 375 l 529 396 l 473 396 c{\p0}
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs21\fscy85\pos(139,378)}Chat
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs21\fscy85\pos(256,378)}Info
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs15\fscy150\pos(391,373)}Request
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs17\fscy130\pos(500,375)}Cancel
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs21\fscy85\blur1\pos(139,378)}Chat
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs21\fscy85\blur1\pos(256,378)}Info
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs15\fscy150\blur1\pos(391,373)}Request
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs17\fscy130\blur1\pos(500,375)}Cancel
 Dialogue: 0,0:05:41.04,0:05:43.16,Thinking,,0,0,0,,For a player with five titles to disappear...
 Dialogue: 0,0:05:43.22,0:05:44.87,Thinking,,0,0,0,,Isn't that a big deal!?
 Dialogue: 0,0:05:45.24,0:05:46.80,Thinking,,0,0,0,,I can't let it happen!
@@ -183,20 +183,20 @@ Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs37\bl
 Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 464 200 l 607 200 l 607 247 l 525 247 l 513 240 l 509 247 l 464 247 c{\p0}
 Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs42\blur2\fscy132\pos(532,192)}Cancel
 Dialogue: 0,0:05:56.34,0:05:56.88,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 156 138 l 498 138 l 498 161 l 156 161 c{\p0}
-Dialogue: 0,0:05:56.34,0:05:56.88,NoteArial,,0,0,0,,{\fs21\1c&HA08020&\fscx101\fscy85\bord0\shad0\pos(322,141)}Request toya koyo-san for a game
+Dialogue: 0,0:05:56.34,0:05:56.88,NoteArial,,0,0,0,,{\fs21\1c&HA08020&\fscx101\fscy85\bord0\shad0\blur1\pos(322,141)}Request toya koyo-san for a game
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 203 187 l 298 187 l 298 206 l 203 206 c{\p0}
-Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\pos(200,187)}Board Size
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\blur1\pos(200,187)}Board Size
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 204 218 l 236 218 l 236 236 l 204 236 c{\p0}
-Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\pos(200,218)}Komi
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\blur1\pos(200,218)}Komi
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 200 249 l 324 249 l 324 270 l 200 270 c{\p0}
-Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\pos(200,249)}Time on Clock
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\blur1\pos(200,249)}Time on Clock
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 200 282 l 260 282 l 260 300 l 200 300 c{\p0}
-Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\pos(200,282)}Byou-Yomi
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\blur1\pos(200,282)}Byou-Yomi
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 180 340 l 210 340 l 210 356 l 180 356 m 265 340 l 295 340 l 295 356 l 265 356 m 362 340 l 396 340 l 396 356 l 392 356 l 390 348 l 387 356 l 362 356 m 439 340 l 483 340 l 483 356 l 439 356 c{\p0}
-Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs16\fscy85\pos(193,342)}Chat
-Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs16\fscy85\pos(279,342)}Info
-Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs11\fscy150\pos(379,339)}Request
-Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs12\fscy135\pos(458,341)}Cancel
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs16\fscy85\blur1\pos(193,342)}Chat
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs16\fscy85\blur1\pos(279,342)}Info
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs11\fscy150\blur1\pos(379,339)}Request
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs12\fscy135\blur1\pos(458,341)}Cancel
 Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 452 55 l 483 55 l  483 69 l 452 69 m 450 95 l 565 95 l 565 111 l 450 111 m 449 122 l 579 122 l 579 137 l 449 137 m 452 155 l 482 155 l 482 171 l 452 171 m 451 199 l 565 199 l 565 213 l 451 213 m 448 224 l 579 224 l 579 240 l 448 240 m 450 256 l 511 256 l 511 272 l 450 272 m 449 277 l 545 277 l 545 293 l 449 293 m 449 301 l 480 301 l 480 316 l 449 316 m 548 299 l 575 299 l 575 315 l 548 315 m 466 368 l 496 368 l 496 383 l 466 383 m 527 367 l 584 367 l 584 383 l 527 383 m 489 398 l 574 398 l 574 414 l 489 414{\p0}
 Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx98\fscy110\pos(451,57)}WHITE
 Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\pos(451,96)}Captured: 0 Stones
@@ -247,6 +247,7 @@ Dialogue: 0,0:09:19.33,0:09:21.37,Default,,0,0,0,,Besides, isn't he still in the
 Dialogue: 0,0:09:22.09,0:09:25.12,Default,,0,0,0,,Well, I guess he could play\Nif he had a private room.
 Dialogue: 0,0:09:27.19,0:09:29.43,Default,,0,0,0,,It can't be him, though.
 Dialogue: 0,0:09:30.84,0:09:34.30,Default,,0,0,0,,He's in a match. Who is he playing?
+Comment: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,Remember to blur this and WHITE to probably 2 if doing box method.
 Dialogue: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(205,90)}BLACK
 Dialogue: 0,0:09:35.14,0:09:35.55,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\move(205,90,-155,90)}BLACK
 Dialogue: 0,0:09:35.39,0:09:35.43,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(725,90)}WHITE
