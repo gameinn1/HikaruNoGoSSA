@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 4023
+Video Zoom Percent: 0.625000
+Scroll Position: 6
+Active Line: 28
+Video Position: 6813
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -89,33 +90,35 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:44.46,0:02:45.78,Thinking,,0,0,0,,So this is Sai...
+Dialogue: 0,0:02:44.31,0:02:46.10,Thinking,,0,0,0,,So this is Sai...
 Dialogue: 0,0:02:47.11,0:02:52.43,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(310,115)}The Fifty-Sixth Match
-Dialogue: 0,0:02:47.11,0:02:52.43,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Answer to His Millennium
-Dialogue: 0,0:03:10.99,0:03:11.70,Default,,0,0,0,,This is...
-Dialogue: 0,0:03:12.50,0:03:14.73,Default,,0,0,0,,Touya... Kouyou...
-Dialogue: 0,0:03:15.60,0:03:17.52,Default,,0,0,0,,and... Sai...
-Dialogue: 0,0:03:22.85,0:03:24.47,Default,,0,0,0,,Your important match is next week?
-Dialogue: 0,0:03:25.08,0:03:27.49,Default,,0,0,0,,I don't mind you coming here to relax, but...
-Dialogue: 0,0:03:28.21,0:03:30.33,Default,,0,0,0,,Why don't you try to enjoy it?
+Dialogue: 0,0:02:47.11,0:02:52.43,Title_eps,,0,0,0,,{\fs38\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Answer to His Millennium
+Dialogue: 0,0:03:10.96,0:03:11.88,Default,,0,0,0,,This is...
+Dialogue: 0,0:03:12.50,0:03:14.97,Default,,0,0,0,,Touya... Kouyou...
+Dialogue: 0,0:03:15.60,0:03:17.80,Default,,0,0,0,,and... Sai...
+Dialogue: 0,0:03:22.85,0:03:24.60,Background,,0,0,0,,Your important match is next week?
+Dialogue: 0,0:03:25.08,0:03:27.56,Background,,0,0,0,,I don't mind you coming here to relax, but...
+Dialogue: 0,0:03:28.21,0:03:30.33,Background,,0,0,0,,Why don't you try to enjoy it?
 Dialogue: 0,0:03:32.33,0:03:34.04,Default,,0,0,0,,Don't you enjoy being with me?
 Dialogue: 0,0:03:34.91,0:03:37.33,Default,,0,0,0,,There is nothing I enjoy more than Go.
-Dialogue: 0,0:03:38.31,0:03:39.79,Default,,0,0,0,,What a boring man you are.
+Dialogue: 0,0:03:38.31,0:03:40.03,Background,,0,0,0,,What a boring man you are.
 Dialogue: 0,0:03:41.30,0:03:43.15,Default,,0,0,0,,You're going to lose if you don't relax.
-Dialogue: 0,0:03:43.72,0:03:46.10,Default,,0,0,0,,I'm cheering you on, so don't lose.
-Dialogue: 0,0:03:47.50,0:03:49.95,Default,,0,0,0,,Like you even know what title I'm playing for.
-Dialogue: 0,0:03:59.27,0:04:03.08,Thinking,,0,0,0,,I lost the Honinbou match against Master Kuwabara in the last game, but...
+Dialogue: 0,0:03:43.72,0:03:46.04,Default,,0,0,0,,I'm cheering you on, so don't lose.
+Dialogue: 0,0:03:47.50,0:03:50.08,Default,,0,0,0,,Like you even know what title I'm playing for.
+Dialogue: 0,0:03:59.22,0:04:03.14,Thinking,,0,0,0,,I lost the Honinbou match against Master\NKuwabara in the last game, but...
 Dialogue: 0,0:04:03.46,0:04:05.16,Thinking,,0,0,0,,This time...
-Dialogue: 0,0:04:06.97,0:04:09.28,Default,,0,0,0,,Maybe I'll stop by the hospital on my way home,
-Dialogue: 0,0:04:09.54,0:04:12.81,Default,,0,0,0,,and check up on my opponent for the Jyudan match.
-Dialogue: 0,0:04:24.68,0:04:25.78,Default,,0,0,0,,No visitors!?
-Dialogue: 0,0:04:29.44,0:04:30.08,Default,,0,0,0,,Excuse me!
-Dialogue: 0,0:04:31.52,0:04:33.82,Default,,0,0,0,,Did something happen to Master Touya?
-Dialogue: 0,0:04:34.55,0:04:36.29,Default,,0,0,0,,Oh, the sign?
-Dialogue: 0,0:04:36.97,0:04:38.52,Default,,0,0,0,,Don't worry about it.
-Dialogue: 0,0:04:39.09,0:04:42.49,Default,,0,0,0,,It's only up there because Touya-san asked us to put it up yesterday.
+Dialogue: 0,0:04:06.93,0:04:09.28,Default,,0,0,0,,Maybe I'll stop by the hospital on my way home,
+Dialogue: 0,0:04:09.54,0:04:12.81,Default,,0,0,0,,and check up on my opponent\Nfor the Jyudan match.
+Dialogue: 0,0:04:16.03,0:04:19.36,NoteArial,,0,0,0,,{\fs11\1c&H4B2E9F&\shad1\bord0\frz7\fscy140\move(368,490,368,218)\frx12\fry345}AISHINDOU\NHOSPITAL
+Dialogue: 0,0:04:21.99,0:04:23.62,NoteArial,,0,0,0,,{\fs27.5\1c&H4A2D34&\bord0\pos(342,116)}N\NO\N\N\NV\NI\NS\NI\NT\NO\NR\NS
+Dialogue: 0,0:04:24.62,0:04:25.91,Default,,0,0,0,,No visitors!?
+Dialogue: 0,0:04:29.37,0:04:30.25,Background,,0,0,0,,Excuse me!
+Dialogue: 0,0:04:31.52,0:04:33.88,Default,,0,0,0,,Did something happen to Master Touya?
+Dialogue: 0,0:04:34.50,0:04:36.29,Default,,0,0,0,,Oh, the sign?
+Dialogue: 0,0:04:36.92,0:04:38.55,Default,,0,0,0,,Don't worry about it.
+Dialogue: 0,0:04:39.09,0:04:42.51,Default,,0,0,0,,It's only up there because Touya-san\Nasked us to put it up yesterday.
 Dialogue: 0,0:04:42.83,0:04:43.77,Default,,0,0,0,,He asked you to?
-Dialogue: 0,0:04:44.12,0:04:47.85,Default,,0,0,0,,He said that he doesn't want anybody bothering him today.
+Dialogue: 0,0:04:44.12,0:04:47.85,Default,,0,0,0,,He said that he doesn't want\Nanybody bothering him today.
 Dialogue: 0,0:04:48.54,0:04:52.58,Default,,0,0,0,,He's really focused on playing Go on the internet.
 Dialogue: 0,0:04:53.15,0:04:54.07,Default,,0,0,0,,Internet Go!?
 Dialogue: 0,0:04:54.30,0:04:54.98,Default,,0,0,0,,Yes.

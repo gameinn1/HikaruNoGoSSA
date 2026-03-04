@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 286
-Active Line: 314
-Video Position: 27751
+Video Zoom Percent: 0.625000
+Scroll Position: 13
+Active Line: 27
+Video Position: 5427
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -247,8 +247,35 @@ Dialogue: 0,0:09:19.33,0:09:21.37,Default,,0,0,0,,Besides, isn't he still in the
 Dialogue: 0,0:09:22.09,0:09:25.12,Default,,0,0,0,,Well, I guess he could play\Nif he had a private room.
 Dialogue: 0,0:09:27.19,0:09:29.43,Default,,0,0,0,,It can't be him, though.
 Dialogue: 0,0:09:30.84,0:09:34.30,Default,,0,0,0,,He's in a match. Who is he playing?
-Comment: 0,0:09:34.43,0:09:36.47,NoteArial,,0,0,0,,Need to do this still
-Dialogue: 0,0:09:34.43,0:09:36.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(205,90)}BLACK
+Dialogue: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(205,90)}BLACK
+Dialogue: 0,0:09:35.14,0:09:35.55,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\move(205,90,-155,90)}BLACK
+Dialogue: 0,0:09:35.39,0:09:35.43,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(725,90)}WHITE
+Dialogue: 0,0:09:35.43,0:09:35.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(693,90)}WHITE
+Dialogue: 0,0:09:35.43,0:09:35.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(693,90)}WHITE
+Dialogue: 0,0:09:35.47,0:09:35.51,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(664,90)}WHITE
+Dialogue: 0,0:09:35.51,0:09:35.55,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(631,90)}WHITE
+Dialogue: 0,0:09:35.55,0:09:35.60,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(572,90)}WHITE
+Dialogue: 0,0:09:35.60,0:09:35.64,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(542,90)}WHITE
+Dialogue: 0,0:09:35.64,0:09:35.68,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(520,90)}WHITE
+Dialogue: 0,0:09:35.68,0:09:35.72,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(493,90)}WHITE
+Dialogue: 0,0:09:35.72,0:09:35.76,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(449,90)}WHITE
+Dialogue: 0,0:09:35.76,0:09:35.81,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(430,90)}WHITE
+Dialogue: 0,0:09:35.81,0:09:35.85,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(415,90)}WHITE
+Dialogue: 0,0:09:35.85,0:09:35.89,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(390,90)}WHITE
+Dialogue: 0,0:09:35.89,0:09:35.93,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(380,90)}WHITE
+Dialogue: 0,0:09:35.93,0:09:35.97,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(373,90)}WHITE
+Dialogue: 0,0:09:35.97,0:09:36.01,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(366,90)}WHITE
+Dialogue: 0,0:09:36.01,0:09:36.06,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(360,90)}WHITE
+Dialogue: 0,0:09:36.06,0:09:36.10,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(354,90)}WHITE
+Dialogue: 0,0:09:36.10,0:09:36.14,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(350,90)}WHITE
+Dialogue: 0,0:09:36.14,0:09:36.18,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(348,90)}WHITE
+Dialogue: 0,0:09:36.18,0:09:36.22,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(346,90)}WHITE
+Dialogue: 0,0:09:36.22,0:09:36.26,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(344,90)}WHITE
+Dialogue: 0,0:09:36.26,0:09:36.31,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(342,90)}WHITE
+Dialogue: 0,0:09:36.31,0:09:36.35,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(341,90)}WHITE
+Dialogue: 0,0:09:36.35,0:09:36.39,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(340,90)}WHITE
+Dialogue: 0,0:09:36.39,0:09:36.43,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(339,90)}WHITE
+Dialogue: 0,0:09:36.43,0:09:36.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(338,90)}WHITE
 Dialogue: 0,0:09:36.97,0:09:38.02,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:09:38.39,0:09:40.43,Default,,0,0,0,,What!? They're playing each other?
 Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 482 37 l 515 37 l 515 53 l 482 53 m 480 80 l 605 80 l 605 98 l 480 98 m 478 110 l 620 110 l 620 128 l 478 128 m 479 147 l 516 147 l 516 164 l 479 164 m 478 194 l 606 194 l 606 210 l 478 210 m 478 222 l 620 222 l 620 240 l 478 240 m 477 259 l 546 259 l 546 275 l 477 275 m 478 280 l 584 280 l 584 297 l 478 297 m 477 304 l 514 304 l 514 325 l 477 325 m 583 305 l 617 305 l 617 322 l 583 322 m 498 378 l 530 378 l 530 397 l 498 397 m 562 379 l 628 379 l 628 396 l 562 396 m 522 413 l 586 413 l 586 431 l 522 431{\p0}
@@ -392,45 +419,45 @@ Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs1
 Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(569,179)}KOMI
 Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(601,179)}TIME
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 505 36 l 538 36 l 538 53 l 505 53 m 503 83 l 633 83 l 633 100 l 503 100 m 502 113 l 640 113 l 640 131 l 502 131 m 505 151 l 539 151 l 539 169 l 505 169 m 503 200 l 633 200 l 633 217 l 503 217 m 501 230 l 640 230 l 640 248 l 501 248 m 502 266 l 571 266 l 571 285 l 502 285 m 502 290 l 611 290 l 611 309 l 502 309 m 501 316 l 537 316 l 537 336 l 501 336 m 614 316 l 640 316 l 640 334 l 614 334 m 521 392 l 555 392 l 555 411 l 521 411 m 591 393 l 640 393 l 640 412 l 591 412 m 546 427 l 613 427 l 613 447 l 546 447{\p0}
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,39,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,38)}WHITE
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,84,,{\1c&H2E260E&\an7\fnArial\fs16\blur1\fscx100\fscy115\pos(505,81)}Captured: 1 Stone
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,110,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,113)}Rem. Time: 127 / 180
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,154,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,154)}BLACK
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,198,,{\1c&H2E260E&\an7\fnArial\fs16\blur1\fscx98\fscy115\pos(505,200)}Captured: 0 Stones
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,224,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,229)}Rem. Time: 122 / 180
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,269,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,270)}GAME INFO
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,292,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,290)}Komi: 5.5 Moku
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,318,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,316)}Move:
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,610,1,318,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(612,316)}Auto
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,500,60,396,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(522,393)}Chat
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,598,1,396,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(587,393)}Chat-Win
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,505,1,430,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(530,428)}Stop Observing
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,38)}WHITE
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs16\blur1\fscx100\fscy115\pos(505,81)}Captured: 1 Stone
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,113)}Rem. Time: 127 / 180
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,154)}BLACK
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs16\blur1\fscx98\fscy115\pos(505,200)}Captured: 0 Stones
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,229)}Rem. Time: 122 / 180
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,270)}GAME INFO
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,290)}Komi: 5.5 Moku
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,316)}Move:
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(612,316)}Auto
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(522,393)}Chat
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(587,393)}Chat-Win
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(530,428)}Stop Observing
 Dialogue: 0,0:19:18.89,0:19:19.64,Background,,0,0,0,,Is this it?
-Dialogue: 0,0:19:21.14,0:19:24.94,Default,,0,0,0,,Wow, this is incredible. What's going on with white on the top side?
+Dialogue: 0,0:19:21.14,0:19:24.94,Default,,0,0,0,,Wow, this is incredible. What's going\Non with white on the top side?
 Dialogue: 0,0:19:25.60,0:19:27.68,Default,,0,0,0,,The lower left looks interesting, too.
 Dialogue: 0,0:19:28.10,0:19:30.32,Default,,0,0,0,,The game is... I wonder...
 Dialogue: 0,0:19:32.03,0:19:34.71,Default,,0,0,0,,Huh? I can't tell how the game went.
 Dialogue: 0,0:19:35.37,0:19:37.49,Default,,0,0,0,,White isn't bad.
 Dialogue: 0,0:19:38.02,0:19:40.60,Default,,0,0,0,,Master Touya is black. He's incredible.
 Dialogue: 0,0:19:40.67,0:19:42.10,Default,,0,0,0,,Yes, but white is strong.
-Dialogue: 0,0:19:42.20,0:19:46.30,Default,,0,0,0,,Yeah, it's an even game. He's playing this well in an even game.
+Dialogue: 0,0:19:42.20,0:19:46.30,Default,,0,0,0,,Yeah, it's an even game. He's playing\Nthis well in an even game.
 Dialogue: 0,0:19:46.39,0:19:48.50,Default,,0,0,0,,Wait! They have three hours on the clock!
 Dialogue: 0,0:19:49.09,0:19:51.66,Thinking,,0,0,0,,Yes. This is not just any player.
-Dialogue: 0,0:19:51.83,0:19:53.55,Default,,0,0,0,,Exactly who is he playing?
-Dialogue: 0,0:19:53.76,0:19:54.94,Default,,0,0,0,,Let's see....
+Dialogue: 0,0:19:51.83,0:19:53.55,Background,,0,0,0,,Exactly who is he playing?
+Dialogue: 0,0:19:53.76,0:19:54.97,Background,,0,0,0,,Let's see....
 Dialogue: 0,0:19:57.69,0:19:59.28,Default,,0,0,0,,His opponent's name is...
 Dialogue: 0,0:19:59.78,0:20:00.26,Default,,0,0,0,,Sai?
-Dialogue: 0,0:20:00.71,0:20:01.26,Default,,0,0,0,,Sai?
-Dialogue: 0,0:20:01.76,0:20:02.26,Default,,0,0,0,,Sai?
-Dialogue: 0,0:20:02.85,0:20:04.10,Default,,0,0,0,,Who is Sai?
-Dialogue: 0,0:20:04.28,0:20:05.24,Default,,0,0,0,,How am I supposed to know?
+Dialogue: 0,0:20:00.68,0:20:01.26,Default,,0,0,0,,Sai?
+Dialogue: 0,0:20:01.72,0:20:02.26,Default,,0,0,0,,Sai?
+Dialogue: 0,0:20:02.85,0:20:04.10,Default,,0,0,0,,Who's Sai?
+Dialogue: 0,0:20:04.28,0:20:05.52,Default,,0,0,0,,How am I supposed to know?
 Dialogue: 0,0:20:18.09,0:20:21.77,Default,,0,0,0,,Well you can't know, but he has to be a pro.
 Dialogue: 0,0:20:21.84,0:20:22.78,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:20:25.12,0:20:25.92,Thinking,,0,0,0,,This is...
-Dialogue: 0,0:20:31.12,0:20:31.88,Thinking,,0,0,0,,This is Sai!
-Dialogue: 0,0:20:32.69,0:20:33.74,Thinking,,0,0,0,,It's Sai!
-Dialogue: 0,0:20:37.24,0:20:38.51,Thinking,,0,0,0,,My father is...
-Dialogue: 0,0:20:38.82,0:20:40.19,Default,,0,0,0,,playing Sai!
+Dialogue: 0,0:20:25.08,0:20:26.12,Thinking,,0,0,0,,This is...
+Dialogue: 0,0:20:31.12,0:20:32.13,Thinking,,0,0,0,,This is Sai!
+Dialogue: 0,0:20:32.69,0:20:33.84,Thinking,,0,0,0,,It's Sai!
+Dialogue: 0,0:20:37.22,0:20:38.34,Thinking,,0,0,0,,My father is...
+Dialogue: 0,0:20:38.84,0:20:40.18,Thinking,,0,0,0,,playing Sai!
 Dialogue: 0,0:22:13.13,0:22:15.32,Default,,0,0,0,,Let's cover a Fuseki problem today.
 Dialogue: 0,0:22:15.16,0:22:18.51,Note,,0,0,0,,Fuseki is the opening of the game.
 Dialogue: 0,0:22:16.23,0:22:18.84,Default,,0,0,0,,White just went to 3-3 and here's the problem.
