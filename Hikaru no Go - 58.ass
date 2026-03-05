@@ -16,9 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 12
-Video Position: 3427
+Video Zoom Percent: 0.625000
+Active Line: 11
+Video Position: 3388
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,13 +51,13 @@ Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,
 Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
 Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
 Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,15,1
 Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
+Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,0,0,20,1
+Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
+Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
 Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
@@ -89,18 +89,18 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.24,0:01:44.72,Default,,0,0,0,,Are you... Sai?
-Dialogue: 0,0:01:44.73,0:01:46.56,Default,,0,0,0,,No! No! I'm not!
-Dialogue: 0,0:01:46.64,0:01:47.70,Default,,0,0,0,,Why do you think I'm him?
-Dialogue: 0,0:01:48.38,0:01:50.95,Default,,0,0,0,,He reminded me of you during the match.
-Dialogue: 0,0:01:53.00,0:01:56.25,Default,,0,0,0,,He would have gotten an advantage if he played in the corner instead of connecting.
-Dialogue: 0,0:01:56.60,0:01:59.74,Default,,0,0,0,,See? Black's winning by a little this way.
-Dialogue: 0,0:02:00.15,0:02:01.11,Default,,0,0,0,,You're right.
-Dialogue: 0,0:02:04.31,0:02:10.70,Default,,0,0,0,,Everyone around us is starting to notice Hikaru's strength.
-Dialogue: 0,0:02:12.11,0:02:12.89,Default,,0,0,0,,I can see it.
-Dialogue: 0,0:02:14.82,0:02:16.78,Default,,0,0,0,,The brilliant future that...
-Dialogue: 0,0:02:17.96,0:02:19.15,Default,,0,0,0,,Hikaru has, shining above him...
-Dialogue: 0,0:02:19.71,0:02:20.89,Default,,0,0,0,,The future I lack...
+Dialogue: 0,0:01:42.08,0:01:44.42,Default,,0,0,0,,Are you... Sai?
+Dialogue: 0,0:01:44.67,0:01:46.46,Default,,0,0,0,,No! No! I'm not!
+Dialogue: 0,0:01:46.59,0:01:47.96,Default,,0,0,0,,Why do you think I'm him?
+Dialogue: 0,0:01:48.30,0:01:50.63,Default,,0,0,0,,He reminded me of you during the match.
+Dialogue: 0,0:01:52.88,0:01:56.10,Default,,0,0,0,,He would have gotten an advantage if he played\Nin the corner instead of connecting.
+Dialogue: 0,0:01:56.55,0:01:59.64,Default,,0,0,0,,See? Black's winning by a little this way.
+Dialogue: 0,0:02:00.15,0:02:01.06,Default,,0,0,0,,You're right.
+Dialogue: 0,0:02:04.23,0:02:10.70,Sai,,0,0,0,,Everyone around us is starting\Nto notice Hikaru's strength.
+Dialogue: 0,0:02:12.07,0:02:12.95,Sai,,0,0,0,,I can see it.
+Dialogue: 0,0:02:14.70,0:02:16.49,Sai,,0,0,0,,The brilliant future that...
+Dialogue: 0,0:02:17.91,0:02:19.49,Sai,,0,0,0,,Hikaru has, shining above him...
+Dialogue: 0,0:02:19.71,0:02:21.08,Sai,,0,0,0,,The future I lack...
 Dialogue: 0,0:02:22.16,0:02:27.09,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(330,115)}The Fifty-Eighth Match
 Dialogue: 0,0:02:22.16,0:02:27.09,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}One-Color Go
 Dialogue: 0,0:02:34.38,0:02:39.70,Note,,0,0,0,,Ouza Match Finals Game 1
