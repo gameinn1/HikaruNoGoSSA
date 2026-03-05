@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 13
-Video Position: 3418
+Video Zoom Percent: 0.625000
+Scroll Position: 237
+Active Line: 261
+Video Position: 29675
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -89,266 +90,268 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.66,0:01:44.08,Thinking,,0,0,0,,This atmosphere...
-Dialogue: 0,0:01:44.08,0:01:45.98,Thinking,,0,0,0,,It feels familiar.
-Dialogue: 0,0:01:47.61,0:01:50.40,Thinking,,0,0,0,,Yes! This atmosphere...
-Dialogue: 0,0:01:51.47,0:01:52.68,Thinking,,0,0,0,,This feeling of pressure...
+Dialogue: 0,0:01:42.66,0:01:43.92,Thinking,,0,0,0,,This atmosphere...
+Dialogue: 0,0:01:44.67,0:01:45.98,Thinking,,0,0,0,,It feels familiar.
+Dialogue: 0,0:01:47.61,0:01:50.21,Thinking,,0,0,0,,Yes! This atmosphere...
+Dialogue: 0,0:01:51.42,0:01:52.76,Thinking,,0,0,0,,This feeling of pressure...
 Dialogue: 0,0:01:53.77,0:01:55.70,Thinking,,0,0,0,,I've felt it before.
 Dialogue: 0,0:01:57.29,0:01:58.16,Thinking,,0,0,0,,This is...
-Dialogue: 0,0:01:59.37,0:02:01.71,Thinking,,0,0,0,,It's the old Shindou...
-Dialogue: 0,0:02:02.72,0:02:04.26,Thinking,,0,0,0,,that I see in Sai!
-Dialogue: 0,0:02:08.20,0:02:10.61,Default,,0,0,0,,I... finally understand.
-Dialogue: 0,0:02:11.94,0:02:13.40,Default,,0,0,0,,God has...
-Dialogue: 0,0:02:13.40,0:02:16.28,Default,,0,0,0,,given me a thousand years...
-Dialogue: 0,0:02:17.31,0:02:21.35,Default,,0,0,0,,just to show Hikaru this match.
+Dialogue: 0,0:01:59.35,0:02:01.71,Thinking,,0,0,0,,It's the old Shindou...
+Dialogue: 0,0:02:02.72,0:02:04.40,Thinking,,0,0,0,,that I see in Sai!
+Dialogue: 0,0:02:08.20,0:02:10.61,Sai,,0,0,0,,I... finally understand.
+Dialogue: 0,0:02:12.15,0:02:13.24,Sai,,0,0,0,,God has...
+Dialogue: 0,0:02:13.91,0:02:16.32,Sai,,0,0,0,,given me a thousand years...
+Dialogue: 0,0:02:17.28,0:02:21.08,Sai,,0,0,0,,just to show Hikaru this match.
 Dialogue: 0,0:02:21.87,0:02:26.79,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Fifty-Seventh Match
 Dialogue: 0,0:02:21.87,0:02:26.79,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Let Me Play Sai!
-Dialogue: 0,0:02:34.41,0:02:35.16,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:02:40.98,0:02:41.70,Thinking,,0,0,0,,Father...
-Dialogue: 0,0:02:46.54,0:02:47.25,Thinking,,0,0,0,,Sai...
-Dialogue: 0,0:02:48.62,0:02:49.52,Thinking,,0,0,0,,It's Sai...
-Dialogue: 0,0:02:59.36,0:03:00.42,Default,,0,0,0,,Ah! The wind feels great!
+Dialogue: 0,0:02:34.34,0:02:35.16,Sai,,0,0,0,,Hikaru...
+Dialogue: 0,0:02:40.93,0:02:41.81,Thinking,,0,0,0,,Father...
+Dialogue: 0,0:02:46.48,0:02:47.27,Thinking,,0,0,0,,Sai...
+Dialogue: 0,0:02:48.62,0:02:49.65,Thinking,,0,0,0,,It's Sai...
+Dialogue: 0,0:02:58.62,0:03:00.66,Default,,0,0,0,,Ah! The wind feels great!
 Dialogue: 0,0:03:04.72,0:03:05.36,Default,,0,0,0,,Say,
 Dialogue: 0,0:03:06.05,0:03:06.83,Default,,0,0,0,,Sai.
-Dialogue: 0,0:03:06.83,0:03:08.39,Default,,0,0,0,,You told me before...
-Dialogue: 0,0:03:09.04,0:03:12.67,Default,,0,0,0,,that only the people playing the game can see some things.
-Dialogue: 0,0:03:13.24,0:03:16.11,Default,,0,0,0,,Well, being where I was during that game it felt as if...
+Dialogue: 0,0:03:07.08,0:03:08.25,Default,,0,0,0,,You told me before...
+Dialogue: 0,0:03:09.04,0:03:12.76,Default,,0,0,0,,that only the people playing the\Ngame can see some things.
+Dialogue: 0,0:03:13.24,0:03:16.26,Background,,0,0,0,,Well, being where I was during\Nthat game it felt as if...
 Dialogue: 0,0:03:16.68,0:03:19.21,Default,,0,0,0,,I could see what you were thinking,
 Dialogue: 0,0:03:19.66,0:03:22.16,Default,,0,0,0,,and I could see what Master Touya was thinking.
-Dialogue: 0,0:03:22.61,0:03:26.43,Default,,0,0,0,,I felt as if I was in the very middle of that match today.
-Dialogue: 0,0:03:29.38,0:03:32.94,Default,,0,0,0,,Master Touya must be really disappointed, losing to Sai!
-Dialogue: 0,0:03:35.62,0:03:39.14,Default,,0,0,0,,If I lose this match, I will retire.
-Dialogue: 0,0:03:40.31,0:03:42.39,Default,,0,0,0,,Did he really mean that!?
-Dialogue: 0,0:03:45.41,0:03:46.36,Default,,0,0,0,,Ah, that was close.
-Dialogue: 0,0:04:07.55,0:04:08.27,Default,,0,0,0,,Well...
-Dialogue: 0,0:04:08.95,0:04:11.29,Default,,0,0,0,,I came here first thing in the morning, but...
-Dialogue: 0,0:04:17.67,0:04:21.45,Default,,0,0,0,,He can't really be serious, can he?
-Dialogue: 0,0:04:21.64,0:04:23.53,Default,,0,0,0,,I mean, it's crazy!
+Dialogue: 0,0:03:22.61,0:03:26.23,Default,,0,0,0,,I felt as if I was in the very\Nmiddle of that match today.
+Dialogue: 0,0:03:29.36,0:03:32.78,Default,,0,0,0,,Master Touya must be really\Ndisappointed, losing to Sai!
+Dialogue: 0,0:03:35.62,0:03:39.14,Memory,,0,0,0,,If I lose this match, I will retire.
+Dialogue: 0,0:03:40.95,0:03:42.39,Default,,0,0,0,,Did he really mean that!?
+Dialogue: 0,0:03:45.04,0:03:46.36,Background,,0,0,0,,Ah, that was close.
+Dialogue: 0,0:03:56.34,0:03:57.38,NoteArial,,0,0,0,,{\fs28\1c&H3629BC&\bord0\shad1\pos(256.335,409.545)}AISHINDOU\NHOSPITAL
+Dialogue: 0,0:04:07.55,0:04:08.35,Default,,0,0,0,,Well...
+Dialogue: 0,0:04:08.95,0:04:11.02,Default,,0,0,0,,I came here first thing in the morning, but...
+Dialogue: 0,0:04:17.67,0:04:21.07,Default,,0,0,0,,He can't really be serious, can he?
+Dialogue: 0,0:04:21.62,0:04:23.53,Default,,0,0,0,,I mean, it's crazy!
 Dialogue: 0,0:04:23.76,0:04:27.57,Default,,0,0,0,,Someone with five titles can't just retire... right?
-Dialogue: 0,0:04:29.96,0:04:31.37,Default,,0,0,0,,Y-yes...
-Dialogue: 0,0:04:32.30,0:04:35.39,Default,,0,0,0,,What? Were you thinking about something else?
+Dialogue: 0,0:04:29.96,0:04:31.37,Sai,,0,0,0,,Y-yes...
+Dialogue: 0,0:04:32.25,0:04:35.39,Default,,0,0,0,,What? Were you thinking about something else?
 Dialogue: 0,0:04:35.89,0:04:40.08,Default,,0,0,0,,Ahh! Why am I always the one that has to worry?
-Dialogue: 0,0:04:40.38,0:04:41.40,Default,,0,0,0,,Let's go, Sai.
-Dialogue: 0,0:04:47.52,0:04:49.64,Note,,0,0,0,,Touya Kouyou-sama
-Dialogue: 0,0:04:58.08,0:04:58.88,Default,,0,0,0,,Akira-san?
+Dialogue: 0,0:04:40.38,0:04:41.34,Default,,0,0,0,,Let's go, Sai.
+Dialogue: 0,0:04:47.52,0:04:49.64,NoteArial,,0,0,0,,{\fs23\1c&H534439&\bord0\shad0\fscy160\frz7\pos(308,95)\frx4\fry1}Touya Kouyou-sama
+Dialogue: 0,0:04:57.99,0:04:58.82,Default,,0,0,0,,Akira-san?
 Dialogue: 0,0:04:59.82,0:05:01.94,Default,,0,0,0,,G-Good morning.
-Dialogue: 0,0:05:02.62,0:05:07.37,Default,,0,0,0,,I'm sorry, who were you again?
-Dialogue: 0,0:05:08.49,0:05:10.00,Thinking,,0,0,0,,Touya's mom!
-Dialogue: 0,0:05:10.11,0:05:12.15,Default,,0,0,0,,Ummm... I...
-Dialogue: 0,0:05:12.23,0:05:14.87,Default,,0,0,0,,He's Shindou-kun, he just became a pro this year.
-Dialogue: 0,0:05:15.22,0:05:18.43,Default,,0,0,0,,Remember? We played once.
-Dialogue: 0,0:05:18.69,0:05:22.17,Default,,0,0,0,,Ah, yes! I remember seeing you in weekly Go.
-Dialogue: 0,0:05:22.89,0:05:25.87,Default,,0,0,0,,You're the same age as Akira-san, right?
-Dialogue: 0,0:05:28.29,0:05:32.29,Default,,0,0,0,,Akiko... I'm sorry, but could you leave the room for a minute?
-Dialogue: 0,0:05:33.54,0:05:34.64,Default,,0,0,0,,Okay, okay.
+Dialogue: 0,0:05:04.83,0:05:07.08,Default,,0,0,0,,I'm sorry, who were you again?
+Dialogue: 0,0:05:08.45,0:05:09.79,Thinking,,0,0,0,,Touya's mom!
+Dialogue: 0,0:05:09.96,0:05:11.87,Default,,0,0,0,,U-umm... I...
+Dialogue: 0,0:05:12.21,0:05:14.87,Default,,0,0,0,,He's Shindou-kun, he just became a pro this year.
+Dialogue: 0,0:05:15.17,0:05:18.09,Default,,0,0,0,,Remember? We played once.
+Dialogue: 0,0:05:18.69,0:05:22.17,Default,,0,0,0,,Ah, yes! I remember seeing you on Weekly Go.
+Dialogue: 0,0:05:22.89,0:05:25.60,Default,,0,0,0,,You're the same age as Akira-san, right?
+Dialogue: 0,0:05:28.27,0:05:32.29,Default,,0,0,0,,Akiko... I'm sorry, but could you\Nleave the room for a minute?
+Dialogue: 0,0:05:33.54,0:05:34.64,Background,,0,0,0,,Okay, okay.
 Dialogue: 0,0:05:48.34,0:05:49.13,Default,,0,0,0,,Umm...
-Dialogue: 0,0:05:49.86,0:05:51.89,Default,,0,0,0,,Master, you resigned yesterday, but...
-Dialogue: 0,0:05:52.31,0:05:54.99,Default,,0,0,0,,you won't retire... right?
-Dialogue: 0,0:05:59.98,0:06:05.66,Default,,0,0,0,,You said that you'd retire if you lost to Sai on impulse, right?
-Dialogue: 0,0:06:06.23,0:06:06.95,Default,,0,0,0,,Right?
-Dialogue: 0,0:06:08.24,0:06:11.14,Default,,0,0,0,,I just wanted to make sure...
+Dialogue: 0,0:05:49.83,0:05:51.89,Default,,0,0,0,,Master, you resigned yesterday, but...
+Dialogue: 0,0:05:52.31,0:05:54.79,Default,,0,0,0,,you won't retire... right?
+Dialogue: 0,0:05:59.92,0:06:05.39,Default,,0,0,0,,You said that you'd retire if you\Nlost to Sai on impulse, right?
+Dialogue: 0,0:06:06.23,0:06:06.97,Background,,0,0,0,,Right?
+Dialogue: 0,0:06:08.24,0:06:11.06,Background,,0,0,0,,I just wanted to make sure...
 Dialogue: 0,0:06:13.90,0:06:14.94,Default,,0,0,0,,Are you...
-Dialogue: 0,0:06:14.94,0:06:16.43,Default,,0,0,0,,Sai...
+Dialogue: 0,0:06:15.48,0:06:16.11,Default,,0,0,0,,Sai?
 Dialogue: 0,0:06:17.70,0:06:20.89,Default,,0,0,0,,No! No! It's not me! Why do you think I'm Sai!?
-Dialogue: 0,0:06:21.35,0:06:24.03,Default,,0,0,0,,He reminded me of you during the game...
-Dialogue: 0,0:06:25.16,0:06:28.33,Default,,0,0,0,,of the feeling I got when we played in the Room of Deep Contemplation.
-Dialogue: 0,0:06:50.96,0:06:51.64,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:06:21.35,0:06:23.86,Default,,0,0,0,,He reminded me of you during the game...
+Dialogue: 0,0:06:25.11,0:06:27.87,Default,,0,0,0,,of the feeling I got when we played\Nin the Room of Deep Contemplation.
+Dialogue: 0,0:06:50.96,0:06:51.68,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:06:52.36,0:06:53.76,Default,,0,0,0,,I won't pursue it.
 Dialogue: 0,0:06:55.16,0:06:57.21,Default,,0,0,0,,I don't care who Sai is.
-Dialogue: 0,0:06:58.50,0:06:59.44,Default,,0,0,0,,Shindou-kun...
+Dialogue: 0,0:06:58.50,0:06:59.61,Default,,0,0,0,,Shindou-kun...
 Dialogue: 0,0:07:01.52,0:07:02.35,Default,,0,0,0,,Let me...
 Dialogue: 0,0:07:05.41,0:07:07.52,Default,,0,0,0,,Let me play Sai again!
-Dialogue: 0,0:07:10.02,0:07:11.50,Default,,0,0,0,,I don't care if it's on the net.
-Dialogue: 0,0:07:13.60,0:07:15.67,Default,,0,0,0,,I won't ask him to tell me who he is anymore.
-Dialogue: 0,0:07:22.02,0:07:22.96,Thinking,,0,0,0,,Again?
-Dialogue: 0,0:07:25.83,0:07:26.74,Thinking,,0,0,0,,Oh yeah...
-Dialogue: 0,0:07:27.61,0:07:30.86,Thinking,,0,0,0,,We could do that if he plans to continue to play on the net.
-Dialogue: 0,0:07:32.14,0:07:32.97,Thinking,,0,0,0,,Yeah.
-Dialogue: 0,0:07:33.47,0:07:37.73,Thinking,,0,0,0,,Master Touya would probably keep it a secret from anyone else.
-Dialogue: 0,0:07:38.91,0:07:41.17,Thinking,,0,0,0,,I can probably let Sai play from time to time.
+Dialogue: 0,0:07:09.99,0:07:11.54,Default,,0,0,0,,I don't care if it's on the net.
+Dialogue: 0,0:07:13.60,0:07:15.75,Background,,0,0,0,,I won't ask him to tell me who he is anymore.
+Dialogue: 0,0:07:21.96,0:07:22.96,Thinking,,0,0,0,,Again?
+Dialogue: 0,0:07:25.80,0:07:26.74,Thinking,,0,0,0,,Oh yeah...
+Dialogue: 0,0:07:27.55,0:07:31.22,Thinking,,0,0,0,,We could do that if he plans to\Ncontinue to play on the net.
+Dialogue: 0,0:07:32.10,0:07:32.97,Thinking,,0,0,0,,Yeah.
+Dialogue: 0,0:07:33.47,0:07:37.73,Thinking,,0,0,0,,Master Touya would probably keep\Nit secret from anyone else.
+Dialogue: 0,0:07:38.85,0:07:41.23,Thinking,,0,0,0,,I can probably let Sai play from time to time.
 Dialogue: 0,0:07:41.82,0:07:44.76,Thinking,,0,0,0,,He would probably like that a lot.
-Dialogue: 0,0:07:46.92,0:07:48.77,Default,,0,0,0,,It's too late...
-Dialogue: 0,0:07:50.88,0:07:52.24,Default,,0,0,0,,I probably don't...
-Dialogue: 0,0:07:53.91,0:07:56.06,Default,,0,0,0,,have enough time for that.
-Dialogue: 0,0:07:56.97,0:07:57.91,Default,,0,0,0,,I can feel it...
-Dialogue: 0,0:07:59.27,0:08:00.30,Default,,0,0,0,,Inside me...
-Dialogue: 0,0:08:01.24,0:08:04.28,Default,,0,0,0,,The sands of time that were frozen within me...
-Dialogue: 0,0:08:04.93,0:08:08.29,Default,,0,0,0,,are mercilessly and without doubt... starting to flow once more.
-Dialogue: 0,0:08:15.85,0:08:16.60,Default,,0,0,0,,Master...
-Dialogue: 0,0:08:18.30,0:08:24.05,Default,,0,0,0,,Then... if I let you play him again, will you take back what you said about retiring?
+Dialogue: 0,0:07:46.92,0:07:48.77,Sai,,0,0,0,,It's too late.
+Dialogue: 0,0:07:50.88,0:07:52.24,Sai,,0,0,0,,I probably don't...
+Dialogue: 0,0:07:53.87,0:07:56.06,Sai,,0,0,0,,have enough time for that.
+Dialogue: 0,0:07:56.97,0:07:57.91,Sai,,0,0,0,,I can feel it...
+Dialogue: 0,0:07:59.27,0:08:00.33,Sai,,0,0,0,,Inside me...
+Dialogue: 0,0:08:01.24,0:08:04.28,Sai,,0,0,0,,The sands of time that were frozen within me...
+Dialogue: 0,0:08:04.88,0:08:08.76,Sai,,0,0,0,,are mercilessly and without doubt...\Nstarting to flow once more.
+Dialogue: 0,0:08:15.85,0:08:16.81,Background,,0,0,0,,Master...
+Dialogue: 0,0:08:18.30,0:08:24.11,Default,,0,0,0,,Then... if I let you play him again, will you\Ntake back what you said about retiring?
 Dialogue: 0,0:08:25.49,0:08:27.91,Default,,0,0,0,,I won't take back what I said.
-Dialogue: 0,0:08:28.58,0:08:33.66,Default,,0,0,0,,I intend to retire after the upcoming fifth game of the Jyudan match.
-Dialogue: 0,0:08:33.72,0:08:36.90,Default,,0,0,0,,But I just asked you not to do anything crazy like that!
-Dialogue: 0,0:08:37.59,0:08:41.40,Default,,0,0,0,,Retiring is not a great concern for me.
-Dialogue: 0,0:08:43.10,0:08:44.91,Default,,0,0,0,,In fact, it might be for the better.
-Dialogue: 0,0:08:45.56,0:08:49.96,Default,,0,0,0,,I'll be freed from th constraints and responsibilities that come from being a pro.
-Dialogue: 0,0:08:51.02,0:08:53.40,Default,,0,0,0,,I won't have to accept any boring interviews.
+Dialogue: 0,0:08:28.58,0:08:33.33,Default,,0,0,0,,I intend to retire after the upcoming\Nfifth game of the Jyudan match.
+Dialogue: 0,0:08:33.53,0:08:36.90,Default,,0,0,0,,But I just asked you not to do\Nanything crazy like that!
+Dialogue: 0,0:08:37.59,0:08:41.38,Default,,0,0,0,,Retiring is not a great concern for me.
+Dialogue: 0,0:08:43.10,0:08:45.05,Default,,0,0,0,,In fact, it might be for the better.
+Dialogue: 0,0:08:45.56,0:08:49.84,Default,,0,0,0,,I'll be freed from the constraints and\Nresponsibilities that come from being a pro.
+Dialogue: 0,0:08:51.02,0:08:53.43,Background,,0,0,0,,I won't have to accept any boring interviews.
 Dialogue: 0,0:08:54.54,0:08:56.93,Default,,0,0,0,,It's not that I won't be able to play Go.
-Dialogue: 0,0:08:58.18,0:09:01.39,Default,,0,0,0,,I have this existence.
-Dialogue: 0,0:09:02.75,0:09:05.52,Thinking,,0,0,0,,The happiness of existing...
-Dialogue: 0,0:09:11.60,0:09:14.78,Default,,0,0,0,,I can play an all absorbing game of Go outside of the title matches.
+Dialogue: 0,0:08:58.18,0:09:01.35,Default,,0,0,0,,I have this existence.
+Dialogue: 0,0:09:02.75,0:09:05.65,Thinking,,0,0,0,,The happiness of existing...
+Dialogue: 0,0:09:11.53,0:09:15.03,Default,,0,0,0,,I can play an all absorbing game\Nof Go outside of the title matches.
 Dialogue: 0,0:09:15.58,0:09:17.85,Default,,0,0,0,,The match I played yesterday proves it!
-Dialogue: 0,0:09:18.61,0:09:23.97,Default,,0,0,0,,I can play a game at that high of a level with someone I've never met before!
+Dialogue: 0,0:09:18.61,0:09:23.97,Default,,0,0,0,,I can play a game at that high of a level\Nwith someone I've never met before!
 Dialogue: 0,0:09:25.75,0:09:28.88,Default,,0,0,0,,Let me play Sai again, Shindou-kun!
-Dialogue: 0,0:09:44.73,0:09:46.90,Thinking,,0,0,0,,I have no idea who Sai is.
+Dialogue: 0,0:09:44.69,0:09:46.90,Thinking,,0,0,0,,I have no idea who Sai is.
 Dialogue: 0,0:09:47.58,0:09:48.44,Thinking,,0,0,0,,But...
-Dialogue: 0,0:09:48.44,0:09:52.61,Thinking,,0,0,0,,There is someone connected to Sai nearby.
-Dialogue: 0,0:09:54.21,0:09:55.20,Thinking,,0,0,0,,Is it Shindou...
-Dialogue: 0,0:09:55.20,0:09:58.85,Thinking,,0,0,0,,or is it one of the other people that visited him?
-Dialogue: 0,0:10:08.70,0:10:12.25,Thinking,,0,0,0,,Anyway, the person who heard that the Meijin plays go on the Internet,
+Dialogue: 0,0:09:48.90,0:09:52.61,Thinking,,0,0,0,,There is someone connected to Sai nearby.
+Dialogue: 0,0:09:54.11,0:09:55.20,Thinking,,0,0,0,,Is it Shindou...
+Dialogue: 0,0:09:56.03,0:09:58.85,Thinking,,0,0,0,,or is it one of the other people that visited him?
+Dialogue: 0,0:10:08.70,0:10:12.34,Thinking,,0,0,0,,Anyway, the person who heard that\Nthe Meijin plays go on the Internet,
 Dialogue: 0,0:10:12.63,0:10:14.82,Thinking,,0,0,0,,and arranged the match...
 Dialogue: 0,0:10:15.43,0:10:17.17,Thinking,,0,0,0,,Who is it?
-Dialogue: 0,0:10:18.98,0:10:20.64,Thinking,,0,0,0,,Master Touya should know.
-Dialogue: 0,0:10:28.80,0:10:29.73,Thinking,,0,0,0,,This voice...
-Dialogue: 0,0:10:29.73,0:10:32.12,Thinking,,0,0,0,,Is it Shindou!?
-Dialogue: 0,0:10:36.22,0:10:38.60,Thinking,,0,0,0,,I can't hear what they're saying.
-Dialogue: 0,0:10:41.73,0:10:44.04,Default,,0,0,0,,That maybe okay for you, Master,
-Dialogue: 0,0:10:44.12,0:10:47.57,Default,,0,0,0,,but not for me! I can't have that. It'll all be my fault.
-Dialogue: 0,0:10:47.83,0:10:49.91,Default,,0,0,0,,You want to play Sai again don't you, Master?
-Dialogue: 0,0:10:51.92,0:10:56.96,Default,,0,0,0,,Sai feels the same way! So please give up on that idea!
-Dialogue: 0,0:10:58.31,0:10:59.07,Default,,0,0,0,,Hikaru!
-Dialogue: 0,0:11:05.60,0:11:06.35,Default,,0,0,0,,Oga...
+Dialogue: 0,0:10:18.93,0:10:20.72,Thinking,,0,0,0,,Master Touya should know.
+Dialogue: 0,0:10:28.77,0:10:29.73,Thinking,,0,0,0,,This voice...
+Dialogue: 0,0:10:31.19,0:10:32.12,Thinking,,0,0,0,,Is it Shindou!?
+Dialogue: 0,0:10:36.20,0:10:38.60,Thinking,,0,0,0,,I can't hear what they're saying.
+Dialogue: 0,0:10:41.70,0:10:44.04,Background,,0,0,0,,That may be okay for you, Master,
+Dialogue: 0,0:10:44.12,0:10:47.57,Background,,0,0,0,,but not for me! I can't have\Nthat. It'll all be my fault.
+Dialogue: 0,0:10:47.88,0:10:49.75,Background,,0,0,0,,You want to play Sai again don't you, Master?
+Dialogue: 0,0:10:51.88,0:10:56.96,Default,,0,0,0,,Sai feels the same way! So please\Ngive up on that idea!
+Dialogue: 0,0:10:58.31,0:10:59.01,Sai,,0,0,0,,Hikaru!
+Dialogue: 0,0:11:05.56,0:11:06.31,Default,,0,0,0,,Oga...
 Dialogue: 0,0:11:06.99,0:11:07.81,Default,,0,0,0,,Sai...
-Dialogue: 0,0:11:07.81,0:11:09.14,Default,,0,0,0,,you said!?
-Dialogue: 0,0:11:12.01,0:11:14.47,Default,,0,0,0,,So you do know who Sai is!
-Dialogue: 0,0:11:16.06,0:11:18.67,Default,,0,0,0,,No! No! No! I don't know him! I have no idea!
-Dialogue: 0,0:11:18.13,0:11:18.90,Default,,0,0,0,,Ogata-kun!
-Dialogue: 0,0:11:18.90,0:11:19.83,Default,,0,0,0,,Liar!
-Dialogue: 0,0:11:19.83,0:11:21.01,Default,,0,0,0,,You just said...
-Dialogue: 0,0:11:22.90,0:11:23.63,Default,,0,0,0,,Bye!
-Dialogue: 0,0:11:24.92,0:11:25.63,Default,,0,0,0,,Wait!
-Dialogue: 0,0:11:27.61,0:11:28.33,Default,,0,0,0,,Shindou!
-Dialogue: 0,0:11:31.47,0:11:34.90,Default,,0,0,0,,Did you arrange the match between Sai and the Master!?
-Dialogue: 0,0:11:35.13,0:11:37.22,Default,,0,0,0,,No! It wasn't me!
+Dialogue: 0,0:11:08.40,0:11:09.23,Default,,0,0,0,,you said!?
+Dialogue: 0,0:11:11.98,0:11:14.47,Default,,0,0,0,,So you do know who Sai is!
+Dialogue: 0,0:11:16.03,0:11:18.70,Default,,0,0,0,,No! No! No! I don't know him! I have no idea!
+Dialogue: 0,0:11:17.87,0:11:18.70,Background,,0,0,0,,Ogata-kun!
+Dialogue: 0,0:11:18.90,0:11:19.91,Default,,0,0,0,,Liar!
+Dialogue: 0,0:11:19.95,0:11:21.01,Default,,0,0,0,,You just said...
+Dialogue: 0,0:11:22.83,0:11:23.66,Default,,0,0,0,,Bye!
+Dialogue: 0,0:11:24.91,0:11:25.62,Default,,0,0,0,,Wait!
+Dialogue: 0,0:11:27.58,0:11:28.33,Default,,0,0,0,,Shindou!
+Dialogue: 0,0:11:31.42,0:11:34.90,Default,,0,0,0,,Did you arrange the match between\NSai and the Master!?
+Dialogue: 0,0:11:35.13,0:11:37.01,Default,,0,0,0,,No! It wasn't me!
 Dialogue: 0,0:11:40.04,0:11:41.93,Default,,0,0,0,,If you know who Sai is...
-Dialogue: 0,0:11:44.05,0:11:45.33,Default,,0,0,0,,Let me play him, too!
+Dialogue: 0,0:11:44.02,0:11:45.35,Default,,0,0,0,,Let me play him, too!
 Dialogue: 0,0:11:55.95,0:11:57.31,Default,,0,0,0,,Mr. Ogata...
-Dialogue: 0,0:12:08.67,0:12:11.42,Default,,0,0,0,,M-Mr. Ogata...
-Dialogue: 0,0:12:12.54,0:12:14.85,Default,,0,0,0,,You know Sai, don't you!?
-Dialogue: 0,0:12:15.17,0:12:17.51,Default,,0,0,0,,If you know him then let me play him, too!
-Dialogue: 0,0:12:19.06,0:12:21.48,Default,,0,0,0,,I-I don't know him! I don't know him!
-Dialogue: 0,0:12:21.78,0:12:26.14,Default,,0,0,0,,I just... happened to be watching the game...
-Dialogue: 0,0:12:26.75,0:12:28.53,Default,,0,0,0,,between Sai and Master Touya on the internet...
-Dialogue: 0,0:12:35.51,0:12:36.34,Default,,0,0,0,,Shindou!
-Dialogue: 0,0:12:38.49,0:12:39.29,Default,,0,0,0,,Touya...
-Dialogue: 0,0:12:45.04,0:12:45.74,Default,,0,0,0,,Shindou!
-Dialogue: 0,0:12:50.38,0:12:51.10,Default,,0,0,0,,Ogata-san!
+Dialogue: 0,0:12:08.62,0:12:11.59,Default,,0,0,0,,M-Mr. Ogata...
+Dialogue: 0,0:12:12.54,0:12:14.59,Default,,0,0,0,,You know Sai, don't you!?
+Dialogue: 0,0:12:15.13,0:12:17.55,Background,,0,0,0,,If you know him then let me play him, too!
+Dialogue: 0,0:12:19.01,0:12:21.48,Default,,0,0,0,,I-I don't know him! I don't know him!
+Dialogue: 0,0:12:21.78,0:12:25.77,Default,,0,0,0,,I just... happened to be watching the game...
+Dialogue: 0,0:12:26.81,0:12:28.89,Background,,0,0,0,,between Sai and Master Touya on the Internet...
+Dialogue: 0,0:12:35.44,0:12:36.40,Default,,0,0,0,,Shindou!
+Dialogue: 0,0:12:38.45,0:12:39.32,Default,,0,0,0,,Touya...
+Dialogue: 0,0:12:44.91,0:12:45.74,Default,,0,0,0,,Shindou!
+Dialogue: 0,0:12:50.29,0:12:51.10,Default,,0,0,0,,Ogata-san!
 Dialogue: 0,0:12:52.91,0:12:53.84,Default,,0,0,0,,Ogata-san...
-Dialogue: 0,0:12:53.84,0:12:55.32,Default,,0,0,0,,What happened?
-Dialogue: 0,0:12:56.10,0:12:59.23,Default,,0,0,0,,Shindou was visiting the Master in his room.
-Dialogue: 0,0:12:59.72,0:13:02.67,Default,,0,0,0,,He ran away when I went in.
-Dialogue: 0,0:13:05.84,0:13:08.21,Default,,0,0,0,,I heard some of what they were talking about.
-Dialogue: 0,0:13:08.86,0:13:12.31,Default,,0,0,0,,Chances are, Shindou and Sai know each other.
-Dialogue: 0,0:13:14.65,0:13:16.39,Default,,0,0,0,,He was denying it, but...
+Dialogue: 0,0:12:54.04,0:12:55.38,Default,,0,0,0,,What happened?
+Dialogue: 0,0:12:56.05,0:12:59.23,Default,,0,0,0,,Shindou was visiting the Master in his room.
+Dialogue: 0,0:12:59.72,0:13:02.59,Default,,0,0,0,,He ran away when I went in.
+Dialogue: 0,0:13:05.81,0:13:08.21,Default,,0,0,0,,I heard some of what they were talking about.
+Dialogue: 0,0:13:08.86,0:13:12.06,Default,,0,0,0,,Chances are, Shindou and Sai know each other.
+Dialogue: 0,0:13:14.61,0:13:16.44,Default,,0,0,0,,He was denying it, but...
 Dialogue: 0,0:13:17.14,0:13:19.44,Default,,0,0,0,,all we have to do is ask the Master.
-Dialogue: 0,0:13:21.56,0:13:22.54,Thinking,,0,0,0,,They know each other...
-Dialogue: 0,0:13:23.56,0:13:24.28,Thinking,,0,0,0,,No!
-Dialogue: 0,0:13:25.34,0:13:26.70,Thinking,,0,0,0,,Shindou and Sai are...
-Dialogue: 0,0:13:29.15,0:13:30.88,Thinking,,0,0,0,,Shindou and Sai are...
-Dialogue: 0,0:13:36.20,0:13:36.88,Default,,0,0,0,,Master.
+Dialogue: 0,0:13:21.53,0:13:22.70,Thinking,,0,0,0,,They know each other...
+Dialogue: 0,0:13:23.53,0:13:24.37,Thinking,,0,0,0,,No!
+Dialogue: 0,0:13:25.34,0:13:26.79,Thinking,,0,0,0,,Shindou and Sai are...
+Dialogue: 0,0:13:29.12,0:13:30.88,Thinking,,0,0,0,,Shindou and Sai are...
+Dialogue: 0,0:13:36.17,0:13:37.00,Default,,0,0,0,,Master.
 Dialogue: 0,0:13:37.73,0:13:38.64,Default,,0,0,0,,Ogata-kun.
-Dialogue: 0,0:13:39.62,0:13:40.41,Default,,0,0,0,,Akira...
-Dialogue: 0,0:13:42.04,0:13:45.59,Default,,0,0,0,,It was Shindou, wasn't it, who arranged your match against Sai.
-Dialogue: 0,0:13:50.98,0:13:51.59,Default,,0,0,0,,No.
+Dialogue: 0,0:13:39.59,0:13:40.47,Default,,0,0,0,,Akira...
+Dialogue: 0,0:13:42.01,0:13:45.64,Default,,0,0,0,,It was Shindou, wasn't it, who arranged\Nyour match against Sai.
+Dialogue: 0,0:13:50.89,0:13:51.59,Default,,0,0,0,,No.
 Dialogue: 0,0:13:51.74,0:13:52.53,Default,,0,0,0,,Master!
-Dialogue: 0,0:13:54.01,0:13:55.54,Default,,0,0,0,,He has nothing to do with it.
-Dialogue: 0,0:13:56.93,0:14:01.96,Default,,0,0,0,,Sai challenged me to a game on the internet first thing in the morning yesterday.
+Dialogue: 0,0:13:53.98,0:13:55.54,Default,,0,0,0,,He has nothing to do with it.
+Dialogue: 0,0:13:56.90,0:14:01.96,Default,,0,0,0,,Sai challenged me to a game on the Internet\Nfirst thing in the morning yesterday.
 Dialogue: 0,0:14:02.53,0:14:03.55,Default,,0,0,0,,That's all.
-Dialogue: 0,0:14:04.80,0:14:08.80,Default,,0,0,0,,Seems like you both watched the match yesterday.
-Dialogue: 0,0:14:09.79,0:14:13.02,Default,,0,0,0,,It was a game deserving of my name, wasn't it?
-Dialogue: 0,0:14:14.03,0:14:14.94,Default,,0,0,0,,Well?
+Dialogue: 0,0:14:04.80,0:14:08.80,Background,,0,0,0,,Seems like you both watched the match yesterday.
+Dialogue: 0,0:14:09.79,0:14:13.02,Background,,0,0,0,,It was a game deserving of my name, wasn't it?
+Dialogue: 0,0:14:14.03,0:14:14.94,Background,,0,0,0,,Well?
 Dialogue: 0,0:14:16.32,0:14:20.25,Default,,0,0,0,,But... Sai went above me.
-Dialogue: 0,0:14:23.76,0:14:26.06,Default,,0,0,0,,Akira-kun, ask him!
-Dialogue: 0,0:14:26.25,0:14:29.01,Default,,0,0,0,,Don't you want to find out who Sai is as well?
-Dialogue: 0,0:14:33.31,0:14:35.49,Default,,0,0,0,,If Father says that he doesn't know who Sai is...
+Dialogue: 0,0:14:23.72,0:14:26.06,Default,,0,0,0,,Akira-kun, ask him!
+Dialogue: 0,0:14:26.25,0:14:29.14,Default,,0,0,0,,Don't you want to find out who Sai is as well?
+Dialogue: 0,0:14:33.27,0:14:35.49,Default,,0,0,0,,If Father says that he doesn't know who Sai is...
 Dialogue: 0,0:14:36.02,0:14:38.32,Default,,0,0,0,,there's no point in asking him about it any further.
-Dialogue: 0,0:14:42.36,0:14:46.41,Thinking,,0,0,0,,Ogata-san thinks that Sai and Shindou are different people.
-Dialogue: 0,0:14:47.25,0:14:48.81,Thinking,,0,0,0,,I don't have the answer for it yet.
-Dialogue: 0,0:14:50.48,0:14:52.97,Thinking,,0,0,0,,But the one thing I know for certain is...
-Dialogue: 0,0:14:54.42,0:14:58.53,Thinking,,0,0,0,,that Shindou holds the answer to all these mysteries.
-Dialogue: 0,0:15:02.91,0:15:06.53,Default,,0,0,0,,There's nothing I can do if both Shindou and the Master deny it.
-Dialogue: 0,0:15:11.21,0:15:12.23,Default,,0,0,0,,So this is it...
+Dialogue: 0,0:14:42.28,0:14:46.41,Thinking,,0,0,0,,Ogata-san thinks that Sai and\NShindou are different people.
+Dialogue: 0,0:14:47.25,0:14:48.87,Thinking,,0,0,0,,I don't have an answer for it yet.
+Dialogue: 0,0:14:50.48,0:14:52.87,Thinking,,0,0,0,,But the one thing I know for certain is...
+Dialogue: 0,0:14:54.42,0:14:58.53,Thinking,,0,0,0,,that Shindou holds the answer to all of these mysteries.
+Dialogue: 0,0:15:02.91,0:15:06.53,Default,,0,0,0,,There's nothing I can do if both\NShindou and the Master deny it.
+Dialogue: 0,0:15:11.18,0:15:12.27,Default,,0,0,0,,So this is it...
 Dialogue: 0,0:15:16.06,0:15:17.64,Default,,0,0,0,,Oh! Akira-san.
-Dialogue: 0,0:15:18.17,0:15:19.87,Default,,0,0,0,,Ogata-san, too?
-Dialogue: 0,0:15:21.16,0:15:21.80,Default,,0,0,0,,Hello.
-Dialogue: 0,0:15:21.80,0:15:23.65,Default,,0,0,0,,Did Shindou-kun leave?
-Dialogue: 0,0:15:24.29,0:15:26.37,Default,,0,0,0,,Shindou-kun was just here.
-Dialogue: 0,0:15:28.14,0:15:29.92,Default,,0,0,0,,Phew, that was close.
-Dialogue: 0,0:15:40.05,0:15:45.07,Default,,0,0,0,,Seems like Mr. Ogata heard me talking about Sai.
-Dialogue: 0,0:15:45.26,0:15:47.26,Default,,0,0,0,,And then Touya came in, too, to top it off.
-Dialogue: 0,0:15:51.49,0:15:54.99,Default,,0,0,0,,I wonder if he still thinks that I'm Sai.
-Dialogue: 0,0:15:56.05,0:15:59.98,Default,,0,0,0,,Well, I'm sure Master Touya won't tell them anything.
-Dialogue: 0,0:16:04.10,0:16:08.58,Default,,0,0,0,,But I think I can let you play the Meijin again, Sai.
-Dialogue: 0,0:16:13.37,0:16:14.20,Default,,0,0,0,,Sai?
-Dialogue: 0,0:16:15.45,0:16:17.26,Default,,0,0,0,,What's wrong, you look sad.
-Dialogue: 0,0:16:17.83,0:16:20.99,Default,,0,0,0,,I said that I can let you play him again some time.
-Dialogue: 0,0:16:25.97,0:16:27.67,Default,,0,0,0,,Don't worry about it!
-Dialogue: 0,0:16:28.24,0:16:32.01,Default,,0,0,0,,I'm sure that Master Touya won't tell anyone about me.
-Dialogue: 0,0:16:32.73,0:16:34.69,Default,,0,0,0,,I can let you play from time to time.
-Dialogue: 0,0:16:36.16,0:16:38.72,Default,,0,0,0,,From time to time?
-Dialogue: 0,0:16:39.36,0:16:42.76,Default,,0,0,0,,How distant that sounds to me right now.
-Dialogue: 0,0:16:44.00,0:16:47.31,Default,,0,0,0,,Hey! I just let you play yesterday!
-Dialogue: 0,0:16:52.54,0:16:55.41,Default,,0,0,0,,Tsk. You're always asking for more. Let's go home.
-Dialogue: 0,0:17:04.39,0:17:06.89,Default,,0,0,0,,Ahh! Dammit.
-Dialogue: 0,0:17:09.14,0:17:13.56,Default,,0,0,0,,Well, I don't think we'll be able to play him for a bit,
-Dialogue: 0,0:17:13.58,0:17:15.39,Default,,0,0,0,,because there will be a commotion over his retiring...
-Dialogue: 0,0:17:22.78,0:17:25.95,Default,,0,0,0,,Don't be impatient, we've got plenty of time.
-Dialogue: 0,0:17:30.90,0:17:31.80,Default,,0,0,0,,There is...
-Dialogue: 0,0:17:33.47,0:17:34.42,Default,,0,0,0,,no time...
-Dialogue: 0,0:17:36.58,0:17:37.91,Default,,0,0,0,,Hikaru may have it but...
-Dialogue: 0,0:17:40.44,0:17:43.10,Default,,0,0,0,,I... don't...
-Dialogue: 0,0:17:54.72,0:17:56.25,Default,,0,0,0,,Waya, is this it?
-Dialogue: 0,0:17:56.70,0:17:59.68,Default,,0,0,0,,The game that Kouyou played on the internet?
-Dialogue: 0,0:17:59.88,0:18:03.00,Default,,0,0,0,,Yes! I was watching this game from the start to end.
-Dialogue: 0,0:18:03.16,0:18:05.40,Default,,0,0,0,,It's an awesome match! It really is.
-Dialogue: 0,0:18:06.61,0:18:08.87,Default,,0,0,0,,Is Black Master Touya?
-Dialogue: 0,0:18:09.72,0:18:10.36,Default,,0,0,0,,Yes.
+Dialogue: 0,0:15:18.17,0:15:19.73,Default,,0,0,0,,Ogata-san, too?
+Dialogue: 0,0:15:21.11,0:15:21.65,Default,,0,0,0,,Hello.
+Dialogue: 0,0:15:21.78,0:15:23.65,Background,,0,0,0,,Did Shindou-kun leave?
+Dialogue: 0,0:15:24.24,0:15:26.37,Default,,0,0,0,,Shindou-kun was just here.
+Dialogue: 0,0:15:28.12,0:15:29.92,Default,,0,0,0,,Phew, that was close.
+Dialogue: 0,0:15:39.96,0:15:45.01,Default,,0,0,0,,Seems like Mr. Ogata heard me talking about Sai.
+Dialogue: 0,0:15:45.26,0:15:47.43,Default,,0,0,0,,And then Touya came in, too, to top it off.
+Dialogue: 0,0:15:51.49,0:15:54.93,Default,,0,0,0,,I wonder if he still thinks that I'm Sai.
+Dialogue: 0,0:15:56.05,0:15:59.98,Default,,0,0,0,,Well, I'm sure Master Touya\Nwon't tell them anything.
+Dialogue: 0,0:16:04.07,0:16:08.53,Default,,0,0,0,,But I think I can let you play the Meijin again, Sai.
+Dialogue: 0,0:16:13.29,0:16:14.16,Default,,0,0,0,,Sai?
+Dialogue: 0,0:16:15.37,0:16:17.33,Default,,0,0,0,,What's wrong Sai, you look sad.
+Dialogue: 0,0:16:17.79,0:16:20.71,Default,,0,0,0,,I said that I can let you play him again some time.
+Dialogue: 0,0:16:25.92,0:16:27.67,Default,,0,0,0,,Don't worry about it!
+Dialogue: 0,0:16:28.22,0:16:32.01,Default,,0,0,0,,I'm sure that Master Touya won't\Ntell anyone about me.
+Dialogue: 0,0:16:32.68,0:16:34.69,Default,,0,0,0,,I can let you play from time to time.
+Dialogue: 0,0:16:36.16,0:16:38.72,Sai,,0,0,0,,From time to time?
+Dialogue: 0,0:16:39.31,0:16:42.65,Sai,,0,0,0,,How distant that sounds to me right now.
+Dialogue: 0,0:16:43.77,0:16:46.86,Default,,0,0,0,,Hey! I just let you play yesterday!
+Dialogue: 0,0:16:51.74,0:16:55.20,Default,,0,0,0,,Tsk. You're always asking for more. Let's go home.
+Dialogue: 0,0:17:04.34,0:17:06.80,Default,,0,0,0,,Ahh! Dammit.
+Dialogue: 0,0:17:09.17,0:17:11.55,Default,,0,0,0,,Well, I don't think we'll be\Nable to play him for a bit,
+Dialogue: 0,0:17:11.64,0:17:15.39,Default,,0,0,0,,because there will be a commotion over his retiring...
+Dialogue: 0,0:17:22.73,0:17:25.86,Default,,0,0,0,,Don't be impatient, we've got plenty of time.
+Dialogue: 0,0:17:30.78,0:17:31.82,Sai,,0,0,0,,There is...
+Dialogue: 0,0:17:33.45,0:17:34.42,Sai,,0,0,0,,no time...
+Dialogue: 0,0:17:36.49,0:17:38.12,Sai,,0,0,0,,Hikaru may have it but...
+Dialogue: 0,0:17:40.41,0:17:42.83,Sai,,0,0,0,,I don't...
+Dialogue: 0,0:17:50.05,0:17:51.84,NoteArial,,0,0,0,,{\fs14\1c&H587D87&\bord0\shad0\fscy120\frz350\move(512,291,512,495)}Japanese Go Institute
+Dialogue: 0,0:17:54.64,0:17:56.30,Default,,0,0,0,,Waya, is this it?
+Dialogue: 0,0:17:56.85,0:17:59.56,Default,,0,0,0,,The game that Kouyou played on the Internet?
+Dialogue: 0,0:17:59.85,0:18:03.00,Default,,0,0,0,,Yes! I was watching this game from start to end.
+Dialogue: 0,0:18:03.16,0:18:05.27,Default,,0,0,0,,It's an awesome match! It really is.
+Dialogue: 0,0:18:06.52,0:18:08.94,Default,,0,0,0,,Is Black Master Touya?
+Dialogue: 0,0:18:09.65,0:18:10.36,Default,,0,0,0,,Yes.
 Dialogue: 0,0:18:11.91,0:18:15.34,Default,,0,0,0,,But really... I can't see him using computers.
-Dialogue: 0,0:18:15.94,0:18:19.69,Default,,0,0,0,,I thought that computers weren't for either of us...
-Dialogue: 0,0:18:20.26,0:18:21.05,Default,,0,0,0,,Hello.
-Dialogue: 0,0:18:21.56,0:18:22.88,Default,,0,0,0,,Hey, Shindou-kun.
-Dialogue: 0,0:18:24.66,0:18:25.54,Default,,0,0,0,,Hey, Shindou.
-Dialogue: 0,0:18:25.54,0:18:26.41,Default,,0,0,0,,It's Sai!
-Dialogue: 0,0:18:28.21,0:18:30.36,Default,,0,0,0,,Sai came back to the Internet!
-Dialogue: 0,0:18:30.55,0:18:33.57,Default,,0,0,0,,We're going over a game he played against Touya Meijin right now.
-Dialogue: 0,0:18:36.93,0:18:38.59,Default,,0,0,0,,You saw it too, Waya?
-Dialogue: 0,0:18:41.26,0:18:42.34,Default,,0,0,0,,I saw it too.
-Dialogue: 0,0:18:42.43,0:18:44.66,Default,,0,0,0,,What!? You saw it too?
+Dialogue: 0,0:18:15.91,0:18:19.49,Default,,0,0,0,,I thought that computers weren't for either of us...
+Dialogue: 0,0:18:20.26,0:18:21.12,Default,,0,0,0,,Hello.
+Dialogue: 0,0:18:21.54,0:18:22.96,Background,,0,0,0,,Hey, Shindou-kun.
+Dialogue: 0,0:18:24.58,0:18:25.50,Default,,0,0,0,,Hey, Shindou.
+Dialogue: 0,0:18:25.67,0:18:26.50,Default,,0,0,0,,It's Sai!
+Dialogue: 0,0:18:28.13,0:18:30.34,Default,,0,0,0,,Sai came back to the Internet!
+Dialogue: 0,0:18:30.51,0:18:33.63,Default,,0,0,0,,We're going over a game he played\Nagainst Touya Meijin right now.
+Dialogue: 0,0:18:36.89,0:18:38.68,Default,,0,0,0,,You saw it too, Waya?
+Dialogue: 0,0:18:41.06,0:18:42.27,Default,,0,0,0,,I saw it too.
+Dialogue: 0,0:18:42.39,0:18:44.60,Default,,0,0,0,,What!? You saw it too?
 Dialogue: 0,0:18:45.03,0:18:48.14,Default,,0,0,0,,So the opponent, playing White, is Sai?
-Dialogue: 0,0:18:48.55,0:18:51.87,Default,,0,0,0,,Yes. I told you about him before, Master.
-Dialogue: 0,0:18:52.02,0:18:53.80,Default,,0,0,0,,I told you there was someone really strong on the Internet.
-Dialogue: 0,0:18:54.14,0:18:55.69,Default,,0,0,0,,This is him!
-Dialogue: 0,0:18:56.57,0:19:00.05,Default,,0,0,0,,And then Sai... White went here.
-Dialogue: 0,0:19:02.24,0:19:04.23,Default,,0,0,0,,What an astounding move.
+Dialogue: 0,0:18:48.52,0:18:51.87,Default,,0,0,0,,Yes. I told you about him before, Master.
+Dialogue: 0,0:18:51.99,0:18:54.03,Default,,0,0,0,,I told you there was someone\Nreally strong on the Internet.
+Dialogue: 0,0:18:54.15,0:18:55.61,Default,,0,0,0,,This is him!
+Dialogue: 0,0:18:56.49,0:19:00.12,Background,,0,0,0,,And then Sai... White went here.
+Dialogue: 0,0:19:02.04,0:19:04.16,Background,,0,0,0,,What an astounding move.
 Dialogue: 0,0:19:04.95,0:19:07.48,Default,,0,0,0,,And then, it went like this...
-Dialogue: 0,0:19:09.93,0:19:11.52,Default,,0,0,0,,and Black resigned here.
-Dialogue: 0,0:19:12.39,0:19:13.37,Default,,0,0,0,,Game over.
-Dialogue: 0,0:19:13.64,0:19:15.26,Default,,0,0,0,,Resigned!? Here!?
-Dialogue: 0,0:19:15.75,0:19:17.29,Default,,0,0,0,,It's half a moku match...
-Dialogue: 0,0:19:17.32,0:19:21.41,Default,,0,0,0,,White's winning? Isn't there anything Black can do?
+Dialogue: 0,0:19:09.88,0:19:11.59,Background,,0,0,0,,and Black resigned here.
+Dialogue: 0,0:19:12.34,0:19:13.42,Background,,0,0,0,,Game over.
+Dialogue: 0,0:19:13.64,0:19:15.13,Background,,0,0,0,,Resigned!? Here!?
+Dialogue: 0,0:19:15.72,0:19:17.26,Default,,0,0,0,,It's a half moku match...
+Dialogue: 0,0:19:17.32,0:19:21.41,Default,,0,0,0,,White's winning? Isn't there\Nanything Black can do?
 Dialogue: 0,0:19:21.57,0:19:23.53,Default,,0,0,0,,What if he doesn't respond here?
 Dialogue: 0,0:19:23.57,0:19:24.97,Default,,0,0,0,,No, that's definitely Sente.
-Dialogue: 0,0:19:25.72,0:19:28.48,Default,,0,0,0,,White can't lose any more territory...
-Dialogue: 0,0:19:30.78,0:19:32.64,Default,,0,0,0,,I'm starting to get a headache.
-Dialogue: 0,0:19:37.59,0:19:38.64,Default,,0,0,0,,Well, the thing is...
-Dialogue: 0,0:19:39.64,0:19:40.39,Default,,0,0,0,,What?
-Dialogue: 0,0:19:41.08,0:19:44.40,Default,,0,0,0,,Black would've gained territory if he played in the corner instead of connecting here.
-Dialogue: 0,0:19:45.63,0:19:46.87,Default,,0,0,0,,I see...
-Dialogue: 0,0:19:47.36,0:19:48.38,Default,,0,0,0,,Oh!
-Dialogue: 0,0:19:51.10,0:19:51.93,Default,,0,0,0,,You're right!
-Dialogue: 0,0:19:54.67,0:19:57.84,Default,,0,0,0,,See? Black is ahead by a bit this way.
-Dialogue: 0,0:19:58.34,0:20:00.92,Default,,0,0,0,,He'll need to move there once all the outside liberties are gone.
-Dialogue: 0,0:20:01.26,0:20:03.90,Default,,0,0,0,,He can't move back there at this point either...
-Dialogue: 0,0:20:04.39,0:20:06.58,Default,,0,0,0,,But you always miss stuff like this, Shindou!
-Dialogue: 0,0:20:06.64,0:20:08.33,Default,,0,0,0,,Waya, stop making light of it!
-Dialogue: 0,0:20:08.68,0:20:10.56,Default,,0,0,0,,This move decided the match.
-Dialogue: 0,0:20:10.86,0:20:13.50,Default,,0,0,0,,Shindou-kun, have you calculated it out?
-Dialogue: 0,0:20:13.58,0:20:16.99,Default,,0,0,0,,Oh! You noticed it because you usually don't calculate stuff out!
-Dialogue: 0,0:20:17.02,0:20:18.00,Default,,0,0,0,,What did you say!?
-Dialogue: 0,0:20:20.11,0:20:26.13,Default,,0,0,0,,Everyone is starting to notice the strength Hikaru has...
-Dialogue: 0,0:20:27.88,0:20:28.71,Default,,0,0,0,,I can see it...
-Dialogue: 0,0:20:30.48,0:20:32.34,Default,,0,0,0,,The brilliant future that is...
-Dialogue: 0,0:20:33.71,0:20:36.46,Default,,0,0,0,,shinning about Hikaru... the future that I lack.
+Dialogue: 0,0:19:25.64,0:19:28.40,Default,,0,0,0,,White can't lose any more territory...
+Dialogue: 0,0:19:30.73,0:19:32.73,Background,,0,0,0,,I'm starting to get a headache.
+Dialogue: 0,0:19:36.91,0:19:38.64,Default,,0,0,0,,Well, the thing is...
+Dialogue: 0,0:19:39.53,0:19:40.39,Default,,0,0,0,,What?
+Dialogue: 0,0:19:41.03,0:19:44.40,Default,,0,0,0,,Black would've gained territory if he had played\Nin the corner instead of connecting here.
+Dialogue: 0,0:19:45.63,0:19:46.87,Background,,0,0,0,,I see...
+Dialogue: 0,0:19:47.36,0:19:48.63,Background,,0,0,0,,Oh!
+Dialogue: 0,0:19:51.10,0:19:51.96,Default,,0,0,0,,You're right.
+Dialogue: 0,0:19:54.63,0:19:57.76,Default,,0,0,0,,See? Black is ahead by a bit this way.
+Dialogue: 0,0:19:58.30,0:20:00.93,Default,,0,0,0,,He'll need to move there once all\Nthe outside liberties are gone.
+Dialogue: 0,0:20:01.22,0:20:03.64,Default,,0,0,0,,He can't move back there at this point either...
+Dialogue: 0,0:20:04.39,0:20:06.58,Background,,0,0,0,,But you always miss stuff like this, Shindou!
+Dialogue: 0,0:20:06.64,0:20:08.40,Background,,0,0,0,,Waya, stop making light of it!
+Dialogue: 0,0:20:08.68,0:20:10.56,Background,,0,0,0,,This move decided the match.
+Dialogue: 0,0:20:10.86,0:20:13.15,Background,,0,0,0,,{\alpha&10&}Shindou-kun, have you calculated it out?
+Dialogue: 0,0:20:13.53,0:20:16.78,Background,,0,0,0,,{\alpha&50&}Oh! You noticed it because you usually\Ndon't calculate stuff out!
+Dialogue: 0,0:20:17.02,0:20:18.16,Background,,0,0,0,,{\alpha&90&}What did you say!?
+Dialogue: 0,0:20:20.07,0:20:26.41,Sai,,0,0,0,,Everyone is starting to notice\Nthe strength Hikaru has...
+Dialogue: 0,0:20:27.88,0:20:28.92,Sai,,0,0,0,,I can see it...
+Dialogue: 0,0:20:30.46,0:20:32.21,Sai,,0,0,0,,The brilliant future that is...
+Dialogue: 0,0:20:33.71,0:20:36.63,Sai,,0,0,0,,shinning about Hikaru... the future that I lack.
 Dialogue: 0,0:22:13.02,0:22:15.29,Default,,0,0,0,,Hey, Mai-chan, do you remember what Komi is?
 Dialogue: 0,0:22:15.40,0:22:16.30,Default,,0,0,0,,Yup!
 Dialogue: 0,0:22:16.54,0:22:21.21,Default,,0,0,0,,Well, Komi just changed from five and a half moku to six and a half moku.
