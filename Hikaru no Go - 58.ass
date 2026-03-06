@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 150
-Active Line: 167
-Video Position: 16904
+Scroll Position: 327
+Active Line: 337
+Video Position: 29623
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,7 +78,7 @@ Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1
 Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
 Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
 Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,4,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: 61Sign,HillWilliam,42,&H00594941,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,20,1
@@ -143,8 +143,8 @@ Dialogue: 0,0:05:20.42,0:05:21.38,Default,,0,0,0,,That's unlike him.
 Dialogue: 0,0:05:22.02,0:05:23.22,Default,,0,0,0,,Unlike him?
 Dialogue: 0,0:05:46.20,0:05:48.70,Default,,0,0,0,,Master Touya... lost...
 Dialogue: 0,0:05:50.20,0:05:51.41,Sai,,0,0,0,,He lost?
-Comment: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12.5\1c&H000000&\bord0\shad0\fscy120\frz310\pos(373.081,142.689)}Ogata takes the Jyudan title
-Comment: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs11\1c&H000000&\bord0\shad0\fscy130\b0\frz299.7\pos(273.97,193.742)}In the fifth game of the 39th Jyu-\Ndan match where Ogata 9-dan\Nwas challenging Touya Kouyou\NJyudan (Meijin, Tengen, Ouza\Nand Kisei) started at 9am on the\N19th, and ended about 8:55pm.\NOgata won by resignation after\Nmove 231, and captured the ti-\Ntle with 3 wins and 2 losses.\NThis is the first title for Ogata,\Nand Touya Kouyou now has\Nfour titles left to defend.{\b1}
+Comment: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12.5\1c&H000000&\bord0\shad0\fscy120\frz310\pos(428.609,195.311)}Ogata takes the Jyudan title
+Comment: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs11\1c&H000000&\bord0\shad0\fscy130\b0\frz299.7\pos(380.755,210.098)}In the fifth game of the 39th Jyu-\Ndan match where Ogata 9-dan\Nwas challenging Touya Kouyou\NJyudan (Meijin, Tengen, Ouza\Nand Kisei) started at 9am on the\N19th, and ended about 8:55pm.\NOgata won by resignation after\Nmove 231, and captured the ti-\Ntle with 3 wins and 2 losses.\NThis is the first title for Ogata,\Nand Touya Kouyou now has\Nfour titles left to defend.{\b1}
 Dialogue: 0,0:05:59.59,0:06:03.09,Default,,0,0,0,,With formulas like these, what\Nyou want to be solving for is...
 Dialogue: 0,0:06:03.09,0:06:04.63,Background,,0,0,0,,Listen up, this part is going to be on the test.
 Dialogue: 0,0:06:04.75,0:06:07.50,Thinking,,0,0,0,,Why did Master Touya lose?
@@ -172,11 +172,11 @@ Dialogue: 0,0:07:17.04,0:07:20.67,Sai,,0,0,0,,He's not the type of person who ch
 Dialogue: 0,0:07:21.17,0:07:22.09,Sai,,0,0,0,,He isn't...
 Dialogue: 0,0:07:23.63,0:07:25.05,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:07:25.80,0:07:27.64,Background,,0,0,0,,This is bad...
-Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs20\shad0\bord0\frz90\fscy120\1c&H4231AB&\pos(77,313)}RAMEN
-Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs14.5\shad0\bord0\frz90\fscy160\1c&H4231AB&\pos(102,313)}Yamanishi
+Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs20\shad0\bord0\frz90\fscy120\1c&H4231AB&\pos(65,281)}RAMEN
+Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs14.5\shad0\bord0\frz90\fscy160\1c&H4231AB&\pos(90,281)}Yamanishi
 Dialogue: 0,0:07:31.10,0:07:34.48,Default,,0,0,0,,I want to look at the Kifu, but I'm not sure\Nif I can get it at the Institute or not.
 Dialogue: 0,0:07:35.12,0:07:37.60,Default,,0,0,0,,Weekly Go won't come out until next week...
-Dialogue: 0,0:07:41.94,0:07:45.19,NoteArial,,0,0,0,,{\fs26\shad0\bord0\fscy120\1c&HB2DCF1&\frz20\pos(213.1,219.757)}RAMEN
+Dialogue: 0,0:07:41.94,0:07:45.19,NoteArial,,0,0,0,,{\fs27.5\shad0\bord0\fscy120\1c&HB2DCF1&\frz21\pos(247,187)}RAMEN
 Dialogue: 0,0:07:43.07,0:07:44.80,Background,,0,0,0,,I'm getting hungry.
 Dialogue: 0,0:07:46.20,0:07:47.37,Background,,0,0,0,,Welcome!
 Dialogue: 0,0:07:52.08,0:07:53.08,Background,,0,0,0,,Kurata-san!
@@ -257,163 +257,177 @@ Dialogue: 0,0:11:28.21,0:11:31.96,Thinking,,0,0,0,,I wonder if he's bitter about
 Dialogue: 0,0:11:33.51,0:11:34.56,Thinking,,0,0,0,,Well then...
 Dialogue: 0,0:11:36.09,0:11:39.10,Background,,0,0,0,,I want Kurata-san's autograph!
 Dialogue: 0,0:11:40.68,0:11:43.77,Default,,0,0,0,,Kurata-san, will you give me your autograph\Nas a reward if I beat you?
-Dialogue: 0,0:11:45.02,0:11:45.06,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(647,485)}Kurata Atsushi
-Dialogue: 0,0:11:46.52,0:11:49.61,Default,,0,0,0,,Well, I doubt someone like me could win,
-Dialogue: 0,0:11:50.10,0:11:53.28,Default,,0,0,0,,but I can't ask for Kurata-san's autograph for free!
-Dialogue: 0,0:11:53.81,0:11:56.53,Default,,0,0,0,,It's something I have to work hard for.
-Dialogue: 0,0:12:04.96,0:12:05.97,Default,,0,0,0,,Reeeaally?
-Dialogue: 0,0:12:06.77,0:12:08.59,Default,,0,0,0,,You want it that badly?
-Dialogue: 0,0:12:09.88,0:12:11.35,Default,,0,0,0,,I guess I have no choice.
-Dialogue: 0,0:12:12.15,0:12:14.65,Default,,0,0,0,,Well, let's go to a Go salon somewhere then.
-Dialogue: 0,0:12:14.89,0:12:16.11,Default,,0,0,0,,Score!
-Dialogue: 0,0:12:16.12,0:12:17.86,Default,,0,0,0,,He's really easy to manipulate!
-Dialogue: 0,0:12:18.58,0:12:19.59,Thinking,,0,0,0,,Okay!
-Dialogue: 0,0:12:20.01,0:12:24.74,Thinking,,0,0,0,,We'll test my strength out, by seeing how well I can play against Kurata-san!
-Dialogue: 0,0:12:27.08,0:12:29.06,Default,,0,0,0,,You pay the entrance fee, okay?
-Dialogue: 0,0:12:29.06,0:12:30.22,Default,,0,0,0,,For both of us.
-Dialogue: 0,0:12:30.45,0:12:31.85,Default,,0,0,0,,Okay.
-Dialogue: 0,0:12:32.04,0:12:32.84,Default,,0,0,0,,Welcome!
-Dialogue: 0,0:12:35.03,0:12:36.36,Default,,0,0,0,,K-Kurata the pro!
-Dialogue: 0,0:12:36.47,0:12:37.31,Default,,0,0,0,,Kurata!?
-Dialogue: 0,0:12:37.46,0:12:39.67,Default,,0,0,0,,Oh! It's Kurata! Kurata 6-dan!
-Dialogue: 0,0:12:40.08,0:12:42.58,Default,,0,0,0,,It really is him! I'm a fan!
-Dialogue: 0,0:12:43.07,0:12:43.74,Default,,0,0,0,,Can we play?
-Dialogue: 0,0:12:43.83,0:12:46.31,Default,,0,0,0,,O-Of course! This way, please.
-Dialogue: 0,0:12:49.34,0:12:51.80,Default,,0,0,0,,Kurata-san! We'll be cheering you on for the Honinbou match next month.
-Dialogue: 0,0:12:51.95,0:12:55.96,Default,,0,0,0,,We were all just talking about how Kurata-san's
-Dialogue: 0,0:12:55.96,0:12:59.30,Default,,0,0,0,,Honinbou title will follow Ogata-san's Jyudan title.
-Dialogue: 0,0:12:59.42,0:13:00.24,Default,,0,0,0,,Thanks much.
-Dialogue: 0,0:13:00.68,0:13:03.26,Default,,0,0,0,,Mr. Kurata, who is your companion here?
-Dialogue: 0,0:13:03.49,0:13:05.48,Default,,0,0,0,,Him? His name is Shindou.
-Dialogue: 0,0:13:05.95,0:13:07.53,Default,,0,0,0,,He just became pro.
-Dialogue: 0,0:13:07.96,0:13:10.29,Default,,0,0,0,,He asked me to give him my autograph if he beats me!
-Dialogue: 0,0:13:10.29,0:13:13.34,Default,,0,0,0,,So he's Kurata-san's fan! How cute!
-Dialogue: 0,0:13:13.73,0:13:15.48,Default,,0,0,0,,May I have your autograph later as well?
-Dialogue: 0,0:13:15.92,0:13:17.63,Default,,0,0,0,,Did we have any autograph paper?
-Dialogue: 0,0:13:17.93,0:13:19.45,Default,,0,0,0,,An even match is too much,
-Dialogue: 0,0:13:19.66,0:13:21.74,Default,,0,0,0,,so Shindou you can play first with no Komi.
-Dialogue: 0,0:13:21.86,0:13:22.47,Default,,0,0,0,,Okay.
-Dialogue: 0,0:13:22.85,0:13:26.56,Default,,0,0,0,,But, I won't give you my autograph for nothing!
-Dialogue: 0,0:13:26.94,0:13:27.60,Default,,0,0,0,,Okay!
-Dialogue: 0,0:13:28.45,0:13:29.86,Thinking,,0,0,0,,I don't want it!
-Dialogue: 0,0:13:30.32,0:13:31.38,Default,,0,0,0,,Okay, let's play!
-Dialogue: 0,0:13:32.35,0:13:32.95,Default,,0,0,0,,Huh?
-Dialogue: 0,0:13:33.22,0:13:34.43,Default,,0,0,0,,They're both white.
-Dialogue: 0,0:13:35.45,0:13:36.97,Default,,0,0,0,,Here are some Black stones.
-Dialogue: 0,0:13:37.95,0:13:39.84,Default,,0,0,0,,Nah, let's play like this.
-Dialogue: 0,0:13:41.34,0:13:42.24,Default,,0,0,0,,One-Color Go.
-Dialogue: 0,0:13:43.26,0:13:44.47,Default,,0,0,0,,One-Color Go!?
-Dialogue: 0,0:13:44.63,0:13:48.38,Default,,0,0,0,,Yeah, It's played with White or Black, just one color.
-Dialogue: 0,0:13:48.80,0:13:50.88,Default,,0,0,0,,Shindou, yours is Black, okay?
-Dialogue: 0,0:13:51.07,0:13:52.40,Default,,0,0,0,,Okay, good luck!
-Dialogue: 0,0:13:52.40,0:13:55.18,Default,,0,0,0,,Huh!? These white stones are black?
+Dialogue: 0,0:11:45.02,0:11:45.06,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(647,485)}Kurata Atsushi
+Dialogue: 0,0:11:45.06,0:11:45.10,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(611,464)}Kurata Atsushi
+Dialogue: 0,0:11:45.10,0:11:45.14,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(584,450)}Kurata Atsushi
+Dialogue: 0,0:11:45.14,0:11:45.18,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(553,432)}Kurata Atsushi
+Dialogue: 0,0:11:45.18,0:11:45.23,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(525,417)}Kurata Atsushi
+Dialogue: 0,0:11:45.23,0:11:45.27,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(500,402)}Kurata Atsushi
+Dialogue: 0,0:11:45.27,0:11:45.31,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(479,390)}Kurata Atsushi
+Dialogue: 0,0:11:45.31,0:11:45.35,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(462,380)}Kurata Atsushi
+Dialogue: 0,0:11:45.35,0:11:45.39,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(451,375)}Kurata Atsushi
+Dialogue: 0,0:11:45.39,0:11:46.02,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\fad(0,584)\frz316\pos(447,372)}Kurata Atsushi
+Dialogue: 0,0:11:46.52,0:11:49.69,Background,,0,0,0,,Well, I doubt someone like me could win,
+Dialogue: 0,0:11:50.02,0:11:53.15,Default,,0,0,0,,but I can't ask for Kurata-san's autograph for free!
+Dialogue: 0,0:11:53.78,0:11:56.32,Default,,0,0,0,,It's something I have to work hard for.
+Dialogue: 0,0:12:04.91,0:12:06.25,Default,,0,0,0,,Reeeaally?
+Dialogue: 0,0:12:06.66,0:12:08.46,Default,,0,0,0,,You want it that badly?
+Dialogue: 0,0:12:09.83,0:12:11.35,Default,,0,0,0,,I guess I have no choice.
+Dialogue: 0,0:12:12.09,0:12:14.55,Default,,0,0,0,,Well, let's go to a Go salon somewhere then.
+Dialogue: 0,0:12:14.80,0:12:15.84,Default,,0,0,0,,Score!
+Dialogue: 0,0:12:16.05,0:12:17.93,Default,,0,0,0,,He's really easy to manipulate!
+Dialogue: 0,0:12:18.51,0:12:19.59,Thinking,,0,0,0,,Okay!
+Dialogue: 0,0:12:20.01,0:12:24.74,Thinking,,0,0,0,,We'll test my strength out, by seeing how\Nwell I can play against Kurata-san!
+Dialogue: 0,0:12:25.68,0:12:31.69,NoteArial,,0,0,0,,{\1c&HF9ECE5&\alpha&H80&\fs55\bord0\shad0\fscx155\fscy90\move(280,272,82,272)}GO
+Dialogue: 0,0:12:25.68,0:12:31.69,NoteArial,,0,0,0,,{\1c&HF9ECE5&\alpha&H80&\fs18.5\bord0\shad0\fscx100\fscy70\move(570,298,372,298)}Beginners
+Dialogue: 0,0:12:25.68,0:12:31.69,NoteArial,,0,0,0,,{\1c&HF9ECE5&\alpha&H80&\fs20.5\bord0\shad0\fscx100\fscy70\move(569,310,371,310)}Welcome
+Dialogue: 0,0:12:26.98,0:12:28.94,Background,,0,0,0,,You pay the entrance fee, okay?
+Dialogue: 0,0:12:29.40,0:12:30.22,Background,,0,0,0,,For both of us.
+Dialogue: 0,0:12:31.06,0:12:31.69,Background,,0,0,0,,Okay.
+Dialogue: 0,0:12:31.98,0:12:32.84,Default,,0,0,0,,Welcome!
+Dialogue: 0,0:12:34.94,0:12:36.32,Background,,0,0,0,,K-Kurata the pro!
+Dialogue: 0,0:12:36.44,0:12:37.28,Default,,0,0,0,,Kurata!?
+Dialogue: 0,0:12:37.40,0:12:39.67,Default,,0,0,0,,Oh! It's Kurata! Kurata 6-dan!
+Dialogue: 0,0:12:40.03,0:12:42.49,Default,,0,0,0,,It really is him! I'm a fan!
+Dialogue: 0,0:12:42.99,0:12:43.66,Default,,0,0,0,,Can we play?
+Dialogue: 0,0:12:43.78,0:12:46.45,Default,,0,0,0,,O-Of course! This way, please.
+Dialogue: 0,0:12:49.25,0:12:53.29,Default,,0,0,0,,Kurata-san! We'll be cheering you on\Nfor the Honinbou match next month.
+Dialogue: 0,0:12:53.38,0:12:56.09,Default,,0,0,0,,We were all just talking about how Kurata-san's
+Dialogue: 0,0:12:56.17,0:12:59.13,Default,,0,0,0,,Honinbou title will follow Ogata-san's Jyudan title.
+Dialogue: 0,0:12:59.34,0:13:00.22,Default,,0,0,0,,Thanks much.
+Dialogue: 0,0:13:00.59,0:13:03.30,Default,,0,0,0,,Mr. Kurata, who is your companion here?
+Dialogue: 0,0:13:03.43,0:13:05.51,Default,,0,0,0,,Him? His name is Shindou.
+Dialogue: 0,0:13:05.95,0:13:07.22,Default,,0,0,0,,He just became a pro.
+Dialogue: 0,0:13:07.85,0:13:10.06,Background,,0,0,0,,He asked me to give him my\Nautograph if he beats me!
+Dialogue: 0,0:13:10.14,0:13:13.23,Background,,0,0,0,,So he's Kurata-san's fan! How cute!
+Dialogue: 0,0:13:13.69,0:13:15.48,Default,,0,0,0,,May I have your autograph later as well?
+Dialogue: 0,0:13:15.86,0:13:17.63,Default,,0,0,0,,Did we have any autograph paper?
+Dialogue: 0,0:13:17.86,0:13:19.45,Default,,0,0,0,,An even match is too much,
+Dialogue: 0,0:13:19.61,0:13:21.61,Default,,0,0,0,,so Shindou you can play first with no Komi.
+Dialogue: 0,0:13:21.74,0:13:22.24,Default,,0,0,0,,Okay.
+Dialogue: 0,0:13:22.61,0:13:26.24,Default,,0,0,0,,But, I won't give you my autograph for nothing!
+Dialogue: 0,0:13:26.83,0:13:27.54,Default,,0,0,0,,Okay!
+Dialogue: 0,0:13:28.29,0:13:29.75,Thinking,,0,0,0,,I don't want it!
+Dialogue: 0,0:13:30.25,0:13:31.42,Background,,0,0,0,,Okay, let's play!
+Dialogue: 0,0:13:32.35,0:13:32.95,Background,,0,0,0,,Huh?
+Dialogue: 0,0:13:33.17,0:13:34.25,Background,,0,0,0,,They're both white.
+Dialogue: 0,0:13:35.38,0:13:36.92,Default,,0,0,0,,Here are some Black stones.
+Dialogue: 0,0:13:37.88,0:13:39.47,Default,,0,0,0,,Nah, let's play like this.
+Dialogue: 0,0:13:41.22,0:13:42.30,Background,,0,0,0,,One-Color Go.
+Dialogue: 0,0:13:43.26,0:13:44.39,Default,,0,0,0,,One-Color Go!?
+Dialogue: 0,0:13:44.63,0:13:48.22,Default,,0,0,0,,Yeah, it's played with White\Nor Black, just one color.
+Dialogue: 0,0:13:48.80,0:13:50.73,Default,,0,0,0,,Shindou, yours is Black, okay?
+Dialogue: 0,0:13:51.02,0:13:52.35,Default,,0,0,0,,Okay, good luck!
+Dialogue: 0,0:13:52.35,0:13:55.18,Default,,0,0,0,,Huh!? These white stones are black?
 Dialogue: 0,0:13:55.60,0:13:57.56,Default,,0,0,0,,Come on, say 'good luck'!
-Dialogue: 0,0:13:58.43,0:13:59.49,Default,,0,0,0,,G-Good luck!
-Dialogue: 0,0:14:01.20,0:14:02.22,Thinking,,0,0,0,,This stone is...
-Dialogue: 0,0:14:03.59,0:14:04.69,Thinking,,0,0,0,,Black?
-Dialogue: 0,0:14:05.18,0:14:08.43,Thinking,,0,0,0,,Looks like this is Shindou's first time playing One-Color Go.
-Dialogue: 0,0:14:09.34,0:14:12.78,Thinking,,0,0,0,,It's just starting to get interesting.
-Dialogue: 0,0:14:13.39,0:14:15.33,Default,,0,0,0,,Playing with just white stones?
-Dialogue: 0,0:14:15.97,0:14:16.88,Default,,0,0,0,,In other words...
-Dialogue: 0,0:14:17.49,0:14:20.33,Default,,0,0,0,,If all of the stones in this game we're playing,
-Dialogue: 0,0:14:20.64,0:14:23.32,Default,,0,0,0,,are replaced by white stones...
-Dialogue: 0,0:14:23.93,0:14:25.40,Default,,0,0,0,,Can you do it?
-Dialogue: 0,0:14:25.52,0:14:26.73,Default,,0,0,0,,No way.
-Dialogue: 0,0:14:46.99,0:14:49.87,Default,,0,0,0,,Wow, they can both play with only white.
-Dialogue: 0,0:14:50.17,0:14:52.53,Default,,0,0,0,,Was the kid white or black?
-Dialogue: 0,0:14:52.57,0:14:53.36,Default,,0,0,0,,He's black!
-Dialogue: 0,0:14:53.56,0:14:56.39,Default,,0,0,0,,Keep quiet, I'm going to lose track here.
-Dialogue: 0,0:15:04.07,0:15:06.53,Thinking,,0,0,0,,He's better than I thought.
-Dialogue: 0,0:15:15.38,0:15:17.50,Default,,0,0,0,,I can still kind of keep track...
-Dialogue: 0,0:15:17.54,0:15:18.45,Default,,0,0,0,,Me, too.
-Dialogue: 0,0:15:20.72,0:15:22.39,Default,,0,0,0,,You can see more than you thought you could, right?
-Dialogue: 0,0:15:25.38,0:15:27.38,Default,,0,0,0,,You remember it by the shape.
-Dialogue: 0,0:15:27.65,0:15:28.78,Default,,0,0,0,,The shape of the stones.
-Dialogue: 0,0:15:29.31,0:15:30.49,Default,,0,0,0,,Shape, huh...
-Dialogue: 0,0:15:36.28,0:15:37.33,Thinking,,0,0,0,,Oh yeah...
-Dialogue: 0,0:15:38.13,0:15:42.37,Thinking,,0,0,0,,Didn't he teach Mr. Gokiso a lesson during the convention?
-Dialogue: 0,0:15:43.43,0:15:45.02,Default,,0,0,0,,Shape? But to us...
-Dialogue: 0,0:15:45.15,0:15:46.59,Default,,0,0,0,,I've lost track.
-Dialogue: 0,0:15:47.65,0:15:52.32,Default,,0,0,0,,I stopped focusing for a second, and I've lost track.
-Dialogue: 0,0:15:52.55,0:15:53.68,Default,,0,0,0,,Me, too.
-Dialogue: 0,0:15:53.68,0:15:55.31,Default,,0,0,0,,I'm completely confused.
-Dialogue: 0,0:15:55.50,0:15:56.94,Default,,0,0,0,,Done already?
-Dialogue: 0,0:15:57.28,0:15:59.25,Default,,0,0,0,,We've still got a ways to go.
-Dialogue: 0,0:15:59.59,0:16:00.31,Default,,0,0,0,,Right, Shindou?
-Dialogue: 0,0:16:03.57,0:16:06.40,Thinking,,0,0,0,,Mr. Gokiso isn't a match for him.
-Dialogue: 0,0:16:07.21,0:16:10.09,Default,,0,0,0,,Wow Muranishi-san, you still know what's going on!?
-Dialogue: 0,0:16:10.29,0:16:11.84,Default,,0,0,0,,I lost track a long time ago.
-Dialogue: 0,0:16:11.89,0:16:15.46,Default,,0,0,0,,It's just determination now. I'm determined to keep track of it.
-Dialogue: 0,0:16:15.84,0:16:17.32,Default,,0,0,0,,That's impressive.
+Dialogue: 0,0:13:58.40,0:13:59.49,Default,,0,0,0,,G-Good luck!
+Dialogue: 0,0:14:01.15,0:14:02.61,Thinking,,0,0,0,,This stone is...
+Dialogue: 0,0:14:03.49,0:14:04.57,Thinking,,0,0,0,,Black!?
+Dialogue: 0,0:14:05.12,0:14:08.43,Thinking,,0,0,0,,Looks like this is Shindou's first\Ntime playing One-Color Go.
+Dialogue: 0,0:14:09.24,0:14:12.71,Thinking,,0,0,0,,It's just starting to get interesting.
+Dialogue: 0,0:14:13.29,0:14:15.21,Default,,0,0,0,,Playing with just white stones?
+Dialogue: 0,0:14:15.88,0:14:17.00,Default,,0,0,0,,In other words...
+Dialogue: 0,0:14:17.46,0:14:20.33,Default,,0,0,0,,If all of the stones in this game we're playing,
+Dialogue: 0,0:14:20.46,0:14:23.01,Background,,0,0,0,,are replaced by white stones...
+Dialogue: 0,0:14:23.84,0:14:25.22,Default,,0,0,0,,Can you do it?
+Dialogue: 0,0:14:25.52,0:14:26.55,Default,,0,0,0,,No way.
+Dialogue: 0,0:14:46.91,0:14:49.70,Default,,0,0,0,,Wow, they can both play with only white.
+Dialogue: 0,0:14:50.12,0:14:52.33,Default,,0,0,0,,Was the kid white or black?
+Dialogue: 0,0:14:52.45,0:14:53.33,Background,,0,0,0,,He's black!
+Dialogue: 0,0:14:53.46,0:14:56.33,Default,,0,0,0,,Keep quiet, I'm going to lose track here.
+Dialogue: 0,0:15:03.97,0:15:06.53,Thinking,,0,0,0,,He's better than I thought.
+Dialogue: 0,0:15:15.23,0:15:17.31,Background,,0,0,0,,I can still kind of keep track...
+Dialogue: 0,0:15:17.44,0:15:18.45,Background,,0,0,0,,Me, too.
+Dialogue: 0,0:15:20.61,0:15:22.69,Default,,0,0,0,,You can see more than you\Nthought you could, right?
+Dialogue: 0,0:15:25.28,0:15:27.38,Default,,0,0,0,,You remember it by the shape.
+Dialogue: 0,0:15:27.57,0:15:28.78,Default,,0,0,0,,The shape of the stones.
+Dialogue: 0,0:15:29.24,0:15:30.16,Default,,0,0,0,,Shape, huh...
+Dialogue: 0,0:15:36.28,0:15:37.37,Thinking,,0,0,0,,Oh yeah...
+Dialogue: 0,0:15:38.04,0:15:42.30,Thinking,,0,0,0,,Didn't he teach Mr. Gokiso a lesson\Nduring that convention?
+Dialogue: 0,0:15:43.38,0:15:46.26,Default,,0,0,0,,Shape? But to us...
+Dialogue: 0,0:15:47.65,0:15:49.05,Default,,0,0,0,,I've lost track.
+Dialogue: 0,0:15:49.51,0:15:52.10,Default,,0,0,0,,I stopped focusing for a second, and I've lost track.
+Dialogue: 0,0:15:52.51,0:15:53.60,Default,,0,0,0,,Me, too.
+Dialogue: 0,0:15:53.85,0:15:55.35,Default,,0,0,0,,I'm completely confused.
+Dialogue: 0,0:15:55.48,0:15:56.85,Default,,0,0,0,,Done already?
+Dialogue: 0,0:15:57.23,0:15:58.90,Default,,0,0,0,,We've still got a ways to go.
+Dialogue: 0,0:15:59.52,0:16:00.31,Background,,0,0,0,,Right, Shindou?
+Dialogue: 0,0:16:03.48,0:16:06.20,Thinking,,0,0,0,,Mr. Gokiso isn't a match for him.
+Dialogue: 0,0:16:07.15,0:16:09.95,Default,,0,0,0,,Wow Muranishi-san, you still\Nknow what's going on!?
+Dialogue: 0,0:16:10.24,0:16:11.62,Default,,0,0,0,,I lost track a long time ago.
+Dialogue: 0,0:16:11.74,0:16:15.46,Background,,0,0,0,,It's just determination now. I'm\Ndetermined to keep track of it.
+Dialogue: 0,0:16:15.75,0:16:17.08,Default,,0,0,0,,That's impressive.
 Dialogue: 0,0:16:17.81,0:16:19.51,Default,,0,0,0,,Oh, someone can still see it?
-Dialogue: 0,0:16:20.07,0:16:22.86,Default,,0,0,0,,Okay, we're going to ditch you now.
-Dialogue: 0,0:16:24.19,0:16:24.83,Default,,0,0,0,,Okay!
-Dialogue: 0,0:16:30.85,0:16:33.53,Default,,0,0,0,,A furious battle's started in the corner!
-Dialogue: 0,0:16:33.81,0:16:35.26,Default,,0,0,0,,...or that's what it looks like.
-Dialogue: 0,0:16:36.07,0:16:38.34,Default,,0,0,0,,Yeah, we have no idea what's going on...
-Dialogue: 0,0:16:39.93,0:16:43.87,Default,,0,0,0,,It just looks like this clump of white stones that keeps getting bigger and bigger.
-Dialogue: 0,0:16:45.81,0:16:47.26,Default,,0,0,0,,We've still got a ways to go!
-Dialogue: 0,0:16:55.14,0:16:56.54,Default,,0,0,0,,And? Who's winning?
-Dialogue: 0,0:16:56.62,0:16:58.33,Default,,0,0,0,,Don't ask me.
-Dialogue: 0,0:16:58.82,0:17:00.26,Thinking,,0,0,0,,Who's winning?
-Dialogue: 0,0:17:00.90,0:17:02.00,Thinking,,0,0,0,,Shindou is!
-Dialogue: 0,0:17:05.63,0:17:07.98,Default,,0,0,0,,U-Umm... Mr. Kurata...
-Dialogue: 0,0:17:07.98,0:17:09.94,Default,,0,0,0,,Who's winning right now?
-Dialogue: 0,0:17:10.06,0:17:12.67,Default,,0,0,0,,He's working very hard to stay ahead right now.
-Dialogue: 0,0:17:13.13,0:17:15.06,Default,,0,0,0,,He must really want my autograph.
-Dialogue: 0,0:17:18.72,0:17:20.20,Thinking,,0,0,0,,He's tough.
-Dialogue: 0,0:17:20.58,0:17:21.34,Thinking,,0,0,0,,He's tough.
-Dialogue: 0,0:17:26.82,0:17:27.43,Thinking,,0,0,0,,There!
-Dialogue: 0,0:17:32.76,0:17:33.82,Thinking,,0,0,0,,I misread it!
-Dialogue: 0,0:17:34.69,0:17:35.71,Thinking,,0,0,0,,I'm saved!
-Dialogue: 0,0:17:36.40,0:17:38.70,Thinking,,0,0,0,,Shindou just made a big mistake.
-Dialogue: 0,0:17:42.30,0:17:43.17,Thinking,,0,0,0,,.. I'm saved?
-Dialogue: 0,0:17:44.65,0:17:49.35,Thinking,,0,0,0,,I'm not playing Touya Kouyou or old man Kuwabara right now.
-Dialogue: 0,0:17:51.36,0:17:53.63,Thinking,,0,0,0,,He's just a kid that just became pro.
-Dialogue: 0,0:17:58.58,0:17:59.60,Thinking,,0,0,0,,Wait! Isn't this...
-Dialogue: 0,0:18:00.63,0:18:02.74,Thinking,,0,0,0,,Shindou's first time playing One-Color Go?
-Dialogue: 0,0:18:05.39,0:18:07.43,Thinking,,0,0,0,,It isn't just Touya Akira...
+Dialogue: 0,0:16:20.04,0:16:22.75,Default,,0,0,0,,Okay, we're going to ditch you now.
+Dialogue: 0,0:16:24.09,0:16:24.83,Background,,0,0,0,,Okay!
+Dialogue: 0,0:16:30.68,0:16:33.39,Default,,0,0,0,,A furious battle's started in the corner!
+Dialogue: 0,0:16:33.72,0:16:35.18,Default,,0,0,0,,...or that's what it looks like.
+Dialogue: 0,0:16:35.31,0:16:38.34,Default,,0,0,0,,Yeah, we have no idea what's going on...
+Dialogue: 0,0:16:39.85,0:16:43.82,Background,,0,0,0,,It just looks like this clump of white stones\Nthat keeps getting bigger and bigger.
+Dialogue: 0,0:16:45.73,0:16:46.99,Default,,0,0,0,,We've still got a ways to go!
+Dialogue: 0,0:16:54.99,0:16:56.45,Default,,0,0,0,,And? Who's winning?
+Dialogue: 0,0:16:56.58,0:16:58.37,Background,,0,0,0,,Don't ask me.
+Dialogue: 0,0:16:58.71,0:17:00.17,Thinking,,0,0,0,,Who's winning?
+Dialogue: 0,0:17:00.83,0:17:02.38,Thinking,,0,0,0,,Shindou is!
+Dialogue: 0,0:17:05.55,0:17:07.88,Default,,0,0,0,,U-Umm... Mr. Kurata...
+Dialogue: 0,0:17:07.98,0:17:09.76,Default,,0,0,0,,Who's winning right now?
+Dialogue: 0,0:17:10.01,0:17:12.55,Default,,0,0,0,,He's working very hard to stay ahead right now.
+Dialogue: 0,0:17:13.10,0:17:15.01,Default,,0,0,0,,He must really want my autograph.
+Dialogue: 0,0:17:18.60,0:17:20.10,Thinking,,0,0,0,,He won't give me a chance.
+Dialogue: 0,0:17:20.58,0:17:21.27,Thinking,,0,0,0,,He's tough.
+Dialogue: 0,0:17:26.73,0:17:27.36,Thinking,,0,0,0,,There!
+Dialogue: 0,0:17:32.66,0:17:33.82,Thinking,,0,0,0,,I misread it!
+Dialogue: 0,0:17:34.66,0:17:35.70,Thinking,,0,0,0,,I'm saved!
+Dialogue: 0,0:17:36.33,0:17:38.54,Thinking,,0,0,0,,Shindou just made a big mistake.
+Dialogue: 0,0:17:42.17,0:17:43.13,Thinking,,0,0,0,,... I'm saved?
+Dialogue: 0,0:17:44.58,0:17:49.30,Thinking,,0,0,0,,I'm not playing Touya Kouyou or\Nold man Kuwabara right now.
+Dialogue: 0,0:17:51.26,0:17:53.63,Thinking,,0,0,0,,He's a kid that just became pro.
+Dialogue: 0,0:17:58.52,0:17:59.81,Thinking,,0,0,0,,Wait! Isn't this...
+Dialogue: 0,0:18:00.56,0:18:02.69,Thinking,,0,0,0,,Shindou's first time playing One-Color Go?
+Dialogue: 0,0:18:05.31,0:18:07.32,Thinking,,0,0,0,,It isn't just Touya Akira...
 Dialogue: 0,0:18:09.02,0:18:11.29,Thinking,,0,0,0,,who's going to be threatening me from below...
-Dialogue: 0,0:18:13.75,0:18:14.96,Thinking,,0,0,0,,There's another one!
-Dialogue: 0,0:18:23.97,0:18:27.63,Thinking,,0,0,0,,Crap! I lost track of the stones!
-Dialogue: 0,0:18:30.62,0:18:32.55,Default,,0,0,0,,Around there... It's around there...
-Dialogue: 0,0:18:33.34,0:18:37.62,Default,,0,0,0,,Umm... Umm...
-Dialogue: 0,0:18:38.15,0:18:40.80,Default,,0,0,0,,Will Black die if I move here?
-Dialogue: 0,0:19:00.06,0:19:01.04,Default,,0,0,0,,I resign.
-Dialogue: 0,0:19:03.18,0:19:04.92,Default,,0,0,0,,Ahh! Crap!
-Dialogue: 0,0:19:04.92,0:19:07.94,Default,,0,0,0,,I totally misread this part.
-Dialogue: 0,0:19:08.17,0:19:11.69,Default,,0,0,0,,It was complicated, but I'm sure I could have won!
-Dialogue: 0,0:19:11.84,0:19:14.12,Default,,0,0,0,,I totally messed up by making a ko here.
-Dialogue: 0,0:19:15.25,0:19:16.99,Default,,0,0,0,,I should have moved cautiously here.
-Dialogue: 0,0:19:17.71,0:19:19.77,Default,,0,0,0,,I should have replied on the right side, right?
-Dialogue: 0,0:19:20.61,0:19:21.63,Default,,0,0,0,,Right? Kurata-san?
-Dialogue: 0,0:19:22.69,0:19:23.45,Thinking,,0,0,0,,He...
-Dialogue: 0,0:19:25.49,0:19:27.00,Default,,0,0,0,,He has realized it, too.
-Dialogue: 0,0:19:28.15,0:19:29.85,Default,,0,0,0,,He's seen Hikaru's hidden strength.
-Dialogue: 0,0:19:31.86,0:19:34.05,Default,,0,0,0,,Do you have autograph paper? Extra ones?
-Dialogue: 0,0:19:34.17,0:19:35.65,Default,,0,0,0,,Ohhh! Of course, here you go.
-Dialogue: 0,0:19:40.62,0:19:41.27,Default,,0,0,0,,Here!
-Dialogue: 0,0:19:42.59,0:19:46.19,Default,,0,0,0,,Huh? Weren't you going to give him an autograph only if he won?
-Dialogue: 0,0:19:46.75,0:19:47.91,Thinking,,0,0,0,,I don't want it...
-Dialogue: 0,0:19:48.69,0:19:49.94,Default,,0,0,0,,Huh? What is this?
-Dialogue: 0,0:19:50.36,0:19:51.41,Default,,0,0,0,,It's just 'Kura'?
-Dialogue: 0,0:19:52.93,0:19:56.75,Default,,0,0,0,,I'll sign the rest of it when you beat me in a formal match.
-Dialogue: 0,0:19:57.88,0:19:58.90,Default,,0,0,0,,Kurata-san...
-Dialogue: 0,0:19:59.33,0:20:01.75,Default,,0,0,0,,Mr. Kurata, may I have an autograph as well?
-Dialogue: 0,0:20:01.83,0:20:03.50,Default,,0,0,0,,One for me, too, please.
-Dialogue: 0,0:20:03.63,0:20:04.53,Default,,0,0,0,,Of course! Of course!
-Dialogue: 0,0:20:05.07,0:20:06.99,Default,,0,0,0,,Line up if you want one!
-Dialogue: 0,0:20:08.09,0:20:11.16,Thinking,,0,0,0,,Kurata-san's... recognized me...
-Dialogue: 0,0:20:11.54,0:20:12.18,Default,,0,0,0,,What?
-Dialogue: 0,0:20:14.34,0:20:15.14,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:20:15.64,0:20:17.27,Default,,0,0,0,,Did something happen?
-Dialogue: 0,0:20:17.65,0:20:19.62,Default,,0,0,0,,Turn the volume up?
-Dialogue: 0,0:20:21.75,0:20:24.57,Default,,0,0,0,,In an earlier press conference, the top Go player,
-Dialogue: 0,0:20:24.95,0:20:26.44,Default,,0,0,0,,Touya Kouyou, with four titles,
-Dialogue: 0,0:20:26.78,0:20:29.01,Default,,0,0,0,,has announced his retirement!
-Dialogue: 0,0:20:29.96,0:20:30.66,Default,,0,0,0,,What!?
-Dialogue: 0,0:20:32.25,0:20:33.34,Default,,0,0,0,,Master...
-Dialogue: 0,0:20:33.34,0:20:35.20,Default,,0,0,0,,Touya's...
+Dialogue: 0,0:18:13.70,0:18:14.96,Thinking,,0,0,0,,There's another one!
+Dialogue: 0,0:18:23.97,0:18:27.67,Thinking,,0,0,0,,Crap! I lost track of the stones!
+Dialogue: 0,0:18:30.62,0:18:32.63,Thinking,,0,0,0,,Around there... it's around there...
+Dialogue: 0,0:18:33.09,0:18:36.09,Thinking,,0,0,0,,Umm... Umm...
+Dialogue: 0,0:18:38.15,0:18:40.80,Thinking,,0,0,0,,Will Black die if I move here?
+Dialogue: 0,0:18:59.99,0:19:01.08,Default,,0,0,0,,I resign.
+Dialogue: 0,0:19:03.04,0:19:04.62,Default,,0,0,0,,Ahh! Crap!
+Dialogue: 0,0:19:05.21,0:19:07.67,Default,,0,0,0,,I totally misread this part.
+Dialogue: 0,0:19:08.17,0:19:11.17,Default,,0,0,0,,It was complicated, but I'm sure I could have won!
+Dialogue: 0,0:19:11.84,0:19:13.92,Background,,0,0,0,,I totally messed up by making a ko here.
+Dialogue: 0,0:19:15.22,0:19:17.01,Default,,0,0,0,,I should have moved cautiously here.
+Dialogue: 0,0:19:17.64,0:19:19.72,Default,,0,0,0,,I should have replied on the right side, right?
+Dialogue: 0,0:19:20.61,0:19:21.63,Background,,0,0,0,,Right? Kurata-san?
+Dialogue: 0,0:19:22.60,0:19:23.45,Thinking,,0,0,0,,He...
+Dialogue: 0,0:19:25.44,0:19:27.00,Sai,,0,0,0,,He has realized it, too.
+Dialogue: 0,0:19:28.11,0:19:29.85,Sai,,0,0,0,,He's seen Hikaru's hidden strength.
+Dialogue: 0,0:19:31.78,0:19:33.90,Default,,0,0,0,,Do you have autograph paper? Extra ones?
+Dialogue: 0,0:19:34.11,0:19:35.82,Default,,0,0,0,,Ohh! Of course, here you go.
+Dialogue: 0,0:19:40.58,0:19:41.33,Default,,0,0,0,,Here.
+Dialogue: 0,0:19:42.49,0:19:46.00,Default,,0,0,0,,Huh? Weren't you going to give him\Nan autograph only if he won?
+Dialogue: 0,0:19:46.62,0:19:47.96,Thinking,,0,0,0,,I don't want it...
+Dialogue: 0,0:19:48.58,0:19:49.88,Default,,0,0,0,,Huh? What is this?
+Dialogue: 0,0:19:49.54,0:19:51.59,ed64_romaji,,0,0,0,,{\fs42\1c&H0B0909&\shad0\bord0\blur0\frz4\pos(364,259)\b1}Kura{\b0}
+Dialogue: 0,0:19:50.25,0:19:51.38,Background,,0,0,0,,It's just 'Kura'?
+Dialogue: 0,0:19:52.84,0:19:56.59,Default,,0,0,0,,I'll sign the rest of it when you\Nbeat me in a formal match.
+Dialogue: 0,0:19:57.76,0:19:58.90,Default,,0,0,0,,Kurata-san...
+Dialogue: 0,0:19:59.18,0:20:01.60,Default,,0,0,0,,Mr. Kurata, may I have an autograph as well?
+Dialogue: 0,0:20:01.72,0:20:03.47,Default,,0,0,0,,One for me, too, please.
+Dialogue: 0,0:20:03.52,0:20:04.60,Default,,0,0,0,,Of course! Of course!
+Dialogue: 0,0:20:04.93,0:20:06.81,Background,,0,0,0,,Line up if you want one!
+Dialogue: 0,0:20:08.02,0:20:11.11,Thinking,,0,0,0,,Kurata-san's... recognized me...
+Dialogue: 0,0:20:11.40,0:20:12.07,Default,,0,0,0,,What!?
+Dialogue: 0,0:20:14.23,0:20:15.15,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:20:15.57,0:20:16.99,Background,,0,0,0,,Did something happen?
+Dialogue: 0,0:20:17.61,0:20:19.53,Background,,0,0,0,,Turn the volume up!
+Dialogue: 0,0:20:19.82,0:20:20.78,Default,,0,0,0,,O-Okay...
+Dialogue: 0,0:20:21.49,0:20:24.62,Default,,0,0,0,,{\fad(834,0)}In an earlier press conference, the top Go player,
+Dialogue: 0,0:20:24.91,0:20:26.50,Default,,0,0,0,,Touya Kouyou, with four titles,
+Dialogue: 0,0:20:26.66,0:20:28.75,Default,,0,0,0,,has announced his retirement!
+Dialogue: 0,0:20:29.88,0:20:30.54,Default,,0,0,0,,What!?
+Dialogue: 0,0:20:32.25,0:20:32.96,Default,,0,0,0,,Master...
+Dialogue: 0,0:20:33.80,0:20:35.20,Default,,0,0,0,,Touya's...
 Dialogue: 0,0:22:12.62,0:22:14.51,Default,,0,0,0,,Let's cover 'Seki' today.
 Dialogue: 0,0:22:14.86,0:22:16.88,Default,,0,0,0,,Mai-chan, have you heard of Seki before?
 Dialogue: 0,0:22:17.08,0:22:18.08,Default,,0,0,0,,Nope!

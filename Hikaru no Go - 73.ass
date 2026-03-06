@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 340
-Active Line: 357
-Video Position: 3888
+Video Zoom Percent: 0.625000
+Scroll Position: 24
+Active Line: 31
+Video Position: 5657
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,7 +121,7 @@ Dialogue: 0,0:03:40.61,0:03:45.87,Default,,0,0,0,,Hey, Shindou. Bring the half-f
 Dialogue: 0,0:03:47.71,0:03:48.58,Default,,0,0,0,,Autograph?
 Dialogue: 0,0:03:48.99,0:03:52.14,Background,,0,0,0,,Remember, I only wrote half my name?
 Dialogue: 0,0:03:52.45,0:03:55.51,Background,,0,0,0,,I'll write the rest of it if you beat Touya.
-Dialogue: 0,0:03:55.92,0:03:57.51,Ed5Romaji,,0,0,0,,{\c&H000000&\fs50\shad0\bord0\pos(369,254)}Kura
+Dialogue: 0,0:03:55.92,0:03:57.51,ed64_romaji,,0,0,0,,{\fs42\1c&H0B0909&\shad0\bord0\blur0\frz4\pos(364,259)\b1}Kura{\b0}
 Dialogue: 0,0:03:57.68,0:03:59.28,Thinking,,0,0,0,,Oh! That!
 Dialogue: 0,0:03:59.51,0:04:01.39,Thinking,,0,0,0,,Where did I put that!?
 Dialogue: 0,0:04:01.72,0:04:04.89,Default,,0,0,0,,It's a favor. Isn't that encouraging?
