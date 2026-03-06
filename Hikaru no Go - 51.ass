@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 364
-Active Line: 386
-Video Position: 29720
+Scroll Position: 340
+Active Line: 359
+Video Position: 27779
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -440,16 +440,16 @@ Dialogue: 0,0:19:09.88,0:19:12.42,Default,,0,0,0,,Not many people don't know me.
 Dialogue: 0,0:19:12.42,0:19:16.13,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\fscy80\pos(288,56)}Register
 Dialogue: 0,0:19:12.84,0:19:14.67,Background,,0,0,0,,Hey, can I have that fan?
 Dialogue: 1,0:19:18.39,0:19:20.10,Background,,0,0,0,,You want it right, here you can have it.
-Dialogue: 0,0:19:18.22,0:19:18.26,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(647,485)}Kurata Atsushi
-Dialogue: 0,0:19:18.26,0:19:18.30,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(611,464)}Kurata Atsushi
-Dialogue: 0,0:19:18.30,0:19:18.35,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(584,450)}Kurata Atsushi
-Dialogue: 0,0:19:18.35,0:19:18.39,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(553,432)}Kurata Atsushi
-Dialogue: 0,0:19:18.39,0:19:18.43,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(525,417)}Kurata Atsushi
-Dialogue: 0,0:19:18.43,0:19:18.47,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(500,402)}Kurata Atsushi
-Dialogue: 0,0:19:18.47,0:19:18.51,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(479,390)}Kurata Atsushi
-Dialogue: 0,0:19:18.51,0:19:18.55,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(462,380)}Kurata Atsushi
-Dialogue: 0,0:19:18.55,0:19:18.60,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(451,375)}Kurata Atsushi
-Dialogue: 0,0:19:18.60,0:19:20.10,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(447,372)}Kurata Atsushi
+Dialogue: 0,0:19:18.22,0:19:18.26,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(647,485)}Kurata Atsushi
+Dialogue: 0,0:19:18.26,0:19:18.30,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(611,464)}Kurata Atsushi
+Dialogue: 0,0:19:18.30,0:19:18.35,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(584,450)}Kurata Atsushi
+Dialogue: 0,0:19:18.35,0:19:18.39,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(553,432)}Kurata Atsushi
+Dialogue: 0,0:19:18.39,0:19:18.43,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(525,417)}Kurata Atsushi
+Dialogue: 0,0:19:18.43,0:19:18.47,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(500,402)}Kurata Atsushi
+Dialogue: 0,0:19:18.47,0:19:18.51,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(479,390)}Kurata Atsushi
+Dialogue: 0,0:19:18.51,0:19:18.55,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(462,380)}Kurata Atsushi
+Dialogue: 0,0:19:18.55,0:19:18.60,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(451,375)}Kurata Atsushi
+Dialogue: 0,0:19:18.60,0:19:20.10,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(447,372)}Kurata Atsushi
 Dialogue: 0,0:19:20.39,0:19:22.60,Default,,0,0,0,,Sir, that's store merchandise, so...
 Dialogue: 0,0:19:22.89,0:19:24.23,Default,,0,0,0,,umm... could you pay?
 Dialogue: 0,0:19:24.39,0:19:26.10,Default,,0,0,0,,Don't you want it? You can have it.

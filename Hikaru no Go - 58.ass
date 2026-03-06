@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 81
-Active Line: 86
-Video Position: 11103
+Scroll Position: 150
+Active Line: 167
+Video Position: 16904
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -176,87 +176,89 @@ Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs20\shad0\bord0\frz90\fsc
 Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs14.5\shad0\bord0\frz90\fscy160\1c&H4231AB&\pos(102,313)}Yamanishi
 Dialogue: 0,0:07:31.10,0:07:34.48,Default,,0,0,0,,I want to look at the Kifu, but I'm not sure\Nif I can get it at the Institute or not.
 Dialogue: 0,0:07:35.12,0:07:37.60,Default,,0,0,0,,Weekly Go won't come out until next week...
+Dialogue: 0,0:07:41.94,0:07:45.19,NoteArial,,0,0,0,,{\fs26\shad0\bord0\fscy120\1c&HB2DCF1&\frz20\pos(213.1,219.757)}RAMEN
 Dialogue: 0,0:07:43.07,0:07:44.80,Background,,0,0,0,,I'm getting hungry.
-Dialogue: 0,0:07:46.27,0:07:47.37,Default,,0,0,0,,Welcome!
-Dialogue: 0,0:07:52.17,0:07:53.01,Default,,0,0,0,,Kurata-san!
-Dialogue: 0,0:07:55.16,0:07:56.00,Default,,0,0,0,,Shindou?
-Dialogue: 0,0:07:56.84,0:07:58.68,Default,,0,0,0,,What are you doing at a place like this?
-Dialogue: 0,0:07:58.73,0:08:00.92,Default,,0,0,0,,Idiot? Shindou, are you an idiot?
-Dialogue: 0,0:08:01.31,0:08:03.34,Default,,0,0,0,,I'm hear to eat noodles of course.
-Dialogue: 0,0:08:05.46,0:08:06.98,Default,,0,0,0,,Not that!
-Dialogue: 0,0:08:06.98,0:08:09.06,Default,,0,0,0,,I'm asking why you're in this area.
-Dialogue: 0,0:08:09.48,0:08:11.27,Default,,0,0,0,,I'm not going to treat you just because you sat down there.
-Dialogue: 0,0:08:11.39,0:08:12.87,Default,,0,0,0,,I can pay for myself!
-Dialogue: 0,0:08:13.96,0:08:14.80,Default,,0,0,0,,What would you like?
-Dialogue: 0,0:08:14.95,0:08:15.59,Default,,0,0,0,,Ramen.
-Dialogue: 0,0:08:15.67,0:08:16.54,Default,,0,0,0,,Oh. Me, too.
-Dialogue: 0,0:08:16.85,0:08:17.83,Default,,0,0,0,,Y-You, too!?
-Dialogue: 0,0:08:18.40,0:08:19.47,Default,,0,0,0,,Two ramens!
-Dialogue: 0,0:08:28.31,0:08:30.95,Default,,0,0,0,,Did you have an appointment for a tutoring game around here?
-Dialogue: 0,0:08:31.78,0:08:32.93,Default,,0,0,0,,Did you have one?
-Dialogue: 0,0:08:34.33,0:08:34.97,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:08:36.22,0:08:36.98,Default,,0,0,0,,On the way home.
-Dialogue: 0,0:08:39.35,0:08:40.64,Default,,0,0,0,,Oh yeah, Kurata-san...
-Dialogue: 0,0:08:41.04,0:08:44.58,Default,,0,0,0,,Can I see the Kifu from the Jyudan game yesterday if I go to the Go institute?
-Dialogue: 0,0:08:46.24,0:08:47.16,Default,,0,0,0,,I saw it.
-Dialogue: 0,0:08:47.17,0:08:47.89,Default,,0,0,0,,You did!?
-Dialogue: 0,0:08:48.42,0:08:50.01,Default,,0,0,0,,I was at the Go Institute yesterday.
-Dialogue: 0,0:08:50.31,0:08:52.07,Default,,0,0,0,,So the publishing division showed it to me.
-Dialogue: 0,0:08:52.93,0:08:55.61,Default,,0,0,0,,They send you updates on the game live over the fax.
-Dialogue: 0,0:08:54.84,0:08:55.89,Default,,0,0,0,,Here you go.
-Dialogue: 0,0:08:57.63,0:09:02.56,Default,,0,0,0,,I know that Master Touya lost... I read about it in the newspaper.
-Dialogue: 0,0:09:03.51,0:09:05.47,Default,,0,0,0,,What... kind of game was it?
-Dialogue: 0,0:09:09.06,0:09:11.22,Default,,0,0,0,,A game you wouldn't expect from Touya Kouyou.
-Dialogue: 0,0:09:12.20,0:09:13.20,Thinking,,0,0,0,,Wouldn't expect?
-Dialogue: 0,0:09:14.71,0:09:17.06,Default,,0,0,0,,Don't you think he plays a well-balanced game?
-Dialogue: 0,0:09:18.29,0:09:20.85,Default,,0,0,0,,He attacks when he should but holds back when he needs to.
-Dialogue: 0,0:09:21.12,0:09:21.92,Default,,0,0,0,,But...
-Dialogue: 0,0:09:22.86,0:09:24.84,Default,,0,0,0,,It was as if he was off balance.
+Dialogue: 0,0:07:46.20,0:07:47.37,Background,,0,0,0,,Welcome!
+Dialogue: 0,0:07:52.08,0:07:53.08,Background,,0,0,0,,Kurata-san!
+Dialogue: 0,0:07:55.08,0:07:56.12,Default,,0,0,0,,Shindou?
+Dialogue: 0,0:07:56.71,0:07:58.54,Default,,0,0,0,,What are you doing at a place like this?
+Dialogue: 0,0:07:58.67,0:08:00.84,Default,,0,0,0,,Idiot? Shindou, are you an idiot?
+Dialogue: 0,0:08:01.25,0:08:03.38,Default,,0,0,0,,I'm hear to eat noodles of course.
+Dialogue: 0,0:08:05.26,0:08:06.80,Default,,0,0,0,,Not that!
+Dialogue: 0,0:08:06.92,0:08:08.97,Default,,0,0,0,,I'm asking why you're in this area.
+Dialogue: 0,0:08:09.26,0:08:11.27,Default,,0,0,0,,I'm not going to treat you just\Nbecause you sat down there.
+Dialogue: 0,0:08:11.35,0:08:12.87,Default,,0,0,0,,I can pay for it myself!
+Dialogue: 0,0:08:13.85,0:08:14.77,Default,,0,0,0,,What would you like?
+Dialogue: 0,0:08:14.89,0:08:15.56,Default,,0,0,0,,Ramen.
+Dialogue: 0,0:08:15.64,0:08:16.68,Default,,0,0,0,,Oh. Me, too.
+Dialogue: 0,0:08:16.81,0:08:17.77,Default,,0,0,0,,Y-You, too!?
+Dialogue: 0,0:08:18.31,0:08:19.56,Default,,0,0,0,,Two Ramens!
+Dialogue: 0,0:08:28.24,0:08:30.95,Default,,0,0,0,,Did you have an appointment for\Na tutoring game around here?
+Dialogue: 0,0:08:31.74,0:08:32.74,Default,,0,0,0,,Did you have one?
+Dialogue: 0,0:08:34.12,0:08:34.91,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:08:36.00,0:08:36.75,Default,,0,0,0,,On my way home.
+Dialogue: 0,0:08:39.25,0:08:40.37,Default,,0,0,0,,Oh yeah, Kurata-san...
+Dialogue: 0,0:08:40.96,0:08:44.50,Default,,0,0,0,,Can I see the Kifu from the Jyudan game\Nyesterday if I go to the Go Institute?
+Dialogue: 0,0:08:46.17,0:08:46.96,Default,,0,0,0,,I saw it.
+Dialogue: 0,0:08:47.09,0:08:47.89,Default,,0,0,0,,You did!?
+Dialogue: 0,0:08:48.38,0:08:50.01,Default,,0,0,0,,I was at the Go Institute yesterday.
+Dialogue: 0,0:08:50.26,0:08:52.07,Default,,0,0,0,,So the publishing division showed it to me.
+Dialogue: 0,0:08:52.85,0:08:55.89,Default,,0,0,0,,They send you updates on the\Ngame live over the fax.
+Dialogue: 0,0:08:54.76,0:08:55.72,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:08:57.60,0:09:02.40,Default,,0,0,0,,I know that Master Touya lost... I\Nread about it in the newspaper.
+Dialogue: 0,0:09:03.44,0:09:05.40,Default,,0,0,0,,What... kind of a game was it?
+Dialogue: 0,0:09:08.99,0:09:10.91,Default,,0,0,0,,A game you wouldn't expect from Touya Kouyou.
+Dialogue: 0,0:09:12.11,0:09:13.20,Thinking,,0,0,0,,Wouldn't expect!?
+Dialogue: 0,0:09:14.66,0:09:17.06,Default,,0,0,0,,Don't you think he plays a well-balanced game?
+Dialogue: 0,0:09:18.20,0:09:20.85,Default,,0,0,0,,He attacks when he should but\Nholds back when he needs to.
+Dialogue: 0,0:09:21.12,0:09:21.96,Default,,0,0,0,,But...
+Dialogue: 0,0:09:22.83,0:09:24.84,Default,,0,0,0,,It was as if he was off balance.
 Dialogue: 0,0:09:25.01,0:09:26.15,Default,,0,0,0,,It was like...
-Dialogue: 0,0:09:32.86,0:09:34.97,Default,,0,0,0,,Was it... poorly played?
-Dialogue: 0,0:09:36.86,0:09:37.66,Default,,0,0,0,,Bad?
-Dialogue: 0,0:09:38.68,0:09:39.87,Default,,0,0,0,,It was a great game.
-Dialogue: 0,0:09:42.06,0:09:44.02,Default,,0,0,0,,He played interesting moves one after another,
-Dialogue: 0,0:09:44.07,0:09:46.07,Default,,0,0,0,,even though it was the last game of the title match.
-Dialogue: 0,0:09:46.34,0:09:47.59,Default,,0,0,0,,His game has become more youthful!
-Dialogue: 0,0:09:48.01,0:09:50.05,Default,,0,0,0,,He ended up losing, but I'm impressed.
-Dialogue: 0,0:09:53.46,0:09:57.18,Default,,0,0,0,,I mean, he can still change his game despite his age!
-Dialogue: 0,0:09:57.90,0:09:59.83,Default,,0,0,0,,Touya Kouyou is incredible.
-Dialogue: 0,0:10:00.28,0:10:01.49,Default,,0,0,0,,He's still in his prime.
-Dialogue: 0,0:10:02.03,0:10:03.16,Default,,0,0,0,,That's my impression of the game.
-Dialogue: 0,0:10:04.24,0:10:05.55,Default,,0,0,0,,Are you going to eat, Shindou?
-Dialogue: 0,0:10:06.99,0:10:08.50,Default,,0,0,0,,O-Of course.
-Dialogue: 0,0:10:09.46,0:10:10.63,Thinking,,0,0,0,,So it was a good game...
-Dialogue: 0,0:10:11.12,0:10:12.03,Thinking,,0,0,0,,I'm glad.
-Dialogue: 0,0:10:12.56,0:10:14.38,Thinking,,0,0,0,,Then he might not retire.
-Dialogue: 0,0:10:14.57,0:10:17.67,Default,,0,0,0,,That makes defeating him all the more worthy a goal. I'm getting excited.
-Dialogue: 0,0:10:17.94,0:10:19.68,Default,,0,0,0,,His son put up a great fight, too.
-Dialogue: 0,0:10:21.04,0:10:23.63,Default,,0,0,0,,Kurata-san, you've played Touya Akira before!?
-Dialogue: 0,0:10:24.08,0:10:27.16,Default,,0,0,0,,I beat him last month in the second preliminaries for the Meijin match.
-Dialogue: 0,0:10:27.58,0:10:31.26,Default,,0,0,0,,But he's made it to the third preliminaries for the Honinbou match.
-Dialogue: 0,0:10:32.25,0:10:35.01,Default,,0,0,0,,A mere 2-dan is in the third preliminaries!
-Dialogue: 0,0:10:35.96,0:10:38.00,Default,,0,0,0,,He has no rivals amongst the lower dan players.
-Dialogue: 0,0:10:39.02,0:10:41.87,Default,,0,0,0,,He might really become threatening by summer.
-Dialogue: 0,0:10:42.21,0:10:43.88,Default,,0,0,0,,It's faster than I could've imagined.
-Dialogue: 0,0:10:45.05,0:10:46.00,Thinking,,0,0,0,,Touya...
+Dialogue: 0,0:09:32.76,0:09:34.76,Default,,0,0,0,,Was it... poorly played?
+Dialogue: 0,0:09:36.76,0:09:37.66,Default,,0,0,0,,Bad?
+Dialogue: 0,0:09:38.64,0:09:39.77,Default,,0,0,0,,It was a great game.
+Dialogue: 0,0:09:42.02,0:09:44.02,Default,,0,0,0,,He played interesting moves one after another,
+Dialogue: 0,0:09:44.07,0:09:46.11,Default,,0,0,0,,even though it was the last game of a title match.
+Dialogue: 0,0:09:46.23,0:09:47.78,Default,,0,0,0,,His game has become more youthful!
+Dialogue: 0,0:09:47.98,0:09:50.15,Default,,0,0,0,,He ended up losing, but I'm impressed.
+Dialogue: 0,0:09:53.36,0:09:56.99,Default,,0,0,0,,I mean, he can still change\Nhis game despite his age!
+Dialogue: 0,0:09:57.87,0:09:59.83,Default,,0,0,0,,Touya Kouyou is incredible.
+Dialogue: 0,0:10:00.25,0:10:01.54,Default,,0,0,0,,He's still at his prime.
+Dialogue: 0,0:10:01.96,0:10:03.33,Default,,0,0,0,,That's my impression of the game.
+Dialogue: 0,0:10:04.12,0:10:05.63,Default,,0,0,0,,Are you going to eat, Shindou?
+Dialogue: 0,0:10:06.92,0:10:08.59,Default,,0,0,0,,O-Of course.
+Dialogue: 0,0:10:09.34,0:10:10.59,Thinking,,0,0,0,,So it was a good game...
+Dialogue: 0,0:10:11.09,0:10:12.03,Thinking,,0,0,0,,I'm glad.
+Dialogue: 0,0:10:12.51,0:10:14.18,Thinking,,0,0,0,,Then he might not retire.
+Dialogue: 0,0:10:14.51,0:10:17.67,Background,,0,0,0,,That makes defeating him all the more\Nworthy a goal. I'm getting excited.
+Dialogue: 0,0:10:17.94,0:10:19.72,Background,,0,0,0,,His son put up a great fight, too.
+Dialogue: 0,0:10:20.98,0:10:23.60,Default,,0,0,0,,Kurata-san, you've played Touya Akira before!?
+Dialogue: 0,0:10:24.02,0:10:27.16,Default,,0,0,0,,I beat him last month in the second\Npreliminaries for the Meijin match.
+Dialogue: 0,0:10:27.52,0:10:31.26,Default,,0,0,0,,But he's made it to the third preliminaries\Nfor the Honinbou match.
+Dialogue: 0,0:10:32.15,0:10:34.95,Default,,0,0,0,,A mere 2-dan is in the third preliminaries!
+Dialogue: 0,0:10:35.87,0:10:38.00,Default,,0,0,0,,He has no rivals amongst the lower dan players.
+Dialogue: 0,0:10:38.95,0:10:41.87,Background,,0,0,0,,He might really become threatening by summer.
+Dialogue: 0,0:10:42.12,0:10:43.83,Background,,0,0,0,,It's faster than I could've imagined.
+Dialogue: 0,0:10:44.96,0:10:45.96,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:10:46.59,0:10:48.96,Thinking,,0,0,0,,So you've already made it that far...
-Dialogue: 0,0:10:49.75,0:10:52.89,Thinking,,0,0,0,,Can I not even catch up to him? Let alone surpass him...
-Dialogue: 0,0:10:56.03,0:10:56.97,Default,,0,0,0,,Thank you, come again.
-Dialogue: 0,0:10:59.64,0:11:01.38,Default,,0,0,0,,That was a great meal.
-Dialogue: 0,0:11:02.29,0:11:03.01,Default,,0,0,0,,See ya.
-Dialogue: 0,0:11:03.86,0:11:04.39,Default,,0,0,0,,Okay.
-Dialogue: 0,0:11:11.14,0:11:11.94,Default,,0,0,0,,Kurata-san!
+Dialogue: 0,0:10:49.67,0:10:53.05,Thinking,,0,0,0,,Can I not even catch up to him? Let alone surpass him...
+Dialogue: 0,0:10:55.97,0:10:57.01,Background,,0,0,0,,Thank you, come again.
+Dialogue: 0,0:10:59.64,0:11:01.27,Default,,0,0,0,,That was a great meal.
+Dialogue: 0,0:11:02.27,0:11:03.01,Default,,0,0,0,,See ya.
+Dialogue: 0,0:11:03.81,0:11:04.39,Default,,0,0,0,,Okay.
+Dialogue: 0,0:11:11.03,0:11:11.86,Default,,0,0,0,,Kurata-san!
 Dialogue: 0,0:11:13.87,0:11:15.76,Default,,0,0,0,,Are you busy right now?
-Dialogue: 0,0:11:16.15,0:11:17.02,Default,,0,0,0,,Do you have some time?
-Dialogue: 0,0:11:17.84,0:11:19.10,Default,,0,0,0,,What if I have time?
-Dialogue: 0,0:11:19.14,0:11:21.15,Default,,0,0,0,,Please play a game against me.
+Dialogue: 0,0:11:16.07,0:11:17.11,Default,,0,0,0,,Do you have some time?
+Dialogue: 0,0:11:17.70,0:11:18.78,Default,,0,0,0,,What if I have time?
+Dialogue: 0,0:11:19.12,0:11:20.95,Default,,0,0,0,,Please play a game against me.
 Dialogue: 0,0:11:21.27,0:11:22.44,Default,,0,0,0,,No way.
-Dialogue: 0,0:11:26.24,0:11:27.41,Thinking,,0,0,0,,What'll I do.
-Dialogue: 0,0:11:28.24,0:11:32.10,Thinking,,0,0,0,,I wonder if he's bitter about me saying that I didn't want his autograph...
-Dialogue: 0,0:11:33.54,0:11:34.56,Thinking,,0,0,0,,Well then...
-Dialogue: 0,0:11:36.12,0:11:39.10,Default,,0,0,0,,I want Kurata-san's autograph!
-Dialogue: 0,0:11:40.76,0:11:44.04,Default,,0,0,0,,Kurata-san, will you give me your autograph as a reward if I beat you?
-Dialogue: 0,0:11:46.59,0:11:49.61,Default,,0,0,0,,Well, I doubt someone like me could win,
+Dialogue: 0,0:11:25.75,0:11:27.37,Thinking,,0,0,0,,What'll I do...
+Dialogue: 0,0:11:28.21,0:11:31.96,Thinking,,0,0,0,,I wonder if he's bitter about my saying\Nthat I didn't want his autograph...
+Dialogue: 0,0:11:33.51,0:11:34.56,Thinking,,0,0,0,,Well then...
+Dialogue: 0,0:11:36.09,0:11:39.10,Background,,0,0,0,,I want Kurata-san's autograph!
+Dialogue: 0,0:11:40.68,0:11:43.77,Default,,0,0,0,,Kurata-san, will you give me your autograph\Nas a reward if I beat you?
+Dialogue: 0,0:11:45.02,0:11:45.06,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\frz316\pos(647,485)}Kurata Atsushi
+Dialogue: 0,0:11:46.52,0:11:49.61,Default,,0,0,0,,Well, I doubt someone like me could win,
 Dialogue: 0,0:11:50.10,0:11:53.28,Default,,0,0,0,,but I can't ask for Kurata-san's autograph for free!
 Dialogue: 0,0:11:53.81,0:11:56.53,Default,,0,0,0,,It's something I have to work hard for.
 Dialogue: 0,0:12:04.96,0:12:05.97,Default,,0,0,0,,Reeeaally?
