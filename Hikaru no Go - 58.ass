@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 11
-Video Position: 3388
+Scroll Position: 81
+Active Line: 86
+Video Position: 11103
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -77,7 +78,7 @@ Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1
 Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
 Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
 Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,4,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: 61Sign,HillWilliam,42,&H00594941,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,20,1
@@ -103,75 +104,79 @@ Dialogue: 0,0:02:17.91,0:02:19.49,Sai,,0,0,0,,Hikaru has, shining above him...
 Dialogue: 0,0:02:19.71,0:02:21.08,Sai,,0,0,0,,The future I lack...
 Dialogue: 0,0:02:22.16,0:02:27.09,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(330,115)}The Fifty-Eighth Match
 Dialogue: 0,0:02:22.16,0:02:27.09,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}One-Color Go
-Dialogue: 0,0:02:34.38,0:02:39.70,Note,,0,0,0,,Ouza Match Finals Game 1
-Dialogue: 0,0:02:39.98,0:02:43.98,Note,,0,0,0,,Kurata Atsushi 6-dan
-Dialogue: 0,0:02:45.48,0:02:48.68,Note,,0,0,0,,Kamaishi Yoshirou 9-dan
-Dialogue: 0,0:03:33.08,0:03:33.98,Default,,0,0,0,,I resign.
-Dialogue: 0,0:03:35.20,0:03:36.44,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:03:45.82,0:03:46.62,Default,,0,0,0,,Kurata-kun!
-Dialogue: 0,0:03:47.98,0:03:49.08,Default,,0,0,0,,Are you done?
-Dialogue: 0,0:03:49.53,0:03:51.58,Default,,0,0,0,,Judging by the smile, I'm guessing you won.
+Dialogue: 0,0:02:27.09,0:02:29.55,NoteArial,,0,0,0,,{\fs16\1c&H515C5F&\bord0\shad0\fscy120\frz345\pos(335,183)}Japanese Go Institute
+Dialogue: 0,0:02:33.93,0:02:39.22,NoteArial,,0,0,0,,{\1c&HFFFFFF&\fs19\fscx99\\fad(626,626)\shad0\bord3\pos(320,364)}Ouza Match Finals Game 1
+Dialogue: 0,0:02:39.72,0:02:43.98,NoteArial,,0,0,0,,{\1c&HFFFFFF&\fs19\fscx99\\fad(626,626)\shad0\bord3\pos(320,364)}Kurata Atsushi 6-Dan
+Dialogue: 0,0:02:44.89,0:02:48.48,NoteArial,,0,0,0,,{\1c&HFFFFFF&\fs19\fscx99\\fad(501,501)\shad0\bord3\pos(320,364)}Kamaishi Yoshirou 9-Dan
+Dialogue: 0,0:03:33.03,0:03:34.07,Default,,0,0,0,,I resign.
+Dialogue: 0,0:03:35.07,0:03:36.57,Default,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:03:45.71,0:03:46.66,Background,,0,0,0,,Kurata-kun!
+Dialogue: 0,0:03:47.92,0:03:49.17,Default,,0,0,0,,Are you done?
+Dialogue: 0,0:03:49.50,0:03:51.58,Default,,0,0,0,,Judging from the smile, I'm guessing you won.
 Dialogue: 0,0:03:51.99,0:03:53.84,Default,,0,0,0,,I'm going to blast through this year.
 Dialogue: 0,0:03:53.96,0:03:56.04,Default,,0,0,0,,I'm seriously aiming for a title now.
-Dialogue: 0,0:03:56.46,0:03:57.60,Default,,0,0,0,,Sounds like you're doing well.
-Dialogue: 0,0:03:58.01,0:04:02.13,Default,,0,0,0,,I guess even Kamaishi 9-dan is no match for Kurata-kun anymore.
-Dialogue: 0,0:04:02.24,0:04:04.35,Default,,0,0,0,,Hey, what's going on over there?
-Dialogue: 0,0:04:04.35,0:04:05.49,Default,,0,0,0,,Over in Nagano.
-Dialogue: 0,0:04:06.50,0:04:08.59,Default,,0,0,0,,The fifth game of the Jyudan match?
-Dialogue: 0,0:04:08.61,0:04:10.01,Default,,0,0,0,,So that's why you stopped by.
-Dialogue: 0,0:04:10.27,0:04:10.99,Default,,0,0,0,,Curious?
-Dialogue: 0,0:04:11.19,0:04:12.24,Default,,0,0,0,,Of course!
-Dialogue: 0,0:04:13.12,0:04:15.42,Default,,0,0,0,,Let's see, the fax did arrive...
-Dialogue: 0,0:04:16.12,0:04:17.07,Default,,0,0,0,,Oh, here it is.
-Dialogue: 0,0:04:18.36,0:04:20.17,Default,,0,0,0,,This is the latest one.
-Dialogue: 0,0:04:20.32,0:04:22.10,Default,,0,0,0,,It's from half an hour ago.
-Dialogue: 0,0:04:22.75,0:04:25.81,Default,,0,0,0,,The games still pretty even, after all this time.
-Dialogue: 0,0:04:26.00,0:04:30.22,Default,,0,0,0,,So I think Master Touya's going to end up winning. since he is more experienced.
-Dialogue: 0,0:04:34.50,0:04:40.21,Default,,0,0,0,,Mr. Ogata just isn't as good as Master Touya with the finishing blow.
-Dialogue: 0,0:04:40.67,0:04:43.93,Default,,0,0,0,,He was defeated in the seventh and final game of the Honinbou match,
-Dialogue: 0,0:04:44.08,0:04:48.10,Default,,0,0,0,,and he may lose today in the fifth and final game of the Jyudan match.
-Dialogue: 0,0:04:48.45,0:04:51.96,Default,,0,0,0,,I'm sure he'll toughen up once he gets used to title matches.
+Dialogue: 0,0:03:56.42,0:03:57.63,Default,,0,0,0,,Sounds like you're doing well.
+Dialogue: 0,0:03:57.97,0:04:01.89,Default,,0,0,0,,I guess even Kamaishi 9-dan is no\Nmatch for Kurata-kun anymore.
+Dialogue: 0,0:04:02.14,0:04:04.14,Default,,0,0,0,,Hey, what's going on over there?
+Dialogue: 0,0:04:04.43,0:04:05.43,Default,,0,0,0,,Over in Nagano.
+Dialogue: 0,0:04:06.48,0:04:08.27,Default,,0,0,0,,The fifth game of the Jyudan match?
+Dialogue: 0,0:04:08.56,0:04:09.98,Default,,0,0,0,,So that's why you stopped by.
+Dialogue: 0,0:04:10.15,0:04:10.90,Default,,0,0,0,,Curious?
+Dialogue: 0,0:04:11.19,0:04:12.11,Default,,0,0,0,,Of course!
+Dialogue: 0,0:04:13.07,0:04:15.28,Background,,0,0,0,,Let's see, the fax did arrive...
+Dialogue: 0,0:04:16.07,0:04:17.03,Background,,0,0,0,,Oh, here it is.
+Dialogue: 0,0:04:18.24,0:04:20.03,Default,,0,0,0,,This is the latest one.
+Dialogue: 0,0:04:20.20,0:04:21.87,Default,,0,0,0,,It's from half an hour ago.
+Dialogue: 0,0:04:22.75,0:04:25.87,Background,,0,0,0,,The game's still pretty even, after all this time.
+Dialogue: 0,0:04:26.00,0:04:30.17,Background,,0,0,0,,So I think Master Touya's going to end up\Nwinning, since he is more experienced.
+Dialogue: 0,0:04:34.46,0:04:39.93,Background,,0,0,0,,Mr. Ogata just isn't as good as Master\NTouya with the finishing blow.
+Dialogue: 0,0:04:40.59,0:04:43.89,Default,,0,0,0,,He was defeated in the seventh and\Nfinal game of the Honinbou match,
+Dialogue: 0,0:04:44.06,0:04:48.02,Default,,0,0,0,,and he may lose today in the fifth and\Nfinal game of the Jyudan match.
+Dialogue: 0,0:04:48.45,0:04:51.96,Default,,0,0,0,,I'm sure he'll toughen up once\Nhe gets used to title matches.
 Dialogue: 0,0:04:52.54,0:04:55.79,Default,,0,0,0,,His game is starting to get solid and professional.
-Dialogue: 0,0:04:56.07,0:04:58.82,Default,,0,0,0,,Now that you mention it...
-Dialogue: 0,0:04:59.38,0:05:03.04,Default,,0,0,0,,But more importantly, what's wrong with Touya Kouyou?
-Dialogue: 0,0:05:07.30,0:05:10.02,Default,,0,0,0,,Did something happen to him?
-Dialogue: 0,0:05:12.11,0:05:14.15,Default,,0,0,0,,But Ogata-san is playing it rationally.
-Dialogue: 0,0:05:17.90,0:05:20.24,Default,,0,0,0,,What!? The Meijin is still playing moves like that?
-Dialogue: 0,0:05:20.47,0:05:21.38,Default,,0,0,0,,That's unlike him.
-Dialogue: 0,0:05:22.02,0:05:23.15,Default,,0,0,0,,Unlike him?
-Dialogue: 0,0:05:46.30,0:05:48.98,Default,,0,0,0,,Master Touya... lost...
-Dialogue: 0,0:05:50.34,0:05:51.29,Default,,0,0,0,,He lost?
-Dialogue: 0,0:05:59.68,0:06:02.93,Default,,0,0,0,,With formulas like these, what you want to be solving for is...
-Dialogue: 0,0:06:02.93,0:06:04.63,Default,,0,0,0,,Listen up, this part is going to be on the test.
+Dialogue: 0,0:04:57.36,0:04:58.69,Default,,0,0,0,,Now that you mention it...
+Dialogue: 0,0:04:59.32,0:05:03.04,Default,,0,0,0,,But more importantly, what's\Nwrong with Touya Kouyou?
+Dialogue: 0,0:05:07.25,0:05:09.62,Default,,0,0,0,,Did something happen to him?
+Dialogue: 0,0:05:12.04,0:05:14.09,Default,,0,0,0,,But Ogata-san is playing it rationally.
+Dialogue: 0,0:05:17.21,0:05:20.24,Default,,0,0,0,,What!? The Meijin is still playing moves like that!?
+Dialogue: 0,0:05:20.42,0:05:21.38,Default,,0,0,0,,That's unlike him.
+Dialogue: 0,0:05:22.02,0:05:23.22,Default,,0,0,0,,Unlike him?
+Dialogue: 0,0:05:46.20,0:05:48.70,Default,,0,0,0,,Master Touya... lost...
+Dialogue: 0,0:05:50.20,0:05:51.41,Sai,,0,0,0,,He lost?
+Comment: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12.5\1c&H000000&\bord0\shad0\fscy120\frz310\pos(373.081,142.689)}Ogata takes the Jyudan title
+Comment: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs11\1c&H000000&\bord0\shad0\fscy130\b0\frz299.7\pos(273.97,193.742)}In the fifth game of the 39th Jyu-\Ndan match where Ogata 9-dan\Nwas challenging Touya Kouyou\NJyudan (Meijin, Tengen, Ouza\Nand Kisei) started at 9am on the\N19th, and ended about 8:55pm.\NOgata won by resignation after\Nmove 231, and captured the ti-\Ntle with 3 wins and 2 losses.\NThis is the first title for Ogata,\Nand Touya Kouyou now has\Nfour titles left to defend.{\b1}
+Dialogue: 0,0:05:59.59,0:06:03.09,Default,,0,0,0,,With formulas like these, what\Nyou want to be solving for is...
+Dialogue: 0,0:06:03.09,0:06:04.63,Background,,0,0,0,,Listen up, this part is going to be on the test.
 Dialogue: 0,0:06:04.75,0:06:07.50,Thinking,,0,0,0,,Why did Master Touya lose?
-Dialogue: 0,0:06:08.53,0:06:10.76,Thinking,,0,0,0,,Was it because he played Go against Sai on the internet?
-Dialogue: 0,0:06:13.01,0:06:17.62,Thinking,,0,0,0,,I wonder if he lost because he was tired from it, or if it threw him off rhythm...
-Dialogue: 0,0:06:18.38,0:06:20.81,Thinking,,0,0,0,,I hope that's not it...
-Dialogue: 0,0:06:22.29,0:06:23.80,Default,,0,0,0,,What do you think, Sai?
-Dialogue: 0,0:06:24.90,0:06:26.68,Default,,0,0,0,,I doubt that would be the reason.
-Dialogue: 0,0:06:27.17,0:06:28.80,Default,,0,0,0,,But I would have to look at the Kifu.
-Dialogue: 0,0:06:29.50,0:06:30.24,Default,,0,0,0,,Kifu?
-Dialogue: 0,0:06:30.55,0:06:31.27,Default,,0,0,0,,Yes.
-Dialogue: 0,0:06:31.90,0:06:37.41,Default,,0,0,0,,I can tell what he felt during the match if I look at the Kifu.
-Dialogue: 0,0:06:38.24,0:06:39.61,Default,,0,0,0,,Really?
-Dialogue: 0,0:06:39.92,0:06:40.57,Default,,0,0,0,,Yes.
-Dialogue: 0,0:06:43.70,0:06:46.46,Default,,0,0,0,,Seems like your finally back to normal, Sai.
-Dialogue: 0,0:06:47.67,0:06:51.50,Default,,0,0,0,,Well, you've been acting strangely lately.
-Dialogue: 0,0:06:51.73,0:06:53.73,Default,,0,0,0,,You looked really sad all the time.
-Dialogue: 0,0:06:54.19,0:06:57.40,Default,,0,0,0,,You're not Touya, but you looked just as inconfident and worried as him.
+Dialogue: 0,0:06:08.43,0:06:10.60,Thinking,,0,0,0,,Was it because he played Go against Sai on the Internet?
+Dialogue: 0,0:06:12.94,0:06:17.62,Thinking,,0,0,0,,I wonder if he lost because he was tired\Nfrom it, or if it threw him off rhythm...
+Dialogue: 0,0:06:18.32,0:06:20.28,Thinking,,0,0,0,,I hope that's not it...
+Dialogue: 0,0:06:22.24,0:06:23.74,Default,,0,0,0,,What do you think, Sai?
+Dialogue: 0,0:06:24.82,0:06:26.66,Sai,,0,0,0,,I doubt that would be the reason.
+Dialogue: 0,0:06:27.07,0:06:28.62,Sai,,0,0,0,,But I would have to look at the Kifu.
+Dialogue: 0,0:06:29.41,0:06:30.20,Default,,0,0,0,,Kifu?
+Dialogue: 0,0:06:30.49,0:06:31.20,Sai,,0,0,0,,Yes.
+Dialogue: 0,0:06:31.83,0:06:37.41,Sai,,0,0,0,,I can tell what he felt during the\Nmatch if I look at the Kifu.
+Dialogue: 0,0:06:38.21,0:06:39.59,Default,,0,0,0,,Really?
+Dialogue: 0,0:06:39.84,0:06:40.38,Sai,,0,0,0,,Yes.
+Dialogue: 0,0:06:43.63,0:06:46.22,Default,,0,0,0,,Seems like you're finally back to normal, Sai.
+Dialogue: 0,0:06:47.64,0:06:51.50,Default,,0,0,0,,Well, you've been acting strangely lately.
+Dialogue: 0,0:06:51.68,0:06:53.68,Default,,0,0,0,,You looked really sad all the time.
+Dialogue: 0,0:06:54.10,0:06:57.40,Default,,0,0,0,,You're not Touya, but you looked just\Nas inconfident and worried as him.
 Dialogue: 0,0:06:58.08,0:06:59.59,Default,,0,0,0,,I was worried.
-Dialogue: 0,0:07:03.34,0:07:06.00,Default,,0,0,0,,D-Did I say something wrong?
-Dialogue: 0,0:07:06.07,0:07:08.85,Default,,0,0,0,,N-No, not at all.
-Dialogue: 0,0:07:09.77,0:07:10.93,Default,,0,0,0,,Not at all...
-Dialogue: 0,0:07:12.63,0:07:15.84,Default,,0,0,0,,I guess Master Touya is really going to retire.
-Dialogue: 0,0:07:17.13,0:07:20.62,Default,,0,0,0,,He's not the type of person who changes his mind after he's decided on something.
-Dialogue: 0,0:07:21.23,0:07:22.14,Default,,0,0,0,,He isn't...
-Dialogue: 0,0:07:23.66,0:07:25.24,Default,,0,0,0,,Yeah...
-Dialogue: 0,0:07:25.90,0:07:27.70,Default,,0,0,0,,This is bad...
-Dialogue: 0,0:07:30.01,0:07:34.48,Computer,,0,0,0,,{\an1\fs23\pos(101,312)\frz90\cH&88&}RAMEN\N{\fs16}Yamanishi
-Dialogue: 0,0:07:31.18,0:07:34.51,Default,,0,0,0,,I want to look at the Kifu, but I'm not sure if I can get it at the Institute or not.
-Dialogue: 0,0:07:35.12,0:07:37.73,Default,,0,0,0,,Weekly Go won't come out until next week...
-Dialogue: 0,0:07:43.13,0:07:44.80,Default,,0,0,0,,I'm getting hungry.
+Dialogue: 0,0:07:03.24,0:07:05.70,Default,,0,0,0,,D-Did I say something wrong?
+Dialogue: 0,0:07:05.99,0:07:08.45,Sai,,0,0,0,,N-No, not at all.
+Dialogue: 0,0:07:09.70,0:07:11.04,Sai,,0,0,0,,Not at all...
+Dialogue: 0,0:07:12.58,0:07:15.71,Default,,0,0,0,,I guess Master Touya is really going to retire.
+Dialogue: 0,0:07:17.04,0:07:20.67,Sai,,0,0,0,,He's not the type of person who changes his\Nmind after he's decided on something.
+Dialogue: 0,0:07:21.17,0:07:22.09,Sai,,0,0,0,,He isn't...
+Dialogue: 0,0:07:23.63,0:07:25.05,Default,,0,0,0,,Yeah...
+Dialogue: 0,0:07:25.80,0:07:27.64,Background,,0,0,0,,This is bad...
+Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs20\shad0\bord0\frz90\fscy120\1c&H4231AB&\pos(77,313)}RAMEN
+Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs14.5\shad0\bord0\frz90\fscy160\1c&H4231AB&\pos(102,313)}Yamanishi
+Dialogue: 0,0:07:31.10,0:07:34.48,Default,,0,0,0,,I want to look at the Kifu, but I'm not sure\Nif I can get it at the Institute or not.
+Dialogue: 0,0:07:35.12,0:07:37.60,Default,,0,0,0,,Weekly Go won't come out until next week...
+Dialogue: 0,0:07:43.07,0:07:44.80,Background,,0,0,0,,I'm getting hungry.
 Dialogue: 0,0:07:46.27,0:07:47.37,Default,,0,0,0,,Welcome!
 Dialogue: 0,0:07:52.17,0:07:53.01,Default,,0,0,0,,Kurata-san!
 Dialogue: 0,0:07:55.16,0:07:56.00,Default,,0,0,0,,Shindou?
