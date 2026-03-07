@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 8
-Video Position: 3187
+Video Zoom Percent: 0.625000
+Scroll Position: 237
+Active Line: 260
+Video Position: 29457
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -89,250 +90,267 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.64,0:01:43.64,Thinking,,0,0,0,,I'm saved?
-Dialogue: 0,0:01:45.40,0:01:50.12,Thinking,,0,0,0,,I'm not playing Touya Kouyou or old man Kuwabara right now...
-Dialogue: 0,0:01:51.80,0:01:54.04,Thinking,,0,0,0,,He's just a new pro player.
-Dialogue: 0,0:01:56.80,0:02:00.63,Thinking,,0,0,0,,And... isn't this Shindou's first time playing One-Color Go?
-Dialogue: 0,0:02:02.22,0:02:04.16,Thinking,,0,0,0,,Touya Akira isn't the only one...
-Dialogue: 0,0:02:05.89,0:02:08.09,Thinking,,0,0,0,,who will be threatening me from below.
-Dialogue: 0,0:02:10.12,0:02:11.35,Thinking,,0,0,0,,There is someone else!
+Dialogue: 0,0:01:42.50,0:01:43.58,Thinking,,0,0,0,,I'm saved?
+Dialogue: 0,0:01:45.29,0:01:50.17,Thinking,,0,0,0,,I'm not playing Touya Kouyou or\Nold man Kuwabara right now...
+Dialogue: 0,0:01:51.67,0:01:53.84,Thinking,,0,0,0,,He's just a new pro player.
+Dialogue: 0,0:01:56.60,0:02:00.39,Thinking,,0,0,0,,And... isn't this Shindou's first\Ntime playing One-Color Go?
+Dialogue: 0,0:02:02.02,0:02:04.16,Thinking,,0,0,0,,Touya Akira isn't the only one...
+Dialogue: 0,0:02:05.73,0:02:07.90,Thinking,,0,0,0,,who will be threatening me from below.
+Dialogue: 0,0:02:09.94,0:02:11.40,Thinking,,0,0,0,,There is someone else!
 Dialogue: 0,0:02:11.94,0:02:16.82,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(315,115)}The Fifty-Ninth Match
 Dialogue: 0,0:02:11.94,0:02:16.82,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Touya Kouyou Retires!
-Dialogue: 0,0:02:17.71,0:02:19.33,Default,,0,0,0,,Touya Meijin retired!?
-Dialogue: 0,0:02:19.71,0:02:21.91,Default,,0,0,0,,What!? Unbelievable!
-Dialogue: 0,0:02:22.25,0:02:25.49,Default,,0,0,0,,Why is he doing this all of a sudden?
-Dialogue: 0,0:02:26.33,0:02:30.86,Default,,0,0,0,,He simply made the phone call apologizing to me since I was the head of his supporters.
-Dialogue: 0,0:02:32.71,0:02:35.61,Default,,0,0,0,,We did arrange for a press conference,
-Dialogue: 0,0:02:36.71,0:02:40.19,Default,,0,0,0,,but all he said was that it was what he wanted to do.
-Dialogue: 0,0:02:41.02,0:02:41.91,Default,,0,0,0,,Ichikawa-san!
-Dialogue: 0,0:02:42.39,0:02:44.11,Default,,0,0,0,,I'm just as surprised!
-Dialogue: 0,0:02:44.62,0:02:48.29,Default,,0,0,0,,A-Anyway, we have to... umm... hold an emergency meeting.
-Dialogue: 0,0:02:48.75,0:02:51.95,Default,,0,0,0,,Umm... we have a phone call from the sponsor of a title match.
-Dialogue: 0,0:02:52.89,0:02:55.69,Default,,0,0,0,,Could it be because of his health?
-Dialogue: 0,0:02:57.44,0:02:59.24,Default,,0,0,0,,I'll try going to Kouyou's house.
-Dialogue: 0,0:03:01.13,0:03:02.85,Default,,0,0,0,,It's not fair! It's too early!
-Dialogue: 0,0:03:03.22,0:03:06.32,Default,,0,0,0,,I still haven't taken a title from Touya Meijin yet!
-Dialogue: 0,0:03:09.94,0:03:13.33,Default,,0,0,0,,Being defeated in the Jyudan match has nothing to do with his retirement.
-Dialogue: 0,0:03:13.49,0:03:17.01,Default,,0,0,0,,If you had to retire just because you lost a title,
-Dialogue: 0,0:03:17.16,0:03:19.70,Default,,0,0,0,,then I'd have to retire as well.
-Dialogue: 0,0:03:20.64,0:03:26.84,Default,,0,0,0,,I felt as if I was playing against a whole new Touya Kouyou in the last game of the Jyudan match.
-Dialogue: 0,0:03:27.73,0:03:29.20,Default,,0,0,0,,So why retire?
-Dialogue: 0,0:03:29.80,0:03:30.51,Default,,0,0,0,,Why!?
-Dialogue: 0,0:03:32.07,0:03:35.65,Default,,0,0,0,,What's going to happen to the title matches that no longer have a current title holder?
-Dialogue: 0,0:03:36.03,0:03:38.53,Default,,0,0,0,,Make the challenger the temporary title holder?
-Dialogue: 0,0:03:38.99,0:03:44.28,Default,,0,0,0,,Wouldn't we make the final match to decide the challenger a five or seven game match?
-Dialogue: 0,0:03:44.82,0:03:48.59,Default,,0,0,0,,I heard a rumor that Touya-san lost to an amateur on the Internet.
-Dialogue: 0,0:03:48.71,0:03:51.83,Default,,0,0,0,,But boy was I surprised when I took a look at the Kifu.
-Dialogue: 0,0:03:52.15,0:03:53.52,Default,,0,0,0,,It was an incredible game!
-Dialogue: 0,0:03:53.71,0:03:57.10,Default,,0,0,0,,That had to have been a match between top-class pros.
-Dialogue: 0,0:03:57.28,0:04:02.83,Default,,0,0,0,,So the rumor that he's retiring out of disappointment from losing to Sai is just a rumor.
-Dialogue: 0,0:04:03.21,0:04:07.89,Default,,0,0,0,,But It is too bad that we still don't know which pro player Sai is.
-Dialogue: 0,0:04:08.15,0:04:12.07,Default,,0,0,0,,Oops, I'm going to be late for the bullet train if I keep talking here.
-Dialogue: 0,0:04:12.76,0:04:15.15,Default,,0,0,0,,You see, my wife's family is holding a memorial service,
-Dialogue: 0,0:04:15.15,0:04:16.38,Default,,0,0,0,,and...
-Dialogue: 0,0:04:17.09,0:04:21.46,Default,,0,0,0,,Really, you're such a selfish man, Touya Kouyou.
-Dialogue: 0,0:04:23.09,0:04:28.76,Note,,0,0,0,,Nagoya
-Dialogue: 0,0:04:36.66,0:04:37.97,Default,,0,0,0,,Good morning.
-Dialogue: 0,0:04:38.61,0:04:40.92,Default,,0,0,0,,I'm Touya Akira. Where is the match hall?
-Dialogue: 0,0:04:41.39,0:04:42.96,Default,,0,0,0,,I'll show you there right now.
-Dialogue: 0,0:04:43.72,0:04:44.71,Default,,0,0,0,,Oh, Touya-kun!
-Dialogue: 0,0:04:45.28,0:04:47.24,Default,,0,0,0,,About your father's retirement...
-Dialogue: 0,0:04:47.56,0:04:50.58,Default,,0,0,0,,We're all worried here that...
-Dialogue: 0,0:04:50.95,0:04:52.94,Default,,0,0,0,,It's because of his health.
-Dialogue: 0,0:04:53.12,0:04:54.06,Default,,0,0,0,,Is it?
-Dialogue: 0,0:04:54.23,0:04:57.06,Default,,0,0,0,,No. His health is perfectly fine.
-Dialogue: 0,0:04:57.12,0:04:58.43,Default,,0,0,0,,He's doing well.
-Dialogue: 0,0:04:58.98,0:04:59.79,Default,,0,0,0,,Oh...
-Dialogue: 0,0:05:00.35,0:05:04.94,Default,,0,0,0,,We don't get very reliable information here or in the western district.
-Dialogue: 0,0:05:05.53,0:05:08.63,Default,,0,0,0,,I heard that even you don't know his reasons for retiring...
-Dialogue: 0,0:05:08.91,0:05:09.56,Default,,0,0,0,,Is that true?
-Dialogue: 0,0:05:10.08,0:05:13.30,Default,,0,0,0,,Yes. My mother does not know either.
-Dialogue: 0,0:05:13.87,0:05:16.34,Default,,0,0,0,,But, Mother said to me...
-Dialogue: 0,0:05:17.77,0:05:22.11,Default,,0,0,0,,Akira-san, there's no need to worry about your father.
-Dialogue: 0,0:05:23.50,0:05:27.89,Default,,0,0,0,,I mean, he doesn't look at all as if he's torn about this decision.
-Dialogue: 0,0:05:30.76,0:05:33.79,Default,,0,0,0,,But wouldn't he miss being able to play Go?
-Dialogue: 0,0:05:34.17,0:05:38.97,Default,,0,0,0,,Not at all. Many players have already come to our house to play him.
-Dialogue: 0,0:05:40.08,0:05:40.71,Default,,0,0,0,,This way.
-Dialogue: 0,0:05:41.26,0:05:44.96,Default,,0,0,0,,But... this is tragic news for Go fans!
-Dialogue: 0,0:05:46.02,0:05:48.29,Default,,0,0,0,,Please let my father have his way.
-Dialogue: 0,0:05:48.51,0:05:50.78,Default,,0,0,0,,I'll make up for him.
-Dialogue: 0,0:05:54.54,0:05:56.42,Default,,0,0,0,,The match hall is right upstairs.
-Dialogue: 0,0:05:59.95,0:06:01.34,Default,,0,0,0,,'I'll make up for him.'?
-Dialogue: 0,0:06:01.88,0:06:03.43,Default,,0,0,0,,Make up for a pro with four titles?
-Dialogue: 0,0:06:04.07,0:06:07.63,Default,,0,0,0,,He said it so casually. He's going to grow up to become somebody.
-Dialogue: 0,0:06:21.15,0:06:22.02,Default,,0,0,0,,It's right here.
-Dialogue: 0,0:06:23.89,0:06:24.85,Default,,0,0,0,,Oh? Touya-kun!
-Dialogue: 0,0:06:26.05,0:06:28.31,Default,,0,0,0,,Master Ichiryuu... in Nagoya?
-Dialogue: 0,0:06:28.54,0:06:32.17,Default,,0,0,0,,Right back at you. There are hardly ever matches here in Nagoya.
-Dialogue: 0,0:06:33.65,0:06:37.56,Default,,0,0,0,,My wife’s family lives here in Nagoya, I'm here for a memorial.
-Dialogue: 0,0:06:37.94,0:06:40.64,Default,,0,0,0,,So I thought I'd come here to take a look.
-Dialogue: 0,0:06:41.04,0:06:43.41,Default,,0,0,0,,Did you stay at a hotel last night?
-Dialogue: 0,0:06:43.75,0:06:44.68,Default,,0,0,0,,That must have been rough.
-Dialogue: 0,0:06:44.77,0:06:45.51,Default,,0,0,0,,Not at all.
-Dialogue: 0,0:06:46.24,0:06:48.45,Default,,0,0,0,,How is the former Meijin, Touya, doing?
-Dialogue: 0,0:06:48.61,0:06:49.99,Default,,0,0,0,,He's playing Go.
-Dialogue: 0,0:06:50.31,0:06:53.68,Default,,0,0,0,,Even Mr. Morishita and Mr. Ookubo have come to visit.
-Dialogue: 0,0:06:53.86,0:06:56.39,Default,,0,0,0,,Even Mr. Ookubo!?
-Dialogue: 0,0:06:56.55,0:06:58.27,Default,,0,0,0,,I heard Kurata-kun went as well.
-Dialogue: 0,0:06:58.44,0:06:58.97,Default,,0,0,0,,Yes.
-Dialogue: 0,0:06:59.20,0:07:00.49,Default,,0,0,0,,Master Ichiryuu!
-Dialogue: 0,0:07:01.19,0:07:03.35,Default,,0,0,0,,Oh! Miyamachi-kun!
-Dialogue: 0,0:07:03.75,0:07:05.18,Default,,0,0,0,,How are you doing?
-Dialogue: 0,0:07:05.41,0:07:06.51,Default,,0,0,0,,Long time no see.
-Dialogue: 0,0:07:06.76,0:07:09.37,Default,,0,0,0,,What is a person of your stature doing here, Master?
-Dialogue: 0,0:07:09.47,0:07:13.46,Default,,0,0,0,,I came to cheer you on! Why else would I be here?
-Dialogue: 0,0:07:13.92,0:07:15.32,Default,,0,0,0,,Oh, really?
-Dialogue: 0,0:07:25.15,0:07:26.45,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:07:27.15,0:07:28.76,Default,,0,0,0,,Thank you for the game.
-Dialogue: 0,0:07:29.34,0:07:30.43,Default,,0,0,0,,But Master...
-Dialogue: 0,0:07:30.43,0:07:33.33,Default,,0,0,0,,You said that you can play Go even now that you're retired,
-Dialogue: 0,0:07:33.71,0:07:36.09,Default,,0,0,0,,but I don't quite agree.
-Dialogue: 0,0:07:37.62,0:07:42.27,Default,,0,0,0,,I mean, aren't there things that you can only see in the tension of a title match?
-Dialogue: 0,0:07:42.94,0:07:43.91,Default,,0,0,0,,Kurata-kun...
-Dialogue: 0,0:07:44.71,0:07:47.50,Default,,0,0,0,,That is certainly true for you and Akira.
-Dialogue: 0,0:07:48.09,0:07:50.71,Default,,0,0,0,,There are many things you need to learn through competition.
-Dialogue: 0,0:07:51.42,0:07:53.30,Default,,0,0,0,,But in my case,
-Dialogue: 0,0:07:53.67,0:07:56.48,Default,,0,0,0,,I'm happier about being freed from meaningless obligations
-Dialogue: 0,0:07:56.87,0:08:03.49,Default,,0,0,0,,and matches in places that I have to spend two days getting to and from.
-Dialogue: 0,0:08:06.51,0:08:11.89,Default,,0,0,0,,So now, you can sit here, and people will come to you for games instead!
-Dialogue: 0,0:08:12.30,0:08:13.65,Default,,0,0,0,,Like I did today.
-Dialogue: 0,0:08:18.68,0:08:19.50,Default,,0,0,0,,I'll come again.
-Dialogue: 0,0:08:20.26,0:08:22.02,Default,,0,0,0,,Please do.
-Dialogue: 0,0:08:30.02,0:08:30.87,Default,,0,0,0,,Kurata-san!
-Dialogue: 0,0:08:32.67,0:08:35.23,Default,,0,0,0,,I learned a lot from you today.
-Dialogue: 0,0:08:35.53,0:08:36.68,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:08:37.44,0:08:40.92,Default,,0,0,0,,I'll work hard to try to catch up to you and Ogata-san.
-Dialogue: 0,0:08:41.43,0:08:44.49,Default,,0,0,0,,I may have lost to you in the second preliminaries for the Meijin match,
-Dialogue: 0,0:08:44.72,0:08:47.39,Default,,0,0,0,,but I will grow stronger and get even with you some day.
-Dialogue: 0,0:08:50.38,0:08:52.70,Default,,0,0,0,,You're always looking up aren't you?
-Dialogue: 0,0:08:53.35,0:08:56.09,Default,,0,0,0,,You probably don't realize that there's someone threatening below you as well.
-Dialogue: 0,0:08:56.67,0:08:57.42,Default,,0,0,0,,Below me?
-Dialogue: 0,0:08:58.34,0:09:01.50,Default,,0,0,0,,Not really below you... but immediately behind you.
-Dialogue: 0,0:09:02.97,0:09:06.03,Default,,0,0,0,,You and he are the people who are going to be threatening me in the future.
-Dialogue: 0,0:09:06.55,0:09:09.26,Default,,0,0,0,,He just became a pro this year... Shindou Hikaru.
-Dialogue: 0,0:09:14.79,0:09:17.12,Default,,0,0,0,,You probably don't know him since you're always looking above.
-Dialogue: 0,0:09:17.69,0:09:21.88,Default,,0,0,0,,Well, I probably wouldn't have taken notice either if I hadn't met him at a convention.
-Dialogue: 0,0:09:22.35,0:09:25.05,Default,,0,0,0,,I played him once in a Go salon.
-Dialogue: 0,0:09:25.73,0:09:26.59,Thinking,,0,0,0,,Shindou...
-Dialogue: 0,0:09:28.42,0:09:30.41,Default,,0,0,0,,He's someone you have to watch out for.
-Dialogue: 0,0:09:35.25,0:09:36.15,Thinking,,0,0,0,,Shindou...
-Dialogue: 0,0:09:37.88,0:09:41.28,Thinking,,0,0,0,,Even Kurata-san has noticed, Shindou...
-Dialogue: 0,0:09:42.25,0:09:43.60,Thinking,,0,0,0,,If only I wasn't playing in Nagoya...
-Dialogue: 0,0:09:43.94,0:09:49.74,Thinking,,0,0,0,,I could have watched your match today in Tokyo.
-Dialogue: 0,0:09:51.02,0:09:51.71,Thinking,,0,0,0,,Shindou...
-Dialogue: 0,0:09:53.51,0:09:56.12,Note,,0,0,0,,Tokyo
-Dialogue: 0,0:09:57.61,0:10:00.10,Default,,0,0,0,,I don't understand how he can retire.
-Dialogue: 0,0:10:00.27,0:10:02.28,Default,,0,0,0,,Didn't he make a hundred million yen this year?
-Dialogue: 0,0:10:02.76,0:10:03.60,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:10:04.69,0:10:07.90,Default,,0,0,0,,Even if he won't have any financial problems...
-Dialogue: 0,0:10:09.36,0:10:11.23,Default,,0,0,0,,Who's your opponent today?
-Dialogue: 0,0:10:12.68,0:10:14.37,Default,,0,0,0,,A newbie named Shindou.
-Dialogue: 0,0:10:14.97,0:10:18.15,Default,,0,0,0,,He had a win by default on his first match, and today is his second.
-Dialogue: 0,0:10:18.29,0:10:19.37,Default,,0,0,0,,Win by default!?
-Dialogue: 0,0:10:19.93,0:10:23.01,Default,,0,0,0,,His opponent, Touya Akira didn't come.
-Dialogue: 0,0:10:23.12,0:10:26.11,Default,,0,0,0,,Master Touya collapsed that morning.
-Dialogue: 0,0:10:27.80,0:10:30.74,Default,,0,0,0,,So it's his first time playing today.
-Dialogue: 0,0:10:31.17,0:10:33.54,Default,,0,0,0,,He'll be frozen stiff from nervousness then.
-Dialogue: 0,0:10:42.16,0:10:43.29,Default,,0,0,0,,Good morning.
-Dialogue: 0,0:10:43.51,0:10:44.44,Default,,0,0,0,,Good morning.
-Dialogue: 0,0:10:51.08,0:10:54.26,Thinking,,0,0,0,,When I checked up on his scores from the Wakajishisen last year,
-Dialogue: 0,0:10:54.35,0:10:56.80,Thinking,,0,0,0,,I saw that he lost to Murakami in the first round.
-Dialogue: 0,0:10:57.59,0:11:00.76,Thinking,,0,0,0,,And his new first dan series game was horrible.
-Dialogue: 0,0:11:01.54,0:11:03.00,Default,,0,0,0,,G-Good morning.
-Dialogue: 0,0:11:03.40,0:11:06.46,Default,,0,0,0,,What's more, he should be frozen stiff since it's his first match.
-Dialogue: 0,0:11:07.10,0:11:10.10,Thinking,,0,0,0,,As a third dan, I can't afford to lose here.
-Dialogue: 0,0:11:20.08,0:11:23.51,Thinking,,0,0,0,,The 19x19 grid seems smaller than usual...
-Dialogue: 0,0:11:26.25,0:11:27.07,Thinking,,0,0,0,,It's strange...
-Dialogue: 0,0:11:28.19,0:11:29.31,Thinking,,0,0,0,,I feel like I can't lose.
-Dialogue: 0,0:11:33.34,0:11:37.38,Default,,0,0,0,,Hikaru is starting to walk down the path to the divine move.
-Dialogue: 0,0:11:41.43,0:11:42.54,Default,,0,0,0,,Not me...
-Dialogue: 0,0:11:43.21,0:11:44.13,Default,,0,0,0,,But Hikaru...
-Dialogue: 0,0:11:51.06,0:11:55.05,Default,,0,0,0,,Is there no way I can escape this fate God has for me?
-Dialogue: 0,0:12:42.65,0:12:43.73,Thinking,,0,0,0,,It's a difficult game...
-Dialogue: 0,0:12:46.29,0:12:49.22,Thinking,,0,0,0,,No, he's making it a difficult game.
-Dialogue: 0,0:12:52.80,0:12:55.26,Thinking,,0,0,0,,I have to change the flow... the flow...
-Dialogue: 0,0:13:01.36,0:13:02.34,Thinking,,0,0,0,,Change it!
-Dialogue: 0,0:13:09.62,0:13:11.88,Thinking,,0,0,0,,I spent too many moves on the upper side.
-Dialogue: 0,0:13:12.08,0:13:15.26,Thinking,,0,0,0,,Black's done well gaining territory while attacking me.
-Dialogue: 0,0:13:16.51,0:13:20.18,Thinking,,0,0,0,,Anyway, I have to make two eyes even if I have to make weak moves.
-Dialogue: 0,0:13:20.48,0:13:22.14,Thinking,,0,0,0,,I can only endure for now.
-Dialogue: 0,0:13:22.88,0:13:25.18,Thinking,,0,0,0,,You can't just make eyes.
-Dialogue: 0,0:13:25.53,0:13:27.85,Thinking,,0,0,0,,I'm going to gain a huge lead while you muck around.
-Dialogue: 0,0:13:41.11,0:13:42.15,Thinking,,0,0,0,,Not good enough!
-Dialogue: 0,0:14:04.54,0:14:06.12,Thinking,,0,0,0,,I did connect...
-Dialogue: 0,0:14:06.85,0:14:11.16,Thinking,,0,0,0,,but in the meantime, he's invaded my area of influence,
-Dialogue: 0,0:14:11.16,0:14:12.48,Thinking,,0,0,0,,I lost out...
-Dialogue: 0,0:14:16.70,0:14:20.13,Thinking,,0,0,0,,The only place left where I can make a comeback is on the left side.
-Dialogue: 0,0:14:20.82,0:14:23.00,Thinking,,0,0,0,,I have to take a chance and attack it!
-Dialogue: 0,0:14:44.61,0:14:45.87,Default,,0,0,0,,So this is Hikaru...
-Dialogue: 0,0:14:59.75,0:15:00.50,Default,,0,0,0,,This!
-Dialogue: 0,0:15:02.77,0:15:05.16,Thinking,,0,0,0,,All he needed to do was defend
-Dialogue: 0,0:15:05.25,0:15:08.78,Thinking,,0,0,0,,against my reckless attack, but...
-Dialogue: 0,0:15:09.23,0:15:11.83,Thinking,,0,0,0,,He's retaliating instead of defending!
-Dialogue: 0,0:15:12.75,0:15:14.51,Default,,0,0,0,,I had no idea he had grown so much...
-Dialogue: 0,0:15:36.78,0:15:37.73,Default,,0,0,0,,I resign.
-Dialogue: 0,0:15:57.76,0:15:58.72,Default,,0,0,0,,I resign.
-Dialogue: 0,0:15:59.25,0:16:00.68,Default,,0,0,0,,Thank you for the game.
-Dialogue: 0,0:16:10.19,0:16:13.03,Thinking,,0,0,0,,I wonder what happened in Shindou's game...
-Dialogue: 0,0:16:15.58,0:16:18.65,Default,,0,0,0,,Ishihara-san, how was Touya Akira?
-Dialogue: 0,0:16:20.52,0:16:21.67,Default,,0,0,0,,I'll never beat him.
-Dialogue: 0,0:16:23.22,0:16:25.11,Default,,0,0,0,,No matter how much you study Go...
-Dialogue: 0,0:16:25.23,0:16:27.34,Default,,0,0,0,,I'll never beat him.
-Dialogue: 0,0:16:32.11,0:16:36.55,Thinking,,0,0,0,,I've been thinking ever since the matter with Sai.
-Dialogue: 0,0:16:37.72,0:16:38.45,Thinking,,0,0,0,,Shindou...
-Dialogue: 0,0:16:40.24,0:16:43.32,Thinking,,0,0,0,,Why did you appear before me?
-Dialogue: 0,0:16:44.59,0:16:46.69,Thinking,,0,0,0,,Why do I chase after you?
-Dialogue: 0,0:16:47.93,0:16:50.10,Thinking,,0,0,0,,And why do you chase after me?
-Dialogue: 0,0:16:53.38,0:16:54.05,Thinking,,0,0,0,,Why?
-Dialogue: 0,0:16:57.56,0:16:59.25,Default,,0,0,0,,How was my match today?
-Dialogue: 0,0:17:00.75,0:17:02.46,Default,,0,0,0,,Wasn't I doing great?
-Dialogue: 0,0:17:03.65,0:17:06.29,Default,,0,0,0,,He just wouldn't give up.
-Dialogue: 0,0:17:07.16,0:17:09.34,Default,,0,0,0,,His persistence almost became annoying.
-Dialogue: 0,0:17:13.08,0:17:17.48,Default,,0,0,0,,I bet he thought he couldn't possibly lose.
-Dialogue: 0,0:17:21.85,0:17:22.61,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:17:22.92,0:17:24.15,Default,,0,0,0,,It's your turn.
-Dialogue: 0,0:17:25.94,0:17:27.58,Default,,0,0,0,,What is this move you just made!?
-Dialogue: 0,0:17:28.27,0:17:32.19,Default,,0,0,0,,How can you be so arrogant when you make stupid moves like this!?
-Dialogue: 0,0:17:33.53,0:17:35.94,Default,,0,0,0,,Well, you're right, this is a bad move.
-Dialogue: 0,0:17:36.55,0:17:37.78,Default,,0,0,0,,I-I know that.
-Dialogue: 0,0:17:38.41,0:17:41.10,Default,,0,0,0,,Hikaru can't even beat me.
-Dialogue: 0,0:17:42.68,0:17:43.70,Default,,0,0,0,,What did you say?
-Dialogue: 0,0:17:45.79,0:17:48.35,Default,,0,0,0,,Hikaru, you can't even beat me!
+Dialogue: 0,0:02:17.58,0:02:19.20,Default,,0,0,0,,Touya Meijin retired!?
+Dialogue: 0,0:02:19.58,0:02:21.70,Default,,0,0,0,,What!? Unbelievable!
+Dialogue: 0,0:02:22.12,0:02:25.38,Default,,0,0,0,,Why is he doing this all of a sudden?
+Dialogue: 0,0:02:26.21,0:02:30.76,Default,,0,0,0,,He simply made a phone call apologizing to\Nme since I was the head of his supporters.
+Dialogue: 0,0:02:32.59,0:02:35.47,Default,,0,0,0,,We did arrange for a press conference,
+Dialogue: 0,0:02:36.55,0:02:40.01,Default,,0,0,0,,but all he said was that it was\Nwhat he wanted to do.
+Dialogue: 0,0:02:40.85,0:02:41.77,Default,,0,0,0,,Ichikawa-san!
+Dialogue: 0,0:02:42.27,0:02:43.89,Default,,0,0,0,,I'm just as surprised!
+Dialogue: 0,0:02:44.48,0:02:48.15,Default,,0,0,0,,A-Anyway, we have to... umm...\Nhold an emergency meeting.
+Dialogue: 0,0:02:48.69,0:02:52.03,Default,,0,0,0,,Umm... we have a phone call from\Nthe sponsor of a title match.
+Dialogue: 0,0:02:52.78,0:02:55.57,Default,,0,0,0,,Could it be because of his health?
+Dialogue: 0,0:02:57.32,0:02:59.12,Default,,0,0,0,,I'll try going to Kouyou's house.
+Dialogue: 0,0:03:00.99,0:03:02.75,Default,,0,0,0,,It's not fair! It's too early!
+Dialogue: 0,0:03:03.12,0:03:06.12,Default,,0,0,0,,I still haven't taken a title from Touya Meijin yet!
+Dialogue: 0,0:03:09.84,0:03:13.21,Default,,0,0,0,,Being defeated in the Jyudan match has\Nnothing to do with his retirement.
+Dialogue: 0,0:03:13.34,0:03:16.88,Default,,0,0,0,,If you had to retire just because you lost a title,
+Dialogue: 0,0:03:17.05,0:03:19.51,Default,,0,0,0,,then I'd have to retire as well.
+Dialogue: 0,0:03:20.56,0:03:26.73,Default,,0,0,0,,I felt as if I was playing against a whole new Touya\NKouyou in the last game of the Jyudan match.
+Dialogue: 0,0:03:27.60,0:03:29.06,Default,,0,0,0,,So why retire?
+Dialogue: 0,0:03:29.69,0:03:30.40,Default,,0,0,0,,Why!?
+Dialogue: 0,0:03:31.94,0:03:35.53,Default,,0,0,0,,What's going to happen to the title matches\Nthat no longer have a current title holder?
+Dialogue: 0,0:03:35.90,0:03:38.41,Default,,0,0,0,,Make the challenger the temporary title holder?
+Dialogue: 0,0:03:38.87,0:03:44.04,Default,,0,0,0,,Wouldn't we make the final match to decide\Nthe challenger a five or seven game match?
+Dialogue: 0,0:03:44.66,0:03:48.58,Default,,0,0,0,,I heard a rumor that Touya-san lost\Nto an amateur on the Internet.
+Dialogue: 0,0:03:48.58,0:03:51.71,Default,,0,0,0,,But boy was I surprised when\NI took a look at the Kifu.
+Dialogue: 0,0:03:52.04,0:03:53.38,Default,,0,0,0,,It was an incredible game!
+Dialogue: 0,0:03:53.59,0:03:57.13,Default,,0,0,0,,That had to have been a match\Nbetween top-class pros.
+Dialogue: 0,0:03:57.13,0:04:02.72,Default,,0,0,0,,So the rumor that he's retiring out of\Ndisappointment from losing to Sai is just a rumor.
+Dialogue: 0,0:04:03.10,0:04:07.77,Default,,0,0,0,,But it is too bad that we still don't\Nknow which pro player Sai is.
+Dialogue: 0,0:04:08.02,0:04:11.94,Default,,0,0,0,,Oops, I'm going to be late for the\Nbullet train if I keep talking here.
+Dialogue: 0,0:04:12.57,0:04:15.19,Default,,0,0,0,,You see, my wife's family is\Nholding a memorial service,
+Dialogue: 0,0:04:15.19,0:04:15.69,Default,,0,0,0,,and...
+Dialogue: 0,0:04:16.94,0:04:21.32,Default,,0,0,0,,Really, you're such a selfish man, Touya Kouyou.
+Dialogue: 0,0:04:22.24,0:04:28.58,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.5\shad0.5\fs19\fad(1460,0)\pos(318,365)}Nagoya
+Dialogue: 0,0:04:28.58,0:04:29.62,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy60\frz17\i1\pos(282,250)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:36.55,0:04:37.80,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:04:38.47,0:04:40.80,Default,,0,0,0,,I'm Touya Akira. Where is the match hall?
+Dialogue: 0,0:04:41.26,0:04:42.76,Default,,0,0,0,,I'll show you there right now.
+Dialogue: 0,0:04:43.01,0:04:44.60,Default,,0,0,0,,Oh, Touya-kun!
+Dialogue: 0,0:04:45.26,0:04:47.10,Default,,0,0,0,,About your father's retirement...
+Dialogue: 0,0:04:47.43,0:04:50.44,Default,,0,0,0,,We're all worried here that...
+Dialogue: 0,0:04:50.81,0:04:52.69,Default,,0,0,0,,it's because of his health.
+Dialogue: 0,0:04:53.02,0:04:53.81,Default,,0,0,0,,Is it?
+Dialogue: 0,0:04:54.11,0:04:56.73,Default,,0,0,0,,No. His health is perfectly fine.
+Dialogue: 0,0:04:57.07,0:04:58.36,Default,,0,0,0,,He's doing well.
+Dialogue: 0,0:04:58.86,0:04:59.65,Background,,0,0,0,,Oh...
+Dialogue: 0,0:05:00.20,0:05:04.87,Background,,0,0,0,,We don't get very reliable information\Nhere or in the western district.
+Dialogue: 0,0:05:05.37,0:05:08.50,Default,,0,0,0,,I heard that even you don't know\Nhis reasons for retiring...
+Dialogue: 0,0:05:08.79,0:05:09.46,Default,,0,0,0,,Is that true?
+Dialogue: 0,0:05:09.96,0:05:13.33,Default,,0,0,0,,Yes. My mother does not know either.
+Dialogue: 0,0:05:13.71,0:05:16.21,Default,,0,0,0,,But, Mother said to me...
+Dialogue: 0,0:05:17.71,0:05:22.18,Memory,,0,0,0,,Akira-san, there's no need to\Nworry about your father.
+Dialogue: 0,0:05:23.30,0:05:27.77,Memory,,0,0,0,,I mean, he doesn't look at all as\Nif he's torn about this decision.
+Dialogue: 0,0:05:30.56,0:05:33.60,Default,,0,0,0,,But wouldn't he miss being able to play Go?
+Dialogue: 0,0:05:34.06,0:05:38.69,Default,,0,0,0,,Not at all. Many players have already\Ncome to our house to play him.
+Dialogue: 0,0:05:39.90,0:05:40.49,Default,,0,0,0,,This way.
+Dialogue: 0,0:05:40.78,0:05:44.70,Default,,0,0,0,,But... this is tragic news for Go fans!
+Dialogue: 0,0:05:45.87,0:05:48.16,Default,,0,0,0,,Please let my father have his way.
+Dialogue: 0,0:05:48.41,0:05:50.50,Default,,0,0,0,,I'll make up for him.
+Dialogue: 0,0:05:54.42,0:05:56.34,Default,,0,0,0,,The match hall is right upstairs.
+Dialogue: 0,0:05:59.80,0:06:01.22,Default,,0,0,0,,'I'll make up for him.'?
+Dialogue: 0,0:06:01.72,0:06:03.34,Default,,0,0,0,,Make up for a pro with four titles?
+Dialogue: 0,0:06:03.93,0:06:07.51,Default,,0,0,0,,He said it so casually. He's going\Nto grow up to become somebody.
+Dialogue: 0,0:06:20.99,0:06:21.82,Default,,0,0,0,,It's right here.
+Dialogue: 0,0:06:22.99,0:06:24.66,Default,,0,0,0,,Oh? Touya-kun!
+Dialogue: 0,0:06:25.87,0:06:28.03,Default,,0,0,0,,Master Ichiryuu... in Nagoya?
+Dialogue: 0,0:06:28.45,0:06:32.04,Default,,0,0,0,,Right back at you. There are hardly\Never matches here in Nagoya.
+Dialogue: 0,0:06:33.54,0:06:37.42,Default,,0,0,0,,My wife’s family lives here in Nagoya,\NI'm here for a memorial.
+Dialogue: 0,0:06:37.84,0:06:40.50,Default,,0,0,0,,So I thought I'd come here to take a look.
+Dialogue: 0,0:06:40.92,0:06:43.30,Default,,0,0,0,,Did you stay at a hotel last night?
+Dialogue: 0,0:06:43.59,0:06:44.55,Default,,0,0,0,,That must have been rough.
+Dialogue: 0,0:06:44.68,0:06:45.26,Default,,0,0,0,,Not at all.
+Dialogue: 0,0:06:46.05,0:06:48.01,Default,,0,0,0,,How is the former Meijin, Touya, doing?
+Dialogue: 0,0:06:48.47,0:06:49.72,Default,,0,0,0,,He's playing Go.
+Dialogue: 0,0:06:50.22,0:06:53.52,Default,,0,0,0,,Even Mr. Morishita and Mr.\NOokubo have come to visit.
+Dialogue: 0,0:06:53.73,0:06:56.19,Default,,0,0,0,,Even Mr. Ookubo!?
+Dialogue: 0,0:06:56.48,0:06:58.11,Default,,0,0,0,,I heard Kurata-kun went as well.
+Dialogue: 0,0:06:58.40,0:06:58.86,Default,,0,0,0,,Yes.
+Dialogue: 0,0:06:59.11,0:07:00.36,Default,,0,0,0,,Master Ichiryuu!
+Dialogue: 0,0:07:01.07,0:07:03.11,Default,,0,0,0,,Oh! Miyamachi-kun!
+Dialogue: 0,0:07:03.61,0:07:05.07,Default,,0,0,0,,How are you doing?
+Dialogue: 0,0:07:05.28,0:07:06.32,Background,,0,0,0,,Long time no see.
+Dialogue: 0,0:07:06.61,0:07:09.24,Background,,0,0,0,,What is a person of your stature\Ndoing here, Master?
+Dialogue: 0,0:07:09.33,0:07:13.33,Background,,0,0,0,,I came to cheer you on! Why else would I be here?
+Dialogue: 0,0:07:13.70,0:07:14.96,Background,,0,0,0,,Oh really?
+Dialogue: 0,0:07:25.05,0:07:26.34,Background,,0,0,0,,Thanks for the game.
+Dialogue: 0,0:07:27.01,0:07:28.59,Background,,0,0,0,,Thank you for the game.
+Dialogue: 0,0:07:29.18,0:07:30.30,Default,,0,0,0,,But Master...
+Dialogue: 0,0:07:30.76,0:07:33.27,Default,,0,0,0,,You said that you can play Go\Neven now that you're retired,
+Dialogue: 0,0:07:33.68,0:07:35.98,Default,,0,0,0,,but I don't quite agree.
+Dialogue: 0,0:07:37.48,0:07:42.15,Default,,0,0,0,,I mean, aren't there things that you can\Nonly see in the tension of a title match?
+Dialogue: 0,0:07:42.86,0:07:43.82,Default,,0,0,0,,Kurata-kun...
+Dialogue: 0,0:07:44.57,0:07:47.36,Default,,0,0,0,,That is certainly true for you and Akira.
+Dialogue: 0,0:07:47.99,0:07:50.53,Default,,0,0,0,,There are many things you need\Nto learn through competition.
+Dialogue: 0,0:07:51.28,0:07:53.16,Background,,0,0,0,,But in my case,
+Dialogue: 0,0:07:53.54,0:07:56.71,Background,,0,0,0,,I'm happier about being freed\Nfrom meaningless obligations
+Dialogue: 0,0:07:56.71,0:08:03.38,Background,,0,0,0,,and matches in places that I have to\Nspend two days getting to and from.
+Dialogue: 0,0:08:06.38,0:08:11.76,Default,,0,0,0,,So now, you can sit here, and people\Nwill come to you for games instead!
+Dialogue: 0,0:08:12.18,0:08:13.51,Default,,0,0,0,,Like I did today.
+Dialogue: 0,0:08:18.56,0:08:19.52,Default,,0,0,0,,I'll come again.
+Dialogue: 0,0:08:20.15,0:08:21.90,Default,,0,0,0,,Please do.
+Dialogue: 0,0:08:29.91,0:08:30.66,Default,,0,0,0,,Kurata-san!
+Dialogue: 0,0:08:32.49,0:08:35.12,Default,,0,0,0,,I learned a lot from you today.
+Dialogue: 0,0:08:35.41,0:08:36.54,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:08:37.37,0:08:40.79,Default,,0,0,0,,I'll work hard to try to catch\Nup to you and Ogata-san.
+Dialogue: 0,0:08:41.29,0:08:44.38,Default,,0,0,0,,I may have lost to you in the second\Npreliminaries for the Meijin match,
+Dialogue: 0,0:08:44.67,0:08:47.34,Default,,0,0,0,,but I will grow stronger and\Nget even with you some day.
+Dialogue: 0,0:08:50.18,0:08:52.60,Default,,0,0,0,,You're always looking up aren't you?
+Dialogue: 0,0:08:53.18,0:08:55.97,Default,,0,0,0,,You probably don't realize that there's someone\Nthreatening below you as well.
+Dialogue: 0,0:08:56.52,0:08:57.31,Default,,0,0,0,,Below me?
+Dialogue: 0,0:08:58.18,0:09:01.31,Default,,0,0,0,,Not really below you... but immediately behind you.
+Dialogue: 0,0:09:02.90,0:09:06.48,Default,,0,0,0,,You and he are the people who are going\Nto be threatening me in the future.
+Dialogue: 0,0:09:06.48,0:09:09.15,Default,,0,0,0,,He just became a pro this year... Shindou Hikaru.
+Dialogue: 0,0:09:14.66,0:09:17.04,Default,,0,0,0,,You probably don't know him since\Nyou're always looking above.
+Dialogue: 0,0:09:17.54,0:09:21.75,Default,,0,0,0,,Well, I probably wouldn't have taken notice\Neither if I hadn't met him at a convention.
+Dialogue: 0,0:09:22.25,0:09:24.79,Default,,0,0,0,,I played him once in a Go salon.
+Dialogue: 0,0:09:25.59,0:09:26.96,Thinking,,0,0,0,,Shindou...
+Dialogue: 0,0:09:28.21,0:09:30.30,Default,,0,0,0,,He's someone you have to watch out for.
+Dialogue: 0,0:09:35.05,0:09:36.01,Thinking,,0,0,0,,Shindou...
+Dialogue: 0,0:09:37.68,0:09:41.14,Thinking,,0,0,0,,Even Kurata-san has noticed Shindou...
+Dialogue: 0,0:09:42.10,0:09:45.11,Thinking,,0,0,0,,If only I wasn't playing in Nagoya...
+Dialogue: 0,0:09:46.23,0:09:49.61,Thinking,,0,0,0,,I could have watched your match today in Tokyo.
+Dialogue: 0,0:09:50.86,0:09:51.86,Thinking,,0,0,0,,Shindou...
+Dialogue: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,{\fs14\1c&H566265&\bord0\shad0\fscy120\frz345\pos(377,171)}Japanese Go Institute
+Dialogue: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.5\shad0.5\fs19\pos(318,365)}Tokyo
+Dialogue: 0,0:09:57.45,0:10:00.00,Default,,0,0,0,,I don't understand how he can retire.
+Dialogue: 0,0:10:00.16,0:10:02.16,Default,,0,0,0,,Didn't he make a hundred million yen this year?
+Dialogue: 0,0:10:02.62,0:10:03.42,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:10:04.54,0:10:07.80,Default,,0,0,0,,Even if he won't have any financial problems...
+Dialogue: 0,0:10:09.26,0:10:11.17,Default,,0,0,0,,Who's your opponent today?
+Dialogue: 0,0:10:12.47,0:10:14.18,Background,,0,0,0,,A newbie named Shindou.
+Dialogue: 0,0:10:14.84,0:10:18.01,Background,,0,0,0,,He had a win by default on his first\Nmatch, and today is his second.
+Dialogue: 0,0:10:18.18,0:10:19.39,Default,,0,0,0,,Win by default!?
+Dialogue: 0,0:10:19.81,0:10:22.73,Default,,0,0,0,,His opponent, Touya Akira didn't come.
+Dialogue: 0,0:10:22.98,0:10:25.90,Default,,0,0,0,,Master Touya collapsed that morning.
+Dialogue: 0,0:10:27.65,0:10:30.40,Default,,0,0,0,,So it's his first time playing today.
+Dialogue: 0,0:10:30.99,0:10:33.40,Default,,0,0,0,,He'll be frozen stiff from nervousness then.
+Dialogue: 0,0:10:42.04,0:10:43.08,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:10:43.37,0:10:44.12,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:10:50.92,0:10:54.26,Thinking,,0,0,0,,When I checked up on his scores\Nfrom the Wakajishisen last year,
+Dialogue: 0,0:10:54.26,0:10:56.76,Thinking,,0,0,0,,I saw that he lost to Murakami in the first round.
+Dialogue: 0,0:10:57.43,0:11:00.60,Thinking,,0,0,0,,And his new first dan series game was horrible.
+Dialogue: 0,0:11:00.81,0:11:02.77,Default,,0,0,0,,G-Good morning.
+Dialogue: 0,0:11:03.27,0:11:06.35,Thinking,,0,0,0,,What's more, he should be frozen\Nstiff since it's his first match.
+Dialogue: 0,0:11:06.98,0:11:10.02,Thinking,,0,0,0,,As a third dan, I can't afford to lose here.
+Dialogue: 0,0:11:19.91,0:11:23.37,Thinking,,0,0,0,,The 19x19 grid seems smaller than usual...
+Dialogue: 0,0:11:26.12,0:11:27.00,Thinking,,0,0,0,,It's strange...
+Dialogue: 0,0:11:28.04,0:11:29.38,Thinking,,0,0,0,,I feel like I can't lose.
+Dialogue: 0,0:11:33.21,0:11:37.26,Sai,,0,0,0,,Hikaru is starting to walk down\Nthe path to the divine move.
+Dialogue: 0,0:11:41.31,0:11:42.47,Sai,,0,0,0,,Not me...
+Dialogue: 0,0:11:43.14,0:11:44.14,Sai,,0,0,0,,but Hikaru...
+Dialogue: 0,0:11:50.90,0:11:54.86,Sai,,0,0,0,,Is there no way I can escape\Nthis fate God has for me?
+Dialogue: 0,0:12:42.45,0:12:43.91,Thinking,,0,0,0,,It's a difficult game...
+Dialogue: 0,0:12:46.12,0:12:48.87,Thinking,,0,0,0,,No, he's making it a difficult game.
+Dialogue: 0,0:12:52.58,0:12:55.13,Thinking,,0,0,0,,I have to change the flow... the flow...
+Dialogue: 0,0:13:01.18,0:13:02.22,Thinking,,0,0,0,,Change it!
+Dialogue: 0,0:13:09.48,0:13:11.73,Thinking,,0,0,0,,I spent too many moves on the upper side.
+Dialogue: 0,0:13:11.98,0:13:15.15,Thinking,,0,0,0,,Black's done well gaining territory while attacking me.
+Dialogue: 0,0:13:16.40,0:13:20.07,Thinking,,0,0,0,,Anyway, I have to make two eyes even\Nif I have to make weak moves.
+Dialogue: 0,0:13:20.40,0:13:22.03,Thinking,,0,0,0,,I can only endure for now.
+Dialogue: 0,0:13:22.70,0:13:25.08,Thinking,,0,0,0,,You can't just make eyes.
+Dialogue: 0,0:13:25.41,0:13:27.79,Thinking,,0,0,0,,I'm going to gain a huge lead while you muck around.
+Dialogue: 0,0:13:40.88,0:13:42.01,Thinking,,0,0,0,,Not good enough!
+Dialogue: 0,0:14:04.36,0:14:05.99,Thinking,,0,0,0,,I did connect...
+Dialogue: 0,0:14:06.70,0:14:11.16,Thinking,,0,0,0,,but in the meantime, he's invaded my area of influence,
+Dialogue: 0,0:14:11.16,0:14:12.50,Thinking,,0,0,0,,I lost out...
+Dialogue: 0,0:14:16.46,0:14:19.96,Thinking,,0,0,0,,The only place left where I can make\Na comeback is on the left side.
+Dialogue: 0,0:14:20.63,0:14:22.97,Thinking,,0,0,0,,I have to take a chance and attack it!
+Dialogue: 0,0:14:44.45,0:14:45.82,Sai,,0,0,0,,So this is Hikaru...
+Dialogue: 0,0:14:59.63,0:15:00.38,Sai,,0,0,0,,This!
+Dialogue: 0,0:15:02.59,0:15:05.05,Thinking,,0,0,0,,All he needed to do was defend
+Dialogue: 0,0:15:05.22,0:15:08.30,Thinking,,0,0,0,,against my reckless attack, but...
+Dialogue: 0,0:15:09.05,0:15:11.81,Thinking,,0,0,0,,He's retaliating instead of defending!
+Dialogue: 0,0:15:12.60,0:15:14.39,Sai,,0,0,0,,I had no idea he had grown so much...
+Dialogue: 0,0:15:36.62,0:15:37.58,Background,,0,0,0,,I resign.
+Dialogue: 0,0:15:38.13,0:15:38.21,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\\alpha&H40&\fscy130\frz5\pos(600,100)}Japanese Go
+Dialogue: 0,0:15:38.21,0:15:42.34,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\fscy130\\alpha&H40&\frz5\move(600,102,600,485)}Japanese Go
+Dialogue: 0,0:15:57.64,0:15:58.48,Default,,0,0,0,,I resign.
+Dialogue: 0,0:15:59.15,0:16:00.56,Default,,0,0,0,,Thank you for the game.
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz25\pos(216,200)}Win by\NResignation
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(532,249)}Naemura
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(480,277)}Aida
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(425,293)}Ishihara
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(378,320)}Touya
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(321,337)}Matsushima
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(273,365)}Tamura
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(208,381)}Horiguchi
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(161,409)}Miyamoto
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(108,431)}Uehara
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(61.5,458)}Hon
+Dialogue: 0,0:16:10.03,0:16:12.91,Thinking,,0,0,0,,I wonder what happened in Shindou's game...
+Dialogue: 0,0:16:15.45,0:16:18.50,Default,,0,0,0,,Ishihara-san, how was Touya Akira?
+Dialogue: 0,0:16:20.38,0:16:21.63,Default,,0,0,0,,I'll never beat him.
+Dialogue: 0,0:16:23.09,0:16:24.92,Background,,0,0,0,,No matter how much I study Go...
+Dialogue: 0,0:16:25.21,0:16:27.59,Background,,0,0,0,,I'll never beat him.
+Dialogue: 0,0:16:31.97,0:16:36.43,Thinking,,0,0,0,,I've been thinking ever since the matter with Sai.
+Dialogue: 0,0:16:37.56,0:16:38.31,Thinking,,0,0,0,,Shindou...
+Dialogue: 0,0:16:40.06,0:16:43.19,Thinking,,0,0,0,,Why did you appear before me?
+Dialogue: 0,0:16:44.40,0:16:46.57,Thinking,,0,0,0,,Why do I chase after you?
+Dialogue: 0,0:16:47.74,0:16:49.99,Thinking,,0,0,0,,And why do you chase after me?
+Dialogue: 0,0:16:53.20,0:16:53.91,Thinking,,0,0,0,,Why?
+Dialogue: 0,0:16:57.41,0:16:59.37,Background,,0,0,0,,How was my match today?
+Dialogue: 0,0:17:00.58,0:17:02.33,Background,,0,0,0,,Wasn't I doing great?
+Dialogue: 0,0:17:03.50,0:17:06.17,Default,,0,0,0,,He just wouldn't give up.
+Dialogue: 0,0:17:07.01,0:17:09.22,Default,,0,0,0,,His persistence almost became annoying.
+Dialogue: 0,0:17:12.93,0:17:17.35,Default,,0,0,0,,I bet he thought he couldn't possibly lose.
+Dialogue: 0,0:17:21.73,0:17:22.52,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:17:22.94,0:17:24.02,Default,,0,0,0,,It's your turn.
+Dialogue: 0,0:17:25.90,0:17:27.48,Sai,,0,0,0,,What is this move you just made!?
+Dialogue: 0,0:17:28.19,0:17:32.07,Sai,,0,0,0,,How can you be so arrogant when\Nyou make stupid moves like this!?
+Dialogue: 0,0:17:33.32,0:17:35.74,Default,,0,0,0,,Well, you're right, this is a bad move.
+Dialogue: 0,0:17:35.99,0:17:37.37,Default,,0,0,0,,I-I know that.
+Dialogue: 0,0:17:38.25,0:17:40.87,Sai,,0,0,0,,Hikaru can't even beat me.
+Dialogue: 0,0:17:42.33,0:17:43.38,Default,,0,0,0,,What did you say?
+Dialogue: 0,0:17:45.59,0:17:48.01,Sai,,0,0,0,,Hikaru, you can't even beat me!
 Dialogue: 0,0:17:48.09,0:17:50.76,Ed5Romaji,,0,0,0,,{\an7\fs50\pos(280,300)\1aFF\2aFF\3aFF\4aFF\t(0,1979,\fs70)\t(0,750,\1a0\2a0\3a0\4a0)\t(1979,2670,\1aFF\2aFF\3aFF\4aFF\fs200}I want to play\Nmore Go!
-Dialogue: 0,0:17:51.29,0:17:54.73,Default,,0,0,0,,Yes! Hikaru can't even beat me yet!
+Dialogue: 0,0:17:51.13,0:17:54.76,Sai,,0,0,0,,Yes! Hikaru can't even beat me yet!
 Dialogue: 0,0:17:55.31,0:17:57.33,Ed5Romaji,,0,0,0,,{\an8\fs30\pos(320,370)\1aFF\2aFF\3aFF\4aFF\t(0,1474,\fs40)\t(0,200,\1a0\2a0\3a0\4a0)\t(1474,2020,\1aFF\2aFF\3aFF\4aFF\fs200}I want an\Neternity of time!
-Dialogue: 0,0:17:59.35,0:18:02.92,Default,,0,0,0,,Well, you can't even pick up Go stones without me!
-Dialogue: 0,0:18:08.90,0:18:10.19,Default,,0,0,0,,Umm...
-Dialogue: 0,0:18:10.19,0:18:15.18,Default,,0,0,0,,Hey... let's play...
-Dialogue: 0,0:18:16.81,0:18:17.60,Default,,0,0,0,,Sai?
-Dialogue: 0,0:18:21.22,0:18:21.92,Default,,0,0,0,,Man...
-Dialogue: 0,0:18:41.07,0:18:43.24,Default,,0,0,0,,Hikaru... let's play...
-Dialogue: 0,0:18:43.46,0:18:44.43,Default,,0,0,0,,No way.
-Dialogue: 0,0:18:44.98,0:18:46.96,Default,,0,0,0,,You're the one that quit.
-Dialogue: 0,0:18:47.60,0:18:49.17,Default,,0,0,0,,Hikaru, you jerk!
-Dialogue: 0,0:18:49.58,0:18:53.12,Default,,0,0,0,,Why is he in such a bad mood?
-Dialogue: 0,0:19:03.09,0:19:05.76,Default,,0,0,0,,Someone robbed Grandpa's storage shed!?
-Dialogue: 0,0:19:06.71,0:19:08.65,Default,,0,0,0,,He called just now.
-Dialogue: 0,0:19:09.26,0:19:13.89,Default,,0,0,0,,They only took some of the things in the shed, and both grandpa and grandma are fine.
-Dialogue: 0,0:19:18.17,0:19:21.32,Default,,0,0,0,,Hikaru! The Go board... is the Go board alright!?
-Dialogue: 0,0:19:22.58,0:19:26.16,Thinking,,0,0,0,,The Go board that you lived in for a hundred years?
-Dialogue: 0,0:19:26.32,0:19:27.06,Default,,0,0,0,,Yes!
-Dialogue: 0,0:19:28.25,0:19:31.51,Thinking,,0,0,0,,I thought it was disgusting because there were blood stains on it...
-Dialogue: 0,0:19:31.72,0:19:35.33,Thinking,,0,0,0,,But it's a Go board filled with memories of Torajirou for you.
-Dialogue: 0,0:19:36.32,0:19:38.24,Default,,0,0,0,,Let's go check! Hurry!
-Dialogue: 0,0:19:38.74,0:19:42.19,Thinking,,0,0,0,,And to think Sai was picking a fight with me just last night.
-Dialogue: 0,0:19:42.71,0:19:44.56,Thinking,,0,0,0,,Oh well.
-Dialogue: 0,0:19:45.43,0:19:48.27,Default,,0,0,0,,Great! They didn't take the Go board.
-Dialogue: 0,0:19:48.41,0:19:55.37,Default,,0,0,0,,It's not great at all! The pots, plates, and wall scrolls... they took them all last night!
-Dialogue: 0,0:19:55.74,0:19:59.46,Default,,0,0,0,,But, I'm glad that you came here because you were worried.
-Dialogue: 0,0:20:00.10,0:20:04.17,Default,,0,0,0,,Dad told me not to because it's all junk anyway.
-Dialogue: 0,0:20:04.32,0:20:05.33,Default,,0,0,0,,W-What!?
-Dialogue: 0,0:20:06.60,0:20:07.64,Default,,0,0,0,,Really.
-Dialogue: 0,0:20:07.70,0:20:13.06,Default,,0,0,0,,Grandma is Grandma, she said it's a perfect opportunity to finally clean out the shed.
-Dialogue: 0,0:20:14.24,0:20:15.29,Default,,0,0,0,,There it is.
-Dialogue: 0,0:20:16.97,0:20:17.67,Thinking,,0,0,0,,Huh?
-Dialogue: 0,0:20:22.58,0:20:24.27,Thinking,,0,0,0,,Is it just me?
-Dialogue: 0,0:20:24.51,0:20:28.40,Thinking,,0,0,0,,The stains look more faded than they were last time.
+Dialogue: 0,0:17:59.31,0:18:02.73,Default,,0,0,0,,Well, you can't even pick up Go stones without me!
+Dialogue: 0,0:18:08.73,0:18:09.78,Default,,0,0,0,,Umm...
+Dialogue: 0,0:18:12.70,0:18:14.91,Default,,0,0,0,,Hey... let's play...
+Dialogue: 0,0:18:16.62,0:18:17.66,Default,,0,0,0,,Sai?
+Dialogue: 0,0:18:21.04,0:18:21.87,Default,,0,0,0,,Man...
+Dialogue: 0,0:18:40.93,0:18:43.06,Sai,,0,0,0,,Hikaru... let's play...
+Dialogue: 0,0:18:43.35,0:18:44.19,Default,,0,0,0,,No way.
+Dialogue: 0,0:18:44.90,0:18:47.06,Default,,0,0,0,,You're the one that quit.
+Dialogue: 0,0:18:47.48,0:18:49.07,Sai,,0,0,0,,Hikaru, you jerk!
+Dialogue: 0,0:18:49.07,0:18:53.57,NoteArial,,0,0,0,,{\fs14\1c&H090705&\bord0\shad0\frz36\pos(278,60)}The Hint to
+Dialogue: 0,0:18:49.07,0:18:53.57,NoteArial,,0,0,0,,{\fs14\1c&H090705&\bord0\shad0\frz36\pos(290,69)}Tsumego
+Dialogue: 0,0:18:49.40,0:18:52.90,Default,,0,0,0,,Why is he in such a bad mood?
+Dialogue: 0,0:19:02.87,0:19:05.62,Background,,0,0,0,,Someone robbed Grandpa's storage shed!?
+Dialogue: 0,0:19:06.58,0:19:08.54,Default,,0,0,0,,He called just now.
+Dialogue: 0,0:19:09.13,0:19:13.76,Default,,0,0,0,,They only took some of the things in the shed,\Nand both Grandpa and Grandma are fine.
+Dialogue: 0,0:19:18.01,0:19:21.18,Sai,,0,0,0,,Hikaru! The Go board... is the Go board alright!?
+Dialogue: 0,0:19:22.47,0:19:26.10,Thinking,,0,0,0,,The Go board that you lived in for a hundred forty years?
+Dialogue: 0,0:19:26.31,0:19:27.06,Sai,,0,0,0,,Yes!
+Dialogue: 0,0:19:28.11,0:19:31.40,Thinking,,0,0,0,,I thought it was disgusting because\Nthere were blood stains on it...
+Dialogue: 0,0:19:31.69,0:19:35.20,Thinking,,0,0,0,,But it's a Go board filled with memories\Nof Torajirou for you.
+Dialogue: 0,0:19:36.24,0:19:37.86,Sai,,0,0,0,,Let's go check! Hurry!
+Dialogue: 0,0:19:38.57,0:19:41.99,Thinking,,0,0,0,,And to think Sai was picking a\Nfight with me just last night.
+Dialogue: 0,0:19:42.58,0:19:44.12,Thinking,,0,0,0,,Oh well.
+Dialogue: 0,0:19:45.33,0:19:48.13,Background,,0,0,0,,Great! They didn't take the Go board.
+Dialogue: 0,0:19:48.33,0:19:53.34,Background,,0,0,0,,It's not great at all! The pots, plates, and wall\Nscrolls... they took them all last night!
+Dialogue: 0,0:19:54.17,0:19:59.22,Default,,0,0,0,,But, I'm glad that you came here\Nbecause you were worried.
+Dialogue: 0,0:19:59.97,0:20:04.06,Background,,0,0,0,,Dad told me not to because it's all junk anyway.
+Dialogue: 0,0:20:04.18,0:20:05.10,Default,,0,0,0,,W-What!?
+Dialogue: 0,0:20:06.39,0:20:07.35,Background,,0,0,0,,Really.
+Dialogue: 0,0:20:07.69,0:20:12.86,Background,,0,0,0,,Grandma is Grandma, she said it's a perfect\Nopportunity to finally clean out the shed.
+Dialogue: 0,0:20:14.11,0:20:15.07,Default,,0,0,0,,There it is.
+Dialogue: 0,0:20:16.99,0:20:17.49,Thinking,,0,0,0,,Huh?
+Dialogue: 0,0:20:22.37,0:20:23.99,Thinking,,0,0,0,,Is it just me?
+Dialogue: 0,0:20:24.37,0:20:28.04,Thinking,,0,0,0,,The stains look more faded than they were last time.
 Dialogue: 0,0:22:12.66,0:22:14.44,Default,,0,0,0,,Let's do Joseki today.
 Dialogue: 0,0:22:14.61,0:22:16.25,Default,,0,0,0,,Mai-chan, do you know what Joseki is?
 Dialogue: 0,0:22:16.32,0:22:17.33,Default,,0,0,0,,No, I don't.
