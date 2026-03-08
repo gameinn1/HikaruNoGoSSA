@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 237
-Active Line: 260
-Video Position: 29457
+Scroll Position: 183
+Active Line: 198
+Video Position: 23173
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -278,17 +278,17 @@ Dialogue: 0,0:15:38.13,0:15:38.21,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blu
 Dialogue: 0,0:15:38.21,0:15:42.34,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\fscy130\\alpha&H40&\frz5\move(600,102,600,485)}Japanese Go
 Dialogue: 0,0:15:57.64,0:15:58.48,Default,,0,0,0,,I resign.
 Dialogue: 0,0:15:59.15,0:16:00.56,Default,,0,0,0,,Thank you for the game.
-Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz25\pos(216,200)}Win by\NResignation
-Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(532,249)}Naemura
-Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(480,277)}Aida
-Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(425,293)}Ishihara
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz25\pos(216,200)}Win by\NResignation
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(532,249)}Naemura
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(480,277)}Aida
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(425,293)}Ishihara
 Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(378,320)}Touya
-Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(321,337)}Matsushima
-Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(273,365)}Tamura
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(321,337)}Matsushima
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(273,365)}Tamura
 Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(208,381)}Horiguchi
-Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(161,409)}Miyamoto
-Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(108,431)}Uehara
-Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz300\pos(61.5,458)}Hon
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(161,409)}Miyamoto
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(108,431)}Uehara
+Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz300\pos(61.5,458)}Hon
 Dialogue: 0,0:16:10.03,0:16:12.91,Thinking,,0,0,0,,I wonder what happened in Shindou's game...
 Dialogue: 0,0:16:15.45,0:16:18.50,Default,,0,0,0,,Ishihara-san, how was Touya Akira?
 Dialogue: 0,0:16:20.38,0:16:21.63,Default,,0,0,0,,I'll never beat him.
