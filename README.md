@@ -3,27 +3,27 @@
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro%20Credits.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/61%20Igo%20v2.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Igo%201.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/62%20Title.png" width="260"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/64%20Ending.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%201.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%202.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/63%20Note.png" width="260"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/31%20Intro.png" width="260"></td>
+    <td align="center"><img src="https://github.com/gameinn1/HikaruNoGoSSA/blob/master/Screenshots/31%20Intro.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Intro.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/11%20Note.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Go%20Go%20Igo%20Intro.png" width="260"></td>
   </tr>
- <tr>
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Funny%20E-F.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/ca89f65e3d156bf78b9bf3175d9f8134532d28ac/Screenshots/72%20Note.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/11%20Note%20v2.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Igo%20v3.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/62%20Note.png" width="260"></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Sign.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/master/Screenshots/75%203.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/62%20Title.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/64%20Igo%202.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/72%20Note%20v2.png" width="260"></td>
+  </tr>
+ <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/64%20Ending.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%201.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%202.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%20v3.png" width="260"></td>
   </tr>
 </table>
 
@@ -32,7 +32,7 @@ Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format
 This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-v16.zip (compiled via fonts collector) and made after 75/76 was complete. Once extracted, right click and install them.
 
 ## Intro/Progress
-I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were some problems. Most of the time they did not assign styles/missed notes so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see Everything yet to do pdf for examples).
+I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were some problems. Most of the time they did not assign styles/missed notes so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see Everything yet to do pdf page2/3 for examples).
 
 I wanted to get the actual subs done and I am happy to say that on January 2nd 2026, the main subs for 62 to 75 were complete! After that I decided to go back to the start to style/do signs and check timing for what gabest11 had done.
 
@@ -40,9 +40,9 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 
 1: Perfectly recreated the "Music is my Thing" karaoke ending that gabest11 did not get around to (starts episode 64). That was one of the last big hurdles for anyone wanting to actually properly restore the subs.
 
-2: Perfectly recreated the episode 75 ending karaoke! This was the last big hurdle for a successful sub. It's very nice go check it out!
+2: Perfectly recreated the episode 75 ending karaoke! This was the last big hurdle for a successful sub. It's very nice go check it out (also screenshots above)!
 
-3: Perfectly recreated the episode title card animations.
+3: Perfectly recreated the episode title cards.
 
 4: Intro and ending karaoke for the special as well as the intro text.
 
@@ -59,6 +59,8 @@ Update: January 28th 2026. Special is uploaded and I am working my way through g
 Update: February 7th 2026. Timed and styled up till ep 12, doing 13 now. Thanks to llbx who did some intro texts which have all been put on current episodes.
 
 Update: February 24th 2026. Made some good progress. I decided to dedicate all of February to this. I have now checked subs, ammended timing when needed and styled up till episode 46 for the main anime.
+
+Update: March 8th 2026. Have now subbed, checked and styled the main anime! Updateded pdf documents and screenshots.
 
 ### Status Legend
 - ✅ Complete
@@ -127,7 +129,7 @@ Update: February 24th 2026. Made some good progress. I decided to dedicate all o
 | 57 | ✅ | ✅ | ✔️ |
 | 58 | ✅ | ✅ | ✔️ |
 | 59 | ✅ | ✅ | ✔️ |
-| 60 | ✅ | ✔️ | ✔️ |
+| 60 | ✅ | ✅ | ✔️ |
 | 61 | ✅ | ✅ | ✅ |
 | 62 | ✅ | ✅ | ❗ |
 | 63 | ✅ | ✅ | ✅ |
