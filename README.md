@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/E-F%20Intro%20Credits.png" width="260"></td>
-    <td align="center"><img src="https://github.com/gameinn1/HikaruNoGoSSA/blob/master/Screenshots/31%20Intro.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/31%20Intro.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Intro.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Go%20Go%20Igo%20Intro.png" width="260"></td>
   </tr>
@@ -29,7 +29,7 @@
 
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
 
-This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-v16.zip (compiled via fonts collector) and made after 75/76 was complete. Once extracted, right click and install them.
+This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-v16.zip (compiled via fonts collector). Once extracted, right click and install them.
 
 ## Intro/Progress
 I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were some problems. Most of the time they did not assign styles/missed notes so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see Everything yet to do pdf page2/3 for examples).
@@ -48,19 +48,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 
 5: Intro texts such as "Elite-Fansubs presents" and "Real-Fansubbers presents".
 
-The subbing for the ending Igo sections is not what what E-F/R-F had so they also have to get resubbed. I want to make it clear that all ending Igo is now done but just non E-F/R-F versions for the majority. Anything I did with a full green (or blue tick) tick is E-F/R-F Igo.
-
-Update: January 4th 2026. I've decided to restore the AonE subs for the New Year Special (Episode 76). This will be uploaded to give more eyes on the project. It's over an hour and I have to start from scratch so probably a week or so. The current DVD/Blu-Ray subs are bad (mainly timing wise) and needs done.
-
-Update: January 9th 2026. The New Year/Hokuto Cup special (ep 76) has been fully subbed! I am looking at getting the special uploaded to get more eyes on the project.
-
-Update: January 28th 2026. Special is uploaded and I am working my way through gabest11 episodes. I have done up till episode 10.
-
-Update: February 7th 2026. Timed and styled up till ep 12, doing 13 now. Thanks to llbx who did some intro texts which have all been put on current episodes.
-
-Update: February 24th 2026. Made some good progress. I decided to dedicate all of February to this. I have now checked subs, ammended timing when needed and styled up till episode 46 for the main anime.
-
-Update: March 8th 2026. Have now subbed, checked and styled the main anime! Updateded pdf documents and screenshots.
+The project is currently ~92% complete. Please refer to "Everything yet to do.pdf" for what remains.
 
 ### Status Legend
 - ✅ Complete
