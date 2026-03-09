@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 65 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 460
-Active Line: 476
-Video Position: 34824
+Active Line: 28
+Video Position: 4619
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -100,34 +99,34 @@ Dialogue: 0,0:02:02.81,0:02:05.77,Default,,0,0,0,,It seems Isumi-kun went with t
 Dialogue: 0,0:02:06.31,0:02:07.39,Default,,0,0,0,,Isumi-san did!?
 Dialogue: 0,0:02:07.82,0:02:12.82,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,370,1,\fscx100)\blur0.8\pos(325,115)}The Sixty-Fifth Match
 Dialogue: 0,0:02:07.82,0:02:12.82,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx340\t(0,370,1,\fscx100)\pos(325,365)}Isumi no Go
-Dialogue: 0,0:02:14.36,0:02:17.28,Background,,0,0,0,,It only takes four hours to go from Tokyo to Bei'jing!
-Dialogue: 0,0:02:18.28,0:02:19.66,Background,,0,0,0,,Are we taking a taxi the rest of the way?
-Dialogue: 0,0:02:21.12,0:02:23.45,Background,,0,0,0,,How long does it take to get\Nto the Go Institute of China?
-Dialogue: 0,0:02:23.83,0:02:25.08,Background,,0,0,0,,Half an hour I think.
-Dialogue: 0,0:02:25.70,0:02:28.54,Background,,0,0,0,,What? Sakurano and Isumi, is this the\Nfirst time in China for both of you?
-Dialogue: 0,0:02:31.05,0:02:34.26,Default,,0,0,0,,But Isumi, when you quit the Kyuuseikai last year...
-Dialogue: 0,0:02:34.51,0:02:36.39,Default,,0,0,0,,I thought you were giving up on becoming a pro.
+Dialogue: 0,0:02:14.36,0:02:17.28,Background,,0,0,0,,It only takes four hours to\Ngo from Tokyo to Bei'jing!
+Dialogue: 0,0:02:18.28,0:02:19.87,Background,,0,0,0,,Are we taking a taxi the rest of the way?
+Dialogue: 0,0:02:21.12,0:02:23.54,Background,,0,0,0,,How long does it take to get\Nto the Go Institute of China?
+Dialogue: 0,0:02:23.87,0:02:25.17,Background,,0,0,0,,Half an hour I think.
+Dialogue: 0,0:02:25.79,0:02:28.88,Background,,0,0,0,,What? Sakurano and Isumi, is this the\Nfirst time in China for both of you?
+Dialogue: 0,0:02:31.01,0:02:34.26,Default,,0,0,0,,But Isumi, when you quit the Kyuuseikai last year...
+Dialogue: 0,0:02:34.47,0:02:36.39,Default,,0,0,0,,I thought you were giving up on becoming a pro.
 Dialogue: 0,0:02:36.92,0:02:38.67,Default,,0,0,0,,Why would he give it up!?
 Dialogue: 0,0:02:39.31,0:02:42.31,Default,,0,0,0,,Shin-chan would play evenly with your average pro.
 Dialogue: 0,0:02:42.55,0:02:44.68,Default,,0,0,0,,I never said he wasn't good enough.
-Dialogue: 0,0:02:45.35,0:02:47.85,Default,,0,0,0,,I thought you had gotten depressed\Nand given it up.
+Dialogue: 0,0:02:45.31,0:02:47.85,Default,,0,0,0,,I thought you had gotten depressed\Nand given it up.
 Dialogue: 0,0:02:49.94,0:02:53.03,Default,,0,0,0,,I wanted to be alone for a bit\Nto organize my emotions.
 Dialogue: 0,0:02:53.95,0:02:55.49,Default,,0,0,0,,I'm sorry for making you worry.
 Dialogue: 0,0:02:56.36,0:03:00.45,Default,,0,0,0,,The fact that Master Narusara invited\Nyou to this Shizen match,
-Dialogue: 0,0:03:00.91,0:03:02.95,Default,,0,0,0,,shows that he thinks highly of your abilities.
+Dialogue: 0,0:03:00.95,0:03:03.12,Default,,0,0,0,,shows that he thinks highly of your abilities.
 Dialogue: 0,0:03:03.12,0:03:03.70,Default,,0,0,0,,Yes.
-Dialogue: 0,0:03:04.20,0:03:07.75,Default,,0,0,0,,I have to pass this year, in order to\Nthank the teacher for his kindness.
-Dialogue: 0,0:03:08.41,0:03:11.38,Background,,0,0,0,,You really do! You're already nineteen, you know.
+Dialogue: 0,0:03:04.33,0:03:07.83,Default,,0,0,0,,I have to pass this year, in order to\Nthank the teacher for his kindness.
+Dialogue: 0,0:03:08.46,0:03:11.38,Background,,0,0,0,,You really do! You're already nineteen, you know.
 Dialogue: 0,0:03:12.63,0:03:15.63,Default,,0,0,0,,I didn't become a pro until I was over twenty.
 Dialogue: 0,0:03:16.05,0:03:18.64,Default,,0,0,0,,Sakurano is Sakurano, Isumi is Isumi.
 Dialogue: 0,0:03:19.85,0:03:21.10,Default,,0,0,0,,What do you mean?
 Dialogue: 0,0:03:22.84,0:03:24.72,Background,,0,0,0,,How many games are we playing?
 Dialogue: 0,0:03:25.39,0:03:27.39,Background,,0,0,0,,Three games or so over three days and two nights.
-Dialogue: 0,0:03:26.39,0:03:29.06,Thinking,,0,0,0,,I've done everything I can so far.
+Dialogue: 0,0:03:26.44,0:03:29.11,Thinking,,0,0,0,,I've done everything I can so far.
 Dialogue: 0,0:03:30.14,0:03:32.52,Thinking,,0,0,0,,The pro exam preliminaries will start in two months.
 Dialogue: 0,0:03:33.73,0:03:37.57,Thinking,,0,0,0,,I'll pretend that the Shinzen match is the pro exam.
 Dialogue: 0,0:03:45.95,0:03:46.70,Default,,0,0,0,,I resign.
-Dialogue: 0,0:03:48.00,0:03:50.20,Background,,0,0,0,,This move you made was rather peculiar.
+Dialogue: 0,0:03:47.96,0:03:50.20,Background,,0,0,0,,This move you made was rather peculiar.
 Dialogue: 0,0:03:50.79,0:03:53.04,Default,,0,0,0,,You lost all the stones you played.
 Dialogue: 0,0:04:02.80,0:04:05.30,Thinking,,0,0,0,,I couldn't turn the game around after all...
 Dialogue: 0,0:04:06.22,0:04:06.89,Thinking,,0,0,0,,He's good...
@@ -137,8 +136,8 @@ Dialogue: 0,0:04:16.23,0:04:17.40,Default,,0,0,0,,It wasn't bad?
 Dialogue: 0,0:04:19.28,0:04:21.86,Default,,0,0,0,,I am dissatisfied with that game I just played.
 Dialogue: 0,0:04:23.03,0:04:24.36,Default,,0,0,0,,I'm not depressed at all.
 Dialogue: 0,0:04:25.36,0:04:29.24,Default,,0,0,0,,I'm just angry at myself for playing too\Naggressively, because I thought I couldn't lose...
-Dialogue: 0,0:04:30.24,0:04:31.91,Default,,0,0,0,,For not being able to play my best...
-Dialogue: 0,0:04:34.80,0:04:36.63,Default,,0,0,0,,Do you think you could have won if you had?
+Dialogue: 0,0:04:30.37,0:04:32.08,Default,,0,0,0,,For not being able to play my best...
+Dialogue: 0,0:04:34.75,0:04:36.63,Default,,0,0,0,,Do you think you could have won if you had?
 Dialogue: 0,0:04:38.46,0:04:40.96,Background,,0,0,0,,Well, good luck on your afternoon match.
 Dialogue: 0,0:04:41.71,0:04:43.34,Background,,0,0,0,,Shin-chan, hurry up!
 Dialogue: 0,0:04:49.81,0:04:51.52,Default,,0,0,0,,I once pretended to
@@ -275,14 +274,14 @@ Dialogue: 0,0:11:47.35,0:11:51.40,Thinking,,0,0,0,,Don't feel out of place! I st
 Dialogue: 0,0:11:52.02,0:11:55.69,Default,,0,0,0,,They study here starting from\N8:15 in the morning...
 Dialogue: 0,0:11:56.44,0:11:57.32,Default,,0,0,0,,Le Ping!
 Dialogue: 0,0:11:58.61,0:12:00.03,Default,,0,0,0,,Were you playing hooky again!?
-Dialogue: 0,0:12:00.32,0:12:02.07,Default,,0,0,0,,Why do you always do that when I'm not around!
-Dialogue: 0,0:12:02.24,0:12:04.61,Default,,0,0,0,,I wasn't playing hooky. I just\Nwent to the bathroom.
-Dialogue: 0,0:12:04.91,0:12:06.12,Background,,0,0,0,,Don't lie to me!
+Dialogue: 0,0:12:00.45,0:12:02.41,Default,,0,0,0,,Why do you always do that when I'm not around!
+Dialogue: 0,0:12:02.49,0:12:04.75,Default,,0,0,0,,I wasn't playing hooky. I just\Nwent to the bathroom.
+Dialogue: 0,0:12:05.00,0:12:06.12,Background,,0,0,0,,Don't lie to me!
 Dialogue: 0,0:12:06.62,0:12:07.25,Default,,0,0,0,,Waya!
-Dialogue: 0,0:12:11.79,0:12:13.00,Default,,0,0,0,,S-Sorry.
+Dialogue: 0,0:12:11.71,0:12:13.00,Default,,0,0,0,,S-Sorry.
 Dialogue: 0,0:12:13.17,0:12:13.80,Default,,0,0,0,,Waya?
-Dialogue: 0,0:12:14.25,0:12:15.84,Default,,0,0,0,,It's the name of a friend of mine in Japan.
-Dialogue: 0,0:12:16.47,0:12:17.80,Default,,0,0,0,,He looks just like him...
+Dialogue: 0,0:12:14.17,0:12:15.84,Default,,0,0,0,,It's the name of a friend of mine in Japan.
+Dialogue: 0,0:12:16.42,0:12:17.80,Default,,0,0,0,,He looks just like him...
 Dialogue: 0,0:12:18.22,0:12:21.14,Default,,0,0,0,,Li Xian Sheng? What's "Waya"?\NIs he talking about me?
 Dialogue: 0,0:12:22.63,0:12:24.55,Background,,0,0,0,,Let me introduce him.
 Dialogue: 0,0:12:25.18,0:12:29.06,Default,,0,0,0,,This is Isumi-kun from Japan. He's\Ngoing to be studying here for a bit.
@@ -298,8 +297,8 @@ Dialogue: 0,0:12:50.08,0:12:51.00,Background,,0,0,0,,Wait!
 Dialogue: 0,0:12:51.13,0:12:51.79,Default,,0,0,0,,Le Ping!
 Dialogue: 0,0:12:54.21,0:12:55.46,Default,,0,0,0,,What a problem child...
 Dialogue: 0,0:12:56.34,0:13:00.22,Default,,0,0,0,,Le Ping isn't very motivated to study Go.
-Dialogue: 0,0:13:01.72,0:13:03.55,Default,,0,0,0,,Li Xian Sheng must be annoyed with him.
-Dialogue: 0,0:13:04.14,0:13:05.31,Default,,0,0,0,,He's always yelling at him.
+Dialogue: 0,0:13:01.72,0:13:03.60,Default,,0,0,0,,Li Xian Sheng must be annoyed with him.
+Dialogue: 0,0:13:04.14,0:13:05.35,Default,,0,0,0,,He's always yelling at him.
 Dialogue: 0,0:13:06.02,0:13:07.93,Default,,0,0,0,,He looked very young.
 Dialogue: 0,0:13:08.39,0:13:09.73,Default,,0,0,0,,He's a pro too, right?
 Dialogue: 0,0:13:09.89,0:13:10.60,Default,,0,0,0,,Of course!
@@ -313,31 +312,31 @@ Dialogue: 0,0:13:29.66,0:13:33.21,Background,,0,0,0,,You should go and get a hot
 Dialogue: 0,0:13:33.96,0:13:36.55,Default,,0,0,0,,You have two hours for lunch. That's plenty of time.
 Dialogue: 0,0:13:37.05,0:13:37.46,Default,,0,0,0,,Okay.
 Dialogue: 0,0:13:38.01,0:13:39.01,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:13:39.67,0:13:43.64,Default,,0,0,0,,It may not be a long time, but if you work\Nhard, you will learn something valuable.
+Dialogue: 0,0:13:39.63,0:13:43.64,Default,,0,0,0,,It may not be a long time, but if you work\Nhard, you will learn something valuable.
 Dialogue: 0,0:13:46.72,0:13:47.10,Default,,0,0,0,,Okay...
 Dialogue: 0,0:13:53.52,0:13:54.27,Thinking,,0,0,0,,Le Ping...
-Dialogue: 0,0:13:55.69,0:13:58.65,Thinking,,0,0,0,,Oh no, I can't be relaxing just because\NI met a small version of Waya.
+Dialogue: 0,0:13:55.65,0:13:58.65,Thinking,,0,0,0,,Oh no, I can't be relaxing just because\NI met a small version of Waya.
 Dialogue: 0,0:14:03.53,0:14:07.62,Default,,0,0,0,,You're going to play a game with one and\Na half hours each in the afternoon.
 Dialogue: 0,0:14:08.24,0:14:10.91,Default,,0,0,0,,We're playing in leagues right now\Nto test out everyone's strength.
-Dialogue: 0,0:14:11.66,0:14:13.21,Default,,0,0,0,,I'll write your name in, too.
-Dialogue: 0,0:14:15.63,0:14:18.84,Default,,0,0,0,,They are the members of the lower\Ndan group, first dan through 3-dan.
+Dialogue: 0,0:14:11.66,0:14:13.25,Background,,0,0,0,,I'll write your name in, too.
+Dialogue: 0,0:14:15.58,0:14:18.84,Default,,0,0,0,,They are the members of the lower\Ndan group, first dan through 3-dan.
 Dialogue: 0,0:14:19.21,0:14:21.30,Background,,0,0,0,,You should play anyone who's free.
-Dialogue: 0,0:14:22.26,0:14:22.93,Background,,0,0,0,,Li Xian Sheng,
+Dialogue: 0,0:14:22.22,0:14:22.93,Background,,0,0,0,,Li Xian Sheng,
 Dialogue: 0,0:14:23.47,0:14:25.30,Default,,0,0,0,,I'll play Isumi-kun.
 Dialogue: 0,0:14:25.84,0:14:26.85,Default,,0,0,0,,Le Ping?
 Dialogue: 0,0:14:27.51,0:14:28.68,Default,,0,0,0,,How about it, Isumi-kun?
 Dialogue: 0,0:14:29.68,0:14:30.35,Thinking,,0,0,0,,Le Ping...
 Dialogue: 0,0:14:32.43,0:14:35.44,Thinking,,0,0,0,,I can't be losing to a child like him
 Dialogue: 0,0:14:36.94,0:14:37.64,Default,,0,0,0,,Please.
-Dialogue: 0,0:15:08.22,0:15:09.01,Thinking,,0,0,0,,I underestimated him!
+Dialogue: 0,0:15:08.22,0:15:09.10,Thinking,,0,0,0,,I underestimated him!
 Dialogue: 0,0:15:09.97,0:15:12.64,Thinking,,0,0,0,,I belittled him too much in my mind.
 Dialogue: 0,0:15:17.27,0:15:20.19,Thinking,,0,0,0,,Le Ping is one of the chosen pros, too!
 Dialogue: 0,0:15:25.07,0:15:27.45,Background,,0,0,0,,Isumi-kun, you were too forceful.
 Dialogue: 0,0:15:27.74,0:15:28.99,Background,,0,0,0,,This move was a mistake.
 Dialogue: 0,0:15:29.70,0:15:33.45,Default,,0,0,0,,It looked like Black avoided White's attack well,
-Dialogue: 0,0:15:34.16,0:15:36.71,Default,,0,0,0,,But it lost out during the fight.
-Dialogue: 0,0:15:36.92,0:15:38.46,Default,,0,0,0,,Did you really think that this would work?
-Dialogue: 0,0:15:39.96,0:15:41.21,Default,,0,0,0,,You underestimated me
+Dialogue: 0,0:15:34.12,0:15:36.67,Default,,0,0,0,,But it lost out during the fight.
+Dialogue: 0,0:15:36.83,0:15:38.54,Default,,0,0,0,,Did you really think that this would work?
+Dialogue: 0,0:15:39.92,0:15:41.21,Default,,0,0,0,,You underestimated me
 Dialogue: 0,0:15:41.80,0:15:44.26,Default,,0,0,0,,I can't lose, not to the likes of you, Isumi-kun.
 Dialogue: 0,0:15:48.26,0:15:49.60,Default,,0,0,0,,Good luck studying!
 Dialogue: 0,0:15:50.10,0:15:51.10,Default,,0,0,0,,Le Ping!
@@ -345,46 +344,46 @@ Dialogue: 0,0:15:52.10,0:15:54.27,Thinking,,0,0,0,,He laughed...! At me!
 Dialogue: 0,0:15:55.64,0:15:56.31,Default,,0,0,0,,How was he?
 Dialogue: 0,0:15:56.69,0:15:57.73,Default,,0,0,0,,He sucks.
 Dialogue: 0,0:15:58.02,0:15:58.81,Default,,0,0,0,,Really?
-Dialogue: 0,0:16:09.57,0:16:13.29,Background,,0,0,0,,This is a situation where you should move\Nto the sides instead of towards the center.
-Dialogue: 0,0:16:13.99,0:16:17.46,Default,,0,0,0,,Yeah. Black has strength on the\Ntop side and the right side.
-Dialogue: 0,0:16:18.29,0:16:19.79,Thinking,,0,0,0,,Everything they say is brilliant and well thought out...
-Dialogue: 0,0:16:21.00,0:16:22.38,Thinking,,0,0,0,,I can't join the conversation.
+Dialogue: 0,0:16:09.53,0:16:13.29,Background,,0,0,0,,This is a situation where you should move\Nto the sides instead of towards the center.
+Dialogue: 0,0:16:13.91,0:16:17.46,Default,,0,0,0,,Yeah. Black has strength on the\Ntop side and the right side.
+Dialogue: 0,0:16:18.25,0:16:20.21,Thinking,,0,0,0,,Everything they say is brilliant and well thought out...
+Dialogue: 0,0:16:21.00,0:16:22.54,Thinking,,0,0,0,,I can't join the conversation.
 Dialogue: 0,0:16:24.00,0:16:27.84,Thinking,,0,0,0,,Everyone's been working here for months... no, years!
 Dialogue: 0,0:16:29.09,0:16:33.43,Thinking,,0,0,0,,In a place where everyone around them is the\Nelite of the pros... from dawn until dusk...
 Dialogue: 0,0:16:35.60,0:16:39.02,Thinking,,0,0,0,,I thought it would be a good opportunity\Nfor me to learn here...
 Dialogue: 0,0:16:39.98,0:16:44.02,Thinking,,0,0,0,,But... if this place just serves to make\Nme lose confidence in myself...
 Dialogue: 0,0:16:45.44,0:16:47.90,Thinking,,0,0,0,,No. It's still all right when I'm angry at myself.
 Dialogue: 0,0:16:48.57,0:16:51.11,Thinking,,0,0,0,,If my self-anger were to turn into self-pity...
-Dialogue: 0,0:16:53.08,0:16:54.99,Thinking,,0,0,0,,The best of the pros in their teens and twenties...
-Dialogue: 0,0:16:55.58,0:16:59.87,Thinking,,0,0,0,,The elite of the pros who are stronger\Nthan players who are older than them.
-Dialogue: 0,0:17:03.42,0:17:04.91,Thinking,,0,0,0,,What can I accomplish here?
+Dialogue: 0,0:16:53.03,0:16:55.08,Thinking,,0,0,0,,The best of the pros in their teens and twenties...
+Dialogue: 0,0:16:55.62,0:16:59.87,Thinking,,0,0,0,,The elite of the pros who are stronger\Nthan players who are older than them.
+Dialogue: 0,0:17:03.46,0:17:05.05,Thinking,,0,0,0,,What can I accomplish here?
 Dialogue: 0,0:17:06.46,0:17:07.09,Background,,0,0,0,,Isumi-kun.
 Dialogue: 0,0:17:07.46,0:17:08.42,Default,,0,0,0,,Y-Yes?
 Dialogue: 0,0:17:09.13,0:17:11.18,Default,,0,0,0,,Want to play a game of speed Go?\NWith ten seconds per move?
 Dialogue: 0,0:17:12.72,0:17:13.30,Default,,0,0,0,,Okay...
 Dialogue: 0,0:17:18.81,0:17:22.77,Thinking,,0,0,0,,I played ten second Go a lot in my free time at\Nboth Kyuuseikai and the Insei study sessions.
-Dialogue: 0,0:17:23.61,0:17:25.02,Thinking,,0,0,0,,It depends on the instinct and ideas,\Nrather than reading ahead.
-Dialogue: 0,0:17:25.94,0:17:26.65,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:17:23.61,0:17:25.57,Thinking,,0,0,0,,It depends on instinct and ideas,\Nrather than reading ahead.
+Dialogue: 0,0:17:25.98,0:17:26.78,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:17:38.33,0:17:39.66,Thinking,,0,0,0,,He's around my age...
 Dialogue: 0,0:17:43.04,0:17:44.21,Thinking,,0,0,0,,But he's as strong as...
 Dialogue: 0,0:17:46.84,0:17:48.13,Thinking,,0,0,0,,a 9-dan pro from Japan!
 Dialogue: 0,0:17:57.93,0:17:58.64,Default,,0,0,0,,I resign...
 Dialogue: 0,0:17:59.10,0:18:00.64,Default,,0,0,0,,Huh? You resign?
 Dialogue: 0,0:18:01.14,0:18:01.89,Default,,0,0,0,,It's too early.
-Dialogue: 0,0:18:03.81,0:18:05.61,Default,,0,0,0,,White can pull back if Black plays a hane,
-Dialogue: 0,0:18:05.86,0:18:06.57,Default,,0,0,0,,but that would kill his cluster.
+Dialogue: 0,0:18:03.77,0:18:05.61,Default,,0,0,0,,White can pull back if Black plays a hane,
+Dialogue: 0,0:18:05.77,0:18:06.98,Default,,0,0,0,,but that would kill his cluster.
 Dialogue: 0,0:18:06.98,0:18:09.53,Default,,0,0,0,,So White can only cut and play elsewhere.
-Dialogue: 0,0:18:11.07,0:18:14.57,Default,,0,0,0,,Black loses the initiative, but he has no\Nweaknesses, so he has the advantage.
-Dialogue: 0,0:18:14.91,0:18:16.99,Thinking,,0,0,0,,I thought he'd simply pull back,\Nbut he has to play elsewhere...
-Dialogue: 0,0:18:18.91,0:18:20.08,Thinking,,0,0,0,,I resigned too early...
-Dialogue: 0,0:18:23.25,0:18:24.08,Default,,0,0,0,,Let's clean up.
+Dialogue: 0,0:18:11.03,0:18:14.57,Default,,0,0,0,,Black loses the initiative, but he has no\Nweaknesses, so he has the advantage.
+Dialogue: 0,0:18:14.91,0:18:17.20,Thinking,,0,0,0,,I thought he'd simply pull back,\Nbut he has to play elsewhere...
+Dialogue: 0,0:18:18.87,0:18:20.29,Thinking,,0,0,0,,I resigned too early...
+Dialogue: 0,0:18:23.25,0:18:24.12,Default,,0,0,0,,Let's clean up.
 Dialogue: 0,0:18:24.92,0:18:25.79,Default,,0,0,0,,I'll do it.
-Dialogue: 0,0:18:26.75,0:18:27.54,Default,,0,0,0,,Okay, let's play again sometime.
-Dialogue: 0,0:18:38.72,0:18:40.97,Default,,0,0,0,,I hear you came from Japan?
+Dialogue: 0,0:18:26.71,0:18:27.88,Default,,0,0,0,,Okay, let's play again sometime.
+Dialogue: 0,0:18:38.68,0:18:40.97,Default,,0,0,0,,I hear you came from Japan?
 Dialogue: 0,0:18:41.93,0:18:45.44,Default,,0,0,0,,I was in my room all day today,\Nso I just heard about you.
-Dialogue: 0,0:18:46.23,0:18:47.48,Default,,0,0,0,,Nice to meet you. I'm Yang Hai.
+Dialogue: 0,0:18:46.19,0:18:47.52,Default,,0,0,0,,Nice to meet you. I'm Yang Hai.
 Dialogue: 0,0:18:48.23,0:18:48.86,Default,,0,0,0,,I'm Isumi.
-Dialogue: 0,0:18:49.44,0:18:49.98,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:18:49.44,0:18:50.11,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:18:51.86,0:18:53.15,Default,,0,0,0,,You seem tired.
 Dialogue: 0,0:18:53.74,0:18:54.91,Default,,0,0,0,,Where are you staying?
 Dialogue: 0,0:18:55.66,0:18:56.49,Default,,0,0,0,,A nearby hotel?
@@ -394,11 +393,11 @@ Dialogue: 0,0:19:01.83,0:19:03.66,Background,,0,0,0,,Wanna stay there? Room 303.
 Dialogue: 0,0:19:04.50,0:19:07.88,Default,,0,0,0,,I thought foreigners were not allowed to stay here.
 Dialogue: 0,0:19:08.21,0:19:10.34,Default,,0,0,0,,Who cares? Who would know?
 Dialogue: 0,0:19:11.00,0:19:13.26,Default,,0,0,0,,Li Xian Sheng always leaves by five.
-Dialogue: 0,0:19:13.76,0:19:14.97,Default,,0,0,0,,I'm not going to make you pay rent.
+Dialogue: 0,0:19:13.72,0:19:15.01,Default,,0,0,0,,I'm not going to make you pay rent.
 Dialogue: 0,0:19:15.34,0:19:17.14,Default,,0,0,0,,It's all right.
 Dialogue: 0,0:19:17.64,0:19:18.39,Default,,0,0,0,,Why not?
-Dialogue: 0,0:19:19.51,0:19:21.01,Default,,0,0,0,,I want to spend sometime alone at the hotel...
-Dialogue: 0,0:19:22.14,0:19:23.48,Default,,0,0,0,,Besides, I'm not staying long...
+Dialogue: 0,0:19:19.47,0:19:21.22,Default,,0,0,0,,I want to spend some time alone at the hotel...
+Dialogue: 0,0:19:22.14,0:19:23.68,Default,,0,0,0,,Besides, I'm not staying long...
 Dialogue: 0,0:19:24.23,0:19:26.65,Default,,0,0,0,,Oh? That's too bad.
 Dialogue: 0,0:19:26.98,0:19:30.86,Default,,0,0,0,,I was hoping you could tell me about\Nthe entertainment industry in Japan.
 Dialogue: 0,0:19:31.78,0:19:36.74,Default,,0,0,0,,But I guess someone who's here to study\NGo wouldn't know anything about that.
@@ -406,13 +405,13 @@ Dialogue: 0,0:19:37.61,0:19:38.32,Default,,0,0,0,,Wanna play?
 Dialogue: 0,0:19:39.20,0:19:41.28,Default,,0,0,0,,No... I'm done for today...
 Dialogue: 0,0:19:42.20,0:19:43.45,Default,,0,0,0,,Oh? Okay.
 Dialogue: 0,0:19:46.04,0:19:47.12,Default,,0,0,0,,I guess you're tired.
-Dialogue: 0,0:19:52.50,0:19:53.55,Thinking,,0,0,0,,In the pro exam last year,
+Dialogue: 0,0:19:52.50,0:19:53.76,Thinking,,0,0,0,,In the pro exam last year,
 Dialogue: 0,0:19:54.38,0:19:57.26,Thinking,,0,0,0,,I was able to recover after losing three games in a row...
-Dialogue: 0,0:19:58.09,0:20:01.30,Thinking,,0,0,0,,to Shindou, Waya, and Fuku only because\Nof my determination to beat Ochi.
+Dialogue: 0,0:19:58.05,0:20:01.30,Thinking,,0,0,0,,to Shindou, Waya, and Fuku only because\Nof my determination to beat Ochi.
 Dialogue: 0,0:20:04.02,0:20:06.39,Thinking,,0,0,0,,My Go supports me.
-Dialogue: 0,0:20:07.89,0:20:09.31,Thinking,,0,0,0,,I'll believe in my own capabilities.
-Dialogue: 0,0:20:10.56,0:20:11.77,Thinking,,0,0,0,,I was able to tell myself that...
-Dialogue: 0,0:20:13.40,0:20:13.98,Thinking,,0,0,0,,back then...
+Dialogue: 0,0:20:07.89,0:20:09.52,Thinking,,0,0,0,,I'll believe in my own capabilities.
+Dialogue: 0,0:20:10.56,0:20:11.94,Thinking,,0,0,0,,I was able to tell myself that...
+Dialogue: 0,0:20:13.44,0:20:14.32,Thinking,,0,0,0,,back then...
 Dialogue: 0,0:20:15.57,0:20:19.36,Thinking,,0,0,0,,But... will I be able to tell myself\Nthe same thing here in China?
 Dialogue: 0,0:20:21.32,0:20:24.83,Thinking,,0,0,0,,Will my Go support me here?
 Dialogue: 0,0:22:12.72,0:22:16.13,Background,,0,0,0,,A pair Go tournament between\Nthe top pros in Japan was held.
