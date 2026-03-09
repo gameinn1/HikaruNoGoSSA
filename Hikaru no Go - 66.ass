@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 92
-Active Line: 105
-Video Position: 13702
+Scroll Position: 183
+Active Line: 207
+Video Position: 32168
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,12 +115,12 @@ Dialogue: 0,0:03:39.82,0:03:44.58,Default,,0,0,0,,But if black plays in the corn
 Dialogue: 0,0:03:46.80,0:03:48.10,Default,,0,0,0,,You think?
 Dialogue: 0,0:03:48.59,0:03:52.24,Default,,0,0,0,,I think it's fine to make a one-space\Njump into the center.
 Dialogue: 0,0:03:52.92,0:03:55.19,Default,,0,0,0,,Hey, you two. Here's some tea.
-Dialogue: 0,0:03:56.80,0:03:59.93,Default,,0,0,0,,Mr. Ashiwara, do you have time to play\Na tutoring game with me today?
+Dialogue: 0,0:03:56.76,0:03:59.97,Default,,0,0,0,,Mr. Ashiwara, do you have time to play\Na tutoring game with me today?
 Dialogue: 0,0:04:00.64,0:04:01.72,Default,,0,0,0,,Sure.
-Dialogue: 0,0:04:05.68,0:04:10.31,Default,,0,0,0,,Akira-kun's going into Junior High next year.\NYou're going to become a pro now, right?
+Dialogue: 0,0:04:05.64,0:04:10.31,Default,,0,0,0,,Akira-kun's going into Junior High next year.\NYou're going to become a pro now, right?
 Dialogue: 0,0:04:10.40,0:04:10.77,Default,,0,0,0,,Huh?
 Dialogue: 0,0:04:11.23,0:04:15.94,Default,,0,0,0,,What do you mean, 'Huh'? Are you\Nnot going to take the exam?
-Dialogue: 0,0:04:16.48,0:04:18.17,Background,,0,0,0,,Your good enough to pass, aren't you?
+Dialogue: 0,0:04:16.48,0:04:18.20,Background,,0,0,0,,You're good enough to pass, aren't you?
 Dialogue: 0,0:04:20.06,0:04:21.67,Default,,0,0,0,,Right, Mr. Ashiwara?
 Dialogue: 0,0:04:23.05,0:04:26.15,Default,,0,0,0,,I mean, even you were able to become a pro.
 Dialogue: 0,0:04:26.82,0:04:29.28,Default,,0,0,0,,Ichikawa-san, that wasn't funny.
@@ -145,7 +145,7 @@ Dialogue: 0,0:05:30.06,0:05:34.40,Background,,0,0,0,,I see now. That's why he pl
 Dialogue: 0,0:05:32.06,0:05:32.80,Thinking,,0,0,0,,I wonder why...
 Dialogue: 0,0:05:33.98,0:05:36.23,Thinking,,0,0,0,,I'm just dissatisfied...
 Dialogue: 0,0:05:37.48,0:05:39.94,Thinking,,0,0,0,,With becoming a pro right now.
-Dialogue: 0,0:05:41.49,0:05:42.82,Thinking,,0,0,0,,Maybe I do need someone else...
+Dialogue: 0,0:05:41.45,0:05:42.86,Thinking,,0,0,0,,Maybe I do need someone else...
 Dialogue: 0,0:05:43.61,0:05:46.33,Thinking,,0,0,0,,just like Ashiwara-san says.
 Dialogue: 0,0:05:47.99,0:05:51.21,NoteArial,,0,0,0,,{\fs32\1c&H0E7E90&\fscy70\bord0\shad1\blur0\frx4\fry0\move(322,279,322,461)}HAGINO INCORPORATED
 Dialogue: 0,0:05:51.21,0:05:53.46,NoteArial,,0,0,0,,{\fs18\1c&H0E7E90&\fscx101\fscy140\bord0\shad1\blur0\move(315,34,315,52)}Company President's Office
@@ -171,23 +171,23 @@ Dialogue: 0,0:07:23.63,0:07:24.72,Default,,0,0,0,,Touya Akira.
 Dialogue: 0,0:07:26.09,0:07:28.93,Memory,,0,0,0,,Isn't he the strongest Go player amongst kids?
 Dialogue: 0,0:07:29.68,0:07:31.10,Memory,,0,0,0,,Yeah, Touya Akira.
 Dialogue: 0,0:07:31.85,0:07:35.23,Memory,,0,0,0,,He's Touya Meijin's son, and he doesn't\Nplay in Amateur tournaments.
-Dialogue: 0,0:07:36.02,0:07:37.98,Memory,,0,0,0,,Isn't he trying to become a\Npro in the Insei program?
+Dialogue: 0,0:07:35.89,0:07:37.98,Memory,,0,0,0,,Isn't he trying to become a\Npro in the Insei program?
 Dialogue: 0,0:07:38.31,0:07:40.15,Memory,,0,0,0,,Insei? Not at all.
-Dialogue: 0,0:07:40.82,0:07:42.23,Memory,,0,0,0,,Then why doesn't he come out to the tournaments?
-Dialogue: 0,0:07:42.94,0:07:46.49,Memory,,0,0,0,,He said that all the other kids would\Nstop trying if he were to play.
-Dialogue: 0,0:07:47.24,0:07:48.65,Memory,,0,0,0,,What did he seriously say that?
+Dialogue: 0,0:07:40.77,0:07:42.53,Memory,,0,0,0,,Then why doesn't he come out to the tournaments?
+Dialogue: 0,0:07:42.90,0:07:46.49,Memory,,0,0,0,,He said that all the other kids would\Nstop trying if he were to play.
+Dialogue: 0,0:07:46.74,0:07:48.65,Memory,,0,0,0,,What? Did he seriously say that?
 Dialogue: 0,0:07:55.05,0:07:56.35,Default,,0,0,0,,What an annoying guy.
-Dialogue: 0,0:07:56.79,0:07:59.33,Default,,0,0,0,,He doesn't show his face in the world, he\Njust looks down at us from the shadows.
+Dialogue: 0,0:07:56.79,0:07:59.46,Default,,0,0,0,,He doesn't show his face in the world, he\Njust looks down at us from the shadows.
 Dialogue: 0,0:07:59.96,0:08:01.92,Default,,0,0,0,,I wonder if he's actually any good.
 Dialogue: 0,0:08:04.88,0:08:07.13,Default,,0,0,0,,Touya Meijin's son...
 Dialogue: 0,0:08:07.50,0:08:12.51,Default,,0,0,0,,The Go salon in front of the train station,\Ndoesn't Touya Meijin own that?
 Dialogue: 0,0:08:13.51,0:08:14.43,Default,,0,0,0,,Touya Meijin?
 Dialogue: 0,0:08:15.06,0:08:18.94,Background,,0,0,0,,If he's the Meijin's son, he may\Nplay there occasionally.
-Dialogue: 0,0:08:19.19,0:08:19.69,Background,,0,0,0,,Here you are.
+Dialogue: 0,0:08:19.15,0:08:19.85,Background,,0,0,0,,Here you are.
 Dialogue: 0,0:08:21.27,0:08:22.40,Default,,0,0,0,,Thanks.
 Dialogue: 0,0:08:21.48,0:08:22.31,Default,,0,0,0,,Where is it?
 Dialogue: 0,0:08:24.48,0:08:27.11,Default,,0,0,0,,Where... is that Go salon?
-Dialogue: 0,0:08:33.78,0:08:36.70,Default,,0,0,0,,Sir, who is that child?
+Dialogue: 0,0:08:33.74,0:08:36.70,Default,,0,0,0,,Sir, who is that child?
 Dialogue: 0,0:08:37.50,0:08:40.71,Default,,0,0,0,,He's the son of an important customer of ours.
 Dialogue: 0,0:08:41.63,0:08:45.92,Default,,0,0,0,,They know how much I love Go, so they\Nsend him over once a week to play me.
 Dialogue: 0,0:08:46.48,0:08:48.56,Background,,0,0,0,,Basically they want to show off their son.
@@ -240,12 +240,12 @@ Dialogue: 0,0:12:37.03,0:12:37.95,Default,,0,0,0,,Y-Yeah...
 Dialogue: 0,0:12:39.30,0:12:40.45,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:12:40.76,0:12:41.88,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:12:52.45,0:12:54.23,Thinking,,0,0,0,,I can't possibly lose...
-Dialogue: 0,0:12:57.11,0:12:58.01,Thinking,,0,0,0,,against someone like him!
+Dialogue: 0,0:12:57.11,0:12:58.22,Thinking,,0,0,0,,against someone like him!
 Dialogue: 0,0:13:15.02,0:13:19.03,Thinking,,0,0,0,,His... His expression's changed...
 Dialogue: 0,0:13:58.78,0:14:02.61,Default,,0,0,0,,You should have played here instead\Nof making a Keima jump.
-Dialogue: 0,0:14:04.08,0:14:05.75,Default,,0,0,0,,A Tsuke is perfect in this situation.
+Dialogue: 0,0:14:04.08,0:14:05.78,Default,,0,0,0,,A Tsuke is perfect in this situation.
 Dialogue: 0,0:14:06.30,0:14:08.44,Default,,0,0,0,,Ohh! I see.
-Dialogue: 0,0:14:09.03,0:14:11.68,Default,,0,0,0,,I have a hard time playing Tsuke, it scares me.
+Dialogue: 0,0:14:09.12,0:14:11.68,Default,,0,0,0,,I have a hard time playing Tsuke, it scares me.
 Dialogue: 0,0:14:14.63,0:14:17.34,Default,,0,0,0,,Wow. Akira's playing a kid
 Dialogue: 0,0:14:17.92,0:14:23.18,Default,,0,0,0,,Master Ashiwara, you're still under\N20 right? You look like a kid to me.
 Dialogue: 0,0:15:39.53,0:15:42.09,Thinking,,0,0,0,,He's not... very good.
@@ -254,7 +254,7 @@ Dialogue: 0,0:16:00.52,0:16:05.32,Default,,0,0,0,,Your ideas are too focused on 
 Dialogue: 0,0:16:06.20,0:16:07.07,Default,,0,0,0,,Ashiwara-san.
 Dialogue: 0,0:16:07.57,0:16:12.71,Background,,0,0,0,,You had to move into the White territory\Nand base the match on survival.
 Dialogue: 0,0:16:13.66,0:16:16.40,Default,,0,0,0,,But even so, you're plenty good.
-Dialogue: 0,0:16:17.62,0:16:19.42,Default,,0,0,0,,It's just your opponent was too strong.
+Dialogue: 0,0:16:17.54,0:16:19.42,Default,,0,0,0,,It's just your opponent was too strong.
 Dialogue: 0,0:16:20.63,0:16:21.42,Default,,0,0,0,,I'm going
 Dialogue: 0,0:16:22.60,0:16:23.78,Default,,0,0,0,,You don't have to...
 Dialogue: 0,0:16:26.10,0:16:27.32,Default,,0,0,0,,Thanks for the game.
@@ -283,7 +283,7 @@ Dialogue: 0,0:18:50.36,0:18:52.65,Default,,0,0,0,,Not at all! He hasn't for awhi
 Dialogue: 0,0:18:52.94,0:18:57.42,Default,,0,0,0,,But Master Touya is always bragging about his son.
 Dialogue: 0,0:18:58.12,0:18:58.91,Default,,0,0,0,,Really?
 Dialogue: 0,0:18:59.83,0:19:00.54,Default,,0,0,0,,Really.
-Dialogue: 0,0:19:01.37,0:19:03.87,Background,,0,0,0,,He's very proud of you. You have to live up to that.
+Dialogue: 0,0:19:01.33,0:19:03.87,Background,,0,0,0,,He's very proud of you. You have to live up to that.
 Dialogue: 0,0:19:14.09,0:19:18.22,Thinking,,0,0,0,,Father expects a lot from me. Ashiwara-san\Nis waiting for me, too.
 Dialogue: 0,0:19:19.05,0:19:22.56,Thinking,,0,0,0,,Yeah, I should recognize my own strength.
 Dialogue: 0,0:19:23.64,0:19:30.19,Thinking,,0,0,0,,I'm not being overconfident. I will stand at the\Ntop of the Go world. Just like my father.
