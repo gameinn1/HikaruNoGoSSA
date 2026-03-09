@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 285
-Active Line: 296
-Video Position: 74
+Scroll Position: 37
+Active Line: 45
+Video Position: 7340
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -135,9 +135,10 @@ Dialogue: 0,0:04:51.81,0:04:52.52,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:05:01.09,0:05:01.89,Default,,0,0,0,,Sai!
 Dialogue: 0,0:05:02.72,0:05:03.95,Default,,0,0,0,,Are you here?
 Dialogue: 0,0:05:05.24,0:05:05.91,Background,,0,0,0,,Sai!
+Dialogue: 0,0:05:06.12,0:05:17.67,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(551,336)}Japanese Go Institute
 Dialogue: 0,0:05:10.67,0:05:12.83,Thinking,,0,0,0,,So he's not here...
 Dialogue: 0,0:05:13.58,0:05:15.67,Thinking,,0,0,0,,Where the hell did you go?
-Dialogue: 0,0:05:16.00,0:05:18.05,Default,,0,0,0,,Ahh! Why did you disappear all of a sudden?
+Dialogue: 0,0:05:15.96,0:05:18.05,Default,,0,0,0,,Ahh! Why did you disappear all of a sudden?
 Dialogue: 0,0:05:20.88,0:05:21.47,Default,,0,0,0,,What...
 Dialogue: 0,0:05:22.13,0:05:22.89,Default,,0,0,0,,Maybe...
 Dialogue: 0,0:05:25.05,0:05:26.43,Background,,0,0,0,,What is it Hikaru?
@@ -333,25 +334,28 @@ Dialogue: 0,0:18:08.05,0:18:10.36,Default,,0,0,0,,But... I don't have the money 
 Dialogue: 0,0:18:10.36,0:18:12.32,Default,,0,0,0,,Aw man... I'll lend it to you.
 Dialogue: 0,0:18:12.70,0:18:14.53,Background,,0,0,0,,Wait! I've got to call home!
 Dialogue: 0,0:18:14.74,0:18:16.87,Background,,0,0,0,,Hey! The phones over here.
+Dialogue: 0,0:18:30.42,0:18:33.38,ed64_romaji,,0,0,0,,{\fs23\1c&H625B5E&\bord0\blur1\shad0\frz358\pos(408,173)}Okonomiyaki
 Dialogue: 0,0:18:39.10,0:18:41.39,Default,,0,0,0,,What's wrong? Eat up already.
 Dialogue: 0,0:18:43.37,0:18:46.10,Default,,0,0,0,,We visited both places this morning.
 Dialogue: 0,0:18:46.76,0:18:48.69,Default,,0,0,0,,You can't not be hungry.
 Dialogue: 0,0:18:51.53,0:18:55.32,Default,,0,0,0,,Fine, take your time eating lunch.
 Dialogue: 0,0:18:56.25,0:18:57.32,Default,,0,0,0,,Where are you going?
 Dialogue: 0,0:18:57.32,0:18:59.66,Default,,0,0,0,,Didn't you see the Go salon?
+Dialogue: 0,0:18:59.66,0:19:00.99,NoteArial,,0,0,0,,{\fs55\fscy45\1a&HFF&\3c&HFFFFFF&\3a&H95&\4c&HFFFFFF&\bord2\blur1\shad1\pos(322,317)}GO IGO CLUB
 Dialogue: 0,0:19:00.36,0:19:02.83,Background,,0,0,0,,I'll go play the guys over there for a bit.
 Dialogue: 0,0:19:03.07,0:19:04.66,Default,,0,0,0,,I'll pay for the bill here.
 Dialogue: 0,0:19:05.34,0:19:07.38,Default,,0,0,0,,Come pick me up when you're done.
 Dialogue: 0,0:19:15.09,0:19:15.97,Default,,0,0,0,,Sai...
 Dialogue: 0,0:19:33.69,0:19:36.74,Thinking,,0,0,0,,He was nowhere to be found, after all...
 Dialogue: 0,0:19:37.61,0:19:39.99,Thinking,,0,0,0,,I haven't seen him today or yesterday...
-Dialogue: 0,0:19:43.25,0:19:45.04,Thinking,,0,0,0,,I guess I'll go back to Tokyo already,
+Dialogue: 0,0:19:43.20,0:19:45.04,Thinking,,0,0,0,,I guess I'll go back to Tokyo already,
 Dialogue: 0,0:19:45.59,0:19:47.29,Thinking,,0,0,0,,if he's not over here.
 Dialogue: 0,0:19:52.89,0:19:53.84,Thinking,,0,0,0,,Yeah!
 Dialogue: 0,0:19:54.38,0:19:57.59,Thinking,,0,0,0,,He just might be back in my room when I get back!
 Dialogue: 0,0:19:59.82,0:20:01.35,Thinking,,0,0,0,,If I see Sai at home,
 Dialogue: 0,0:20:01.98,0:20:05.60,Thinking,,0,0,0,,then, someday, we'll come back here again.
 Dialogue: 0,0:20:06.24,0:20:09.48,Thinking,,0,0,0,,I'm sure he'd be ecstatic if I took him around here.
+Dialogue: 0,0:20:11.73,0:20:13.69,NoteArial,,0,0,0,,{\fs55\fscy45\1a&HFF&\3c&HFFFFFF&\3a&H95&\4c&HFFFFFF&\bord2\blur1\shad1\pos(322,317)}GO IGO CLUB
 Dialogue: 0,0:20:14.65,0:20:18.45,Background,,0,0,0,,I feel bad for Kawai-san, but\NI'll drag him back to Tokyo.
 Dialogue: 0,0:20:19.99,0:20:21.03,Default,,0,0,0,,Kawai-san...
 Dialogue: 0,0:20:21.03,0:20:22.58,Background,,0,0,0,,What!?
