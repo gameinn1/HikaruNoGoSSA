@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 464
-Active Line: 479
-Video Position: 34846
+Scroll Position: 245
+Active Line: 257
+Video Position: 22212
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -298,8 +298,13 @@ Dialogue: 0,0:14:42.82,0:14:44.46,Default,,0,0,0,,and Shindou-kun's white.
 Dialogue: 0,0:14:44.93,0:14:45.49,Default,,0,0,0,,White.
 Dialogue: 0,0:14:49.67,0:14:51.37,Default,,0,0,0,,Now, please start.
 Dialogue: 0,0:14:52.12,0:14:53.80,Background,,0,0,0,,Good luck.
-Comment: 0,0:15:24.04,0:15:25.53,Note,,0,0,0,,This needs done to how E-F did it. Keeping Note version from gabest11 for now but might change later.
-Dialogue: 0,0:15:24.04,0:15:25.53,Note,,0,0,0,,Improving your Go series\NHow to place your Joseki correctly\N100 Joseki that you should know
+Dialogue: 0,0:15:24.04,0:15:25.53,Default,,0,0,0,,{\fnArial\fs18\fscx102\fscy220\1c&HFFFFFF&\bord0\shad0\frz275\pos(356,228}Improving your Go Series
+Dialogue: 0,0:15:24.04,0:15:25.53,Default,,0,0,0,,{\fnArial\fs23\fscx100\fscy100\1c&HFFFFFF&\bord0\shad0\frz276\pos(320,198)}Improving your
+Dialogue: 0,0:15:24.04,0:15:25.53,Default,,0,0,0,,{\fnArial\fs22\fscx100\fscy100\1c&HFFFFFF&\bord0\shad0\frz276\pos(294,200)}Go Series
+Dialogue: 0,0:15:24.04,0:15:25.53,Default,,0,0,0,,{\fnArial\fs25\fscx102\fscy100\1c&HFFFFFF&\bord0\shad0\frz277\pos(258,257)}How to place your Joseki
+Dialogue: 0,0:15:24.04,0:15:25.53,Default,,0,0,0,,{\fnArial\fs27\fscx100\fscy100\1c&HFFFFFF&\bord0\shad0\frz277\pos(228,266)}correctly.
+Dialogue: 0,0:15:24.04,0:15:25.53,Default,,0,0,0,,{\fnArial\fs24\fscx98\fscy100\1c&HFFFFFF&\bord0\shad0\frz280\pos(133,214)}100 Joseki that you
+Dialogue: 0,0:15:24.04,0:15:25.53,Default,,0,0,0,,{\fnArial\fs23\fscx100\fscy100\1c&HFFFFFF&\bord0\shad0\frz280\pos(106,217)}should know.
 Dialogue: 0,0:15:25.72,0:15:27.45,Default,,0,0,0,,Tsutsui! What are you doing?!
 Dialogue: 0,0:15:28.81,0:15:30.12,Default,,0,0,0,,Are you a moron?!
 Dialogue: 0,0:15:30.27,0:15:31.91,Default,,0,0,0,,You're playing while reading a book?!
