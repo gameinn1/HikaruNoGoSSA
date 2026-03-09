@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 67 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 113
-Active Line: 121
-Video Position: 13819
+Scroll Position: 6
+Active Line: 23
+Video Position: 4238
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -131,8 +131,8 @@ Dialogue: 0,0:04:09.88,0:04:11.16,Default,,0,0,0,,Use that bed.
 Dialogue: 0,0:04:12.11,0:04:15.69,Default,,0,0,0,,Yes. Thank you. I won't be troubling you.
 Dialogue: 0,0:04:17.82,0:04:19.57,Background,,0,0,0,,You have a Go board in your room?
 Dialogue: 0,0:04:19.91,0:04:20.45,Background,,0,0,0,,Yeah.
-Dialogue: 0,0:04:21.81,0:04:23.80,Default,,0,0,0,,I'm glad I came here instead of going to the hotel
-Dialogue: 0,0:04:25.45,0:04:28.17,Background,,0,0,0,,I'll be able to study at night if there's\Na Go board in the room.
+Dialogue: 0,0:04:21.81,0:04:23.87,Default,,0,0,0,,I'm glad I came here instead of going to the hotel.
+Dialogue: 0,0:04:25.45,0:04:28.21,Background,,0,0,0,,I'll be able to study at night if there's\Na Go board in the room.
 Dialogue: 0,0:04:29.69,0:04:32.59,Default,,0,0,0,,Well, well. You really are studious.
 Dialogue: 0,0:04:33.10,0:04:38.13,Default,,0,0,0,,Well, I'll leave the Go board out, so\Nuse it to replay games or whatever.
 Dialogue: 0,0:04:38.59,0:04:39.26,Default,,0,0,0,,Thank you.
@@ -142,7 +142,7 @@ Dialogue: 0,0:04:44.46,0:04:46.15,Default,,0,0,0,,No, not at all.
 Dialogue: 0,0:04:47.07,0:04:47.60,Default,,0,0,0,,Oh
 Dialogue: 0,0:04:48.60,0:04:49.89,Default,,0,0,0,,How long are you going to be here?
 Dialogue: 0,0:04:50.21,0:04:51.53,Background,,0,0,0,,Two months is my plan.
-Dialogue: 0,0:04:53.73,0:04:55.35,Default,,0,0,0,,Oh? Did you play anyone today?
+Dialogue: 0,0:04:52.10,0:04:55.35,Default,,0,0,0,,Oh? Did you play anyone today?
 Dialogue: 0,0:04:56.47,0:04:59.95,Default,,0,0,0,,I played a child called Le Ping and... I lost.
 Dialogue: 0,0:05:00.60,0:05:03.07,Default,,0,0,0,,Le Ping!? You lost to him!?
 Dialogue: 0,0:05:04.02,0:05:06.80,Default,,0,0,0,,It was a league match, with an\Nhour and a half on the clock.

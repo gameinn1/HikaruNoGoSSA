@@ -16,9 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 69 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 69 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 113
-Active Line: 119
+Video Zoom Percent: 0.625000
+Scroll Position: 108
+Active Line: 120
 Video Position: 16497
 
 [V4+ Styles]
@@ -105,11 +105,11 @@ Dialogue: 0,0:02:30.55,0:02:31.52,Thinking,,0,0,0,,That...
 Dialogue: 0,0:02:34.08,0:02:35.37,Thinking,,0,0,0,,I... I'm afraid of that.
 Dialogue: 0,0:02:41.22,0:02:46.15,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(325,115)}The Sixty-Ninth Match
 Dialogue: 0,0:02:41.22,0:02:46.15,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,330,1,\fscx100)\pos(325,365)}The Determined Visitor
-Dialogue: 0,0:03:02.23,0:03:03.68,Thinking,,0,0,0,,I haven't been in Japan for two months.
-Dialogue: 0,0:03:13.06,0:03:14.54,Thinking,,0,0,0,,The pro exams are approaching.
-Dialogue: 0,0:03:15.18,0:03:18.61,Thinking,,0,0,0,,Kadowaki, the former holder of three\Nstudent titles. Will be taking them.
-Dialogue: 0,0:03:20.26,0:03:21.48,Thinking,,0,0,0,,It's finally starting next week.
-Dialogue: 0,0:03:24.66,0:03:26.06,Thinking,,0,0,0,,I wonder how everyone's doing...
+Dialogue: 0,0:03:02.29,0:03:03.96,Thinking,,0,0,0,,I haven't been in Japan for two months.
+Dialogue: 0,0:03:13.09,0:03:14.76,Thinking,,0,0,0,,The pro exams are approaching.
+Dialogue: 0,0:03:15.26,0:03:18.61,Thinking,,0,0,0,,Kadowaki, the former holder of three\Nstudent titles. Will be taking them.
+Dialogue: 0,0:03:20.30,0:03:21.64,Thinking,,0,0,0,,It's finally starting next week.
+Dialogue: 0,0:03:24.73,0:03:26.14,Thinking,,0,0,0,,I wonder how everyone's doing...
 Dialogue: 0,0:03:27.38,0:03:29.43,Thinking,,0,0,0,,The results from the match last week...
 Dialogue: 0,0:03:30.44,0:03:32.79,Thinking,,0,0,0,,Ochi beat Mashiba!
 Dialogue: 0,0:03:34.18,0:03:35.70,Thinking,,0,0,0,,Waya didn't have a match...
@@ -122,6 +122,7 @@ Dialogue: 0,0:04:06.77,0:04:08.56,Default,,0,0,0,,I was surprised when you calle
 Dialogue: 0,0:04:09.15,0:04:10.71,Default,,0,0,0,,How was China?
 Dialogue: 0,0:04:12.57,0:04:14.32,Default,,0,0,0,,Huh? What is it?
 Dialogue: 0,0:04:15.95,0:04:18.31,Default,,0,0,0,,Le Ping! You grew up so quickly!
+Dialogue: 0,0:04:20.07,0:04:25.75,NoteArial,,0,0,0,,{\fs28\1c&H0CBCEA&\bord0\blur0\shad1\fscy70\frz15\frx10\fry348\move(365,267,365,511)\i1}NcDonalds Hamburgers{\i0}
 Dialogue: 0,0:04:22.53,0:04:23.97,Background,,0,0,0,,So that's what you were doing.
 Dialogue: 0,0:04:24.81,0:04:30.28,Default,,0,0,0,,Yeah. It's good that Le Ping started following me around and studying, but...
 Dialogue: 0,0:04:30.74,0:04:34.32,Default,,0,0,0,,he was always glaring at me.
