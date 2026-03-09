@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 339
-Active Line: 358
-Video Position: 34824
+Scroll Position: 92
+Active Line: 105
+Video Position: 13702
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -147,6 +147,8 @@ Dialogue: 0,0:05:33.98,0:05:36.23,Thinking,,0,0,0,,I'm just dissatisfied...
 Dialogue: 0,0:05:37.48,0:05:39.94,Thinking,,0,0,0,,With becoming a pro right now.
 Dialogue: 0,0:05:41.49,0:05:42.82,Thinking,,0,0,0,,Maybe I do need someone else...
 Dialogue: 0,0:05:43.61,0:05:46.33,Thinking,,0,0,0,,just like Ashiwara-san says.
+Dialogue: 0,0:05:47.99,0:05:51.21,NoteArial,,0,0,0,,{\fs32\1c&H0E7E90&\fscy70\bord0\shad1\blur0\frx4\fry0\move(322,279,322,461)}HAGINO INCORPORATED
+Dialogue: 0,0:05:51.21,0:05:53.46,NoteArial,,0,0,0,,{\fs18\1c&H0E7E90&\fscx101\fscy140\bord0\shad1\blur0\move(315,34,315,52)}Company President's Office
 Dialogue: 0,0:06:11.18,0:06:12.23,Default,,0,0,0,,This is the end.
 Dialogue: 0,0:06:13.19,0:06:17.82,Default,,0,0,0,,I can't beat you... excuse me, I can't beat\Nyou, Master, even with four stones.
 Dialogue: 0,0:06:19.05,0:06:21.55,Background,,0,0,0,,You lost because of your Kosumi here.
@@ -193,6 +195,9 @@ Dialogue: 0,0:09:06.53,0:09:09.03,Default,,0,0,0,,Yes? Oh, Mom.
 Dialogue: 0,0:09:09.93,0:09:13.08,Default,,0,0,0,,Yeah, I know. Cram school, right?
 Dialogue: 0,0:09:13.94,0:09:16.61,Background,,0,0,0,,Oh, don't forget to tell dad about the money.
 Dialogue: 0,0:09:17.30,0:09:20.04,Background,,0,0,0,,Yeah, I just played him.
+Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&H777E4D&\bord0\shad0\fscy260\frz351\move(475,101,475,136)}IGO SALON
+Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\alpha&H60&\bord0\shad0\fscy130\frz9\frx6\fry350\move(153,260,153,295)}WEEKDAYS
+Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\\alpha&H60&\bord0\shad0\fscy130\frz9\frx6\fry350\move(159,310,159,345)}SATURDAYS
 Dialogue: 0,0:09:39.14,0:09:39.98,Default,,0,0,0,,Welcome.
 Dialogue: 0,0:09:44.86,0:09:45.31,Default,,0,0,0,,Huh?
 Dialogue: 0,0:09:46.23,0:09:47.16,Default,,0,0,0,,Hey, you!
