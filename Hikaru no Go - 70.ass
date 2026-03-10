@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 70 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 300
-Active Line: 319
-Video Position: 34824
+Scroll Position: 141
+Active Line: 165
+Video Position: 29364
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -91,7 +91,7 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:43.06,0:01:47.44,Default,,0,0,0,,That's not the only forfeit Shindou has, Isumi-san.
-Dialogue: 0,0:01:51.98,0:01:57.68,Background,,0,0,0,,I don't know why, but it seems like he\Ndoesn't want to play Go anymore.
+Dialogue: 0,0:01:51.92,0:01:57.68,Background,,0,0,0,,I don't know why, but it seems like he\Ndoesn't want to play Go anymore.
 Dialogue: 0,0:02:01.89,0:02:02.68,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:02:15.01,0:02:16.16,Thinking,,0,0,0,,There's a lot of dust on it...
 Dialogue: 0,0:02:17.88,0:02:19.40,Thinking,,0,0,0,,He really hasn't played in a long time.
@@ -106,24 +106,24 @@ Dialogue: 0,0:02:44.43,0:02:51.12,Default,,0,0,0,,Shindou, do you remember the g
 Dialogue: 0,0:02:52.15,0:02:57.07,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(305,115)}The Seventieth Match
 Dialogue: 0,0:02:52.15,0:02:57.07,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,330,1,\fscx100)\pos(325,365)}Sai Was Here...
 Dialogue: 0,0:03:17.44,0:03:18.16,Default,,0,0,0,,Shindou.
-Dialogue: 0,0:03:24.65,0:03:26.38,Default,,0,0,0,,Shindou, please.
+Dialogue: 0,0:03:24.81,0:03:26.48,Default,,0,0,0,,Shindou, please.
 Dialogue: 0,0:03:28.40,0:03:29.56,Default,,0,0,0,,Just one match.
 Dialogue: 0,0:03:36.87,0:03:40.66,Thinking,,0,0,0,,Sai, I... I...
 Dialogue: 0,0:04:00.40,0:04:02.41,Default,,0,0,0,,I went to China,
-Dialogue: 0,0:04:04.63,0:04:07.06,Background,,0,0,0,,and my desire to become a pro strengthened there.
+Dialogue: 0,0:04:04.60,0:04:07.06,Background,,0,0,0,,and my desire to become a pro strengthened there.
 Dialogue: 0,0:04:08.82,0:04:13.59,Default,,0,0,0,,Watching all those young players surrounding\Nthemselves with Go everyday,
-Dialogue: 0,0:04:14.64,0:04:17.68,Default,,0,0,0,,it made me want to follow their\Npath all that much more.
+Dialogue: 0,0:04:14.61,0:04:17.68,Default,,0,0,0,,it made me want to follow their\Npath all that much more.
 Dialogue: 0,0:04:19.24,0:04:22.22,Background,,0,0,0,,The pro exam is an objective, but not a goal.
 Dialogue: 0,0:04:23.30,0:04:29.71,Default,,0,0,0,,The road goes on forever. Everyone's fighting\Neach other, while walking the same way.
 Dialogue: 0,0:04:30.89,0:04:32.99,Default,,0,0,0,,Whether it be a top pro, or you guys.
 Dialogue: 0,0:04:34.10,0:04:34.82,Default,,0,0,0,,Me, too?
 Dialogue: 0,0:04:36.15,0:04:38.72,Default,,0,0,0,,Is that not true? Are you quitting?
-Dialogue: 0,0:04:39.27,0:04:44.76,Default,,0,0,0,,It would be a shame for you to leave.
-Dialogue: 0,0:04:47.18,0:04:48.00,Default,,0,0,0,,I...
-Dialogue: 0,0:05:00.24,0:05:01.01,Default,,0,0,0,,I...
+Dialogue: 0,0:04:39.22,0:04:44.76,Default,,0,0,0,,It would be a shame for you to leave.
+Dialogue: 0,0:04:47.06,0:04:47.77,Default,,0,0,0,,I...
+Dialogue: 0,0:05:00.20,0:05:00.86,Default,,0,0,0,,I...
 Dialogue: 0,0:05:08.54,0:05:10.21,Background,,0,0,0,,I'm not playing! I'm not playing!
-Dialogue: 0,0:05:13.18,0:05:13.89,Default,,0,0,0,,Sorry...
-Dialogue: 0,0:05:14.92,0:05:15.60,Default,,0,0,0,,I....
+Dialogue: 0,0:05:13.13,0:05:13.89,Default,,0,0,0,,Sorry...
+Dialogue: 0,0:05:14.88,0:05:15.60,Default,,0,0,0,,I....
 Dialogue: 0,0:05:23.55,0:05:24.22,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:05:28.91,0:05:29.63,Default,,0,0,0,,Shindou.
 Dialogue: 0,0:05:30.70,0:05:34.65,Default,,0,0,0,,It's your life, so you're free to\Nquit playing Go if you want to.
@@ -155,8 +155,8 @@ Dialogue: 0,0:09:19.12,0:09:19.91,Thinking,,0,0,0,,But...!
 Dialogue: 0,0:09:27.42,0:09:30.51,Thinking,,0,0,0,,He got the upper-right, but I have strength.
 Dialogue: 0,0:09:32.34,0:09:35.89,Thinking,,0,0,0,,Shindou won't give in, and he can read far ahead.
 Dialogue: 0,0:09:38.68,0:09:42.02,Thinking,,0,0,0,,But I trained in China, I can read just as far!
-Dialogue: 0,0:09:55.37,0:09:56.12,Thinking,,0,0,0,,Now!
-Dialogue: 0,0:10:07.17,0:10:09.30,Thinking,,0,0,0,,I'm not going to let you push me around the whole game.
+Dialogue: 0,0:09:55.41,0:09:56.08,Thinking,,0,0,0,,Now!
+Dialogue: 0,0:10:07.17,0:10:09.34,Thinking,,0,0,0,,I'm not going to let you push me around the whole game.
 Dialogue: 0,0:10:10.55,0:10:11.59,Thinking,,0,0,0,,He's retaliating.
 Dialogue: 0,0:10:12.84,0:10:14.76,Thinking,,0,0,0,,He's brought it into a Sabaki.
 Dialogue: 0,0:10:16.14,0:10:18.35,Thinking,,0,0,0,,He's clustered me up, I can't have that.
@@ -166,14 +166,14 @@ Dialogue: 0,0:10:48.92,0:10:50.96,Thinking,,0,0,0,,I can't afford to be short on
 Dialogue: 0,0:10:56.89,0:11:01.18,Thinking,,0,0,0,,Isumi-san's shape is sparse, if I encroach\Non his territory while attacking this...
 Dialogue: 0,0:11:05.48,0:11:06.65,Thinking,,0,0,0,,If I connect here!
 Dialogue: 0,0:11:10.73,0:11:12.53,Thinking,,0,0,0,,I'm ahead on territory!
-Dialogue: 0,0:11:16.70,0:11:17.87,Thinking,,0,0,0,,Damn, it's going back and forth.
+Dialogue: 0,0:11:16.66,0:11:17.95,Thinking,,0,0,0,,Damn, it's going back and forth.
 Dialogue: 0,0:11:18.78,0:11:20.41,Thinking,,0,0,0,,The game is even now.
 Dialogue: 0,0:11:21.16,0:11:21.99,Thinking,,0,0,0,,It's not over yet!
 Dialogue: 0,0:11:40.89,0:11:41.76,Thinking,,0,0,0,,Isumi-san...
 Dialogue: 0,0:11:43.10,0:11:43.85,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:11:47.52,0:11:48.48,Thinking,,0,0,0,,He's gotten better.
 Dialogue: 0,0:11:56.40,0:11:58.57,Thinking,,0,0,0,,If I reduce White's influence on the right side now...
-Dialogue: 0,0:12:51.46,0:12:52.33,Thinking,,0,0,0,,Sai?
+Dialogue: 0,0:12:51.42,0:12:52.33,Thinking,,0,0,0,,Sai?
 Dialogue: 0,0:13:19.74,0:13:20.53,Default,,0,0,0,,Shindou?
 Dialogue: 0,0:13:23.53,0:13:24.74,Default,,0,0,0,,That move...
 Dialogue: 0,0:13:28.16,0:13:29.00,Default,,0,0,0,,He...
@@ -253,9 +253,9 @@ Dialogue: 0,0:20:00.01,0:20:01.85,Background,,0,0,0,,take a step towards...
 Dialogue: 0,0:20:02.60,0:20:04.56,Default,,0,0,0,,Take a step towards...!?
 Dialogue: 0,0:20:05.73,0:20:07.56,Default,,0,0,0,,The divine move.
 Dialogue: 0,0:20:08.98,0:20:10.44,Default,,0,0,0,,What a far-off dream.
-Dialogue: 0,0:20:11.15,0:20:14.40,Default,,0,0,0,,It seems like he's finally determined,
+Dialogue: 0,0:20:11.11,0:20:14.36,Default,,0,0,0,,It seems like he's finally determined,
 Dialogue: 0,0:20:14.99,0:20:17.07,Background,,0,0,0,,to walk down this endless path.
-Dialogue: 0,0:20:18.78,0:20:24.54,Default,,0,0,0,,But, I won't let you have your way\Nwhile I'm still around, brats.
+Dialogue: 0,0:20:18.74,0:20:24.45,Default,,0,0,0,,But, I won't let you have your way\Nwhile I'm still around, brats.
 Dialogue: 0,0:22:20.45,0:22:21.78,Default,,0,0,0,,Let's stop here for a second.
 Dialogue: 0,0:22:22.08,0:22:24.09,Default,,0,0,0,,Yuuki-kun, why did you play here?
 Dialogue: 0,0:22:24.22,0:22:25.55,Default,,0,0,0,,Because I wanted to expand my territory.
