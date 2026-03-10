@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 183
-Active Line: 207
-Video Position: 32168
+Scroll Position: 106
+Active Line: 127
+Video Position: 16033
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -205,10 +205,10 @@ Dialogue: 0,0:10:00.54,0:10:01.12,Default,,0,0,0,,Who is he?
 Dialogue: 0,0:10:02.46,0:10:04.37,Default,,0,0,0,,Him? You mean Akira-kun?
 Dialogue: 0,0:10:05.06,0:10:06.07,Default,,0,0,0,,Touya Akira?
 Dialogue: 0,0:10:07.26,0:10:08.05,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:10:13.10,0:10:13.88,Thinking,,0,0,0,,So that's him...
-Dialogue: 0,0:10:16.16,0:10:17.51,Default,,0,0,0,,How much is it to play here?
+Dialogue: 0,0:10:13.13,0:10:13.97,Thinking,,0,0,0,,So that's him...
+Dialogue: 0,0:10:16.16,0:10:17.56,Default,,0,0,0,,How much is it to play here?
 Dialogue: 0,0:10:18.10,0:10:19.72,Default,,0,0,0,,500 yen for children.
-Dialogue: 0,0:10:20.56,0:10:21.02,Background,,0,0,0,,Here.
+Dialogue: 0,0:10:20.47,0:10:21.02,Background,,0,0,0,,Here.
 Dialogue: 0,0:10:22.34,0:10:24.40,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,0:10:27.35,0:10:30.78,Default,,0,0,0,,I heard Touya Akira is good, is that true?
 Dialogue: 0,0:10:32.85,0:10:35.80,Default,,0,0,0,,Yes. You doubt it?
@@ -216,8 +216,8 @@ Dialogue: 0,0:10:36.99,0:10:37.49,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:10:39.80,0:10:42.56,Default,,0,0,0,,Then why don't you ask Akira-kun\Nto play a game against you?
 Dialogue: 0,0:10:43.48,0:10:45.94,Default,,0,0,0,,Yeah, that's what I came here for.
 Dialogue: 0,0:11:00.95,0:11:01.79,Default,,0,0,0,,Akira-kun.
-Dialogue: 0,0:11:07.34,0:11:08.11,Default,,0,0,0,,A customer?
-Dialogue: 0,0:11:08.65,0:11:12.07,Default,,0,0,0,,Yes, he wants to play you,\NAkira-kun. Is that alright?
+Dialogue: 0,0:11:07.40,0:11:08.15,Default,,0,0,0,,A customer?
+Dialogue: 0,0:11:08.69,0:11:12.07,Default,,0,0,0,,Yes, he wants to play you,\NAkira-kun. Is that alright?
 Dialogue: 0,0:11:12.83,0:11:15.20,Default,,0,0,0,,Sure. How strong are you?
 Dialogue: 0,0:11:15.69,0:11:17.74,Default,,0,0,0,,I won the Children's Meijin tournament.
 Dialogue: 0,0:11:18.51,0:11:20.40,Default,,0,0,0,,Really? That's incredible!
@@ -227,11 +227,11 @@ Dialogue: 0,0:11:36.84,0:11:43.43,Default,,0,0,0,,Children's Meijin isn't enough
 Dialogue: 0,0:11:43.90,0:11:46.14,Thinking,,0,0,0,,That's impossible. Poor kid.
 Dialogue: 0,0:11:46.85,0:11:49.62,Thinking,,0,0,0,,That's why Akira-kun should become a pro already.
 Dialogue: 0,0:11:50.28,0:11:51.55,Default,,0,0,0,,I'll go get some tea.
-Dialogue: 0,0:12:00.03,0:12:04.75,Thinking,,0,0,0,,Dammit... he doesn't seem to care... okay.
-Dialogue: 0,0:12:05.75,0:12:07.32,Default,,0,0,0,,I am Isobe Hideki.
+Dialogue: 0,0:11:59.99,0:12:04.75,Thinking,,0,0,0,,Dammit... he doesn't seem to care... okay.
+Dialogue: 0,0:12:05.79,0:12:07.32,Default,,0,0,0,,I am Isobe Hideki.
 Dialogue: 0,0:12:08.24,0:12:14.70,Default,,0,0,0,,If I win, tell everyone that you\Nlost to Isobe Hideki, alright?
 Dialogue: 0,0:12:17.00,0:12:18.98,Default,,0,0,0,,Sure! I'll tell everyone!
-Dialogue: 0,0:12:19.47,0:12:21.08,Default,,0,0,0,,Isobe Hideki-kun, right?
+Dialogue: 0,0:12:19.64,0:12:21.14,Default,,0,0,0,,Isobe Hideki-kun, right?
 Dialogue: 0,0:12:21.43,0:12:24.72,Default,,0,0,0,,Let's play! Do you mind if I Nigiri?
 Dialogue: 0,0:12:26.89,0:12:28.10,Thinking,,0,0,0,,What's with him?
 Dialogue: 0,0:12:31.68,0:12:34.04,Thinking,,0,0,0,,He doesn't seem that good at all.
@@ -240,18 +240,18 @@ Dialogue: 0,0:12:37.03,0:12:37.95,Default,,0,0,0,,Y-Yeah...
 Dialogue: 0,0:12:39.30,0:12:40.45,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:12:40.76,0:12:41.88,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:12:52.45,0:12:54.23,Thinking,,0,0,0,,I can't possibly lose...
-Dialogue: 0,0:12:57.11,0:12:58.22,Thinking,,0,0,0,,against someone like him!
+Dialogue: 0,0:12:57.11,0:12:58.26,Thinking,,0,0,0,,against someone like him!
 Dialogue: 0,0:13:15.02,0:13:19.03,Thinking,,0,0,0,,His... His expression's changed...
 Dialogue: 0,0:13:58.78,0:14:02.61,Default,,0,0,0,,You should have played here instead\Nof making a Keima jump.
-Dialogue: 0,0:14:04.08,0:14:05.78,Default,,0,0,0,,A Tsuke is perfect in this situation.
+Dialogue: 0,0:14:04.08,0:14:05.78,Background,,0,0,0,,A Tsuke is perfect in this situation.
 Dialogue: 0,0:14:06.30,0:14:08.44,Default,,0,0,0,,Ohh! I see.
 Dialogue: 0,0:14:09.12,0:14:11.68,Default,,0,0,0,,I have a hard time playing Tsuke, it scares me.
-Dialogue: 0,0:14:14.63,0:14:17.34,Default,,0,0,0,,Wow. Akira's playing a kid
+Dialogue: 0,0:14:14.58,0:14:17.34,Default,,0,0,0,,Wow. Akira's playing a kid
 Dialogue: 0,0:14:17.92,0:14:23.18,Default,,0,0,0,,Master Ashiwara, you're still under\N20 right? You look like a kid to me.
 Dialogue: 0,0:15:39.53,0:15:42.09,Thinking,,0,0,0,,He's not... very good.
 Dialogue: 0,0:15:58.85,0:15:59.81,Default,,0,0,0,,I resign.
 Dialogue: 0,0:16:00.52,0:16:05.32,Default,,0,0,0,,Your ideas are too focused on territory.\NThey won't work on Akira.
-Dialogue: 0,0:16:06.20,0:16:07.07,Default,,0,0,0,,Ashiwara-san.
+Dialogue: 0,0:16:06.11,0:16:07.07,Default,,0,0,0,,Ashiwara-san.
 Dialogue: 0,0:16:07.57,0:16:12.71,Background,,0,0,0,,You had to move into the White territory\Nand base the match on survival.
 Dialogue: 0,0:16:13.66,0:16:16.40,Default,,0,0,0,,But even so, you're plenty good.
 Dialogue: 0,0:16:17.54,0:16:19.42,Default,,0,0,0,,It's just your opponent was too strong.
@@ -273,8 +273,8 @@ Dialogue: 0,0:18:05.72,0:18:06.36,Default,,0,0,0,,I see...
 Dialogue: 0,0:18:08.13,0:18:11.12,Default,,0,0,0,,great hope for you.
 Dialogue: 0,0:18:17.91,0:18:18.79,Thinking,,0,0,0,,Father!
 Dialogue: 0,0:18:23.00,0:18:23.92,Thinking,,0,0,0,,Father...
-Dialogue: 0,0:18:29.59,0:18:31.26,Default,,0,0,0,,Oh, hi Akira-kun.
-Dialogue: 0,0:18:32.22,0:18:35.84,Default,,0,0,0,,Hello, Ichikawa-san. Can you take this again?
+Dialogue: 0,0:18:29.55,0:18:31.26,Default,,0,0,0,,Oh, hi Akira-kun.
+Dialogue: 0,0:18:32.13,0:18:35.84,Default,,0,0,0,,Hello, Ichikawa-san. Can you take this again?
 Dialogue: 0,0:18:36.65,0:18:37.41,Default,,0,0,0,,Okay.
 Dialogue: 0,0:18:40.02,0:18:42.77,Default,,0,0,0,,You look happy. Did something\Ngood happen to you?
 Dialogue: 0,0:18:43.56,0:18:47.02,Default,,0,0,0,,Father complimented my game this morning!
