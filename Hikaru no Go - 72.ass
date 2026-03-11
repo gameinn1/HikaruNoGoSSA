@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 73
-Active Line: 93
-Video Position: 19574
+Scroll Position: 158
+Active Line: 175
+Video Position: 25897
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -140,6 +140,27 @@ Dialogue: 0,0:06:19.68,0:06:21.78,Default,,0,0,0,,I wonder who will pass this ye
 Dialogue: 0,0:06:23.58,0:06:27.46,Default,,0,0,0,,I hope whoever passes doesn't ditch\Ntheir matches like Shindou-kun.
 Dialogue: 0,0:06:38.72,0:06:40.38,Default,,0,0,0,,Shindou-kun...
 Dialogue: 0,0:06:41.46,0:06:47.07,Background,,0,0,0,,Amano-san, should we be hopeful\Nabout the future of the Go world?
+Dialogue: 0,0:06:49.56,0:06:52.56,NoteArial,,0,0,0,,{\fs16.5\1c&H526680&\bord0\shad0\fscy110\pos(343,150)}Japanese Go Institute
+Comment: 0,0:06:52.56,0:06:55.65,NoteArial,,0,0,0,,{\fs22\1c&HF0D8CC&\bord0\shad0\fscy65\frz270\pos(313,247)}TODAY'S PROGRAMS
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,1,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(249,181)}Public Match Room
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,2,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(192,194)}Day of the Kyu-players
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,3,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(137,216)}Training Course Dan-players
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,4,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(80,179)}Onagai Classroom
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,5,0,0,0,,{\fs14\1c&HF0D8CC&\bord0\shad0\fscy100\frz270\pos(23,215)}Tutor Go with Sasaki Masashi 8-dan
+Comment: 0,0:06:52.89,0:06:56.15,NoteArial,6,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(90,187)}Basics of Go Course
+Comment: 0,0:06:53.43,0:06:56.15,NoteArial,,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(34,188)}Katsuragi Classroom
+Comment: 0,0:06:53.93,0:06:56.15,NoteArial,,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(138,170)}Pro examination
+Comment: 0,0:06:53.93,0:06:56.15,NoteArial,,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(138,369)}6th Floor
+Comment: 0,0:06:53.93,0:06:56.15,NoteArial,,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(244,371)}3rd Floor
+Comment: 0,0:06:52.89,0:06:56.15,NoteArial,6,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(190,370)}3rd Floor
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,1,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(249,369)}2nd Floor
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,2,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(192,371)}2nd Floor
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,3,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(136,371)}3rd Floor
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,4,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(80,371)}2nd Floor
+Comment: 0,0:06:52.56,0:06:56.15,NoteArial,5,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\pos(23,371)}2nd Floor
+Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HE3C7BC&\q2\shad0\bord0\blur0\fscx99\fscy75\frz270\move(610,441,610,51)}Basics of Go Course    3rd Floor
+Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HEED2C6&\q2\shad0\bord0\blur0\fscx99\fscy75\frz270\move(453,439,453,51)}Katsuragi Classroom   3rd Floor
+Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HEAE0DD&\q2\shad0\bord0\blur0\fscx99\fscy75\frz270\move(286,436,286,52)}Pro examination           6th Floor
 Dialogue: 0,0:07:52.28,0:07:53.99,Default,,0,0,0,,Please start your clocks
 Dialogue: 0,0:07:54.50,0:07:56.02,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:07:59.08,0:08:00.18,Background,,0,0,0,,Mr. Shinoda.
@@ -208,7 +229,8 @@ Dialogue: 0,0:15:17.19,0:15:20.19,Default,,0,0,0,,I've had pretty good luck agai
 Dialogue: 0,0:15:22.04,0:15:23.84,Default,,0,0,0,,Right, Ogata-kun?
 Dialogue: 0,0:15:27.92,0:15:30.83,Default,,0,0,0,,I'll be waiting for you in the defender's chair.
 Dialogue: 0,0:15:37.12,0:15:41.30,Thinking,,0,0,0,,Oh no... he's gaining confidence...
-Dialogue: 0,0:15:42.76,0:15:44.00,Thinking,,0,0,0,,Master Ogata...
+Dialogue: 0,0:15:42.71,0:15:44.00,Thinking,,0,0,0,,Master Ogata...
+Dialogue: 0,0:15:44.72,0:15:46.59,NoteArial,,0,0,0,,{\fs37\1c&H246F97&\bord0\shad2\frz330\frx2\fry6\pos(443,167)}Japanese Go Institute
 Dialogue: 0,0:15:50.18,0:15:51.18,Default,,0,0,0,,Good morning.
 Dialogue: 0,0:15:52.31,0:15:53.43,Default,,0,0,0,,Good morning.
 Dialogue: 0,0:15:58.40,0:15:59.77,Default,,0,0,0,,Impressive.
@@ -243,6 +265,7 @@ Dialogue: 0,0:17:50.38,0:17:53.76,Default,,0,0,0,,the benefit of getting to play
 Dialogue: 0,0:17:54.39,0:17:55.05,Default,,0,0,0,,Yoshikawa-kun!
 Dialogue: 0,0:17:55.60,0:17:56.09,Default,,0,0,0,,Yes!
 Dialogue: 0,0:17:56.51,0:18:00.02,Default,,0,0,0,,Call Master Touya now! Get his comments on it.
+Dialogue: 0,0:18:00.10,0:18:03.73,NoteArial,,0,0,10,,{\fs20\1c&H7AE4D7&\3c&H1C758E&\alpha&H40&\bord1\shad0.5}China Go Institute
 Dialogue: 0,0:18:05.48,0:18:06.27,Background,,0,0,0,,Yang Hai!
 Dialogue: 0,0:18:07.71,0:18:08.61,Default,,0,0,0,,Did you hear?
 Dialogue: 0,0:18:09.23,0:18:12.22,Default,,0,0,0,,Master Touya from Japan just\Njoined the Bei'jing team!
