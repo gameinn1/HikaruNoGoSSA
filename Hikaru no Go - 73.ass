@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 24
-Active Line: 31
-Video Position: 5657
+Video Zoom Percent: 1.000000
+Scroll Position: 96
+Active Line: 115
+Video Position: 16968
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,16 +90,16 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:41.83,0:01:43.92,Default,,0,0,0,,Have you seen Isumi-kun?
-Dialogue: 0,0:01:44.76,0:01:48.73,Background,,0,0,0,,He looks much more confident than last year.
-Dialogue: 0,0:01:50.38,0:01:54.39,Background,,0,0,0,,He not only beat Murakami-kun,\Nbut Tsujioka as well...
-Dialogue: 0,0:01:55.12,0:01:59.04,Background,,0,0,0,,We can't let these young ones take the world yet.
+Dialogue: 0,0:01:41.87,0:01:44.08,Default,,0,0,0,,Have you seen Isumi-kun?
+Dialogue: 0,0:01:44.76,0:01:49.09,Background,,0,0,0,,He looks much more confident than last year.
+Dialogue: 0,0:01:50.38,0:01:54.64,Background,,0,0,0,,He not only beat Murakami-kun,\Nbut Tsujioka as well...
+Dialogue: 0,0:01:55.12,0:01:58.89,Background,,0,0,0,,We can't let these young ones take the world yet.
 Dialogue: 0,0:01:59.64,0:02:04.53,Default,,0,0,0,,Excuse me Master Kuwabara, but Master\NOgata already has two titles.
-Dialogue: 0,0:02:07.44,0:02:11.53,Default,,0,0,0,,It's incredible. Touya-kun was\Na new first dan not long ago,
-Dialogue: 0,0:02:11.81,0:02:13.62,Background,,0,0,0,,and he's already in the Honinbou league.
-Dialogue: 0,0:02:15.24,0:02:19.53,Default,,0,0,0,,Master Touya has signed a contract\Nwith the Bei'jing team of China!
-Dialogue: 0,0:02:20.52,0:02:24.21,Default,,0,0,0,,Doesn't it feel like the Go world is moving?
-Dialogue: 0,0:02:25.57,0:02:28.35,Background,,0,0,0,,The whole Go world.
+Dialogue: 0,0:02:07.40,0:02:11.57,Background,,0,0,0,,It's incredible. Touya-kun was\Na new first dan not long ago,
+Dialogue: 0,0:02:11.78,0:02:13.78,Background,,0,0,0,,and he's already in the Honinbou league.
+Dialogue: 0,0:02:15.28,0:02:19.53,Default,,0,0,0,,Master Touya has signed a contract\Nwith the Bei'jing team of China!
+Dialogue: 0,0:02:20.52,0:02:24.29,Default,,0,0,0,,Doesn't it feel like the Go world is moving?
+Dialogue: 0,0:02:25.57,0:02:28.38,Background,,0,0,0,,The whole Go world.
 Dialogue: 0,0:02:30.93,0:02:34.34,Thinking,,0,0,0,,The new wave may be coming...
 Dialogue: 0,0:02:34.98,0:02:36.80,Thinking,,0,0,0,,With Touya Akira in the lead.
 Dialogue: 0,0:02:41.77,0:02:46.65,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(340,115)}The Seventy-Third Match
@@ -107,10 +107,10 @@ Dialogue: 0,0:02:41.77,0:02:46.65,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy
 Dialogue: 0,0:02:53.61,0:02:57.62,Default,,0,0,0,,Hey, Shindou. What are you doing at the Institute\Nwhen you don't even have a match?
 Dialogue: 0,0:02:57.80,0:02:58.87,Default,,0,0,0,,Kurata-san!
 Dialogue: 0,0:02:58.99,0:03:02.49,Default,,0,0,0,,What am I doing? Master Morishita's\Nstudy session is today.
-Dialogue: 0,0:03:03.65,0:03:06.68,Default,,0,0,0,,I looked at the tournament pairings for the\Nfirst preliminaries for the Meijin match.
-Dialogue: 0,0:03:07.22,0:03:09.61,Default,,0,0,0,,You're playing Touya Akira in the first round!
-Dialogue: 0,0:03:10.03,0:03:12.17,Default,,0,0,0,,Yeah, it's all thanks to you Kurata-san!
-Dialogue: 0,0:03:13.19,0:03:14.09,Default,,0,0,0,,Thanks to me?
+Dialogue: 0,0:03:03.62,0:03:06.83,Default,,0,0,0,,I looked at the tournament pairings for the\Nfirst preliminaries for the Meijin match.
+Dialogue: 0,0:03:07.22,0:03:09.71,Default,,0,0,0,,You're playing Touya Akira in the first round!
+Dialogue: 0,0:03:10.03,0:03:12.34,Default,,0,0,0,,Yeah, it's all thanks to you Kurata-san!
+Dialogue: 0,0:03:13.19,0:03:14.17,Default,,0,0,0,,Thanks to me?
 Dialogue: 0,0:03:14.92,0:03:17.22,Default,,0,0,0,,The reason Touya's still in the\Nfirst preliminaries this year is
 Dialogue: 0,0:03:17.34,0:03:19.85,Default,,0,0,0,,because you beat him last year, Kurata-san.
 Dialogue: 0,0:03:21.44,0:03:27.73,Default,,0,0,0,,He's moved on in the preliminaries for\Nevery other title, I can't reach him.
@@ -120,7 +120,7 @@ Dialogue: 0,0:03:38.72,0:03:39.45,Default,,0,0,0,,Well, bye.
 Dialogue: 0,0:03:40.61,0:03:45.87,Default,,0,0,0,,Hey, Shindou. Bring the half-finished\Nautograph that I gave you.
 Dialogue: 0,0:03:47.71,0:03:48.58,Default,,0,0,0,,Autograph?
 Dialogue: 0,0:03:48.99,0:03:52.14,Background,,0,0,0,,Remember, I only wrote half my name?
-Dialogue: 0,0:03:52.45,0:03:55.51,Background,,0,0,0,,I'll write the rest of it if you beat Touya.
+Dialogue: 0,0:03:52.42,0:03:55.51,Background,,0,0,0,,I'll write the rest of it if you beat Touya.
 Dialogue: 0,0:03:55.92,0:03:57.51,ed64_romaji,,0,0,0,,{\fs42\1c&H0B0909&\shad0\bord0\blur0\frz4\pos(364,259)\b1}Kura{\b0}
 Dialogue: 0,0:03:57.68,0:03:59.28,Thinking,,0,0,0,,Oh! That!
 Dialogue: 0,0:03:59.51,0:04:01.39,Thinking,,0,0,0,,Where did I put that!?
@@ -205,7 +205,7 @@ Dialogue: 0,0:10:55.38,0:10:57.30,Default,,0,0,0,,Hikaru you're such a tease.
 Dialogue: 0,0:11:18.66,0:11:19.87,Background,,0,0,0,,Have a safe trip.
 Dialogue: 0,0:11:21.54,0:11:22.33,Default,,0,0,0,,I'll be going.
 Dialogue: 0,0:11:36.76,0:11:37.59,Default,,0,0,0,,I'll be going now.
-Dialogue: 0,0:11:47.69,0:11:52.57,NoteArial,,0,0,0,,{\fs80\q2\fscy70\bord1\shad2\1c&H354B46&\move(612,75,100,75)}Japanese Go Institute
+Dialogue: 0,0:11:47.69,0:11:52.57,NoteArial,,0,0,0,,{\fs80\q2\fscy70\bord1\shad2\1c&H515850&\move(609,75,100,75)}Japanese Go Institute
 Dialogue: 0,0:11:54.82,0:11:57.32,Default,,0,0,0,,You've got a big match today, Saeki-san.
 Dialogue: 0,0:11:57.74,0:12:02.16,Default,,0,0,0,,Yeah... Ashiwara, who studies\Nunder Touya, is my opponent.
 Dialogue: 0,0:12:02.87,0:12:06.71,Default,,0,0,0,,I'm sure Master Morishita will be\Nfurious if you lose this game...
