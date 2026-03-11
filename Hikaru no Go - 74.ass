@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 287
-Active Line: 309
-Video Position: 34824
+Scroll Position: 113
+Active Line: 132
+Video Position: 23539
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -148,6 +148,9 @@ Dialogue: 0,0:07:38.44,0:07:39.44,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:07:48.36,0:07:49.53,Default,,0,0,0,,This is publishing.
 Dialogue: 0,0:07:50.83,0:07:52.66,Default,,0,0,0,,Oh, yes. Thank you.
 Dialogue: 0,0:07:53.66,0:07:54.79,Background,,0,0,0,,Yes, good work.
+Comment: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs30.5\1c&H010101&\bord0\blur0\shad0\fscy200\frz298\pos(539,198)}A NEW STAR APPEARS IN KOREA
+Comment: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs24\1c&H010101&\bord0\blur0\shad0\fscy130\frz298\pos(413,200)}Hong Su-Young (14)
+Comment: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs24\1c&H010101&\bord0\blur0\shad0\fscy130\frz298\pos(522,406)}Kim Kang II 9-dan
 Dialogue: 0,0:07:58.25,0:08:01.67,Background,,0,0,0,,How do you pronounce this Korean child's name?
 Dialogue: 0,0:08:03.13,0:08:07.43,Default,,0,0,0,,It's "kou" from "kouzui" (kouzui is\Nflood) so would it be Hong? Hong...
 Dialogue: 0,0:08:08.05,0:08:13.43,Default,,0,0,0,,The child who beat Kim Kang Il? It's Su-Young.\NHis name is Hong Su-Young.
@@ -219,6 +222,7 @@ Dialogue: 0,0:15:34.79,0:15:38.46,Default,,0,0,0,,And I hear Shindou-kun is just
 Dialogue: 0,0:15:39.71,0:15:45.05,Default,,0,0,0,,Then we can finally aim for the world! It'll be\Na comeback for Japan! Right, Amano-san?
 Dialogue: 0,0:15:46.38,0:15:50.01,Default,,0,0,0,,Sounds great. Our sales would improve\Na lot if that were to happen.
 Dialogue: 0,0:15:59.19,0:16:01.90,Default,,0,0,0,,But, we have no idea what will happen.
+Dialogue: 0,0:16:13.91,0:16:21.38,NoteArial,,0,0,0,,{\fs24\1c&H5A727E&\bord0\shad0\frz8\fscy95\move(412,160,412,488)}Japanese Go Institute
 Dialogue: 0,0:16:14.37,0:16:17.41,Background,,0,0,0,,Let's put an end to our talk of dreams now.
 Dialogue: 0,0:16:52.03,0:16:54.16,Default,,0,0,0,,Time for lunch!
 Dialogue: 0,0:17:11.13,0:17:13.01,Thinking,,0,0,0,,This game's been moving really quickly.
