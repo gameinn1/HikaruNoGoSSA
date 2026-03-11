@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 71 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 71 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 311
-Active Line: 332
-Video Position: 34824
+Video Zoom Percent: 0.750000
+Scroll Position: 166
+Active Line: 186
+Video Position: 29389
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,9 +90,9 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:08.88,0:02:09.97,Default,,0,0,0,,This move...
+Dialogue: 0,0:02:08.86,0:02:09.97,Default,,0,0,0,,This move...
 Dialogue: 0,0:02:13.79,0:02:17.05,Default,,0,0,0,,He made moves like this...
-Dialogue: 0,0:02:21.58,0:02:22.46,Thinking,,0,0,0,,Here..
+Dialogue: 0,0:02:21.50,0:02:22.37,Thinking,,0,0,0,,Here...
 Dialogue: 0,0:02:23.71,0:02:25.92,Thinking,,0,0,0,,I couldn't find Sai anywhere I looked...
 Dialogue: 0,0:02:31.71,0:02:33.51,Thinking,,0,0,0,,and he was here all along...
 Dialogue: 0,0:02:39.85,0:02:42.10,Thinking,,0,0,0,,The only way I could see you again...
@@ -108,9 +108,10 @@ Dialogue: 0,0:03:14.84,0:03:15.34,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:03:16.54,0:03:17.69,Default,,0,0,0,,Not just today?
 Dialogue: 0,0:03:18.26,0:03:20.68,Default,,0,0,0,,I'll go from now on, I told you.
 Dialogue: 0,0:03:21.26,0:03:23.23,Default,,0,0,0,,I'm leaving. Arrange it with the school, ok?
+Dialogue: 0,0:03:35.24,0:03:39.41,NoteArial,,0,0,0,,{\fs16\1c&H54625F&\bord0\shad0\frz345\fscy120\move(426,495,352,210)}Japanese Go Institute
 Dialogue: 0,0:03:39.57,0:03:42.29,Default,,0,0,0,,You're 3-dan if you win today?
-Dialogue: 0,0:03:42.80,0:03:43.41,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:03:46.15,0:03:50.44,Default,,0,0,0,,Isn't your opponent today that guy who\Nhasn't gone to any of his matches?
+Dialogue: 0,0:03:42.70,0:03:43.37,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:03:46.12,0:03:50.44,Default,,0,0,0,,Isn't your opponent today that guy who\Nhasn't gone to any of his matches?
 Dialogue: 0,0:03:50.79,0:03:54.51,Default,,0,0,0,,Yup, I get an easy promotion through a forfeit.
 Dialogue: 0,0:03:55.80,0:03:57.13,Default,,0,0,0,,Lucky you.
 Dialogue: 0,0:04:01.10,0:04:04.73,Default,,0,0,0,,I wanted to get promoted through a win, though.
@@ -120,8 +121,8 @@ Dialogue: 0,0:04:59.88,0:05:03.37,Default,,0,0,0,,Damn that Shindou. Why did he\
 Dialogue: 0,0:05:04.32,0:05:05.82,Default,,0,0,0,,Shindou-kun is here?
 Dialogue: 0,0:05:06.19,0:05:07.49,Default,,0,0,0,,Hi, Tsujioka-kun.
 Dialogue: 0,0:05:08.25,0:05:11.00,Default,,0,0,0,,I'm playing him for my next Ooteai match.
-Dialogue: 0,0:05:11.38,0:05:14.05,Default,,0,0,0,,I'm so happy. I've wanted to play him.
-Dialogue: 0,0:05:14.40,0:05:15.37,Default,,0,0,0,,You've wanted to play him?
+Dialogue: 0,0:05:11.33,0:05:14.13,Default,,0,0,0,,I'm so happy. I've wanted to play him.
+Dialogue: 0,0:05:14.38,0:05:15.46,Default,,0,0,0,,You've wanted to play him?
 Dialogue: 0,0:05:16.76,0:05:17.47,Default,,0,0,0,,Yes!
 Dialogue: 0,0:05:18.17,0:05:22.43,Default,,0,0,0,,I heard a rumor that Touya-kun\Nthinks of him as a rival.
 Dialogue: 0,0:05:23.00,0:05:24.64,Default,,0,0,0,,Touya-kun!? and Shindou!?
@@ -133,7 +134,7 @@ Dialogue: 0,0:05:36.14,0:05:36.87,Default,,0,0,0,,Touya-kun...
 Dialogue: 0,0:05:43.83,0:05:44.80,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:06:56.36,0:06:57.17,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:06:58.38,0:06:59.28,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:07:01.29,0:07:02.77,Background,,0,0,0,,Good luck.
+Dialogue: 0,0:07:01.11,0:07:03.07,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:07:25.06,0:07:27.70,Thinking,,0,0,0,,I played him in the Wakajishisen last year.
 Dialogue: 0,0:07:28.63,0:07:31.37,Thinking,,0,0,0,,He scared me with a few good moves,
 Dialogue: 0,0:07:32.33,0:07:36.06,Thinking,,0,0,0,,but he was bad at Yose, and I\Nwon by six and a half moku.
@@ -147,6 +148,7 @@ Dialogue: 0,0:08:29.74,0:08:30.53,Background,,0,0,0,,Stand.
 Dialogue: 0,0:08:33.58,0:08:34.16,Background,,0,0,0,,Bow.
 Dialogue: 0,0:08:38.08,0:08:38.83,Default,,0,0,0,,Teacher!
 Dialogue: 0,0:08:40.45,0:08:41.41,Default,,0,0,0,,What is it, Kaneko?
+Comment: 0,0:08:42.08,0:08:46.09,Background,,0,0,0,,{\fs29\1c&H241917&\bord0\shad0\fscx100\fscy50\frz345\pos(238,227)}Chemistry Lab
 Dialogue: 0,0:08:44.55,0:08:46.09,Background,,0,0,0,,Kaneko-san, are you sure?
 Dialogue: 0,0:08:46.67,0:08:49.36,Default,,0,0,0,,Hikaru was absent today for a match?
 Dialogue: 0,0:08:49.72,0:08:58.60,Default,,0,0,0,,Yup. And I hear that he's been absent the last few\Ndays for Go-related things like study sessions.
@@ -154,11 +156,11 @@ Dialogue: 0,0:08:58.96,0:09:00.93,Default,,0,0,0,,Hikaru cheered up!
 Dialogue: 0,0:09:01.15,0:09:02.18,Default,,0,0,0,,I'm so glad!
 Dialogue: 0,0:09:02.75,0:09:05.40,Default,,0,0,0,,I'm glad for Shindou-senpai.
 Dialogue: 0,0:09:05.65,0:09:06.19,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:09:06.53,0:09:09.22,Default,,0,0,0,,We're still on short days since\Nsummer break just ended,
-Dialogue: 0,0:09:09.40,0:09:12.29,Default,,0,0,0,,so our homeroom teacher, Mr. Suzuki,\Nwas happy about Shindou cheering up
-Dialogue: 0,0:09:12.56,0:09:15.24,Default,,0,0,0,,despite the fact that he's missing school.
-Dialogue: 0,0:09:15.70,0:09:20.71,Default,,0,0,0,,He was thinking about quitting as a pro,\Nand now he's ditching school to play Go.
-Dialogue: 0,0:09:21.20,0:09:22.25,Default,,0,0,0,,What a selfish guy.
+Dialogue: 0,0:09:06.53,0:09:09.20,Default,,0,0,0,,We're still on short days since\Nsummer break just ended,
+Dialogue: 0,0:09:09.36,0:09:12.36,Default,,0,0,0,,so our homeroom teacher, Mr. Suzuki,\Nwas happy about Shindou cheering up
+Dialogue: 0,0:09:12.53,0:09:15.24,Default,,0,0,0,,despite the fact that he's missing school.
+Dialogue: 0,0:09:16.33,0:09:20.71,Default,,0,0,0,,He was thinking about quitting as a pro,\Nand now he's ditching school to play Go.
+Dialogue: 0,0:09:21.17,0:09:22.25,Default,,0,0,0,,What a selfish guy.
 Dialogue: 0,0:09:22.67,0:09:25.10,Default,,0,0,0,,You're just as selfish as he is.
 Dialogue: 0,0:09:26.38,0:09:27.36,Default,,0,0,0,,What'd you say!?
 Dialogue: 0,0:09:28.01,0:09:30.53,Default,,0,0,0,,You suddenly declared that you\Nwere going to the tournament.
@@ -266,7 +268,15 @@ Dialogue: 0,0:19:54.63,0:19:59.43,Thinking,,0,0,0,,Only I can measure Shindou's 
 Dialogue: 0,0:20:01.68,0:20:05.89,Thinking,,0,0,0,,I knew it the moment he appeared\Nin front of me that night.
 Dialogue: 0,0:20:10.52,0:20:15.11,Thinking,,0,0,0,,Oh yes, I received the pairings for the first round\Nof the first preliminaries of the Meijin match.
 Dialogue: 0,0:20:15.82,0:20:18.66,Thinking,,0,0,0,,Touya-kun's opponent for the first round was...
+Comment: 0,0:20:18.78,0:20:19.87,NoteArial,,0,0,0,,{\fs24\1c&H09090B&\bord0\shad0\frz270\fscy70\i1\pos(639,336)}Honda Tadao 2-dan{\i0}
+Comment: 0,0:20:18.78,0:20:21.74,NoteArial,,0,0,0,,{\fs24.5\1c&H09090B&\bord0\shad0\frz270\fscy70\i1\pos(557,307)}Fujiki Mina First dan{\i0}
+Comment: 0,0:20:18.78,0:20:21.74,NoteArial,,0,0,0,,{\fs25.5\1c&H09090B&\bord0\shad0\frz270\fscy70\i1\pos(464,278)}Nishizaki Shou 3-dan{\i0}
+Comment: 0,0:20:18.78,0:20:21.74,NoteArial,,0,0,0,,{\fs26\1c&H09090B&\bord0\shad0\frz270\fscy70\i1\pos(364,228)}Katou Yuuta 2-dan{\i0}
+Comment: 0,0:20:18.78,0:20:21.74,NoteArial,,0,0,0,,{\fs27\1c&H09090B&\bord0\shad0\frz270\fscy70\i1\pos(245,180)}Touya Akira 3-dan{\i0}
+Comment: 0,0:20:18.78,0:20:21.74,NoteArial,,0,0,0,,{\fs28\1c&H09090B&\bord0\shad0\frz270\fscy70\i1\pos(134,180)}Shindou Hikaru First dan{\i0}
 Dialogue: 0,0:20:22.08,0:20:22.95,Thinking,,0,0,0,,I just need to wait.
+Dialogue: 0,0:20:25.75,0:20:31.21,NoteArial,,0,0,0,,{\fs72\1c&H0B070D&\bord0\shad0\blur1\frz270\fscy62\move(576,492,576,-85)}Touya Akira 3-dan
+Dialogue: 0,0:20:25.75,0:20:31.21,NoteArial,,0,0,0,,{\fs72\q2\1c&H0B070D&\bord0\shad0\blur1\frz270\fscy62\move(300,595,300,18)}Shindou Hikaru First dan
 Dialogue: 0,0:20:34.50,0:20:39.43,Thinking,,0,0,0,,They've already prepared a match between us.
 Dialogue: 0,0:22:15.83,0:22:17.46,Background,,0,0,0,,It's Black's turn on this board.
 Dialogue: 0,0:22:17.73,0:22:19.53,Default,,0,0,0,,Where would you go, Mai-chan?
