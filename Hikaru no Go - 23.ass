@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 23 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 292
-Active Line: 310
-Video Position: 29019
+Scroll Position: 307
+Active Line: 323
+Video Position: 35521
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -403,23 +403,17 @@ Dialogue: 0,0:20:05.69,0:20:09.90,Background,,0,0,0,,Kuwabara-sensei slammed the
 Dialogue: 0,0:20:10.31,0:20:14.44,Default,,0,0,0,,Hehe, you can't be getting swallowed\Nup by such obvious scare tactics.
 Dialogue: 0,0:20:14.91,0:20:17.32,Default,,0,0,0,,Kuwabara-sensei's just the type of person to do it.
 Dialogue: 0,0:20:17.94,0:20:20.78,Default,,0,0,0,,Well, let's see what happens with today's match.
-Dialogue: 0,0:22:30.58,0:22:33.36,Default,,0,0,0,,Wow, Yuki, you captured so many.
-Dialogue: 0,0:22:33.90,0:22:35.00,Default,,0,0,0,,That hurts, doesn't it, Mai?
-Dialogue: 0,0:22:35.00,0:22:35.55,Default,,0,0,0,,Yes.
-Dialogue: 0,0:22:36.01,0:22:40.10,Default,,0,0,0,,When your stones are captured in a star-shaped pattern,
-Dialogue: 0,0:22:40.10,0:22:42.10,Default,,0,0,0,,we call it {\i1}shicho{\i} (ladder).
-Dialogue: 0,0:22:42.40,0:22:44.86,Default,,0,0,0,,As Black escapes, create {\i1}atari{\i}.
-Dialogue: 0,0:22:45.47,0:22:48.04,Default,,0,0,0,,If Black escapes again, create another {\i1}atari{\i}.
-Dialogue: 0,0:22:48.04,0:22:51.07,Default,,0,0,0,,If this continues, Black cannot escape.
-Dialogue: 0,0:22:52.26,0:22:57.01,Default,,0,0,0,,If you get caught in a {\i1}shico{\i}, give up as soon as possible and look for a better move.
-Dialogue: 0,0:22:55.72,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:58.98,0:22:59.80,Default,,0,0,0,,Touya...
-Dialogue: 0,0:23:00.31,0:23:03.75,Default,,0,0,0,,you're telling me to come all this way right?
-Dialogue: 0,0:23:04.64,0:23:05.13,Default,,0,0,0,,Not yet...
-Dialogue: 0,0:23:05.95,0:23:07.09,Default,,0,0,0,,I won't defend just yet.
-Dialogue: 0,0:23:07.76,0:23:11.89,Default,,0,0,0,,Touya won't let it end here, with the way he's been playing up to now!
-Dialogue: 0,0:23:23.04,0:23:24.01,Default,,0,0,0,,I'll show you!
-Dialogue: 0,0:23:24.51,0:23:25.96,Default,,0,0,0,,Each of my moves!
+Dialogue: 0,0:22:30.58,0:22:33.36,Default,,0,0,0,,Wow, Yuuki-kun, you took a lot.
+Dialogue: 0,0:22:33.90,0:22:35.00,Default,,0,0,0,,That was harsh.
+Dialogue: 0,0:22:36.01,0:22:41.44,Default,,0,0,0,,It's called Shichou when your stones\Nget captured in this stair like shape.
+Dialogue: 0,0:22:42.39,0:22:47.73,Default,,0,0,0,,You go to Atari from where they escape,\Nand go to Atari from where they escape.
+Dialogue: 0,0:22:48.04,0:22:51.07,Default,,0,0,0,,If you continue this, black can't escape.
+Dialogue: 0,0:22:52.26,0:22:56.35,Default,,0,0,0,,If you get caught in Shichou, give\Nup as quickly as possible and look\Nfor another good place to move.
+Dialogue: 0,0:22:58.94,0:23:03.70,Default,,0,0,0,,Touya, you're... telling me to come here right?
+Dialogue: 0,0:23:04.61,0:23:06.87,Default,,0,0,0,,Not yet... I won't end it like this.
+Dialogue: 0,0:23:07.76,0:23:11.95,Default,,0,0,0,,Touya won't let it end here, with the\Nway he's been playing up to now!
+Dialogue: 0,0:23:23.04,0:23:24.01,Default,,0,0,0,,I'll show you...
+Dialogue: 0,0:23:24.47,0:23:26.05,Default,,0,0,0,,Each of my moves!
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 21 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 210
-Active Line: 231
-Video Position: 28476
+Scroll Position: 234
+Active Line: 254
+Video Position: 35555
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,25 +329,22 @@ Dialogue: 0,0:20:01.26,0:20:02.67,Default,,0,0,0,,He'll...
 Dialogue: 0,0:20:03.41,0:20:04.90,Default,,0,0,0,,probably pass.
 Dialogue: 0,0:20:05.96,0:20:07.04,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:20:07.73,0:20:08.89,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:22:12.76,0:22:15.56,Default,,0,0,0,,Today, you two will play a game.
-Dialogue: 0,0:22:16.66,0:22:18.56,Default,,0,0,0,,Onegaishimasu!
-Dialogue: 0,0:22:25.87,0:22:27.63,Default,,0,0,0,,This is a real battle to the end.
+Dialogue: 0,0:22:12.76,0:22:15.51,Default,,0,0,0,,Let's play a game today between the two of you!
+Dialogue: 0,0:22:16.66,0:22:18.56,Default,,0,0,0,,Good luck!
+Dialogue: 0,0:22:25.87,0:22:27.63,Default,,0,0,0,,You're both concentrating so hard.
 Dialogue: 0,0:22:37.05,0:22:37.73,Default,,0,0,0,,Done?
-Dialogue: 0,0:22:38.28,0:22:39.05,Default,,0,0,0,,Yes.
-Dialogue: 0,0:22:39.44,0:22:44.11,Default,,0,0,0,,Adding the komi, it's a win by... 23 points!
-Dialogue: 0,0:22:39.32,0:22:42.62,Note,,0,0,0,,When further play is meaningless, confirm the end with your opponent.
-Dialogue: 0,0:22:44.72,0:22:46.83,Default,,0,0,0,,Mai wins!
-Dialogue: 0,0:22:47.22,0:22:49.07,Default,,0,0,0,,That was a great game!
-Dialogue: 0,0:22:49.20,0:22:52.43,Default,,0,0,0,,I have a prize for Mai, the winner.
-Dialogue: 0,0:22:54.88,0:22:57.35,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:58.05,0:23:01.51,Default,,0,0,0,,He forced the teacher to make him third board because he wanted to play against me.
-Dialogue: 0,0:23:01.80,0:23:04.61,Default,,0,0,0,,The reason he joined the Go club was just to play against me...
-Dialogue: 0,0:23:04.61,0:23:05.38,Default,,0,0,0,,Hikaru!
-Dialogue: 0,0:23:05.93,0:23:06.90,Default,,0,0,0,,Really!
-Dialogue: 0,0:23:07.06,0:23:10.01,Default,,0,0,0,,I'm his, and he's my rival!
-Dialogue: 0,0:23:10.65,0:23:12.37,Default,,0,0,0,,I'll catch up eventually!
-Dialogue: 0,0:23:22.53,0:23:25.44,Default,,0,0,0,,Hikaru! You will lose at this rate.
-Dialogue: 0,0:23:25.55,0:23:27.15,Default,,0,0,0,,If you wish, once again I will...
+Dialogue: 0,0:22:38.28,0:22:39.05,Default,,0,0,0,,Yup.
+Dialogue: 0,0:22:39.44,0:22:40.97,Default,,0,0,0,,After taking away Komi...
+Dialogue: 0,0:22:40.97,0:22:44.14,Default,,0,0,0,,15... 20... 23... win!
+Dialogue: 0,0:22:44.72,0:22:46.83,Default,,0,0,0,,Mai-chan wins!
+Dialogue: 0,0:22:47.22,0:22:49.07,Default,,0,0,0,,But it was a good game!
+Dialogue: 0,0:22:49.20,0:22:52.43,Default,,0,0,0,,Well, here's a treat for Mai-chan then!
+Dialogue: 0,0:22:58.02,0:23:01.51,Default,,0,0,0,,He forcefully became third board\Nbecause he wanted to play me.
+Dialogue: 0,0:23:01.78,0:23:04.61,Default,,0,0,0,,He joined the Go club just to play me...
+Dialogue: 0,0:23:04.61,0:23:05.28,Sai,,0,0,0,,Hikaru!
+Dialogue: 0,0:23:05.91,0:23:09.95,Default,,0,0,0,,It's true! I am his, and he is my rival!
+Dialogue: 0,0:23:10.62,0:23:12.37,Default,,0,0,0,,I'll catch up to him some day!
+Dialogue: 0,0:23:22.51,0:23:27.01,Sai,,0,0,0,,Hikaru... you'll lose if it goes\Non like this... maybe I should...
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て

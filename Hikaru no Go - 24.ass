@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 24 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 177
-Active Line: 200
-Video Position: 29542
+Scroll Position: 197
+Active Line: 221
+Video Position: 35549
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -291,29 +291,27 @@ Dialogue: 0,0:20:22.61,0:20:23.33,Thinking,,0,0,0,,{\1c&HFEFECE&}As if...
 Dialogue: 0,0:20:23.73,0:20:25.58,Thinking,,0,0,0,,{\1c&HFEFECE&}The existence of Touya Akira...
 Dialogue: 0,0:20:26.74,0:20:28.58,Thinking,,0,0,0,,{\1c&HFEFECE&}was placed here by God...
 Dialogue: 0,0:20:29.42,0:20:31.67,Thinking,,0,0,0,,{\1c&HFEFECE&}to make Hikaru grow.
-Dialogue: 0,0:22:12.69,0:22:14.50,Default,,0,0,0,,Today, let's learn about {\i1}geta{\i} (net).
-Dialogue: 0,0:22:15.74,0:22:18.53,Default,,0,0,0,,There is a good move to capture this single white stone.
-Dialogue: 0,0:22:18.53,0:22:20.16,Default,,0,0,0,,Where would that be?
-Dialogue: 0,0:22:20.41,0:22:21.78,Default,,0,0,0,,Think about it, Yuki.
-Dialogue: 0,0:22:23.49,0:22:24.53,Default,,0,0,0,,If I go here...
-Dialogue: 0,0:22:25.54,0:22:27.56,Default,,0,0,0,,And if I go here...
-Dialogue: 0,0:22:27.56,0:22:29.60,Default,,0,0,0,,Yes, good job!
-Dialogue: 0,0:22:29.97,0:22:32.14,Default,,0,0,0,,Playing here to stop your
-Dialogue: 0,0:22:32.14,0:22:35.56,Default,,0,0,0,,opponent's movement is called {\i1}geta{\i}.
-Dialogue: 0,0:22:36.34,0:22:38.03,Default,,0,0,0,,Mai, how about this one?
-Dialogue: 0,0:22:38.55,0:22:39.04,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:40.13,0:22:41.20,Default,,0,0,0,,And if I go here...
-Dialogue: 0,0:22:43.58,0:22:44.69,Default,,0,0,0,,I'll go here.
-Dialogue: 0,0:22:47.97,0:22:50.78,Default,,0,0,0,,Yes, you succeeded in capturing them!
-Dialogue: 0,0:22:51.88,0:22:55.10,Default,,0,0,0,,{\i1}Geta{\i0} occur often in games, so take this opportunity to learn it.
-Dialogue: 0,0:22:55.22,0:22:56.08,Default,,0,0,0,,All right!
-Dialogue: 0,0:22:55.47,0:22:57.37,Note,,0,0,0,,To be continued
+Dialogue: 0,0:22:12.69,0:22:14.50,Default,,0,0,0,,Let's study "Geta" today.
+Dialogue: 0,0:22:15.74,0:22:18.53,Default,,0,0,0,,There is a good way to\Ncapture this single white stone.
+Dialogue: 0,0:22:18.56,0:22:19.98,Default,,0,0,0,,Where is that?
+Dialogue: 0,0:22:20.40,0:22:21.87,Default,,0,0,0,,Think about it Yuuki-kun.
+Dialogue: 0,0:22:23.49,0:22:24.57,Default,,0,0,0,,If I move here?
+Dialogue: 0,0:22:26.62,0:22:27.56,Default,,0,0,0,,If I move here?
+Dialogue: 0,0:22:27.56,0:22:29.60,Default,,0,0,0,,Yup you captured it. Well done!
+Dialogue: 0,0:22:29.96,0:22:35.56,Default,,0,0,0,,We call moving here and preventing\Nyour opponent from moving out "Geta".
+Dialogue: 0,0:22:36.34,0:22:38.03,Default,,0,0,0,,Mai-chan, how about this time?
+Dialogue: 0,0:22:38.55,0:22:39.04,Default,,0,0,0,,Here!
+Dialogue: 0,0:22:40.13,0:22:41.20,Default,,0,0,0,,If I move here?
+Dialogue: 0,0:22:43.58,0:22:44.69,Default,,0,0,0,,And I go here?
+Dialogue: 0,0:22:47.97,0:22:50.78,Default,,0,0,0,,Yes, you captured the stones!
+Dialogue: 0,0:22:51.88,0:22:55.10,Default,,0,0,0,,"Geta" appears in matches a\Nlot, so let's all remember it.
+Dialogue: 0,0:22:55.22,0:22:56.08,Default,,0,0,0,,Yes teacher!
 Dialogue: 0,0:22:58.88,0:23:01.16,Default,,0,0,0,,I'll rise up to first class right away!
 Dialogue: 0,0:23:01.62,0:23:03.33,Default,,0,0,0,,I want to go to the Wakajishisen!
-Dialogue: 0,0:23:03.73,0:23:05.52,Default,,0,0,0,,No, I have to go!
+Dialogue: 0,0:23:03.53,0:23:05.52,Default,,0,0,0,,No, I have to go!
 Dialogue: 0,0:23:05.91,0:23:09.22,Default,,0,0,0,,Otherwise, I can't say "To defeat Touya Akira" anymore!
-Dialogue: 0,0:23:10.02,0:23:12.11,Default,,0,0,0,,Hikaru you are afraid.
-Dialogue: 0,0:23:23.21,0:23:26.10,Default,,0,0,0,,My moves that cut into you on the board.
+Dialogue: 0,0:23:09.99,0:23:12.11,Sai,,0,0,0,,Hikaru you are afraid.
+Dialogue: 0,0:23:23.17,0:23:26.10,Sai,,0,0,0,,My moves that cut into you on the board.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 315
-Active Line: 340
-Video Position: 29709
+Scroll Position: 326
+Active Line: 346
+Video Position: 35171
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -420,27 +420,24 @@ Dialogue: 0,0:19:27.76,0:19:30.73,Default,,0,0,0,,Playing an Insei will dull you
 Dialogue: 0,0:19:31.31,0:19:36.44,Default,,0,0,0,,It's an important match, that's why I\Nwant some of Shindou-kun's passion.
 Dialogue: 0,0:19:37.34,0:19:39.78,Default,,0,0,0,,It's all over if you've lost emotionally.
 Dialogue: 0,0:19:40.65,0:19:42.25,Default,,0,0,0,,Right Shindou-kun?
-Dialogue: 0,0:19:43.27,0:19:44.90,Thinking,,0,0,0,,Don't lose... emotionally...
+Dialogue: 0,0:19:43.25,0:19:44.90,Thinking,,0,0,0,,Don't lose... emotionally...
 Dialogue: 0,0:19:53.93,0:19:57.09,Thinking,,0,0,0,,I'm going to go! I'll definitely...
-Dialogue: 0,0:19:57.50,0:20:01.27,Default,,0,0,0,,Then let's play. It's not a game of tutoring Go.
+Dialogue: 0,0:19:57.47,0:20:01.27,Default,,0,0,0,,Then let's play. It's not a game of tutoring Go.
 Dialogue: 0,0:20:02.24,0:20:03.26,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:20:08.14,0:20:13.27,Thinking,,0,0,0,,Turn my fear into courage... and\Nmove in as much as possible...
+Dialogue: 0,0:20:08.10,0:20:13.27,Thinking,,0,0,0,,Turn my fear into courage... and\Nmove in as much as possible...
 Dialogue: 0,0:20:16.87,0:20:19.62,Thinking,,0,0,0,,Touya won't wait for me forever!
 Dialogue: 0,0:20:20.29,0:20:23.63,Thinking,,0,0,0,,No, he keeps on moving forward!
 Dialogue: 0,0:20:27.80,0:20:29.12,Thinking,,0,0,0,,A little more than a month left.
 Dialogue: 0,0:20:29.77,0:20:33.39,Thinking,,0,0,0,,I have to rise up to sixteenth in first class by then,
-Dialogue: 0,0:20:34.37,0:20:35.80,Thinking,,0,0,0,,and participate in the Wakajishisen!
+Dialogue: 0,0:20:34.34,0:20:35.80,Thinking,,0,0,0,,and participate in the Wakajishisen!
 Dialogue: 0,0:20:37.42,0:20:38.88,Thinking,,0,0,0,,To play against Touya!
-Dialogue: 0,0:22:13.24,0:22:15.86,Thinking,,0,0,0,,We're here at the Japan Go Association
-Dialogue: 0,0:22:16.20,0:22:17.62,Thinking,,0,0,0,,On March 29,
-Dialogue: 0,0:22:17.62,0:22:20.44,Thinking,,0,0,0,,the awards for 2001 were presented.
-Dialogue: 0,0:22:21.35,0:22:25.70,Note,,0,0,0,,35th Kido Award\NMost Outstanding Professional\NRissei O Kisei (10-dan)
-Dialogue: 0,0:22:26.39,0:22:28.81,Note,,0,0,0,,35th Kido Award\NOutstanding Player\NKaiho Rin (9-dan)
-Dialogue: 0,0:22:59.30,0:23:02.59,Default,,0,0,0,,Your opponents from today, are us, the first class.
-Dialogue: 0,0:23:03.57,0:23:05.63,Default,,0,0,0,,I'm climbing much higher!
-Dialogue: 0,0:23:07.57,0:23:08.88,Default,,0,0,0,,Y-You...
-Dialogue: 0,0:23:09.48,0:23:11.42,Default,,0,0,0,,How do you know about my conversation with Sai?
-Dialogue: 0,0:23:22.82,0:23:25.04,Default,,0,0,0,,Is he Sai after all?
+Dialogue: 0,0:22:13.22,0:22:15.86,Default,,0,0,0,,We're at the Japanese Go Institute right now.
+Dialogue: 0,0:22:16.20,0:22:20.45,Default,,0,0,0,,The 2002 Annual Awards\NCeremony occurred on March 29th.
+Dialogue: 0,0:22:59.27,0:23:02.59,Default,,0,0,0,,Your opponents from today, are us, the first class.
+Dialogue: 0,0:23:03.53,0:23:05.63,Background,,0,0,0,,I'm climbing much higher!
+Dialogue: 0,0:23:07.57,0:23:08.88,Background,,0,0,0,,Y-You...
+Dialogue: 0,0:23:09.45,0:23:11.54,Background,,0,0,0,,How do you know about my conversation with Sai?
+Dialogue: 0,0:23:22.80,0:23:25.04,Background,,0,0,0,,Is he Sai after all?
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て

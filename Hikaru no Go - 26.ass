@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 305
-Active Line: 330
-Video Position: 29439
+Scroll Position: 329
+Active Line: 349
+Video Position: 35529
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -421,26 +421,25 @@ Dialogue: 0,0:20:21.38,0:20:25.00,Default,,0,0,0,,I'll be looking forward to the
 Dialogue: 0,0:20:25.20,0:20:26.96,Default,,0,0,0,,Good bye! Tsutsui-san!
 Dialogue: 0,0:20:27.04,0:20:27.75,Default,,0,0,0,,Please write.
 Dialogue: 0,0:20:27.75,0:20:29.58,Default,,0,0,0,,Watch me Tsutsui-san!
-Dialogue: 0,0:20:34.84,0:20:37.51,Thinking,,0,0,0,,I... really will be working hard!
-Dialogue: 0,0:22:13.00,0:22:15.88,Default,,0,0,0,,This is Yuta Iyama, who turned pro this year.
+Dialogue: 0,0:20:34.80,0:20:37.51,Thinking,,0,0,0,,I... really will be working hard!
+Dialogue: 0,0:22:13.01,0:22:15.88,Default,,0,0,0,,This is Iyama Yuuta-kun who\Njust became pro this year.
 Dialogue: 0,0:22:16.30,0:22:18.20,Default,,0,0,0,,He's still just a 7th grader.
 Dialogue: 0,0:22:18.67,0:22:21.86,Default,,0,0,0,,Do you have time to play with your friends?
 Dialogue: 0,0:22:21.86,0:22:30.28,Default,,0,0,0,,I play games with my friends on Mondays and Wednesdays after school.
-Dialogue: 0,0:22:30.46,0:22:32.62,Default,,0,0,0,,Which do you enjoy more, schoolwork or study Go?
-Dialogue: 0,0:22:33.11,0:22:36.03,Default,,0,0,0,,Studying Go is harder work.
+Dialogue: 0,0:22:30.46,0:22:32.62,Default,,0,0,0,,Which do you prefer, studying for school or Go?
+Dialogue: 0,0:22:33.09,0:22:36.40,Default,,0,0,0,,Studying Go is more work...
 Dialogue: 0,0:22:36.82,0:22:40.00,Default,,0,0,0,,Please tell us what kind of girl you like.
 Dialogue: 0,0:22:40.67,0:22:42.26,Default,,0,0,0,,I like kind-hearted girls.
-Dialogue: 0,0:22:42.97,0:22:45.76,Default,,0,0,0,,Please tell us your goals for the future.
-Dialogue: 0,0:22:45.85,0:22:49.42,Default,,0,0,0,,I'd like to become a player capable of winning titles,
-Dialogue: 0,0:22:50.95,0:22:53.40,Default,,0,0,0,,and able to compete on a worldwide level.
+Dialogue: 0,0:22:42.97,0:22:45.72,Default,,0,0,0,,Your Goals for the future?
+Dialogue: 0,0:22:45.85,0:22:49.42,Default,,0,0,0,,Of course, I'd like to be good enough for a title.
+Dialogue: 0,0:22:49.94,0:22:54.10,Default,,0,0,0,,I'd also like to be a competitive world class player.
 Dialogue: 0,0:22:54.46,0:22:57.05,Default,,0,0,0,,Thank you very much!
-Dialogue: 0,0:22:54.27,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:59.31,0:23:02.24,Default,,0,0,0,,Seems like it's become lonely here at the Go club.
-Dialogue: 0,0:23:03.03,0:23:03.80,Default,,0,0,0,,Mitani-kun!
-Dialogue: 0,0:23:04.57,0:23:08.03,Default,,0,0,0,,Hikaru just dropped by today.
-Dialogue: 0,0:23:08.90,0:23:12.15,Default,,0,0,0,,I don't care whether Shindou's here or not.
-Dialogue: 0,0:23:23.18,0:23:23.88,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:23:24.72,0:23:26.35,Default,,0,0,0,,Please don't come anymore.
+Dialogue: 0,0:22:59.27,0:23:02.28,Sai,,0,0,0,,It's gotten really lonely here at the Go club...
+Dialogue: 0,0:22:59.57,0:23:02.78,NoteArialEF,,0,0,0,,{\fs25\1c&HFFFFFF&\bord0\shad0\b0\pos(272,63)}Chemistry Lab{\b1}
+Dialogue: 0,0:23:03.03,0:23:08.12,Default,,0,0,0,,Mitani-kun! Hikaru just dropped\Nby today coincidentally...
+Dialogue: 0,0:23:08.91,0:23:12.00,Default,,0,0,0,,I don't care whether Shindou's there or not.
+Dialogue: 0,0:23:23.13,0:23:23.88,Default,,0,0,0,,Hikaru...
+Dialogue: 0,0:23:24.67,0:23:26.38,Default,,0,0,0,,please don't come anymore...
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
