@@ -48,9 +48,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 
 5: Intro texts such as "Elite-Fansubs presents" and "Real-Fansubbers presents".
 
-6: Perfectly recreated the FANTASY (Opening 3) for episodes 61-75 karaoke.
-
-The project is currently ~92% complete. Please refer to "Everything yet to do.pdf" for what remains.
+6: Perfectly recreated the FANTASY (Opening 3 plus karaoke) for episodes 61-75.
 
 ### Status Legend
 - ✅ Complete
