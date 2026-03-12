@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 246
-Active Line: 267
-Video Position: 29564
+Scroll Position: 258
+Active Line: 282
+Video Position: 35489
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -358,22 +358,21 @@ Dialogue: 0,0:20:22.48,0:20:24.49,Default,,0,0,0,,But why is it three stones!?
 Dialogue: 0,0:20:24.91,0:20:26.99,Default,,0,0,0,,You lost every game today at three stones!
 Dialogue: 0,0:20:27.15,0:20:30.02,Default,,0,0,0,,I'll make it four stones if I lose\Nevery game tomorrow too.
 Dialogue: 0,0:20:30.02,0:20:32.75,Default,,0,0,0,,Like I said! Who said I was coming tomorrow!
-Dialogue: 0,0:22:12.85,0:22:14.40,Default,,0,0,0,,Today's topic is "Fuseki."
-Dialogue: 0,0:22:14.69,0:22:17.00,Default,,0,0,0,,Fuseki is the first stage in a game of Go.
-Dialogue: 0,0:22:27.18,0:22:30.31,Default,,0,0,0,,Both players declare which area is their territory.
-Dialogue: 0,0:22:35.49,0:22:39.43,Default,,0,0,0,,In this situation this area might become Black's territory.
-Dialogue: 0,0:22:39.89,0:22:42.98,Default,,0,0,0,,And this area might become White's territory.
-Dialogue: 0,0:22:44.43,0:22:47.73,Default,,0,0,0,,Black's territory looks bigger, so let's suppose White moves in.
-Dialogue: 0,0:22:48.22,0:22:50.95,Default,,0,0,0,,When this happens, the {\i1}fuseki{\i} is over, and the battle begins.
-Dialogue: 0,0:22:51.79,0:22:55.07,Default,,0,0,0,,It is important to keep a balance with your opponent.
-Dialogue: 0,0:22:55.17,0:22:55.67,Default,,0,0,0,,Right!
-Dialogue: 0,0:22:55.17,0:22:57.36,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:57.37,0:23:03.36,Note,,0,0,0,,9th Wakajishisen
-Dialogue: 0,0:22:59.84,0:23:02.52,Default,,0,0,0,,I thought Mashiba-san would put up more of a fight.
-Dialogue: 0,0:23:02.91,0:23:04.82,Default,,0,0,0,,You can't tell who's the pro.
-Dialogue: 0,0:23:06.18,0:23:09.54,Default,,0,0,0,,Huh! It's meaningless to beat me at a place like this!
-Dialogue: 0,0:23:09.94,0:23:12.21,Default,,0,0,0,,It's all meaningless unless you pass the pro exams.
-Dialogue: 0,0:23:23.47,0:23:24.89,Default,,0,0,0,,Mashiba! You bastard!
+Dialogue: 0,0:22:12.84,0:22:14.40,Default,,0,0,0,,Let's do "Fuseki" today.
+Dialogue: 0,0:22:14.69,0:22:17.00,Default,,0,0,0,,Fuseki is the first stage of a game of Go.
+Dialogue: 0,0:22:27.18,0:22:30.31,Default,,0,0,0,,You start declaring which areas you\Nwant to make your own territory.
+Dialogue: 0,0:22:35.49,0:22:39.43,Default,,0,0,0,,In this were to happen, this area\Nmight become black's territory.
+Dialogue: 0,0:22:39.89,0:22:42.98,Default,,0,0,0,,This area here may become white's territory.
+Dialogue: 0,0:22:44.43,0:22:47.73,Default,,0,0,0,,Black's territory looks larger, so\Nlet's say that white moves in.
+Dialogue: 0,0:22:48.19,0:22:50.95,Default,,0,0,0,,When this happens, the Fuseki\Nis over and a fight begins.
+Dialogue: 0,0:22:51.70,0:22:55.03,Default,,0,0,0,,It's important to play the "Fuseki" portion while\Ntrying to maintain a balance with your opponent.
+Dialogue: 0,0:22:55.17,0:22:55.72,Default,,0,0,0,,Yup!
+Dialogue: 0,0:22:57.37,0:23:03.36,Note,,0,0,0,,{\fs45\1c&H000000&\3c&HFFFFFF&\bord1\shad0\pos(320,44)}The Ninth Wakajishisen
+Dialogue: 0,0:22:59.82,0:23:02.52,Default,,0,0,0,,I thought Mashiba-san would be a little better than that.
+Dialogue: 0,0:23:02.86,0:23:04.82,Default,,0,0,0,,I wonder which one's the pro.
+Dialogue: 0,0:23:06.18,0:23:09.54,Default,,0,0,0,,Heh! Beating me at a place like this is meaningless.
+Dialogue: 0,0:23:09.91,0:23:12.21,Default,,0,0,0,,You're worthless unless you pass the pro exam.
+Dialogue: 0,0:23:23.42,0:23:24.76,Default,,0,0,0,,Why you! Mashiba!
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て

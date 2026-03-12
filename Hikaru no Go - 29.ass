@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 29 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 228
-Active Line: 253
-Video Position: 29582
+Scroll Position: 249
+Active Line: 263
+Video Position: 35511
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -344,19 +344,16 @@ Dialogue: 0,0:20:25.95,0:20:27.70,Default,,0,0,0,,I can't believe you know that 
 Dialogue: 0,0:20:28.41,0:20:30.43,Default,,0,0,0,,There was quite a commotion over him.
 Dialogue: 0,0:20:31.23,0:20:32.92,Default,,0,0,0,,So Kadowaki is...
 Dialogue: 0,0:20:33.75,0:20:38.51,Background,,0,0,0,,I saw it on the net. That Kadowaki\Nis taking the pro exams...
-Dialogue: 0,0:22:13.14,0:22:16.12,Default,,0,0,0,,The popular "Hikaru no Go" beginners Go class
-Dialogue: 0,0:22:16.33,0:22:18.52,Default,,0,0,0,,is being held again on a nationwide scale.
-Dialogue: 0,0:22:18.77,0:22:22.07,Default,,0,0,0,,I am here at one of those locations, Okinawa.
-Dialogue: 0,0:22:22.20,0:22:24.30,Default,,0,0,0,,I'm with Women's Kisei, Kaori Chinen.
-Dialogue: 0,0:22:25.97,0:22:30.77,Default,,0,0,0,,I'd like you all to enjoy Go the way Hikaru does.
-Dialogue: 0,0:22:51.92,0:22:53.83,Default,,0,0,0,,Working with the children of Okinawa today,
-Dialogue: 0,0:22:53.99,0:22:56.57,Default,,0,0,0,,I learned just how far Go has spread throughout Japan.
-Dialogue: 0,0:22:55.45,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:58.97,0:23:00.69,Default,,0,0,0,,Kadowaki, gotta watch out for him.
-Dialogue: 0,0:23:01.24,0:23:04.90,Default,,0,0,0,,Might as well warm up a bit for the pro exams.
+Dialogue: 0,0:22:13.14,0:22:18.51,Default,,0,0,0,,{\an8}The "Hikaru no Go" Go class for beginners we\Nhad last time, was held nationally this time.
+Dialogue: 0,0:22:18.77,0:22:22.07,Default,,0,0,0,,Right now I am at one of those\Nlocations in Okinawa.
+Dialogue: 0,0:22:22.20,0:22:24.30,Default,,0,0,0,,I'm with Women's Kisei Chinen Kaori!
+Dialogue: 0,0:22:25.95,0:22:30.77,Default,,0,0,0,,I'd like all of you to enjoy Go like\Nthe way Hikaru is right now.
+Dialogue: 0,0:22:51.92,0:22:56.57,Default,,0,0,0,,I learned exactly how far advanced\Nthey were at Go from interacting with\Nthe children of Okinawa today.
+Dialogue: 0,0:22:58.94,0:23:00.69,Default,,0,0,0,,Gotta watch out for Kadowaki.
+Dialogue: 0,0:23:01.19,0:23:04.90,Default,,0,0,0,,Ready to register for the pro exams,\Nso might as well warm up a bit.
 Dialogue: 0,0:23:05.88,0:23:08.22,Default,,0,0,0,,People do make mistakes.
-Dialogue: 0,0:23:09.14,0:23:11.85,Default,,0,0,0,,I have no intentions of listening to an old man's ramblings.
-Dialogue: 0,0:23:22.99,0:23:25.52,Default,,0,0,0,,Leave it to me.
+Dialogue: 0,0:23:09.12,0:23:11.85,Default,,0,0,0,,I have no intention of paying heed\Nto an old man's ramblings.
+Dialogue: 0,0:23:22.96,0:23:25.52,Default,,0,0,0,,Leave it to me.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て

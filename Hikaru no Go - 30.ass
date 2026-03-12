@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 20
-Active Line: 22
-Video Position: 4420
+Scroll Position: 184
+Active Line: 201
+Video Position: 35433
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -279,20 +279,19 @@ Dialogue: 0,0:20:18.38,0:20:21.61,Sai,,0,0,0,,You're finally here? Your journey 
 Dialogue: 0,0:20:22.04,0:20:23.36,Default,,0,0,0,,I know!
 Dialogue: 0,0:20:24.09,0:20:27.44,Default,,0,0,0,,But... I really am here...
 Dialogue: 0,0:20:28.59,0:20:31.81,Thinking,,0,0,0,,The first day of the Pro Exam Preliminaries!
-Dialogue: 0,0:22:12.59,0:22:17.17,Default,,0,0,0,,The "Igo Asia Cup in Okinawa" was held between March 22 and 23.
-Dialogue: 0,0:22:29.41,0:22:32.46,Default,,0,0,0,,The Korean team scored an overwhelming victory.
-Dialogue: 0,0:22:33.45,0:22:36.10,Default,,0,0,0,,Please say a few words to our young Go fans out there.
-Dialogue: 0,0:22:36.59,0:22:42.05,Default,,0,0,0,,The manga Hikaru no Go is very interesting.
-Dialogue: 0,0:22:42.37,0:22:44.92,Default,,0,0,0,,Learning Go is a lot of fun.
-Dialogue: 0,0:22:44.92,0:22:48.48,Default,,0,0,0,,Children in Japan,
-Dialogue: 0,0:22:49.26,0:22:52.79,Default,,0,0,0,,Go is easy to learn, so please learn it and have fun!
-Dialogue: 0,0:22:53.23,0:22:55.09,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:22:55.09,0:22:57.09,Note,,0,0,0,,To be continued
-Dialogue: 0,0:23:00.55,0:23:02.80,Default,,0,0,0,,Hikaru... are you nervous?
-Dialogue: 0,0:23:03.99,0:23:05.85,Default,,0,0,0,,It doesn't matter who my opponent is!
-Dialogue: 0,0:23:07.27,0:23:09.38,Default,,0,0,0,,I calmed down with those 30 minutes.
-Dialogue: 0,0:23:09.91,0:23:12.07,Default,,0,0,0,,While you probably became upset.
-Dialogue: 0,0:23:22.77,0:23:25.69,Default,,0,0,0,,Shindou can't do it...
+Dialogue: 0,0:22:12.59,0:22:17.17,Default,,0,0,0,,The "Igo Asia Cup in Okinawa" was\Nheld between March 22nd and 23rd.
+Dialogue: 0,0:22:29.41,0:22:32.46,Default,,0,0,0,,Korea won with a commanding lead.
+Dialogue: 0,0:22:33.45,0:22:36.10,Default,,0,0,0,,Please give a word to the young Go fans out there.
+Dialogue: 0,0:22:36.59,0:22:39.43,Default,,0,0,0,,The manga for Hikaru no Go is a lot of fun,
+Dialogue: 0,0:22:39.52,0:22:43.87,Default,,0,0,0,,and Go is in it too. But the way they\Npresent Go is very interesting...
+Dialogue: 0,0:22:43.87,0:22:46.51,Default,,0,0,0,,...and it makes learning Go very easy.
+Dialogue: 0,0:22:46.59,0:22:51.48,Default,,0,0,0,,The kids of Japan, umm... Go is easy\Nto learn, so please learn Go.
+Dialogue: 0,0:22:51.80,0:22:52.71,Default,,0,0,0,,And enjoy it!
+Dialogue: 0,0:22:53.23,0:22:54.90,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:23:00.53,0:23:02.86,Sai,,0,0,0,,Hikaru, aren't you nervous?
+Dialogue: 0,0:23:03.95,0:23:05.82,Default,,0,0,0,,It doesn't matter who my opponent is!
+Dialogue: 0,0:23:07.24,0:23:12.04,Default,,0,0,0,,I calmed down during those thirty minutes.\NWhile you became upset instead.
+Dialogue: 0,0:23:22.77,0:23:25.69,Default,,0,0,0,,Shindou... he's going to fail.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て

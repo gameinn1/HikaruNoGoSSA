@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 28 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 203
-Active Line: 226
-Video Position: 29073
+Scroll Position: 215
+Active Line: 249
+Video Position: 35510
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -318,30 +318,28 @@ Dialogue: 0,0:19:59.00,0:20:01.75,Sai,,0,0,0,,But... you were a little too late.
 Dialogue: 0,0:20:04.30,0:20:09.27,Sai,,0,0,0,,But he saw Hikaru's wonderful play from earlier.
 Dialogue: 0,0:20:12.55,0:20:20.20,Sai,,0,0,0,,Can Touya see from this board, from\Nthese unusual patterns of stones?
 Dialogue: 0,0:20:22.29,0:20:24.55,Sai,,0,0,0,,Can he see the moves that occurred?
-Dialogue: 0,0:22:14.50,0:22:17.12,Default,,0,0,0,,Yuki, you always start at the {\i1}tengen{\i} point.
-Dialogue: 0,0:22:17.35,0:22:20.78,Default,,0,0,0,,But Hikaru and Sai start at the corners. Why is that?
-Dialogue: 0,0:22:21.24,0:22:23.93,Default,,0,0,0,,There's a reason for that.
-Dialogue: 0,0:22:23.93,0:22:28.58,Default,,0,0,0,,I've made equal territories at the corner, side and center.
-Dialogue: 0,0:22:28.75,0:22:32.53,Default,,0,0,0,,Let's count how many moves it takes to create each territory.
-Dialogue: 0,0:22:32.74,0:22:33.54,Default,,0,0,0,,In the center?
-Dialogue: 0,0:22:33.75,0:22:34.43,Default,,0,0,0,,Eight moves.
-Dialogue: 0,0:22:34.72,0:22:35.49,Default,,0,0,0,,Along the side?
-Dialogue: 0,0:22:35.49,0:22:36.34,Default,,0,0,0,,Six moves.
-Dialogue: 0,0:22:36.52,0:22:37.37,Default,,0,0,0,,And in the corner?
-Dialogue: 0,0:22:37.37,0:22:38.24,Default,,0,0,0,,Four moves.
-Dialogue: 0,0:22:38.24,0:22:42.56,Default,,0,0,0,,You see? The corner territory required the fewest moves.
-Dialogue: 0,0:22:42.73,0:22:46.23,Default,,0,0,0,,Common locations are the corner star points,
-Dialogue: 0,0:22:46.23,0:22:49.34,Default,,0,0,0,,and the place above it, called {\i1}komoku{\i}.
-Dialogue: 0,0:22:50.13,0:22:51.47,Default,,0,0,0,,Okay, let's begin.
-Dialogue: 0,0:22:51.74,0:22:52.81,Default,,0,0,0,,Onegaishimasu.
-Dialogue: 0,0:22:52.81,0:22:54.16,Default,,0,0,0,,Onegaishimasu.
-Dialogue: 0,0:22:55.68,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:58.68,0:23:00.18,Default,,0,0,0,,I want to become stronger...
-Dialogue: 0,0:23:00.62,0:23:01.60,Default,,0,0,0,,I want to play more...
-Dialogue: 0,0:23:02.00,0:23:05.42,Default,,0,0,0,,Has Shindou gained that much strength compared to the pros!?
-Dialogue: 0,0:23:05.74,0:23:10.35,Default,,0,0,0,,And I would like to be the one here to greet them,
-Dialogue: 0,0:23:10.55,0:23:12.30,Default,,0,0,0,,as a title holder.
-Dialogue: 0,0:23:23.17,0:23:25.52,Default,,0,0,0,,Kuwabara Honinbou?
+Dialogue: 0,0:22:14.50,0:22:17.12,Default,,0,0,0,,{\an8}Yuuki-kun, you always start\Nplay at the Tengen every time.
+Dialogue: 0,0:22:17.35,0:22:20.82,Default,,0,0,0,,{\an8}But Hikaru and Sai, start from the corners.
+Dialogue: 0,0:22:21.24,0:22:23.93,Default,,0,0,0,,{\an8}There's actually a reason to that.
+Dialogue: 0,0:22:23.93,0:22:28.76,Default,,0,0,0,,{\an8}I tried making the same sized territory\Nin the corner, side, and center.
+Dialogue: 0,0:22:28.75,0:22:32.53,Default,,0,0,0,,{\an8}Let's count how many moves were\Nnecessary in making these territories.
+Dialogue: 0,0:22:32.74,0:22:33.54,Default,,0,0,0,,{\an8}In the center?
+Dialogue: 0,0:22:33.75,0:22:34.43,Default,,0,0,0,,{\an8}Eight moves.
+Dialogue: 0,0:22:34.72,0:22:35.49,Default,,0,0,0,,{\an8}The side?
+Dialogue: 0,0:22:35.46,0:22:36.34,Default,,0,0,0,,{\an8}Six moves.
+Dialogue: 0,0:22:36.52,0:22:37.37,Default,,0,0,0,,{\an8}The corner?
+Dialogue: 0,0:22:37.33,0:22:38.24,Default,,0,0,0,,{\an8}Four moves.
+Dialogue: 0,0:22:38.24,0:22:42.56,Default,,0,0,0,,{\an8}Yup. We made the territory in the\Ncorner with the fewest moves.
+Dialogue: 0,0:22:42.72,0:22:46.23,Default,,0,0,0,,{\an8}One place that's commonly played at are\Nthese marks in the corners, the stars.
+Dialogue: 0,0:22:46.23,0:22:49.34,Default,,0,0,0,,{\an8}And, the place one above it, the Komoku.
+Dialogue: 0,0:22:50.13,0:22:51.47,Default,,0,0,0,,{\an8}Let's start then.
+Dialogue: 0,0:22:51.73,0:22:52.86,Default,,0,0,0,,{\an8}Good luck!
+Dialogue: 0,0:22:52.81,0:22:54.16,Default,,0,0,0,,{\an8}Good luck!
+Dialogue: 0,0:22:58.65,0:23:00.18,Background,,0,0,0,,I want to become stronger...
+Dialogue: 0,0:23:00.62,0:23:01.60,Background,,0,0,0,,I want to play more!
+Dialogue: 0,0:23:02.00,0:23:05.42,Background,,0,0,0,,Shindou has become that\Nstrong relative to the pros!?
+Dialogue: 0,0:23:05.74,0:23:12.29,Background,,0,0,0,,I want to be the ones to meet them\Nwhen that happens... as a title holder.
+Dialogue: 0,0:23:23.13,0:23:25.51,Background,,0,0,0,,Kuwabara Honinbou?
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
