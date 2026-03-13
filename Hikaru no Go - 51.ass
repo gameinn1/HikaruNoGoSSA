@@ -16,10 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 346
-Active Line: 369
-Video Position: 28318
+Video Zoom Percent: 0.750000
+Active Line: 8
+Video Position: 3325
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,8 +96,8 @@ Dialogue: 0,0:02:04.29,0:02:07.04,Background,,0,0,0,,They're not all playing gam
 Dialogue: 0,0:02:07.37,0:02:09.23,Background,,0,0,0,,There are tutoring games and lectures, too!
 Dialogue: 0,0:02:09.57,0:02:13.19,Default,,0,0,0,,But... wow, there are a lot of people here.
 Dialogue: 0,0:02:15.03,0:02:17.33,Sai,,0,0,0,,Hikaru, Hikaru! Over there!
-Dialogue: 0,0:02:17.74,0:02:18.24,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\bord0\fscy80\frz359\shad0\pos(76,106)}{\alpha&HFF&}Net {\alpha&H00&}Go Corner
-Dialogue: 0,0:02:18.24,0:02:20.75,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\bord0\shad0\fscy80\frz359\pos(76,106)}Net Go Corner
+Dialogue: 0,0:02:17.74,0:02:18.24,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\blur1\bord0\fscy80\frz359\shad0\pos(75,106)}{\alpha&HFF&}Net {\alpha&H00&}Go Corner
+Dialogue: 0,0:02:18.24,0:02:20.75,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\blur1\bord0\shad0\fscy80\frz359\pos(75,106)}Net Go Corner
 Dialogue: 0,0:02:21.84,0:02:26.76,Thinking,,0,0,0,,I guess this'll cheer Sai up a bit. I'm glad we came.
 Dialogue: 0,0:02:29.02,0:02:31.55,Memory,,0,0,0,,I wanted to play you with no handicap.
 Dialogue: 0,0:02:38.43,0:02:41.01,Memory,,0,0,0,,Next time, let us play an even game.
