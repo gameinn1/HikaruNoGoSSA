@@ -32,9 +32,12 @@ Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format
 This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-v16.zip (compiled via fonts collector). Once extracted, right click and install them.
 
 ## Intro/Progress
+
+### Currently about ~96% completion.
+
 I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were some problems. Most of the time they did not assign styles/missed notes so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see Everything yet to do pdf page2/3 for examples).
 
-I wanted to get the actual subs done and I am happy to say that on January 2nd 2026, the main subs for 62 to 75 were complete! After that I decided to go back to the start to style/do signs and check timing for what gabest11 had done.
+I wanted to get the actual subs done and I am happy to say that on January 2nd 2026, the main subs for 62 to 75 were complete! After that I decided to go back to the start to style/do signs and check timing for what gabest11 had done. On March 12th 2026, the main anime and all ending igo plus next episode previews are now E-F/R-F versions.
 
 I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
