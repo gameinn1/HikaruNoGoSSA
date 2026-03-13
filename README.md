@@ -52,7 +52,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 
 ### Status Legend
 - ✅ Complete
-- ☑️ Subbed/checked/notes done but no signs
+- ☑️ Subbed/checked but no signs
 - ❗ No subtitles exist
   
 | Episode | Subbed | Checked/Styled | Ending Igo |
