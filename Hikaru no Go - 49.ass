@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 195
-Active Line: 213
-Video Position: 29650
+Scroll Position: 213
+Active Line: 233
+Video Position: 35510
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -306,24 +306,24 @@ Dialogue: 0,0:20:26.79,0:20:31.22,Thinking,,0,0,0,,Shindou Hikaru made my father
 Dialogue: 0,0:20:36.63,0:20:39.13,Thinking,,0,0,0,,Just who is Shindou?
 Dialogue: 0,0:22:13.01,0:22:14.85,Default,,0,0,0,,We'll be doing Yose today.
 Dialogue: 0,0:22:15.47,0:22:18.09,Default,,0,0,0,,Yose is the last step in Igo.
-Dialogue: 0,0:22:18.09,0:22:21.69,Default,,0,0,0,,It's when you make the borders between your territories clear at the end of the game.
+Dialogue: 0,0:22:18.09,0:22:21.69,Default,,0,0,0,,It's when you make the borders between\Nyour territories clear at the end of the game.
 Dialogue: 0,0:22:21.99,0:22:23.88,Default,,0,0,0,,Let's take a look at this.
-Dialogue: 0,0:22:24.21,0:22:27.98,Default,,0,0,0,,The border between black and white isn't completely set here.
-Dialogue: 0,0:22:28.30,0:22:32.89,Default,,0,0,0,,What should White do to reduce Black's territory as much as possible?
+Dialogue: 0,0:22:24.21,0:22:27.98,Background,,0,0,0,,The border between black and\Nwhite isn't completely set here.
+Dialogue: 0,0:22:28.30,0:22:32.89,Background,,0,0,0,,What should White do to reduce\NBlack's territory as much as possible?
 Dialogue: 0,0:22:33.60,0:22:35.42,Default,,0,0,0,,Then Mai-chan you start.
-Dialogue: 0,0:22:37.05,0:22:37.75,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:38.60,0:22:39.82,Default,,0,0,0,,If I go here?
-Dialogue: 0,0:22:40.00,0:22:40.70,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:41.46,0:22:43.36,Default,,0,0,0,,There's a cut point here, so black connects.
-Dialogue: 0,0:22:43.55,0:22:46.63,Default,,0,0,0,,This makes black's territory ten moku.
-Dialogue: 0,0:22:47.16,0:22:53.83,Default,,0,0,0,,But if white plays like this, Black plays here, and Black's territory is twelve moku.
-Dialogue: 0,0:22:53.96,0:22:55.91,Default,,0,0,0,,Black gained two whole moku.
+Dialogue: 0,0:22:37.05,0:22:37.75,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:38.60,0:22:39.82,Background,,0,0,0,,If I go here?
+Dialogue: 0,0:22:40.00,0:22:40.70,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:41.46,0:22:43.36,Background,,0,0,0,,There's a cut point here, so black connects.
+Dialogue: 0,0:22:43.55,0:22:46.63,Background,,0,0,0,,This makes black's territory ten moku.
+Dialogue: 0,0:22:47.16,0:22:53.83,Background,,0,0,0,,But if white plays like this, Black plays\Nhere, and Black's territory is twelve moku.
+Dialogue: 0,0:22:53.96,0:22:55.91,Background,,0,0,0,,Black gained two whole moku.
 Dialogue: 0,0:22:55.00,0:22:57.37,Note,,0,0,0,,Next time is "Yose" too!!
-Dialogue: 0,0:22:58.80,0:23:00.49,Default,,0,0,0,,I am Sai of the Fujiwara.
-Dialogue: 0,0:23:01.28,0:23:07.60,Default,,0,0,0,,The reason I have been in the world for a thousand years, is just to master the divine move.
-Dialogue: 0,0:23:08.14,0:23:10.80,Default,,0,0,0,,That's what I thought, but...
-Dialogue: 0,0:23:11.19,0:23:12.30,Default,,0,0,0,,But why!?
-Dialogue: 0,0:23:22.77,0:23:25.79,Default,,0,0,0,,God! Why did I come to Hikaru!?
+Dialogue: 0,0:22:58.77,0:23:00.49,Sai,,0,0,0,,I am Sai of the Fujiwara.
+Dialogue: 0,0:23:01.28,0:23:07.60,Sai,,0,0,0,,The reason I have been in the world for a\Nthousand years, is just to master the divine move.
+Dialogue: 0,0:23:08.14,0:23:10.80,Sai,,0,0,0,,That's what I thought, but...
+Dialogue: 0,0:23:11.16,0:23:12.30,Sai,,0,0,0,,But why!?
+Dialogue: 0,0:23:22.71,0:23:25.63,Sai,,0,0,0,,God! Why did I come to Hikaru!?
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

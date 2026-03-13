@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 42 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 254
-Active Line: 276
-Video Position: 29650
+Scroll Position: 284
+Active Line: 303
+Video Position: 35512
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -368,32 +368,32 @@ Dialogue: 0,0:20:30.34,0:20:34.05,Default,,0,0,0,,I think I started working hard
 Dialogue: 0,0:20:35.35,0:20:36.18,Sai,,0,0,0,,You're right.
 Dialogue: 0,0:20:36.64,0:20:37.30,Default,,0,0,0,,I'll win...
 Dialogue: 0,0:20:38.63,0:20:40.83,Default,,0,0,0,,I'm going to win!
-Dialogue: 0,0:22:12.99,0:22:14.84,Default,,0,0,0,,Today, let's discuss proverbs.
-Dialogue: 0,0:22:14.94,0:22:16.34,Default,,0,0,0,,Do you know what proverbs are?
-Dialogue: 0,0:22:16.60,0:22:17.65,Default,,0,0,0,,Useless as gold coins to a cat!
-Dialogue: 0,0:22:17.77,0:22:21.18,Default,,0,0,0,,Yes, that's one! Go has its proverbs, as well.
-Dialogue: 0,0:22:21.27,0:22:22.75,Default,,0,0,0,,Take a look at the board.
-Dialogue: 0,0:22:22.98,0:22:25.04,Default,,0,0,0,,This is a Life and Death problem where white dies if black goes first.
-Dialogue: 0,0:22:25.04,0:22:28.52,Default,,0,0,0,,The hint is the proverb: "Play at the center of symmetry."
-Dialogue: 0,0:22:28.66,0:22:29.80,Default,,0,0,0,,Want to give it a try, Yuki?
-Dialogue: 0,0:22:29.80,0:22:30.83,Default,,0,0,0,,Okay, I'd go here!
-Dialogue: 0,0:22:31.07,0:22:33.29,Default,,0,0,0,,Yes, that's the center.
-Dialogue: 0,0:22:34.35,0:22:36.05,Default,,0,0,0,,If I go here, what would you do, Mai?
-Dialogue: 0,0:22:36.67,0:22:37.37,Default,,0,0,0,,I'd go here.
-Dialogue: 0,0:22:37.56,0:22:38.80,Default,,0,0,0,,Exactly!
-Dialogue: 0,0:22:38.86,0:22:40.24,Default,,0,0,0,,So now, even if I take your stone...
-Dialogue: 0,0:22:40.28,0:22:43.38,Default,,0,0,0,,You can take my stones right back.
-Dialogue: 0,0:22:43.60,0:22:45.83,Default,,0,0,0,,And that way, there will be only a single eye.
-Dialogue: 0,0:22:47.24,0:22:50.36,Default,,0,0,0,,Even if I played on this side, and you went here, it's the same.
-Dialogue: 0,0:22:50.93,0:22:53.17,Default,,0,0,0,,Playing at the center was the key.
-Dialogue: 0,0:22:53.70,0:22:55.74,Default,,0,0,0,,Let's cover more proverbs next week.
-Dialogue: 0,0:22:54.95,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:59.47,0:23:01.64,Default,,0,0,0,,Damn, I can't find it...
-Dialogue: 0,0:23:02.68,0:23:04.60,Default,,0,0,0,,The way for black to live...
-Dialogue: 0,0:23:05.77,0:23:09.25,Default,,0,0,0,,Okay! If this black cluster lives, you win.
-Dialogue: 0,0:23:09.98,0:23:12.20,Default,,0,0,0,,If I kill this black cluster, I win!
-Dialogue: 0,0:23:22.80,0:23:23.67,Default,,0,0,0,,Can I kill it?
-Dialogue: 0,0:23:24.50,0:23:25.66,Default,,0,0,0,,Can I live?
+Dialogue: 0,0:22:12.99,0:22:14.84,Default,,0,0,0,,Let's cover maxims today.
+Dialogue: 0,0:22:14.94,0:22:16.29,Default,,0,0,0,,Do you know what a maxim is?
+Dialogue: 0,0:22:16.56,0:22:21.23,Note,,0,0,0,,[Money for a cat is a Japanese expression (or maxim)\Nthat means, "Just like the way giving money to\Na cat is useless, this and that is also useless."]
+Dialogue: 0,0:22:16.56,0:22:17.65,Default,,0,0,0,,Money for a cat!
+Dialogue: 0,0:22:17.77,0:22:21.18,Default,,0,0,0,,Yup! The thing is, there are maxims for Go too.
+Dialogue: 0,0:22:21.27,0:22:22.75,Default,,0,0,0,,Take a look at the Go board.
+Dialogue: 0,0:22:22.97,0:22:25.04,Default,,0,0,0,,This is a tsumego where white\Ndies if black goes first.
+Dialogue: 0,0:22:25.04,0:22:28.52,Default,,0,0,0,,The key is a maxim the states, "The\Ncenter is key with a mirror image."
+Dialogue: 0,0:22:28.66,0:22:29.80,Default,,0,0,0,,Want to try it Yuuki-kun?
+Dialogue: 0,0:22:29.80,0:22:30.83,Default,,0,0,0,,Yeah, here!
+Dialogue: 0,0:22:31.07,0:22:33.21,Default,,0,0,0,,Yeah, that's the center.
+Dialogue: 0,0:22:34.35,0:22:36.05,Default,,0,0,0,,What will you do Mai-chan, if I go here?
+Dialogue: 0,0:22:36.67,0:22:37.30,Default,,0,0,0,,Here.
+Dialogue: 0,0:22:37.56,0:22:40.23,Default,,0,0,0,,Now, even if I take it...
+Dialogue: 0,0:22:40.28,0:22:43.38,Default,,0,0,0,,You can take it back, it's an utegaeshi shape.
+Dialogue: 0,0:22:43.60,0:22:45.83,Default,,0,0,0,,There will only be one eye if you play there.
+Dialogue: 0,0:22:47.22,0:22:50.36,Default,,0,0,0,,Even if I play here... you can just play\Nhere, and it's the same thing.
+Dialogue: 0,0:22:50.93,0:22:53.17,Default,,0,0,0,,The center was the critical spot.
+Dialogue: 0,0:22:53.70,0:22:55.67,Default,,0,0,0,,Let's cover maxims again next week.
+Dialogue: 0,0:22:56.05,0:22:56.55,Default,,0,0,0,,Okay!
+Dialogue: 0,0:22:59.44,0:23:01.65,Default,,0,0,0,,Damn, I can't find it...
+Dialogue: 0,0:23:02.65,0:23:04.60,Default,,0,0,0,,The way for black to live...
+Dialogue: 0,0:23:05.74,0:23:09.25,Default,,0,0,0,,Okay! If this black cluster lives, you win.
+Dialogue: 0,0:23:09.95,0:23:12.20,Default,,0,0,0,,If I kill this black cluster, I win!
+Dialogue: 0,0:23:22.76,0:23:23.63,Default,,0,0,0,,Can I kill it?
+Dialogue: 0,0:23:24.47,0:23:25.55,Default,,0,0,0,,Can I live?
 Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Real-Fansubbers
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Real-Fansubbers
 Dialogue: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents

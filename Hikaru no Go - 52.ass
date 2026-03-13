@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 320
-Active Line: 338
-Video Position: 29245
+Scroll Position: 343
+Active Line: 364
+Video Position: 35542
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -287,9 +287,9 @@ Dialogue: 0,0:12:00.32,0:12:01.26,Default,,0,0,0,,Towards the end.
 Dialogue: 0,0:12:01.87,0:12:05.72,Default,,0,0,0,,The person to the immediate right of your name is\Nyour opponent for the first match.
 Dialogue: 0,0:12:06.79,0:12:09.34,Default,,0,0,0,,Shindou Hikaru... there it is.
 Dialogue: 0,0:12:09.67,0:12:11.77,Default,,0,0,0,,My first opponent is...
-Dialogue: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\move(227,213,-30,213)}Shindou Hikaru Shodan
-Dialogue: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\pos(546,188)}Touya Akira 2-dan
-Dialogue: 0,0:12:12.54,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\pos(695,170)}Suzuki Ayuma
+Comment: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\move(227,213,-30,213)}Shindou Hikaru Shodan
+Comment: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\pos(546,188)}Touya Akira 2-dan
+Comment: 0,0:12:12.54,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\pos(695,170)}Suzuki Ayuma
 Comment: 0,0:12:11.75,0:12:14.75,NoteArial,,0,0,0,,Need to animate above, either scroll or individually
 Dialogue: 0,0:12:16.47,0:12:21.51,NoteArial,,0,0,0,,{\fs45\blur1\1c&H000000&\bord0\fscy80\frz8.5\move(504,142,175,142)}Touya Akira 2-dan
 Dialogue: 0,0:12:17.84,0:12:19.81,Thinking,,0,0,0,,Tou...ya...
@@ -430,31 +430,31 @@ Dialogue: 0,0:20:13.16,0:20:17.07,Default,,0,0,0,,He called with big news.
 Dialogue: 0,0:20:17.70,0:20:19.49,Default,,0,0,0,,Touya Meijin collapsed,
 Dialogue: 0,0:20:19.75,0:20:22.50,Default,,0,0,0,,and he's in an ambulance, on the way to the\Nhospital, right now.
 Dialogue: 0,0:22:12.89,0:22:14.59,Default,,0,0,0,,Let's solve a problem today.
-Dialogue: 0,0:22:14.89,0:22:18.28,Default,,0,0,0,,It's a black first white dies problem. You should all thing along with us.
+Dialogue: 0,0:22:14.89,0:22:18.35,Default,,0,0,0,,It's a black first white dies problem. You should all\Nthink along with us.
 Dialogue: 0,0:22:21.86,0:22:23.08,Default,,0,0,0,,Can you do it, Yuuki-kun?
-Dialogue: 0,0:22:26.16,0:22:26.81,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:28.01,0:22:28.99,Default,,0,0,0,,I capture.
-Dialogue: 0,0:22:29.22,0:22:29.87,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:30.65,0:22:31.45,Default,,0,0,0,,What about here?
-Dialogue: 0,0:22:31.81,0:22:33.08,Default,,0,0,0,,White got two eyes.
+Dialogue: 0,0:22:26.16,0:22:26.81,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:28.01,0:22:28.99,Background,,0,0,0,,I capture.
+Dialogue: 0,0:22:29.22,0:22:29.87,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:30.65,0:22:31.45,Background,,0,0,0,,What about here?
+Dialogue: 0,0:22:31.81,0:22:33.08,Background,,0,0,0,,White got two eyes.
 Dialogue: 0,0:22:34.31,0:22:35.46,Default,,0,0,0,,What about you, Mai-chan?
-Dialogue: 0,0:22:36.21,0:22:37.01,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:37.85,0:22:38.85,Default,,0,0,0,,If I take it?
-Dialogue: 0,0:22:39.36,0:22:40.21,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:40.59,0:22:41.73,Default,,0,0,0,,And if I go here?
-Dialogue: 0,0:22:42.31,0:22:43.67,Default,,0,0,0,,I made two eyes.
-Dialogue: 0,0:22:45.02,0:22:47.74,Default,,0,0,0,,It's a difficult problem, so I'll give you a hint.
-Dialogue: 0,0:22:48.90,0:22:49.70,Default,,0,0,0,,"A"
-Dialogue: 0,0:22:50.37,0:22:51.17,Default,,0,0,0,,"B"
-Dialogue: 0,0:22:51.56,0:22:52.36,Default,,0,0,0,,"C"
-Dialogue: 0,0:22:52.96,0:22:55.22,Default,,0,0,0,,The correct answer is one of these three.
+Dialogue: 0,0:22:36.21,0:22:37.01,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:37.85,0:22:38.85,Background,,0,0,0,,If I take it?
+Dialogue: 0,0:22:39.36,0:22:40.21,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:40.59,0:22:41.73,Background,,0,0,0,,And if I go here?
+Dialogue: 0,0:22:42.31,0:22:43.67,Background,,0,0,0,,I made two eyes.
+Dialogue: 0,0:22:45.00,0:22:47.74,Default,,0,0,0,,It's a difficult problem, so I'll give you a hint.
+Dialogue: 0,0:22:48.90,0:22:49.70,Background,,0,0,0,,"A"
+Dialogue: 0,0:22:50.37,0:22:51.17,Background,,0,0,0,,"B"
+Dialogue: 0,0:22:51.56,0:22:52.36,Background,,0,0,0,,"C"
+Dialogue: 0,0:22:52.96,0:22:55.22,Background,,0,0,0,,The correct answer is one of these three.
 Dialogue: 0,0:22:53.07,0:22:57.33,Note,,0,0,0,,To be continued...
-Dialogue: 0,0:22:59.20,0:23:01.07,Default,,0,0,0,,You play go over the internet?
-Dialogue: 0,0:23:01.52,0:23:04.54,Default,,0,0,0,,I'm thankful that I can play even while I'm in the hospital.
-Dialogue: 0,0:23:05.78,0:23:09.13,Default,,0,0,0,,He's eager to play against you, Master Touya!
-Dialogue: 0,0:23:09.82,0:23:11.12,Default,,0,0,0,,His name is...
-Dialogue: 0,0:23:11.46,0:23:12.26,Default,,0,0,0,,Sai!
-Dialogue: 0,0:23:22.59,0:23:26.26,Default,,0,0,0,,Fine. If I lose, I will retire.
+Dialogue: 0,0:22:59.20,0:23:01.32,Default,,0,0,0,,You play go over the internet?
+Dialogue: 0,0:23:01.48,0:23:04.78,Default,,0,0,0,,I'm thankful that I can play even while I'm in the\Nhospital.
+Dialogue: 0,0:23:05.74,0:23:09.24,Default,,0,0,0,,He's eager to play against you, Master Touya!
+Dialogue: 0,0:23:09.78,0:23:11.20,Default,,0,0,0,,His name is...
+Dialogue: 0,0:23:11.41,0:23:12.33,Background,,0,0,0,,Sai!
+Dialogue: 0,0:23:22.55,0:23:26.30,Default,,0,0,0,,Fine. If I lose, I will retire.
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 32 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 239
-Active Line: 248
-Video Position: 29602
+Scroll Position: 246
+Active Line: 262
+Video Position: 35538
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -339,23 +339,20 @@ Dialogue: 0,0:20:20.99,0:20:23.58,Default,,0,0,0,,What are you talking about? Ju
 Dialogue: 0,0:20:23.74,0:20:27.64,Default,,0,0,0,,"where's the hairy godzilla? Where's\Nthe hairy godzilla?" in fear.
 Dialogue: 0,0:20:28.61,0:20:30.81,Default,,0,0,0,,You didn't have to say that!
 Dialogue: 0,0:20:34.64,0:20:38.70,Thinking,,0,0,0,,{\1c&HFEFECE&}Oh well, I'm just glad you won.
-Dialogue: 0,0:22:13.12,0:22:15.29,Default,,0,0,0,,Today, let's continue with {\i1}tesuji{\i}.
-Dialogue: 0,0:22:15.49,0:22:16.40,Default,,0,0,0,,It's White's turn.
-Dialogue: 0,0:22:16.62,0:22:19.62,Default,,0,0,0,,These three white stones are in jeopardy,
-Dialogue: 0,0:22:19.62,0:22:23.51,Default,,0,0,0,,but there is a way to save them by capturing these black stones.
-Dialogue: 0,0:22:23.60,0:22:24.82,Default,,0,0,0,,What should you do?
-Dialogue: 0,0:22:30.50,0:22:33.70,Default,,0,0,0,,You're almost there... Go for it!
-Dialogue: 0,0:22:34.03,0:22:37.66,Default,,0,0,0,,So, in the end, you can capture these black stones.
-Dialogue: 0,0:22:38.10,0:22:39.51,Default,,0,0,0,,Now, how about this example?
-Dialogue: 0,0:22:47.25,0:22:50.94,Default,,0,0,0,,That's right, you can turn the tables and capture black.
-Dialogue: 0,0:22:51.40,0:22:53.50,Default,,0,0,0,,If you play {\i1}tesuji{\i} this way in an actual game,
-Dialogue: 0,0:22:53.50,0:22:55.28,Default,,0,0,0,,Go becomes even more fun.
-Dialogue: 0,0:22:55.13,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:59.24,0:23:01.84,Default,,0,0,0,,Just think of it as a team match!
-Dialogue: 0,0:23:02.39,0:23:03.27,Default,,0,0,0,,Team match?
-Dialogue: 0,0:23:04.35,0:23:07.46,Default,,0,0,0,,We have to be able to beat the old men at a Go salon with three stones at least.
-Dialogue: 0,0:23:07.46,0:23:12.02,Default,,0,0,0,,Why you bastard! How dare you look down on me like that you brat.
-Dialogue: 0,0:23:22.61,0:23:26.05,Default,,0,0,0,,I can't just play like I normally do. I have to find a key to the game.
+Dialogue: 0,0:22:13.11,0:22:15.29,Default,,0,0,0,,Let's continue with Tesuji today.
+Dialogue: 0,0:22:15.49,0:22:19.58,Default,,0,0,0,,It's white's turn. Right now, these three\Nwhite stones are about to get captured.
+Dialogue: 0,0:22:19.81,0:22:23.20,Default,,0,0,0,,{\an8}But there's a way to save them\Nby taking these black stones.
+Dialogue: 0,0:22:23.60,0:22:24.82,Default,,0,0,0,,{\an8}What should you do?
+Dialogue: 0,0:22:30.49,0:22:33.70,Default,,0,0,0,,Okay last move, do it with energy!
+Dialogue: 0,0:22:34.03,0:22:37.66,Default,,0,0,0,,{\an8}Yes, you can take these black stones like this.
+Dialogue: 0,0:22:38.10,0:22:39.51,Default,,0,0,0,,How about this time?
+Dialogue: 0,0:22:47.25,0:22:50.90,Default,,0,0,0,,{\an8}Yes, you can take the stones by doing that.
+Dialogue: 0,0:22:51.40,0:22:55.32,Default,,0,0,0,,{\an8}If you play Tesuji like this successfully in a\Nreal game, Go will become even more fun.
+Dialogue: 0,0:22:59.19,0:23:01.84,Default,,0,0,0,,Just think of it as a team match!
+Dialogue: 0,0:23:02.36,0:23:03.27,Default,,0,0,0,,Team match?
+Dialogue: 0,0:23:04.32,0:23:07.46,Default,,0,0,0,,We have to be able to beat the old men at\Na Go Salon with three stones at least.
+Dialogue: 0,0:23:07.46,0:23:12.02,Default,,0,0,0,,Why you bastard! How dare you look\Ndown on me like that you brat.
+Dialogue: 0,0:23:22.67,0:23:26.09,Default,,0,0,0,,I can't just play like I normally do.\NI have to find a key to the game.
 Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Elite-Fansubs
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Elite-Fansubs
 Dialogue: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 39 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 175
-Active Line: 201
-Video Position: 29417
+Scroll Position: 208
+Active Line: 227
+Video Position: 35526
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -292,32 +292,32 @@ Dialogue: 0,0:19:37.31,0:19:41.65,Thinking,,0,0,0,,I intended to do so, but I wa
 Dialogue: 0,0:19:56.72,0:20:00.93,Thinking,,0,0,0,,Sai... didn't his fingers leave the stone just now?
 Dialogue: 0,0:20:11.46,0:20:13.11,Thinking,,0,0,0,,Sai, did you see?
 Dialogue: 0,0:20:20.32,0:20:25.62,Thinking,,0,0,0,,Playing somewhere else after your fingers\Nleave the stone... That's an automatic loss.
-Dialogue: 0,0:22:13.37,0:22:16.33,Default,,0,0,0,,Continuing from last week... Yuki, you try it now.
+Dialogue: 0,0:22:13.37,0:22:16.33,Default,,0,0,0,,Okay, continuing from last week,\Nnow it's Yuuki-kun's turn.
 Dialogue: 0,0:22:16.50,0:22:17.15,Default,,0,0,0,,Okay!
-Dialogue: 0,0:22:19.55,0:22:20.40,Default,,0,0,0,,I'll take this one.
-Dialogue: 0,0:22:22.68,0:22:23.48,Default,,0,0,0,,Then... I'll go here.
-Dialogue: 0,0:22:24.21,0:22:25.12,Default,,0,0,0,,And if I take these?
-Dialogue: 0,0:22:26.94,0:22:27.64,Default,,0,0,0,,Huh?
-Dialogue: 0,0:22:28.50,0:22:29.40,Default,,0,0,0,,And again?
-Dialogue: 0,0:22:29.50,0:22:30.21,Default,,0,0,0,,It's over...
-Dialogue: 0,0:22:31.64,0:22:33.27,Default,,0,0,0,,Mai, you try it next.
-Dialogue: 0,0:22:33.38,0:22:33.98,Default,,0,0,0,,Okay!
-Dialogue: 0,0:22:36.34,0:22:37.14,Default,,0,0,0,,I'll start here.
-Dialogue: 0,0:22:37.91,0:22:38.96,Default,,0,0,0,,I'll take these.
-Dialogue: 0,0:22:40.51,0:22:42.23,Default,,0,0,0,,There here next.
-Dialogue: 0,0:22:43.82,0:22:44.82,Default,,0,0,0,,I'll take that, too.
-Dialogue: 0,0:22:46.33,0:22:47.03,Default,,0,0,0,,And then here.
-Dialogue: 0,0:22:47.16,0:22:48.24,Default,,0,0,0,,Correct!
-Dialogue: 0,0:22:49.93,0:22:52.60,Default,,0,0,0,,You'll improve greatly by working on {\i0}tsumego{\i} problems.
+Dialogue: 0,0:22:19.55,0:22:20.43,Default,,0,0,0,,And if I take it?
+Dialogue: 0,0:22:24.21,0:22:25.35,Default,,0,0,0,,And if I take it?
+Dialogue: 0,0:22:26.94,0:22:27.66,Default,,0,0,0,,Huh?
+Dialogue: 0,0:22:28.51,0:22:29.51,Default,,0,0,0,,If I take it?
+Dialogue: 0,0:22:29.50,0:22:30.47,Default,,0,0,0,,Oh no.
+Dialogue: 0,0:22:31.64,0:22:33.31,Default,,0,0,0,,Mai-chan you try it now.
+Dialogue: 0,0:22:33.38,0:22:34.05,Default,,0,0,0,,Okay!
+Dialogue: 0,0:22:36.33,0:22:37.14,Default,,0,0,0,,Here.
+Dialogue: 0,0:22:37.91,0:22:38.96,Default,,0,0,0,,I take it.
+Dialogue: 0,0:22:40.51,0:22:42.23,Default,,0,0,0,,Now, I go here.
+Dialogue: 0,0:22:42.24,0:22:43.04,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:22:43.82,0:22:44.82,Default,,0,0,0,,I take it.
+Dialogue: 0,0:22:46.33,0:22:47.03,Default,,0,0,0,,Here!
+Dialogue: 0,0:22:47.16,0:22:48.08,Default,,0,0,0,,Yup!
+Dialogue: 0,0:22:49.93,0:22:52.60,Default,,0,0,0,,You'll get a lot stronger by working on Tsumego.
 Dialogue: 0,0:22:52.60,0:22:55.23,Default,,0,0,0,,Try solving lots of different problems.
-Dialogue: 0,0:22:55.00,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:58.61,0:23:00.85,Thinking,,0,0,0,,Should I not ask Isumi-san?
-Dialogue: 0,0:23:01.36,0:23:03.42,Thinking,,0,0,0,,If his fingers left the stone?
-Dialogue: 0,0:23:03.89,0:23:05.69,Thinking,,0,0,0,,It'll cost you dearly if you've cracked emotionally.
-Dialogue: 0,0:23:06.09,0:23:08.93,Thinking,,0,0,0,,No one here is going to take it easy on you.
-Dialogue: 0,0:23:09.52,0:23:12.28,Default,,0,0,0,,Don't you want to finish the game?
+Dialogue: 0,0:22:55.23,0:22:56.03,Default,,0,0,0,,Okay!
+Dialogue: 0,0:22:58.57,0:23:00.85,Thinking,,0,0,0,,Should I not ask Isumi-san?
+Dialogue: 0,0:23:01.32,0:23:03.42,Thinking,,0,0,0,,{\1c&HC5FEC1&}If his fingers left the stone?
+Dialogue: 0,0:23:03.90,0:23:05.82,Thinking,,0,0,0,,It'll cost you dearly if you've cracked emotionally.
+Dialogue: 0,0:23:06.09,0:23:08.91,Thinking,,0,0,0,,No one here is going to take it easy on you.
+Dialogue: 0,0:23:09.49,0:23:12.37,Sai,,0,0,0,,Don't you want to finish the game?
 Dialogue: 0,0:23:22.52,0:23:24.94,Thinking,,0,0,0,,I might win if I say something!
-Dialogue: 0,0:23:25.12,0:23:26.27,Thinking,,0,0,0,,I want the win!
+Dialogue: 0,0:23:25.09,0:23:26.18,Thinking,,0,0,0,,I want the win!
 Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Elite-Fansubs
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Elite-Fansubs
 Dialogue: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents

@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 36 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 36 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 117
-Active Line: 150
-Video Position: 29489
+Video Zoom Percent: 0.625000
+Scroll Position: 147
+Active Line: 170
+Video Position: 35196
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -241,25 +241,26 @@ Dialogue: 0,0:20:19.64,0:20:20.73,Default,,0,0,0,,My name is...
 Dialogue: 0,0:20:21.32,0:20:22.54,Default,,0,0,0,,Shindou Hikaru!
 Dialogue: 0,0:20:24.46,0:20:26.37,Thinking,,0,0,0,,{\1c&HFEFECE&}I feel insecure...
 Dialogue: 0,0:20:27.75,0:20:32.00,Thinking,,0,0,0,,{\1c&HFEFECE&}What... What is this?
-Dialogue: 0,0:22:13.01,0:22:15.84,Default,,0,0,0,,Today, let's learn some Go terminology that Sai often uses.
-Dialogue: 0,0:22:17.49,0:22:19.54,Default,,0,0,0,,This is called the 3-4 point, {\i1}komoku{\i}, or small eye. We've covered it before.
-Dialogue: 0,0:22:21.08,0:22:22.59,Default,,0,0,0,,This move is called the knight's move, keima.
-Dialogue: 0,0:22:22.99,0:22:27.43,Default,,0,0,0,,From this stone, the move is called "the knight's approach."
-Dialogue: 0,0:22:28.03,0:22:29.31,Default,,0,0,0,,And this is...?
-Dialogue: 0,0:22:29.31,0:22:30.08,Default,,0,0,0,,{\i1}Kosumi!{\i}
-Dialogue: 0,0:22:30.19,0:22:31.87,Default,,0,0,0,,Yes, very good!
-Dialogue: 0,0:22:32.18,0:22:35.81,Default,,0,0,0,,A move on the diagonal from another stone is called {\i1}kosumi{\i}.
-Dialogue: 0,0:22:36.02,0:22:37.50,Default,,0,0,0,,It's a move Sai likes very much.
-Dialogue: 0,0:22:38.49,0:22:43.19,Default,,0,0,0,,A move horizontally away from your own stone is called an extension, {\i1}hiraki{\i}.
-Dialogue: 0,0:22:43.67,0:22:46.87,Default,,0,0,0,,Here, there are two spaces, so it is called a "two-point extension." Two-space {\i1}hiraki{\i0}.
-Dialogue: 0,0:22:47.49,0:22:48.53,Default,,0,0,0,,Then, what about here?
-Dialogue: 0,0:22:49.07,0:22:54.00,Default,,0,0,0,,You've moved two spaces toward the center, so it is a "two-point jump." Two-space {\i1}tobi{\i}.
-Dialogue: 0,0:22:54.30,0:22:56.72,Default,,0,0,0,,Let's continue with Go terminology again next week!
-Dialogue: 0,0:22:58.67,0:22:59.48,Default,,0,0,0,,It's begun.
-Dialogue: 0,0:23:00.18,0:23:02.34,Default,,0,0,0,,The long... long pro exam.
-Dialogue: 0,0:23:03.49,0:23:07.12,Default,,0,0,0,,I have to become a pro if I want to catch up to Touya.
-Dialogue: 0,0:23:07.99,0:23:09.89,Default,,0,0,0,,I'm looking forward to playing you.
-Dialogue: 0,0:23:10.32,0:23:12.29,Default,,0,0,0,,I'm going to get a win again.
+Dialogue: 0,0:22:13.01,0:22:15.84,Default,,0,0,0,,{\an8}Today we'll cover some Go terms\Nthat Sai uses frequently.
+Dialogue: 0,0:22:17.48,0:22:19.56,Default,,0,0,0,,{\an8}This is the komoku. We've covered this before.
+Dialogue: 0,0:22:21.07,0:22:22.59,Default,,0,0,0,,This is called the Keima.
+Dialogue: 0,0:22:22.99,0:22:25.32,Default,,0,0,0,,{\an8}When you make the Keima move from this stone,
+Dialogue: 0,0:22:25.32,0:22:27.29,Default,,0,0,0,,{\an8}we call it doing a kakari on the keima.
+Dialogue: 0,0:22:28.03,0:22:29.19,Default,,0,0,0,,{\an8}And this is...
+Dialogue: 0,0:22:29.31,0:22:30.02,Default,,0,0,0,,{\an8}Kosumi!!
+Dialogue: 0,0:22:30.19,0:22:31.87,Default,,0,0,0,,{\an8}Yup! How did you know!
+Dialogue: 0,0:22:32.18,0:22:35.76,Default,,0,0,0,,{\an8}When you go diagonally from another\Nstone, it's called a kosumi.
+Dialogue: 0,0:22:36.02,0:22:37.50,Default,,0,0,0,,{\an8}It's a move Sai likes.
+Dialogue: 0,0:22:38.49,0:22:43.19,Default,,0,0,0,,{\an8}And, when you move outwards horizontally from\Nanother of your own stones, it's called a Hiraki.
+Dialogue: 0,0:22:43.67,0:22:46.87,Default,,0,0,0,,{\an8}There are two spaces here, so it's\Nalso called a two space Hiraki.
+Dialogue: 0,0:22:47.48,0:22:48.56,Default,,0,0,0,,{\an8}Then what about this?
+Dialogue: 0,0:22:49.06,0:22:54.00,Default,,0,0,0,,{\an8}Here, you're jumping out towards the center,\Nso it's called a Two Space Tobi.
+Dialogue: 0,0:22:54.30,0:22:56.72,Default,,0,0,0,,{\an8}Let's continue with Go terms next week too!
+Dialogue: 0,0:22:58.65,0:22:59.48,Background,,0,0,0,,It's begun.
+Dialogue: 0,0:23:00.15,0:23:02.40,Background,,0,0,0,,The long... long pro exam.
+Dialogue: 0,0:23:03.45,0:23:07.07,Background,,0,0,0,,I have to become a pro if I\Nwant to catch up to Touya.
+Dialogue: 0,0:23:07.99,0:23:09.89,Background,,0,0,0,,I'm looking forward to playing you.
+Dialogue: 0,0:23:10.24,0:23:12.25,Background,,0,0,0,,I'm gonna get a win again.
 Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Elite-Fansubs
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Elite-Fansubs
 Dialogue: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents

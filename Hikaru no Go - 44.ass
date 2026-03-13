@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 44 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 192
-Active Line: 218
-Video Position: 29631
+Scroll Position: 210
+Active Line: 229
+Video Position: 35082
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -309,17 +309,17 @@ Dialogue: 0,0:20:26.99,0:20:27.84,Background,,0,0,0,,Touya...
 Dialogue: 0,0:20:29.58,0:20:30.42,Background,,0,0,0,,played Ochi!?
 Dialogue: 0,0:20:34.26,0:20:35.01,Default,,0,0,0,,So...
 Dialogue: 0,0:20:35.84,0:20:37.82,Default,,0,0,0,,I'm going to win today!
-Dialogue: 0,0:22:13.04,0:22:17.47,Default,,0,0,0,,The anime for Hikaru no Go has been broadcast in Taiwan since June.
-Dialogue: 0,0:22:19.56,0:22:23.12,Default,,0,0,0,,A press conference was held for it the other day in Taipei.
-Dialogue: 0,0:22:25.48,0:22:31.26,Default,,0,0,0,,Children from the Taiwan Go Institute were invited, along with the press, and various VIPs.
+Dialogue: 0,0:22:13.04,0:22:17.47,Default,,0,0,0,,The anime for Hikaru no Go has been\Nbroadcast in Taiwan since June.
+Dialogue: 0,0:22:19.56,0:22:23.12,Default,,0,0,0,,A press conference was held\Nfor it the other day in Taipei.
+Dialogue: 0,0:22:25.48,0:22:31.26,Default,,0,0,0,,Children from the Taiwan Go Institute were invited,\Nalong with the press, and various VIPs.
 Dialogue: 0,0:22:32.14,0:22:35.77,Default,,0,0,0,,The show is very interesting to watch...
-Dialogue: 0,0:22:36.36,0:22:42.44,Default,,0,0,0,,and if people learn Go, and Go becomes popular because of it, it would be great.
-Dialogue: 0,0:22:42.82,0:22:47.36,Default,,0,0,0,,I hope the children who watch the anime will one day become and play others in other countries.
+Dialogue: 0,0:22:36.36,0:22:42.39,Default,,0,0,0,,and if people learn Go, and Go becomes\Npopular because of it, it would be great.
+Dialogue: 0,0:22:42.82,0:22:47.36,Default,,0,0,0,,I hope the children who watch the anime will one\Nday become and play others in other countries.
 Dialogue: 0,0:22:47.88,0:22:49.69,Default,,0,0,0,,The dream will spread.
 Dialogue: 0,0:22:55.00,0:22:57.37,Note,,0,0,0,,To be continued...
-Dialogue: 0,0:22:59.90,0:23:01.96,Default,,0,0,0,,I have Touya standing behind me!
-Dialogue: 0,0:23:02.74,0:23:06.68,Default,,0,0,0,,Is there anyone standing behind you, Shindou?
-Dialogue: 0,0:23:08.13,0:23:12.20,Default,,0,0,0,,Then, Touya's going to recognize me as his rival if I beat you, right?
+Dialogue: 0,0:22:59.86,0:23:01.96,Default,,0,0,0,,I have Touya standing behind me!
+Dialogue: 0,0:23:02.69,0:23:06.68,Default,,0,0,0,,Is there anyone standing behind you, Shindou?
+Dialogue: 0,0:23:08.13,0:23:12.20,Default,,0,0,0,,Then, Touya's going to recognize me\Nas his rival if I beat you, right?
 Dialogue: 0,0:23:22.76,0:23:25.82,Default,,0,0,0,,Damn it! I won't let it end like this!
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents

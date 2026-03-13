@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 35 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 250
-Active Line: 274
-Video Position: 29719
+Scroll Position: 274
+Active Line: 296
+Video Position: 35499
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -366,28 +366,27 @@ Dialogue: 0,0:20:30.43,0:20:34.81,Thinking,,0,0,0,,{\1c&HFEFECE&}He's finally lo
 Dialogue: 0,0:20:36.52,0:20:38.04,Sai,,0,0,0,,Let's make him remember...
 Dialogue: 0,0:20:39.52,0:20:41.27,Sai,,0,0,0,,the name Shindou Hikaru!
 Dialogue: 0,0:22:12.32,0:22:13.77,Note,,0,0,0,,Honinbou Shuusaku
-Dialogue: 0,0:22:14.70,0:22:18.71,Default,,0,0,0,,I'm here in Innoshima, the birthplace of Honinbou Shuusaku.
+Dialogue: 0,0:22:14.70,0:22:18.71,Default,,0,0,0,,I'm in Innoshima, the land of Honinbou Shuusaku!
 Dialogue: 0,0:22:17.41,0:22:19.63,Note,,50,410,105,,{\an8}Hiroshima Prefecture\NInnoshima City
 Dialogue: 0,0:22:17.41,0:22:19.63,Note,,0,0,125,,{\an2}Ishikiri Shrine - Shuusaku Memorial Museum
 Dialogue: 0,0:22:19.86,0:22:26.57,Note,,0,0,190,,{\an2}Shuusaku (Torajirou) was strong enough to be called "The Godly Genius Child" at the age of 6.
-Dialogue: 0,0:22:20.29,0:22:22.52,Default,,0,0,0,,Shuusaku, who was called Torajirou as a child,
-Dialogue: 0,0:22:22.64,0:22:25.12,Default,,0,0,0,,learned to play Go from his mother, and by age of six
-Dialogue: 0,0:22:25.30,0:22:27.85,Default,,0,0,0,,was said to have had no competition in his area.
+Dialogue: 0,0:22:20.28,0:22:22.52,Default,,0,0,0,,Shuusaku had the child's name "Torajirou".
+Dialogue: 0,0:22:22.64,0:22:23.88,Default,,0,0,0,,He learned Go from his mother,
+Dialogue: 0,0:22:23.95,0:22:27.86,Default,,0,0,0,,and at six, no one in the area was a match for him.
 Dialogue: 0,0:22:27.66,0:22:29.85,Note,,0,0,0,,{\an7\frz270\pos(600,50)}Written by Shuusaku at the age of 16
-Dialogue: 0,0:22:31.42,0:22:34.33,Default,,0,0,0,,At the age nine, he went to Edo and joined the Honinbou family,
-Dialogue: 0,0:22:34.59,0:22:36.12,Default,,0,0,0,,becoming a disciple of Honinbou Jowa.
-Dialogue: 0,0:22:38.22,0:22:41.80,Default,,0,0,0,,He created what are known as Shuusaku-ryu opening moves
-Dialogue: 0,0:22:42.08,0:22:46.38,Default,,0,0,0,,which remain today as a winning strategy if no {\i1}komi{\i} is used.
+Dialogue: 0,0:22:31.42,0:22:36.21,Default,,0,0,0,,He went to Edo at the age of 9, entered the\NHoninbou family, and studied under Jyouwa.
+Dialogue: 0,0:22:38.22,0:22:42.07,Default,,0,0,0,,The opening style developed by Shuusaku was\Neventually called "the Shuusaku Style"
+Dialogue: 0,0:22:42.07,0:22:46.54,Default,,0,0,0,,It is considered to guarantee victory\Nwithout Komi, and is still used today.
 Dialogue: 0,0:22:45.79,0:22:49.86,Note,,0,0,0,,Shuusaku's grave
 Dialogue: 0,0:22:46.29,0:22:49.86,Note,,0,0,120,,{\an2}He succumbed to disease in 1862 and died at the young age of 34.
-Dialogue: 0,0:22:51.78,0:22:54.89,Default,,0,0,0,,Torajuro grew up on this beautiful island!
+Dialogue: 0,0:22:51.78,0:22:54.89,Default,,0,0,0,,Torajirou grew up on this beautiful island.
 Dialogue: 0,0:22:54.97,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:59.07,0:23:01.22,Thinking,,0,0,0,,Though it started from a quibble.
-Dialogue: 0,0:23:01.76,0:23:05.30,Thinking,,0,0,0,,This match touches me in the heart.
-Dialogue: 0,0:23:05.86,0:23:08.24,Thinking,,0,0,0,,So you were this bad after all.
-Dialogue: 0,0:23:08.89,0:23:10.62,Thinking,,0,0,0,,The move Shindou-kun just made right now...
-Dialogue: 0,0:23:11.11,0:23:12.16,Thinking,,0,0,0,,What was he thinking?
-Dialogue: 0,0:23:22.83,0:23:25.38,Thinking,,0,0,0,,The move he just made was a mistake.
+Dialogue: 0,0:22:59.02,0:23:01.28,Thinking,,0,0,0,,{\1c&HFEFECE&}Though it started from a quibble.
+Dialogue: 0,0:23:01.74,0:23:05.30,Thinking,,0,0,0,,{\1c&HFEFECE&}This match touches me in the heart.
+Dialogue: 0,0:23:05.82,0:23:08.24,Thinking,,0,0,0,,So you were this bad after all.
+Dialogue: 0,0:23:08.87,0:23:10.70,Thinking,,0,0,0,,{\1c&HC5FEC1&}The move Shindou-kun just made right now...
+Dialogue: 0,0:23:11.08,0:23:12.37,Thinking,,0,0,0,,What was he thinking?
+Dialogue: 0,0:23:22.76,0:23:24.88,Thinking,,0,0,0,,The move he just made was a mistake.
 Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Elite-Fansubs
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Elite-Fansubs
 Dialogue: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents

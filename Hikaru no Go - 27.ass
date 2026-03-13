@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 258
-Active Line: 282
-Video Position: 35489
+Active Line: 270
+Video Position: 32766
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -360,6 +360,7 @@ Dialogue: 0,0:20:27.15,0:20:30.02,Default,,0,0,0,,I'll make it four stones if I 
 Dialogue: 0,0:20:30.02,0:20:32.75,Default,,0,0,0,,Like I said! Who said I was coming tomorrow!
 Dialogue: 0,0:22:12.84,0:22:14.40,Default,,0,0,0,,Let's do "Fuseki" today.
 Dialogue: 0,0:22:14.69,0:22:17.00,Default,,0,0,0,,Fuseki is the first stage of a game of Go.
+Dialogue: 0,0:22:20.48,0:22:22.48,Note,,0,0,0,,[note: Loae is horrible at this >_< I'm maybe about 10k\Nin strength in the early game. I make up for it in the mid\Ngame though, and I'm horrible at the end game >_<]
 Dialogue: 0,0:22:27.18,0:22:30.31,Default,,0,0,0,,You start declaring which areas you\Nwant to make your own territory.
 Dialogue: 0,0:22:35.49,0:22:39.43,Default,,0,0,0,,In this were to happen, this area\Nmight become black's territory.
 Dialogue: 0,0:22:39.89,0:22:42.98,Default,,0,0,0,,This area here may become white's territory.

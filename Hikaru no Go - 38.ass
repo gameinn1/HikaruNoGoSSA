@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 38 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 213
-Active Line: 236
-Video Position: 29239
+Scroll Position: 231
+Active Line: 253
+Video Position: 35496
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -327,24 +327,23 @@ Dialogue: 0,0:20:05.56,0:20:06.87,Default,,0,0,0,,Oh, that.
 Dialogue: 0,0:20:12.52,0:20:15.16,Default,,0,0,0,,Okay! Let's do it now!
 Dialogue: 0,0:20:15.74,0:20:16.32,Sai,,0,0,0,,Okay!
 Dialogue: 0,0:20:19.50,0:20:22.60,Sai,,0,0,0,,Hikaru, your opponent for today is here.
-Dialogue: 0,0:22:13.20,0:22:15.26,Default,,0,0,0,,Today, let's cover Life and Death problems.
-Dialogue: 0,0:22:16.21,0:22:22.04,Default,,0,0,0,,Life and Death problems come up when one is trying to live with one's own stones or capture enemy stones.
-Dialogue: 0,0:22:22.42,0:22:23.81,Default,,0,0,0,,Take a look at this.
-Dialogue: 0,0:22:24.03,0:22:26.26,Default,,0,0,0,,In this problem, if Black plays first, White dies.
-Dialogue: 0,0:22:26.49,0:22:30.04,Default,,0,0,0,,This is a situation where if Black plays first, White will be captured.
-Dialogue: 0,0:22:30.93,0:22:32.57,Default,,0,0,0,,Mai, why don't you try it first?
-Dialogue: 0,0:22:32.76,0:22:33.36,Default,,0,0,0,,All right.
-Dialogue: 0,0:22:35.00,0:22:36.05,Default,,0,0,0,,Here?
-Dialogue: 0,0:22:37.29,0:22:38.36,Default,,0,0,0,,I capture this stone.
-Dialogue: 0,0:22:43.48,0:22:44.59,Default,,0,0,0,,I capture these two.
-Dialogue: 0,0:22:48.76,0:22:50.03,Default,,0,0,0,,And I capture you again!
-Dialogue: 0,0:22:51.13,0:22:52.39,Default,,0,0,0,,That was too bad.
-Dialogue: 0,0:22:53.03,0:22:55.48,Default,,0,0,0,,We will continue with this next week.
-Dialogue: 0,0:22:55.00,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:23:00.16,0:23:02.53,Default,,0,0,0,,I'll beat Isumi-san today to set a rhythm for myself.
-Dialogue: 0,0:23:03.96,0:23:07.72,Default,,0,0,0,,I was wondering if you had an over inflated opinion of Shindou too Isumi-san.
-Dialogue: 0,0:23:09.04,0:23:12.04,Default,,0,0,0,,I'm confident that I'm stronger than Shindou.
-Dialogue: 0,0:23:22.74,0:23:25.12,Default,,0,0,0,,Shindou... he's desperate.
+Dialogue: 0,0:22:13.19,0:22:15.16,Default,,0,0,0,,{\an8}Let's cover Tsumego today!
+Dialogue: 0,0:22:16.21,0:22:22.05,Default,,0,0,0,,{\an8}"Tsumego" are problems that deal with\Nlife and death in a particular shape.
+Dialogue: 0,0:22:22.42,0:22:23.81,Default,,0,0,0,,{\an8}Can you look at this?
+Dialogue: 0,0:22:24.03,0:22:26.17,Default,,0,0,0,,{\an8}This is Black First White Dies
+Dialogue: 0,0:22:26.47,0:22:30.04,Default,,0,0,0,,{\an8}It's a situation where White dies if Black goes first.
+Dialogue: 0,0:22:30.93,0:22:32.59,Default,,0,0,0,,{\an8}Then Mai-chan why don't you try it first?
+Dialogue: 0,0:22:35.00,0:22:36.05,Default,,0,0,0,,{\an8}Here?
+Dialogue: 0,0:22:37.29,0:22:38.36,Default,,0,0,0,,{\an8}If I take it?
+Dialogue: 0,0:22:38.50,0:22:39.67,Default,,0,0,0,,{\an8}If you take it...
+Dialogue: 0,0:22:43.48,0:22:44.59,Default,,0,0,0,,{\an8}If I take it...
+Dialogue: 0,0:22:48.76,0:22:49.56,Default,,0,0,0,,{\an8}I live.
+Dialogue: 0,0:22:51.13,0:22:52.26,Default,,0,0,0,,{\an8}Too bad.
+Dialogue: 0,0:22:53.03,0:22:55.28,Default,,0,0,0,,{\an8}We'll continue this next week!
+Dialogue: 0,0:23:00.16,0:23:02.61,Background,,0,0,0,,I'll beat Isumi-san today to set a rhythm for myself.
+Dialogue: 0,0:23:03.96,0:23:07.82,Background,,0,0,0,,I was wondering if you had an over inflated\Nopinion of Shindou too Isumi-san.
+Dialogue: 0,0:23:08.99,0:23:12.00,Background,,0,0,0,,I'm confident that I'm stronger than Shindou.
+Dialogue: 0,0:23:22.71,0:23:25.09,Background,,0,0,0,,Shindou... he's desperate.
 Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Elite-Fansubs
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Elite-Fansubs
 Dialogue: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents

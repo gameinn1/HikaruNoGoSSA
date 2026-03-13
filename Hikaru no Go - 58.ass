@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 327
-Active Line: 337
-Video Position: 29623
+Scroll Position: 336
+Active Line: 361
+Video Position: 35556
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -431,27 +431,27 @@ Dialogue: 0,0:20:33.80,0:20:35.20,Default,,0,0,0,,Touya's...
 Dialogue: 0,0:22:12.62,0:22:14.51,Default,,0,0,0,,Let's cover 'Seki' today.
 Dialogue: 0,0:22:14.86,0:22:16.88,Default,,0,0,0,,Mai-chan, have you heard of Seki before?
 Dialogue: 0,0:22:17.08,0:22:18.08,Default,,0,0,0,,Nope!
-Dialogue: 0,0:22:18.32,0:22:20.78,Default,,0,0,0,,Seki is a situation when you are both close to capturing,
-Dialogue: 0,0:22:20.93,0:22:23.54,Default,,0,0,0,,but can't capture the opponent.
-Dialogue: 0,0:22:23.59,0:22:25.55,Default,,0,0,0,,Don't both White and Black have a shape
-Dialogue: 0,0:22:25.55,0:22:28.53,Default,,0,0,0,,where they're close to capturing and close to getting captured?
-Dialogue: 0,0:22:28.63,0:22:30.30,Default,,0,0,0,,If it's Black's turn...
-Dialogue: 0,0:22:30.76,0:22:32.54,Default,,0,0,0,,and Black plays here...
-Dialogue: 0,0:22:33.01,0:22:36.37,Default,,0,0,0,,White plays here, and five stones get captured.
-Dialogue: 0,0:22:36.79,0:22:38.48,Default,,0,0,0,,It's the same with White.
-Dialogue: 0,0:22:38.49,0:22:40.72,Default,,0,0,0,,They will both get captured if they move.
-Dialogue: 0,0:22:40.85,0:22:43.85,Default,,0,0,0,,But if they don't move, then they don't get captured.
+Dialogue: 0,0:22:18.32,0:22:20.79,Default,,0,0,0,,{\fs22}Seki is a situation when you are both close to capturing,
+Dialogue: 0,0:22:20.93,0:22:23.43,Default,,0,0,0,,but can't capture the opponent.
+Dialogue: 0,0:22:23.59,0:22:25.55,Background,,0,0,0,,Don't both White and Black have a shape
+Dialogue: 0,0:22:25.55,0:22:28.53,Background,,0,0,0,,where they're close to capturing\Nand close to getting captured?
+Dialogue: 0,0:22:28.63,0:22:30.30,Background,,0,0,0,,If it's Black's turn...
+Dialogue: 0,0:22:30.76,0:22:32.54,Background,,0,0,0,,and Black plays here...
+Dialogue: 0,0:22:33.01,0:22:36.37,Background,,0,0,0,,White plays here, and five stones get captured.
+Dialogue: 0,0:22:36.79,0:22:38.48,Background,,0,0,0,,It's the same with White.
+Dialogue: 0,0:22:38.49,0:22:40.72,Background,,0,0,0,,They will both get captured if they move.
+Dialogue: 0,0:22:40.85,0:22:43.85,Background,,0,0,0,,But if they don't move, then they don't get captured.
 Dialogue: 0,0:22:43.91,0:22:46.85,Default,,0,0,0,,If you have a Seki, leave it be until the end of the game.
 Dialogue: 0,0:22:46.98,0:22:49.35,Default,,0,0,0,,It's not counted for either side as a territory.
-Dialogue: 0,0:22:50.02,0:22:57.16,Default,,0,0,0,,Seki seems difficult, but it's a way to avoid getting captured when you're about to die.
+Dialogue: 0,0:22:50.02,0:22:57.16,Default,,0,0,0,,Seki seems difficult, but it's a way to avoid\Ngetting captured when you're about to die.
 Dialogue: 0,0:22:54.82,0:22:57.33,Note,,0,0,0,,To be continued...
-Dialogue: 0,0:22:59.05,0:23:00.73,Default,,0,0,0,,Touya Meijin's retiring!?
-Dialogue: 0,0:23:01.24,0:23:03.25,Default,,0,0,0,,What are you talking about? I can't believe it.
-Dialogue: 0,0:23:03.95,0:23:05.42,Default,,0,0,0,,Why did he retire?
+Dialogue: 0,0:22:59.02,0:23:00.44,Default,,0,0,0,,Touya Meijin's retiring!?
+Dialogue: 0,0:23:01.19,0:23:03.25,Background,,0,0,0,,What are you talking about? I can't believe it.
+Dialogue: 0,0:23:03.95,0:23:05.42,Background,,0,0,0,,Why did he retire?
 Dialogue: 0,0:23:06.06,0:23:06.86,Default,,0,0,0,,Why!?
 Dialogue: 0,0:23:07.25,0:23:08.92,Default,,0,0,0,,No fair! It's too early!
-Dialogue: 0,0:23:09.07,0:23:12.10,Default,,0,0,0,,I haven't taken a title from Touya Meijin yet!
-Dialogue: 0,0:23:22.59,0:23:27.16,Default,,0,0,0,,What a self-centered man you are, Touya Kouyou.
+Dialogue: 0,0:23:09.07,0:23:12.33,Default,,0,0,0,,I haven't taken a title from Touya Meijin yet!
+Dialogue: 0,0:23:22.59,0:23:26.76,Background,,0,0,0,,What a self-centered man you are, Touya Kouyou.
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 293
-Active Line: 316
-Video Position: 27739
+Scroll Position: 362
+Active Line: 385
+Video Position: 35443
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -459,23 +459,23 @@ Dialogue: 0,0:20:31.12,0:20:32.13,Thinking,,0,0,0,,This is Sai!
 Dialogue: 0,0:20:32.69,0:20:33.84,Thinking,,0,0,0,,It's Sai!
 Dialogue: 0,0:20:37.22,0:20:38.34,Thinking,,0,0,0,,My father is...
 Dialogue: 0,0:20:38.84,0:20:40.18,Thinking,,0,0,0,,playing Sai!
-Dialogue: 0,0:22:13.13,0:22:15.32,Default,,0,0,0,,Let's cover a Fuseki problem today.
+Dialogue: 0,0:22:13.13,0:22:15.79,Default,,0,0,0,,Let's cover a Fuseki problem today.
 Dialogue: 0,0:22:15.16,0:22:18.51,Note,,0,0,0,,Fuseki is the opening of the game.
-Dialogue: 0,0:22:16.23,0:22:18.84,Default,,0,0,0,,White just went to 3-3 and here's the problem.
-Dialogue: 0,0:22:19.18,0:22:25.56,Default,,0,0,0,,Should black go here, or go here? Which is better?
-Dialogue: 0,0:22:25.87,0:22:29.72,Default,,0,0,0,,Your hint is that black is trying to gain territory on this side.
-Dialogue: 0,0:22:31.97,0:22:35.78,Default,,0,0,0,,If black blocks off from this side, the game will progress like this...
-Dialogue: 0,0:22:37.25,0:22:39.72,Default,,0,0,0,,And he gets a lot of territory.
-Dialogue: 0,0:22:41.78,0:22:45.85,Default,,0,0,0,,If black blocks from the other side, it will progress like this,
-Dialogue: 0,0:22:46.39,0:22:50.18,Default,,0,0,0,,and we have no idea where black can make territory.
-Dialogue: 0,0:22:52.13,0:22:56.07,Default,,0,0,0,,So, this is a situation in which you want to block from this side.
+Dialogue: 0,0:22:16.23,0:22:18.84,Background,,0,0,0,,White just went to 3,3 and here's the problem.
+Dialogue: 0,0:22:19.18,0:22:25.56,Background,,0,0,0,,Should black go here, or go here? Which is better?
+Dialogue: 0,0:22:25.87,0:22:30.27,Background,,0,0,0,,Your hint is that black is trying\Nto gain territory on this side.
+Dialogue: 0,0:22:31.97,0:22:35.78,Background,,0,0,0,,If black blocks off from this side,\Nthe game will progress like this...
+Dialogue: 0,0:22:37.25,0:22:39.72,Background,,0,0,0,,And he gets a lot of territory.
+Dialogue: 0,0:22:41.78,0:22:45.85,Background,,0,0,0,,If black blocks from the other\Nside, it will progress like this,
+Dialogue: 0,0:22:46.39,0:22:50.18,Background,,0,0,0,,and we have no idea where\Nblack can make territory.
+Dialogue: 0,0:22:52.13,0:22:56.07,Default,,0,0,0,,So, this is a situation in which you\Nwant to block from this side.
 Dialogue: 0,0:22:55.15,0:22:57.37,Note,,0,0,0,,To be continued...
-Dialogue: 0,0:22:57.99,0:23:01.53,Thinking,,0,0,0,,My father arranged to play against Sai ahead of time.
-Dialogue: 0,0:23:01.64,0:23:03.95,Thinking,,0,0,0,,My father knows who Sai is!?
-Dialogue: 0,0:23:04.06,0:23:07.31,Default,,0,0,0,,They're both neck and neck now!
+Dialogue: 0,0:22:57.94,0:23:01.53,Thinking,,0,0,0,,My father arranged to play against Sai ahead of time.
+Dialogue: 0,0:23:01.61,0:23:03.95,Thinking,,0,0,0,,My father knows who Sai is!?
+Dialogue: 0,0:23:04.03,0:23:07.49,Background,,0,0,0,,They're both neck and neck now!
 Dialogue: 0,0:23:07.63,0:23:10.32,Thinking,,0,0,0,,He can play this well against Touya Kouyou,
 Dialogue: 0,0:23:10.55,0:23:12.37,Thinking,,0,0,0,,yet we know nothing about him.
-Dialogue: 0,0:23:22.81,0:23:26.19,Thinking,,0,0,0,,It's the old Shindou that I see in Sai!
+Dialogue: 0,0:23:22.76,0:23:26.30,Thinking,,0,0,0,,It's the old Shindou that I see in Sai!
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

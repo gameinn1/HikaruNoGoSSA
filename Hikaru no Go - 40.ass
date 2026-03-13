@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 40 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 162
-Active Line: 183
-Video Position: 29675
+Scroll Position: 180
+Active Line: 206
+Video Position: 35511
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -291,12 +291,12 @@ Dialogue: 0,0:22:51.56,0:22:53.51,Default,,0,0,0,,and there's a different kind o
 Dialogue: 0,0:22:53.74,0:22:55.55,Default,,0,0,0,,So both of you, please try it one day.
 Dialogue: 0,0:22:55.63,0:22:56.23,Default,,0,0,0,,All right!
 Dialogue: 0,0:22:54.80,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:58.40,0:23:01.09,Default,,0,0,0,,Ochi, I know that you're strong,
-Dialogue: 0,0:23:01.69,0:23:03.74,Default,,0,0,0,,but I've never for a moment thought that I couldn't beat you.
-Dialogue: 0,0:23:04.51,0:23:06.36,Default,,0,0,0,,I'll be playing you in the last match Ochi.
-Dialogue: 0,0:23:06.72,0:23:09.80,Default,,0,0,0,,I'll be a lot stronger by then.
-Dialogue: 0,0:23:11.06,0:23:12.28,Default,,0,0,0,,Shindou...
-Dialogue: 0,0:23:22.92,0:23:25.64,Default,,0,0,0,,Grandpa! Please call Touya 2-dan!
+Dialogue: 0,0:22:58.36,0:23:01.09,Default,,0,0,0,,Ochi, I know that you're strong,
+Dialogue: 0,0:23:01.65,0:23:03.90,Default,,0,0,0,,but I've never for a moment thought\Nthat I couldn't beat you.
+Dialogue: 0,0:23:04.40,0:23:06.36,Default,,0,0,0,,I'll be playing you in the last match Ochi.
+Dialogue: 0,0:23:06.70,0:23:09.80,Default,,0,0,0,,I'll be a lot stronger by then.
+Dialogue: 0,0:23:11.04,0:23:12.28,Default,,0,0,0,,Shindou...
+Dialogue: 0,0:23:22.88,0:23:25.88,Default,,0,0,0,,Grandpa! Please call Touya 2dan!
 Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Real-Fansubbers
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Real-Fansubbers
 Dialogue: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents

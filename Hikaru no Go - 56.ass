@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 258
-Active Line: 284
-Video Position: 29788
+Scroll Position: 282
+Active Line: 306
+Video Position: 35476
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -376,27 +376,27 @@ Dialogue: 0,0:20:33.88,0:20:36.34,Sai,,0,0,0,,given me a millennium of time,
 Dialogue: 0,0:20:37.30,0:20:38.34,Sai,,0,0,0,,simply to...
 Dialogue: 0,0:20:38.72,0:20:41.39,Sai,,0,0,0,,show Hikaru this match!
 Dialogue: 0,0:22:12.85,0:22:15.00,Default,,0,0,0,,Let's do another Fuseki problem today.
-Dialogue: 0,0:22:16.20,0:22:18.62,Default,,0,0,0,,The problem arises when White moves here.
-Dialogue: 0,0:22:18.96,0:22:21.04,Default,,0,0,0,,Should black play here...
-Dialogue: 0,0:22:22.15,0:22:25.34,Default,,0,0,0,,or here? Which is better?
-Dialogue: 0,0:22:28.12,0:22:29.27,Default,,0,0,0,,If he plays here...
-Dialogue: 0,0:22:29.73,0:22:31.59,Default,,0,0,0,,White responds like this,
-Dialogue: 0,0:22:31.59,0:22:34.68,Default,,0,0,0,,and he can almost immediately get two eyes.
-Dialogue: 0,0:22:34.99,0:22:36.70,Default,,0,0,0,,White has plenty of space.
-Dialogue: 0,0:22:39.79,0:22:41.39,Default,,0,0,0,,If he plays here...
-Dialogue: 0,0:22:42.01,0:22:43.89,Default,,0,0,0,,It may proceed like this,
-Dialogue: 0,0:22:44.08,0:22:47.08,Default,,0,0,0,,and White won't be able to readily make two eyes.
-Dialogue: 0,0:22:47.41,0:22:49.05,Default,,0,0,0,,White has very little space.
+Dialogue: 0,0:22:16.20,0:22:18.62,Background,,0,0,0,,The problem arises when White moves here.
+Dialogue: 0,0:22:18.96,0:22:21.04,Background,,0,0,0,,Should black play here...
+Dialogue: 0,0:22:22.15,0:22:25.34,Background,,0,0,0,,or here? Which is better?
+Dialogue: 0,0:22:28.12,0:22:29.27,Background,,0,0,0,,If he plays here...
+Dialogue: 0,0:22:29.73,0:22:31.59,Background,,0,0,0,,White responds like this,
+Dialogue: 0,0:22:31.59,0:22:34.68,Background,,0,0,0,,and he can almost immediately get two eyes.
+Dialogue: 0,0:22:34.99,0:22:36.70,Background,,0,0,0,,White has plenty of space.
+Dialogue: 0,0:22:39.79,0:22:41.39,Background,,0,0,0,,If he plays here...
+Dialogue: 0,0:22:42.01,0:22:43.89,Background,,0,0,0,,It may proceed like this,
+Dialogue: 0,0:22:44.08,0:22:47.17,Background,,0,0,0,,and White won't be able to readily make two eyes.
+Dialogue: 0,0:22:47.41,0:22:49.08,Background,,0,0,0,,White has very little space.
 Dialogue: 0,0:22:50.34,0:22:53.05,Default,,0,0,0,,If White comes into a place Black is strong in,
 Dialogue: 0,0:22:53.05,0:22:56.05,Default,,0,0,0,,respond aggressively so that White can't live easily.
 Dialogue: 0,0:22:55.03,0:22:57.37,Note,,0,0,0,,To be continued...
-Dialogue: 0,0:22:59.60,0:23:00.90,Default,,0,0,0,,Sai, you say?
-Dialogue: 0,0:23:01.52,0:23:03.98,Default,,0,0,0,,So you do know Sai after all!
-Dialogue: 0,0:23:04.27,0:23:05.83,Default,,0,0,0,,Mr. Ogata...
-Dialogue: 0,0:23:06.19,0:23:07.56,Default,,0,0,0,,Did you arrange that match...
-Dialogue: 0,0:23:07.82,0:23:09.48,Default,,0,0,0,,between Sai and Master Touya!?
+Dialogue: 0,0:22:59.57,0:23:00.90,Default,,0,0,0,,Sai, you say?
+Dialogue: 0,0:23:01.48,0:23:03.98,Background,,0,0,0,,So you do know Sai after all!
+Dialogue: 0,0:23:04.24,0:23:05.83,Background,,0,0,0,,Mr. Ogata...
+Dialogue: 0,0:23:06.16,0:23:07.56,Default,,0,0,0,,Did you arrange that match...
+Dialogue: 0,0:23:07.78,0:23:09.48,Default,,0,0,0,,between Sai and Master Touya!?
 Dialogue: 0,0:23:09.74,0:23:12.09,Default,,0,0,0,,No! It wasn't me!
-Dialogue: 0,0:23:22.79,0:23:24.49,Default,,0,0,0,,Let me play him, too!
+Dialogue: 0,0:23:22.79,0:23:24.30,Default,,0,0,0,,Let me play him, too!
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 340
-Active Line: 359
-Video Position: 27779
+Scroll Position: 381
+Active Line: 397
+Video Position: 34981
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,7 +98,7 @@ Dialogue: 0,0:02:07.37,0:02:09.23,Background,,0,0,0,,There are tutoring games an
 Dialogue: 0,0:02:09.57,0:02:13.19,Default,,0,0,0,,But... wow, there are a lot of people here.
 Dialogue: 0,0:02:15.03,0:02:17.33,Sai,,0,0,0,,Hikaru, Hikaru! Over there!
 Dialogue: 0,0:02:17.74,0:02:18.24,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\bord0\fscy80\frz359\pos(76,106)}{\alpha&HFF&}Net {\alpha&H00&}Go Corner
-Dialogue: 0,0:02:18.24,0:02:20.75,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\bord0\fscy80\frz359\pos(76,106)}Net Go Corner
+Dialogue: 0,0:02:18.24,0:02:20.75,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\bord0\fscy80\frz359\pos(76,106)}{\alpha&H00&}Net Go Corner
 Dialogue: 0,0:02:21.84,0:02:26.76,Thinking,,0,0,0,,I guess this'll cheer Sai up a bit. I'm glad we came.
 Dialogue: 0,0:02:29.02,0:02:31.55,Memory,,0,0,0,,I wanted to play you with no handicap.
 Dialogue: 0,0:02:38.43,0:02:41.01,Memory,,0,0,0,,Next time, let us play an even game.
@@ -479,19 +479,19 @@ Dialogue: 0,0:20:36.88,0:20:38.93,Default,,0,0,0,,He knows a lot about Shuusaku'
 Dialogue: 0,0:20:39.55,0:20:41.32,Default,,0,0,0,,What a strange child.
 Dialogue: 0,0:22:13.31,0:22:15.35,Default,,0,0,0,,Have you guys seen things like this before?
 Dialogue: 0,0:22:15.43,0:22:16.67,Default,,0,0,0,,Yup.
-Dialogue: 0,0:22:16.90,0:22:20.97,Default,,0,0,0,,It's called Kifu. If you place stones on the board
-Dialogue: 0,0:22:20.97,0:22:25.15,Default,,0,0,0,,following these numbers, you can replay an old game.
+Dialogue: 0,0:22:16.90,0:22:20.97,Default,,0,0,0,,This is called Kifu. If you place stones on the board
+Dialogue: 0,0:22:20.97,0:22:25.15,Default,,0,0,0,,following these numbers,\Nyou can replay an old game.
 Dialogue: 0,0:22:25.45,0:22:26.55,Default,,0,0,0,,Want to give it a try?
 Dialogue: 0,0:22:26.69,0:22:27.44,Default,,0,0,0,,Sure.
-Dialogue: 0,0:22:49.07,0:22:55.00,Default,,0,0,0,,Even a match from hundreds of years ago can be replayed with just one Kifu.
+Dialogue: 0,0:22:49.07,0:22:55.00,Default,,0,0,0,,Even a match from hundreds of years\Nago can be replayed with just one Kifu.
 Dialogue: 0,0:22:54.67,0:22:57.37,Note,,0,0,0,,To be continued...
 Dialogue: 0,0:22:59.29,0:23:01.16,Default,,0,0,0,,My first opponent is...
 Dialogue: 0,0:23:02.53,0:23:03.28,Default,,0,0,0,,Touya!
-Dialogue: 0,0:23:03.92,0:23:06.58,Default,,0,0,0,,He's already declared hostilities against you.
+Dialogue: 0,0:23:03.92,0:23:06.58,Sai,,0,0,0,,He's already declared hostilities against you.
 Dialogue: 0,0:23:07.57,0:23:08.32,Default,,0,0,0,,Touya-kun.
 Dialogue: 0,0:23:08.79,0:23:11.02,Default,,0,0,0,,Shindou-kun's opponent for the first round is...
 Dialogue: 0,0:23:11.16,0:23:12.16,Default,,0,0,0,,I know.
-Dialogue: 0,0:23:22.75,0:23:25.14,Default,,0,0,0,,I'll catch up to Akira... I'll surpass him!
+Dialogue: 0,0:23:22.71,0:23:25.14,Default,,0,0,0,,I'll catch up to Akira... I'll surpass him!
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

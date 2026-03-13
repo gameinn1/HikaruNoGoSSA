@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 252
-Active Line: 281
-Video Position: 29771
+Scroll Position: 285
+Active Line: 299
+Video Position: 35197
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -373,27 +373,39 @@ Dialogue: 0,0:20:36.89,0:20:38.53,Background,,0,0,0,,Good night.
 Dialogue: 0,0:20:37.82,0:20:39.35,Sai,,0,0,0,,Let's play, Hikaru!
 Dialogue: 0,0:20:39.97,0:20:41.36,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:22:12.86,0:22:14.57,Default,,0,0,0,,We're continuing with Yose today.
-Dialogue: 0,0:22:15.54,0:22:18.44,Default,,0,0,0,,When there are two Yose spots left, how would you play, Yuki-kun?
-Dialogue: 0,0:22:18.54,0:22:19.19,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:20.66,0:22:21.31,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:22.55,0:22:23.05,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:23.05,0:22:24.81,Default,,0,0,0,,You got to play both spots.
-Dialogue: 0,0:22:25.86,0:22:27.61,Default,,0,0,0,,If you play here first...
-Dialogue: 0,0:22:30.81,0:22:32.57,Default,,0,0,0,,You can only get one of the spots.
-Dialogue: 0,0:22:32.82,0:22:35.80,Default,,0,0,0,,You lost three moku compared to earlier.
-Dialogue: 0,0:22:35.93,0:22:37.80,Default,,0,0,0,,We call places like this,
-Dialogue: 0,0:22:39.96,0:22:43.46,Default,,0,0,0,,where white has to respond to black, Sente.
-Dialogue: 0,0:22:43.80,0:22:48.80,Default,,0,0,0,,And, we call a place where your opponent doesn't have to respond to, Gote.
+Dialogue: 0,0:22:15.53,0:22:18.44,Background,,0,0,0,,When there are two Yose spots\Nleft, how would you play, Yuuki-kun?
+Dialogue: 0,0:22:18.54,0:22:19.19,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:20.66,0:22:21.31,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:22.55,0:22:23.05,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:23.05,0:22:24.81,Background,,0,0,0,,You got to play both spots.
+Dialogue: 0,0:22:25.86,0:22:27.61,Background,,0,0,0,,If you play here first...
+Dialogue: 0,0:22:30.81,0:22:32.57,Background,,0,0,0,,You can only get one of the spots.
+Dialogue: 0,0:22:32.82,0:22:35.80,Background,,0,0,0,,You lost three moku compared to earlier.
+Dialogue: 0,0:22:35.93,0:22:37.80,Background,,0,0,0,,We call places like this,
+Dialogue: 0,0:22:39.96,0:22:43.46,Background,,0,0,0,,where white has to respond to black, Sente.
+Dialogue: 0,0:22:43.80,0:22:48.80,Background,,0,0,0,,And, we call a place where your\Nopponent doesn't have to respond to, Gote.
 Dialogue: 0,0:22:51.49,0:22:53.97,Default,,0,0,0,,The key to "Yose" is to play the Sente spots first.
 Dialogue: 0,0:22:51.61,0:22:57.37,Note,,0,0,0,,To be continued...
-Dialogue: 0,0:22:59.33,0:23:02.58,Default,,0,0,0,,How dare you slander Torajurou's name with a fake signature!
-Dialogue: 0,0:23:03.30,0:23:07.25,Default,,0,0,0,,You said all that, why don't you try?
-Dialogue: 0,0:23:08.29,0:23:12.10,Default,,0,0,0,,It's impossible to turn a game around once you're at a disadvantage to a pro.
-Dialogue: 0,0:23:11.12,0:23:12.37,Note,,0,0,0,,{\an5\pos(220,310)\frz286}Atsushi
-Dialogue: 0,0:23:11.12,0:23:12.37,Note,,0,0,0,,{\an5\pos(362,270)\frz263}Kurata
-Dialogue: 0,0:23:11.12,0:23:12.37,Note,,0,0,0,,{\an5\pos(487,310)\frz248}Meijin
-Dialogue: 0,0:23:11.12,0:23:12.37,Note,,0,0,0,,{\an5\pos(530,340)\frz241}Most of the way
-Dialogue: 0,0:23:22.78,0:23:25.56,Default,,0,0,0,,14-4, approach by one space.
+Dialogue: 0,0:22:59.27,0:23:02.58,Sai,,0,0,0,,How dare you slander\NTorajurou's name with a fake signature!
+Dialogue: 0,0:23:03.28,0:23:07.25,Background,,0,0,0,,You said all that, why don't you try?
+Dialogue: 0,0:23:08.24,0:23:12.37,Background,,0,0,0,,It's impossible to turn a game around\Nonce you're at a disadvantage to a pro.
+Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz286\pos(233,410)}Atsu{\alpha&HFF&}shi
+Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz286\pos(233,370)}Atsushi
+Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz286\pos(233,337)}Atsushi
+Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz286\pos(233,326)}Atsushi
+Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz263\pos(371,365)}Kurata
+Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz263\pos(371,322)}Kurata
+Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz263\pos(371,295)}Kurata
+Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz263\pos(371,283)}Kurata
+Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz248\pos(490,405)}Meiji{\alpha&HFF&}n
+Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz248\pos(490,362)}Meijin
+Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz248\pos(490,334)}Meijin
+Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\fscy80\frz248\pos(490,323)}Meijin
+Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\fscy80\frz241\pos(528,428)}Most o{\alpha&HFF&}f the way
+Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\fscy80\frz241\pos(528,384)}Most of the w{\alpha&HFF&}ay
+Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\fscy80\frz241\pos(528,355)}Most of the way
+Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\fscy80\frz241\pos(528,345)}Most of the way
+Dialogue: 0,0:23:22.76,0:23:25.56,Sai,,0,0,0,,14-4, approach by one space.
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

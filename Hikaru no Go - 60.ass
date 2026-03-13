@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 216
-Active Line: 238
-Video Position: 29280
+Scroll Position: 240
+Active Line: 261
+Video Position: 35503
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,29 +329,29 @@ Dialogue: 0,0:19:45.79,0:19:47.25,Default,,0,0,0,,It's your turn.
 Dialogue: 0,0:19:51.13,0:19:53.09,Default,,0,0,0,,I said it's your turn.
 Dialogue: 0,0:19:55.92,0:19:56.68,Default,,0,0,0,,Sai!
 Dialogue: 0,0:20:21.20,0:20:22.20,Default,,0,0,0,,Sai?
-Dialogue: 0,0:22:13.20,0:22:17.13,Default,,0,0,0,,Today we have a problem based on a situation you might see quite often in your games.
-Dialogue: 0,0:22:17.96,0:22:22.29,Default,,0,0,0,,Black has a really good move when White moves here.
-Dialogue: 0,0:22:22.86,0:22:23.96,Default,,0,0,0,,Mai-chan, what would you do?
-Dialogue: 0,0:22:24.38,0:22:24.94,Default,,0,0,0,,Here!
-Dialogue: 0,0:22:25.09,0:22:26.81,Default,,0,0,0,,It's Atari, so I'll capture it.
-Dialogue: 0,0:22:27.81,0:22:28.47,Default,,0,0,0,,Here!
-Dialogue: 0,0:22:28.65,0:22:30.73,Default,,0,0,0,,That's Atari, so I'll connect.
-Dialogue: 0,0:22:31.25,0:22:31.88,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:32.09,0:22:33.66,Default,,0,0,0,,Yup! That's right!
-Dialogue: 0,0:22:34.02,0:22:37.24,Default,,0,0,0,,Now there four White stones can't get away.
+Dialogue: 0,0:22:13.19,0:22:17.13,Default,,0,0,0,,Today we have a problem based on a situation\Nyou might see quite often in your games.
+Dialogue: 0,0:22:17.96,0:22:22.29,Background,,0,0,0,,Black has a really good move\Nwhen White moves here.
+Dialogue: 0,0:22:22.85,0:22:23.96,Background,,0,0,0,,Mai-chan, what would you do?
+Dialogue: 0,0:22:24.38,0:22:24.94,Background,,0,0,0,,Here!
+Dialogue: 0,0:22:25.09,0:22:26.81,Background,,0,0,0,,It's Atari, so I'll capture it.
+Dialogue: 0,0:22:27.81,0:22:28.47,Background,,0,0,0,,Here!
+Dialogue: 0,0:22:28.65,0:22:30.73,Background,,0,0,0,,That's Atari, so I'll connect.
+Dialogue: 0,0:22:31.25,0:22:31.88,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:32.09,0:22:33.66,Background,,0,0,0,,Yup! That's right!
+Dialogue: 0,0:22:34.02,0:22:37.24,Background,,0,0,0,,Now these four White stones can't get away.
 Dialogue: 0,0:22:37.68,0:22:40.43,Default,,0,0,0,,You were able to hurt White's territory a lot.
-Dialogue: 0,0:22:40.62,0:22:43.05,Default,,0,0,0,,But had you connected here...
-Dialogue: 0,0:22:43.60,0:22:47.17,Default,,0,0,0,,White would have responded here, and his territory would have been very large.
-Dialogue: 0,0:22:47.38,0:22:51.95,Default,,0,0,0,,The correct move for White would have been to move here at this point.
+Dialogue: 0,0:22:40.62,0:22:43.05,Background,,0,0,0,,But had you connected here...
+Dialogue: 0,0:22:43.60,0:22:47.17,Background,,0,0,0,,White would have responded here, and his\Nterritory would have been very large.
+Dialogue: 0,0:22:47.43,0:22:51.95,Background,,0,0,0,,The correct move for White would have\Nbeen to move here at this point.
 Dialogue: 0,0:22:52.40,0:22:55.51,Default,,0,0,0,,Let's make sure not to miss opportunities like this.
 Dialogue: 0,0:22:55.90,0:22:57.37,Note,,0,0,0,,To be continued...
 Dialogue: 0,0:22:57.74,0:22:58.49,Default,,0,0,0,,Sai!?
-Dialogue: 0,0:22:58.81,0:23:00.94,Default,,0,0,0,,Are you there? Sai?
-Dialogue: 0,0:23:01.48,0:23:03.95,Thinking,,0,0,0,,He wasn't in the shed where we met...
-Dialogue: 0,0:23:04.24,0:23:06.52,Thinking,,0,0,0,,So I guess it's not a place where he has memories with me...
-Dialogue: 0,0:23:07.45,0:23:08.74,Thinking,,0,0,0,,I'll find him no matter what!
-Dialogue: 0,0:23:08.91,0:23:12.34,Thinking,,0,0,0,,I can't just let him disappear all of a sudden!
-Dialogue: 0,0:23:23.47,0:23:25.90,Thinking,,0,0,0,,I won't let it happen, Sai!
+Dialogue: 0,0:22:58.86,0:23:01.03,Background,,0,0,0,,Are you there? Sai?
+Dialogue: 0,0:23:01.44,0:23:04.03,Thinking,,0,0,0,,He wasn't in the shed where we met...
+Dialogue: 0,0:23:04.20,0:23:06.52,Thinking,,0,0,0,,So I guess it's not a place where\Nhe has memories with me...
+Dialogue: 0,0:23:07.41,0:23:08.74,Thinking,,0,0,0,,I'll find him no matter what!
+Dialogue: 0,0:23:08.91,0:23:12.37,Thinking,,0,0,0,,I can't just let him disappear all of a sudden!
+Dialogue: 0,0:23:23.42,0:23:25.34,Thinking,,0,0,0,,I won't let it happen, Sai!
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

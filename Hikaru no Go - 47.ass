@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 285
-Active Line: 311
-Video Position: 29753
+Scroll Position: 312
+Active Line: 336
+Video Position: 35513
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -404,14 +404,14 @@ Dialogue: 0,0:20:35.46,0:20:36.80,Sai,,0,0,0,,Let me play!
 Dialogue: 0,0:20:38.22,0:20:40.47,Sai,,0,0,0,,Let me play that match!
 Dialogue: 0,0:22:12.32,0:22:14.46,Note,,0,0,0,,August 30th Japanese Go Institute
 Dialogue: 0,0:22:12.32,0:22:14.46,Note,,0,0,0,,Go Go Igo Cup Junior Pair Go Tournament was held
-Dialogue: 0,0:22:15.26,0:22:17.09,Default,,0,0,0,,It's finally the day of the Go tournament!
+Dialogue: 0,0:22:15.26,0:22:17.09,Default,,0,0,0,,It's finally the day of the Go Tournament!
 Dialogue: 0,0:22:17.09,0:22:18.41,Default,,0,0,0,,Yup, let's do our best!
 Dialogue: 0,0:22:18.41,0:22:19.06,Default,,0,0,0,,Yup!
 Dialogue: 0,0:22:19.55,0:22:23.75,Note,,0,0,0,,In the morning, 300 pairs played in the preliminaries
 Dialogue: 0,0:22:19.55,0:22:21.20,Default,,0,0,0,,Start your clocks!
 Dialogue: 0,0:22:24.12,0:22:27.47,Note,,0,0,0,,Only 32 pairs can go to the finals!!
-Dialogue: 0,0:22:27.78,0:22:32.79,Default,,0,0,0,,Go Go Igo cup's Junior Pair Go Tournament was finally held today. I'm glad.
-Dialogue: 0,0:22:33.33,0:22:38.00,Note,,0,0,0,,Katou Masao Honinbou and Suzuki Isao 7-dan came to cheer them on
+Dialogue: 0,0:22:27.78,0:22:32.81,Default,,0,0,0,,Go Go Igo cup's Junior Pair Go Tournament\Nwas finally held today. I'm glad.
+Dialogue: 0,0:22:33.33,0:22:38.00,Note,,0,0,0,,Katou Masao Honinbou and Suzuki Isao 7 dan\Ncame to cheer them on
 Dialogue: 0,0:22:35.50,0:22:36.40,Default,,0,0,0,,It was a good match.
 Dialogue: 0,0:22:38.19,0:22:39.60,Default,,0,0,0,,Good luck next time.
 Dialogue: 0,0:22:40.60,0:22:42.52,Note,,0,0,0,,In the meanwhile Mai and Yuuki were...
@@ -420,13 +420,13 @@ Dialogue: 0,0:22:46.95,0:22:47.85,Default,,0,0,0,,How was it?
 Dialogue: 0,0:22:48.03,0:22:49.58,Default,,0,0,0,,I wanted to go to the finals.
 Dialogue: 0,0:22:49.76,0:22:50.70,Default,,0,0,0,,What about you, Yuuki-kun?
 Dialogue: 0,0:22:50.70,0:22:52.33,Default,,0,0,0,,I wanted to go to the finals, too.
-Dialogue: 0,0:22:52.49,0:22:55.94,Default,,0,0,0,,I'm sorry for the both of you. But you tried your best.
+Dialogue: 0,0:22:52.49,0:22:55.94,Default,,0,0,0,,I'm sorry for the both of you.\NBut you tried your best.
 Dialogue: 0,0:22:54.37,0:22:57.37,Note,,0,0,0,,The finals tournament is next!!
-Dialogue: 0,0:23:01.22,0:23:04.19,Default,,0,0,0,,I'm going to be hidden in your shadow again.
-Dialogue: 0,0:23:04.79,0:23:05.86,Default,,0,0,0,,Then hide in my shadow!
+Dialogue: 0,0:23:01.19,0:23:04.19,Default,,0,0,0,,I'm going to be hidden in your shadow again.
+Dialogue: 0,0:23:04.74,0:23:05.70,Sai,,0,0,0,,Then hide in my shadow!
 Dialogue: 0,0:23:06.08,0:23:07.26,Default,,0,0,0,,I can't!
-Dialogue: 0,0:23:08.81,0:23:10.67,Default,,0,0,0,,I understand how you feel, but...
-Dialogue: 0,0:23:22.75,0:23:25.53,Default,,0,0,0,,Show me how strong you are.
+Dialogue: 0,0:23:08.78,0:23:10.67,Default,,0,0,0,,I understand how you feel, but...
+Dialogue: 0,0:23:22.71,0:23:25.53,Background,,0,0,0,,Show me how strong you are.
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 45 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 173
-Active Line: 187
-Video Position: 26739
+Scroll Position: 218
+Active Line: 241
+Video Position: 35133
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -308,30 +308,30 @@ Dialogue: 0,0:20:16.31,0:20:22.81,Thinking,,0,0,0,,He's fighting back... did Shi
 Dialogue: 0,0:20:24.33,0:20:25.95,Thinking,,0,0,0,,Damn! Then...
 Dialogue: 0,0:20:28.21,0:20:30.34,Thinking,,0,0,0,,I'm going to keep attacking until I crush you!
 Dialogue: 0,0:20:34.74,0:20:35.84,Thinking,,0,0,0,,There!
-Dialogue: 0,0:22:12.75,0:22:16.06,Default,,0,0,0,,I have a problem for today. Everyone in the audience should think along.
-Dialogue: 0,0:22:16.20,0:22:19.10,Default,,0,0,0,,There's something you can still do to white.
-Dialogue: 0,0:22:19.28,0:22:21.08,Default,,0,0,0,,Where should Black play?
+Dialogue: 0,0:22:12.75,0:22:16.06,Default,,0,0,0,,I have a problem for today. Everyone\Nin the audience should think along.
+Dialogue: 0,0:22:16.20,0:22:19.10,Background,,0,0,0,,There's something you can still do to white.
+Dialogue: 0,0:22:19.28,0:22:21.08,Background,,0,0,0,,Where should Black play?
 Dialogue: 0,0:22:21.34,0:22:22.51,Default,,0,0,0,,Try it, Yuuki-kun.
 Dialogue: 0,0:22:25.12,0:22:25.82,Default,,0,0,0,,Here.
 Dialogue: 0,0:22:26.62,0:22:28.39,Default,,0,0,0,,That's Atari, so I'll run.
-Dialogue: 0,0:22:28.55,0:22:29.25,Default,,0,0,0,,Here.
-Dialogue: 0,0:22:30.19,0:22:30.98,Default,,0,0,0,,Atari!
-Dialogue: 0,0:22:32.07,0:22:32.87,Default,,0,0,0,,Here!
-Dialogue: 0,0:22:33.70,0:22:35.65,Default,,0,0,0,,Thanks for the meal!
+Dialogue: 0,0:22:28.55,0:22:29.25,Background,,0,0,0,,Here.
+Dialogue: 0,0:22:30.19,0:22:30.98,Background,,0,0,0,,Atari!
+Dialogue: 0,0:22:32.07,0:22:32.87,Background,,0,0,0,,Here!
+Dialogue: 0,0:22:33.70,0:22:35.65,Background,,0,0,0,,Thanks for the meal!
 Dialogue: 0,0:22:36.69,0:22:37.74,Default,,0,0,0,,Try it, Mai-chan.
 Dialogue: 0,0:22:39.45,0:22:40.15,Default,,0,0,0,,Here!
-Dialogue: 0,0:22:41.80,0:22:42.86,Default,,0,0,0,,I'll capture it.
-Dialogue: 0,0:22:43.92,0:22:44.67,Default,,0,0,0,,Here!
-Dialogue: 0,0:22:46.20,0:22:48.16,Default,,0,0,0,,I can't get away from this.
-Dialogue: 0,0:22:49.19,0:22:50.42,Default,,0,0,0,,Thanks for the meal.
-Dialogue: 0,0:22:50.42,0:22:52.15,Default,,0,0,0,,Yup, that's right!
+Dialogue: 0,0:22:41.80,0:22:42.86,Background,,0,0,0,,I'll capture it.
+Dialogue: 0,0:22:43.92,0:22:44.67,Background,,0,0,0,,Here!
+Dialogue: 0,0:22:46.20,0:22:48.16,Background,,0,0,0,,I can't get away from this.
+Dialogue: 0,0:22:49.19,0:22:50.42,Background,,0,0,0,,Thanks for the meal.
+Dialogue: 0,0:22:50.42,0:22:52.15,Background,,0,0,0,,Yup, that's right!
 Dialogue: 0,0:22:53.08,0:22:54.58,Default,,0,0,0,,I want to try out more problems!
 Dialogue: 0,0:22:54.58,0:22:55.77,Default,,0,0,0,,We will next time.
 Dialogue: 0,0:22:55.03,0:22:57.37,Note,,0,0,0,,To be continued...
-Dialogue: 0,0:22:59.32,0:23:01.95,Default,,0,0,0,,There are still two matches going on...
-Dialogue: 0,0:23:01.95,0:23:04.79,Default,,0,0,0,,and what important matches they are.
-Dialogue: 0,0:23:05.41,0:23:08.94,Thinking,,0,0,0,,If Shindou loses, we'll be tied at four losses and we'll have a playoff.
-Dialogue: 0,0:23:10.29,0:23:12.31,Default,,0,0,0,,The game is completely even now.
+Dialogue: 0,0:22:59.32,0:23:01.95,Background,,0,0,0,,There are still two matches going on...
+Dialogue: 0,0:23:01.95,0:23:04.79,Background,,0,0,0,,and what important matches they are.
+Dialogue: 0,0:23:05.41,0:23:08.83,Thinking,,0,0,0,,If Shindou loses, we'll be tied at four\Nlosses and we'll have a playoff.
+Dialogue: 0,0:23:10.24,0:23:12.31,Sai,,0,0,0,,The game is completely even now.
 Dialogue: 0,0:23:23.89,0:23:24.72,Thinking,,0,0,0,,Who is it!?
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 37 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 144
-Active Line: 159
-Video Position: 22286
+Scroll Position: 232
+Active Line: 243
+Video Position: 35487
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -321,24 +321,19 @@ Dialogue: 0,0:20:24.96,0:20:26.38,Default,,0,0,0,,I'll go! I'll go!
 Dialogue: 0,0:20:26.69,0:20:28.74,Default,,0,0,0,,Yes please set it up.
 Dialogue: 0,0:20:34.05,0:20:34.82,Default,,0,0,0,,Shindou...
 Dialogue: 0,0:20:37.59,0:20:40.05,Default,,0,0,0,,I'm going to take a look at how\Nstrong you are right now.
-Dialogue: 0,0:22:12.48,0:22:14.39,Default,,0,0,0,,Today, we'll be explaining Go terminology again!
-Dialogue: 0,0:22:14.84,0:22:15.44,Default,,0,0,0,,That's right.
-Dialogue: 0,0:22:18.85,0:22:22.49,Default,,0,0,0,,When you play right next to your opponent's stone, it's called an attachment, {\i1}tsuke{\i}.
-Dialogue: 0,0:22:23.94,0:22:27.41,Default,,0,0,0,,When you play diagonally from an attachment, it's called a {\i1}hane{\i0}.
-Dialogue: 0,0:22:28.46,0:22:32.32,Default,,0,0,0,,Against a {\i1}hane{\i}, if you play right next to your stone, it's called extending, {\i1}nobi{\i}.
-Dialogue: 0,0:22:33.48,0:22:36.90,Default,,0,0,0,,Protecting against the cutting point between these two stones....
-Dialogue: 0,0:22:37.36,0:22:39.11,Default,,0,0,0,,is called connecting, {\i1}tsugi{\i}.
-Dialogue: 0,0:22:39.95,0:22:45.20,Default,,0,0,0,,If Black doesn't connect and White separates these two stones,
-Dialogue: 0,0:22:45.42,0:22:47.16,Default,,0,0,0,,this is called a cross-cut, {\i1}kiri{\i}.
-Dialogue: 0,0:22:48.07,0:22:50.52,Default,,0,0,0,,If you learn Go terminology, you'll know what Sai is talking about
-Dialogue: 0,0:22:50.52,0:22:52.52,Default,,0,0,0,,and understand the explanations,
-Dialogue: 0,0:22:52.80,0:22:54.92,Default,,0,0,0,,and that will make Go even more fun.
-Dialogue: 0,0:22:54.43,0:22:57.37,Note,,0,0,0,,To be continued
-Dialogue: 0,0:22:58.98,0:23:01.20,Default,,0,0,0,,I want to find out how strong Shindou is.
-Dialogue: 0,0:23:01.84,0:23:05.80,Default,,0,0,0,,You don't think I can beat Shindou?
-Dialogue: 0,0:23:06.35,0:23:09.36,Default,,0,0,0,,Shindou will trip along the way.
-Dialogue: 0,0:23:09.93,0:23:12.04,Default,,0,0,0,,Sorry but I'm going to beat you again.
-Dialogue: 0,0:23:22.89,0:23:24.55,Default,,0,0,0,,He lost!? To who!?
+Dialogue: 0,0:22:12.48,0:22:14.39,Default,,0,0,0,,{\an8}We're explaining Go terms again today!
+Dialogue: 0,0:22:14.84,0:22:15.44,Default,,0,0,0,,Okay.
+Dialogue: 0,0:22:18.83,0:22:22.63,Default,,0,0,0,,{\an8}When you place your stone immediately next\Nto another stone, it's called a "Tsuke"
+Dialogue: 0,0:22:23.94,0:22:27.41,Default,,0,0,0,,{\an8}When you play diagonally to a Tsuke\Nlike this, it's called a "Hane"
+Dialogue: 0,0:22:28.46,0:22:32.32,Default,,0,0,0,,{\an8}When you place a stone next to the "tsuke"\Nstone after a "hane" is a "Nobi"
+Dialogue: 0,0:22:33.48,0:22:39.12,Default,,0,0,0,,{\an8}Let's say black connects these two isolated\Nstones, this is called a "Tsugi"
+Dialogue: 0,0:22:39.95,0:22:47.12,Default,,0,0,0,,{\an8}If black doesn't play there, and white plays\Nthere instead, cutting the two stones\Napart, this move is called a "Kiri"
+Dialogue: 0,0:22:48.07,0:22:54.92,Default,,0,0,0,,{\an8}Once you learn Go terms, you'll be able to\Nunderstand what Sai talks about, and explanations,\Nand Go will become even more fun.
+Dialogue: 0,0:22:58.98,0:23:01.32,Background,,0,0,0,,I want to find out how strong Shindou is.
+Dialogue: 0,0:23:01.82,0:23:05.99,Background,,0,0,0,,You don't think I can beat Shindou?
+Dialogue: 0,0:23:06.32,0:23:09.28,Background,,0,0,0,,Shindou will trip along the way.
+Dialogue: 0,0:23:09.87,0:23:12.20,Background,,0,0,0,,Sorry but I'm going to beat you again.
+Dialogue: 0,0:23:22.89,0:23:24.72,Background,,0,0,0,,He lost!? To who!?
 Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Elite-Fansubs
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Elite-Fansubs
 Dialogue: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents
