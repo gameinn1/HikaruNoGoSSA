@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 36 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 147
-Active Line: 170
-Video Position: 35196
+Scroll Position: 126
+Active Line: 145
+Video Position: 29076
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -130,13 +130,13 @@ Dialogue: 0,0:05:41.97,0:05:44.19,Thinking,,0,0,0,,{\1c&HFEFECE&}Though it start
 Dialogue: 0,0:05:44.99,0:05:45.74,Thinking,,0,0,0,,{\1c&HFEFECE&}This match...
 Dialogue: 0,0:05:46.41,0:05:48.87,Thinking,,0,0,0,,{\1c&HFEFECE&}This match touches me in the heart.
 Dialogue: 0,0:05:55.11,0:05:57.14,Thinking,,0,0,0,,{\1c&HFEFECE&}They both play well devised moves,
-Dialogue: 0,0:05:57.64,0:05:59.44,Thinking,,0,0,0,,{\1c&HFEFECE&}and return moves that are just as well thought out.
+Dialogue: 0,0:05:57.59,0:05:59.44,Thinking,,0,0,0,,{\1c&HFEFECE&}and return moves that are just as well thought out.
 Dialogue: 0,0:06:01.01,0:06:05.65,Thinking,,0,0,0,,{\1c&HFEFECE&}They don't hesitate to make the difficult moves\Nbecause this is a match that they have to win.
 Dialogue: 0,0:06:07.04,0:06:13.26,Thinking,,0,0,0,,{\1c&HFEFECE&}Yes... it's as if the stones they hold in their\Nhand are clearing a path for themselves.
 Dialogue: 0,0:06:16.19,0:06:18.92,Thinking,,0,0,0,,{\1c&HFEFECE&}How radiant both of their growth is!
-Dialogue: 0,0:06:20.35,0:06:21.87,Thinking,,0,0,0,,{\1c&HFEFECE&}But there can only be one winner.
+Dialogue: 0,0:06:20.32,0:06:21.87,Thinking,,0,0,0,,{\1c&HFEFECE&}But there can only be one winner.
 Dialogue: 0,0:06:22.65,0:06:27.04,Thinking,,0,0,0,,{\1c&HFEFECE&}This match... who will win it in the end?
-Dialogue: 0,0:06:33.60,0:06:38.39,Thinking,,0,0,0,,How surprising... though the Korean child is at a slight\Nadvantage, could this really be Shindou-kun?
+Dialogue: 0,0:06:33.54,0:06:38.39,Thinking,,0,0,0,,How surprising... though the Korean child is at a slight\Nadvantage, could this really be Shindou-kun?
 Dialogue: 0,0:06:39.75,0:06:42.16,Thinking,,0,0,0,,They both play sensationally powerful moves...
 Dialogue: 0,0:06:42.86,0:06:45.60,Thinking,,0,0,0,,but Shindou is at a slight disadvantage.
 Dialogue: 0,0:06:46.73,0:06:47.42,Thinking,,0,0,0,,Shindou...
@@ -150,7 +150,7 @@ Dialogue: 0,0:08:11.55,0:08:15.98,Thinking,,0,0,0,,Too bad then. I guess this wa
 Dialogue: 0,0:08:35.24,0:08:37.42,Thinking,,0,0,0,,{\1c&HFEFECE&}No one has realized what Hikaru's aim is.
 Dialogue: 0,0:08:39.16,0:08:42.93,Thinking,,0,0,0,,{\1c&HFEFECE&}Hikaru is reading deeper than anyone else here.
 Dialogue: 0,0:09:16.15,0:09:20.87,Thinking,,0,0,0,,That bad move from earlier! It's in\Nthe perfect position right now!
-Dialogue: 0,0:09:38.80,0:09:41.03,Thinking,,0,0,0,,That move Shindou made that we thought was bad....
+Dialogue: 0,0:09:38.77,0:09:41.03,Thinking,,0,0,0,,That move Shindou made that we thought was bad....
 Dialogue: 0,0:09:41.58,0:09:44.11,Thinking,,0,0,0,,he made it in preparation for the conflict on the top left!
 Dialogue: 0,0:10:28.44,0:10:32.28,Thinking,,0,0,0,,So he didn't mind the fact that white\Nwould lose out in that area....
 Dialogue: 0,0:10:33.36,0:10:37.24,Thinking,,0,0,0,,Shindou-kun surprised everyone and\Ngained the advantage with white.
@@ -159,7 +159,7 @@ Dialogue: 0,0:10:49.46,0:10:53.31,Thinking,,0,0,0,,But the game is still close..
 Dialogue: 0,0:11:01.41,0:11:03.03,Thinking,,0,0,0,,You're coming for this stone!?
 Dialogue: 0,0:11:03.64,0:11:05.56,Thinking,,0,0,0,,I didn't think about that...
 Dialogue: 0,0:11:28.63,0:11:30.00,Thinking,,0,0,0,,I can't get intimidated...
-Dialogue: 0,0:11:54.41,0:11:56.22,Thinking,,0,0,0,,Su-Young isn't letting White gain an advantage.
+Dialogue: 0,0:11:54.36,0:11:56.22,Thinking,,0,0,0,,Su-Young isn't letting White gain an advantage.
 Dialogue: 0,0:12:07.38,0:12:10.16,Thinking,,0,0,0,,Shindou's lost a little with those last few moves.
 Dialogue: 0,0:14:18.50,0:14:19.17,Background,,0,0,0,,This is...
 Dialogue: 0,0:14:20.15,0:14:22.80,Background,,0,0,0,,Shindou... wins by one and a half moku.
@@ -170,8 +170,8 @@ Dialogue: 0,0:14:45.38,0:14:48.03,Default,,0,0,0,,White's attack in the mid-game
 Dialogue: 0,0:14:49.86,0:14:50.49,Default,,0,0,0,,Su-Young.
 Dialogue: 0,0:15:16.47,0:15:17.32,Thinking,,0,0,0,,I lost...
 Dialogue: 0,0:15:18.79,0:15:22.81,Thinking,,0,0,0,,I haven't had a game this mortifying lately.
-Dialogue: 0,0:15:26.03,0:15:27.75,Thinking,,0,0,0,,I kept playing empty games of Go...
-Dialogue: 0,0:15:28.31,0:15:30.06,Thinking,,0,0,0,,and I dropped a class...
+Dialogue: 0,0:15:25.99,0:15:27.75,Thinking,,0,0,0,,I kept playing empty games of Go...
+Dialogue: 0,0:15:28.28,0:15:30.06,Thinking,,0,0,0,,and I dropped a class...
 Dialogue: 0,0:15:30.62,0:15:33.04,Thinking,,0,0,0,,and I gave up on it over just that...
 Dialogue: 0,0:15:35.62,0:15:38.49,Thinking,,0,0,0,,He angered me, and I became serious...
 Dialogue: 0,0:15:39.73,0:15:43.91,Thinking,,0,0,0,,and he played me evenly even when I was trying!
@@ -189,12 +189,12 @@ Dialogue: 0,0:16:39.94,0:16:44.48,Default,,0,0,0,,Dropping down a class was a sh
 Dialogue: 0,0:16:46.06,0:16:48.29,Background,,0,0,0,,He wanted to cower away from that shame.
 Dialogue: 0,0:16:48.85,0:16:52.06,Background,,0,0,0,,He ran away from dealing with his disappointment.
 Dialogue: 0,0:16:57.53,0:16:58.76,Background,,0,0,0,,But it's okay now...
-Dialogue: 0,0:17:00.72,0:17:02.33,Background,,0,0,0,,He'll be going back to Korea tomorrow...
+Dialogue: 0,0:17:00.67,0:17:02.33,Background,,0,0,0,,He'll be going back to Korea tomorrow...
 Dialogue: 0,0:17:03.18,0:17:04.93,Background,,0,0,0,,But Su-Young will grow a lot more.
 Dialogue: 0,0:17:08.76,0:17:09.69,Background,,0,0,0,,Shindou-kun.
 Dialogue: 0,0:17:16.87,0:17:17.45,Default,,0,0,0,,Who is he?
 Dialogue: 0,0:17:19.98,0:17:22.38,Sai,,0,0,0,,Hikaru. It's him!
-Dialogue: 0,0:17:22.85,0:17:24.11,Sai,,0,0,0,,From the Go club tournaments!
+Dialogue: 0,0:17:22.81,0:17:24.11,Sai,,0,0,0,,From the Go club tournaments!
 Dialogue: 0,0:17:24.85,0:17:29.33,Default,,0,0,0,,I'm Yun, I run the Kaiou Jr. High Go Club,\Nthough you probably don't remember.
 Dialogue: 0,0:17:30.18,0:17:31.78,Default,,0,0,0,,The teacher from Kaiou Jr. High!
 Dialogue: 0,0:17:32.35,0:17:35.22,Default,,0,0,0,,I've met you three times so far.
@@ -234,8 +234,8 @@ Dialogue: 0,0:19:52.99,0:19:55.38,Default,,0,0,0,,I feel great today!
 Dialogue: 0,0:19:56.06,0:20:02.74,Default,,0,0,0,,The teacher from Kaiou thinks highly\Nenough of me now to mistake that\Nmatch you played for one I played!
 Dialogue: 0,0:20:04.37,0:20:06.34,Default,,0,0,0,,That teacher is looking at me!
 Dialogue: 0,0:20:06.94,0:20:09.89,Default,,0,0,0,,Sai doesn't exist in him any more!
-Dialogue: 0,0:20:11.41,0:20:12.02,Thinking,,0,0,0,,{\1c&HFEFECE&}Doesn't exist?
-Dialogue: 0,0:20:12.72,0:20:16.19,Default,,0,0,0,,One day I'll erase the Sai in Touya too!
+Dialogue: 0,0:20:11.36,0:20:12.02,Thinking,,0,0,0,,{\1c&HFEFECE&}Doesn't exist?
+Dialogue: 0,0:20:12.69,0:20:16.19,Default,,0,0,0,,One day I'll erase the Sai in Touya too!
 Dialogue: 0,0:20:17.67,0:20:18.36,Thinking,,0,0,0,,{\1c&HFEFECE&}Erase?
 Dialogue: 0,0:20:19.64,0:20:20.73,Default,,0,0,0,,My name is...
 Dialogue: 0,0:20:21.32,0:20:22.54,Default,,0,0,0,,Shindou Hikaru!

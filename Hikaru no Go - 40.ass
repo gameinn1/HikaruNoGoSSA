@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 40 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 180
-Active Line: 206
-Video Position: 35511
+Scroll Position: 165
+Active Line: 184
+Video Position: 32178
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -94,13 +94,13 @@ Dialogue: 0,0:01:43.88,0:01:45.03,Thinking,,0,0,0,,I see the goal.
 Dialogue: 0,0:01:46.17,0:01:47.07,Thinking,,0,0,0,,Don't panic.
 Dialogue: 0,0:01:48.19,0:01:50.74,Thinking,,0,0,0,,It's already difficult for Shindou to come back.
 Dialogue: 0,0:01:52.09,0:01:57.97,Thinking,,0,0,0,,Don't worry about the shadows of Touya and\NSu-Young that I see behind Shindou.
-Dialogue: 0,0:02:01.77,0:02:03.10,Thinking,,0,0,0,,I went to atari in the wrong place...
+Dialogue: 0,0:02:01.73,0:02:03.10,Thinking,,0,0,0,,I went to atari in the wrong place...
 Dialogue: 0,0:02:04.39,0:02:07.48,Thinking,,0,0,0,,{\1c&HC5FEC1&}Didn't his fingers leave the stone just now?
-Dialogue: 0,0:02:08.83,0:02:11.11,Thinking,,0,0,0,,Playing somewhere else after your\Nfingers leave the stone...
+Dialogue: 0,0:02:08.78,0:02:11.11,Thinking,,0,0,0,,Playing somewhere else after your\Nfingers leave the stone...
 Dialogue: 0,0:02:11.94,0:02:13.89,Thinking,,0,0,0,,that's an automatic loss.
 Dialogue: 0,0:02:14.16,0:02:19.12,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(290,115)}The Fortieth Match
 Dialogue: 0,0:02:14.16,0:02:19.12,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Whereabouts of the Win
-Dialogue: 0,0:02:33.39,0:02:34.09,Thinking,,0,0,0,,Sai...
+Dialogue: 0,0:02:33.34,0:02:34.09,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:02:34.68,0:02:38.31,Thinking,,0,0,0,,Didn't Isumi-san's fingers leave the stone just now?
 Dialogue: 0,0:02:44.91,0:02:48.13,Sai,,0,0,0,,It did look like his fingers left,\Nbut I didn't see it clearly.
 Dialogue: 0,0:02:49.04,0:02:52.53,Sai,,0,0,0,,It is against the rules to take back your move but...
@@ -110,12 +110,12 @@ Dialogue: 0,0:03:05.83,0:03:08.79,Thinking,,0,0,0,,Is it because his fingers did
 Dialogue: 0,0:03:09.62,0:03:10.47,Thinking,,0,0,0,,Or...
 Dialogue: 0,0:03:18.61,0:03:20.83,Thinking,,0,0,0,,{\1c&HC5FEC1&}Should I ask Isumi-san?
 Dialogue: 0,0:03:22.03,0:03:24.21,Thinking,,0,0,0,,{\1c&HC5FEC1&}If his fingers left just now?
-Dialogue: 0,0:03:27.23,0:03:28.19,Sai,,0,0,0,,You're going to ask him!?
+Dialogue: 0,0:03:27.19,0:03:28.19,Sai,,0,0,0,,You're going to ask him!?
 Dialogue: 0,0:03:29.22,0:03:29.94,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:03:34.05,0:03:37.00,Thinking,,0,0,0,,Isumi-san is undefeated, I have one loss...
 Dialogue: 0,0:03:38.20,0:03:39.92,Thinking,,0,0,0,,Only three people can become pros.
 Dialogue: 0,0:03:40.61,0:03:41.28,Sai,,0,0,0,,Hikaru!
-Dialogue: 0,0:03:44.07,0:03:47.51,Sai,,0,0,0,,Don't you want to finish the game?
+Dialogue: 0,0:03:44.04,0:03:47.51,Sai,,0,0,0,,Don't you want to finish the game?
 Dialogue: 0,0:03:49.27,0:03:51.46,Sai,,0,0,0,,I know you have an idea that\Nwould turn the game around!
 Dialogue: 0,0:04:13.97,0:04:16.20,Thinking,,0,0,0,,But I'm sure it wouldn't work!
 Dialogue: 0,0:04:16.72,0:04:18.52,Thinking,,0,0,0,,I've already lost this game!
@@ -146,7 +146,7 @@ Dialogue: 0,0:07:41.75,0:07:43.62,Thinking,,0,0,0,,This is not like you, Isumi-s
 Dialogue: 0,0:07:47.19,0:07:52.39,Thinking,,0,0,0,,It may have been a shock, but what\Ngood does it do to drag it on?
 Dialogue: 0,0:08:02.15,0:08:07.52,Thinking,,0,0,0,,Your emotions can get in the way. No one\Nhere is going to take it easy on you.
 Dialogue: 0,0:08:09.09,0:08:09.86,Thinking,,0,0,0,,Certainly not me!
-Dialogue: 0,0:08:24.73,0:08:25.60,Default,,0,0,0,,I resign.
+Dialogue: 0,0:08:24.69,0:08:25.60,Default,,0,0,0,,I resign.
 Dialogue: 0,0:08:30.03,0:08:32.12,Thinking,,0,0,0,,Okay. I might make it this year.
 Dialogue: 0,0:08:39.37,0:08:41.57,Thinking,,0,0,0,,Isumi-san, what are you doing?
 Dialogue: 0,0:08:43.54,0:08:44.50,Thinking,,0,0,0,,I'm going to do it!
@@ -174,7 +174,7 @@ Dialogue: 0,0:11:38.76,0:11:39.49,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:11:40.35,0:11:42.06,Sai,,0,0,0,,Let's finish yesterday's match.
 Dialogue: 0,0:11:43.14,0:11:50.03,Sai,,0,0,0,,I'll play for Isumi-san. We'll settle the game in\Nyour mind, and take a step towards tomorrow.
 Dialogue: 0,0:11:52.98,0:11:55.32,Background,,0,0,0,,I want the strength to believe in myself.
-Dialogue: 0,0:11:55.86,0:11:56.86,Default,,0,0,0,,I want to become stronger.
+Dialogue: 0,0:11:55.82,0:11:56.86,Default,,0,0,0,,I want to become stronger.
 Dialogue: 0,0:11:58.69,0:12:02.83,Default,,0,0,0,,I'm never going to play a match like\Nyesterday, or a match like today.
 Dialogue: 0,0:12:04.30,0:12:10.59,Sai,,0,0,0,,Hikaru, that determination\Nis well worth a loss or two.
 Dialogue: 0,0:12:14.68,0:12:16.45,Sai,,0,0,0,,Come, let us begin.
@@ -223,7 +223,7 @@ Dialogue: 0,0:16:24.30,0:16:25.64,Thinking,,0,0,0,,I'm calm today.
 Dialogue: 0,0:16:28.56,0:16:30.63,Background,,0,0,0,,It's time, so please begin.
 Dialogue: 0,0:16:31.49,0:16:33.32,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:16:49.46,0:16:53.64,Thinking,,0,0,0,,This is a definite win. I just have to be calm.
-Dialogue: 0,0:16:56.24,0:16:57.65,Thinking,,0,0,0,,Oh yeah, what about Isumi-san?
+Dialogue: 0,0:16:56.20,0:16:57.65,Thinking,,0,0,0,,Oh yeah, what about Isumi-san?
 Dialogue: 0,0:17:01.12,0:17:03.25,Default,,0,0,0,,Can I see the chart? I need to stamp my game.
 Dialogue: 0,0:17:03.88,0:17:06.39,Default,,0,0,0,,Ochi! Then Waya...
 Dialogue: 0,0:17:21.98,0:17:22.71,Default,,0,0,0,,Waya...
@@ -245,7 +245,7 @@ Dialogue: 0,0:18:29.25,0:18:32.19,Default,,0,0,0,,No, it lightens me up.
 Dialogue: 0,0:18:33.67,0:18:35.05,Default,,0,0,0,,Have you read Weekly Go?
 Dialogue: 0,0:18:37.07,0:18:41.38,Background,,0,0,0,,Touya 2-dan's won the first match of the\Nfirst preliminaries for the Meijin title.
 Dialogue: 0,0:18:42.15,0:18:42.85,Background,,0,0,0,,So?
-Dialogue: 0,0:18:43.87,0:18:46.40,Default,,0,0,0,,He's won the second round for the\NHoninbou challenger position too.
+Dialogue: 0,0:18:43.81,0:18:46.40,Default,,0,0,0,,He's won the second round for the\NHoninbou challenger position too.
 Dialogue: 0,0:18:46.49,0:18:49.88,Default,,0,0,0,,He's been doing well since he debuted.
 Dialogue: 0,0:18:50.39,0:18:52.11,Default,,0,0,0,,He's incredible.
 Dialogue: 0,0:18:54.33,0:18:59.15,Default,,0,0,0,,He's saying that he'll teach you\Nas much as time permits.

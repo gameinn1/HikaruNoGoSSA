@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 41 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 188
-Active Line: 204
-Video Position: 35429
+Scroll Position: 90
+Active Line: 107
+Video Position: 20034
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,14 +90,14 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.29,0:01:45.32,Default,,0,0,0,,It's all because of my match against\NIsumi-san yesterday!
+Dialogue: 0,0:01:42.25,0:01:45.32,Default,,0,0,0,,It's all because of my match against\NIsumi-san yesterday!
 Dialogue: 0,0:01:45.83,0:01:49.21,Default,,0,0,0,,I couldn't concentrate today!
 Dialogue: 0,0:01:49.98,0:01:51.44,Sai,,0,0,0,,Hikaru, Hikaru!
 Dialogue: 0,0:01:52.17,0:01:53.18,Default,,0,0,0,,I want to become stronger.
 Dialogue: 0,0:01:55.07,0:01:59.18,Default,,0,0,0,,I'm never going to play a match like yesterday,\Nor a match like today ever again!
-Dialogue: 0,0:02:01.10,0:02:02.95,Background,,0,0,0,,Was it because you were scared of Shindou?
+Dialogue: 0,0:02:01.06,0:02:02.95,Background,,0,0,0,,Was it because you were scared of Shindou?
 Dialogue: 0,0:02:03.98,0:02:08.28,Default,,0,0,0,,So you got scared of him, and\Nmade a careless mistake.
-Dialogue: 0,0:02:08.68,0:02:09.62,Default,,0,0,0,,Is that what happened?
+Dialogue: 0,0:02:08.65,0:02:09.62,Default,,0,0,0,,Is that what happened?
 Dialogue: 0,0:02:10.41,0:02:12.76,Default,,0,0,0,,Waya... Isumi-san...
 Dialogue: 0,0:02:13.78,0:02:14.94,Default,,0,0,0,,lost again today...
 Dialogue: 0,0:02:16.09,0:02:17.56,Default,,0,0,0,,against Fuku...
@@ -115,9 +115,9 @@ Dialogue: 0,0:03:07.10,0:03:09.84,Thinking,,0,0,0,,I won't let you survive that 
 Dialogue: 0,0:03:16.22,0:03:17.06,Thinking,,0,0,0,,Just you watch.
 Dialogue: 0,0:03:31.65,0:03:32.39,Thinking,,0,0,0,,Ochi.
 Dialogue: 0,0:03:33.17,0:03:34.76,Thinking,,0,0,0,,Though I respect your skill,
-Dialogue: 0,0:03:35.70,0:03:37.82,Thinking,,0,0,0,,I never once thought that you were stronger than me.
+Dialogue: 0,0:03:35.65,0:03:37.82,Thinking,,0,0,0,,I never once thought that you were stronger than me.
 Dialogue: 0,0:04:08.64,0:04:09.69,Thinking,,0,0,0,,So that's what you did.
-Dialogue: 0,0:04:34.38,0:04:35.85,Thinking,,0,0,0,,Isumi-san is back to normal.
+Dialogue: 0,0:04:34.34,0:04:35.85,Thinking,,0,0,0,,Isumi-san is back to normal.
 Dialogue: 0,0:04:39.05,0:04:39.88,Thinking,,0,0,0,,Fine!
 Dialogue: 0,0:04:40.60,0:04:41.30,Thinking,,0,0,0,,Let's play!
 Dialogue: 0,0:05:11.46,0:05:13.05,Thinking,,0,0,0,,Will that really do it?
@@ -149,7 +149,7 @@ Dialogue: 0,0:09:11.05,0:09:14.25,Default,,0,0,0,,It's just starting, for both y
 Dialogue: 0,0:09:15.18,0:09:15.88,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:09:22.39,0:09:25.01,Thinking,,0,0,0,,{\1c&HC5FEC1&}I don't know if Shindou is stronger than me or not.
 Dialogue: 0,0:09:26.05,0:09:28.01,Thinking,,0,0,0,,{\1c&HC5FEC1&}But, I'm still getting stronger.
-Dialogue: 0,0:09:29.22,0:09:31.15,Thinking,,0,0,0,,Shindou isn't the only one that's getting stronger.
+Dialogue: 0,0:09:29.17,0:09:31.15,Thinking,,0,0,0,,Shindou isn't the only one that's getting stronger.
 Dialogue: 0,0:09:32.22,0:09:35.21,Thinking,,0,0,0,,I should believe in myself more.
 Dialogue: 0,0:09:44.69,0:09:50.69,Default,,0,0,0,,Yes, this is it. I shouldn't have done\Na Hane when white did a Tsuke.
 Dialogue: 0,0:09:51.45,0:09:54.93,Default,,0,0,0,,It would have been better if I\Nhad simply pulled back there.
@@ -168,8 +168,8 @@ Dialogue: 0,0:10:59.56,0:11:04.56,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&
 Dialogue: 0,0:11:05.43,0:11:09.17,Sai,,0,0,0,,Twelve matches left, we're\Nin the final stretch Hikaru.
 Dialogue: 0,0:11:09.54,0:11:10.19,Thinking,,0,0,0,,Yeah.
 Dialogue: 0,0:11:19.83,0:11:20.92,Thinking,,0,0,0,,Shindou...
-Dialogue: 0,0:11:22.75,0:11:24.62,Default,,0,0,0,,I'll be playing you in the last round Ochi.
-Dialogue: 0,0:11:25.34,0:11:28.63,Default,,0,0,0,,I'll be much stronger than I am now.
+Dialogue: 0,0:11:22.70,0:11:24.62,Default,,0,0,0,,I'll be playing you in the last round Ochi.
+Dialogue: 0,0:11:25.29,0:11:28.63,Default,,0,0,0,,I'll be much stronger than I am now.
 Dialogue: 0,0:11:44.68,0:11:49.69,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz348\move(283,93,277,83)}Japanese Go Research Center
 Dialogue: 0,0:11:45.10,0:11:49.69,NoteArial,,0,0,0,,{\fs30\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,355)}Sixteenth Match of the Pro Exam Finals
 Dialogue: 0,0:11:51.44,0:11:52.50,Background,,0,0,0,,I resign...
@@ -197,7 +197,7 @@ Dialogue: 0,0:13:38.01,0:13:42.93,NoteArial,,0,0,0,,{\fs30\bord1\fad(0,542)\1c&H
 Dialogue: 0,0:13:45.17,0:13:47.16,Thinking,,0,0,0,,{\1c&HC5FEC1&}Oh! Shindou lost to Honda-san!
 Dialogue: 0,0:13:47.73,0:13:50.01,Thinking,,0,0,0,,Okay! Now Shindou has three losses!
 Dialogue: 0,0:13:52.10,0:13:54.01,Thinking,,0,0,0,,I knew he'd start falling.
-Dialogue: 0,0:13:55.57,0:13:57.49,Thinking,,0,0,0,,I wonder if Honda-san has gone home yet.
+Dialogue: 0,0:13:55.52,0:13:57.49,Thinking,,0,0,0,,I wonder if Honda-san has gone home yet.
 Dialogue: 0,0:13:58.36,0:13:59.48,Background,,0,0,0,,Oh, Honda-san!
 Dialogue: 0,0:14:00.84,0:14:02.39,Default,,0,0,0,,You beat Shindou!
 Dialogue: 0,0:14:02.87,0:14:07.36,Default,,0,0,0,,Now you, Isumi-san and Shindou\Nare all tied at three losses.

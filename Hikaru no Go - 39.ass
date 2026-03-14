@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 39 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 208
-Active Line: 227
-Video Position: 35526
+Scroll Position: 204
+Active Line: 224
+Video Position: 35033
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,25 +90,25 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.48,0:01:44.50,Default,,0,0,0,,You seem to be concerned about Shindou.
-Dialogue: 0,0:01:44.85,0:01:46.18,Default,,0,0,0,,Is there something about him?
-Dialogue: 0,0:01:46.42,0:01:49.87,Default,,0,0,0,,You'll be playing Shindou on the last day right?
+Dialogue: 0,0:01:42.46,0:01:44.50,Default,,0,0,0,,You seem to be concerned about Shindou.
+Dialogue: 0,0:01:44.79,0:01:46.18,Default,,0,0,0,,Is there something about him?
+Dialogue: 0,0:01:46.38,0:01:49.87,Default,,0,0,0,,You'll be playing Shindou on the last day right?
 Dialogue: 0,0:01:50.26,0:01:54.49,Default,,0,0,0,,If you'd like, I can come here\Nuntil then whenever I can.
 Dialogue: 0,0:01:55.36,0:02:00.43,Default,,0,0,0,,You just want to see how strong\NShindou is by using me!
 Dialogue: 0,0:02:00.87,0:02:03.36,Default,,0,0,0,,I've got to work extra hard this year.
 Dialogue: 0,0:02:03.94,0:02:07.58,Default,,0,0,0,,I have to graduate this year after all.
 Dialogue: 0,0:02:08.69,0:02:11.50,Sai,,0,0,0,,You'll be playing Isumi-san tomorrow.
-Dialogue: 0,0:02:12.05,0:02:13.96,Default,,0,0,0,,It's your turn, Sai.
-Dialogue: 0,0:02:14.97,0:02:17.46,Default,,0,0,0,,You'll lose if you don't pay attention to the game.
+Dialogue: 0,0:02:12.03,0:02:13.96,Default,,0,0,0,,It's your turn, Sai.
+Dialogue: 0,0:02:14.95,0:02:17.46,Default,,0,0,0,,You'll lose if you don't pay attention to the game.
 Dialogue: 0,0:02:18.25,0:02:21.37,Sai,,0,0,0,,Hikaru, your opponent for today is here.
 Dialogue: 0,0:02:25.96,0:02:30.92,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(325,115)}The Thirty-Ninth Match
 Dialogue: 0,0:02:25.96,0:02:30.92,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Dead Moment
 Dialogue: 0,0:02:30.92,0:02:36.30,Note,,0,0,0,,{\1c&HFFFFFF&\\fad(0,667)\pos(320,366)}The Twelfth Match of the Pro Exam Finals
-Dialogue: 0,0:02:50.02,0:02:50.72,Default,,0,0,0,,Morning.
+Dialogue: 0,0:02:49.98,0:02:50.72,Default,,0,0,0,,Morning.
 Dialogue: 0,0:02:51.32,0:02:53.26,Default,,0,0,0,,Y-y-yeah...
 Dialogue: 0,0:02:53.51,0:02:55.53,Sai,,0,0,0,,Y-y-yeah?
 Dialogue: 0,0:02:55.71,0:02:56.61,Default,,0,0,0,,But...
-Dialogue: 0,0:02:57.59,0:03:01.96,Thinking,,0,0,0,,It's an important match to both Isumi-san, who's\Nundefeated, and myself, who has one loss.
+Dialogue: 0,0:02:57.53,0:03:01.96,Thinking,,0,0,0,,It's an important match to both Isumi-san, who's\Nundefeated, and myself, who has one loss.
 Dialogue: 0,0:03:02.38,0:03:05.37,Thinking,,0,0,0,,Only three people can pass the pro exams...
 Dialogue: 0,0:03:08.08,0:03:08.88,Default,,0,0,0,,Morning...
 Dialogue: 0,0:03:11.65,0:03:15.06,Sai,,0,0,0,,I guess it can't be helped that you're both nervous.
@@ -128,7 +128,7 @@ Dialogue: 0,0:04:36.38,0:04:38.53,Sai,,0,0,0,,Hikaru, that's the spirit.
 Dialogue: 0,0:04:40.94,0:04:44.51,Default,,0,0,0,,Good morning, please get started.
 Dialogue: 0,0:04:57.21,0:04:59.14,Thinking,,0,0,0,,I'm going to grab another win...
 Dialogue: 0,0:05:00.33,0:05:01.35,Thinking,,0,0,0,,A win.
-Dialogue: 0,0:05:02.50,0:05:03.58,Default,,0,0,0,,What are you looking at?
+Dialogue: 0,0:05:02.45,0:05:03.58,Default,,0,0,0,,What are you looking at?
 Dialogue: 0,0:05:04.80,0:05:06.45,Default,,0,0,0,,Did you write something on your hand?
 Dialogue: 0,0:05:06.77,0:05:08.33,Default,,0,0,0,,I-It's nothing.
 Dialogue: 0,0:05:16.92,0:05:17.98,Default,,0,0,0,,Please begin.
@@ -142,7 +142,7 @@ Dialogue: 0,0:06:40.05,0:06:41.96,Background,,0,0,0,,It's already the 12th match
 Dialogue: 0,0:06:42.33,0:06:44.58,Background,,0,0,0,,Not as many people are in the running now.
 Dialogue: 0,0:06:45.16,0:06:46.27,Default,,0,0,0,,You're right.
 Dialogue: 0,0:06:46.79,0:06:49.70,Default,,0,0,0,,I think it may be difficult for some people to pass.
-Dialogue: 0,0:06:52.96,0:06:54.99,Default,,0,0,0,,I wonder how the top players are going to do.
+Dialogue: 0,0:06:52.93,0:06:54.99,Default,,0,0,0,,I wonder how the top players are going to do.
 Dialogue: 0,0:06:55.33,0:06:58.86,Default,,0,0,0,,{\fs22.5}There was a match between someone who's undefeated\Nand someone with one loss today wasn't there?
 Dialogue: 0,0:06:59.00,0:07:04.12,Default,,0,0,0,,The undefeated boy is Isumi-kun, and he's\Nstrong enough to be the number one Insei.
 Dialogue: 0,0:07:04.44,0:07:08.91,Default,,0,0,0,,But just being the top Insei doesn't\Nguarantee that you pass right?
@@ -150,14 +150,14 @@ Dialogue: 0,0:07:10.37,0:07:14.97,Default,,0,0,0,,No, it doesn't. Last year Isum
 Dialogue: 0,0:07:16.92,0:07:20.34,Background,,0,0,0,,They always trip up somewhere...
 Dialogue: 0,0:07:20.98,0:07:24.05,Default,,0,0,0,,Not everything goes well even if your strong...
 Dialogue: 0,0:07:24.24,0:07:26.23,Default,,0,0,0,,That happens sometimes.
-Dialogue: 0,0:07:27.80,0:07:31.58,Default,,0,0,0,,There are some boys who pass the wall easily\Nbecause they have some momentum.
+Dialogue: 0,0:07:27.76,0:07:31.58,Default,,0,0,0,,There are some boys who pass the wall easily\Nbecause they have some momentum.
 Dialogue: 0,0:07:32.36,0:07:35.06,Default,,0,0,0,,Mashiba-kun was like that last year.
 Dialogue: 0,0:07:36.98,0:07:40.64,Default,,0,0,0,,But anyways, losing confidence\Nis the worst thing you can do.
 Dialogue: 0,0:07:47.66,0:07:50.48,Default,,0,0,0,,Oh, look at the time.
 Dialogue: 0,0:07:51.14,0:07:54.24,Default,,0,0,0,,I'll go get the lunches we ordered.
 Dialogue: 0,0:07:54.68,0:07:55.91,Default,,0,0,0,,Yes, please do so.
 Dialogue: 0,0:08:55.12,0:08:58.18,Default,,0,0,0,,It's time for lunch so please halt your clocks.
-Dialogue: 0,0:09:09.20,0:09:10.89,Sai,,0,0,0,,You still have a good chance Hikaru.
+Dialogue: 0,0:09:09.15,0:09:10.89,Sai,,0,0,0,,You still have a good chance Hikaru.
 Dialogue: 0,0:09:11.07,0:09:11.77,Thinking,,0,0,0,,I know.
 Dialogue: 0,0:09:16.34,0:09:17.14,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:09:20.84,0:09:22.30,Thinking,,0,0,0,,{\1c&HC5FEC1&}So Isumi-san's black.
@@ -167,9 +167,9 @@ Dialogue: 0,0:09:31.14,0:09:34.47,Thinking,,0,0,0,,{\1c&HC5FEC1&}Isumi-san's alr
 Dialogue: 0,0:09:45.58,0:09:47.35,Default,,0,0,0,,Isumi-san, you're done already?
 Dialogue: 0,0:09:48.03,0:09:48.69,Default,,0,0,0,,Yes.
 Dialogue: 0,0:09:51.75,0:09:56.25,Default,,0,0,0,,The atmosphere gets so gloomy when\Nthe finals are half way through.
-Dialogue: 0,0:09:57.07,0:09:59.16,Default,,0,0,0,,They're all facing their critical games soon.
+Dialogue: 0,0:09:57.03,0:09:59.16,Default,,0,0,0,,They're all facing their critical games soon.
 Dialogue: 0,0:09:59.82,0:10:01.72,Default,,0,0,0,,I'm gonna go get some fresh air.
-Dialogue: 0,0:10:02.11,0:10:03.81,Default,,0,0,0,,It's already hot outside today.
+Dialogue: 0,0:10:02.08,0:10:03.81,Default,,0,0,0,,It's already hot outside today.
 Dialogue: 0,0:10:04.18,0:10:06.37,Default,,0,0,0,,You sound like an old man Isumi-san.
 Dialogue: 0,0:10:11.05,0:10:12.15,Background,,0,0,0,,One, {\alpha&HFF&\t(650,650,\alpha&H00&)}two!
 Dialogue: 0,0:10:12.42,0:10:13.62,Background,,0,0,0,,One, {\alpha&HFF&\t(700,700,\alpha&H00&)}two!
@@ -197,11 +197,11 @@ Dialogue: 0,0:10:57.74,0:11:00.92,Thinking,,0,0,0,,{\pos(320,430}But I have to w
 Dialogue: 0,0:11:01.52,0:11:07.23,Default,,0,0,0,,One, {\alpha&HFF&\t(730,730,\alpha&H00&)}two, {\alpha&HFF&\t(1460,1460,\alpha&H00&)}three, {\alpha&HFF&\t(2190,2190,\alpha&H00&)}four, {\alpha&HFF&\t(2920,2920,\alpha&H00&)}five, {\alpha&HFF&\t(3650,3650,\alpha&H00&)}six, {\alpha&HFF&\t(4380,4380,\alpha&H00&)}seven, {\alpha&HFF&\t(5110,5110,\alpha&H00&)}{\1c&HC5FEC1&}eight!
 Dialogue: 0,0:11:06.29,0:11:08.93,Default,,0,0,0,,{\pos(320,430}One, {\alpha&HFF&\t(675,675,\alpha&H00&)}two... {\alpha&HFF&\t(1375,1375,\alpha&H00&)}three, {\alpha&HFF&\t(2030,2030,\alpha&H00&)}four.
 Dialogue: 0,0:11:14.06,0:11:16.92,Default,,0,0,0,,Isumi-san, I took a look at your match clock.
-Dialogue: 0,0:11:17.69,0:11:19.61,Default,,0,0,0,,You seem to be playing very cautiously.
-Dialogue: 0,0:11:20.41,0:11:23.87,Default,,0,0,0,,What's so strange about playing cautiously\Nagainst Shindou? He only has one loss.
+Dialogue: 0,0:11:17.66,0:11:19.61,Default,,0,0,0,,You seem to be playing very cautiously.
+Dialogue: 0,0:11:20.37,0:11:23.87,Default,,0,0,0,,What's so strange about playing cautiously\Nagainst Shindou? He only has one loss.
 Dialogue: 0,0:11:25.75,0:11:27.66,Default,,0,0,0,,You're not scared of him are you?
 Dialogue: 0,0:11:28.65,0:11:30.08,Default,,0,0,0,,What is it all of a sudden?
-Dialogue: 0,0:11:32.05,0:11:35.84,Default,,0,0,0,,I was wondering if you had an over inflated\Nopinion of Shindou too Isumi-san.
+Dialogue: 0,0:11:32.00,0:11:35.84,Default,,0,0,0,,I was wondering if you had an over inflated\Nopinion of Shindou too Isumi-san.
 Dialogue: 0,0:11:36.97,0:11:40.37,Default,,0,0,0,,Are you talking about how Iijima and Komiya\Nsaid that Shindou's gotten stronger?
 Dialogue: 0,0:11:40.78,0:11:44.85,Default,,0,0,0,,Shindou is stronger than them, so what's\Nsurprising about them saying that?
 Dialogue: 0,0:11:45.33,0:11:49.90,Default,,0,0,0,,It's not just them. I met Touya Akira the other day.
@@ -211,7 +211,7 @@ Dialogue: 0,0:11:56.24,0:11:59.07,Default,,0,0,0,,My grandpa called Touya the ot
 Dialogue: 0,0:12:02.80,0:12:05.27,Default,,0,0,0,,All he asked me about was Shindou.
 Dialogue: 0,0:12:06.74,0:12:09.34,Default,,0,0,0,,As if he wanted information about a rival.
 Dialogue: 0,0:12:09.92,0:12:13.21,Default,,0,0,0,,When I told him that the last time I played\NShindou was three months ago,
-Dialogue: 0,0:12:13.80,0:12:15.79,Default,,0,0,0,,he said "that's far in the past."
+Dialogue: 0,0:12:13.75,0:12:15.79,Default,,0,0,0,,he said "that's far in the past."
 Dialogue: 0,0:12:17.26,0:12:19.02,Background,,0,0,0,,What do you think Isumi-san?
 Dialogue: 0,0:12:25.07,0:12:26.01,Default,,0,0,0,,Isumi-san?
 Dialogue: 0,0:12:26.90,0:12:30.77,Thinking,,0,0,0,,Far in the past? That may be right.
@@ -221,14 +221,14 @@ Dialogue: 0,0:12:40.42,0:12:41.32,Memory,,0,0,0,,Forcefully?
 Dialogue: 0,0:12:41.58,0:12:44.45,Memory,,0,0,0,,That's the kind of guy he is.
 Dialogue: 0,0:12:45.27,0:12:49.00,Memory,,0,0,0,,It's true! I'm his and he's my rival!
 Dialogue: 0,0:12:51.10,0:12:57.25,Thinking,,0,0,0,,Everyone thought that it was just the new kid\Nmaking up a story to make himself look bigger.
-Dialogue: 0,0:12:58.29,0:13:01.39,Thinking,,0,0,0,,{\1c&HC5FEC1&}When Touya was looking at Shindou's\Nmatch during the Wakajishisen,
+Dialogue: 0,0:12:58.26,0:13:01.39,Thinking,,0,0,0,,{\1c&HC5FEC1&}When Touya was looking at Shindou's\Nmatch during the Wakajishisen,
 Dialogue: 0,0:13:02.19,0:13:05.41,Thinking,,0,0,0,,{\1c&HC5FEC1&}I thought he just happened to be\Nlooking at the match behind him.
 Dialogue: 0,0:13:07.80,0:13:13.94,Thinking,,0,0,0,,{\1c&HC5FEC1&}But now, Ochi is saying that Touya\NAkira kept asking about Shindou.
 Dialogue: 0,0:13:16.74,0:13:20.76,Thinking,,0,0,0,,{\1c&HC5FEC1&}Then does Touya really think\Nof Shindou as his rival?
 Dialogue: 0,0:13:21.74,0:13:22.54,Thinking,,0,0,0,,{\1c&HC5FEC1&}It can't be!
 Dialogue: 0,0:13:23.66,0:13:26.87,Thinking,,0,0,0,,{\1c&HC5FEC1&}No, I thought it may be true.
-Dialogue: 0,0:13:27.71,0:13:30.28,Thinking,,0,0,0,,{\1c&HC5FEC1&}Ever since I saw the match between\NShindou and Hong Su-Young.
-Dialogue: 0,0:13:32.41,0:13:34.45,Thinking,,0,0,0,,{\1c&HC5FEC1&}That move that everyone thought was a mistake.
+Dialogue: 0,0:13:27.66,0:13:30.28,Thinking,,0,0,0,,{\1c&HC5FEC1&}Ever since I saw the match between\NShindou and Hong Su-Young.
+Dialogue: 0,0:13:32.37,0:13:34.45,Thinking,,0,0,0,,{\1c&HC5FEC1&}That move that everyone thought was a mistake.
 Dialogue: 0,0:13:38.71,0:13:44.16,Thinking,,0,0,0,,{\1c&HC5FEC1&}That bad move Shindou made, he made\Nit for the fight on the top left!?
 Dialogue: 0,0:13:47.37,0:13:51.07,Thinking,,0,0,0,,I'm not confident that I could have\Nbeat the Shindou from that game.
 Dialogue: 0,0:13:52.45,0:13:54.58,Thinking,,0,0,0,,{\1c&HC5FEC1&}I don't know how far I could have\Ngone against Su-Young either.
@@ -236,7 +236,7 @@ Dialogue: 0,0:13:57.48,0:14:01.33,Thinking,,0,0,0,,Who could have imagined it ba
 Dialogue: 0,0:14:01.88,0:14:03.79,Thinking,,0,0,0,,That he would become this strong.
 Dialogue: 0,0:14:05.41,0:14:07.23,Thinking,,0,0,0,,Touya! Did he?
 Dialogue: 0,0:14:08.99,0:14:10.96,Thinking,,0,0,0,,{\1c&HC5FEC1&}Maybe Touya knew...
-Dialogue: 0,0:14:11.86,0:14:14.15,Thinking,,0,0,0,,{\1c&HC5FEC1&}maybe he knows what Shindou is going to become!
+Dialogue: 0,0:14:11.83,0:14:14.15,Thinking,,0,0,0,,{\1c&HC5FEC1&}maybe he knows what Shindou is going to become!
 Dialogue: 0,0:14:15.76,0:14:17.18,Thinking,,0,0,0,,{\1c&HC5FEC1&}Is Touya chasing after...
 Dialogue: 0,0:14:17.85,0:14:19.09,Thinking,,0,0,0,,{\1c&HC5FEC1&\fad(0,459)}the Shindou of the future!?
 Dialogue: 0,0:14:19.73,0:14:25.39,Default,,0,0,0,,My last opponent was so bad I was wondering\Nwhy he was even taking the exam.
@@ -249,7 +249,7 @@ Dialogue: 0,0:14:42.87,0:14:43.47,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:14:54.44,0:14:56.71,Thinking,,0,0,0,,No. Don't lose confidence.
 Dialogue: 0,0:14:58.60,0:14:59.55,Sai,,0,0,0,,Isumi-san...
 Dialogue: 0,0:15:00.72,0:15:05.88,Thinking,,0,0,0,,Shindou just happened to play better than\Nusual when he played against Su-Young.
-Dialogue: 0,0:15:07.39,0:15:08.29,Thinking,,0,0,0,,Don't lose confidence!
+Dialogue: 0,0:15:07.34,0:15:08.29,Thinking,,0,0,0,,Don't lose confidence!
 Dialogue: 0,0:15:10.17,0:15:12.66,Default,,0,0,0,,It's time, please begin.
 Dialogue: 0,0:15:35.37,0:15:37.50,Thinking,,0,0,0,,Only three people can pass...
 Dialogue: 0,0:15:38.06,0:15:41.61,Thinking,,0,0,0,,I came through this very same\Npath thirty years ago.
@@ -272,8 +272,8 @@ Dialogue: 0,0:17:33.11,0:17:36.38,Thinking,,0,0,0,,I don't need Touya's help to 
 Dialogue: 0,0:17:37.38,0:17:41.42,Thinking,,0,0,0,,Isumi-san is more important.\NI'll play Isumi-san next week.
 Dialogue: 0,0:17:46.17,0:17:48.66,Thinking,,0,0,0,,But I'll play Waya before that...
 Dialogue: 0,0:17:50.59,0:17:52.96,Thinking,,0,0,0,,{\1c&HC5FEC1&}I need to watch out for Waya too...
-Dialogue: 0,0:17:53.59,0:17:56.20,Thinking,,0,0,0,,{\1c&HC5FEC1&}He seems to be doing well, defeating\NHonda-san and all...
-Dialogue: 0,0:17:57.08,0:17:58.63,Thinking,,0,0,0,,I'll go take a look at Waya.
+Dialogue: 0,0:17:53.55,0:17:56.26,Thinking,,0,0,0,,{\1c&HC5FEC1&}He seems to be doing well, defeating\NHonda-san and all...
+Dialogue: 0,0:17:57.06,0:17:58.63,Thinking,,0,0,0,,I'll go take a look at Waya.
 Dialogue: 0,0:18:09.33,0:18:10.48,Thinking,,0,0,0,,I see the goal.
 Dialogue: 0,0:18:18.66,0:18:19.58,Thinking,,0,0,0,,Don't panic.
 Dialogue: 0,0:18:20.72,0:18:23.33,Thinking,,0,0,0,,It's already difficult for Shindou to come back.
@@ -281,14 +281,14 @@ Dialogue: 0,0:18:25.13,0:18:28.67,Thinking,,0,0,0,,Calm down. What do you have t
 Dialogue: 0,0:18:30.10,0:18:36.74,Memory,,0,0,0,,I've got to work extra hard this year.\NI have to graduate this year after all.
 Dialogue: 0,0:18:43.02,0:18:44.31,Memory,,0,0,0,,Shindou Hikaru!
 Dialogue: 0,0:18:44.73,0:18:45.90,Memory,,0,0,0,,My name is...
-Dialogue: 0,0:18:46.21,0:18:47.56,Memory,,0,0,0,,{\fad(0,459)}Shindou Hikaru!
-Dialogue: 0,0:18:58.48,0:18:59.91,Thinking,,0,0,0,,I just need to keep playing like this.
+Dialogue: 0,0:18:46.19,0:18:47.56,Memory,,0,0,0,,{\fad(0,459)}Shindou Hikaru!
+Dialogue: 0,0:18:58.45,0:18:59.91,Thinking,,0,0,0,,I just need to keep playing like this.
 Dialogue: 0,0:19:10.85,0:19:12.05,Thinking,,0,0,0,,Don't worry about them!
 Dialogue: 0,0:19:14.27,0:19:18.15,Thinking,,0,0,0,,Don't worry about the shadows of Touya\Nand Su-Young that I see behind Shindou.
 Dialogue: 0,0:19:26.35,0:19:27.77,Thinking,,0,0,0,,I came to atari in the wrong place...
 Dialogue: 0,0:19:30.65,0:19:33.65,Thinking,,0,0,0,,That's so stupid, why did I go to atari from the left?
 Dialogue: 0,0:19:34.63,0:19:36.39,Thinking,,0,0,0,,It's obvious that I should go\Nto atari from the right here.
-Dialogue: 0,0:19:37.31,0:19:41.65,Thinking,,0,0,0,,I intended to do so, but I was worried\Nabout Touya and Su-Young and...
+Dialogue: 0,0:19:37.28,0:19:41.65,Thinking,,0,0,0,,I intended to do so, but I was worried\Nabout Touya and Su-Young and...
 Dialogue: 0,0:19:56.72,0:20:00.93,Thinking,,0,0,0,,Sai... didn't his fingers leave the stone just now?
 Dialogue: 0,0:20:11.46,0:20:13.11,Thinking,,0,0,0,,Sai, did you see?
 Dialogue: 0,0:20:20.32,0:20:25.62,Thinking,,0,0,0,,Playing somewhere else after your fingers\Nleave the stone... That's an automatic loss.
@@ -313,7 +313,7 @@ Dialogue: 0,0:22:52.60,0:22:55.23,Default,,0,0,0,,Try solving lots of different 
 Dialogue: 0,0:22:55.23,0:22:56.03,Default,,0,0,0,,Okay!
 Dialogue: 0,0:22:58.57,0:23:00.85,Thinking,,0,0,0,,Should I not ask Isumi-san?
 Dialogue: 0,0:23:01.32,0:23:03.42,Thinking,,0,0,0,,{\1c&HC5FEC1&}If his fingers left the stone?
-Dialogue: 0,0:23:03.90,0:23:05.82,Thinking,,0,0,0,,It'll cost you dearly if you've cracked emotionally.
+Dialogue: 0,0:23:03.86,0:23:05.82,Thinking,,0,0,0,,It'll cost you dearly if you've cracked emotionally.
 Dialogue: 0,0:23:06.09,0:23:08.91,Thinking,,0,0,0,,No one here is going to take it easy on you.
 Dialogue: 0,0:23:09.49,0:23:12.37,Sai,,0,0,0,,Don't you want to finish the game?
 Dialogue: 0,0:23:22.52,0:23:24.94,Thinking,,0,0,0,,I might win if I say something!

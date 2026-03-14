@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 42 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 284
-Active Line: 303
-Video Position: 35512
+Scroll Position: 261
+Active Line: 280
+Video Position: 32378
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -91,19 +91,19 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:43.85,0:01:44.55,Thinking,,0,0,0,,Ochi.
-Dialogue: 0,0:01:45.38,0:01:46.94,Thinking,,0,0,0,,Though I respect your skill,
+Dialogue: 0,0:01:45.34,0:01:46.94,Thinking,,0,0,0,,Though I respect your skill,
 Dialogue: 0,0:01:47.88,0:01:49.94,Thinking,,0,0,0,,I never once thought that you were stronger than me.
 Dialogue: 0,0:02:00.72,0:02:01.72,Default,,0,0,0,,I resign.
 Dialogue: 0,0:02:03.54,0:02:04.24,Thinking,,0,0,0,,Ochi...
 Dialogue: 0,0:02:05.09,0:02:05.87,Thinking,,0,0,0,,Thank you.
-Dialogue: 0,0:02:07.90,0:02:09.45,Thinking,,0,0,0,,You helped me get back on my feet.
+Dialogue: 0,0:02:07.86,0:02:09.45,Thinking,,0,0,0,,You helped me get back on my feet.
 Dialogue: 0,0:02:13.44,0:02:15.36,Default,,0,0,0,,Isumi-san, your back.
-Dialogue: 0,0:02:16.08,0:02:17.87,Default,,0,0,0,,I'll be playing you in the last round, Ochi.
+Dialogue: 0,0:02:16.03,0:02:17.87,Default,,0,0,0,,I'll be playing you in the last round, Ochi.
 Dialogue: 0,0:02:18.62,0:02:21.93,Default,,0,0,0,,I'll be much stronger than I am now.
 Dialogue: 0,0:02:25.34,0:02:26.15,Default,,0,0,0,,Grandpa...
 Dialogue: 0,0:02:27.31,0:02:28.61,Default,,0,0,0,,Please call Touya 2dan.
 Dialogue: 0,0:02:29.63,0:02:31.43,Default,,0,0,0,,Have you seen this game?
-Dialogue: 0,0:02:33.47,0:02:35.83,Background,,0,0,0,,Black is a Korean Kenkyuusei Hong Su-Young.
+Dialogue: 0,0:02:33.42,0:02:35.83,Background,,0,0,0,,Black is a Korean Kenkyuusei Hong Su-Young.
 Dialogue: 0,0:02:36.81,0:02:39.30,Background,,0,0,0,,Shindou Hikaru is white.
 Dialogue: 0,0:02:45.25,0:02:46.05,Background,,0,0,0,,This...
 Dialogue: 0,0:02:46.45,0:02:47.93,Background,,0,0,0,,White is Shindou!?
@@ -123,8 +123,8 @@ Dialogue: 0,0:03:40.55,0:03:42.89,Default,,0,0,0,,The top five have all won.
 Dialogue: 0,0:03:43.43,0:03:44.13,Default,,0,0,0,,You?
 Dialogue: 0,0:03:44.28,0:03:45.76,Default,,0,0,0,,I won today but...
 Dialogue: 0,0:03:46.02,0:03:46.82,Default,,0,0,0,,Six losses...
-Dialogue: 0,0:03:48.27,0:03:49.50,Default,,0,0,0,,I'm at the end of the cliff.
-Dialogue: 0,0:03:49.92,0:03:54.03,Default,,0,0,0,,Then I guess I'm hanging off of the cliff\Nby one hand since I'm at seven losses.
+Dialogue: 0,0:03:48.21,0:03:49.54,Default,,0,0,0,,I'm at the end of the cliff.
+Dialogue: 0,0:03:49.88,0:03:54.03,Default,,0,0,0,,Then I guess I'm hanging off of the cliff\Nby one hand since I'm at seven losses.
 Dialogue: 0,0:03:56.02,0:03:57.55,Default,,0,0,0,,I'm not out of it just yet!
 Dialogue: 0,0:03:57.98,0:03:59.68,Default,,0,0,0,,Later Tsubaki-san!
 Dialogue: 0,0:03:59.94,0:04:00.55,Background,,0,0,0,,Yeah!
@@ -168,12 +168,12 @@ Dialogue: 0,0:06:32.02,0:06:32.82,Thinking,,0,0,0,,Next year...
 Dialogue: 0,0:06:33.50,0:06:34.81,Thinking,,0,0,0,,What will happen next year?
 Dialogue: 0,0:06:55.91,0:06:56.56,Default,,0,0,0,,Did you win?
 Dialogue: 0,0:06:57.15,0:06:57.73,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:06:58.95,0:07:00.78,Default,,0,0,0,,Things have turned around since the preliminaries.
+Dialogue: 0,0:06:58.90,0:07:00.78,Default,,0,0,0,,Things have turned around since the preliminaries.
 Dialogue: 0,0:07:02.78,0:07:05.86,Default,,0,0,0,,I wanted to try it at least once,
 Dialogue: 0,0:07:06.24,0:07:09.54,Default,,0,0,0,,before I reached the final year that\NI am allowed to take the pro exam.
 Dialogue: 0,0:07:10.86,0:07:11.92,Default,,0,0,0,,Tsubaki-san...
 Dialogue: 0,0:07:14.66,0:07:15.36,Default,,0,0,0,,But...
-Dialogue: 0,0:07:15.54,0:07:17.67,Default,,0,0,0,,I've finally lost my grip on the edge of the cliff.
+Dialogue: 0,0:07:15.50,0:07:17.67,Default,,0,0,0,,I've finally lost my grip on the edge of the cliff.
 Dialogue: 0,0:07:19.98,0:07:20.71,Background,,0,0,0,,Hey!
 Dialogue: 0,0:07:21.96,0:07:25.05,Default,,0,0,0,,You asked me for a ride on my\Nbike awhile ago didn't you?
 Dialogue: 0,0:07:25.44,0:07:26.38,Default,,0,0,0,,Oh, yeah...
@@ -185,7 +185,7 @@ Dialogue: 0,0:07:54.66,0:07:55.44,Background,,0,0,0,,Hey!
 Dialogue: 0,0:07:57.15,0:07:59.33,Default,,0,0,0,,Come on! Let's go!
 Dialogue: 0,0:07:59.86,0:08:00.90,Background,,0,0,0,,Oh, yeah!
 Dialogue: 0,0:08:03.14,0:08:06.58,Background,,0,0,0,,Tsubaki-san! Slow down a little!
-Dialogue: 0,0:08:06.78,0:08:08.39,Default,,0,0,0,,Are you at three losses right now?
+Dialogue: 0,0:08:06.76,0:08:08.39,Default,,0,0,0,,Are you at three losses right now?
 Dialogue: 0,0:08:08.84,0:08:12.36,Default,,0,0,0,,What? What did you say!? I cant hear you!
 Dialogue: 0,0:08:12.40,0:08:13.81,Default,,0,0,0,,You're doing well!
 Dialogue: 0,0:08:13.91,0:08:15.55,Default,,0,0,0,,I said, I cant hear you!
@@ -227,7 +227,7 @@ Dialogue: 0,0:10:26.69,0:10:27.61,Background,,0,0,0,,I'm white.
 Dialogue: 0,0:10:28.42,0:10:29.11,Default,,0,0,0,,And black?
 Dialogue: 0,0:10:32.49,0:10:33.44,Default,,0,0,0,,Who's black?
 Dialogue: 0,0:10:43.75,0:10:46.75,Background,,0,0,0,,His play seems rather archaic but...
-Dialogue: 0,0:10:47.21,0:10:49.25,Background,,0,0,0,,This person playing black is quite good.
+Dialogue: 0,0:10:47.17,0:10:49.25,Background,,0,0,0,,This person playing black is quite good.
 Dialogue: 0,0:10:49.66,0:10:52.48,Default,,0,0,0,,His moves assault white's weaknesses viciously.
 Dialogue: 0,0:10:53.54,0:10:54.68,Default,,0,0,0,,This strength is...
 Dialogue: 0,0:10:56.34,0:10:57.34,Background,,0,0,0,,Who's black!?
@@ -235,8 +235,8 @@ Dialogue: 0,0:10:59.10,0:11:00.00,Default,,0,0,0,,It can't be!
 Dialogue: 0,0:11:00.57,0:11:01.32,Default,,0,0,0,,It's him.
 Dialogue: 0,0:11:03.08,0:11:04.03,Default,,0,0,0,,Shindou!?
 Dialogue: 0,0:11:11.35,0:11:12.74,Default,,0,0,0,,I know Shindou!
-Dialogue: 0,0:11:13.16,0:11:15.11,Default,,0,0,0,,I looked at his game when he first became an Insei,
-Dialogue: 0,0:11:15.40,0:11:17.00,Default,,0,0,0,,I played him during the study sessions too!
+Dialogue: 0,0:11:13.11,0:11:15.11,Default,,0,0,0,,I looked at his game when he first became an Insei,
+Dialogue: 0,0:11:15.36,0:11:17.00,Default,,0,0,0,,I played him during the study sessions too!
 Dialogue: 0,0:11:18.62,0:11:20.08,Default,,0,0,0,,I resigned here.
 Dialogue: 0,0:11:22.51,0:11:25.57,Default,,0,0,0,,It can't be! It's impossible! Two years ago!?
 Dialogue: 0,0:11:26.12,0:11:27.18,Default,,0,0,0,,I didn't stand a chance.
@@ -260,12 +260,12 @@ Dialogue: 0,0:12:31.90,0:12:35.90,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H
 Dialogue: 0,0:12:31.90,0:12:35.90,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(178,360)}Komiya 16 Wins 6 Losses
 Dialogue: 0,0:13:23.84,0:13:25.48,Sai,,0,0,0,,Good job in seeing it.
 Dialogue: 0,0:13:26.29,0:13:28.25,Sai,,0,0,0,,Now, black has the advantage.
-Dialogue: 0,0:13:50.59,0:13:51.54,Default,,0,0,0,,I resign.
+Dialogue: 0,0:13:50.56,0:13:51.54,Default,,0,0,0,,I resign.
 Dialogue: 0,0:13:52.14,0:13:56.98,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(180,20)}Honda 18 Wins 4 Losses
 Dialogue: 0,0:13:52.14,0:13:56.98,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(464,335)}Isumi 18 wins 4 Losses
-Dialogue: 0,0:13:57.18,0:13:58.43,Background,,0,0,0,,Great! Great!
-Dialogue: 0,0:13:58.72,0:13:59.91,Background,,0,0,0,,I'm still at four losses.
-Dialogue: 0,0:14:00.26,0:14:02.39,Background,,0,0,0,,There is a good chance of a playoff.
+Dialogue: 0,0:13:57.15,0:13:58.43,Background,,0,0,0,,Great! Great!
+Dialogue: 0,0:13:58.69,0:13:59.91,Background,,0,0,0,,I'm still at four losses.
+Dialogue: 0,0:14:00.24,0:14:02.39,Background,,0,0,0,,There is a good chance of a playoff.
 Dialogue: 0,0:14:02.78,0:14:05.59,Default,,0,0,0,,Five matches left. I can still pass!
 Dialogue: 0,0:14:05.79,0:14:07.12,Sai,,0,0,0,,Playoff?
 Dialogue: 0,0:14:07.46,0:14:11.81,Default,,0,0,0,,There's another round if two people\Nare tied for the third place.
@@ -273,9 +273,9 @@ Dialogue: 0,0:14:11.96,0:14:12.87,Sai,,0,0,0,,I see.
 Dialogue: 0,0:14:25.82,0:14:26.88,Thinking,,0,0,0,,A playoff...
 Dialogue: 0,0:14:27.55,0:14:30.53,Thinking,,0,0,0,,I'm in danger of that since I'm at three losses.
 Dialogue: 0,0:14:31.39,0:14:34.60,Background,,0,0,0,,That move where Honda broke\Nin decided everything.
-Dialogue: 0,0:14:34.95,0:14:37.98,Background,,0,0,0,,It looked as if it went in too deep,\Nbut there was no way to stop it.
-Dialogue: 0,0:14:38.40,0:14:39.15,Background,,0,0,0,,It was a good move.
-Dialogue: 0,0:14:41.44,0:14:43.34,Default,,0,0,0,,He lost at least eight moku because of that.
+Dialogue: 0,0:14:34.90,0:14:37.98,Background,,0,0,0,,It looked as if it went in too deep,\Nbut there was no way to stop it.
+Dialogue: 0,0:14:38.36,0:14:39.15,Background,,0,0,0,,It was a good move.
+Dialogue: 0,0:14:41.40,0:14:43.34,Default,,0,0,0,,He lost at least eight moku because of that.
 Dialogue: 0,0:14:43.79,0:14:47.62,Default,,0,0,0,,There was no where else to make it back\Neither since it was the end game.
 Dialogue: 0,0:14:51.72,0:14:53.36,Default,,0,0,0,,Isumi-san's failed.
 Dialogue: 0,0:14:53.68,0:14:55.15,Default,,0,0,0,,He hasn't failed yet!
@@ -292,10 +292,10 @@ Dialogue: 0,0:15:19.44,0:15:21.10,Background,,0,0,0,,Congratulations Ochi-kun!
 Dialogue: 0,0:15:21.42,0:15:22.64,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,0:15:22.79,0:15:26.91,Default,,0,0,0,,Even if you lose the last two matches, your win\Ntoday has guaranteed that you will pass.
 Dialogue: 0,0:15:27.23,0:15:27.97,Default,,0,0,0,,Yes.
-Dialogue: 0,0:15:28.30,0:15:30.17,Default,,0,0,0,,Were you nervous when you were playing today?
+Dialogue: 0,0:15:28.24,0:15:30.17,Default,,0,0,0,,Were you nervous when you were playing today?
 Dialogue: 0,0:15:30.49,0:15:31.16,Default,,0,0,0,,No.
 Dialogue: 0,0:15:31.46,0:15:33.30,Default,,0,0,0,,Really? That's incredible.
-Dialogue: 0,0:15:33.72,0:15:36.53,Default,,0,0,0,,You didn't get overzealous when\Nyou were trying to pass?
+Dialogue: 0,0:15:33.66,0:15:36.53,Default,,0,0,0,,You didn't get overzealous when\Nyou were trying to pass?
 Dialogue: 0,0:15:36.87,0:15:39.79,Default,,0,0,0,,Someone told me that if I set an\Neven higher goal for myself,
 Dialogue: 0,0:15:39.96,0:15:42.42,Default,,0,0,0,,passing the exam will happen on its own.
 Dialogue: 0,0:15:44.24,0:15:45.76,Default,,0,0,0,,That may be why.
@@ -308,17 +308,17 @@ Dialogue: 0,0:16:01.16,0:16:02.42,Default,,0,0,0,,Oh...
 Dialogue: 0,0:16:02.42,0:16:06.24,Default,,0,0,0,,He has grown very rapidly but...
 Dialogue: 0,0:16:06.59,0:16:08.85,Default,,0,0,0,,Well anyways, congratulations on passing.
 Dialogue: 0,0:16:08.96,0:16:09.56,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:16:10.65,0:16:13.05,Default,,0,0,0,,Well, good luck with the rest of your matches too.
+Dialogue: 0,0:16:10.62,0:16:13.05,Default,,0,0,0,,Well, good luck with the rest of your matches too.
 Dialogue: 0,0:16:14.51,0:16:15.62,Default,,0,0,0,,Hey, Ochi.
 Dialogue: 0,0:16:16.20,0:16:17.43,Default,,0,0,0,,Congratulations on passing.
-Dialogue: 0,0:16:17.96,0:16:19.67,Default,,0,0,0,,You don't have to force yourself to say it.
+Dialogue: 0,0:16:17.92,0:16:19.67,Default,,0,0,0,,You don't have to force yourself to say it.
 Dialogue: 0,0:16:20.06,0:16:23.83,Default,,0,0,0,,Can't you just accept my congratulations\Nas they are?
 Dialogue: 0,0:16:24.26,0:16:25.48,Default,,0,0,0,,How was your game?
 Dialogue: 0,0:16:25.59,0:16:27.88,Default,,0,0,0,,I won, but I'm not the only one.
 Dialogue: 0,0:16:28.23,0:16:30.47,Default,,0,0,0,,Shindou is still at three losses,
-Dialogue: 0,0:16:30.76,0:16:33.10,Default,,0,0,0,,and Isumi-san and Honda-san\Nare still at four losses too.
-Dialogue: 0,0:16:33.60,0:16:34.77,Default,,0,0,0,,The top five have all won.
-Dialogue: 0,0:16:35.27,0:16:37.52,Default,,0,0,0,,But, I guess it doesn't matter to you anymore.
+Dialogue: 0,0:16:30.72,0:16:33.10,Default,,0,0,0,,and Isumi-san and Honda-san\Nare still at four losses too.
+Dialogue: 0,0:16:33.56,0:16:34.77,Default,,0,0,0,,The top five have all won.
+Dialogue: 0,0:16:35.22,0:16:37.52,Default,,0,0,0,,But, I guess it doesn't matter to you anymore.
 Dialogue: 0,0:16:37.98,0:16:40.48,Default,,0,0,0,,Waya, you'll be playing Shindou next.
 Dialogue: 0,0:16:40.81,0:16:45.04,Default,,0,0,0,,Yeah, I'm at two losses. I'll pass if I\Nbeat Shindou, who's at three losses.
 Dialogue: 0,0:16:45.28,0:16:49.24,Default,,0,0,0,,Well, either way, you'll just be watching us\Nfrom above without a care in the world.
@@ -333,14 +333,14 @@ Dialogue: 0,0:17:10.70,0:17:11.73,Default,,0,0,0,,Mysterious?
 Dialogue: 0,0:17:12.53,0:17:16.28,Background,,0,0,0,,I'll be looking forward to your match\Nagainst Shindou. Good luck.
 Dialogue: 0,0:17:17.36,0:17:18.54,Default,,0,0,0,,Later then, Ochi.
 Dialogue: 0,0:17:25.92,0:17:27.73,Memory,,0,0,0,,This is the Shindou that I know.
-Dialogue: 0,0:17:31.47,0:17:33.28,Thinking,,0,0,0,,I won't know unless I play him.
-Dialogue: 0,0:17:34.07,0:17:36.44,Thinking,,0,0,0,,But, I won't lose... I don't want to lose!
-Dialogue: 0,0:17:37.20,0:17:38.58,Thinking,,0,0,0,,Not to someone like Shindou...
+Dialogue: 0,0:17:31.45,0:17:33.28,Thinking,,0,0,0,,I won't know unless I play him.
+Dialogue: 0,0:17:34.03,0:17:36.44,Thinking,,0,0,0,,But, I won't lose... I don't want to lose!
+Dialogue: 0,0:17:37.16,0:17:38.66,Thinking,,0,0,0,,Not to someone like Shindou...
 Dialogue: 0,0:18:00.10,0:18:01.10,Background,,0,0,0,,Okay, I won!
 Dialogue: 0,0:18:02.60,0:18:04.23,Default,,0,0,0,,I guess I'll go to sleep after another game.
 Dialogue: 0,0:18:13.46,0:18:14.07,Default,,0,0,0,,Sai!
 Dialogue: 0,0:18:14.66,0:18:16.78,Background,,0,0,0,,Seriously!? Is he playing a game!?
-Dialogue: 0,0:18:17.37,0:18:19.16,Default,,0,0,0,,I haven't seen him since last summer...
+Dialogue: 0,0:18:17.33,0:18:19.16,Default,,0,0,0,,I haven't seen him since last summer...
 Dialogue: 0,0:18:56.36,0:18:59.70,Default,,0,0,0,,You idiot! Why are you using\Nthe name Sai!? You suck!
 Dialogue: 0,0:19:00.18,0:19:03.21,Background,,0,0,0,,Don't use Sai's name! He's a legend on the net!
 Dialogue: 0,0:19:10.55,0:19:15.25,Default,,0,0,0,,Didn't I mistake Shindou for Sai's student once?
@@ -348,7 +348,7 @@ Dialogue: 0,0:19:17.82,0:19:18.64,Memory,,0,0,0,,Zelda...
 Dialogue: 0,0:19:19.53,0:19:22.13,Memory,,0,0,0,,Oh yeah, you said that you were an Insei.
 Dialogue: 0,0:19:22.74,0:19:24.46,Memory,,0,0,0,,So Waya, you're Zelda!
 Dialogue: 0,0:19:26.79,0:19:28.37,Memory,,0,0,0,,Y-You...
-Dialogue: 0,0:19:28.69,0:19:30.70,Memory,,0,0,0,,Why do you know about a conversation\Nbetween Sai and I?
+Dialogue: 0,0:19:28.65,0:19:30.70,Memory,,0,0,0,,Why do you know about a conversation\Nbetween Sai and I?
 Dialogue: 0,0:19:31.88,0:19:33.30,Memory,,0,0,0,,Could it be he's...
 Dialogue: 0,0:19:34.07,0:19:37.35,Memory,,0,0,0,,Shindou is... Sai?
 Dialogue: 0,0:19:38.09,0:19:39.87,Memory,,0,0,0,,It can't be... that's....

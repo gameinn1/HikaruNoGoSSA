@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 312
-Active Line: 336
-Video Position: 35513
+Scroll Position: 294
+Active Line: 313
+Video Position: 32124
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,9 +90,9 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:49.54,0:01:50.59,Default,,0,0,0,,Rain...
-Dialogue: 0,0:02:04.64,0:02:05.74,Thinking,,0,0,0,,Waya won.
-Dialogue: 0,0:02:11.28,0:02:14.75,Thinking,,0,0,0,,If Shindou losses, he'll have a playoff\Nmatch against me, at four losses.
+Dialogue: 0,0:01:49.51,0:01:50.59,Default,,0,0,0,,Rain...
+Dialogue: 0,0:02:04.60,0:02:05.74,Thinking,,0,0,0,,Waya won.
+Dialogue: 0,0:02:11.24,0:02:14.75,Thinking,,0,0,0,,If Shindou losses, he'll have a playoff\Nmatch against me, at four losses.
 Dialogue: 0,0:02:23.08,0:02:23.81,Default,,0,0,0,,It's over.
 Dialogue: 0,0:02:39.22,0:02:44.14,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Forty-Seventh Match
 Dialogue: 0,0:02:39.22,0:02:44.14,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}To the World of the Pros
@@ -102,7 +102,7 @@ Dialogue: 0,0:02:49.65,0:02:51.07,Default,,0,0,0,,That's not all.
 Dialogue: 0,0:02:51.57,0:02:52.99,Default,,0,0,0,,He's not an Insei anymore either.
 Dialogue: 0,0:02:53.66,0:02:57.19,Default,,0,0,0,,Although, even those that graduate\Nusually stay until March.
 Dialogue: 0,0:02:57.89,0:03:01.61,Default,,0,0,0,,Kyuseikai is the Go school that Isumi-san\Nalways studied at, right?
-Dialogue: 0,0:03:02.42,0:03:05.93,Default,,0,0,0,,I wonder what Isumi-san's going to do now that\Nhe's quit the Kyuseikai and the Insei program.
+Dialogue: 0,0:03:02.37,0:03:05.93,Default,,0,0,0,,I wonder what Isumi-san's going to do now that\Nhe's quit the Kyuseikai and the Insei program.
 Dialogue: 0,0:03:06.26,0:03:08.46,Default,,0,0,0,,Waya, do you know anything?
 Dialogue: 0,0:03:08.89,0:03:11.89,Default,,0,0,0,,No... I couldn't bring myself to call him.
 Dialogue: 0,0:03:13.52,0:03:17.28,Default,,0,0,0,,So I went to take a look during\Nan Insei study session.
@@ -134,11 +134,11 @@ Dialogue: 0,0:04:52.24,0:04:53.34,Sai,,0,0,0,,You too, Hikaru.
 Dialogue: 0,0:04:54.60,0:04:55.60,Default,,0,0,0,,But anyways...
 Dialogue: 0,0:04:56.36,0:04:59.67,Default,,0,0,0,,I thought I'd teach you how to record games today.
 Dialogue: 0,0:04:59.95,0:05:01.20,Default,,0,0,0,,Record games?
-Dialogue: 0,0:05:01.40,0:05:02.70,Default,,0,0,0,,We have to do it sometimes.
+Dialogue: 0,0:05:01.36,0:05:02.70,Default,,0,0,0,,We have to do it sometimes.
 Dialogue: 0,0:05:02.88,0:05:06.16,Default,,0,0,0,,Though they don't usually ask people\Ngoing to school to do it.
-Dialogue: 0,0:05:09.01,0:05:11.82,Default,,0,0,0,,We record all pro matches after\Nthe third elimination round.
+Dialogue: 0,0:05:08.96,0:05:11.82,Default,,0,0,0,,We record all pro matches after\Nthe third elimination round.
 Dialogue: 0,0:05:12.38,0:05:14.69,Default,,0,0,0,,I know how to record a Kifu.
-Dialogue: 0,0:05:14.89,0:05:16.39,Default,,0,0,0,,You have to record the times, too.
+Dialogue: 0,0:05:14.84,0:05:16.39,Default,,0,0,0,,You have to record the times, too.
 Dialogue: 0,0:05:16.76,0:05:17.88,Background,,0,0,0,,Here's an example.
 Dialogue: 0,0:05:18.89,0:05:20.12,Default,,0,0,0,,What is this?
 Dialogue: 0,0:05:20.39,0:05:24.20,Background,,0,0,0,,You record how long they spent\Non each move, or the total time.
@@ -185,13 +185,13 @@ Dialogue: 0,0:07:01.69,0:07:04.04,Default,,0,0,0,,But I want to play Touya first
 Dialogue: 0,0:07:04.32,0:07:05.45,Default,,0,0,0,,I want to play against Touya!
 Dialogue: 0,0:07:06.66,0:07:07.41,Sai,,0,0,0,,I...
 Dialogue: 0,0:07:07.84,0:07:09.74,Default,,0,0,0,,He's still a lower-dan player.
-Dialogue: 0,0:07:10.00,0:07:12.34,Default,,0,0,0,,So, if you're lucky, you'll get\Nto play him sometime soon.
+Dialogue: 0,0:07:09.95,0:07:12.34,Default,,0,0,0,,So, if you're lucky, you'll get\Nto play him sometime soon.
 Dialogue: 0,0:07:12.68,0:07:14.76,Default,,0,0,0,,Our pairings are randomly made.
 Dialogue: 0,0:07:14.90,0:07:16.39,Default,,0,0,0,,Random?
 Dialogue: 0,0:07:16.71,0:07:17.56,Sai,,0,0,0,,I...
 Dialogue: 0,0:07:19.12,0:07:23.57,Default,,0,0,0,,I'll get to play Shirakawa-sensei or\NMorishita-sensei in a real match, too!
 Dialogue: 0,0:07:24.18,0:07:25.69,Default,,0,0,0,,Like I keep saying...
-Dialogue: 0,0:07:25.93,0:07:28.05,Default,,0,0,0,,You won't play high-dan players for a long time.
+Dialogue: 0,0:07:25.88,0:07:28.05,Default,,0,0,0,,You won't play high-dan players for a long time.
 Dialogue: 0,0:07:28.32,0:07:29.98,Default,,0,0,0,,But we are connected!
 Dialogue: 0,0:07:30.10,0:07:32.00,Default,,0,0,0,,That means we'll be playing sometime!
 Dialogue: 0,0:07:32.34,0:07:35.19,Default,,0,0,0,,I mean, we're in the same world already!
@@ -221,7 +221,7 @@ Dialogue: 0,0:09:08.73,0:09:11.22,Default,,0,0,0,,for the Kisei title, because I
 Dialogue: 0,0:09:12.17,0:09:16.15,Default,,0,0,0,,But I am in the best condition today.
 Dialogue: 0,0:09:17.63,0:09:21.27,Default,,0,0,0,,I believe it is your son who\Nis in the best of conditions.
 Dialogue: 0,0:09:21.63,0:09:23.46,Default,,0,0,0,,Isn't he undefeated?
-Dialogue: 0,0:09:24.05,0:09:25.77,Default,,0,0,0,,He has had twenty straight wins so far.
+Dialogue: 0,0:09:24.00,0:09:25.77,Default,,0,0,0,,He has had twenty straight wins so far.
 Dialogue: 0,0:09:29.11,0:09:32.95,Default,,0,0,0,,The only match Akira lost was the new first dan\Nseries match, from right before he became pro...
 Dialogue: 0,0:09:33.66,0:09:34.66,Default,,0,0,0,,Master Zama,
 Dialogue: 0,0:09:35.48,0:09:37.40,Default,,0,0,0,,just that match against you.
@@ -235,9 +235,9 @@ Dialogue: 0,0:10:05.79,0:10:07.96,Background,,0,0,0,,What is it, Master Kuwabara
 Dialogue: 0,0:10:09.00,0:10:10.76,Default,,0,0,0,,Is there an interesting article?
 Dialogue: 0,0:10:11.59,0:10:14.29,Default,,0,0,0,,The results of the pro exam are on this.
 Dialogue: 0,0:10:14.56,0:10:15.78,Default,,0,0,0,,Pro exam?
-Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\frz21\pos(461,174)}Ochi Kousuke (13)
-Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\frz24\pos(352,402)}Shindou Hikaru (14)
-Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\frz24\pos(524,324)}Waya Yoshitaka (15)
+Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz21\pos(461,174)}Ochi Kousuke (13)
+Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(352,402)}Shindou Hikaru (14)
+Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(524,324)}Waya Yoshitaka (15)
 Dialogue: 0,0:10:16.80,0:10:19.03,Background,,0,0,0,,{\an8}That boy passed...
 Dialogue: 0,0:10:19.35,0:10:21.80,Background,,0,0,0,,{\an8}I see, his name is Shindou.
 Dialogue: 0,0:10:22.62,0:10:24.94,Default,,0,0,0,,Shindou? Who is that?
@@ -307,9 +307,9 @@ Dialogue: 0,0:14:05.71,0:14:06.49,Background,,0,0,0,,Why you!
 Dialogue: 0,0:14:06.51,0:14:10.62,Default,,0,0,0,,Calm down. I'll give you some\Nold papers, so read up on it.
 Dialogue: 0,0:14:12.64,0:14:15.06,Default,,0,0,0,,Th-Thanks, master...
 Dialogue: 0,0:14:20.33,0:14:22.46,Default,,0,0,0,,Oh, this is Touya's dad.
-Dialogue: 0,0:14:23.88,0:14:25.82,Default,,0,0,0,,It says he's going to play the Ouza match.
+Dialogue: 0,0:14:23.84,0:14:25.82,Default,,0,0,0,,It says he's going to play the Ouza match.
 Dialogue: 0,0:14:26.26,0:14:27.43,Default,,0,0,0,,There's a Kifu for it.
-Dialogue: 0,0:14:28.43,0:14:29.93,Background,,0,0,0,,His opponent is Zama Ouza.
+Dialogue: 0,0:14:28.39,0:14:29.93,Background,,0,0,0,,His opponent is Zama Ouza.
 Dialogue: 0,0:14:31.92,0:14:33.45,Default,,0,0,0,,So this guy is Ouza...
 Dialogue: 0,0:14:33.73,0:14:36.47,Sai,,0,0,0,,Hikaru, this is only part of the Kifu.
 Dialogue: 0,0:14:39.99,0:14:41.27,Background,,0,0,0,,The rest is on the back.
@@ -322,7 +322,7 @@ Dialogue: 0,0:15:00.88,0:15:02.88,Default,,0,0,0,,Touya's dad is in this one, to
 Dialogue: 0,0:15:03.09,0:15:04.97,Sai,,0,0,0,,Hikaru, turn the page! Turn the page!
 Dialogue: 0,0:15:10.49,0:15:15.33,Default,,0,0,0,,Let's see...  Touya Meijin...\Nsixth successful defense!?
 Dialogue: 0,0:15:15.97,0:15:17.83,Default,,0,0,0,,He really is incredible...
-Dialogue: 0,0:15:21.45,0:15:23.94,Sai,,0,0,0,,Don't put it on top, put it next\Nto what I'm reading, Hikaru!
+Dialogue: 0,0:15:21.40,0:15:23.94,Sai,,0,0,0,,Don't put it on top, put it next\Nto what I'm reading, Hikaru!
 Dialogue: 0,0:15:26.04,0:15:27.23,Default,,0,0,0,,Oh boy.
 Dialogue: 0,0:15:28.20,0:15:29.36,Default,,0,0,0,,Let's see...
 Dialogue: 0,0:15:29.43,0:15:32.51,Default,,0,0,0,,Here... There's still...
@@ -347,9 +347,9 @@ Dialogue: 0,0:16:34.72,0:16:37.29,Background,,0,0,0,,It was snowing...
 Dialogue: 0,0:16:40.52,0:16:42.04,Background,,0,0,0,,It was snowing that day.
 Dialogue: 0,0:16:45.82,0:16:47.21,Default,,0,0,0,,It's my turn now.
 Dialogue: 0,0:16:48.09,0:16:50.79,Default,,0,0,0,,I'm going to begin with this match.
-Dialogue: 0,0:16:53.41,0:16:54.57,Default,,0,0,0,,When the new year comes...
+Dialogue: 0,0:16:53.37,0:16:54.57,Default,,0,0,0,,When the new year comes...
 Dialogue: 0,0:17:05.59,0:17:09.59,NoteArial,,0,0,0,,{\fs30\bord0\1c&H000000&\4c&HFFFFFF&\shad0.5\pos(377,67)\frx0\fry5}T\No\Nu\Ny\Na\N\NK\No\Nu\Ny\No\Nu
-Dialogue: 0,0:17:06.29,0:17:09.35,Background,,0,0,0,,Sorry for interviewing you during New Years.
+Dialogue: 0,0:17:06.25,0:17:09.35,Background,,0,0,0,,Sorry for interviewing you during New Years.
 Dialogue: 0,0:17:10.22,0:17:13.14,Background,,0,0,0,,But now that you have your fifth title, Meijin,
 Dialogue: 0,0:17:13.14,0:17:16.38,Background,,0,0,0,,you and Touya are both going to get busier.
 Dialogue: 0,0:17:17.90,0:17:22.41,Default,,0,0,0,,It's too bad your winning streak\Nstopped at 26 last year.
@@ -360,7 +360,7 @@ Dialogue: 0,0:17:31.37,0:17:32.73,Default,,0,0,0,,Thank you for your time.
 Dialogue: 0,0:17:33.26,0:17:33.99,Default,,0,0,0,,Amano-san.
 Dialogue: 0,0:17:34.54,0:17:35.19,Default,,0,0,0,,Yes?
 Dialogue: 0,0:17:36.37,0:17:40.25,Default,,0,0,0,,That thing where you have a new\Npro player play a top pro...
-Dialogue: 0,0:17:40.63,0:17:41.84,Default,,0,0,0,,The new first dan series?
+Dialogue: 0,0:17:40.58,0:17:41.84,Default,,0,0,0,,The new first dan series?
 Dialogue: 0,0:17:42.14,0:17:43.46,Default,,0,0,0,,You're going to play in it!?
 Dialogue: 0,0:17:44.69,0:17:50.55,Default,,0,0,0,,You were too busy to play in it last\Nyear and the year before that.
 Dialogue: 0,0:17:50.75,0:17:52.65,Default,,0,0,0,,So I wasn't going to ask this year.
@@ -395,7 +395,7 @@ Dialogue: 0,0:20:06.99,0:20:09.39,Default,,0,0,0,,I'm going to be playing Touya 
 Dialogue: 0,0:20:09.61,0:20:11.28,Default,,0,0,0,,Remember the new first dan series?
 Dialogue: 0,0:20:12.65,0:20:15.44,Default,,0,0,0,,We watched it last year, remember?\NBetween Touya and Zama Ouza!
 Dialogue: 0,0:20:16.91,0:20:20.20,Default,,0,0,0,,Oh yeah, Touya... will he... will he come watch?
-Dialogue: 0,0:20:21.68,0:20:23.30,Default,,0,0,0,,Yeah, he'll definitely come!
+Dialogue: 0,0:20:21.66,0:20:23.30,Default,,0,0,0,,Yeah, he'll definitely come!
 Dialogue: 0,0:20:23.84,0:20:27.91,Default,,0,0,0,,Okay! I'll show him how strong I am now!
 Dialogue: 0,0:20:28.79,0:20:29.29,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:20:29.79,0:20:30.54,Default,,0,0,0,,What?

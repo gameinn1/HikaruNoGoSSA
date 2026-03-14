@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 285
-Active Line: 314
-Video Position: 35154
+Scroll Position: 267
+Active Line: 283
+Video Position: 32316
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,10 +90,10 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.46,0:01:45.22,Background,,0,0,0,,I'm sure you want to play him in an even game.
-Dialogue: 0,0:01:46.10,0:01:46.92,Sai,,0,0,0,,Yes.
-Dialogue: 0,0:01:49.32,0:01:52.09,Default,,0,0,0,,I wonder if I can make it happen...
-Dialogue: 0,0:01:53.38,0:01:54.60,Sai,,0,0,0,,'I wonder'!?
+Dialogue: 0,0:01:42.42,0:01:45.22,Background,,0,0,0,,I'm sure you want to play him in an even game.
+Dialogue: 0,0:01:46.04,0:01:46.92,Sai,,0,0,0,,Yes.
+Dialogue: 0,0:01:49.30,0:01:52.09,Default,,0,0,0,,I wonder if I can make it happen...
+Dialogue: 0,0:01:53.34,0:01:54.60,Sai,,0,0,0,,'I wonder'!?
 Dialogue: 0,0:01:54.67,0:01:56.47,Sai,,0,0,0,,But Hikaru!
 Dialogue: 0,0:01:56.93,0:02:00.41,Default,,0,0,0,,I'll make it happen someday. Be patient.
 Dialogue: 0,0:02:00.53,0:02:02.00,Sai,,0,0,0,,When is this 'someday'?
@@ -107,14 +107,14 @@ Dialogue: 0,0:02:24.08,0:02:27.04,Default,,0,0,0,,it was your fault for coming t
 Dialogue: 0,0:02:30.10,0:02:31.19,Sai,,0,0,0,,Torajirou...
 Dialogue: 0,0:02:31.96,0:02:33.38,Sai,,0,0,0,,He was a very clever...
 Dialogue: 0,0:02:33.88,0:02:35.80,Sai,,0,0,0,,and truly kind person.
-Dialogue: 0,0:02:37.22,0:02:39.77,Default,,0,0,0,,So what you're saying is\Nthat I'm stupid and unkind.
+Dialogue: 0,0:02:37.18,0:02:39.77,Default,,0,0,0,,So what you're saying is\Nthat I'm stupid and unkind.
 Dialogue: 0,0:02:41.81,0:02:42.72,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:02:47.11,0:02:52.03,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(285,115)}The Fiftieth Match
 Dialogue: 0,0:02:47.11,0:02:52.03,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Sai of the Fujiwara
 Dialogue: 0,0:02:59.37,0:03:00.38,Sai,,0,0,0,,Why did God...
 Dialogue: 0,0:03:01.12,0:03:05.07,Sai,,0,0,0,,revive me in Hikaru's mind?
 Dialogue: 0,0:03:10.96,0:03:11.99,Sai,,0,0,0,,It's true that
-Dialogue: 0,0:03:12.34,0:03:14.10,Sai,,0,0,0,,Hikaru is growing very quickly,
+Dialogue: 0,0:03:12.30,0:03:14.10,Sai,,0,0,0,,Hikaru is growing very quickly,
 Dialogue: 0,0:03:15.02,0:03:20.24,Sai,,0,0,0,,and it brings me both\Npride and joy in teaching him...
 Dialogue: 0,0:03:21.85,0:03:22.52,Sai,,0,0,0,,But,
 Dialogue: 0,0:03:22.77,0:03:23.85,Sai,,0,0,0,,what about...
@@ -129,12 +129,12 @@ Dialogue: 0,0:04:04.23,0:04:09.17,Sai,,0,0,0,,I couldn't head for that divine he
 Dialogue: 0,0:04:26.12,0:04:28.44,Sai,,0,0,0,,If I cannot master the divine move...
 Dialogue: 0,0:04:29.39,0:04:31.97,Sai,,0,0,0,,why am I here?
 Dialogue: 0,0:04:34.88,0:04:36.93,Sai,,0,0,0,,How long am I supposed to wait?
-Dialogue: 0,0:04:40.22,0:04:41.27,Sai,,0,0,0,,A thousand years ago...
+Dialogue: 0,0:04:40.18,0:04:41.27,Sai,,0,0,0,,A thousand years ago...
 Dialogue: 0,0:04:42.80,0:04:44.82,Sai,,0,0,0,,Everything began from there.
 Dialogue: 0,0:04:49.73,0:04:51.07,Sai,,0,0,0,,Every day...
 Dialogue: 0,0:04:51.91,0:04:54.25,Sai,,0,0,0,,I played Go within the palace.
 Dialogue: 0,0:04:55.36,0:04:56.22,Sai,,0,0,0,,But...
-Dialogue: 0,0:04:56.87,0:04:59.20,Sai,,0,0,0,,when I played the other tutor that His Majesty had,
+Dialogue: 0,0:04:56.82,0:04:59.20,Sai,,0,0,0,,when I played the other tutor that His Majesty had,
 Dialogue: 0,0:04:59.71,0:05:04.08,Sai,,0,0,0,,in a match to decide who would\Nbecome the only tutor for His Majesty...
 Dialogue: 0,0:05:18.09,0:05:21.95,Sai,,0,0,0,,he placed a white stone that\Nwas hidden among his stones,
 Dialogue: 0,0:05:22.56,0:05:26.11,Sai,,0,0,0,,in his Agehama during a moment\Nwhen everyone else was distracted.
@@ -163,19 +163,19 @@ Dialogue: 0,0:06:38.94,0:06:39.62,Sai,,0,0,0,,But...
 Dialogue: 0,0:06:40.34,0:06:43.01,Sai,,0,0,0,,I wanted to play Go a lot more.
 Dialogue: 0,0:06:46.73,0:06:48.87,Sai,,0,0,0,,My soul, unable to find peace,
 Dialogue: 0,0:06:49.35,0:06:50.68,Sai,,0,0,0,,possessed a Go board,
-Dialogue: 0,0:06:51.48,0:06:52.96,Sai,,0,0,0,,and after a long period of time
+Dialogue: 0,0:06:51.43,0:06:52.96,Sai,,0,0,0,,and after a long period of time
 Dialogue: 0,0:06:53.63,0:06:55.94,Sai,,0,0,0,,heard a voice of a young boy
-Dialogue: 0,0:06:56.69,0:06:58.87,Sai,,0,0,0,,on Innoshima, within the sea of Seto.
+Dialogue: 0,0:06:56.65,0:06:58.87,Sai,,0,0,0,,on Innoshima, within the sea of Seto.
 Dialogue: 0,0:07:00.65,0:07:01.51,Sai,,0,0,0,,He was...
 Dialogue: 0,0:07:02.45,0:07:03.30,Sai,,0,0,0,,Torajirou.
 Dialogue: 0,0:07:05.70,0:07:06.79,Memory,,0,0,0,,Young boy,
 Dialogue: 0,0:07:07.57,0:07:10.49,Memory,,0,0,0,,if you can see the tears of grief that I shed,
 Dialogue: 0,0:07:11.13,0:07:15.21,Memory,,0,0,0,,let me dwell in a corner of your mind.
 Dialogue: 0,0:07:17.56,0:07:22.53,Sai,,0,0,0,,I was able to play Go as much\Nas I wished, together with him.
-Dialogue: 0,0:07:23.74,0:07:28.19,Sai,,0,0,0,,He changed his name to Shuusaku, and\Nbecame the successor to the Honinbou.
-Dialogue: 0,0:07:29.17,0:07:33.75,Sai,,0,0,0,,I believed that I would be able to\Nmaster the divine move together with him.
+Dialogue: 0,0:07:23.71,0:07:28.19,Sai,,0,0,0,,He changed his name to Shuusaku, and\Nbecame the successor to the Honinbou.
+Dialogue: 0,0:07:29.14,0:07:33.75,Sai,,0,0,0,,I believed that I would be able to\Nmaster the divine move together with him.
 Dialogue: 0,0:07:38.85,0:07:39.69,Sai,,0,0,0,,But...
-Dialogue: 0,0:07:40.52,0:07:42.35,Sai,,0,0,0,,he could not defeat disease and...
+Dialogue: 0,0:07:40.48,0:07:42.35,Sai,,0,0,0,,he could not defeat disease and...
 Dialogue: 0,0:07:46.78,0:07:47.61,Sai,,0,0,0,,Torajirou...
 Dialogue: 0,0:07:48.30,0:07:49.65,Sai,,0,0,0,,Honinbou Shuusaku...
 Dialogue: 0,0:07:51.45,0:07:55.74,Sai,,0,0,0,,I will never forget the time that I spent with him...
@@ -267,7 +267,7 @@ Dialogue: 0,0:12:09.30,0:12:10.42,Default,,0,0,0,,Y-Yeah...
 Dialogue: 0,0:12:11.88,0:12:15.29,Thinking,,0,0,0,,Wow, he doesn't even notice the crowd.
 Dialogue: 0,0:12:17.68,0:12:18.87,Sai,,0,0,0,,That's why I...
 Dialogue: 0,0:12:23.78,0:12:25.89,Sai,,0,0,0,,He's waiting for my Kosumi isn't he?
-Dialogue: 0,0:12:26.73,0:12:28.59,Sai,,0,0,0,,I suppose there's nothing wrong with that.
+Dialogue: 0,0:12:26.68,0:12:28.59,Sai,,0,0,0,,I suppose there's nothing wrong with that.
 Dialogue: 0,0:12:29.40,0:12:30.85,Sai,,0,0,0,,15-16
 Dialogue: 0,0:12:31.48,0:12:32.06,Sai,,0,0,0,,Kosumi!
 Dialogue: 0,0:12:33.69,0:12:35.23,Sai,,0,0,0,,Come, let's see what you have in mind!

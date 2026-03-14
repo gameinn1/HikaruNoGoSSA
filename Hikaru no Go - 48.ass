@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 48 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 237
-Active Line: 253
-Video Position: 35428
+Scroll Position: 54
+Active Line: 65
+Video Position: 7431
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -102,9 +102,9 @@ Dialogue: 0,0:02:00.05,0:02:00.85,Sai,,0,0,0,,Yes...
 Dialogue: 0,0:02:02.27,0:02:04.06,Sai,,0,0,0,,I'm not the one that's connected...
 Dialogue: 0,0:02:05.57,0:02:06.32,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:02:07.52,0:02:08.52,Sai,,0,0,0,,It's just Hikaru.
-Dialogue: 0,0:02:08.82,0:02:10.82,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\frz21\pos(461,174)}Ochi Kousuke (13)
-Dialogue: 0,0:02:08.82,0:02:10.82,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\frz24\pos(352,402)}Shindou Hikaru (14)
-Dialogue: 0,0:02:08.82,0:02:10.82,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\frz24\pos(524,324)}Waya Yoshitaka (15)
+Dialogue: 0,0:02:08.82,0:02:10.82,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz21\pos(461,174)}Ochi Kousuke (13)
+Dialogue: 0,0:02:08.82,0:02:10.82,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(352,402)}Shindou Hikaru (14)
+Dialogue: 0,0:02:08.82,0:02:10.82,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(524,324)}Waya Yoshitaka (15)
 Dialogue: 0,0:02:09.52,0:02:11.53,Background,,0,0,0,,{\an8}That boy passed...
 Dialogue: 0,0:02:12.03,0:02:14.50,Background,,0,0,0,,{\an8}I see, his name is Shindou.
 Dialogue: 0,0:02:15.20,0:02:19.26,Default,,0,0,0,,He may be part of the new wave\Nthat Ogata was speaking of.
@@ -148,18 +148,18 @@ Dialogue: 0,0:04:44.11,0:04:46.88,Default,,0,0,0,,Ask the third guy you possess 
 Dialogue: 0,0:04:49.10,0:04:49.69,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:04:53.11,0:04:53.96,Sai,,0,0,0,,Is Hikaru...
 Dialogue: 0,0:04:54.75,0:04:58.04,Sai,,0,0,0,,Not going to let me play anymore?
-Dialogue: 0,0:05:02.41,0:05:04.20,NoteArial,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\bord1\frz350\move(520,294,520,498)}Japanese Go Institute
-Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs24\bord1\1c&H000000&\3c&HFFFFFF&\pos(93,50)}Today's Events
-Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\1c&H000000&\3c&HFFFFFF&\pos(78,117)}Public Match Room
-Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\1c&H000000&\3c&HFFFFFF&\pos(155,148)}2nd Floor
-Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\1c&H000000&\3c&HFFFFFF&\pos(62,180)}Mid-Kyu Class
-Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\1c&H000000&\3c&HFFFFFF&\pos(155,211)}2nd Floor
-Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\1c&H000000&\3c&HFFFFFF&\pos(82,242)}New First Dan Series
-Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\1c&H000000&\3c&HFFFFFF&\pos(154,273)}5th Floor
-Dialogue: 0,0:05:23.93,0:05:25.93,NoteArial,,0,0,0,,{\an4\fs21\bord1\1c&H000000&\3c&HFFFFFF&\pos(252,123)}Being Repaired
-Dialogue: 0,0:05:25.93,0:05:26.06,NoteArial,,0,0,0,,{\an4\fs21\bord1\1c&H000000&\3c&HFFFFFF&\pos(252,123)}Being R
-Dialogue: 0,0:05:26.56,0:05:26.68,NoteArial,,0,0,0,,{\an4\fs21\bord1\1c&H000000&\3c&HFFFFFF&\pos(252,123)}{\alpha&HFF&}Being {\alpha&H00&}Repaired
-Dialogue: 0,0:05:26.68,0:05:27.72,NoteArial,,0,0,0,,{\an4\fs21\bord1\1c&H000000&\3c&HFFFFFF&\pos(252,123)}Being Repaired
+Dialogue: 0,0:05:02.41,0:05:04.20,NoteArial,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz350\move(521,294,521,498)}Japanese Go Institute
+Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs24\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(93,50)}Today's Events
+Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(78,117)}Public Match Room
+Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(155,148)}2nd Floor
+Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(62,180)}Mid-Kyu Class
+Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(155,211)}2nd Floor
+Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(82,242)}New First Dan Series
+Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,,0,0,0,,{\fs15\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(154,273)}5th Floor
+Dialogue: 0,0:05:23.93,0:05:25.93,NoteArial,,0,0,0,,{\an4\fs21\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(252,123)}{\alpha&H00&}Being Repaired
+Dialogue: 0,0:05:25.93,0:05:26.06,NoteArial,,0,0,0,,{\an4\fs21\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(252,123)}{\alpha&H00&}Being R
+Dialogue: 0,0:05:26.56,0:05:26.68,NoteArial,,0,0,0,,{\an4\fs21\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(252,123)}{\alpha&HFF&}Being {\alpha&H00&}Repaired
+Dialogue: 0,0:05:26.68,0:05:27.72,NoteArial,,0,0,0,,{\an4\fs21\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(252,123)}{\alpha&H00&}Being Repaired
 Dialogue: 0,0:05:39.40,0:05:40.51,Background,,0,0,0,,Master Kuwabara.
 Dialogue: 0,0:05:43.20,0:05:48.77,Default,,0,0,0,,My, my, if it isn't Ogata-kun. It has been awhile.
 Dialogue: 0,0:05:52.52,0:05:57.25,Default,,0,0,0,,We haven't met face to face since\Nthe Honinbou Match, right?

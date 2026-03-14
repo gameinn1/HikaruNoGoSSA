@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 35 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 35 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 274
-Active Line: 296
-Video Position: 35499
+Video Zoom Percent: 0.500000
+Scroll Position: 249
+Active Line: 278
+Video Position: 32429
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,10 +90,10 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:41.58,0:01:43.62,Default,,0,0,0,,Looks like you're not precise enough at counting.
+Dialogue: 0,0:01:41.54,0:01:43.62,Default,,0,0,0,,Looks like you're not precise enough at counting.
 Dialogue: 0,0:01:44.21,0:01:46.08,Background,,0,0,0,,This next match, try to force a draw.
 Dialogue: 0,0:01:46.33,0:01:48.34,Background,,0,0,0,,Intentionally make the game a draw.
-Dialogue: 0,0:01:48.71,0:01:49.51,Default,,0,0,0,,Intentionally?
+Dialogue: 0,0:01:48.67,0:01:49.51,Default,,0,0,0,,Intentionally?
 Dialogue: 0,0:01:49.88,0:01:53.24,Default,,0,0,0,,I heard about your four way game played this morning.
 Dialogue: 0,0:01:53.86,0:01:54.53,Default,,0,0,0,,But I...
 Dialogue: 0,0:01:54.58,0:01:55.84,Default,,0,0,0,,No buts!
@@ -116,7 +116,7 @@ Dialogue: 0,0:02:47.88,0:02:50.05,Sai,,0,0,0,,Hikaru it wasn't four.
 Dialogue: 0,0:02:50.46,0:02:53.68,Default,,0,0,0,,Umm... I messed one up though.
 Dialogue: 0,0:02:53.90,0:02:54.81,Sai,,0,0,0,,Yup.
 Dialogue: 0,0:02:55.24,0:02:57.72,Default,,0,0,0,,But it was like a game, it was a lot of fun!
-Dialogue: 0,0:02:58.98,0:03:00.60,Default,,0,0,0,,After I cleared one, I went to two.
+Dialogue: 0,0:02:58.95,0:03:00.60,Default,,0,0,0,,After I cleared one, I went to two.
 Dialogue: 0,0:03:00.90,0:03:02.49,Default,,0,0,0,,After I cleared two, I went to three.
 Dialogue: 0,0:03:02.49,0:03:03.70,Default,,0,0,0,,I kept leveling up.
 Dialogue: 0,0:03:03.78,0:03:07.85,Sai,,0,0,0,,Yup! Yup! I wanted to try too!
@@ -169,7 +169,7 @@ Dialogue: 0,0:06:23.50,0:06:27.75,Default,,0,0,0,,Yes, most of the customers are
 Dialogue: 0,0:06:29.02,0:06:30.74,Default,,0,0,0,,Don't just stand there, come on in.
 Dialogue: 0,0:06:31.24,0:06:32.86,Default,,0,0,0,,O-Okay.
 Dialogue: 0,0:06:36.34,0:06:37.59,Default,,0,0,0,,{\an8}<Korean Dialog>
-Dialogue: 0,0:06:38.01,0:06:38.85,Default,,0,0,0,,{\an8}<Korean Dialog>
+Dialogue: 0,0:06:37.96,0:06:38.85,Default,,0,0,0,,{\an8}<Korean Dialog>
 Dialogue: 0,0:06:40.18,0:06:41.42,Default,,0,0,0,,The guy from earlier!
 Dialogue: 0,0:06:43.97,0:06:45.34,Default,,0,0,0,,Su-Young did something happen?
 Dialogue: 0,0:06:45.72,0:06:48.54,Background,,0,0,0,,He suddenly started yelling at me in the store.
@@ -195,14 +195,14 @@ Dialogue: 0,0:07:55.35,0:07:58.16,Default,,0,0,0,,Then is he an Insei of the Kor
 Dialogue: 0,0:07:59.05,0:08:00.65,Default,,0,0,0,,We're Insei too!
 Dialogue: 0,0:08:01.16,0:08:03.38,Default,,0,0,0,,Oh! So you're all Insei!
 Dialogue: 0,0:08:04.30,0:08:05.08,Default,,0,0,0,,Insei?
-Dialogue: 0,0:08:05.73,0:08:07.84,Default,,0,0,0,,It's the Japanese equivalent of the Kenkyuusei.
+Dialogue: 0,0:08:05.67,0:08:07.84,Default,,0,0,0,,It's the Japanese equivalent of the Kenkyuusei.
 Dialogue: 0,0:08:08.37,0:08:12.19,Default,,0,0,0,,They're trying to become pro\Njust like you, Su-Young.
 Dialogue: 0,0:08:14.08,0:08:14.65,Default,,0,0,0,,Pro?
 Dialogue: 0,0:08:15.14,0:08:15.93,Thinking,,0,0,0,,Pro...
 Dialogue: 0,0:08:17.10,0:08:20.42,Thinking,,0,0,0,,{\1c&HFEFECE&}He must be walking the same path as Hikaru...
 Dialogue: 0,0:08:21.24,0:08:25.89,Default,,0,0,0,,Oh? Japanese Insei? Sounds interesting.
 Dialogue: 0,0:08:26.22,0:08:27.79,Default,,0,0,0,,Hong-kun play them.
-Dialogue: 0,0:08:28.49,0:08:32.07,Default,,0,0,0,,Isumi-san, is this Korean Institute of\NGo like the Japanese Institute of Go?
+Dialogue: 0,0:08:28.45,0:08:32.07,Default,,0,0,0,,Isumi-san, is this Korean Institute of\NGo like the Japanese Institute of Go?
 Dialogue: 0,0:08:32.62,0:08:33.09,Default,,0,0,0,,Yes.
 Dialogue: 0,0:08:33.82,0:08:36.58,Default,,0,0,0,,Oh pros existed in Korea too. Wow...
 Dialogue: 0,0:08:37.63,0:08:38.77,Default,,0,0,0,,Shindou!
@@ -248,7 +248,7 @@ Dialogue: 0,0:11:04.03,0:11:07.23,Default,,0,0,0,,Korea is just too strong...
 Dialogue: 0,0:11:07.25,0:11:07.98,Background,,0,0,0,,Amano-san.
 Dialogue: 0,0:11:07.98,0:11:09.19,Default,,0,0,0,,The pictures are done.
 Dialogue: 0,0:11:09.89,0:11:16.16,Default,,0,0,0,,What's wrong? There's no reason to get depressed\Nbecause Japan's doing poorly.
-Dialogue: 0,0:11:16.88,0:11:20.08,Default,,0,0,0,,Miss Kinouchi had an overwhelming victory\Nin the Japan China Women's Tournament,
+Dialogue: 0,0:11:16.82,0:11:20.08,Default,,0,0,0,,Miss Kinouchi had an overwhelming victory\Nin the Japan China Women's Tournament,
 Dialogue: 0,0:11:20.68,0:11:24.75,Default,,0,0,0,,and you haven't forgotten Mr. Kurata's performance\Nat last years Japan-Korea matches right?
 Dialogue: 0,0:11:25.79,0:11:27.50,Default,,0,0,0,,I haven't forgotten,
 Dialogue: 0,0:11:28.77,0:11:31.39,Default,,0,0,0,,but Japan is losing overall.
@@ -263,7 +263,7 @@ Dialogue: 0,0:12:05.19,0:12:09.67,Default,,0,0,0,,It'll be more fun for me to pl
 Dialogue: 0,0:12:09.67,0:12:10.45,Default,,0,0,0,,What!?
 Dialogue: 0,0:12:11.61,0:12:15.13,Default,,0,0,0,,He said it'll be more fun to play me than you.
 Dialogue: 0,0:12:15.71,0:12:17.80,Default,,0,0,0,,Well why don't we play a game then?
-Dialogue: 0,0:12:18.67,0:12:19.34,Default,,0,0,0,,Wait a second!
+Dialogue: 0,0:12:18.63,0:12:19.34,Default,,0,0,0,,Wait a second!
 Dialogue: 0,0:12:20.03,0:12:22.10,Default,,0,0,0,,How can you say that without even playing me!?
 Dialogue: 0,0:12:23.24,0:12:25.31,Default,,0,0,0,,Stop shouting, you're so annoying.
 Dialogue: 0,0:12:25.55,0:12:28.14,Default,,0,0,0,,You're that scared of losing to me!?
@@ -276,7 +276,7 @@ Dialogue: 0,0:12:50.30,0:12:52.55,Default,,0,0,0,,I'll play a tutoring game with
 Dialogue: 0,0:12:53.16,0:12:54.14,Default,,0,0,0,,Tutoring game?
 Dialogue: 0,0:13:02.42,0:13:02.89,Default,,0,0,0,,Su-Young!
 Dialogue: 0,0:13:03.09,0:13:04.10,Default,,0,0,0,,Shindou!
-Dialogue: 0,0:13:10.96,0:13:12.67,Default,,0,0,0,,I don't want to play a tutoring game!
+Dialogue: 0,0:13:10.94,0:13:12.67,Default,,0,0,0,,I don't want to play a tutoring game!
 Dialogue: 0,0:13:31.07,0:13:31.83,Thinking,,0,0,0,,{\1c&HFEFECE&}Hikaru...
 Dialogue: 0,0:13:32.48,0:13:33.33,Default,,0,0,0,,Shindou.
 Dialogue: 0,0:13:34.46,0:13:35.34,Default,,0,0,0,,Come on! Nigiri!
@@ -333,7 +333,7 @@ Dialogue: 0,0:17:21.56,0:17:26.52,Thinking,,0,0,0,,Go Shindou! Win the game, and
 Dialogue: 0,0:17:38.69,0:17:46.51,Thinking,,0,0,0,,Su-Young isn't just any child... but\Ncan Su-Young beat him right now?
 Dialogue: 0,0:17:48.31,0:17:50.40,Thinking,,0,0,0,,It's not a matter of skill...
 Dialogue: 0,0:18:02.15,0:18:04.19,Memory,,0,0,0,,Hong dropped a class.
-Dialogue: 0,0:18:04.64,0:18:05.81,Memory,,0,0,0,,This is the first time right?
+Dialogue: 0,0:18:04.60,0:18:05.81,Memory,,0,0,0,,This is the first time right?
 Dialogue: 0,0:18:06.12,0:18:09.46,Memory,,0,0,0,,Maybe that's why he's been so irritated lately.
 Dialogue: 0,0:18:16.63,0:18:18.98,Memory,,0,0,0,,Hey Hong, don't give up so easily.
 Dialogue: 0,0:18:19.36,0:18:20.94,Memory,,0,0,0,,This game is so stupid.
@@ -344,7 +344,7 @@ Dialogue: 0,0:18:35.43,0:18:37.71,Memory,,0,0,0,,{\b0\i1}And I keep losing with 
 Dialogue: 0,0:18:39.01,0:18:41.40,Memory,,0,0,0,,{\b0\i1}Damn this is stupid.{\b1\i0}
 Dialogue: 0,0:18:43.52,0:18:45.74,Memory,,0,0,0,,Hong dropped another class this month.
 Dialogue: 0,0:18:46.20,0:18:48.07,Memory,,0,0,0,,I wonder how far he's going to go down.
-Dialogue: 0,0:18:54.17,0:18:55.57,Memory,,0,0,0,,Your Go isn't what it should be Hong.
+Dialogue: 0,0:18:54.11,0:18:55.57,Memory,,0,0,0,,Your Go isn't what it should be Hong.
 Dialogue: 0,0:18:57.56,0:18:58.33,Memory,,0,0,0,,Shut up!
 Dialogue: 0,0:18:59.02,0:18:59.72,Memory,,0,0,0,,Hong!
 Dialogue: 0,0:19:03.88,0:19:04.66,Memory,,0,0,0,,{\b0\i1}I lost...{\b1\i0}

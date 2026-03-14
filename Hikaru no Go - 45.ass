@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 45 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 218
-Active Line: 241
-Video Position: 35133
+Scroll Position: 216
+Active Line: 235
+Video Position: 34567
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,7 +97,7 @@ Dialogue: 0,0:01:54.80,0:01:58.14,Default,,0,0,0,,We... talked about a good play
 Dialogue: 0,0:01:58.65,0:02:00.90,Default,,0,0,0,,Yeah... I remember.
 Dialogue: 0,0:02:01.40,0:02:04.69,Default,,0,0,0,,You played... as well as Sai today.
 Dialogue: 0,0:02:05.24,0:02:06.44,Default,,0,0,0,,Shindou isn't...
-Dialogue: 0,0:02:06.70,0:02:08.14,Default,,0,0,0,,You'll lose if you underestimate him!
+Dialogue: 0,0:02:06.65,0:02:08.14,Default,,0,0,0,,You'll lose if you underestimate him!
 Dialogue: 0,0:02:08.73,0:02:11.30,Default,,0,0,0,,Then, if I win the last match,
 Dialogue: 0,0:02:11.49,0:02:14.28,Default,,0,0,0,,will you recognize me as your rival?
 Dialogue: 0,0:02:18.28,0:02:19.07,Background,,0,0,0,,Ochi...
@@ -134,7 +134,7 @@ Dialogue: 0,0:04:06.22,0:04:09.08,Default,,0,0,0,,He didn't say anything about y
 Dialogue: 0,0:04:09.53,0:04:10.52,Default,,0,0,0,,Get off your high horse!
 Dialogue: 0,0:04:13.11,0:04:14.82,Default,,0,0,0,,We talked about the pro exam, too,
 Dialogue: 0,0:04:15.02,0:04:17.78,Default,,0,0,0,,but he doesn't care about you at all.
-Dialogue: 0,0:04:18.54,0:04:19.74,Default,,0,0,0,,He doesn't think anything of you.
+Dialogue: 0,0:04:18.49,0:04:19.74,Default,,0,0,0,,He doesn't think anything of you.
 Dialogue: 0,0:04:21.75,0:04:22.55,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:04:23.43,0:04:26.88,Background,,0,0,0,,Besides, do you know how strong Touya really is?
 Dialogue: 0,0:04:28.33,0:04:31.12,Default,,0,0,0,,He hasn't lost a match yet after becoming pro!
@@ -172,20 +172,20 @@ Dialogue: 0,0:06:33.71,0:06:37.79,Default,,0,0,0,,He's just really in the spirit
 Dialogue: 0,0:06:38.42,0:06:39.68,Default,,0,0,0,,Though, I expected as much.
 Dialogue: 0,0:06:45.43,0:06:47.44,Default,,0,0,0,,I'm starting to think that Ochi's going to win.
 Dialogue: 0,0:06:47.80,0:06:49.33,Default,,0,0,0,,Shindou's in a pinch!
-Dialogue: 0,0:06:50.41,0:06:52.39,Default,,0,0,0,,Maybe he'll go into the playoffs with Waya!
+Dialogue: 0,0:06:50.35,0:06:52.39,Default,,0,0,0,,Maybe he'll go into the playoffs with Waya!
 Dialogue: 0,0:06:56.19,0:06:58.34,Background,,0,0,0,,Why are you talking about me?
 Dialogue: 0,0:06:59.77,0:07:00.64,Default,,0,0,0,,Waya...
 Dialogue: 0,0:07:02.28,0:07:02.92,Default,,0,0,0,,Sup.
 Dialogue: 0,0:07:04.12,0:07:05.89,Default,,0,0,0,,Hey, how do you feel right now?
 Dialogue: 0,0:07:06.79,0:07:08.68,Default,,0,0,0,,How do I feel? Normal.
-Dialogue: 0,0:07:09.16,0:07:11.44,Default,,0,0,0,,Your opponent for the last round is\NFuku, who you're weak against.
-Dialogue: 0,0:07:11.71,0:07:14.84,Default,,0,0,0,,If you lose, you enter a playoff with\NIsumi-san, a powerful opponent.
+Dialogue: 0,0:07:09.12,0:07:11.44,Default,,0,0,0,,Your opponent for the last round is\NFuku, who you're weak against.
+Dialogue: 0,0:07:11.66,0:07:14.84,Default,,0,0,0,,If you lose, you enter a playoff with\NIsumi-san, a powerful opponent.
 Dialogue: 0,0:07:15.36,0:07:17.85,Default,,0,0,0,,Why you... you're enjoying this aren't you?
 Dialogue: 0,0:07:18.42,0:07:20.48,Default,,0,0,0,,If Isumi-san were to lose today,
 Dialogue: 0,0:07:20.75,0:07:23.98,Default,,0,0,0,,you and Shindou would pass automatically, but...
 Dialogue: 0,0:07:25.01,0:07:27.80,Default,,0,0,0,,judging from his opponent...
 Dialogue: 0,0:07:28.26,0:07:31.13,Default,,0,0,0,,Yeah. I doubt Isumi-san will lose.
-Dialogue: 0,0:07:32.60,0:07:34.50,Default,,0,0,0,,He'll be waiting for Shindou's and my results.
+Dialogue: 0,0:07:32.56,0:07:34.50,Default,,0,0,0,,He'll be waiting for Shindou's and my results.
 Dialogue: 0,0:07:46.28,0:07:51.23,Default,,0,0,0,,Well then, I guess I should stop worrying\Nabout others and play my own match.
 Dialogue: 0,0:07:52.12,0:07:53.78,Default,,0,0,0,,And hope that my game will lead me to my future.
 Dialogue: 0,0:07:55.99,0:07:57.25,Default,,0,0,0,,What kind of future?
@@ -200,7 +200,7 @@ Dialogue: 0,0:09:12.71,0:09:15.47,Thinking,,0,0,0,,Touya is looking at me throug
 Dialogue: 0,0:09:16.12,0:09:17.24,Thinking,,0,0,0,,I have a feeling that he is.
 Dialogue: 0,0:09:21.93,0:09:22.86,Thinking,,0,0,0,,Almost there...
 Dialogue: 0,0:09:24.17,0:09:25.31,Thinking,,0,0,0,,I'm almost there, Touya!
-Dialogue: 0,0:09:26.34,0:09:27.67,Thinking,,0,0,0,,I've almost caught up to you!
+Dialogue: 0,0:09:26.30,0:09:27.67,Thinking,,0,0,0,,I've almost caught up to you!
 Dialogue: 0,0:09:28.54,0:09:31.41,Thinking,,0,0,0,,Shindou doesn't know how strong Touya is.
 Dialogue: 0,0:09:32.05,0:09:35.54,Thinking,,0,0,0,,He wouldn't be calling Touya a rival so casually if he did.
 Dialogue: 0,0:09:36.89,0:09:40.67,Thinking,,0,0,0,,The more I play him, the more\NI learn about how strong he is!
@@ -234,7 +234,7 @@ Dialogue: 0,0:12:24.64,0:12:28.19,Memory,,0,0,0,,Would you like to play now?\NIn
 Dialogue: 0,0:12:34.19,0:12:34.97,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:12:36.31,0:12:36.96,Thinking,,0,0,0,,Touya!
 Dialogue: 0,0:12:37.93,0:12:41.03,Thinking,,0,0,0,,If I win this match today, I'll become a pro!
-Dialogue: 0,0:12:41.70,0:12:43.11,Thinking,,0,0,0,,I'm going to stand before you...
+Dialogue: 0,0:12:41.66,0:12:43.11,Thinking,,0,0,0,,I'm going to stand before you...
 Dialogue: 0,0:12:44.49,0:12:45.29,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:12:45.94,0:12:46.99,Thinking,,0,0,0,,Stand before you...
 Dialogue: 0,0:13:13.32,0:13:14.07,Sai,,0,0,0,,I see.

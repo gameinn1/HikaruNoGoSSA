@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 362
-Active Line: 385
-Video Position: 35443
+Scroll Position: 31
+Active Line: 53
+Video Position: 7386
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -133,19 +133,19 @@ Dialogue: 0,0:04:50.92,0:04:54.42,Thinking,,0,0,0,,But... is he serious about re
 Dialogue: 0,0:04:57.01,0:05:00.66,Memory,,0,0,0,,If I were to lose, I will retire.
 Dialogue: 0,0:05:01.81,0:05:03.19,Thinking,,0,0,0,,He's probably serious.
 Dialogue: 0,0:05:04.25,0:05:08.05,Thinking,,0,0,0,,Man, why is that family so stubborn!?
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord4\blur0\shad0\fscy160\pos(95,90)}Players
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H5F3CB3&\3c&HDEDBC2&\bord4\blur0\shad0\fscx102\fscy120\pos(332,94)}Display all Users
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs10\1c&H2E260E&\3c&HDEDBC2&\bord4\blur0\shad0\fscy180\pos(427,92)}Refresh
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H2E260E&\3c&HDEDBC2&\bord5\blur0\shad0\fscy180\pos(494,92)}PLAY
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H2E260E&\3c&HDEDBC2&\bord5\blur0\shad0\fscy180\pos(561,92)}BACK
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs21\1c&H2E260E&\3c&HDEDBC2&\bord3\blur0\shad0\fscy60\pos(98.215,128)}USER-ID
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs15\1c&H2E260E&\3c&HDEDBC2&\bord4\blur0\shad0\fscy90\pos(180,127)}Nation
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord5\blur4\shad0\fscy90\pos(272,128)}Wins
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord5\blur5\shad0\fscy90\pos(305,128)}Loss
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord4.5\blur0\shad0\fscx102\fscy90\pos(403,127)}Information
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord7\blur0\shad0\fscy130\pos(527,138)}PAIR GO
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord5\blur0\shad0\fscy130\pos(527,185)}SETUP
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs10\1c&HCB9A2E&\3c&HDEDBC2&\bord4\blur0\shad0\fscy130\pos(528,227)}Current Display Settings
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy160\pos(95,90)}Players
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H5F3CB3&\3c&HDEDBC2&\bord0\blur0\shad0\fscx102\fscy120\pos(332,94)}Display all Users
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs10\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy180\pos(427,92)}Refresh
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy180\pos(494,92)}PLAY
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy180\pos(561,92)}BACK
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs21\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy60\pos(98.215,128)}USER-ID
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs15\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy90\pos(180,127)}Nation
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy90\pos(272,128)}Wins
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy90\pos(305,128)}Loss
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscx102\fscy90\pos(403,127)}Information
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy130\pos(527,138)}PAIR GO
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy130\pos(527,185)}SETUP
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs10\1c&HCB9A2E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy130\pos(528,227)}Current Display Settings
 Dialogue: 0,0:05:11.51,0:05:12.51,Thinking,,0,0,0,,He's not there yet.
 Dialogue: 0,0:05:14.29,0:05:15.13,Thinking,,0,0,0,,Sai?
 Dialogue: 0,0:05:21.76,0:05:22.52,Thinking,,0,0,0,,There he is!

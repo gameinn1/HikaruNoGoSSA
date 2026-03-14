@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 37 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 232
-Active Line: 243
-Video Position: 35487
+Scroll Position: 210
+Active Line: 230
+Video Position: 29673
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,13 +90,13 @@ Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.24,0:01:43.54,Default,,0,0,0,,Your name!?
+Dialogue: 0,0:01:42.21,0:01:43.54,Default,,0,0,0,,Your name!?
 Dialogue: 0,0:01:44.92,0:01:48.18,Default,,0,0,0,,Your name! I said I'd remember it.
 Dialogue: 0,0:01:50.30,0:01:52.99,Default,,0,0,0,,My name is Shindou Hikaru!
 Dialogue: 0,0:01:54.06,0:01:56.25,Default,,0,0,0,,Shindou... Hikaru...
 Dialogue: 0,0:01:59.77,0:02:00.72,Background,,0,0,0,,Shindou-kun.
-Dialogue: 0,0:02:02.93,0:02:05.98,Default,,0,0,0,,I'll carve it into my mind too...
-Dialogue: 0,0:02:07.34,0:02:08.94,Background,,0,0,0,,the name of Shindou Hikaru!
+Dialogue: 0,0:02:02.89,0:02:05.98,Default,,0,0,0,,I'll carve it into my mind too...
+Dialogue: 0,0:02:07.32,0:02:08.94,Background,,0,0,0,,the name of Shindou Hikaru!
 Dialogue: 0,0:02:10.03,0:02:14.99,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(355,115)}The Thirty-Seventh Match
 Dialogue: 0,0:02:10.03,0:02:14.99,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Pro Exam Begins
 Dialogue: 0,0:02:37.52,0:02:40.50,Default,,0,0,0,,Sai... it's finally time...
@@ -120,16 +120,16 @@ Dialogue: 0,0:03:40.95,0:03:41.66,Default,,0,0,0,,Shindou!
 Dialogue: 0,0:03:42.08,0:03:42.97,Default,,0,0,0,,Isumi-san!
 Dialogue: 0,0:03:44.39,0:03:46.19,Default,,0,0,0,,Hey! Long time no see!
 Dialogue: 0,0:03:46.53,0:03:47.45,Default,,0,0,0,,Tsubaki!
-Dialogue: 0,0:03:47.97,0:03:50.00,Default,,0,0,0,,You can't call someone older than you directly!
-Dialogue: 0,0:03:50.42,0:03:52.50,Default,,0,0,0,,Tsubaki... san...
-Dialogue: 0,0:03:52.78,0:03:53.85,Default,,0,0,0,,Good!
-Dialogue: 0,0:03:54.53,0:03:57.17,Default,,0,0,0,,Is that the guy Shindou was scared of?
+Dialogue: 0,0:03:47.92,0:03:50.00,Default,,0,0,0,,You can't call someone older than you directly!
+Dialogue: 0,0:03:50.38,0:03:52.50,Default,,0,0,0,,Tsubaki... san...
+Dialogue: 0,0:03:52.75,0:03:53.85,Default,,0,0,0,,Good!
+Dialogue: 0,0:03:54.51,0:03:57.17,Default,,0,0,0,,Is that the guy Shindou was scared of?
 Dialogue: 0,0:03:57.43,0:03:58.45,Default,,0,0,0,,Probably.
-Dialogue: 0,0:03:59.13,0:04:01.61,Default,,0,0,0,,Aren't you glad you made it to the finals?
-Dialogue: 0,0:04:06.17,0:04:06.91,Default,,0,0,0,,What is it?
+Dialogue: 0,0:03:59.09,0:04:01.61,Default,,0,0,0,,Aren't you glad you made it to the finals?
+Dialogue: 0,0:04:06.14,0:04:06.91,Default,,0,0,0,,What is it?
 Dialogue: 0,0:04:15.05,0:04:18.24,Default,,0,0,0,,Now that I look at it, you're\Ncuter than Kawai-san is.
 Dialogue: 0,0:04:18.46,0:04:20.49,Default,,0,0,0,,Huh? Kawai-san?
-Dialogue: 0,0:04:20.83,0:04:23.32,Default,,0,0,0,,He's someone that always does this to me.
+Dialogue: 0,0:04:20.78,0:04:23.32,Default,,0,0,0,,He's someone that always does this to me.
 Dialogue: 0,0:04:23.36,0:04:26.11,Default,,0,0,0,,What are you doing!? Do it to that Kawai guy!
 Dialogue: 0,0:04:26.41,0:04:28.79,Default,,0,0,0,,I can't do it to Kawai-san. He's too scary.
 Dialogue: 0,0:04:35.45,0:04:39.71,Default,,0,0,0,,But Tsubaki-san's a lot better\Nat Go than Kawai-san.
@@ -140,7 +140,7 @@ Dialogue: 0,0:04:53.61,0:04:54.36,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:04:54.98,0:04:56.96,Default,,0,0,0,,Oh! You're talking back?
 Dialogue: 0,0:04:57.62,0:05:01.39,Thinking,,0,0,0,,Shindou's changed since the preliminaries...
 Dialogue: 0,0:05:02.55,0:05:06.39,Default,,0,0,0,,Okay. If you're going to order a lunch,\Nplease place your order here.
-Dialogue: 0,0:05:06.66,0:05:07.70,Background,,0,0,0,,I wonder what they have.
+Dialogue: 0,0:05:06.62,0:05:07.70,Background,,0,0,0,,I wonder what they have.
 Dialogue: 0,0:05:09.02,0:05:11.65,Default,,0,0,0,,Please place your order by 10.
 Dialogue: 0,0:05:12.39,0:05:13.13,Default,,0,0,0,,What about you?
 Dialogue: 0,0:05:13.68,0:05:16.10,Default,,0,0,0,,My mom packed me a lunch!
@@ -154,7 +154,7 @@ Dialogue: 0,0:06:03.36,0:06:05.61,Thinking,,0,0,0,,There are 28 participants thi
 Dialogue: 0,0:06:06.47,0:06:09.64,Sai,,0,0,0,,Are we deciding today's opponent by lottery again?
 Dialogue: 0,0:06:10.30,0:06:13.53,Default,,0,0,0,,Yeah. Only the top three pass.
 Dialogue: 0,0:06:14.44,0:06:15.17,Sai,,0,0,0,,Three...
-Dialogue: 0,0:06:21.16,0:06:23.10,Default,,0,0,0,,It's the guy I lost to during the preliminaries.
+Dialogue: 0,0:06:21.11,0:06:23.10,Default,,0,0,0,,It's the guy I lost to during the preliminaries.
 Dialogue: 0,0:06:29.74,0:06:33.02,Sai,,0,0,0,,Hikaru's attitude has changed\Nsignificantly from before.
 Dialogue: 0,0:06:37.80,0:06:41.07,Sai,,0,0,0,,Hikaru, you're trembling with excitement.
 Dialogue: 0,0:06:47.44,0:06:51.05,Sai,,0,0,0,,Your confidence in being able to\Nbring out all of your strength,
@@ -179,7 +179,7 @@ Dialogue: 0,0:07:45.01,0:07:45.61,Default,,0,0,0,,Here.
 Dialogue: 0,0:07:48.11,0:07:53.24,Thinking,,0,0,0,,You only draw lots on the first day. The\Ntournament chart's already been filled.
 Dialogue: 0,0:07:54.04,0:07:55.00,Default,,0,0,0,,I'm number 7.
 Dialogue: 0,0:07:56.10,0:08:00.66,Thinking,,0,0,0,,Once your number has been decided. Your opponents\Nfor the entire exam are decided.
-Dialogue: 0,0:08:10.09,0:08:11.82,Thinking,,0,0,0,,I'm playing Iijima-san on the first day.
+Dialogue: 0,0:08:10.05,0:08:11.82,Thinking,,0,0,0,,I'm playing Iijima-san on the first day.
 Dialogue: 0,0:08:13.21,0:08:14.51,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:08:15.92,0:08:21.79,Default,,0,0,0,,Set your game clocks to three hours each. Clock\Ncount is a minute per move.\NKomi is set to 5.5 moku.
 Dialogue: 0,0:08:22.40,0:08:23.81,Background,,0,0,0,,Please begin then.
@@ -194,8 +194,8 @@ Dialogue: 0,0:09:32.77,0:09:35.31,Default,,0,0,0,,This doesn't happen in any nor
 Dialogue: 0,0:09:36.21,0:09:39.19,Default,,0,0,0,,The pro exam really is...
 Dialogue: 0,0:09:40.18,0:09:41.11,Default,,0,0,0,,What's the matter?
 Dialogue: 0,0:09:41.75,0:09:46.87,Default,,0,0,0,,It's the first day, there's so much tension\Nin the air, I can't bear to stay here.
-Dialogue: 0,0:09:47.28,0:09:49.74,Default,,0,0,0,,I'll be in the lounge on the second floor until lunch.
-Dialogue: 0,0:09:50.05,0:09:50.65,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:09:47.23,0:09:49.74,Default,,0,0,0,,I'll be in the lounge on the second floor until lunch.
+Dialogue: 0,0:09:50.03,0:09:50.65,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:10:03.60,0:10:09.14,Thinking,,0,0,0,,My goal isn't to just pass. It's to pass in first place.
 Dialogue: 0,0:10:11.79,0:10:15.74,Thinking,,0,0,0,,It's begun. The long long pro exam...
 Dialogue: 0,0:10:17.00,0:10:18.87,Thinking,,0,0,0,,Only three people will pass.
@@ -211,16 +211,16 @@ Dialogue: 0,0:11:19.37,0:11:21.43,Default,,0,0,0,,Time for lunch! Lunch!
 Dialogue: 0,0:11:21.62,0:11:23.41,Default,,0,0,0,,Yup! Lunch! Lunch!
 Dialogue: 0,0:11:23.50,0:11:25.39,Default,,0,0,0,,Huh? You're full of confidence.
 Dialogue: 0,0:11:26.20,0:11:29.26,Default,,0,0,0,,They look more like best friends than anything else.
-Dialogue: 0,0:11:30.34,0:11:32.32,Default,,0,0,0,,I guess it's because we went to the Go salons.
+Dialogue: 0,0:11:30.29,0:11:32.32,Default,,0,0,0,,I guess it's because we went to the Go salons.
 Dialogue: 0,0:11:32.86,0:11:33.71,Default,,0,0,0,,Go salons?
-Dialogue: 0,0:11:34.30,0:11:36.78,Default,,0,0,0,,Isumi-san and I took him around.
+Dialogue: 0,0:11:34.26,0:11:36.78,Default,,0,0,0,,Isumi-san and I took him around.
 Dialogue: 0,0:11:36.95,0:11:40.19,Default,,0,0,0,,He said that he had never played\Nat a Go salon before.
 Dialogue: 0,0:11:40.50,0:11:44.34,Default,,0,0,0,,Why the fuck did you do that?\NWhy did you make your rival stronger!?
 Dialogue: 0,0:11:44.76,0:11:50.36,Default,,0,0,0,,Mr. Morishita always says that people who will\Nbecome strong will become strong no matter what.
 Dialogue: 0,0:11:50.48,0:11:54.61,Default,,0,0,0,,But you didn't have to help him\Nright before the pro exams!
 Dialogue: 0,0:11:55.07,0:11:56.28,Default,,0,0,0,,Are you stupid!?
 Dialogue: 0,0:11:57.51,0:11:58.91,Default,,0,0,0,,I'm not stupid.
-Dialogue: 0,0:11:59.67,0:12:04.90,Default,,0,0,0,,My teacher even says that I've become\Nmuch stronger since Shindou started\Ncoming to the study sessions.
+Dialogue: 0,0:11:59.62,0:12:04.90,Default,,0,0,0,,My teacher even says that I've become\Nmuch stronger since Shindou started\Ncoming to the study sessions.
 Dialogue: 0,0:12:05.37,0:12:10.86,Default,,0,0,0,,Yeah. It seems like taking care of\NShindou's made you stronger too.
 Dialogue: 0,0:12:11.31,0:12:11.96,Default,,0,0,0,,Really?
 Dialogue: 0,0:12:12.27,0:12:15.16,Default,,0,0,0,,I'm doing really well right now. I can tell myself.
@@ -230,7 +230,7 @@ Dialogue: 0,0:12:20.43,0:12:22.89,Note,,0,0,0,,{\fs27.5\fsp8\bord1\1c&H000000&\3
 Dialogue: 0,0:12:22.89,0:12:23.89,Note,,0,0,0,,{\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz17\pos(259,89)}Pro Exam Pairings
 Dialogue: 0,0:12:21.26,0:12:22.82,Background,,0,0,0,,I'm playing Shindou at...
 Dialogue: 0,0:12:24.43,0:12:27.71,Default,,0,0,0,,wow it's towards the end. The day before the last.
-Dialogue: 0,0:12:28.65,0:12:31.11,Default,,0,0,0,,Isumi-san, I'll be playing you\Non the thirteenth match.
+Dialogue: 0,0:12:28.60,0:12:31.11,Default,,0,0,0,,Isumi-san, I'll be playing you\Non the thirteenth match.
 Dialogue: 0,0:12:32.04,0:12:37.83,Default,,0,0,0,,I've got them right in a row. Shindou on the\Ntwelfth match, you on the thirteenth match.
 Dialogue: 0,0:12:39.96,0:12:44.00,Default,,0,0,0,,"You made your rival stronger... Are you stupid..."
 Dialogue: 0,0:12:45.35,0:12:49.42,Default,,0,0,0,,If Shindou passes and we fail,\Nwe may just be stupid.
@@ -270,7 +270,7 @@ Dialogue: 0,0:16:46.77,0:16:50.95,Default,,0,0,0,,He played a calm game, I got n
 Dialogue: 0,0:16:51.93,0:16:53.32,Default,,0,0,0,,He's changed.
 Dialogue: 0,0:16:54.54,0:16:56.24,Default,,0,0,0,,You'll find out once you play him.
 Dialogue: 0,0:16:57.54,0:17:00.63,Default,,0,0,0,,Maybe he'll pass.
-Dialogue: 0,0:17:09.06,0:17:15.35,Background,,0,0,0,,Over here, it's tougher on white if you simply go to\Nthe kosumi instead of attacking him with a Keima.
+Dialogue: 0,0:17:09.01,0:17:15.35,Background,,0,0,0,,Over here, it's tougher on white if you simply go to\Nthe kosumi instead of attacking him with a Keima.
 Dialogue: 0,0:17:16.24,0:17:16.84,Default,,0,0,0,,Okay.
 Dialogue: 0,0:17:18.10,0:17:19.68,Background,,0,0,0,,I'll be going now then.
 Dialogue: 0,0:17:20.12,0:17:21.79,Default,,0,0,0,,Thank you for coming.
@@ -284,20 +284,20 @@ Dialogue: 0,0:17:48.35,0:17:51.81,Default,,0,0,0,,Right now, calling the pros is
 Dialogue: 0,0:17:52.63,0:17:56.46,Default,,0,0,0,,It's me, can you bring me a whiskey and water?
 Dialogue: 0,0:17:56.97,0:18:00.48,Background,,0,0,0,,I'm happy that my grandson's\Naiming to become a pro.
 Dialogue: 0,0:18:01.02,0:18:05.07,Background,,0,0,0,,Your father was no good. He\Ndidn't even touch the stones.
-Dialogue: 0,0:18:05.83,0:18:10.74,Default,,0,0,0,,We'll get you practice at Go salons. I'll even\Nhave the pros come teach you every night.
+Dialogue: 0,0:18:05.77,0:18:10.74,Default,,0,0,0,,We'll get you practice at Go salons. I'll even\Nhave the pros come teach you every night.
 Dialogue: 0,0:18:11.32,0:18:13.39,Default,,0,0,0,,I don't care how much it costs.
 Dialogue: 0,0:18:14.16,0:18:17.67,Default,,0,0,0,,How are the pro exams? Do you think\Nyou can pass with the top score?
 Dialogue: 0,0:18:18.10,0:18:19.70,Default,,0,0,0,,I plan on doing so.
-Dialogue: 0,0:18:20.75,0:18:26.27,Default,,0,0,0,,I passed Isumi-san and was first place on the\Nlast Insei rankings before the pro exams too.
-Dialogue: 0,0:18:28.68,0:18:32.77,Default,,0,0,0,,Hmm, all the pros coming here have\Nbeen set for this entire week.
+Dialogue: 0,0:18:20.70,0:18:26.27,Default,,0,0,0,,I passed Isumi-san and was first place on the\Nlast Insei rankings before the pro exams too.
+Dialogue: 0,0:18:28.63,0:18:32.77,Default,,0,0,0,,Hmm, all the pros coming here have\Nbeen set for this entire week.
 Dialogue: 0,0:18:33.09,0:18:36.41,Default,,0,0,0,,But maybe we should get Touya\N2dan come sometime next week.
 Dialogue: 0,0:18:37.00,0:18:37.90,Default,,0,0,0,,Touya 2 dan!?
 Dialogue: 0,0:18:38.58,0:18:41.73,Default,,0,0,0,,He's passed with the top score last year.
 Dialogue: 0,0:18:42.18,0:18:47.11,Background,,0,0,0,,Your pro exam will go on, so he can\Nprobably give you some advice.
 Dialogue: 0,0:18:47.27,0:18:51.73,Default,,0,0,0,,But it's probably better to listen to a young person\Nabout stuff like that, rather than some old people.
-Dialogue: 0,0:18:54.29,0:18:55.14,Default,,0,0,0,,Do you not want it?
-Dialogue: 0,0:18:56.00,0:18:58.14,Default,,0,0,0,,No, that's okay.
-Dialogue: 0,0:19:00.15,0:19:03.29,Thinking,,0,0,0,,I haven't played Touya 2 dan yet.
+Dialogue: 0,0:18:54.24,0:18:55.14,Default,,0,0,0,,Do you not want it?
+Dialogue: 0,0:18:55.95,0:18:58.14,Default,,0,0,0,,No, that's okay.
+Dialogue: 0,0:19:00.12,0:19:03.29,Thinking,,0,0,0,,I haven't played Touya 2 dan yet.
 Dialogue: 0,0:19:04.98,0:19:08.51,Thinking,,0,0,0,,It's a great opportunity. I wanted to play him.
 Dialogue: 0,0:19:09.27,0:19:16.25,Thinking,,0,0,0,,Once I become pro, we'll both be lower dan players.\NHe's a rival that I may be playing immediately.
 Dialogue: 0,0:19:24.18,0:19:27.19,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(314,184,314,33)}Pro Examination
@@ -316,7 +316,7 @@ Dialogue: 0,0:20:08.58,0:20:10.20,Default,,0,0,0,,But could you turn them down?
 Dialogue: 0,0:20:11.24,0:20:14.76,Default,,0,0,0,,I'd like to focus on my own studies.
 Dialogue: 0,0:20:15.69,0:20:17.55,Background,,0,0,0,,Yes. I'm sorry.
 Dialogue: 0,0:20:19.16,0:20:22.21,Default,,0,0,0,,Insei!? I'll be tutoring an Insei!?
-Dialogue: 0,0:20:22.70,0:20:24.24,Default,,0,0,0,,Someone taking the exam right now?
+Dialogue: 0,0:20:22.66,0:20:24.24,Default,,0,0,0,,Someone taking the exam right now?
 Dialogue: 0,0:20:24.96,0:20:26.38,Default,,0,0,0,,I'll go! I'll go!
 Dialogue: 0,0:20:26.69,0:20:28.74,Default,,0,0,0,,Yes please set it up.
 Dialogue: 0,0:20:34.05,0:20:34.82,Default,,0,0,0,,Shindou...
