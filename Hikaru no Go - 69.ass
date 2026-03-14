@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 69 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 198
-Active Line: 215
-Video Position: 29490
+Scroll Position: 105
+Active Line: 112
+Video Position: 14648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -206,6 +206,8 @@ Dialogue: 0,0:09:54.16,0:09:57.54,Background,,0,0,0,,And the kid ran around ever
 Dialogue: 0,0:09:58.08,0:10:05.29,Background,,0,0,0,,The Shuusaku memorial at Ishikiri Shrine, Housenji\NTemple, Itosaki Hachibanguu, Jikanji Temple...
 Dialogue: 0,0:10:05.50,0:10:08.30,Background,,0,0,0,,Even to Honmyouji Temple in Sugamo\Nwhen we got back to Tokyo.
 Dialogue: 0,0:10:08.92,0:10:10.92,Background,,0,0,0,,Man, I was busy.
+Comment: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,Maybe &H9EE184& for box?
+Dialogue: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,{\1c&HA0E286&\an7\bord0\shad0\blur2\pos(0,0)}{\p1}m 95 81 l 130 79 150 479 115 478{\p0}
 Dialogue: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,{\fs23\1c&H458E2E&\bord0\3c&HA0E286&\fscx101\fscy85\frz272.8\pos(113,277)}GRAVE OF HISTORIC HONINBOU
 Dialogue: 0,0:10:15.51,0:10:18.84,Default,,0,0,0,,And how was Shindou during the trip?
 Dialogue: 0,0:10:19.93,0:10:21.94,Default,,0,0,0,,Did he act out of the ordinary?
