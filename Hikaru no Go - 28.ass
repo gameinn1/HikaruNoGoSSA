@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 28 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 215
-Active Line: 249
-Video Position: 35510
+Scroll Position: 114
+Active Line: 145
+Video Position: 17234
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,11 +93,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.12,0:00:04.00,Memory,,0,0,0,,Fujiwarano Sai, a Go player from the Heian period
 Dialogue: 0,0:00:04.53,0:00:08.50,Memory,,0,0,0,,has passed through time and returned to\Nthe world in the mind of Shindou Hikaru...
 Dialogue: 0,0:00:09.38,0:00:11.70,Memory,,0,0,0,,in order to obtain the Hand of God.
-Dialogue: 0,0:01:43.13,0:01:44.75,Thinking,,0,0,0,,Thinking again?
+Dialogue: 0,0:01:43.08,0:01:44.75,Thinking,,0,0,0,,Thinking again?
 Dialogue: 0,0:01:46.13,0:01:47.04,Default,,0,0,0,,I resign.
-Dialogue: 0,0:01:49.53,0:01:50.34,Thinking,,0,0,0,,One win!
+Dialogue: 0,0:01:49.51,0:01:50.34,Thinking,,0,0,0,,One win!
 Dialogue: 0,0:01:52.83,0:01:53.89,Thinking,,0,0,0,,The stones flow easily.
-Dialogue: 0,0:01:54.21,0:01:58.90,Thinking,,0,0,0,,The teacher complimented me on my three\Nboard match, so maybe I'm better at fast Go.
+Dialogue: 0,0:01:54.18,0:01:58.90,Thinking,,0,0,0,,The teacher complimented me on my three\Nboard match, so maybe I'm better at fast Go.
 Dialogue: 0,0:02:02.57,0:02:05.73,Default,,0,0,0,,I won by half a moku! Yes two straight wins!
 Dialogue: 0,0:02:05.85,0:02:07.14,Default,,0,0,0,,I lost!
 Dialogue: 0,0:02:07.14,0:02:08.38,Default,,0,0,0,,Oh, sorry.
@@ -111,13 +111,13 @@ Dialogue: 0,0:02:30.25,0:02:34.26,Default,,0,0,0,,He did get over the hurdle in 
 Dialogue: 0,0:02:34.54,0:02:36.07,Default,,0,0,0,,Doesn't matter to me.
 Dialogue: 0,0:02:36.46,0:02:39.55,Default,,0,0,0,,And? When is the Wakajishisen?\NTouya will be there, right?
 Dialogue: 0,0:02:39.75,0:02:43.30,Default,,0,0,0,,Is Touya Akira the only thing in your head?
-Dialogue: 0,0:02:43.67,0:02:47.56,Default,,0,0,0,,Next month and the month after. It's on the\NSaturdays when we don't have Insei matches.
+Dialogue: 0,0:02:43.64,0:02:47.56,Default,,0,0,0,,Next month and the month after. It's on the\NSaturdays when we don't have Insei matches.
 Dialogue: 0,0:02:47.85,0:02:53.34,Default,,0,0,0,,It takes more than a day. It's a tournament\Nbetween 16 Insei and 16 new pros.
 Dialogue: 0,0:02:53.68,0:02:57.95,Default,,0,0,0,,The first match is all between Insei\Nand pro. It's an even game of course.
 Dialogue: 0,0:02:58.17,0:03:00.35,Default,,0,0,0,,But you won against pros! Wow!
 Dialogue: 0,0:03:00.35,0:03:01.58,Default,,0,0,0,,What are you talking about?
-Dialogue: 0,0:03:02.52,0:03:05.76,Default,,0,0,0,,You won't pass the pro exams\Nunless you can win against pros.
-Dialogue: 0,0:03:06.29,0:03:08.18,Default,,0,0,0,,Wakajishisen is a good testing ground.
+Dialogue: 0,0:03:02.50,0:03:05.76,Default,,0,0,0,,You won't pass the pro exams\Nunless you can win against pros.
+Dialogue: 0,0:03:06.21,0:03:08.18,Default,,0,0,0,,Wakajishisen is a good testing ground.
 Dialogue: 0,0:03:08.33,0:03:13.31,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(350,115)}The Twenty-Eighth Match
 Dialogue: 0,0:03:08.33,0:03:13.31,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Wakajishisen
 Dialogue: 0,0:03:24.35,0:03:28.73,Note,,0,0,10,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}The Ninth Annual Wakajishisen
@@ -128,7 +128,7 @@ Dialogue: 0,0:03:33.67,0:03:34.75,Default,,0,0,0,,You're late!
 Dialogue: 0,0:03:34.96,0:03:39.20,Default,,0,0,0,,Waya! We're finally here! I'm so excited.
 Dialogue: 0,0:03:39.64,0:03:42.27,Default,,0,0,0,,Aren't you a tad too excited?
 Dialogue: 0,0:03:42.41,0:03:43.37,Default,,0,0,0,,Where's everyone else?
-Dialogue: 0,0:03:44.53,0:03:47.50,Default,,0,0,0,,Huh? Why is there people under 16\Nand from the second class here too?
+Dialogue: 0,0:03:44.50,0:03:47.50,Default,,0,0,0,,Huh? Why is there people under 16\Nand from the second class here too?
 Dialogue: 0,0:03:47.50,0:03:49.35,Default,,0,0,0,,We're not allowed to watch!?
 Dialogue: 0,0:03:49.35,0:03:51.18,Default,,0,0,0,,Not helping you ever again.
 Dialogue: 0,0:03:52.25,0:03:53.89,Default,,0,0,0,,Sorry! Sorry! Sorry! Sorry!
@@ -162,7 +162,7 @@ Dialogue: 0,0:05:13.29,0:05:16.25,Default,,0,0,0,,I definitely have to win my fi
 Dialogue: 0,0:05:16.49,0:05:17.47,Background,,0,0,0,,Waya! Shindou!
 Dialogue: 0,0:05:18.74,0:05:19.67,Default,,0,0,0,,Saeki-san.
 Dialogue: 0,0:05:19.97,0:05:22.76,Default,,0,0,0,,Aren't you glad we're not playing\Neach other in the first round?
-Dialogue: 0,0:05:23.16,0:05:26.18,Default,,0,0,0,,Fighting each other within the Morishita\Nschool, that would've been bad.
+Dialogue: 0,0:05:23.14,0:05:26.18,Default,,0,0,0,,Fighting each other within the Morishita\Nschool, that would've been bad.
 Dialogue: 0,0:05:26.41,0:05:29.15,Default,,0,0,0,,Good luck to you too,\NShindou-kun, with beating Touya.
 Dialogue: 0,0:05:29.80,0:05:30.35,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:05:32.59,0:05:33.13,Default,,0,0,0,,Later.
@@ -172,9 +172,9 @@ Dialogue: 0,0:05:56.02,0:05:57.15,Default,,0,0,0,,Good morning.
 Dialogue: 0,0:05:57.44,0:05:58.13,Default,,0,0,0,,Morning.
 Dialogue: 0,0:05:58.34,0:05:58.96,Default,,0,0,0,,Good morning.
 Dialogue: 0,0:06:07.33,0:06:10.81,Default,,0,0,0,,It seems that you're not the\Nonly one focused on Touya.
-Dialogue: 0,0:06:11.21,0:06:13.64,Default,,0,0,0,,Doesn't look like they give a damn about the Insei.
-Dialogue: 0,0:06:13.95,0:06:16.23,Default,,0,0,0,,That especially has to be the\Ncase with Murakami-san.
-Dialogue: 0,0:06:16.52,0:06:20.47,Default,,0,0,0,,Once he beats Shindou in the first round,\Nhe has to play Touya in the second.
+Dialogue: 0,0:06:11.18,0:06:13.64,Default,,0,0,0,,Doesn't look like they give a damn about the Insei.
+Dialogue: 0,0:06:13.89,0:06:16.23,Default,,0,0,0,,That especially has to be the\Ncase with Murakami-san.
+Dialogue: 0,0:06:16.48,0:06:20.47,Default,,0,0,0,,Once he beats Shindou in the first round,\Nhe has to play Touya in the second.
 Dialogue: 0,0:06:21.20,0:06:25.41,Default,,0,0,0,,Who's my opponent Murakami\N2dan? Which one is it?
 Dialogue: 0,0:06:25.61,0:06:26.45,Default,,0,0,0,,He's over there.
 Dialogue: 0,0:06:27.29,0:06:29.95,Background,,0,0,0,,He has his hair parted down\Nthe middle, with glasses.
@@ -193,7 +193,7 @@ Dialogue: 0,0:07:49.93,0:07:51.57,Background,,0,0,0,,I'm getting nervous.
 Dialogue: 0,0:07:51.97,0:07:55.66,Default,,0,0,0,,I mean, Isumi-san is an Insei, and I'm the pro.
 Dialogue: 0,0:07:55.66,0:07:58.44,Default,,0,0,0,,It'll look bad if I get defeated really quickly.
 Dialogue: 0,0:07:59.58,0:08:00.54,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:08:18.89,0:08:21.98,Default,,0,0,0,,The focus of this year's Wakajishisen\Nis probably Touya Akira.
+Dialogue: 0,0:08:18.85,0:08:21.98,Default,,0,0,0,,The focus of this year's Wakajishisen\Nis probably Touya Akira.
 Dialogue: 0,0:08:22.66,0:08:26.76,Default,,0,0,0,,He's had straight wins since his debut in\NApril. I wonder how long he'll last here.
 Dialogue: 0,0:08:28.49,0:08:29.00,Default,,0,0,0,,Huh?
 Dialogue: 0,0:08:32.08,0:08:34.05,Background,,0,0,0,,That's Ogata 9dan.
@@ -235,7 +235,7 @@ Dialogue: 0,0:11:24.66,0:11:27.08,Sai,,0,0,0,,Those memories are coming back...
 Dialogue: 0,0:11:29.43,0:11:34.56,Sai,,0,0,0,,those dozens... those hundreds...\Nthose thousands of games...
 Dialogue: 0,0:11:35.59,0:11:38.48,Sai,,0,0,0,,I still remember them all.
 Dialogue: 0,0:11:48.48,0:11:51.73,Sai,,0,0,0,,Even the cold feeling of the Go stones.
-Dialogue: 0,0:11:55.53,0:11:56.40,Sai,,0,0,0,,There is a free board.
+Dialogue: 0,0:11:55.49,0:11:56.40,Sai,,0,0,0,,There is a free board.
 Dialogue: 0,0:11:57.86,0:12:00.61,Sai,,0,0,0,,Come! Let us play as well!
 Dialogue: 0,0:12:11.81,0:12:13.40,Sai,,0,0,0,,I wish I had a body.
 Dialogue: 0,0:12:19.71,0:12:26.86,Sai,,0,0,0,,No... I have to be thankful that I\Nmet Hikaru. I can't ask for more.

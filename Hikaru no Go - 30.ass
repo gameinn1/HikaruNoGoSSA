@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 184
-Active Line: 201
-Video Position: 35433
+Scroll Position: 144
+Active Line: 171
+Video Position: 27357
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,18 +97,18 @@ Dialogue: 0,0:01:41.61,0:01:42.35,Default,,0,0,0,,Ogata-san!
 Dialogue: 0,0:01:43.08,0:01:48.18,Background,,0,0,0,,Tell me! Shindou's game from yesterday,\Nsomething... something happened right!?
 Dialogue: 0,0:01:49.66,0:01:51.62,Default,,0,0,0,,You saw what happened.
 Dialogue: 0,0:01:52.50,0:01:54.81,Default,,0,0,0,,Ogata-san, what I want to know is...
-Dialogue: 0,0:01:55.43,0:01:59.40,Background,,0,0,0,,...that awkward stone formation. I can't imagine\Nwhat order the moves went in, to form that shape.
+Dialogue: 0,0:01:55.39,0:01:59.40,Background,,0,0,0,,...that awkward stone formation. I can't imagine\Nwhat order the moves went in, to form that shape.
 Dialogue: 0,0:02:00.01,0:02:03.89,Default,,0,0,0,,Something must have happened!?\NExactly what did Shindou do!?
 Dialogue: 0,0:02:08.03,0:02:11.15,Thinking,,0,0,0,,{\1c&HC5FEC1&}His bad move from earlier, turned into a good one.
 Dialogue: 0,0:02:13.02,0:02:16.81,Thinking,,0,0,0,,{\1c&HC5FEC1&}What a guy... it was a bad move at that point.
 Dialogue: 0,0:02:19.87,0:02:21.04,Background,,0,0,0,,Don't be so impatient.
-Dialogue: 0,0:02:22.60,0:02:24.00,Default,,0,0,0,,The answer will come to you soon.
+Dialogue: 0,0:02:22.54,0:02:24.00,Default,,0,0,0,,The answer will come to you soon.
 Dialogue: 0,0:02:25.33,0:02:26.46,Default,,0,0,0,,In another two months...
 Dialogue: 0,0:02:27.53,0:02:28.32,Default,,0,0,0,,The pro exams...
 Dialogue: 0,0:02:28.83,0:02:35.66,Default,,0,0,0,,Yes. He's now walking the path that\Nyou went through a year ago.
 Dialogue: 0,0:02:36.18,0:02:44.00,Default,,0,0,0,,Isn't Kadowaki the guy that got the three\Ntitles Student Meijin, Student Honinbou, and Student Jyukketsu? That Kadowaki?
 Dialogue: 0,0:02:44.69,0:02:46.41,Default,,0,0,0,,I can't believe you know that Isumi-san.
-Dialogue: 0,0:02:46.89,0:02:48.89,Default,,0,0,0,,There was quite a commotion over him.
+Dialogue: 0,0:02:46.85,0:02:48.89,Default,,0,0,0,,There was quite a commotion over him.
 Dialogue: 0,0:02:49.72,0:02:51.38,Default,,0,0,0,,So Kadowaki is...
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,370,1,\fscx100)\blur0.8\pos(300,115)}The Thirtieth Match
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,370,1,\fscx100)\pos(325,365)}Ogata VS Honinbou
@@ -121,12 +121,12 @@ Dialogue: 0,0:03:26.10,0:03:29.10,Default,,0,0,0,,I told you! I'm taking the pro
 Dialogue: 0,0:03:29.66,0:03:32.90,Default,,0,0,0,,Yes really. I have all the paperwork.
 Dialogue: 0,0:03:33.43,0:03:39.78,Default,,0,0,0,,Yeah! I'll be a pro player next year. If you want an\Nautograph, ask now while you still have a chance.
 Dialogue: 0,0:03:40.89,0:03:41.43,Default,,0,0,0,,Later.
-Dialogue: 0,0:03:42.99,0:03:44.70,Background,,0,0,0,,Kadowaki's probably going to be tough.
+Dialogue: 0,0:03:42.95,0:03:44.70,Background,,0,0,0,,Kadowaki's probably going to be tough.
 Dialogue: 0,0:03:46.11,0:03:48.22,Default,,0,0,0,,But is he really taking the pro exams?
 Dialogue: 0,0:03:48.72,0:03:50.66,Default,,0,0,0,,I heard on the net he might.
 Dialogue: 0,0:03:51.18,0:03:56.67,Default,,0,0,0,,We Inseis have to work hard this year. Mashiba\Nwas the only Insei to pass last year.
-Dialogue: 0,0:03:57.20,0:03:59.05,Default,,0,0,0,,Lots of strong players come from the outside.
-Dialogue: 0,0:03:59.34,0:04:01.00,Default,,0,0,0,,Kadowaki, gotta watch out for him.
+Dialogue: 0,0:03:57.18,0:03:59.05,Default,,0,0,0,,Lots of strong players come from the outside.
+Dialogue: 0,0:03:59.30,0:04:01.00,Default,,0,0,0,,Kadowaki, gotta watch out for him.
 Dialogue: 0,0:04:01.41,0:04:04.82,Default,,0,0,0,,Damn those Insei brats, they\Ndidn't even recognize me.
 Dialogue: 0,0:04:05.12,0:04:07.94,Default,,0,0,0,,Heard on the net? Gotta be that guy then.
 Dialogue: 0,0:04:09.61,0:04:11.28,Default,,0,0,0,,Look forward to my play!
@@ -167,7 +167,7 @@ Dialogue: 0,0:07:27.38,0:07:28.31,Sai,,0,0,0,,Okay.
 Dialogue: 0,0:07:31.67,0:07:33.51,Sai,,0,0,0,,Upper right corner, Komoku!
 Dialogue: 0,0:08:10.89,0:08:16.85,Note,,0,0,0,,{\fs24\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(322,425)}Seventh game of the Honinbou game.
 Dialogue: 0,0:08:34.41,0:08:36.82,Thinking,,0,0,0,,The first day will end in two more minutes.
-Dialogue: 0,0:08:38.46,0:08:41.00,Thinking,,0,0,0,,Master Kuwabara will probably be sealing the move.
+Dialogue: 0,0:08:38.41,0:08:41.00,Thinking,,0,0,0,,Master Kuwabara will probably be sealing the move.
 Dialogue: 0,0:08:41.84,0:08:45.63,Thinking,,0,0,0,,{\1c&HC5FEC1&}But it really is already the seventh\Ngame of the Honinbou match...
 Dialogue: 0,0:08:46.83,0:08:53.44,Thinking,,0,0,0,,I totally thought that Master Ogata was going to take the\Ntitle when he won the first match two months ago.
 Dialogue: 0,0:08:54.57,0:08:57.30,Thinking,,0,0,0,,{\1c&HC5FEC1&}But he managed to drag it into the seventh match today.
@@ -185,38 +185,38 @@ Dialogue: 0,0:10:50.20,0:10:55.97,Background,,0,0,0,,There's a store with great 
 Dialogue: 0,0:10:55.51,0:10:58.85,Note,,0,0,0,,{\fs24\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz344\pos(334,206)}Kakimoto
 Dialogue: 0,0:10:56.09,0:10:58.09,Background,,0,0,0,,Oh! Thank you!
 Dialogue: 0,0:10:59.73,0:11:02.92,Default,,0,0,0,,I'll go change, so please wait for me in the lobby.
-Dialogue: 0,0:11:03.25,0:11:05.06,Default,,0,0,0,,Kakimoto-san, you're coming too right?
-Dialogue: 0,0:11:05.25,0:11:08.36,Default,,0,0,0,,I'll be right down, as soon as I store\Nthis sealed move in the hotel vault.
-Dialogue: 0,0:11:09.95,0:11:11.07,Default,,0,0,0,,Mister Ogata, will you be coming too?
-Dialogue: 0,0:11:11.22,0:11:12.86,Default,,0,0,0,,No, I'll eat alone.
-Dialogue: 0,0:11:15.32,0:11:16.53,Default,,0,0,0,,I'll be right down.
-Dialogue: 0,0:11:16.98,0:11:17.45,Default,,0,0,0,,Okay.
-Dialogue: 0,0:11:21.78,0:11:22.90,Background,,0,0,0,,Ogata-kun!
+Dialogue: 0,0:11:03.23,0:11:05.06,Default,,0,0,0,,Kakimoto-san, you're coming too right?
+Dialogue: 0,0:11:05.23,0:11:08.36,Default,,0,0,0,,I'll be right down, as soon as I store\Nthis sealed move in the hotel vault.
+Dialogue: 0,0:11:09.90,0:11:11.07,Default,,0,0,0,,Mister Ogata, will you be coming too?
+Dialogue: 0,0:11:11.19,0:11:12.86,Default,,0,0,0,,No, I'll eat alone.
+Dialogue: 0,0:11:15.28,0:11:16.53,Default,,0,0,0,,I'll be right down.
+Dialogue: 0,0:11:16.95,0:11:17.45,Default,,0,0,0,,Okay.
+Dialogue: 0,0:11:21.74,0:11:22.90,Background,,0,0,0,,Ogata-kun!
 Dialogue: 0,0:11:27.18,0:11:31.14,Default,,0,0,0,,You already think you've taken\Nthe Honinbou title, don't you?
 Dialogue: 0,0:11:31.57,0:11:34.52,Default,,0,0,0,,You must be joking. The match has only begun.
 Dialogue: 0,0:11:34.92,0:11:37.70,Default,,0,0,0,,Yes! It won't be decided till tomorrow.
 Dialogue: 0,0:11:37.82,0:11:41.37,Default,,0,0,0,,Speaking of which, did you seal your move properly?
-Dialogue: 0,0:11:43.96,0:11:46.94,Default,,0,0,0,,It's your first time sealing a move right?
-Dialogue: 0,0:11:47.27,0:11:51.86,Default,,0,0,0,,This Honinbou match is the first time\Nyou've played Go over two days,
+Dialogue: 0,0:11:43.93,0:11:46.94,Default,,0,0,0,,It's your first time sealing a move right?
+Dialogue: 0,0:11:47.23,0:11:51.86,Default,,0,0,0,,This Honinbou match is the first time\Nyou've played Go over two days,
 Dialogue: 0,0:11:52.21,0:11:56.12,Background,,0,0,0,,and, I've sealed every move up to now.
-Dialogue: 0,0:11:56.60,0:11:58.16,Default,,0,0,0,,What are you trying to say?
+Dialogue: 0,0:11:56.57,0:11:58.16,Default,,0,0,0,,What are you trying to say?
 Dialogue: 0,0:11:58.59,0:12:01.80,Default,,0,0,0,,I just hope you didn't mark it wrong.
 Dialogue: 0,0:12:03.16,0:12:04.38,Default,,0,0,0,,Mark it wrong?
 Dialogue: 0,0:12:04.64,0:12:10.13,Default,,0,0,0,,People do make mistakes. It really\Ndid happen once before.
-Dialogue: 0,0:12:10.59,0:12:12.22,Default,,0,0,0,,Someone marking it wrong that is...
-Dialogue: 0,0:12:15.62,0:12:20.27,Default,,0,0,0,,It's only natural to get nervous in\Na challenging match for a title.
-Dialogue: 0,0:12:20.50,0:12:24.44,Default,,0,0,0,,Weren't you a little nervous about\Nyour first time sealing a move?
-Dialogue: 0,0:12:25.01,0:12:28.58,Default,,0,0,0,,Didn't you have trouble trying\Nto decide where to go?
-Dialogue: 0,0:12:29.27,0:12:32.06,Background,,0,0,0,,Is A better? Or is B better?
-Dialogue: 0,0:12:32.59,0:12:36.53,Default,,0,0,0,,You may have written B even though\Nyou wanted to write A.
+Dialogue: 0,0:12:10.54,0:12:12.22,Default,,0,0,0,,Someone marking it wrong that is...
+Dialogue: 0,0:12:15.59,0:12:20.09,Default,,0,0,0,,It's only natural to get nervous in\Na challenging match for a title.
+Dialogue: 0,0:12:20.47,0:12:24.44,Default,,0,0,0,,Weren't you a little nervous about\Nyour first time sealing a move?
+Dialogue: 0,0:12:24.97,0:12:28.52,Default,,0,0,0,,Didn't you have trouble trying\Nto decide where to go?
+Dialogue: 0,0:12:29.23,0:12:32.06,Background,,0,0,0,,Is A better? Or is B better?
+Dialogue: 0,0:12:32.56,0:12:36.53,Default,,0,0,0,,You may have written B even though\Nyou wanted to write A.
 Dialogue: 0,0:12:37.07,0:12:42.08,Default,,0,0,0,,You've been in front of the Go board\Nall day, you must be tired.
 Dialogue: 0,0:12:42.77,0:12:46.35,Default,,0,0,0,,Are you sure? That you wrote it correctly?
-Dialogue: 0,0:12:48.08,0:12:53.44,Thinking,,0,0,0,,The six previous matches... did he not\Nlet me seal the move on purpose!?
-Dialogue: 0,0:12:57.09,0:13:06.16,Thinking,,0,0,0,,They couldn't all have been so. But between\Nhis plottings and coincidence, he weaved\Na small trap to make me panic.
-Dialogue: 0,0:13:19.57,0:13:21.84,Default,,0,0,0,,You're getting worried aren't you!?
+Dialogue: 0,0:12:48.04,0:12:53.44,Thinking,,0,0,0,,The six previous matches... did he not\Nlet me seal the move on purpose!?
+Dialogue: 0,0:12:57.05,0:13:06.16,Thinking,,0,0,0,,They couldn't all have been so. But between\Nhis plottings and coincidence, he weaved\Na small trap to make me panic.
+Dialogue: 0,0:13:19.53,0:13:21.84,Default,,0,0,0,,You're getting worried aren't you!?
 Dialogue: 0,0:13:24.50,0:13:25.36,Default,,0,0,0,,Old man...
 Dialogue: 0,0:13:26.52,0:13:29.06,Default,,0,0,0,,Well, let's go eat now!
-Dialogue: 0,0:13:33.65,0:13:37.63,Default,,0,0,0,,You said earlier that you had a feeling that a\Nnew wave was coming upon the Go world.
+Dialogue: 0,0:13:33.63,0:13:37.63,Default,,0,0,0,,You said earlier that you had a feeling that a\Nnew wave was coming upon the Go world.
 Dialogue: 0,0:13:38.13,0:13:46.56,Default,,0,0,0,,Sounds interesting. It's still too early to leave then.
 Dialogue: 0,0:13:48.15,0:13:54.30,Default,,0,0,0,,I think I'll face that wave, keeping\Nthis title of Honinbou.
 Dialogue: 0,0:14:03.82,0:14:08.66,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz342\pos(390,274)}Go Institute of Japan
@@ -245,8 +245,8 @@ Dialogue: 0,0:17:22.68,0:17:27.54,Thinking,,0,0,0,,3-12... so he decided that go
 Dialogue: 0,0:17:28.94,0:17:30.49,Thinking,,0,0,0,,I guessed wrong...
 Dialogue: 0,0:17:30.82,0:17:34.20,Default,,0,0,0,,Did you have a nice night's sleep, Ogata-kun?
 Dialogue: 0,0:17:38.18,0:17:42.59,Thinking,,0,0,0,,Did something happen between Mister\NOgata and Master Kuwabara?
-Dialogue: 0,0:17:47.26,0:17:50.05,Default,,0,0,0,,I have no intentions of listening\Nto an old man's ramblings.
-Dialogue: 0,0:17:50.67,0:17:53.02,Default,,0,0,0,,I will take the seat of Honinbou.
+Dialogue: 0,0:17:47.21,0:17:50.05,Default,,0,0,0,,I have no intentions of listening\Nto an old man's ramblings.
+Dialogue: 0,0:17:50.63,0:17:53.02,Default,,0,0,0,,I will take the seat of Honinbou.
 Dialogue: 0,0:17:53.51,0:17:56.97,Default,,0,0,0,,The next generation is almost here!
 Dialogue: 0,0:18:15.37,0:18:22.83,Note,,0,0,0,,{\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}[Newspaper: Kuwabara Honinbou Defends his Title]\N[Newspaper: Honinbou Match Seventh Game]
 Dialogue: 0,0:18:17.87,0:18:22.84,Background,,0,0,0,,Hey! Is it true that neither Waya nor Isumi-san\Nhave to take the preliminaries for the pro exams?
@@ -260,8 +260,8 @@ Dialogue: 0,0:18:45.05,0:18:49.44,Default,,0,0,0,,This is the last Insei study s
 Dialogue: 0,0:18:49.92,0:18:53.91,Background,,0,0,0,,Good luck! I'm looking forward to seeing you\Nduring the first match of the actual exam.
 Dialogue: 0,0:18:54.20,0:18:54.80,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:18:55.44,0:18:55.98,Default,,0,0,0,,Later.
-Dialogue: 0,0:18:56.24,0:18:57.03,Default,,0,0,0,,See you at the exam.
-Dialogue: 0,0:18:59.42,0:19:00.70,Default,,0,0,0,,I've got to go to the bathroom.
+Dialogue: 0,0:18:56.20,0:18:57.03,Default,,0,0,0,,See you at the exam.
+Dialogue: 0,0:18:59.37,0:19:00.70,Default,,0,0,0,,I've got to go to the bathroom.
 Dialogue: 0,0:19:04.02,0:19:10.61,Thinking,,0,0,0,,Shindou was laughing... does he\Nunderstand that we're all rivals?
 Dialogue: 0,0:19:24.04,0:19:24.64,Default,,0,0,0,,Ochi...
 Dialogue: 0,0:19:25.71,0:19:26.99,Default,,0,0,0,,He lost to me.

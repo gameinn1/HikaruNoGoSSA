@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 21 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 234
-Active Line: 254
-Video Position: 35555
+Scroll Position: 180
+Active Line: 206
+Video Position: 26035
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -133,7 +133,7 @@ Dialogue: 0,0:04:01.13,0:04:02.43,Default,,0,0,0,,Sorry! Sorry!
 Dialogue: 0,0:04:02.95,0:04:05.15,Default,,0,0,0,,Kaga, what did you do?
 Dialogue: 0,0:04:05.15,0:04:06.80,Default,,0,0,0,,well... well...
 Dialogue: 0,0:04:06.80,0:04:08.81,Default,,0,0,0,,Tsutsui-san, who is he?
-Dialogue: 0,0:04:09.27,0:04:12.33,Default,,0,0,0,,He's Kaga a third year student, he's\Nthe president of the Shougi club and...
+Dialogue: 0,0:04:09.23,0:04:12.33,Default,,0,0,0,,He's Kaga a third year student, he's\Nthe president of the Shougi club and...
 Dialogue: 0,0:04:12.33,0:04:15.03,Default,,0,0,0,,and I'm better at Go than he is,\Nalthough he's in the Go club.
 Dialogue: 0,0:04:15.43,0:04:17.65,Default,,0,0,0,,In the Shougi club and is good at Go?
 Dialogue: 0,0:04:18.37,0:04:19.50,Default,,0,0,0,,He's lying.
@@ -175,8 +175,8 @@ Dialogue: 0,0:06:14.30,0:06:15.10,Default,,0,0,0,,I...
 Dialogue: 0,0:06:16.46,0:06:18.76,Default,,0,0,0,,Doesn't this kid know how to shut up?
 Dialogue: 0,0:06:19.65,0:06:22.29,Default,,0,0,0,,It's his choice to participate in the club or not.
 Dialogue: 0,0:06:22.50,0:06:28.23,Default,,0,0,0,,You don't know! He forcefully dragged\Nme into the Go club for the tournaments!
-Dialogue: 0,0:06:30.52,0:06:32.24,Default,,0,0,0,,It's my choice whether to participate or not?
-Dialogue: 0,0:06:32.65,0:06:36.74,Default,,0,0,0,,Fine I understand! Then I'll quit the Go club too!
+Dialogue: 0,0:06:30.49,0:06:32.24,Default,,0,0,0,,It's my choice whether to participate or not?
+Dialogue: 0,0:06:32.62,0:06:36.74,Default,,0,0,0,,Fine I understand! Then I'll quit the Go club too!
 Dialogue: 0,0:06:37.01,0:06:37.97,Default,,0,0,0,,Mitani-kun!
 Dialogue: 0,0:06:38.21,0:06:42.52,Default,,0,0,0,,Do what you want. Quit if you want\Nto. You're free to do as you wish.
 Dialogue: 0,0:06:42.71,0:06:43.60,Default,,0,0,0,,Kaga!
@@ -222,7 +222,7 @@ Dialogue: 0,0:11:01.20,0:11:03.50,Default,,0,0,0,,I won't quit!
 Dialogue: 0,0:11:04.68,0:11:05.60,Default,,0,0,0,,Because...
 Dialogue: 0,0:11:06.70,0:11:11.30,Background,,0,0,0,,Because Hikaru isn't quitting Go!
 Dialogue: 0,0:11:19.66,0:11:22.87,Note,,0,0,0,,Chemistry Lab
-Dialogue: 0,0:11:46.40,0:11:48.56,Thinking,,0,0,0,,He's moving to all the critical spots with no thinking time!
+Dialogue: 0,0:11:46.35,0:11:48.60,Thinking,,0,0,0,,He's moving to all the critical spots with no thinking time!
 Dialogue: 0,0:12:08.80,0:12:09.90,Default,,0,0,0,,This is it...
 Dialogue: 0,0:12:10.80,0:12:12.00,Default,,0,0,0,,I resign.
 Dialogue: 0,0:12:17.93,0:12:20.10,Default,,0,0,0,,Shindou-kun's incredible.
@@ -296,7 +296,7 @@ Dialogue: 0,0:17:49.71,0:17:51.61,Default,,0,0,0,,Oh yes, please this way.
 Dialogue: 0,0:17:56.27,0:17:57.86,Default,,0,0,0,,Please sit there.
 Dialogue: 0,0:18:01.13,0:18:02.66,Background,,0,0,0,,What!? Seiza!?
 Dialogue: 0,0:18:01.13,0:18:05.39,Note,,0,0,0,,[note: Seiza is the Japanese term for sitting\Nproperly, with your calves under your thighs.]
-Dialogue: 0,0:18:05.88,0:18:08.40,Default,,0,0,0,,Please show me your\Napplication form and your Kifus.
+Dialogue: 0,0:18:05.86,0:18:08.40,Default,,0,0,0,,Please show me your\Napplication form and your Kifus.
 Dialogue: 0,0:18:11.55,0:18:13.02,Default,,0,0,0,,Let's see the Kifu...
 Dialogue: 0,0:18:14.49,0:18:16.79,Default,,0,0,0,,You're white for all three, right?
 Dialogue: 0,0:18:21.87,0:18:24.30,Thinking,,0,0,0,,What careless play!?

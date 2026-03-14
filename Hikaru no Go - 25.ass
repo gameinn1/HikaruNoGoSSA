@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 326
-Active Line: 346
-Video Position: 35171
+Scroll Position: 312
+Active Line: 339
+Video Position: 29595
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -95,14 +95,14 @@ Dialogue: 0,0:00:04.53,0:00:08.50,Memory,,0,0,0,,has passed through time and ret
 Dialogue: 0,0:00:09.38,0:00:11.70,Memory,,0,0,0,,in order to obtain the Hand of God.
 Dialogue: 0,0:01:46.07,0:01:46.80,Thinking,,0,0,0,,Not yet...
 Dialogue: 0,0:01:47.39,0:01:48.42,Thinking,,0,0,0,,I won't defend just yet.
-Dialogue: 0,0:01:49.49,0:01:50.89,Thinking,,0,0,0,,I'll move onward still!
-Dialogue: 0,0:01:52.58,0:01:53.60,Thinking,,0,0,0,,I'll show you!
+Dialogue: 0,0:01:49.46,0:01:50.89,Thinking,,0,0,0,,I'll move onward still!
+Dialogue: 0,0:01:52.55,0:01:53.60,Thinking,,0,0,0,,I'll show you!
 Dialogue: 0,0:02:02.20,0:02:03.69,Thinking,,0,0,0,,Each of my moves!
-Dialogue: 0,0:02:05.84,0:02:06.96,Thinking,,0,0,0,,I understand...
-Dialogue: 0,0:02:07.87,0:02:08.60,Thinking,,0,0,0,,Touya...
-Dialogue: 0,0:02:09.22,0:02:12.65,Thinking,,0,0,0,,you're telling me to catch up to you right?
-Dialogue: 0,0:02:15.52,0:02:18.95,Default,,0,0,0,,But, I won't forget the match today.
-Dialogue: 0,0:02:19.70,0:02:21.53,Background,,0,0,0,,It was exciting.
+Dialogue: 0,0:02:05.81,0:02:06.96,Thinking,,0,0,0,,I understand...
+Dialogue: 0,0:02:07.82,0:02:08.60,Thinking,,0,0,0,,Touya...
+Dialogue: 0,0:02:09.19,0:02:12.65,Thinking,,0,0,0,,you're telling me to catch up to you right?
+Dialogue: 0,0:02:15.49,0:02:18.95,Default,,0,0,0,,But, I won't forget the match today.
+Dialogue: 0,0:02:19.66,0:02:21.53,Background,,0,0,0,,It was exciting.
 Dialogue: 0,0:02:22.75,0:02:27.71,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Twenty-Fifth Match
 Dialogue: 0,0:02:22.75,0:02:27.71,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Fear and Impatience
 Dialogue: 0,0:02:27.71,0:02:30.13,Note,,0,0,0,,{\fs50.5\1c&H00E8FF&\pos(398,182)}N
@@ -110,9 +110,9 @@ Dialogue: 0,0:02:27.71,0:02:30.13,Note,,0,0,0,,{\fs22.5\1c&H00E8FF&\pos(463,188)
 Dialogue: 0,0:02:27.71,0:02:30.13,Note,,0,0,0,,{\fs22.5\1c&H00E8FF&\pos(505,217)}Hamburgers
 Dialogue: 0,0:02:38.34,0:02:39.04,Background,,0,0,0,,Shindou.
 Dialogue: 0,0:02:39.86,0:02:40.61,Background,,0,0,0,,Shindou!
-Dialogue: 0,0:02:42.38,0:02:44.32,Default,,0,0,0,,You don't have a teacher right?
-Dialogue: 0,0:02:45.17,0:02:47.30,Default,,0,0,0,,How do you study Go on a day to day basis?
-Dialogue: 0,0:02:47.58,0:02:48.44,Default,,0,0,0,,What do you do Waya?
+Dialogue: 0,0:02:42.35,0:02:44.32,Default,,0,0,0,,You don't have a teacher right?
+Dialogue: 0,0:02:45.14,0:02:47.30,Default,,0,0,0,,How do you study Go on a day to day basis?
+Dialogue: 0,0:02:47.52,0:02:48.44,Default,,0,0,0,,What do you do Waya?
 Dialogue: 0,0:02:48.90,0:02:50.80,Default,,0,0,0,,I'm Morishita 9 dan's student.
 Dialogue: 0,0:02:51.64,0:02:54.80,Default,,0,0,0,,I go to his house after school\Nto have him teach me.
 Dialogue: 0,0:02:57.02,0:02:57.82,Default,,0,0,0,,And you?
@@ -126,8 +126,8 @@ Dialogue: 0,0:03:15.82,0:03:17.63,Default,,0,0,0,,People like that never progres
 Dialogue: 0,0:03:17.94,0:03:21.22,Default,,0,0,0,,If you want to get stronger,\Nit's not genius or hard work.
 Dialogue: 0,0:03:21.22,0:03:24.23,Default,,0,0,0,,you just have to play people who are\Nstronger than you as much as possible!
 Dialogue: 0,0:03:24.67,0:03:26.11,Default,,0,0,0,,That's most important.
-Dialogue: 0,0:03:26.84,0:03:28.34,Thinking,,0,0,0,,Someone stronger?
-Dialogue: 0,0:03:29.03,0:03:30.84,Thinking,,0,0,0,,As much as possible?
+Dialogue: 0,0:03:26.85,0:03:28.34,Thinking,,0,0,0,,Someone stronger?
+Dialogue: 0,0:03:28.98,0:03:30.84,Thinking,,0,0,0,,As much as possible?
 Dialogue: 0,0:03:31.47,0:03:35.26,Thinking,,0,0,0,,I play a sickening amount everyday, every night.
 Dialogue: 0,0:03:35.60,0:03:39.11,Thinking,,0,0,0,,{\1c&HFEFECE&}When I think about that, you really\Nare progressing slowly Hikaru.
 Dialogue: 0,0:03:39.41,0:03:40.33,Thinking,,0,0,0,,What!?
@@ -135,13 +135,13 @@ Dialogue: 0,0:03:40.52,0:03:41.58,Background,,0,0,0,,Hey Shindou.
 Dialogue: 0,0:03:42.55,0:03:44.95,Default,,0,0,0,,Wanna come to my teacher's study session?
 Dialogue: 0,0:03:45.81,0:03:46.87,Default,,0,0,0,,Study session?
 Dialogue: 0,0:03:47.45,0:03:52.00,Default,,0,0,0,,It's basically what we do at the Insei sessions,
-Dialogue: 0,0:03:52.54,0:03:53.89,Default,,0,0,0,,but it's on a totally different level.
-Dialogue: 0,0:03:55.03,0:03:56.28,Background,,0,0,0,,My teacher's pupils come.
+Dialogue: 0,0:03:52.50,0:03:53.89,Default,,0,0,0,,but it's on a totally different level.
+Dialogue: 0,0:03:55.01,0:03:56.28,Background,,0,0,0,,My teacher's pupils come.
 Dialogue: 0,0:03:56.55,0:03:57.57,Background,,0,0,0,,They're all pro!
 Dialogue: 0,0:03:58.43,0:04:00.96,Default,,0,0,0,,We do it once a week in a room at the Go Institute.
 Dialogue: 0,0:04:02.43,0:04:03.11,Default,,0,0,0,,How about it?
 Dialogue: 0,0:04:04.47,0:04:05.18,Default,,0,0,0,,I don't wanna.
-Dialogue: 0,0:04:05.71,0:04:07.00,Sai,,0,0,0,,LET'S GO!!!
+Dialogue: 0,0:04:05.68,0:04:07.00,Sai,,0,0,0,,LET'S GO!!!
 Dialogue: 0,0:04:07.40,0:04:10.62,Sai,,0,0,0,,Let's go Hikaru! We're going! No matter what!
 Dialogue: 0,0:04:12.01,0:04:13.42,Default,,0,0,0,,Wha... What is it?
 Dialogue: 0,0:04:13.42,0:04:14.58,Default,,0,0,0,,Shindou?
@@ -153,16 +153,16 @@ Dialogue: 0,0:04:21.56,0:04:24.37,Sai,,0,0,0,,Hikaru! What are you doing?
 Dialogue: 0,0:04:24.52,0:04:26.99,Sai,,0,0,0,,Let's go to the study session already!
 Dialogue: 0,0:04:27.24,0:04:31.71,Sai,,0,0,0,,Leave those realistic looking fake fish alone.
 Dialogue: 0,0:04:31.75,0:04:34.80,Default,,0,0,0,,Just wait, I'm nervous.
-Dialogue: 0,0:04:35.29,0:04:37.30,Default,,0,0,0,,I don't know what goes on in a study session.
+Dialogue: 0,0:04:35.25,0:04:37.30,Default,,0,0,0,,I don't know what goes on in a study session.
 Dialogue: 0,0:04:39.85,0:04:41.67,Background,,0,0,0,,If only Waya was here...
 Dialogue: 0,0:04:42.80,0:04:45.15,Default,,0,0,0,,the pros all look so scary...
-Dialogue: 0,0:04:45.60,0:04:47.20,Default,,0,0,0,,What are you talking to yourself for?
-Dialogue: 0,0:04:49.22,0:04:50.06,Default,,0,0,0,,What is it today?
-Dialogue: 0,0:04:50.97,0:04:52.72,Default,,0,0,0,,The Insei's don't meet today.
-Dialogue: 0,0:04:54.01,0:04:55.89,Default,,0,0,0,,I was invited to a study session...
-Dialogue: 0,0:04:56.36,0:04:57.22,Default,,0,0,0,,Study session?
-Dialogue: 0,0:04:58.23,0:04:59.17,Default,,0,0,0,,Who's the master?
-Dialogue: 0,0:04:59.80,0:05:01.80,Default,,0,0,0,,Dunno... I mean I don't know.
+Dialogue: 0,0:04:45.56,0:04:47.20,Default,,0,0,0,,What are you talking to yourself for?
+Dialogue: 0,0:04:49.19,0:04:50.06,Default,,0,0,0,,What is it today?
+Dialogue: 0,0:04:50.94,0:04:52.72,Default,,0,0,0,,The Insei's don't meet today.
+Dialogue: 0,0:04:53.98,0:04:55.89,Default,,0,0,0,,I was invited to a study session...
+Dialogue: 0,0:04:56.32,0:04:57.22,Default,,0,0,0,,Study session?
+Dialogue: 0,0:04:58.19,0:04:59.17,Default,,0,0,0,,Who's the master?
+Dialogue: 0,0:04:59.78,0:05:01.80,Default,,0,0,0,,Dunno... I mean I don't know.
 Dialogue: 0,0:05:02.09,0:05:02.73,Sai,,0,0,0,,Hikaru.
 Dialogue: 0,0:05:03.36,0:05:07.09,Sai,,0,0,0,,This person made it so you\Ncan take the Insei exam.
 Dialogue: 0,0:05:07.46,0:05:08.59,Sai,,0,0,0,,You should thank him.
@@ -170,26 +170,26 @@ Dialogue: 0,0:05:08.93,0:05:10.90,Default,,0,0,0,,Oh y..yeah...
 Dialogue: 0,0:05:11.31,0:05:12.53,Default,,0,0,0,,u-umm...
 Dialogue: 0,0:05:12.85,0:05:15.32,Default,,0,0,0,,Thank you very much for\Nhelping with the Insei exam.
 Dialogue: 0,0:05:16.35,0:05:17.75,Default,,0,0,0,,Study session...
-Dialogue: 0,0:05:19.43,0:05:21.67,Default,,0,0,0,,Want to come to Touya-Meijin's study session?
-Dialogue: 0,0:05:23.32,0:05:24.39,Sai,,0,0,0,,Touya-Meijin is that man right?
-Dialogue: 0,0:05:24.75,0:05:27.58,Sai,,0,0,0,,The man who aims for the Hand of God like me.
+Dialogue: 0,0:05:19.38,0:05:21.67,Default,,0,0,0,,Want to come to Touya-Meijin's study session?
+Dialogue: 0,0:05:23.26,0:05:24.39,Sai,,0,0,0,,Touya-Meijin is that man right?
+Dialogue: 0,0:05:24.72,0:05:27.58,Sai,,0,0,0,,The man who aims for the Hand of God like me.
 Dialogue: 0,0:05:29.10,0:05:32.09,Default,,0,0,0,,I don't know much about study sessions....
 Dialogue: 0,0:05:32.41,0:05:34.15,Default,,0,0,0,,Do you play each other there?
-Dialogue: 0,0:05:36.01,0:05:37.97,Default,,0,0,0,,You were going to go without\Nknowing what it was?
+Dialogue: 0,0:05:35.98,0:05:37.97,Default,,0,0,0,,You were going to go without\Nknowing what it was?
 Dialogue: 0,0:05:38.33,0:05:41.26,Default,,0,0,0,,Well, we do play, but it's mostly discussion.
-Dialogue: 0,0:05:42.36,0:05:44.57,Default,,0,0,0,,We sometimes go over a match after playing it,
+Dialogue: 0,0:05:42.32,0:05:44.57,Default,,0,0,0,,We sometimes go over a match after playing it,
 Dialogue: 0,0:05:45.11,0:05:47.83,Default,,0,0,0,,or we may go over the Kifu from a title match.
-Dialogue: 0,0:05:48.73,0:05:51.83,Background,,0,0,0,,You can hear Touya-Meijin talk\Nabout his play and how he thinks.
+Dialogue: 0,0:05:48.70,0:05:51.83,Background,,0,0,0,,You can hear Touya-Meijin talk\Nabout his play and how he thinks.
 Dialogue: 0,0:05:53.58,0:05:54.82,Default,,0,0,0,,You mean he's...!
-Dialogue: 0,0:05:55.79,0:05:56.87,Default,,0,0,0,,Touya is there too!?
-Dialogue: 0,0:05:57.38,0:06:00.49,Default,,0,0,0,,Yes, it would be motivating wouldn't it?
-Dialogue: 0,0:06:00.74,0:06:02.09,Sai,,0,0,0,,Hikaru, let's go!
-Dialogue: 0,0:06:03.09,0:06:04.14,Sai,,0,0,0,,He'll be playing...
-Dialogue: 0,0:06:04.60,0:06:05.89,Sai,,0,0,0,,he'll be speaking...
+Dialogue: 0,0:05:55.75,0:05:56.87,Default,,0,0,0,,Touya is there too!?
+Dialogue: 0,0:05:57.34,0:06:00.49,Default,,0,0,0,,Yes, it would be motivating wouldn't it?
+Dialogue: 0,0:06:00.72,0:06:02.09,Sai,,0,0,0,,Hikaru, let's go!
+Dialogue: 0,0:06:03.05,0:06:04.14,Sai,,0,0,0,,He'll be playing...
+Dialogue: 0,0:06:04.55,0:06:05.89,Sai,,0,0,0,,he'll be speaking...
 Dialogue: 0,0:06:06.79,0:06:07.90,Sai,,0,0,0,,Let's go Hikaru!
 Dialogue: 0,0:06:08.41,0:06:09.05,Default,,0,0,0,,I'm not going!
-Dialogue: 0,0:06:09.35,0:06:11.10,Sai,,0,0,0,,H-Hikaru!
-Dialogue: 0,0:06:11.72,0:06:14.47,Default,,0,0,0,,I'm not keeping you from\Ngoing to that study session.
+Dialogue: 0,0:06:09.31,0:06:11.10,Sai,,0,0,0,,H-Hikaru!
+Dialogue: 0,0:06:11.68,0:06:14.47,Default,,0,0,0,,I'm not keeping you from\Ngoing to that study session.
 Dialogue: 0,0:06:14.83,0:06:17.59,Default,,0,0,0,,No! I don't want to study with Touya!
 Dialogue: 0,0:06:17.80,0:06:19.84,Default,,0,0,0,,I want to play him!
 Dialogue: 0,0:06:21.32,0:06:23.74,Default,,0,0,0,,He's... he's my...
@@ -199,14 +199,14 @@ Dialogue: 0,0:06:36.34,0:06:38.14,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:06:38.72,0:06:40.82,Thinking,,0,0,0,,You want to play him... I see...
 Dialogue: 0,0:06:41.55,0:06:44.57,Default,,0,0,0,,Then I'll be looking forward to that.
 Dialogue: 0,0:06:47.70,0:06:50.88,Default,,0,0,0,,Hey! What were you talking to Ogata-sensei about?
-Dialogue: 0,0:06:51.25,0:06:53.31,Default,,0,0,0,,He invited me to the Meijin's study session.
-Dialogue: 0,0:06:53.65,0:06:55.54,Default,,0,0,0,,Why would he invite you of all things!?
+Dialogue: 0,0:06:51.22,0:06:53.31,Default,,0,0,0,,He invited me to the Meijin's study session.
+Dialogue: 0,0:06:53.60,0:06:55.54,Default,,0,0,0,,Why would he invite you of all things!?
 Dialogue: 0,0:06:55.71,0:06:56.80,Default,,0,0,0,,All things?
 Dialogue: 0,0:06:58.45,0:07:00.59,Default,,0,0,0,,The Wakajishisen is in 3 months...
 Dialogue: 0,0:07:01.65,0:07:05.16,Default,,0,0,0,,I may be able to see you and Touya play there.
 Dialogue: 0,0:07:05.92,0:07:07.04,Background,,0,0,0,,Wakajishisen?
 Dialogue: 0,0:07:07.47,0:07:09.81,Default,,0,0,0,,You really don't know anything do you?
-Dialogue: 0,0:07:10.53,0:07:13.20,Default,,0,0,0,,It's a tournament where Insei\Nand young pros play each other.
+Dialogue: 0,0:07:10.49,0:07:13.20,Default,,0,0,0,,It's a tournament where Insei\Nand young pros play each other.
 Dialogue: 0,0:07:13.88,0:07:15.57,Default,,0,0,0,,Insei and young pros!?
 Dialogue: 0,0:07:21.27,0:07:24.46,Default,,0,0,0,,Touya will be there! I may be able to play him!
 Dialogue: 0,0:07:25.00,0:07:26.43,Default,,0,0,0,,You will be there right?
@@ -214,7 +214,7 @@ Dialogue: 0,0:07:26.71,0:07:28.34,Default,,0,0,0,,I'll be there! Of course I wil
 Dialogue: 0,0:07:28.60,0:07:31.83,Default,,0,0,0,,I'll be waiting then.
 Dialogue: 0,0:07:35.81,0:07:40.91,Default,,0,0,0,,Wakajishisen... there was\Nsomething that fun!? Wow...
 Dialogue: 0,0:07:41.36,0:07:43.65,Default,,0,0,0,,Shindou, do you really know what it is?
-Dialogue: 0,0:07:44.56,0:07:46.62,Default,,0,0,0,,It's a match between Inseis and new pros right!?
+Dialogue: 0,0:07:44.53,0:07:46.62,Default,,0,0,0,,It's a match between Inseis and new pros right!?
 Dialogue: 0,0:07:46.78,0:07:50.39,Default,,0,0,0,,Just so that you know, only\Nthe top 16 in first class can go.
 Dialogue: 0,0:07:52.66,0:07:55.58,Default,,0,0,0,,T-Top 16 in first class!?
 Dialogue: 0,0:07:55.37,0:07:55.91,Default,,0,0,0,,Yup.
@@ -259,18 +259,18 @@ Dialogue: 0,0:09:54.88,0:09:55.45,Default,,0,0,0,,Good!
 Dialogue: 0,0:09:56.03,0:09:57.57,Default,,0,0,0,,"To defeat Touya" Well said!
 Dialogue: 0,0:09:57.99,0:10:01.56,Default,,0,0,0,,Strengthen yourself here to accomplish that goal!
 Dialogue: 0,0:10:02.32,0:10:02.75,Default,,0,0,0,,Yes!
-Dialogue: 0,0:10:03.35,0:10:06.71,Default,,0,0,0,,Master, you need to accomplish your\Ngoal of defeating Touya-meijin soon too.
+Dialogue: 0,0:10:03.29,0:10:06.71,Default,,0,0,0,,Master, you need to accomplish your\Ngoal of defeating Touya-meijin soon too.
 Dialogue: 0,0:10:07.03,0:10:09.00,Default,,0,0,0,,You don't need to tell me.
-Dialogue: 0,0:10:09.46,0:10:13.43,Default,,0,0,0,,Master Morishita became a pro the same time\NTouya-meijin did, and thinks of him as a rival.
-Dialogue: 0,0:10:13.91,0:10:15.86,Default,,0,0,0,,Who knows whether they like each other or not.
+Dialogue: 0,0:10:09.42,0:10:13.43,Default,,0,0,0,,Master Morishita became a pro the same time\NTouya-meijin did, and thinks of him as a rival.
+Dialogue: 0,0:10:13.88,0:10:15.86,Default,,0,0,0,,Who knows whether they like each other or not.
 Dialogue: 0,0:10:16.06,0:10:16.99,Default,,0,0,0,,I don't like him!
-Dialogue: 0,0:10:18.17,0:10:19.35,Default,,0,0,0,,You're only second class...
+Dialogue: 0,0:10:18.14,0:10:19.35,Default,,0,0,0,,You're only second class...
 Dialogue: 0,0:10:20.13,0:10:22.10,Default,,0,0,0,,Don't worry, you'll grow when you do.
 Dialogue: 0,0:10:22.26,0:10:25.30,Default,,0,0,0,,You still have three months right? Just work hard.
 Dialogue: 0,0:10:26.02,0:10:26.61,Default,,0,0,0,,Yes!
 Dialogue: 0,0:10:33.06,0:10:34.55,Default,,0,0,0,,Thanks for the game...
 Dialogue: 0,0:10:35.76,0:10:36.62,Thinking,,0,0,0,,I lost...
-Dialogue: 0,0:10:37.70,0:10:39.57,Thinking,,0,0,0,,I've had straight losses since last week...
+Dialogue: 0,0:10:37.66,0:10:39.57,Thinking,,0,0,0,,I've had straight losses since last week...
 Dialogue: 0,0:10:40.49,0:10:43.66,Default,,0,0,0,,Don't make that face. I'm fine.
 Dialogue: 0,0:10:45.41,0:10:46.33,Background,,0,0,0,,Shindou-kun.
 Dialogue: 0,0:10:47.42,0:10:49.83,Default,,0,0,0,,I'm your next opponent. Wanna start?
@@ -298,7 +298,7 @@ Dialogue: 0,0:11:54.89,0:11:56.40,Default,,0,0,0,,"Maybe you should give up."
 Dialogue: 0,0:11:56.96,0:11:57.74,Default,,0,0,0,,or something.
 Dialogue: 0,0:11:58.28,0:12:00.31,Default,,0,0,0,,Then I can just quit this.
 Dialogue: 0,0:12:02.28,0:12:03.80,Default,,0,0,0,,Don't say that.
-Dialogue: 0,0:12:04.06,0:12:06.94,Default,,0,0,0,,You're just thinking that way\Nbecause you've been in a slump.
+Dialogue: 0,0:12:04.04,0:12:06.94,Default,,0,0,0,,You're just thinking that way\Nbecause you've been in a slump.
 Dialogue: 0,0:12:07.83,0:12:10.29,Background,,0,0,0,,You won't feel the same if you just win one.
 Dialogue: 0,0:12:11.49,0:12:15.43,Default,,0,0,0,,Yeah! Anyways, I just need to\Nwin one and cheer myself up.
 Dialogue: 0,0:12:15.81,0:12:18.22,Default,,0,0,0,,Everyone has bad streaks now and then.
@@ -339,10 +339,10 @@ Dialogue: 0,0:13:45.58,0:13:48.59,Thinking,,0,0,0,,{\1c&HC5FEC1&}I'm playing wit
 Dialogue: 0,0:13:49.23,0:13:54.31,Background,,0,0,0,,BUT! Why did my rank fall that much!
 Dialogue: 0,0:13:54.67,0:13:56.64,Default,,0,0,0,,My record for February is horrible!
 Dialogue: 0,0:13:56.87,0:14:01.00,Default,,0,0,0,,I have to start from the bottom\Nof second class for March now!
-Dialogue: 0,0:14:01.74,0:14:03.89,Background,,0,0,0,,I can't make it to the Wakajishisen like this!
+Dialogue: 0,0:14:01.70,0:14:03.89,Background,,0,0,0,,I can't make it to the Wakajishisen like this!
 Dialogue: 0,0:14:04.06,0:14:06.31,Background,,0,0,0,,I can't even rise up to first class!
 Dialogue: 0,0:14:06.97,0:14:09.30,Default,,0,0,0,,I only have two months left!
-Dialogue: 0,0:14:09.75,0:14:11.93,Default,,0,0,0,,I'm playing you every day, why is this happening!?
+Dialogue: 0,0:14:09.70,0:14:11.93,Default,,0,0,0,,I'm playing you every day, why is this happening!?
 Dialogue: 0,0:14:13.25,0:14:13.96,Sai,,0,0,0,,That's why.
 Dialogue: 0,0:14:17.34,0:14:19.63,Sai,,0,0,0,,You're playing me, that's why you can't win.
 Dialogue: 0,0:14:24.33,0:14:28.69,Background,,0,0,0,,Honinbou Shuusaku, that player replied.
@@ -385,7 +385,7 @@ Dialogue: 0,0:16:53.59,0:16:55.76,Sai,,0,0,0,,And you have started to fear it.
 Dialogue: 0,0:16:56.73,0:16:59.89,Sai,,0,0,0,,And you hesitate from that fear.
 Dialogue: 0,0:17:02.28,0:17:03.69,Sai,,0,0,0,,That turns into confusion,
 Dialogue: 0,0:17:04.02,0:17:06.32,Sai,,0,0,0,,and it shows itself in each of your matches.
-Dialogue: 0,0:17:07.32,0:17:09.55,Sai,,0,0,0,,Look back to all those close\Ngames from the past few days.
+Dialogue: 0,0:17:07.30,0:17:09.55,Sai,,0,0,0,,Look back to all those close\Ngames from the past few days.
 Dialogue: 0,0:17:14.22,0:17:15.30,Sai,,0,0,0,,Do you see?
 Dialogue: 0,0:17:21.80,0:17:24.39,Sai,,0,0,0,,Then it's clear what you need to do.
 Dialogue: 0,0:17:25.07,0:17:26.73,Sai,,0,0,0,,See the line of your opponent's sword,
@@ -400,11 +400,11 @@ Dialogue: 0,0:18:00.14,0:18:01.31,Default,,0,0,0,,Why you...
 Dialogue: 0,0:18:05.05,0:18:06.73,Background,,0,0,0,,The Wakajishisen is coming up.
 Dialogue: 0,0:18:07.45,0:18:12.68,Default,,0,0,0,,I'm sure all the new pros are focused on\Nyou, and wish to play a match against you.
 Dialogue: 0,0:18:13.31,0:18:15.71,Default,,0,0,0,,I'd like to play a match against them as well.
-Dialogue: 0,0:18:16.39,0:18:18.00,Default,,0,0,0,,I'm looking forward to the Wakajishisen.
+Dialogue: 0,0:18:16.37,0:18:18.00,Default,,0,0,0,,I'm looking forward to the Wakajishisen.
 Dialogue: 0,0:18:19.52,0:18:22.26,Default,,0,0,0,,Speaking of the Wakajishisen, how do the Insei do?
-Dialogue: 0,0:18:22.61,0:18:25.08,Default,,0,0,0,,Some of them make it all the\Nway up to the third round,
+Dialogue: 0,0:18:22.58,0:18:25.08,Default,,0,0,0,,Some of them make it all the\Nway up to the third round,
 Dialogue: 0,0:18:26.57,0:18:29.67,Default,,0,0,0,,but only pros are left by the semi-finals.
-Dialogue: 0,0:18:30.07,0:18:30.94,Default,,0,0,0,,As to be expected.
+Dialogue: 0,0:18:30.05,0:18:30.94,Default,,0,0,0,,As to be expected.
 Dialogue: 0,0:18:31.68,0:18:32.38,Default,,0,0,0,,Akira-kun,
 Dialogue: 0,0:18:32.83,0:18:33.22,Default,,0,0,0,,Yes?
 Dialogue: 0,0:18:34.04,0:18:38.95,Default,,0,0,0,,Shindou said he'll be there when I spoke\Nto him the other day of the Wakajishisen.
@@ -415,7 +415,7 @@ Dialogue: 0,0:19:06.53,0:19:08.23,Thinking,,0,0,0,,See the line of his sword...
 Dialogue: 0,0:19:11.39,0:19:12.96,Thinking,,0,0,0,,and turn my fear into courage!
 Dialogue: 0,0:19:16.20,0:19:17.42,Default,,0,0,0,,Over here...
 Dialogue: 0,0:19:19.67,0:19:22.14,Default,,0,0,0,,Shindou-kun, would you like to play a game?
-Dialogue: 0,0:19:23.53,0:19:27.19,Default,,0,0,0,,Shirokawa-kun, you have the third round\Nof tryouts for the 10 dan title this week.
+Dialogue: 0,0:19:23.48,0:19:27.19,Default,,0,0,0,,Shirokawa-kun, you have the third round\Nof tryouts for the 10 dan title this week.
 Dialogue: 0,0:19:27.76,0:19:30.73,Default,,0,0,0,,Playing an Insei will dull your senses.
 Dialogue: 0,0:19:31.31,0:19:36.44,Default,,0,0,0,,It's an important match, that's why I\Nwant some of Shindou-kun's passion.
 Dialogue: 0,0:19:37.34,0:19:39.78,Default,,0,0,0,,It's all over if you've lost emotionally.
@@ -427,7 +427,7 @@ Dialogue: 0,0:20:02.24,0:20:03.26,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:20:08.10,0:20:13.27,Thinking,,0,0,0,,Turn my fear into courage... and\Nmove in as much as possible...
 Dialogue: 0,0:20:16.87,0:20:19.62,Thinking,,0,0,0,,Touya won't wait for me forever!
 Dialogue: 0,0:20:20.29,0:20:23.63,Thinking,,0,0,0,,No, he keeps on moving forward!
-Dialogue: 0,0:20:27.80,0:20:29.12,Thinking,,0,0,0,,A little more than a month left.
+Dialogue: 0,0:20:27.75,0:20:29.12,Thinking,,0,0,0,,A little more than a month left.
 Dialogue: 0,0:20:29.77,0:20:33.39,Thinking,,0,0,0,,I have to rise up to sixteenth in first class by then,
 Dialogue: 0,0:20:34.34,0:20:35.80,Thinking,,0,0,0,,and participate in the Wakajishisen!
 Dialogue: 0,0:20:37.42,0:20:38.88,Thinking,,0,0,0,,To play against Touya!

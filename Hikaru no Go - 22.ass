@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 22 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 22 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 239
-Active Line: 263
-Video Position: 35537
+Video Zoom Percent: 0.500000
+Scroll Position: 198
+Active Line: 230
+Video Position: 28155
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,7 +107,7 @@ Dialogue: 0,0:03:02.48,0:03:03.51,Sai,,0,0,0,,That was...
 Dialogue: 0,0:03:04.33,0:03:09.09,Sai,,0,0,0,,He won't respond to that expansion. The Tsuke\Nyou played earlier was a mistake as well.
 Dialogue: 0,0:03:10.22,0:03:14.30,Sai,,0,0,0,,The three stone advantage Hikaru\Nstarted with has already been spent.
 Dialogue: 0,0:03:16.16,0:03:18.20,Sai,,0,0,0,,Hikaru is aware of that as well.
-Dialogue: 0,0:03:18.52,0:03:21.30,Sai,,0,0,0,,That's why his game is getting\Nrushed and he's making mistakes.
+Dialogue: 0,0:03:18.47,0:03:21.30,Sai,,0,0,0,,That's why his game is getting\Nrushed and he's making mistakes.
 Dialogue: 0,0:03:22.85,0:03:26.20,Sai,,0,0,0,,Against someone as strong as this person... he's...
 Dialogue: 0,0:03:33.09,0:03:36.01,Sai,,0,0,0,,Hikaru! You will lose at this rate.
 Dialogue: 0,0:03:36.45,0:03:41.88,Sai,,0,0,0,,Hikaru! If you wish, once again I will... Hikaru!
@@ -153,10 +153,10 @@ Dialogue: 0,0:07:08.19,0:07:10.25,Default,,0,0,0,,Umm... ahh... no...
 Dialogue: 0,0:07:10.79,0:07:14.85,Thinking,,0,0,0,,Well, I kinda do... a totally useless one.
 Dialogue: 0,0:07:15.35,0:07:18.15,Sai,,0,0,0,,What! A totally what one, Hikaru!?
 Dialogue: 0,0:07:22.55,0:07:24.61,Default,,0,0,0,,But these three matches are...
-Dialogue: 0,0:07:26.42,0:07:29.01,Background,,0,0,0,,you didn't read very deeply,\Nand your play is very careless.
+Dialogue: 0,0:07:26.38,0:07:29.01,Background,,0,0,0,,you didn't read very deeply,\Nand your play is very careless.
 Dialogue: 0,0:07:29.35,0:07:31.82,Background,,0,0,0,,Oh? They're all from the same day?
 Dialogue: 0,0:07:31.82,0:07:33.37,Default,,0,0,0,,I played it simultaneously.
-Dialogue: 0,0:07:34.83,0:07:38.50,Default,,0,0,0,,It was the first time I played three\Ngames simultaneously, it was horrible!
+Dialogue: 0,0:07:34.81,0:07:38.50,Default,,0,0,0,,It was the first time I played three\Ngames simultaneously, it was horrible!
 Dialogue: 0,0:07:39.90,0:07:40.36,Default,,0,0,0,,Th...
 Dialogue: 0,0:07:44.72,0:07:51.38,Thinking,,0,0,0,,Three games!? And it was his first time!?\NHe played this well on his first try!?
 Dialogue: 0,0:07:53.60,0:07:57.56,Default,,0,0,0,,Okay. Come here starting next\Nmonth. Go get your mother.
@@ -166,16 +166,16 @@ Dialogue: 0,0:08:07.35,0:08:11.56,Default,,0,0,0,,This is the central room. Look
 Dialogue: 0,0:08:16.20,0:08:18.10,Background,,0,0,0,,What about a furikawari here?
 Dialogue: 0,0:08:18.10,0:08:19.81,Background,,0,0,0,,That might work.
 Dialogue: 0,0:08:20.21,0:08:21.37,Background,,0,0,0,,Mark me down too.
-Dialogue: 0,0:08:21.73,0:08:23.81,Background,,0,0,0,,This is your fourth straight win, Matsura!
+Dialogue: 0,0:08:21.69,0:08:23.81,Background,,0,0,0,,This is your fourth straight win, Matsura!
 Dialogue: 0,0:08:24.44,0:08:30.18,Default,,0,0,0,,Oh, there are kids younger than\NHikaru. No wonder he passed.
 Dialogue: 0,0:08:30.71,0:08:32.99,Default,,0,0,0,,There's a pairings sheet over there.
 Dialogue: 0,0:08:33.40,0:08:34.46,Default,,0,0,0,,Okay, okay.
 Dialogue: 0,0:08:35.58,0:08:38.43,Sai,,0,0,0,,Oh! Hikaru! Let's look over there.
 Dialogue: 0,0:08:38.81,0:08:39.84,Thinking,,0,0,0,,What?
-Dialogue: 0,0:08:40.43,0:08:42.10,Default,,0,0,0,,What would you do if he played here?
+Dialogue: 0,0:08:40.37,0:08:42.10,Default,,0,0,0,,What would you do if he played here?
 Dialogue: 0,0:08:42.39,0:08:44.52,Default,,0,0,0,,This is bad for black.
 Dialogue: 0,0:08:44.88,0:08:46.24,Default,,0,0,0,,What about a tsuke?
-Dialogue: 0,0:08:46.60,0:08:47.47,Default,,0,0,0,,I'll just pull back.
+Dialogue: 0,0:08:46.55,0:08:47.51,Default,,0,0,0,,I'll just pull back.
 Dialogue: 0,0:08:48.46,0:08:50.37,Default,,0,0,0,,That might be too soft...
 Dialogue: 0,0:08:56.01,0:08:56.87,Default,,0,0,0,,Did you pass?
 Dialogue: 0,0:08:58.58,0:08:59.44,Default,,0,0,0,,Yeah...
@@ -187,7 +187,7 @@ Dialogue: 0,0:09:16.26,0:09:17.64,Default,,0,0,0,,You got a problem with that?
 Dialogue: 0,0:09:17.90,0:09:22.29,Background,,0,0,0,,I played Touya twice during the\Npro exam, but I don't like him.
 Dialogue: 0,0:09:23.81,0:09:25.00,Default,,0,0,0,,You played Touya?
 Dialogue: 0,0:09:25.35,0:09:27.83,Default,,0,0,0,,What about you? Have you played him before?
-Dialogue: 0,0:09:28.18,0:09:30.10,Default,,0,0,0,,Yeah, during a team match for my Go club.
+Dialogue: 0,0:09:28.13,0:09:30.10,Default,,0,0,0,,Yeah, during a team match for my Go club.
 Dialogue: 0,0:09:30.51,0:09:32.69,Default,,0,0,0,,He was in the Kaiou Jr. High's Go club and...
 Dialogue: 0,0:09:32.91,0:09:36.34,Default,,0,0,0,,Go club? Touya!? Really?
 Dialogue: 0,0:09:36.64,0:09:42.60,Default,,0,0,0,,I remember hearing Mr. Kuwabara laugh\Nabout it with Mr. Nishio a while ago.
@@ -200,10 +200,10 @@ Dialogue: 0,0:09:58.61,0:10:00.29,Default,,0,0,0,,Nope. It was a third board mat
 Dialogue: 0,0:10:00.61,0:10:01.41,Default,,0,0,0,,Third board!?
 Dialogue: 0,0:10:01.66,0:10:04.83,Default,,0,0,0,,I wasn't strong enough to\Nplay first board back then.
 Dialogue: 0,0:10:05.33,0:10:10.42,Default,,0,0,0,,That may have been the case with you,\Nbut Touya? Third board? Impossible.
-Dialogue: 0,0:10:10.73,0:10:14.13,Default,,0,0,0,,He forced the teacher to make him third\Nboard because he wanted to play against me.
+Dialogue: 0,0:10:10.67,0:10:14.13,Default,,0,0,0,,He forced the teacher to make him third\Nboard because he wanted to play against me.
 Dialogue: 0,0:10:16.98,0:10:17.75,Default,,0,0,0,,Forced?
-Dialogue: 0,0:10:18.16,0:10:20.96,Default,,0,0,0,,Like I said, that's the kind of guy he is.
-Dialogue: 0,0:10:21.15,0:10:23.98,Default,,0,0,0,,The reason he joined the Go club\Nwas just to play against me...
+Dialogue: 0,0:10:18.14,0:10:20.93,Default,,0,0,0,,Like I said, that's the kind of guy he is.
+Dialogue: 0,0:10:21.10,0:10:23.98,Default,,0,0,0,,The reason he joined the Go club\Nwas just to play against me...
 Dialogue: 0,0:10:23.92,0:10:24.56,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:10:34.67,0:10:36.36,Default,,0,0,0,,Hikaru, let's go home.
 Dialogue: 0,0:10:37.22,0:10:41.14,Default,,0,0,0,,He'll start coming here starting\Nnext month. Nice to meet all of you.
@@ -211,14 +211,14 @@ Dialogue: 0,0:10:50.73,0:10:52.54,Thinking,,0,0,0,,Oh crap...
 Dialogue: 0,0:10:58.44,0:11:00.52,Background,,0,0,0,,Touya Akira's what!?
 Dialogue: 0,0:11:00.92,0:11:02.41,Background,,0,0,0,,Rival.
 Dialogue: 0,0:11:02.77,0:11:03.64,Background,,0,0,0,,Rival?
-Dialogue: 0,0:11:04.09,0:11:05.56,Background,,0,0,0,,Morning, what are you talking about?
+Dialogue: 0,0:11:04.06,0:11:05.56,Background,,0,0,0,,Morning, what are you talking about?
 Dialogue: 0,0:11:05.73,0:11:10.26,Background,,0,0,0,,Oh yeah, the guy coming today,\Nhe might be really strong.
-Dialogue: 0,0:11:10.77,0:11:13.86,Background,,0,0,0,,Touya Akira supposedly went to a\NGo club tournament pursuing him.
+Dialogue: 0,0:11:10.73,0:11:13.86,Background,,0,0,0,,Touya Akira supposedly went to a\NGo club tournament pursuing him.
 Dialogue: 0,0:11:16.61,0:11:17.65,Background,,0,0,0,,And he...
 Dialogue: 0,0:11:24.43,0:11:26.41,Default,,0,0,0,,M-Morning.
 Dialogue: 0,0:11:33.74,0:11:35.55,Default,,0,0,0,,Mo...rning.
 Dialogue: 0,0:11:36.81,0:11:39.83,Thinking,,0,0,0,,Sai? Isn't everyone glaring at me?
-Dialogue: 0,0:11:40.87,0:11:43.62,Sai,,0,0,0,,They probably think a horribly\Nstrong enemy's arrived.
+Dialogue: 0,0:11:40.85,0:11:43.62,Sai,,0,0,0,,They probably think a horribly\Nstrong enemy's arrived.
 Dialogue: 0,0:11:44.06,0:11:47.43,Sai,,0,0,0,,It's all because you talked about Touya, Hikaru.
 Dialogue: 0,0:11:47.93,0:11:49.93,Thinking,,0,0,0,,But...
 Dialogue: 0,0:11:51.55,0:11:55.86,Background,,0,0,0,,Did you hear? The guy coming today.\NYeah! I heard my parents talking about it.
@@ -233,9 +233,9 @@ Dialogue: 0,0:12:19.74,0:12:21.25,Default,,0,0,0,,We're playing here.
 Dialogue: 0,0:12:22.97,0:12:24.28,Thinking,,0,0,0,,A girl!?
 Dialogue: 0,0:12:24.70,0:12:27.74,Thinking,,0,0,0,,I got a pairings chart, but it only has last names.
 Dialogue: 0,0:12:32.28,0:12:37.31,Thinking,,0,0,0,,She's fifth in the second class. I'm\N25th. I'm starting at the very bottom.
-Dialogue: 0,0:12:44.25,0:12:47.78,Default,,0,0,0,,Is this room just for the second class?\NAre there first class people here too?
-Dialogue: 0,0:12:48.33,0:12:51.25,Default,,0,0,0,,They're all here. That half is the first class.
-Dialogue: 0,0:13:02.90,0:13:05.56,Sai,,0,0,0,,You can rise up to first class\Nif you're strong enough?
+Dialogue: 0,0:12:44.20,0:12:47.78,Default,,0,0,0,,Is this room just for the second class?\NAre there first class people here too?
+Dialogue: 0,0:12:48.29,0:12:51.25,Default,,0,0,0,,They're all here. That half is the first class.
+Dialogue: 0,0:13:02.90,0:13:05.60,Sai,,0,0,0,,You can rise up to first class\Nif you're strong enough?
 Dialogue: 0,0:13:06.13,0:13:06.71,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:13:07.76,0:13:09.98,Default,,0,0,0,,So second class isn't good enough for you.
 Dialogue: 0,0:13:10.29,0:13:12.22,Default,,0,0,0,,I-I don't feel that way at all!
@@ -256,31 +256,31 @@ Dialogue: 0,0:14:54.57,0:14:56.95,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFF
 Dialogue: 0,0:15:03.00,0:15:04.20,Default,,0,0,0,,I resign.
 Dialogue: 0,0:15:10.38,0:15:11.75,Thinking,,0,0,0,,And he's Touya's...
 Dialogue: 0,0:15:12.17,0:15:13.12,Thinking,,0,0,0,,Rival?
-Dialogue: 0,0:15:14.26,0:15:17.06,Default,,0,0,0,,Moving into here, I think that\Nwas a little unreasonable.
+Dialogue: 0,0:15:14.23,0:15:17.06,Default,,0,0,0,,Moving into here, I think that\Nwas a little unreasonable.
 Dialogue: 0,0:15:17.10,0:15:18.20,Default,,0,0,0,,Really?
 Dialogue: 0,0:15:19.54,0:15:22.70,Default,,0,0,0,,Yeah, this happened, right?\NEven if you moved here...
 Dialogue: 0,0:15:23.74,0:15:25.84,Default,,0,0,0,,Yeah, you'd get crushed.
-Dialogue: 0,0:15:26.40,0:15:28.20,Default,,0,0,0,,It would be bad even if it went like this.
-Dialogue: 0,0:15:29.27,0:15:30.41,Background,,0,0,0,,There's nothing you can do.
+Dialogue: 0,0:15:26.36,0:15:28.20,Default,,0,0,0,,It would be bad even if it went like this.
+Dialogue: 0,0:15:29.24,0:15:30.45,Background,,0,0,0,,There's nothing you can do.
 Dialogue: 0,0:15:35.05,0:15:36.43,Default,,0,0,0,,Two straight losses...
 Dialogue: 0,0:15:37.91,0:15:40.68,Default,,0,0,0,,Nothing to fear from here it seems.
 Dialogue: 0,0:15:41.08,0:15:43.90,Default,,0,0,0,,Maybe he's just nervous since it's his first day?
-Dialogue: 0,0:15:46.40,0:15:48.26,Default,,0,0,0,,Then wanna watch over him a little longer?
+Dialogue: 0,0:15:46.40,0:15:48.30,Default,,0,0,0,,Then wanna watch over him a little longer?
 Dialogue: 0,0:15:53.55,0:15:55.10,Background,,0,0,0,,Waya, wanna go get lunch?
 Dialogue: 0,0:16:01.13,0:16:02.61,Default,,0,0,0,,What are you doing for lunch?
 Dialogue: 0,0:16:04.06,0:16:05.61,Default,,0,0,0,,I'm buying it too.
 Dialogue: 0,0:16:06.40,0:16:09.91,Note,,0,0,0,,[note: Loae's Japanese 101\NObento = Lunch Box\NOnigiri = Rice ball\NKeep learning, and you too can be as l33t as Loae]
 Dialogue: 0,0:16:06.40,0:16:09.91,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(232,304)}Obento Onigiri
-Dialogue: 0,0:16:08.02,0:16:09.32,Background,,0,0,0,,Thank you. Come again.
-Dialogue: 0,0:16:12.48,0:16:14.16,Default,,0,0,0,,{\an8}What's your relationship with Touya?
-Dialogue: 0,0:16:14.40,0:16:17.15,Default,,0,0,0,,{\an8}Were you his classmate in elementary school?
+Dialogue: 0,0:16:07.99,0:16:09.32,Background,,0,0,0,,Thank you. Come again.
+Dialogue: 0,0:16:12.45,0:16:14.16,Default,,0,0,0,,{\an8}What's your relationship with Touya?
+Dialogue: 0,0:16:14.37,0:16:17.15,Default,,0,0,0,,{\an8}Were you his classmate in elementary school?
 Dialogue: 0,0:16:20.41,0:16:25.92,Default,,0,0,0,,You said you played him in a match\Nin a go tournament for your club.\NBut why a school tournament?
 Dialogue: 0,0:16:29.59,0:16:32.80,Default,,0,0,0,,Touya pursue you? That's strange.
 Dialogue: 0,0:16:33.45,0:16:37.71,Default,,0,0,0,,You're not strong at all. Are you really rivals?
 Dialogue: 0,0:16:38.36,0:16:42.36,Default,,0,0,0,,Really! I'm his, and he's my rival!
 Dialogue: 0,0:16:42.58,0:16:44.08,Default,,0,0,0,,There's too much of a gap!
 Dialogue: 0,0:16:45.01,0:16:46.72,Default,,0,0,0,,I'll catch up eventually!
-Dialogue: 0,0:16:47.52,0:16:50.14,Default,,0,0,0,,What's the reason for Touya\Nthinking of you as a rival?
+Dialogue: 0,0:16:47.49,0:16:50.14,Default,,0,0,0,,What's the reason for Touya\Nthinking of you as a rival?
 Dialogue: 0,0:16:51.08,0:16:57.47,Default,,0,0,0,,He saw my incredible potential at Go,\Nand that's why he views me as a rival!
 Dialogue: 0,0:16:59.04,0:17:00.77,Default,,0,0,0,,Your potential at Go?
 Dialogue: 0,0:17:03.03,0:17:04.59,Sai,,0,0,0,,Hikaru, that was cool.
@@ -314,13 +314,13 @@ Dialogue: 0,0:18:49.41,0:18:53.53,Default,,0,0,0,,Nope. He rose up to first clas
 Dialogue: 0,0:18:53.84,0:18:57.70,Default,,0,0,0,,Oh yeah, I played him too. He wasn't any good.
 Dialogue: 0,0:18:57.86,0:18:59.36,Default,,0,0,0,,I beat him too.
 Dialogue: 0,0:18:59.99,0:19:02.87,Default,,0,0,0,,You've both been in the first class since back then?
-Dialogue: 0,0:19:03.99,0:19:06.46,Default,,0,0,0,,Being in first class for a long\Ntime isn't something to be proud of.
+Dialogue: 0,0:19:03.96,0:19:06.46,Default,,0,0,0,,Being in first class for a long\Ntime isn't something to be proud of.
 Dialogue: 0,0:19:06.57,0:19:10.23,Default,,0,0,0,,When are we finally going to\Npass the pro exam, Waya?
-Dialogue: 0,0:19:11.76,0:19:16.47,Default,,0,0,0,,I wonder what that guy that got\Npummeled in first class is doing now.
+Dialogue: 0,0:19:11.71,0:19:16.47,Default,,0,0,0,,I wonder what that guy that got\Npummeled in first class is doing now.
 Dialogue: 0,0:19:17.95,0:19:19.78,Default,,0,0,0,,He was really smart!
 Dialogue: 0,0:19:20.26,0:19:24.89,Default,,0,0,0,,Oh yeah, he went to Kaiou Jr.\NHigh. What was his name?
 Dialogue: 0,0:19:25.54,0:19:28.12,Background,,0,0,0,,He was tall and wore glasses...
-Dialogue: 0,0:19:28.26,0:19:29.56,Background,,0,0,0,,He should be in the ninth grade right now...
+Dialogue: 0,0:19:28.23,0:19:29.56,Background,,0,0,0,,He should be in the ninth grade right now...
 Dialogue: 0,0:19:30.48,0:19:33.27,Default,,0,0,0,,Now I remember! It's Kishimoto! Kishimoto!
 Dialogue: 0,0:19:36.36,0:19:37.70,Background,,0,0,0,,Back then it was...
 Dialogue: 0,0:19:38.76,0:19:40.16,Background,,0,0,0,,He didn't look like a Jr. High student.

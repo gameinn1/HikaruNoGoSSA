@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 29 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 249
-Active Line: 263
-Video Position: 35511
+Scroll Position: 231
+Active Line: 258
+Video Position: 34497
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -122,14 +122,14 @@ Dialogue: 0,0:04:39.26,0:04:41.89,NoteArialEF,,0,0,15,,{\fs30\bord1\1c&H000000&\
 Dialogue: 0,0:04:51.35,0:04:52.84,Default,,0,0,0,,How did you know I was here?
 Dialogue: 0,0:04:53.39,0:04:57.22,Default,,0,0,0,,Ogata-san you come here occasionally\Nso I thought you might be here...
 Dialogue: 0,0:05:00.32,0:05:05.51,Default,,0,0,0,,You don't look happy considering that\Nyou're doing well in the Wakajishisen.
-Dialogue: 0,0:05:08.32,0:05:11.69,Default,,0,0,0,,You look as if you're worried about something, and\Ndon't have time to be caring about anything else.
+Dialogue: 0,0:05:08.29,0:05:11.69,Default,,0,0,0,,You look as if you're worried about something, and\Ndon't have time to be caring about anything else.
 Dialogue: 0,0:05:14.39,0:05:15.33,Default,,0,0,0,,Shindou right?
 Dialogue: 0,0:05:16.88,0:05:19.28,Default,,0,0,0,,You left immediately afterwards yesterday.
-Dialogue: 0,0:05:20.09,0:05:21.67,Default,,0,0,0,,There was something I wanted to ask you.
-Dialogue: 0,0:05:22.22,0:05:23.15,Default,,0,0,0,,Of course.
-Dialogue: 0,0:05:23.79,0:05:25.97,Default,,0,0,0,,I thought you'd come before this.
-Dialogue: 0,0:05:29.54,0:05:31.39,Default,,0,0,0,,The usual fish food, but\Nmore of it than usual please.
-Dialogue: 0,0:05:31.97,0:05:32.79,Default,,0,0,0,,Ogata-san.
+Dialogue: 0,0:05:20.05,0:05:21.67,Default,,0,0,0,,There was something I wanted to ask you.
+Dialogue: 0,0:05:22.18,0:05:23.15,Default,,0,0,0,,Of course.
+Dialogue: 0,0:05:23.76,0:05:25.97,Default,,0,0,0,,I thought you'd come before this.
+Dialogue: 0,0:05:29.52,0:05:31.39,Default,,0,0,0,,The usual fish food, but\Nmore of it than usual please.
+Dialogue: 0,0:05:31.94,0:05:32.79,Default,,0,0,0,,Ogata-san.
 Dialogue: 0,0:05:33.69,0:05:38.91,Default,,0,0,0,,I have to play Kuwabara-san for his title,\Nso I'll be out of the house for awhile.
 Dialogue: 0,0:05:39.81,0:05:42.11,Default,,0,0,0,,Sure is a hassle to get a title.
 Dialogue: 0,0:05:42.49,0:05:48.21,Default,,0,0,0,,But, if I dilly dally around, Touya Akira\Nmight come up and take the title before me.
@@ -140,13 +140,13 @@ Dialogue: 0,0:06:04.97,0:06:06.55,Default,,0,0,0,,Something?
 Dialogue: 0,0:06:07.11,0:06:11.26,Default,,0,0,0,,What I saw was Shindou getting crushed\Nby Murakami 2dan's strong end game.
 Dialogue: 0,0:06:11.69,0:06:12.82,Default,,0,0,0,,Just that.
 Dialogue: 0,0:06:13.32,0:06:18.33,Default,,0,0,0,,And the end result was six and\Na half moku gap, just as you saw.
-Dialogue: 0,0:06:19.34,0:06:22.65,Default,,0,0,0,,Six and a half moku after he lost sente\Nover and over again in the end game.
+Dialogue: 0,0:06:19.32,0:06:22.65,Default,,0,0,0,,Six and a half moku after he lost sente\Nover and over again in the end game.
 Dialogue: 0,0:06:23.27,0:06:26.65,Default,,0,0,0,,That means it was even going in to it!
 Dialogue: 0,0:06:27.61,0:06:31.20,Default,,0,0,0,,Has Shindou gained that much\Nstrength compared to the pros!?
 Dialogue: 0,0:06:31.47,0:06:33.56,Default,,0,0,0,,It's just as you saw.
 Dialogue: 0,0:06:34.34,0:06:36.76,Default,,0,0,0,,Ogata-san, what I want to know is...
-Dialogue: 0,0:06:37.28,0:06:41.26,Background,,0,0,0,,That awkward stone formation. I can't imagine\Nwhat order the moves went in to form that shape.
-Dialogue: 0,0:06:41.78,0:06:45.68,Default,,0,0,0,,Something must have happened!?\NExactly what did Shindou do!?
+Dialogue: 0,0:06:37.25,0:06:41.26,Background,,0,0,0,,That awkward stone formation. I can't imagine\Nwhat order the moves went in to form that shape.
+Dialogue: 0,0:06:41.76,0:06:45.68,Default,,0,0,0,,Something must have happened!?\NExactly what did Shindou do!?
 Dialogue: 0,0:06:47.80,0:06:50.59,Default,,0,0,0,,Haha, get in.
 Dialogue: 0,0:07:03.00,0:07:07.25,Default,,0,0,0,,You should ask the opponent\NMurakami-kun about the match.
 Dialogue: 0,0:07:08.85,0:07:09.89,Default,,0,0,0,,I asked him...
@@ -176,8 +176,8 @@ Dialogue: 0,0:09:06.86,0:09:08.52,Default,,0,0,0,,You played well.
 Dialogue: 0,0:09:08.99,0:09:11.28,Default,,0,0,0,,Yup, the teacher was complimenting you too.
 Dialogue: 0,0:09:11.29,0:09:13.25,Default,,0,0,0,,But Ochi is incredible.
 Dialogue: 0,0:09:13.99,0:09:16.66,Default,,0,0,0,,I've been losing to him straight lately.
-Dialogue: 0,0:09:17.48,0:09:18.33,Default,,0,0,0,,What about you Isumi-san?
-Dialogue: 0,0:09:18.81,0:09:20.13,Default,,0,0,0,,Half and half...
+Dialogue: 0,0:09:17.45,0:09:18.33,Default,,0,0,0,,What about you Isumi-san?
+Dialogue: 0,0:09:18.79,0:09:20.13,Default,,0,0,0,,Half and half...
 Dialogue: 0,0:09:20.29,0:09:23.66,Default,,0,0,0,,I'm half and half with him\Ntoo. I'm strong against Ochi.
 Dialogue: 0,0:09:24.07,0:09:28.90,Default,,0,0,0,,Oh yeah did you hear? Ochi tends to lock\Nhimself in the bathroom when he loses.
 Dialogue: 0,0:09:29.22,0:09:30.26,Default,,0,0,0,,The bathroom!?
@@ -190,7 +190,7 @@ Dialogue: 0,0:09:50.38,0:09:51.90,Default,,0,0,0,,What is he doing?
 Dialogue: 0,0:09:52.35,0:09:53.57,Default,,0,0,0,,That's so weird.
 Dialogue: 0,0:09:53.78,0:09:57.86,Default,,0,0,0,,Even his opponent was a pro, I'm\Nsure he'll be really angry about losing.
 Dialogue: 0,0:09:58.15,0:09:59.48,Default,,0,0,0,,And tappy tap.
-Dialogue: 0,0:09:59.79,0:10:00.96,Background,,0,0,0,,[note: Nase's groan is not\Ntranslated][Nase's groan doe snot need\Nto be translated, it's a goddamned groan]
+Dialogue: 0,0:09:59.79,0:10:00.96,Background,,0,0,0,,[note: Nase's groan is not\Ntranslated][Nase's groan does not need\Nto be translated, it's a goddamned groan]
 Dialogue: 0,0:10:01.51,0:10:03.97,Background,,0,0,0,,My opponent in the afternoon is Ochi...
 Dialogue: 0,0:10:06.70,0:10:09.67,Default,,0,0,0,,Good luck Shindou! Lock Ochi in the bathroom!
 Dialogue: 0,0:10:09.87,0:10:14.52,Default,,0,0,0,,You're probably still too weak. You lost by six\Nand a half moku in the Wakajishisen after all.
@@ -228,7 +228,7 @@ Dialogue: 0,0:11:52.09,0:11:53.57,Background,,0,0,0,,Isumi-san you're...
 Dialogue: 0,0:12:29.52,0:12:30.69,Default,,0,0,0,,Shindou, let's go!
 Dialogue: 0,0:12:30.85,0:12:33.07,Default,,0,0,0,,Oh, huh? Yeah...
 Dialogue: 0,0:12:45.04,0:12:47.86,Default,,0,0,0,,Why were you spacing out in front of the elevator?
-Dialogue: 0,0:12:48.29,0:12:50.25,Default,,0,0,0,,Something the matter with Master Kuwabara?
+Dialogue: 0,0:12:48.25,0:12:50.25,Default,,0,0,0,,Something the matter with Master Kuwabara?
 Dialogue: 0,0:12:50.68,0:12:52.25,Default,,0,0,0,,Master Kuwabara?
 Dialogue: 0,0:12:52.41,0:12:53.50,Default,,0,0,0,,You don't know him!?
 Dialogue: 0,0:12:53.84,0:12:55.21,Default,,0,0,0,,Geez you're stupid.
@@ -253,7 +253,7 @@ Dialogue: 0,0:13:51.64,0:13:55.54,Default,,0,0,0,,Mr. Ogata is challenging\NMast
 Dialogue: 0,0:13:56.09,0:13:57.39,Default,,0,0,0,,Mr. Ogata is?
 Dialogue: 0,0:13:57.80,0:14:01.47,Default,,0,0,0,,Seven game match. Though\Nthey don't play it all in one day.
 Dialogue: 0,0:14:02.46,0:14:06.54,Default,,0,0,0,,Mr. Ogata won the first game a few days\Nago, and the second game is this week.
-Dialogue: 0,0:14:07.62,0:14:10.56,Default,,0,0,0,,They spend around two years on\Nthe preliminaries for all the titles,
+Dialogue: 0,0:14:07.58,0:14:10.56,Default,,0,0,0,,They spend around two years on\Nthe preliminaries for all the titles,
 Dialogue: 0,0:14:11.02,0:14:14.63,Default,,0,0,0,,and the winner there gets\Nto challenge the title holder.
 Dialogue: 0,0:14:14.96,0:14:16.37,Default,,0,0,0,,Two years!?
 Dialogue: 0,0:14:16.60,0:14:19.00,Default,,0,0,0,,You really don't know anything do you?
@@ -300,7 +300,7 @@ Dialogue: 0,0:17:20.95,0:17:24.42,Default,,0,0,0,,H-Hey isn't that Kuwabara!? Th
 Dialogue: 0,0:17:25.75,0:17:26.74,Default,,0,0,0,,Who?
 Dialogue: 0,0:17:29.49,0:17:32.11,Default,,0,0,0,,Hey! Do you have any paper and pen?
 Dialogue: 0,0:17:32.11,0:17:33.90,Default,,0,0,0,,You're not a child anymore.
-Dialogue: 0,0:17:34.98,0:17:39.33,Default,,0,0,0,,You sure are energetic. We're going to be\Nplaying for two straight days starting tomorrow.
+Dialogue: 0,0:17:34.95,0:17:39.33,Default,,0,0,0,,You sure are energetic. We're going to be\Nplaying for two straight days starting tomorrow.
 Dialogue: 0,0:17:39.53,0:17:43.10,Default,,0,0,0,,You might be a little too nervous about it.
 Dialogue: 0,0:17:43.62,0:17:46.63,Default,,0,0,0,,Umm, excuse me, you're Kuwabara Honinbou right?
 Dialogue: 0,0:17:46.71,0:17:49.02,Default,,0,0,0,,Why yes, I am Kuwabara.

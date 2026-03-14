@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 329
-Active Line: 349
-Video Position: 35529
+Scroll Position: 282
+Active Line: 301
+Video Position: 27177
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,7 +93,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.12,0:00:04.00,Memory,,0,0,0,,Fujiwarano Sai, a Go player from the Heian period...
 Dialogue: 0,0:00:04.53,0:00:08.50,Memory,,0,0,0,,has passed through time and returned to\Nthe world in the mind of Shindou Hikaru,
 Dialogue: 0,0:00:09.38,0:00:11.70,Memory,,0,0,0,,in order to obtain the Hand of God.
-Dialogue: 0,0:01:41.90,0:01:43.52,Default,,0,0,0,,I want to go to the Wakajishisen!
+Dialogue: 0,0:01:41.87,0:01:43.52,Default,,0,0,0,,I want to go to the Wakajishisen!
 Dialogue: 0,0:01:43.99,0:01:45.74,Default,,0,0,0,,No, I have to go!
 Dialogue: 0,0:01:46.29,0:01:49.55,Default,,0,0,0,,Otherwise, I can't say "To\Ndefeat Touya Akira" anymore!
 Dialogue: 0,0:01:50.22,0:01:53.06,Default,,0,0,0,,I have to go to the Wakajishisen and show him!
@@ -131,11 +131,11 @@ Dialogue: 0,0:03:47.47,0:03:49.96,Default,,0,0,0,,It's time, please begin.
 Dialogue: 0,0:03:50.31,0:03:51.40,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:03:51.55,0:03:52.83,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:04:03.06,0:04:06.39,Thinking,,0,0,0,,We have more time in first\Nclass than in second class?
-Dialogue: 0,0:04:07.34,0:04:10.08,Thinking,,0,0,0,,I can't be afraid just because\Nmy opponent is in first class.
+Dialogue: 0,0:04:07.31,0:04:10.08,Thinking,,0,0,0,,I can't be afraid just because\Nmy opponent is in first class.
 Dialogue: 0,0:04:10.75,0:04:12.20,Thinking,,0,0,0,,I'm in first class too.
 Dialogue: 0,0:04:15.80,0:04:18.22,Thinking,,0,0,0,,{\1c&HFEFECE&}Hikaru took his first step in first class.
 Dialogue: 0,0:04:36.37,0:04:37.88,Thinking,,0,0,0,,Thinking again?
-Dialogue: 0,0:04:48.06,0:04:51.20,Thinking,,0,0,0,,That move has a lot of thought put into\Nit. No wonder he's in the first class.
+Dialogue: 0,0:04:48.02,0:04:51.20,Thinking,,0,0,0,,That move has a lot of thought put into\Nit. No wonder he's in the first class.
 Dialogue: 0,0:04:52.15,0:04:54.38,Thinking,,0,0,0,,It is strong... but!
 Dialogue: 0,0:04:57.53,0:04:59.33,Thinking,,0,0,0,,I can't cower away from my opponent!
 Dialogue: 0,0:04:59.94,0:05:01.91,Thinking,,0,0,0,,I have to return an even stronger move!
@@ -184,9 +184,9 @@ Dialogue: 0,0:07:26.84,0:07:28.41,Default,,0,0,0,,But it's the truth!
 Dialogue: 0,0:07:28.70,0:07:34.33,Default,,0,0,0,,I'll tell you this because you're getting\Ncocky, but I'm your next match. So\Nyou won't have a third straight win.
 Dialogue: 0,0:07:34.48,0:07:35.89,Default,,0,0,0,,We'll see!
 Dialogue: 0,0:07:38.00,0:07:39.50,Default,,0,0,0,,Why you...
-Dialogue: 0,0:07:46.94,0:07:48.58,Default,,0,0,0,,Two straight wins! Two straight wins!
-Dialogue: 0,0:07:48.93,0:07:51.65,Sai,,0,0,0,,I'll tell you this because you're getting cocky,
-Dialogue: 0,0:07:53.02,0:07:55.95,Sai,,0,0,0,,but according to Waya, he's your next match.
+Dialogue: 0,0:07:46.90,0:07:48.58,Default,,0,0,0,,Two straight wins! Two straight wins!
+Dialogue: 0,0:07:48.91,0:07:51.65,Sai,,0,0,0,,I'll tell you this because you're getting cocky,
+Dialogue: 0,0:07:52.99,0:07:55.95,Sai,,0,0,0,,but according to Waya, he's your next match.
 Dialogue: 0,0:07:56.10,0:07:57.81,Sai,,0,0,0,,So you won't have a third straight win.
 Dialogue: 0,0:07:58.46,0:08:00.93,Default,,0,0,0,,We won't know till we play.
 Dialogue: 0,0:08:01.09,0:08:02.52,Sai,,0,0,0,,Yes but...
@@ -194,7 +194,7 @@ Dialogue: 0,0:08:03.24,0:08:06.05,Sai,,0,0,0,,Speaking of, we've never seen Waya
 Dialogue: 0,0:08:06.31,0:08:06.77,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:08:07.27,0:08:09.49,Default,,0,0,0,,I wonder how he'll play against me.
 Dialogue: 0,0:08:10.70,0:08:11.98,Default,,0,0,0,,Hey it's your turn Sai.
-Dialogue: 0,0:08:13.77,0:08:14.27,Sai,,0,0,0,,Well then.
+Dialogue: 0,0:08:13.72,0:08:14.27,Sai,,0,0,0,,Well then.
 Dialogue: 0,0:08:39.25,0:08:40.88,Sai,,0,0,0,,It's going to be fun!
 Dialogue: 0,0:08:41.52,0:08:42.19,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:08:46.38,0:08:47.01,Default,,0,0,0,,Good morning.
@@ -205,7 +205,7 @@ Dialogue: 0,0:08:50.54,0:08:51.84,Default,,0,0,0,,He is, look.
 Dialogue: 0,0:08:52.03,0:08:54.06,Background,,0,0,0,,Internet Go is easy.
 Dialogue: 0,0:08:54.26,0:08:57.00,Default,,0,0,0,,But I know nothing about computers.
 Dialogue: 0,0:08:57.49,0:09:00.10,Default,,0,0,0,,My cousin said he's giving me his old computer.
-Dialogue: 0,0:09:00.42,0:09:01.22,Default,,0,0,0,,What's the model?
+Dialogue: 0,0:09:00.39,0:09:01.22,Default,,0,0,0,,What's the model?
 Dialogue: 0,0:09:01.22,0:09:02.54,Default,,0,0,0,,How am I supposed to know?
 Dialogue: 0,0:09:02.95,0:09:06.97,Default,,0,0,0,,Anyways, teach me internet Go for when\Nmy cousin teaches me how to use it.
 Dialogue: 0,0:09:07.33,0:09:08.36,Default,,0,0,0,,Yeah, okay.
@@ -220,11 +220,11 @@ Dialogue: 0,0:09:30.73,0:09:31.26,Default,,0,0,0,,Oh.
 Dialogue: 0,0:09:31.47,0:09:33.64,Default,,0,0,0,,Does anyone good play Go on the Internet?
 Dialogue: 0,0:09:33.87,0:09:36.78,Default,,0,0,0,,There's quite a few. You'll learn plenty.
 Dialogue: 0,0:09:37.10,0:09:38.69,Default,,0,0,0,,Pros play on it sometimes too.
-Dialogue: 0,0:09:39.00,0:09:40.02,Default,,0,0,0,,Amongst the commoners?
+Dialogue: 0,0:09:38.97,0:09:40.02,Default,,0,0,0,,Amongst the commoners?
 Dialogue: 0,0:09:40.25,0:09:42.25,Default,,0,0,0,,They play there as a joke sometimes.
 Dialogue: 0,0:09:42.54,0:09:45.61,Default,,0,0,0,,But they don't use their real\Nname, so you won't know.
 Dialogue: 0,0:09:47.10,0:09:49.47,Default,,0,0,0,,But this one time, they used their real name.
-Dialogue: 0,0:09:49.76,0:09:51.68,Default,,0,0,0,,Of course you wouldn't expect\Nhim to be the real thing.
+Dialogue: 0,0:09:49.74,0:09:51.68,Default,,0,0,0,,Of course you wouldn't expect\Nhim to be the real thing.
 Dialogue: 0,0:09:52.02,0:09:52.76,Default,,0,0,0,,Did you play?
 Dialogue: 0,0:09:53.09,0:09:53.51,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:09:53.94,0:09:56.62,Default,,0,0,0,,I thought it was just an\Namateur using a pro's name.
@@ -247,32 +247,32 @@ Dialogue: 0,0:10:33.31,0:10:34.28,Thinking,,0,0,0,,Just like I thought.
 Dialogue: 0,0:10:35.18,0:10:38.72,Default,,0,0,0,,It was summer last year that Sai was on the net.
 Dialogue: 0,0:10:39.26,0:10:42.44,Default,,0,0,0,,I only played him once but, I watched him a lot.
 Dialogue: 0,0:10:43.64,0:10:45.81,Sai,,0,0,0,,Seems like I played Waya before.
-Dialogue: 0,0:10:46.05,0:10:48.66,Thinking,,0,0,0,,So he must have been one of\Nthe guys in your massacre.
+Dialogue: 0,0:10:46.00,0:10:48.66,Thinking,,0,0,0,,So he must have been one of\Nthe guys in your massacre.
 Dialogue: 0,0:10:50.00,0:10:51.46,Default,,0,0,0,,He was really strong.
-Dialogue: 0,0:10:51.75,0:10:53.34,Default,,0,0,0,,Not a loss to the best of my knowledge.
-Dialogue: 0,0:10:54.44,0:10:56.47,Thinking,,0,0,0,,Not a loss to the best of my knowledge too.
-Dialogue: 0,0:10:56.85,0:10:58.07,Default,,0,0,0,,It wasn't just amateurs either.
-Dialogue: 0,0:10:58.46,0:11:00.79,Default,,0,0,0,,A pro in the Korean Institute lost too.
+Dialogue: 0,0:10:51.71,0:10:53.34,Default,,0,0,0,,Not a loss to the best of my knowledge.
+Dialogue: 0,0:10:54.38,0:10:56.47,Thinking,,0,0,0,,Not a loss to the best of my knowledge too.
+Dialogue: 0,0:10:56.80,0:10:58.07,Default,,0,0,0,,It wasn't just amateurs either.
+Dialogue: 0,0:10:58.43,0:11:00.79,Default,,0,0,0,,A pro in the Korean Institute lost too.
 Dialogue: 0,0:11:01.05,0:11:03.87,Default,,0,0,0,,Hmm... there are pros in Korea too?
 Dialogue: 0,0:11:04.46,0:11:07.43,Default,,0,0,0,,Even Touya Akira ditches the\Nexam to play against Sai.
 Dialogue: 0,0:11:07.83,0:11:09.24,Thinking,,0,0,0,,I know about that.
 Dialogue: 0,0:11:09.81,0:11:11.99,Default,,0,0,0,,But anyways, he was an incredible player.
 Dialogue: 0,0:11:13.21,0:11:17.71,Default,,0,0,0,,Once summer break ended, he disappeared though.
-Dialogue: 0,0:11:19.34,0:11:22.53,Background,,0,0,0,,I check for his name whenever I\Nplay Go on the net every time still...
+Dialogue: 0,0:11:19.28,0:11:22.53,Background,,0,0,0,,I check for his name whenever I\Nplay Go on the net every time still...
 Dialogue: 0,0:11:23.64,0:11:26.13,Background,,0,0,0,,in hope of playing Sai again.
-Dialogue: 0,0:11:31.32,0:11:33.68,Default,,0,0,0,,There were many people who played against Sai.
+Dialogue: 0,0:11:31.30,0:11:33.68,Background,,0,0,0,,There were many people who played against Sai.
 Dialogue: 0,0:11:34.16,0:11:36.75,Default,,0,0,0,,But Sai never spoke to any of his opponents.
 Dialogue: 0,0:11:37.13,0:11:39.17,Default,,0,0,0,,So his identity is still unknown.
 Dialogue: 0,0:11:39.79,0:11:41.43,Default,,0,0,0,,But, Sai messaged me for some reason.
 Dialogue: 0,0:11:42.40,0:11:45.08,Default,,0,0,0,,After he beat me, he typed in...
-Dialogue: 0,0:11:46.29,0:11:49.53,Default,,0,0,0,,"I'm strong aren't I?"
-Dialogue: 0,0:11:50.39,0:11:51.48,Default,,0,0,0,,doesn't he sound childish?
+Dialogue: 0,0:11:46.27,0:11:49.53,Default,,0,0,0,,"I'm strong aren't I?"
+Dialogue: 0,0:11:50.36,0:11:51.52,Default,,0,0,0,,doesn't he sound childish?
 Dialogue: 0,0:11:57.25,0:11:57.97,Default,,0,0,0,,Zelda...
 Dialogue: 0,0:11:59.00,0:12:01.56,Default,,0,0,0,,Yeah... you said "I'm an Insei"
 Dialogue: 0,0:12:02.21,0:12:03.85,Default,,0,0,0,,Waya, you're Zelda!?
 Dialogue: 0,0:12:04.24,0:12:04.81,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:12:16.74,0:12:18.00,Default,,0,0,0,,Y-You...
-Dialogue: 0,0:12:18.64,0:12:20.68,Default,,0,0,0,,How do you know about my conversation with Sai?
+Dialogue: 0,0:12:18.59,0:12:20.68,Default,,0,0,0,,How do you know about my conversation with Sai?
 Dialogue: 0,0:12:21.17,0:12:23.23,Default,,0,0,0,,It's time, so please begin your games.
 Dialogue: 0,0:12:23.69,0:12:24.96,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:12:25.48,0:12:26.43,Default,,0,0,0,,Good luck.
@@ -290,20 +290,20 @@ Dialogue: 0,0:13:20.35,0:13:22.95,Thinking,,0,0,0,,{\1c&HC5FEC1&}I saw Sai's mat
 Dialogue: 0,0:13:23.95,0:13:25.13,Thinking,,0,0,0,,He's not Sai.
 Dialogue: 0,0:13:27.21,0:13:29.58,Thinking,,0,0,0,,{\1c&HC5FEC1&}Sai is much stronger than this.
 Dialogue: 0,0:13:31.67,0:13:32.11,Thinking,,0,0,0,,{\1c&HC5FEC1&}But...
-Dialogue: 0,0:13:34.30,0:13:35.21,Thinking,,0,0,0,,How should I put it...
+Dialogue: 0,0:13:34.25,0:13:35.21,Thinking,,0,0,0,,How should I put it...
 Dialogue: 0,0:13:36.18,0:13:37.98,Thinking,,0,0,0,,I feel Sai within his moves.
 Dialogue: 0,0:13:43.64,0:13:47.01,Thinking,,0,0,0,,No! No! Don't think about that crap!
 Dialogue: 0,0:13:53.63,0:13:54.16,Thinking,,0,0,0,,But...
 Dialogue: 0,0:13:54.54,0:13:57.19,Thinking,,0,0,0,,Shindou knew about my match against Sai.
 Dialogue: 0,0:14:02.49,0:14:04.69,Thinking,,0,0,0,,{\1c&HC5FEC1&}Is he Sai after all?
-Dialogue: 0,0:14:06.23,0:14:07.20,Thinking,,0,0,0,,{\1c&HC5FEC1&}No! It can't be!
-Dialogue: 0,0:14:07.39,0:14:07.87,Thinking,,0,0,0,,{\1c&HC5FEC1&}It can't be!
+Dialogue: 0,0:14:06.20,0:14:07.20,Thinking,,0,0,0,,{\1c&HC5FEC1&}No! It can't be!
+Dialogue: 0,0:14:07.37,0:14:07.87,Thinking,,0,0,0,,{\1c&HC5FEC1&}It can't be!
 Dialogue: 0,0:14:07.87,0:14:08.49,Thinking,,0,0,0,,{\1c&HC5FEC1&}IT CAN'T BE!
 Dialogue: 0,0:14:33.32,0:14:34.06,Default,,0,0,0,,I resign.
 Dialogue: 0,0:14:36.28,0:14:37.70,Sai,,0,0,0,,We won....
 Dialogue: 0,0:14:38.19,0:14:40.64,Default,,0,0,0,,I have... three straight wins...
 Dialogue: 0,0:14:42.16,0:14:42.83,Default,,0,0,0,,That's it...
-Dialogue: 0,0:14:43.52,0:14:44.28,Default,,0,0,0,,I figured it out...
+Dialogue: 0,0:14:43.49,0:14:44.28,Default,,0,0,0,,I figured it out...
 Dialogue: 0,0:14:45.21,0:14:45.74,Default,,0,0,0,,Shindou!
 Dialogue: 0,0:14:47.28,0:14:48.92,Default,,0,0,0,,You're Sai's student aren't you!?
 Dialogue: 0,0:14:49.83,0:14:54.01,Default,,0,0,0,,You were watching my match against\NSai from behind him weren't you!
@@ -315,16 +315,16 @@ Dialogue: 0,0:15:09.07,0:15:11.89,Thinking,,0,0,0,,It sounds kinda right and kin
 Dialogue: 0,0:15:12.16,0:15:13.94,Thinking,,0,0,0,,{\1c&HFEFECE&}Waya is really sharp.
 Dialogue: 0,0:15:14.43,0:15:14.94,Default,,0,0,0,,Shindou!
 Dialogue: 0,0:15:15.06,0:15:15.73,Default,,0,0,0,,Answer me!
-Dialogue: 0,0:15:16.30,0:15:18.40,Default,,0,0,0,,How do you know about my match against Sai!?
+Dialogue: 0,0:15:16.27,0:15:18.40,Default,,0,0,0,,How do you know about my match against Sai!?
 Dialogue: 0,0:15:24.95,0:15:25.54,Default,,0,0,0,,Waya...
 Dialogue: 0,0:15:26.61,0:15:30.12,Default,,0,0,0,,It was only coincidence that I saw\Nthe match between Sai and Zelda.
 Dialogue: 0,0:15:32.00,0:15:35.30,Background,,0,0,0,,Remember? I told you that\NI went to an internet cafe?
 Dialogue: 0,0:15:35.90,0:15:39.58,Background,,0,0,0,,There was someone playing\NGo on the Internet there.
 Dialogue: 0,0:15:41.32,0:15:44.37,Background,,0,0,0,,When I turned to look, the match was already over.
-Dialogue: 0,0:15:46.79,0:15:49.89,Background,,0,0,0,,And the conversation between Sai\Nand Zelda from then was interesting,
+Dialogue: 0,0:15:46.76,0:15:49.89,Background,,0,0,0,,And the conversation between Sai\Nand Zelda from then was interesting,
 Dialogue: 0,0:15:50.24,0:15:51.68,Background,,0,0,0,,so I remembered it. That's all.
 Dialogue: 0,0:15:53.63,0:15:54.41,Default,,0,0,0,,What about him?
-Dialogue: 0,0:15:54.96,0:15:57.31,Default,,0,0,0,,He went home right away.\NI didn't even see his face.
+Dialogue: 0,0:15:54.93,0:15:57.31,Default,,0,0,0,,He went home right away.\NI didn't even see his face.
 Dialogue: 0,0:16:00.12,0:16:00.72,Thinking,,0,0,0,,{\1c&HFEFECE&}Hikaru...
 Dialogue: 0,0:16:01.12,0:16:02.71,Thinking,,0,0,0,,{\1c&HFEFECE&}You're getting better at lying.
 Dialogue: 0,0:16:02.98,0:16:04.52,Thinking,,0,0,0,,It's all thanks to you.
@@ -338,7 +338,7 @@ Dialogue: 0,0:16:25.34,0:16:26.30,NoteArialEF,,0,0,0,,{\fs19\1c&HFDFBFF&\bord0.5
 Dialogue: 0,0:16:25.34,0:16:26.30,NoteArialEF,,0,0,0,,{\fs19\1c&HFDFBFF&\bord0.5\pos(231,67)}Nakamura
 Dialogue: 0,0:16:25.34,0:16:26.30,NoteArialEF,,0,0,0,,{\fs19\1c&HFDFBFF&\bord0.5\pos(351,45)}Shindou
 Dialogue: 0,0:16:28.60,0:16:31.23,Thinking,,0,0,0,,Three straight wins!? Against Waya!?
-Dialogue: 0,0:16:35.07,0:16:37.52,Thinking,,0,0,0,,My opponent for the afternoon\Nseemed scared of me.
+Dialogue: 0,0:16:35.02,0:16:37.52,Thinking,,0,0,0,,My opponent for the afternoon\Nseemed scared of me.
 Dialogue: 0,0:16:38.23,0:16:40.29,Thinking,,0,0,0,,I moved in too far sometimes, and...
 Dialogue: 0,0:16:40.93,0:16:41.97,Default,,0,0,0,,I resign.
 Dialogue: 0,0:16:42.14,0:16:43.73,Thinking,,0,0,0,,I got my fourth straight win.
@@ -350,7 +350,7 @@ Dialogue: 0,0:16:59.00,0:17:02.50,Note,,0,0,0,,{\fs22.5\1c&H00E8FF&\pos(337,91)}
 Dialogue: 0,0:16:59.00,0:17:02.50,Note,,0,0,0,,{\fs22.5\1c&H00E8FF&\pos(379,120)}Hamburgers
 Dialogue: 0,0:16:59.74,0:17:02.18,Background,,0,0,0,,Well, I guess you did well.
 Dialogue: 0,0:17:03.35,0:17:06.90,Default,,0,0,0,,You managed to make it all\Nthe way to sixteenth after all.
-Dialogue: 0,0:17:08.20,0:17:10.92,Default,,0,0,0,,Now you qualify for the\NWakajishisen. Congratulations.
+Dialogue: 0,0:17:08.17,0:17:10.92,Default,,0,0,0,,Now you qualify for the\NWakajishisen. Congratulations.
 Dialogue: 0,0:17:11.07,0:17:11.84,Default,,0,0,0,,Congratulations.
 Dialogue: 0,0:17:12.86,0:17:13.73,Default,,0,0,0,,Thank you!
 Dialogue: 0,0:17:14.22,0:17:17.69,Default,,0,0,0,,And he was getting ten straight\Nlosses in second class recently.
@@ -361,13 +361,13 @@ Dialogue: 0,0:17:25.92,0:17:27.43,Default,,0,0,0,,Doesn't matter to me.
 Dialogue: 0,0:17:27.75,0:17:29.82,Default,,0,0,0,,And? When is the Wakajishisen?
 Dialogue: 0,0:17:29.95,0:17:30.86,Default,,0,0,0,,Touya will be there right?
 Dialogue: 0,0:17:31.10,0:17:34.80,Default,,0,0,0,,Is Touya Akira the only thing in your head?
-Dialogue: 0,0:17:34.99,0:17:36.24,Default,,0,0,0,,Next month and the month after.
-Dialogue: 0,0:17:36.73,0:17:38.83,Default,,0,0,0,,On Saturdays we won't have Insei matches.
-Dialogue: 0,0:17:39.20,0:17:40.60,Default,,0,0,0,,It takes more than a day.
-Dialogue: 0,0:17:41.13,0:17:44.64,Default,,0,0,0,,It's a tournament between\N16 Insei and 16 new pros.
+Dialogue: 0,0:17:34.95,0:17:36.24,Default,,0,0,0,,Next month and the month after.
+Dialogue: 0,0:17:36.70,0:17:38.83,Default,,0,0,0,,On Saturdays we won't have Insei matches.
+Dialogue: 0,0:17:39.16,0:17:40.60,Default,,0,0,0,,It takes more than a day.
+Dialogue: 0,0:17:41.08,0:17:44.64,Default,,0,0,0,,It's a tournament between\N16 Insei and 16 new pros.
 Dialogue: 0,0:17:44.85,0:17:46.12,Default,,0,0,0,,It takes three days.
 Dialogue: 0,0:17:46.55,0:17:49.29,Default,,0,0,0,,The first match is all between Insei and pro.
-Dialogue: 0,0:17:49.78,0:17:51.09,Default,,0,0,0,,It's an even game of course.
+Dialogue: 0,0:17:49.76,0:17:51.09,Default,,0,0,0,,It's an even game of course.
 Dialogue: 0,0:17:51.60,0:17:52.99,Default,,0,0,0,,How was it last year?
 Dialogue: 0,0:17:53.44,0:17:55.96,Default,,0,0,0,,The Insei that went past the first round...
 Dialogue: 0,0:17:56.14,0:17:57.01,Default,,0,0,0,,There were five of them.
@@ -391,7 +391,7 @@ Dialogue: 0,0:18:48.36,0:18:53.36,Note,,0,0,0,,{\1c&H385F73&\pos(330,263)}Japane
 Dialogue: 0,0:18:48.36,0:18:53.36,Note,,0,0,0,,{\1c&H385F73&\pos(404,288)}Go
 Dialogue: 0,0:18:48.36,0:18:53.36,Note,,0,0,0,,{\1c&H385F73&\pos(474,314)}Institute
 Dialogue: 0,0:18:49.90,0:18:53.00,Background,,0,0,0,,Mashiba Mitsuru, 17 year old\Nfrom the Chiba prefecture.
-Dialogue: 0,0:18:53.52,0:18:55.36,Background,,0,0,0,,Studied under Mizokuchi Hiroshi 9 dan.
+Dialogue: 0,0:18:53.49,0:18:55.36,Background,,0,0,0,,Studied under Mizokuchi Hiroshi 9 dan.
 Dialogue: 0,0:18:58.71,0:19:01.45,Background,,0,0,0,,Touya Akira, 13 year old from the city of Tokyo.
 Dialogue: 0,0:19:01.85,0:19:03.76,Background,,0,0,0,,Studied under Touya Kouyou Meijin.
 Dialogue: 0,0:19:10.99,0:19:13.08,Background,,0,0,0,,Ogata-san! Ogata-san!

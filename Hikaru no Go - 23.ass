@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 23 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 307
-Active Line: 323
-Video Position: 35521
+Scroll Position: 309
+Active Line: 318
+Video Position: 34518
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -111,9 +111,9 @@ Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFF
 Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(319,11)}Y\No\Ns\Nh\Ni\Nd\Na
 Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(385,11)}S\Nh\Ni\Nn\Nd\No\Nu
 Dialogue: 0,0:02:23.08,0:02:24.80,Default,,0,0,0,,Oh it's all black!
-Dialogue: 0,0:02:25.70,0:02:29.03,Default,,0,0,0,,Touya Akira's rival experiences\Nsix straight losses in a second class.
-Dialogue: 0,0:02:30.70,0:02:33.00,Default,,0,0,0,,What is it!? What are you trying to say?
-Dialogue: 0,0:02:33.62,0:02:37.44,Default,,0,0,0,,Oh! I see! He's your rival at Shougi!
+Dialogue: 0,0:02:25.67,0:02:29.03,Default,,0,0,0,,Touya Akira's rival experiences\Nsix straight losses in a second class.
+Dialogue: 0,0:02:30.67,0:02:33.00,Default,,0,0,0,,What is it!? What are you trying to say?
+Dialogue: 0,0:02:33.59,0:02:37.44,Default,,0,0,0,,Oh! I see! He's your rival at Shougi!
 Dialogue: 0,0:02:39.23,0:02:43.10,Sai,,0,0,0,,Don't mind him Hikaru, you're getting stronger.
 Dialogue: 0,0:02:43.55,0:02:45.69,Default,,0,0,0,,And what's your rank!?
 Dialogue: 0,0:02:45.91,0:02:46.54,Default,,0,0,0,,Me?
@@ -132,19 +132,19 @@ Dialogue: 0,0:02:57.63,0:03:00.30,Default,,0,0,0,,Compared to the bottom of seco
 Dialogue: 0,0:03:00.39,0:03:02.80,Default,,0,0,0,,And still lost to Touya twice.
 Dialogue: 0,0:03:03.19,0:03:07.43,Default,,0,0,0,,Though I lost to him, I'm a lot\Ncloser to Touya than you are!
 Dialogue: 0,0:03:08.36,0:03:11.50,Default,,0,0,0,,Though he probably doesn't even know I exist.
-Dialogue: 0,0:03:12.33,0:03:13.71,Default,,0,0,0,,What are you talking about?
-Dialogue: 0,0:03:15.35,0:03:15.97,Default,,0,0,0,,Ah! Dammit!
-Dialogue: 0,0:03:16.33,0:03:19.01,Default,,0,0,0,,I'm pissed at myself for letting\NTouya beat me at the Pro exams.
-Dialogue: 0,0:03:19.51,0:03:23.10,Default,,0,0,0,,I can't lose to him in spirit and skill.
+Dialogue: 0,0:03:12.26,0:03:13.71,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:03:14.88,0:03:15.97,Default,,0,0,0,,Ah! Dammit!
+Dialogue: 0,0:03:16.30,0:03:19.01,Default,,0,0,0,,I'm pissed at myself for letting\NTouya beat me at the Pro exams.
+Dialogue: 0,0:03:19.47,0:03:23.10,Default,,0,0,0,,I can't lose to him in spirit and skill.
 Dialogue: 0,0:03:23.80,0:03:26.20,Default,,0,0,0,,I played against Touya-kun too!
 Dialogue: 0,0:03:26.72,0:03:28.40,Default,,0,0,0,,I lost!
 Dialogue: 0,0:03:28.60,0:03:30.00,Default,,0,0,0,,O-Oh...
 Dialogue: 0,0:03:30.96,0:03:33.02,Background,,0,0,0,,Touya doesn't matter.
-Dialogue: 0,0:03:36.30,0:03:38.28,Default,,0,0,0,,It's all a matter of making yourself the top.
-Dialogue: 0,0:03:43.85,0:03:44.75,Default,,0,0,0,,Who was that?
+Dialogue: 0,0:03:36.28,0:03:38.28,Default,,0,0,0,,It's all a matter of making yourself the top.
+Dialogue: 0,0:03:43.83,0:03:44.75,Default,,0,0,0,,Who was that?
 Dialogue: 0,0:03:44.90,0:03:46.89,Default,,0,0,0,,Ochi, he's in the sixth grade.
 Dialogue: 0,0:03:48.68,0:03:50.92,Background,,0,0,0,,He came three months before you.
-Dialogue: 0,0:03:52.01,0:03:54.51,Background,,0,0,0,,Of course he started at the\Nvery bottom of second class.
+Dialogue: 0,0:03:51.96,0:03:54.51,Background,,0,0,0,,Of course he started at the\Nvery bottom of second class.
 Dialogue: 0,0:03:54.64,0:03:55.29,Background,,0,0,0,,Now?
 Dialogue: 0,0:03:55.47,0:03:57.28,Default,,0,0,0,,He's third in first class!
 Dialogue: 0,0:03:57.51,0:03:58.68,Default,,0,0,0,,Third... in first class?
@@ -153,20 +153,20 @@ Dialogue: 0,0:04:05.30,0:04:07.78,Default,,0,0,0,,I want to pass them too this y
 Dialogue: 0,0:04:08.64,0:04:11.35,Default,,0,0,0,,If I pass this year, I won't\Nhave to go to High School.
 Dialogue: 0,0:04:11.86,0:04:13.61,Default,,0,0,0,,You don't like studying Waya?
 Dialogue: 0,0:04:13.87,0:04:14.92,Default,,0,0,0,,I hate it!
-Dialogue: 0,0:04:15.28,0:04:18.20,Default,,0,0,0,,Ahh! The pain of having to listen to a\Nteacher for hours and hours everyday.
+Dialogue: 0,0:04:15.23,0:04:18.20,Default,,0,0,0,,Ahh! The pain of having to listen to a\Nteacher for hours and hours everyday.
 Dialogue: 0,0:04:18.34,0:04:19.16,Default,,0,0,0,,Same with me.
-Dialogue: 0,0:04:19.47,0:04:21.57,Default,,0,0,0,,I'll be in the ninth grade by\Nthe pro exam in the summer.
-Dialogue: 0,0:04:22.36,0:04:24.93,Default,,0,0,0,,If I pass it, I'll start as a pro\Nthe same time I graduate!
-Dialogue: 0,0:04:25.50,0:04:27.46,Default,,0,0,0,,I'd like to finally pass this year too...
+Dialogue: 0,0:04:19.45,0:04:21.57,Default,,0,0,0,,I'll be in the ninth grade by\Nthe pro exam in the summer.
+Dialogue: 0,0:04:22.33,0:04:24.93,Default,,0,0,0,,If I pass it, I'll start as a pro\Nthe same time I graduate!
+Dialogue: 0,0:04:25.45,0:04:27.46,Default,,0,0,0,,I'd like to finally pass this year too...
 Dialogue: 0,0:04:28.04,0:04:28.70,Default,,0,0,0,,Isumi-san.
 Dialogue: 0,0:04:29.08,0:04:32.95,Default,,0,0,0,,I'll turn 18 this year, it's the\Nlast year I can remain an Insei.
 Dialogue: 0,0:04:35.08,0:04:37.10,Default,,0,0,0,,But, even if you're not an Insei,
 Dialogue: 0,0:04:37.10,0:04:39.22,Background,,0,0,0,,you can take the pro exam until you're 30.
 Dialogue: 0,0:04:40.43,0:04:43.79,Default,,0,0,0,,I know all that. It's a matter of feelings.
-Dialogue: 0,0:04:44.65,0:04:48.11,Default,,0,0,0,,Last year, and the year before that, I failed the\Npro exams despite being ranked one in the Inseis.
+Dialogue: 0,0:04:44.60,0:04:48.11,Default,,0,0,0,,Last year, and the year before that, I failed the\Npro exams despite being ranked one in the Inseis.
 Dialogue: 0,0:04:50.80,0:04:52.06,Default,,0,0,0,, If I fail this year too...
 Dialogue: 0,0:04:52.70,0:04:55.62,Default,,0,0,0,,I'd feel too sorry for myself to continue.
-Dialogue: 0,0:04:56.30,0:04:58.15,Default,,0,0,0,,How many people can pass the pro exams?
+Dialogue: 0,0:04:56.28,0:04:58.15,Default,,0,0,0,,How many people can pass the pro exams?
 Dialogue: 0,0:04:58.40,0:04:59.16,Default,,0,0,0,,Three.
 Dialogue: 0,0:04:59.26,0:04:59.98,Default,,0,0,0,,What!?
 Dialogue: 0,0:05:00.43,0:05:01.62,Default,,0,0,0,,Just three!?
@@ -179,29 +179,29 @@ Dialogue: 0,0:05:23.09,0:05:25.26,Background,,0,0,0,,Yeah yeah, extend yourself 
 Dialogue: 0,0:05:25.50,0:05:27.17,Background,,0,0,0,,Can you really win the battle?
 Dialogue: 0,0:05:27.82,0:05:29.28,Background,,0,0,0,,Probably?
 Dialogue: 0,0:05:29.28,0:05:30.91,Background,,0,0,0,,Probably!?
-Dialogue: 0,0:05:32.10,0:05:33.73,Default,,0,0,0,,What do you think about it Akira-kun?
+Dialogue: 0,0:05:32.06,0:05:33.73,Default,,0,0,0,,What do you think about it Akira-kun?
 Dialogue: 0,0:05:35.22,0:05:35.90,Default,,0,0,0,,Akira-kun?
 Dialogue: 0,0:05:36.19,0:05:37.69,Default,,0,0,0,,O-Oh!
 Dialogue: 0,0:05:38.48,0:05:42.47,Default,,0,0,0,,What is it? Is your mind filled with becoming pro?
 Dialogue: 0,0:05:42.47,0:05:43.03,Default,,0,0,0,,No...
 Dialogue: 0,0:05:43.50,0:05:47.73,Default,,0,0,0,,I'd like to say "finally". Akira-kun\Nis finally a pro starting in April.
-Dialogue: 0,0:05:48.19,0:05:52.37,Default,,0,0,0,,What I don't understand is why you were fooling\Naround in the Go club when you joined Jr. High.
-Dialogue: 0,0:05:52.61,0:05:53.79,Default,,0,0,0,,Right Ogata-san?
+Dialogue: 0,0:05:48.16,0:05:52.37,Default,,0,0,0,,What I don't understand is why you were fooling\Naround in the Go club when you joined Jr. High.
+Dialogue: 0,0:05:52.58,0:05:53.79,Default,,0,0,0,,Right Ogata-san?
 Dialogue: 0,0:05:54.60,0:05:57.67,Default,,0,0,0,,But he had more spirit back then.
 Dialogue: 0,0:06:00.80,0:06:02.13,Background,,0,0,0,,Go isn't all about skill.
 Dialogue: 0,0:06:03.76,0:06:10.13,Default,,0,0,0,,In between the small difference in\Nskill, your emotions, your spirit affects\Nthe outcome of the game greatly.
 Dialogue: 0,0:06:10.95,0:06:11.84,Default,,0,0,0,,Right now you're...
-Dialogue: 0,0:06:13.97,0:06:15.10,Default,,0,0,0,,not even worth pounding.
-Dialogue: 0,0:06:16.02,0:06:18.27,Default,,0,0,0,,I don't feel different...
+Dialogue: 0,0:06:13.94,0:06:15.10,Default,,0,0,0,,not even worth pounding.
+Dialogue: 0,0:06:15.98,0:06:18.27,Default,,0,0,0,,I don't feel different...
 Dialogue: 0,0:06:18.80,0:06:22.27,Default,,0,0,0,,Akira-kun's a scary enough existence for me.
-Dialogue: 0,0:06:22.99,0:06:25.99,Default,,0,0,0,,That's because you're losing one out\Nof every three matches, Ashiwara.
+Dialogue: 0,0:06:22.95,0:06:25.99,Default,,0,0,0,,That's because you're losing one out\Nof every three matches, Ashiwara.
 Dialogue: 0,0:06:26.58,0:06:30.27,Default,,0,0,0,,Touya-Meijin probably knows\Nsince he plays him every day.
 Dialogue: 0,0:06:33.40,0:06:37.92,Default,,0,0,0,,Well, once the matches begin in\NApril, the results will show it.
 Dialogue: 0,0:06:40.10,0:06:46.14,Default,,0,0,0,,But Ashiwara-kun, how long do you plan on drifting\Nin between the first and second preliminaries?
 Dialogue: 0,0:06:46.48,0:06:47.57,Default,,0,0,0,,Umm... yeah!
 Dialogue: 0,0:06:51.55,0:06:53.28,Default,,0,0,0,,Are you free this Sunday?
-Dialogue: 0,0:06:55.04,0:06:56.65,Default,,0,0,0,,There's something I'd like to show you.
-Dialogue: 0,0:06:59.24,0:07:00.23,Thinking,,0,0,0,,Something to show me?
+Dialogue: 0,0:06:55.04,0:06:56.81,Default,,0,0,0,,There's something I'd like to show you.
+Dialogue: 0,0:06:59.19,0:07:00.32,Thinking,,0,0,0,,Something to show me?
 Dialogue: 0,0:07:08.10,0:07:08.77,Background,,0,0,0,,Shindou...
 Dialogue: 0,0:07:09.21,0:07:09.93,Default,,0,0,0,,You won!?
 Dialogue: 0,0:07:10.24,0:07:12.03,Default,,0,0,0,,Yup! My first victory!
@@ -231,7 +231,7 @@ Dialogue: 0,0:08:48.97,0:08:50.82,Default,,0,0,0,,Oh! Touya-kun you're here?
 Dialogue: 0,0:08:51.09,0:08:51.80,Default,,0,0,0,,Hello!
 Dialogue: 0,0:08:52.11,0:08:58.68,Default,,0,0,0,,Perfect! Do you mind if I interview you for a bit?\NAbout becoming pro, and about your father?
 Dialogue: 0,0:08:58.77,0:09:00.05,Default,,0,0,0,,It's fine with me.
-Dialogue: 0,0:09:00.40,0:09:02.65,Default,,0,0,0,,Will you come to the publishing\Ndepartment upstairs later?
+Dialogue: 0,0:09:00.35,0:09:02.65,Default,,0,0,0,,Will you come to the publishing\Ndepartment upstairs later?
 Dialogue: 0,0:09:02.82,0:09:03.55,Default,,0,0,0,,I understand.
 Dialogue: 0,0:09:03.98,0:09:04.69,Default,,0,0,0,,Thanks a lot.
 Dialogue: 0,0:09:05.79,0:09:07.19,Default,,0,0,0,,Hello, Ogata-sensei.
@@ -293,10 +293,10 @@ Dialogue: 0,0:12:49.54,0:12:50.61,Default,,0,0,0,,Hey who is it?
 Dialogue: 0,0:12:50.80,0:12:52.73,Default,,0,0,0,,That was Zama-sensei! Ouza!
 Dialogue: 0,0:12:52.95,0:12:53.74,Default,,0,0,0,,Ouza?
 Dialogue: 0,0:12:54.12,0:12:56.27,Default,,0,0,0,,That's one of the titles.
-Dialogue: 0,0:12:56.54,0:12:58.60,Default,,0,0,0,,You should know the titles at the very least.
+Dialogue: 0,0:12:56.51,0:12:58.60,Default,,0,0,0,,You should know the titles at the very least.
 Dialogue: 0,0:13:04.23,0:13:06.52,Default,,0,0,0,,Zama-sensei! Perfect timing.
 Dialogue: 0,0:13:06.88,0:13:08.05,Default,,0,0,0,,What?
-Dialogue: 0,0:13:08.62,0:13:10.98,Default,,0,0,0,,The day for your match against the\Nnew first dan has been decided.
+Dialogue: 0,0:13:08.56,0:13:10.98,Default,,0,0,0,,The day for your match against the\Nnew first dan has been decided.
 Dialogue: 0,0:13:11.14,0:13:13.01,Default,,0,0,0,,We'll send a notice for it.
 Dialogue: 0,0:13:13.33,0:13:14.47,Default,,0,0,0,,Who's my opponent?
 Dialogue: 0,0:13:15.12,0:13:18.06,Default,,0,0,0,,It's Touya Akira-san. The Meijin's son.
@@ -338,7 +338,7 @@ Dialogue: 0,0:15:15.66,0:15:16.98,Background,,0,0,0,,It'll be shown on that TV.
 Dialogue: 0,0:15:17.56,0:15:20.98,Default,,0,0,0,,We have our own matches,\Nso we can't watch all of it.
 Dialogue: 0,0:15:21.55,0:15:25.43,Default,,0,0,0,,But you can catch at least the second\Nhalf after your Insei matches are over.
 Dialogue: 0,0:15:25.77,0:15:27.87,Default,,0,0,0,,Oh... I can't watch all of it.
-Dialogue: 0,0:15:28.39,0:15:30.40,Default,,0,0,0,,While we're here, wanna look\Nat the room of Yuugen as well?
+Dialogue: 0,0:15:28.37,0:15:30.40,Default,,0,0,0,,While we're here, wanna look\Nat the room of Yuugen as well?
 Dialogue: 0,0:15:30.76,0:15:32.06,Default,,0,0,0,,What!? We're allowed?
 Dialogue: 0,0:15:35.03,0:15:36.87,Background,,0,0,0,,Here, this is the room of Yuugen.
 Dialogue: 0,0:15:37.98,0:15:39.81,Default,,0,0,0,,It's so dark, I can't see anything.
@@ -357,13 +357,13 @@ Dialogue: 0,0:16:37.38,0:16:39.03,Default,,0,0,0,,Next year, I too will...
 Dialogue: 0,0:16:46.58,0:16:49.68,Background,,0,0,0,,We'll be taking a memorial\Npicture before the match.
 Dialogue: 0,0:16:56.23,0:17:00.29,Default,,0,0,0,,Take some extras. He may\Nbecome big in the future.
 Dialogue: 0,0:17:00.79,0:17:01.59,Default,,0,0,0,,Gotcha.
-Dialogue: 0,0:17:03.21,0:17:05.47,Default,,0,0,0,,Could you face each other and converse a little?
+Dialogue: 0,0:17:03.17,0:17:05.47,Default,,0,0,0,,Could you face each other and converse a little?
 Dialogue: 0,0:17:06.27,0:17:08.62,Default,,0,0,0,,Converse he said Touya-kun.
 Dialogue: 0,0:17:09.17,0:17:13.90,Default,,0,0,0,,I'll be fighting you with all my\Nstrength today. My regards to you.
 Dialogue: 0,0:17:14.37,0:17:16.22,Default,,0,0,0,,Oh, you have my regards as well.
 Dialogue: 0,0:17:16.79,0:17:20.07,Default,,0,0,0,,Don't be scared by my title of Ouza.
 Dialogue: 0,0:17:20.44,0:17:24.48,Default,,0,0,0,,We're all the same once we're pro.\NYou can't win if you lose emotionally.
-Dialogue: 0,0:17:25.08,0:17:27.44,Default,,0,0,0,,Come at me thinking that\NI'm a new pro just like you.
+Dialogue: 0,0:17:25.02,0:17:27.44,Default,,0,0,0,,Come at me thinking that\NI'm a new pro just like you.
 Dialogue: 0,0:17:28.09,0:17:30.19,Default,,0,0,0,,Yes. I intend to do so.
 Dialogue: 0,0:17:35.94,0:17:39.48,Thinking,,0,0,0,,He intends to do so? How arrogant of him.
 Dialogue: 0,0:17:41.60,0:17:43.91,Background,,0,0,0,,Could you look this way please?
@@ -372,12 +372,12 @@ Dialogue: 0,0:17:46.60,0:17:48.05,Thinking,,0,0,0,,I'll crush him.
 Dialogue: 0,0:17:53.70,0:17:56.30,Thinking,,0,0,0,,Has Touya's match started yet?
 Dialogue: 0,0:17:57.26,0:18:00.65,Sai,,0,0,0,,Hikaru, concentrate on the\Nmatch before you for now!
 Dialogue: 0,0:18:00.85,0:18:02.81,Default,,0,0,0,,I-I know!
-Dialogue: 0,0:18:06.16,0:18:09.24,Default,,0,0,0,,This isn't the first time you've been in\Nthe room of Yuugen right Touya-kun?
-Dialogue: 0,0:18:09.77,0:18:11.19,Default,,0,0,0,,No, it's my first time.
-Dialogue: 0,0:18:11.63,0:18:14.78,Default,,0,0,0,,It may be your first time playing, but\Nyou've been in here before at least right?
+Dialogue: 0,0:18:06.11,0:18:09.24,Default,,0,0,0,,This isn't the first time you've been in\Nthe room of Yuugen right Touya-kun?
+Dialogue: 0,0:18:09.74,0:18:11.19,Default,,0,0,0,,No, it's my first time.
+Dialogue: 0,0:18:11.57,0:18:14.78,Default,,0,0,0,,It may be your first time playing, but\Nyou've been in here before at least right?
 Dialogue: 0,0:18:14.92,0:18:20.00,Default,,0,0,0,,Your father is a regular here.\NHave you never come with him?
 Dialogue: 0,0:18:20.18,0:18:21.33,Default,,0,0,0,,No, not even once.
-Dialogue: 0,0:18:21.75,0:18:24.66,Default,,0,0,0,,You've never even sat here to\Nkeep time or record the moves?
+Dialogue: 0,0:18:21.71,0:18:24.66,Default,,0,0,0,,You've never even sat here to\Nkeep time or record the moves?
 Dialogue: 0,0:18:25.47,0:18:30.05,Default,,0,0,0,,I was not an Insei, so I've\Nnever kept time or records.
 Dialogue: 0,0:18:30.47,0:18:32.64,Default,,0,0,0,,What? You were never an Insei?
 Dialogue: 0,0:18:33.07,0:18:36.64,Default,,0,0,0,,Oh! But jobs like that come to new pros too right?
@@ -401,7 +401,7 @@ Dialogue: 0,0:19:59.02,0:20:01.66,Default,,0,0,0,,Oh yes, Mashiba-kun, you were 
 Dialogue: 0,0:20:02.05,0:20:04.21,Default,,0,0,0,,Kuwabara-sensei was really scary.
 Dialogue: 0,0:20:05.69,0:20:09.90,Background,,0,0,0,,Kuwabara-sensei slammed the stone onto\Nthe board really load on his first move.
 Dialogue: 0,0:20:10.31,0:20:14.44,Default,,0,0,0,,Hehe, you can't be getting swallowed\Nup by such obvious scare tactics.
-Dialogue: 0,0:20:14.91,0:20:17.32,Default,,0,0,0,,Kuwabara-sensei's just the type of person to do it.
+Dialogue: 0,0:20:14.86,0:20:17.32,Default,,0,0,0,,Kuwabara-sensei's just the type of person to do it.
 Dialogue: 0,0:20:17.94,0:20:20.78,Default,,0,0,0,,Well, let's see what happens with today's match.
 Dialogue: 0,0:22:30.58,0:22:33.36,Default,,0,0,0,,Wow, Yuuki-kun, you took a lot.
 Dialogue: 0,0:22:33.90,0:22:35.00,Default,,0,0,0,,That was harsh.

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 24 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 192
-Active Line: 208
-Video Position: 33591
+Scroll Position: 216
+Active Line: 194
+Video Position: 28942
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,7 +128,7 @@ Dialogue: 0,0:04:20.44,0:04:21.63,Default,,0,0,0,,Oh, yes.
 Dialogue: 0,0:04:22.26,0:04:27.26,Default,,0,0,0,,Isumi-san is stronger than I\Nam. I just passed out of luck.
 Dialogue: 0,0:04:27.91,0:04:31.97,Thinking,,0,0,0,,Tsk. Mashiba-san's gloating over how he passed.
 Dialogue: 0,0:04:32.43,0:04:34.39,Default,,0,0,0,,Luck is part of your skills.
-Dialogue: 0,0:04:34.91,0:04:37.96,Default,,0,0,0,,Mashiba-kun might be the first\Nperson to defeat Touya Akira.
+Dialogue: 0,0:04:34.88,0:04:37.96,Default,,0,0,0,,Mashiba-kun might be the first\Nperson to defeat Touya Akira.
 Dialogue: 0,0:04:39.16,0:04:40.92,Default,,0,0,0,,That would be great!
 Dialogue: 0,0:04:41.32,0:04:45.00,Default,,0,0,0,,No offense, but none of you will\Nbe able to defeat Touya Akira.
 Dialogue: 0,0:04:46.02,0:04:47.68,Default,,0,0,0,,Even Zama-sensei is struggling.
@@ -137,7 +137,7 @@ Dialogue: 0,0:04:54.35,0:04:57.89,Default,,0,0,0,,It's not the way an Ouza would
 Dialogue: 0,0:04:58.61,0:04:59.90,Default,,0,0,0,,He is desperate.
 Dialogue: 0,0:05:00.56,0:05:03.72,Background,,0,0,0,,A title holder should just connect here.
 Dialogue: 0,0:05:04.96,0:05:07.59,Background,,0,0,0,,Zama-sensei intends to win no matter what.
-Dialogue: 0,0:05:08.54,0:05:10.62,Default,,0,0,0,,Isumi-san, let's replay the game over there.
+Dialogue: 0,0:05:08.50,0:05:10.62,Default,,0,0,0,,Isumi-san, let's replay the game over there.
 Dialogue: 0,0:05:12.12,0:05:16.14,Background,,0,0,0,,But Touya-kun's playing really well on the black.
 Dialogue: 0,0:05:17.19,0:05:20.84,Default,,0,0,0,,Zama-sensei's probably biting\Nthe tip of his fan right now.
 Dialogue: 0,0:05:20.85,0:05:24.05,Default,,0,0,0,,Oh! That habit Zama-sensei has when he's serious!
@@ -163,11 +163,11 @@ Dialogue: 0,0:06:55.73,0:07:04.61,Note,,0,0,0,,[note: Zama can cut a point in To
 Dialogue: 0,0:07:13.04,0:07:16.75,Note,,0,0,45,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Touya tosses his stone in
 Dialogue: 0,0:07:13.04,0:07:16.75,Note,,0,0,312,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Biting the fan!
 Dialogue: 0,0:07:29.84,0:07:33.60,Thinking,,0,0,0,,{\1c&HC5FEC1&}Black's throw in is a strong move\Nthat won't let White relax at all.
-Dialogue: 0,0:07:34.44,0:07:36.52,Thinking,,0,0,0,,{\1c&HC5FEC1&}Everything depends upon white's response to it.
+Dialogue: 0,0:07:34.39,0:07:36.52,Thinking,,0,0,0,,{\1c&HC5FEC1&}Everything depends upon white's response to it.
 Dialogue: 0,0:07:38.14,0:07:43.53,Thinking,,0,0,0,,{\1c&HC5FEC1&}If white cuts, the battle will be very complex. Black\Nwill be in danger, but white will be in danger too.
 Dialogue: 0,0:07:37.14,0:07:45.11,Note,,0,0,0,,[note: {\1c&H00FF00&}X {\1c&HDDDDDD&}marks where white can cut black's formation]
 Dialogue: 0,0:07:37.14,0:07:45.11,NoteTimes,,0,0,0,,{\1c&H00FF00&\bord3\fs45\pos(352,205)}X
-Dialogue: 0,0:08:08.92,0:08:10.30,Thinking,,0,0,0,,He captured instead of cutting!
+Dialogue: 0,0:08:08.88,0:08:10.30,Thinking,,0,0,0,,He captured instead of cutting!
 Dialogue: 0,0:08:10.87,0:08:12.66,Thinking,,0,0,0,,White cowered out!
 Dialogue: 0,0:08:25.61,0:08:28.64,Default,,0,0,0,,Wow, the Ouza avoided a battle!
 Dialogue: 0,0:08:29.21,0:08:32.13,Default,,0,0,0,,If white had cut, this, and this?
@@ -175,12 +175,12 @@ Dialogue: 0,0:08:32.35,0:08:35.57,Default,,0,0,0,,Yeah... both white and black a
 Dialogue: 0,0:08:36.03,0:08:39.91,Default,,0,0,0,,Zama-sensei probably avoided\Nbattle out of confidence.
 Dialogue: 0,0:08:40.17,0:08:45.12,Default,,0,0,0,,No he didn't. He thought he shouldn't cross\Na faulty bridge against a mere new pro.
 Dialogue: 0,0:08:46.07,0:08:48.84,Background,,0,0,0,,He's hesitating over Touya Akira's strength.
-Dialogue: 0,0:08:50.08,0:08:54.97,Default,,0,0,0,,Zama-sensei must be really bitter over\Nthat. He didn't just pull back, he's\Ncoming into action in a lot of places.
-Dialogue: 0,0:08:55.37,0:08:57.72,Default,,0,0,0,,But will he have a chance to come back?
-Dialogue: 0,0:08:58.63,0:09:02.31,Background,,0,0,0,,Black's in the lead! Protect your territory\Nand run towards the goal Akira-kun!
+Dialogue: 0,0:08:50.05,0:08:54.97,Default,,0,0,0,,Zama-sensei must be really bitter over\Nthat. He didn't just pull back, he's\Ncoming into action in a lot of places.
+Dialogue: 0,0:08:55.26,0:08:57.72,Default,,0,0,0,,But will he have a chance to come back?
+Dialogue: 0,0:08:58.60,0:09:02.31,Background,,0,0,0,,Black's in the lead! Protect your territory\Nand run towards the goal Akira-kun!
 Dialogue: 0,0:09:02.62,0:09:06.85,Default,,0,0,0,,No, no. The Ouza won't let it end like this.
 Dialogue: 0,0:09:26.00,0:09:26.60,Thinking,,0,0,0,,Not yet...
-Dialogue: 0,0:09:27.29,0:09:28.38,Thinking,,0,0,0,,I won't defend just yet.
+Dialogue: 0,0:09:27.25,0:09:28.38,Thinking,,0,0,0,,I won't defend just yet.
 Dialogue: 0,0:09:29.41,0:09:30.88,Thinking,,0,0,0,,I'll move onward still!
 Dialogue: 0,0:09:32.80,0:09:37.89,Thinking,,0,0,0,,{\1c&HC5FEC1&}A Kifu of this match will remain.\NShindou will probably see it too.
 Dialogue: 0,0:09:40.66,0:09:41.60,Thinking,,0,0,0,,I'll show you!
@@ -193,7 +193,7 @@ Dialogue: 0,0:10:17.97,0:10:21.60,Default,,0,0,0,,And he still attacks. Is Touya
 Dialogue: 0,0:10:21.87,0:10:24.94,Default,,0,0,0,,Of course, Zama-sensei will attack\Nhim through that weakness.
 Dialogue: 0,0:10:25.26,0:10:26.80,Default,,0,0,0,,Zama-sensei's thinking?
 Dialogue: 0,0:10:27.67,0:10:28.90,Default,,0,0,0,,This is...
-Dialogue: 0,0:10:32.40,0:10:33.24,Default,,0,0,0,,How's Touya doing?
+Dialogue: 0,0:10:32.36,0:10:33.24,Default,,0,0,0,,How's Touya doing?
 Dialogue: 0,0:10:34.52,0:10:35.76,Default,,0,0,0,,Another observer?
 Dialogue: 0,0:10:35.76,0:10:37.10,Default,,0,0,0,,Shindou! Over here.
 Dialogue: 0,0:10:37.86,0:10:39.39,Default,,0,0,0,,Waya... Isumi-san.
@@ -201,7 +201,7 @@ Dialogue: 0,0:10:39.95,0:10:42.88,Default,,0,0,0,,Come over here, we'll replay t
 Dialogue: 0,0:10:46.78,0:10:48.75,Background,,0,0,0,,Touya is black and the Ouza is white.
 Dialogue: 0,0:10:48.87,0:10:52.97,Background,,0,0,0,,There's a handicap, not only does he\Ngo first, black also gets 5.5 moku komi.
 Dialogue: 0,0:10:53.19,0:10:54.55,Default,,0,0,0,,Oh, there's a handi?
-Dialogue: 0,0:10:55.18,0:10:59.76,Default,,0,0,0,,It's between a top pro and a new\Nfirst dan. Of course you'll need a\Nhandicap to make it a good match.
+Dialogue: 0,0:10:55.13,0:10:59.76,Default,,0,0,0,,It's between a top pro and a new\Nfirst dan. Of course you'll need a\Nhandicap to make it a good match.
 Dialogue: 0,0:10:59.95,0:11:08.47,Default,,0,0,0,,This is actually not enough for the new first\Ndan, but the top pro doesn't play seriously,\Nso it turns out to be a close match.
 Dialogue: 0,0:11:09.43,0:11:11.77,Default,,0,0,0,,Then Touya's got an easy win?
 Dialogue: 0,0:11:12.35,0:11:14.46,Default,,0,0,0,,But the Ouza is playing seriously today.
@@ -209,7 +209,7 @@ Dialogue: 0,0:11:14.62,0:11:16.30,Default,,0,0,0,,Using all his strength.
 Dialogue: 0,0:11:18.50,0:11:20.16,Background,,0,0,0,,But Touya's winning.
 Dialogue: 0,0:11:20.21,0:11:24.20,Background,,0,0,0,,Yeah! White responds by taking\Ninstead of cutting to black's throw in.
 Dialogue: 0,0:11:24.70,0:11:27.54,Background,,0,0,0,,The Ouza is playing carefully!\NAgainst a new first dan!
-Dialogue: 0,0:11:28.29,0:11:32.92,Default,,0,0,0,,He's playing patiently, not rushing the\Ngame, protecting his weaknesses, and\Nwaiting for his opponent to make a mistake.
+Dialogue: 0,0:11:28.25,0:11:32.92,Default,,0,0,0,,He's playing patiently, not rushing the\Ngame, protecting his weaknesses, and\Nwaiting for his opponent to make a mistake.
 Dialogue: 0,0:11:33.17,0:11:35.90,Default,,0,0,0,,And take the win for himself in the end.
 Dialogue: 0,0:11:36.28,0:11:38.80,Default,,0,0,0,,That's how Zama-sensei is playing today.
 Dialogue: 0,0:11:41.98,0:11:45.06,Default,,0,0,0,,But, Touya played here, instead of protecting here.
@@ -233,7 +233,7 @@ Dialogue: 0,0:13:35.46,0:13:38.42,Sai,,0,0,0,,of the heart of the ones placing t
 Dialogue: 0,0:13:39.43,0:13:45.70,Sai,,0,0,0,,Now, the sound of the stones, is\Nresounding through that stinging air.
 Dialogue: 0,0:13:56.42,0:13:58.65,Memory,,0,0,0,,Come after me with his skills?
 Dialogue: 0,0:14:08.44,0:14:14.40,Memory,,0,0,0,,Then, I'll move forward, to a\Nplace that he can never reach!
-Dialogue: 0,0:14:23.67,0:14:24.93,Thinking,,0,0,0,,I won't let him come near me!
+Dialogue: 0,0:14:23.63,0:14:24.93,Thinking,,0,0,0,,I won't let him come near me!
 Dialogue: 0,0:14:29.60,0:14:32.42,Thinking,,0,0,0,,It doesn't matter who chases after me from behind.
 Dialogue: 0,0:14:36.73,0:14:39.75,Thinking,,0,0,0,,What I see is the 500 pro players.
 Dialogue: 0,0:14:40.39,0:14:43.47,Thinking,,0,0,0,,And just forward! I'll just move forward!
@@ -243,13 +243,13 @@ Dialogue: 0,0:14:57.42,0:15:00.71,Default,,0,0,0,,Did you think I'd respond here
 Dialogue: 0,0:15:09.21,0:15:10.50,Default,,0,0,0,,I won't.
 Dialogue: 0,0:15:11.40,0:15:14.90,Default,,0,0,0,,You planned on coming here after that move right?
 Dialogue: 0,0:15:15.35,0:15:16.40,Default,,0,0,0,,Too late.
-Dialogue: 0,0:15:17.38,0:15:22.23,Default,,0,0,0,,If it's a young one studying under the Touya family,\Nhe probably would've responded there by impulse.
+Dialogue: 0,0:15:17.35,0:15:22.23,Default,,0,0,0,,If it's a young one studying under the Touya family,\Nhe probably would've responded there by impulse.
 Dialogue: 0,0:15:22.82,0:15:29.61,Default,,0,0,0,,Hey! Who do you think is\Nsitting before you right now?
 Dialogue: 0,0:15:40.65,0:15:42.04,Default,,0,0,0,,Now it's even.
 Dialogue: 0,0:16:23.89,0:16:25.20,Default,,0,0,0,,He was caught off guard...
 Dialogue: 0,0:16:26.29,0:16:29.30,Default,,0,0,0,,That last move made the winner uncertain...
 Dialogue: 0,0:16:30.42,0:16:34.30,Background,,0,0,0,,That's Zama sensei... I would've\Nresponded there on impulse...
-Dialogue: 0,0:16:35.79,0:16:36.93,Background,,0,0,0,,It's already in the end game...
+Dialogue: 0,0:16:35.77,0:16:36.93,Background,,0,0,0,,It's already in the end game...
 Dialogue: 0,0:16:38.18,0:16:39.30,Background,,0,0,0,,This is close.
 Dialogue: 0,0:16:50.71,0:16:51.40,Sai,,0,0,0,,Hikaru?
 Dialogue: 0,0:16:53.20,0:16:55.91,Default,,0,0,0,,Will the match end with the victor uncertain?
@@ -283,7 +283,7 @@ Dialogue: 0,0:19:41.61,0:19:44.66,Default,,0,0,0,,Touya's going to keep moving f
 Dialogue: 0,0:19:45.04,0:19:46.79,Default,,0,0,0,,Man he's really worth chasing!
 Dialogue: 0,0:19:53.30,0:19:56.22,Sai,,0,0,0,,But, Hikaru you've come a long way too.
 Dialogue: 0,0:19:56.74,0:19:58.92,Default,,0,0,0,,Yeah. It's all thanks to Touya.
-Dialogue: 0,0:20:01.27,0:20:05.20,Default,,0,0,0,,If I keep chasing after Touya, maybe I'll be\Nable to become Meijin or anything I want!
+Dialogue: 0,0:20:01.22,0:20:05.20,Default,,0,0,0,,If I keep chasing after Touya, maybe I'll be\Nable to become Meijin or anything I want!
 Dialogue: 0,0:20:07.12,0:20:14.45,Thinking,,0,0,0,,{\1c&HFEFECE&}Touya Akira probably would have kept walking his\Nown path without stopping if he hadn't met Hikaru.
 Dialogue: 0,0:20:16.30,0:20:19.95,Thinking,,0,0,0,,{\1c&HFEFECE&}He stops and turns back, and pulls Hikaru along.
 Dialogue: 0,0:20:20.97,0:20:21.59,Thinking,,0,0,0,,{\1c&HFEFECE&}As if...
