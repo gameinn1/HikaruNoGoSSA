@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 31
-Active Line: 53
-Video Position: 7386
+Scroll Position: 336
+Active Line: 345
+Video Position: 27739
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -133,29 +133,33 @@ Dialogue: 0,0:04:50.92,0:04:54.42,Thinking,,0,0,0,,But... is he serious about re
 Dialogue: 0,0:04:57.01,0:05:00.66,Memory,,0,0,0,,If I were to lose, I will retire.
 Dialogue: 0,0:05:01.81,0:05:03.19,Thinking,,0,0,0,,He's probably serious.
 Dialogue: 0,0:05:04.25,0:05:08.05,Thinking,,0,0,0,,Man, why is that family so stubborn!?
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy160\pos(95,90)}Players
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H5F3CB3&\3c&HDEDBC2&\bord0\blur0\shad0\fscx102\fscy120\pos(332,94)}Display all Users
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs10\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy180\pos(427,92)}Refresh
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy180\pos(494,92)}PLAY
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy180\pos(561,92)}BACK
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs21\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy60\pos(98.215,128)}USER-ID
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs15\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy90\pos(180,127)}Nation
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy90\pos(272,128)}Wins
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy90\pos(305,128)}Loss
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscx102\fscy90\pos(403,127)}Information
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy130\pos(527,138)}PAIR GO
-Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy130\pos(527,185)}SETUP
-Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs10\1c&HCB9A2E&\3c&HDEDBC2&\bord0\blur0\shad0\fscy130\pos(528,227)}Current Display Settings
+Comment: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,Colour choice for the boxes needs looked at.
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\1c&HD8D8BD&\an7\bord0\shad0\pos(0,0)}{\p1}m 70 91 l 118 91 118 111 70 111 m 294 90 l 367 91 367 110 295 109 m 411 91 l 444 91 444 111 411 110 m 478 91 l 510 91 511 111 479 110 m 478 91 l 510 92 510 111 479 111 m 548 91 l 579 91 580 111 547 111 m 490 138 l 564 138 564 161 490 159 m 509 185 l 547 184 547 208 510 207 m 477 226 l 576 225 577 244 477 244{\p0}
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\1c&HD8D8BD&\an7\bord0\shad0\pos(0,0)}{\p1}m 58 126 l 139 126 138 142 58 141 m 160 126 l 191 126 191 142 160 142 m 259 126 l 286 126 286 142 259 142 m 290 126 l 319 126 319 142 290 142 m 358 126 l 448 126 449 142 358 142{\p0}
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy160\pos(95,90)}Players
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H5F3CB3&\3c&HDEDBC2&\bord0\blur1\shad0\fscx102\fscy120\pos(332,94)}Display all Users
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs10\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy180\pos(427,92)}Refresh
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy180\pos(494,92)}PLAY
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs11\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy180\pos(561,92)}BACK
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs21\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy60\pos(98.215,128)}USER-ID
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs15\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy90\pos(180,127)}Nation
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy90\pos(272,128)}Wins
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs13\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy90\pos(305,128)}Loss
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscx102\fscy90\pos(403,127)}Information
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy130\pos(527,138)}PAIR GO
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs16\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy130\pos(527,185)}SETUP
+Dialogue: 0,0:05:08.04,0:05:10.62,NoteArial,,0,0,0,,{\fs10\1c&HCB9A2E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy130\pos(528,227)}Current Display Settings
 Dialogue: 0,0:05:11.51,0:05:12.51,Thinking,,0,0,0,,He's not there yet.
 Dialogue: 0,0:05:14.29,0:05:15.13,Thinking,,0,0,0,,Sai?
 Dialogue: 0,0:05:21.76,0:05:22.52,Thinking,,0,0,0,,There he is!
 Dialogue: 0,0:05:26.24,0:05:27.24,Thinking,,0,0,0,,If...
 Dialogue: 0,0:05:27.97,0:05:29.43,Thinking,,0,0,0,,If Sai wins...
-Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs39.5\1c&H2E260E&\3c&HDEDBC2&\bord15\shad0\fscy170\pos(96,169)}Refresh
-Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs42\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscy160\pos(362,168)}PLAY
-Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs42\1c&H2E260E&\3c&HDEDBC2&\bord12\blur0\shad0\fscy160\pos(612,168)}EXIT
-Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs76\1c&H2E260E&\3c&HDEDBC2&\bord21\blur0\shad0\fscy110\pos(492,353)}PAIR GO
-Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs65\1c&H2E260E&\3c&HDEDBC2&\bord14\blur0\shad0\fscy87\pos(6,307)}Information
+Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\1c&HD8D8BD&\an7\bord0\shad0\pos(0,0)}{\p1}m 37 174 l 161 175 160 240 37 242 m 298 174 l 420 174 421 240 299 238 m 572 176 l 639 176 639 237 572 237 m 0 308 l 179 309 177 365 0 366 m 344 358 l 626 356 626 438 344 432{\p0}
+Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs39.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy170\pos(96,169)}Refresh
+Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs42\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy160\pos(362,168)}PLAY
+Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs42\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy160\pos(612,168)}EXIT
+Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs76\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy110\pos(492,353)}PAIR GO
+Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs65\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy87\pos(6,307)}Information
 Dialogue: 0,0:05:29.83,0:05:32.12,Thinking,,0,0,0,,is he really going to retire?
 Dialogue: 0,0:05:33.31,0:05:36.26,Default,,0,0,0,,An even match with a komi of 5.5...
 Dialogue: 0,0:05:37.13,0:05:40.03,Default,,0,0,0,,Three hours on each of our clocks...
@@ -247,39 +251,65 @@ Dialogue: 0,0:09:19.33,0:09:21.37,Default,,0,0,0,,Besides, isn't he still in the
 Dialogue: 0,0:09:22.09,0:09:25.12,Default,,0,0,0,,Well, I guess he could play\Nif he had a private room.
 Dialogue: 0,0:09:27.19,0:09:29.43,Default,,0,0,0,,It can't be him, though.
 Dialogue: 0,0:09:30.84,0:09:34.30,Default,,0,0,0,,He's in a match. Who is he playing?
-Comment: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,Remember to blur this and WHITE to probably 2 if doing box method.
-Dialogue: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(205,90)}BLACK
-Dialogue: 0,0:09:35.14,0:09:35.55,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\move(205,90,-155,90)}BLACK
-Dialogue: 0,0:09:35.39,0:09:35.43,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(725,90)}WHITE
-Dialogue: 0,0:09:35.43,0:09:35.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(693,90)}WHITE
-Dialogue: 0,0:09:35.43,0:09:35.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(693,90)}WHITE
-Dialogue: 0,0:09:35.47,0:09:35.51,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(664,90)}WHITE
-Dialogue: 0,0:09:35.51,0:09:35.55,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(631,90)}WHITE
-Dialogue: 0,0:09:35.55,0:09:35.60,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(572,90)}WHITE
-Dialogue: 0,0:09:35.60,0:09:35.64,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(542,90)}WHITE
-Dialogue: 0,0:09:35.64,0:09:35.68,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(520,90)}WHITE
-Dialogue: 0,0:09:35.68,0:09:35.72,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(493,90)}WHITE
-Dialogue: 0,0:09:35.72,0:09:35.76,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(449,90)}WHITE
-Dialogue: 0,0:09:35.76,0:09:35.81,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(430,90)}WHITE
-Dialogue: 0,0:09:35.81,0:09:35.85,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(415,90)}WHITE
-Dialogue: 0,0:09:35.85,0:09:35.89,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(390,90)}WHITE
-Dialogue: 0,0:09:35.89,0:09:35.93,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(380,90)}WHITE
-Dialogue: 0,0:09:35.93,0:09:35.97,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(373,90)}WHITE
-Dialogue: 0,0:09:35.97,0:09:36.01,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(366,90)}WHITE
-Dialogue: 0,0:09:36.01,0:09:36.06,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(360,90)}WHITE
-Dialogue: 0,0:09:36.06,0:09:36.10,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(354,90)}WHITE
-Dialogue: 0,0:09:36.10,0:09:36.14,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(350,90)}WHITE
-Dialogue: 0,0:09:36.14,0:09:36.18,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(348,90)}WHITE
-Dialogue: 0,0:09:36.18,0:09:36.22,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(346,90)}WHITE
-Dialogue: 0,0:09:36.22,0:09:36.26,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(344,90)}WHITE
-Dialogue: 0,0:09:36.26,0:09:36.31,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(342,90)}WHITE
-Dialogue: 0,0:09:36.31,0:09:36.35,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(341,90)}WHITE
-Dialogue: 0,0:09:36.35,0:09:36.39,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(340,90)}WHITE
-Dialogue: 0,0:09:36.39,0:09:36.43,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(339,90)}WHITE
-Dialogue: 0,0:09:36.43,0:09:36.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(338,90)}WHITE
+Dialogue: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,{\1c&HD8D8BD&\an7\bord0\shad0\pos(0,0)}{\p1}m 79 94 l 266 93 266 184 78 183{\p0}
+Dialogue: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(205,90)}BLACK
+Dialogue: 0,0:09:35.14,0:09:35.55,NoteArial,,0,0,0,,{\1c&HD8D8BD&\an7\bord0\shad0\move(10,0,-250,0}{\p1}m 48 91 l 234 92 235 184 48 183{\p0}
+Dialogue: 0,0:09:35.14,0:09:35.55,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\move(205,90,-155,90)}BLACK
+Dialogue: 1,0:09:35.39,0:09:35.43,NoteArial,1,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(725,90)}WHITE
+Dialogue: 0,0:09:35.39,0:09:35.43,NoteArial,1,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(725,90)}WHITE
+Dialogue: 1,0:09:35.43,0:09:35.47,NoteArial,2,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(693,90)}WHITE
+Dialogue: 0,0:09:35.43,0:09:35.47,NoteArial,2,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(693,90)}WHITE
+Dialogue: 1,0:09:35.47,0:09:35.51,NoteArial,3,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(664,90)}WHITE
+Dialogue: 0,0:09:35.47,0:09:35.51,NoteArial,3,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(664,90)}WHITE
+Dialogue: 1,0:09:35.51,0:09:35.55,NoteArial,4,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(631,90)}WHITE
+Dialogue: 0,0:09:35.51,0:09:35.55,NoteArial,4,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(631,90)}WHITE
+Dialogue: 1,0:09:35.55,0:09:35.60,NoteArial,5,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(572,90)}WHITE
+Dialogue: 0,0:09:35.55,0:09:35.60,NoteArial,5,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(572,90)}WHITE
+Dialogue: 1,0:09:35.60,0:09:35.64,NoteArial,6,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(542,90)}WHITE
+Dialogue: 0,0:09:35.60,0:09:35.64,NoteArial,6,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(542,90)}WHITE
+Dialogue: 1,0:09:35.64,0:09:35.68,NoteArial,7,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(520,90)}WHITE
+Dialogue: 0,0:09:35.64,0:09:35.68,NoteArial,7,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(520,90)}WHITE
+Dialogue: 1,0:09:35.68,0:09:35.72,NoteArial,8,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(493,90)}WHITE
+Dialogue: 0,0:09:35.68,0:09:35.72,NoteArial,8,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(493,90)}WHITE
+Dialogue: 1,0:09:35.72,0:09:35.76,NoteArial,9,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(449,90)}WHITE
+Dialogue: 0,0:09:35.72,0:09:35.76,NoteArial,9,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(449,90)}WHITE
+Dialogue: 1,0:09:35.76,0:09:35.81,NoteArial,10,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(430,90)}WHITE
+Dialogue: 0,0:09:35.76,0:09:35.81,NoteArial,10,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(430,90)}WHITE
+Dialogue: 1,0:09:35.81,0:09:35.85,NoteArial,11,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(415,90)}WHITE
+Dialogue: 0,0:09:35.81,0:09:35.85,NoteArial,11,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(415,90)}WHITE
+Dialogue: 1,0:09:35.85,0:09:35.89,NoteArial,12,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(390,90)}WHITE
+Dialogue: 0,0:09:35.85,0:09:35.89,NoteArial,12,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(390,90)}WHITE
+Dialogue: 1,0:09:35.89,0:09:35.93,NoteArial,13,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(380,90)}WHITE
+Dialogue: 0,0:09:35.89,0:09:35.93,NoteArial,13,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(380,90)}WHITE
+Dialogue: 1,0:09:35.93,0:09:35.97,NoteArial,14,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(373,90)}WHITE
+Dialogue: 0,0:09:35.93,0:09:35.97,NoteArial,14,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(373,90)}WHITE
+Dialogue: 1,0:09:35.97,0:09:36.01,NoteArial,15,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(366,90)}WHITE
+Dialogue: 0,0:09:35.97,0:09:36.01,NoteArial,15,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(366,90)}WHITE
+Dialogue: 1,0:09:36.01,0:09:36.06,NoteArial,16,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(360,90)}WHITE
+Dialogue: 0,0:09:36.01,0:09:36.06,NoteArial,16,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(360,90)}WHITE
+Dialogue: 1,0:09:36.06,0:09:36.10,NoteArial,17,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(354,90)}WHITE
+Dialogue: 0,0:09:36.06,0:09:36.10,NoteArial,17,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(354,90)}WHITE
+Dialogue: 1,0:09:36.10,0:09:36.14,NoteArial,18,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(350,90)}WHITE
+Dialogue: 0,0:09:36.10,0:09:36.14,NoteArial,18,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(350,90)}WHITE
+Dialogue: 1,0:09:36.14,0:09:36.18,NoteArial,19,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(348,90)}WHITE
+Dialogue: 0,0:09:36.14,0:09:36.18,NoteArial,19,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(348,90)}WHITE
+Dialogue: 1,0:09:36.18,0:09:36.22,NoteArial,20,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(346,90)}WHITE
+Dialogue: 0,0:09:36.18,0:09:36.22,NoteArial,20,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(346,90)}WHITE
+Dialogue: 1,0:09:36.22,0:09:36.26,NoteArial,21,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(344,90)}WHITE
+Dialogue: 0,0:09:36.22,0:09:36.26,NoteArial,21,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(344,90)}WHITE
+Dialogue: 1,0:09:36.26,0:09:36.31,NoteArial,22,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(342,90)}WHITE
+Dialogue: 0,0:09:36.26,0:09:36.31,NoteArial,22,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(342,90)}WHITE
+Dialogue: 1,0:09:36.31,0:09:36.35,NoteArial,23,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(341,90)}WHITE
+Dialogue: 0,0:09:36.31,0:09:36.35,NoteArial,23,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(341,90)}WHITE
+Dialogue: 1,0:09:36.35,0:09:36.39,NoteArial,24,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(340,90)}WHITE
+Dialogue: 0,0:09:36.35,0:09:36.39,NoteArial,24,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(340,90)}WHITE
+Dialogue: 1,0:09:36.39,0:09:36.43,NoteArial,25,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(339,90)}WHITE
+Dialogue: 0,0:09:36.39,0:09:36.43,NoteArial,25,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(339,90)}WHITE
+Dialogue: 1,0:09:36.43,0:09:36.47,NoteArial,26,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(338,90)}WHITE
+Dialogue: 0,0:09:36.43,0:09:36.47,NoteArial,26,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(338,90)}WHITE
 Dialogue: 0,0:09:36.97,0:09:38.02,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:09:38.39,0:09:40.43,Default,,0,0,0,,What!? They're playing each other?
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 482 37 l 515 37 l 515 53 l 482 53 m 480 80 l 605 80 l 605 98 l 480 98 m 478 110 l 620 110 l 620 128 l 478 128 m 479 147 l 516 147 l 516 164 l 479 164 m 478 194 l 606 194 l 606 210 l 478 210 m 478 222 l 620 222 l 620 240 l 478 240 m 477 259 l 546 259 l 546 275 l 477 275 m 478 280 l 584 280 l 584 297 l 478 297 m 477 304 l 514 304 l 514 325 l 477 325 m 583 305 l 617 305 l 617 322 l 583 322 m 498 378 l 530 378 l 530 397 l 498 397 m 562 379 l 628 379 l 628 396 l 562 396 m 522 413 l 586 413 l 586 431 l 522 431{\p0}
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 482 37 l 515 37 l 515 53 l 482 53 m 480 80 l 605 80 l 605 98 l 480 98 m 478 110 l 620 110 l 620 128 l 478 128 m 479 147 l 516 147 l 516 164 l 479 164 m 478 194 l 606 194 l 606 210 l 478 210 m 478 222 l 620 222 l 620 240 l 478 240 m 477 259 l 546 259 l 546 275 l 477 275 m 478 280 l 584 280 l 584 298 l 478 298 m 477 304 l 514 304 l 514 325 l 477 325 m 583 305 l 617 305 l 617 322 l 583 322 m 498 378 l 530 378 l 530 397 l 498 397 m 562 379 l 628 379 l 628 396 l 562 396 m 522 413 l 586 413 l 586 431 l 522 431{\p0}
 Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx97\fscy110\pos(483,40)}WHITE
 Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx97\pos(480,84)}Captured: 0 Stones
 Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx97\pos(480,113)}Rem. Time: 165 / 180
@@ -297,10 +327,10 @@ Dialogue: 0,0:09:41.28,0:09:42.90,Background,,0,0,0,,It just started.
 Dialogue: 0,0:09:44.86,0:09:46.96,Default,,0,0,0,,Touya Kouyou against Sai!?
 Dialogue: 0,0:09:47.15,0:09:49.78,Default,,0,0,0,,It would be an incredible match\Nif they were the real thing.
 Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 81 8 l 196 8 l 196 64 l 81 64 m 77 174 l 295 174 l 295 227 l 77 227 m 321 191 l 332 191 l 332 201 l 321 201 m 321 212 l 332 212 l 332 224 l 321 224 m 428 177 l 545 177 l 545 227 l 428 227 m 72 282 l 296 282 l 296 334 l 72 334 m 348 277 l 583 277 l 583 333 l 348 333 m 73 405 l 306 405 l 306 461 l 73 461{\p0}
-Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs44\blur1\fscy110\pos(87,16)}BLACK
-Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs56\blur1\fscy110\pos(84,175)}Captured: 0 Stones
-Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs56\blur1\fscy110\pos(84,277)}Rem.Time: 165 / 180
-Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs44\blur1\fscy110\pos(86,412)}MATCH INFO
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs44\blur2\fscy110\pos(87,16)}BLACK
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs56\blur2\fscy110\pos(84,175)}Captured: 0 Stones
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs56\blur2\fscy110\pos(84,277)}Rem.Time: 165 / 180
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs44\blur2\fscy110\pos(86,412)}MATCH INFO
 Dialogue: 0,0:09:50.92,0:09:55.28,Default,,0,0,0,,Hmm? They have three hours!? On the net!?
 Dialogue: 0,0:10:00.09,0:10:03.04,Default,,0,0,0,,Could it be.... the Meijin!?
 Dialogue: 0,0:10:06.04,0:10:06.92,Default,,0,0,0,,Could it be...
