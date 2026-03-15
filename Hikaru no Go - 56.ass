@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 282
-Active Line: 306
-Video Position: 35476
+Scroll Position: 197
+Active Line: 224
+Video Position: 24482
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -130,7 +130,8 @@ Dialogue: 0,0:05:20.93,0:05:25.10,Thinking,,0,0,0,,Then... this match was schedu
 Dialogue: 0,0:05:25.74,0:05:27.59,Thinking,,0,0,0,,When did he schedule it?
 Dialogue: 0,0:05:28.23,0:05:29.14,Thinking,,0,0,0,,And with who!?
 Dialogue: 0,0:05:33.40,0:05:34.23,Default,,0,0,0,,This is it!
-Dialogue: 0,0:05:35.11,0:05:37.44,NoteArial,,0,0,0,,{\fs125\1c&H6C522B&\3c&HEEDEB6&\bord22\blur0\shad0\fscy150\pos(415,-43)}WHITE
+Dialogue: 0,0:05:35.11,0:05:37.44,NoteArial,,0,0,0,,{\1c&HEEDEB6&\an7\bord0\shad0\pos(0,0)}{\p1}m 565 0 l 561 116 228 112 228 0{\p0}
+Dialogue: 0,0:05:35.11,0:05:37.44,NoteArial,,0,0,0,,{\fs125\1c&H6C522B&\3c&HEEDEB6&\bord0\blur2\shad0\fscy150\pos(415,-42)}WHITE
 Dialogue: 0,0:05:39.11,0:05:39.99,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:06:05.77,0:06:07.85,Default,,0,0,0,,Master Touya is thinking.
 Dialogue: 0,0:06:08.27,0:06:10.53,Default,,0,0,0,,Why!? They're already near the end.
@@ -251,6 +252,7 @@ Dialogue: 0,0:13:14.02,0:13:15.10,Thinking,,0,0,0,,This atmosphere...
 Dialogue: 0,0:13:16.28,0:13:17.53,Thinking,,0,0,0,,This pressure...
 Dialogue: 0,0:13:18.57,0:13:20.57,Thinking,,0,0,0,,I've felt it all before.
 Dialogue: 0,0:13:22.45,0:13:23.32,Thinking,,0,0,0,,This is!
+Dialogue: 0,0:13:54.15,0:14:02.15,NoteArial,,0,0,0,,{\1c&HE5DBC4&\an7\bord0\shad0\pos(0,0)}{\p1}m 563 27 l 597 27 597 44 563 45 m 559 75 l 639 76 639 92 559 92 m 558 107 l 628 107 628 126 558 127 m 562 147 l 597 146 597 166 562 166 m 559 197 l 639 198 639 215 559 215 m 558 230 l 627 230 627 249 558 249 m 559 267 l 630 267 631 286 559 286 m 558 293 l 641 293 641 310 558 310 m 556 319 l 596 320 597 339 557 338 m 579 398 l 614 398 614 418 579 418 m 606 436 l 641 435 641 455 606 455{\p0}
 Dialogue: 0,0:13:54.15,0:14:02.15,NoteArial,,0,0,0,,{\1c&H2E260E&\fs14\blur1\bord0\shad0\fscx99\fscy110\pos(580,29)}WHITE
 Dialogue: 0,0:13:54.15,0:14:02.15,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\bord0\shad0\fscx100\fscy110\pos(597,75)}Captured:
 Dialogue: 0,0:13:54.15,0:14:02.15,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\bord0\shad0\fscx100\fscy110\pos(600,106)}Rem.Time:
@@ -273,6 +275,7 @@ Dialogue: 0,0:14:17.58,0:14:19.96,Default,,0,0,0,,But... how many people are\Nab
 Dialogue: 0,0:14:20.42,0:14:23.63,Default,,0,0,0,,How many people can make this move!?
 Dialogue: 0,0:15:08.68,0:15:10.26,Default,,0,0,0,,Master Touya's moves...
 Dialogue: 0,0:15:11.31,0:15:14.18,Default,,0,0,0,,None of them looks like a bad move, but...
+Dialogue: 0,0:15:19.90,0:15:22.19,NoteArial,,0,0,0,,{\1c&HE5DBC4&\an7\bord0\shad0\pos(0,0)}{\p1}m 541 33 l 633 33 633 54 541 54 m 540 69 l 620 69 620 92 540 93 m 544 116 l 584 115 585 136 544 137 m 542 173 l 633 174 634 195 542 195 m 541 210 l 619 210 619 232 541 231 m 542 253 l 623 253 623 274 542 274 540 283 l 639 283 639 302 540 303 m 539 313 l 585 313 585 333 539 333 m 564 403 l 604 403 604 427 565 425 m 595 446 l 641 446 641 467 596 468{\p0}
 Dialogue: 0,0:15:19.90,0:15:22.19,NoteArial,,0,0,0,,{\1c&H2E260E&\fs20\blur1\bord0\shad0\fscx100\fscy110\pos(585,33)}Captured:
 Dialogue: 0,0:15:19.90,0:15:22.19,NoteArial,,0,0,0,,{\1c&H2E260E&\fs20\blur1\bord0\shad0\fscx100\fscy110\pos(589,70)}Rem.Time:
 Dialogue: 0,0:15:19.90,0:15:22.19,NoteArial,,0,0,0,,{\1c&H2E260E&\fs15.5\blur1\bord0\shad0\fscx100\fscy110\pos(567,118)}BLACK
@@ -300,6 +303,7 @@ Dialogue: 0,0:16:37.23,0:16:40.27,Thinking,,0,0,0,,Though it's difficult to play
 Dialogue: 0,0:16:40.60,0:16:42.75,Thinking,,0,0,0,,there is only one correct path to take.
 Dialogue: 0,0:16:45.69,0:16:47.83,Thinking,,0,0,0,,He won't make a mistake.
 Dialogue: 0,0:16:49.42,0:16:53.68,Thinking,,0,0,0,,He probably sees the final board just like I do.
+Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&HE5DBC4&\an7\bord0\shad0\pos(0,0)}{\p1}m 560 28 l 599 28 599 45 560 45 m 559 75 l 639 76 639 94 559 94 m 558 107 l 628 107 628 126 558 127 m 560 147 l 597 146 597 166 560 166 m 559 197 l 639 198 639 215 559 215 m 558 230 l 627 230 627 249 558 249 m 559 267 l 630 267 631 286 559 286 m 558 293 l 641 293 641 310 558 310 m 556 319 l 596 320 597 339 557 338 m 579 398 l 614 398 614 418 579 418 m 606 436 l 641 435 641 455 606 455{\p0}
 Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs14\blur1\bord0\shad0\fscx99\fscy110\pos(577,30)}WHITE
 Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\bord0\shad0\fscx100\fscy110\pos(596,76)}Captured:
 Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\bord0\shad0\fscx100\fscy110\pos(606,107)}Rem.Time: 1
@@ -311,8 +315,11 @@ Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\b
 Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\bord0\shad0\fscx100\fscy110\pos(579,319)}Move:
 Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\bord0\shad0\fscx100\fscy110\pos(593,398)}Chat
 Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\bord0\shad0\fscx100\fscy110\pos(612,435)}Stop Obse
+Dialogue: 0,0:17:02.42,0:17:02.46,NoteArial,,0,0,0,,{\1c&HFFFFE4&\an7\bord0\shad0\pos(0,0)}{\p1}m 295 236 l 336 236 336 255 296 255{\p0}
 Dialogue: 0,0:17:02.42,0:17:02.46,NoteArial,,0,0,0,,{\1c&H2E260E&\fs20.5\blur1\bord0\shad0\fscx100\fscy110\pos(321,235)}RESIGNS
+Dialogue: 0,0:17:02.46,0:17:02.50,NoteArial,,0,0,0,,{\1c&HFFFFE4&\an7\bord0\shad0\pos(0,0)}{\p1}m 287 235 l 342 235 341 259 287 260{\p0}
 Dialogue: 0,0:17:02.46,0:17:02.50,NoteArial,,0,0,0,,{\1c&H2E260E&\fs23\blur1\bord0\shad0\fscx100\fscy110\pos(320,235)}RESIGNS
+Dialogue: 0,0:17:02.50,0:17:04.59,NoteArial,,0,0,0,,{\1c&HFFFFE4&\an7\bord0\shad0\pos(0,0)}{\p1}m 278 233 l 346 233 346 267 279 266{\p0}
 Dialogue: 0,0:17:02.50,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs30\blur1\bord0\shad0\fscx100\fscy110\pos(322,234)}RESIGNS
 Dialogue: 0,0:17:06.13,0:17:07.01,Default,,0,0,0,,He resigned!?
 Dialogue: 0,0:17:07.59,0:17:09.63,Default,,0,0,0,,Master Touya resigned here!?
