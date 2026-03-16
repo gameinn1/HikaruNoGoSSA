@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 102
-Active Line: 110
-Video Position: 9572
+Scroll Position: 174
+Active Line: 197
+Video Position: 17564
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -258,28 +258,28 @@ Dialogue: 0,0:10:55.98,0:10:57.81,Default,,0,0,0,,Testing, testing.
 Dialogue: 0,0:10:58.39,0:11:04.35,Background,,0,0,0,,We're about to begin the award ceremony, and the\Nnew first dan certification ceremony.
 Dialogue: 0,0:11:05.15,0:11:08.35,Default,,0,0,0,,Anyone participating should gather at the main\Nhall.
 Dialogue: 0,0:11:08.80,0:11:13.22,Default,,0,0,0,,We're about to begin the award ceremony, and the\Nnew first dan certification...
-Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\move(312,22,434,22)}New first Dan\NCertification Ceremony
-Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\move(208,12,330,12)}Ooteai Awards Ceremony
-Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\move(103,12,225,12)}Kidou Award Ceremony
-Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\move(2,12,124,12)}Hideori Award Ceremony
-Dialogue: 0,0:11:13.78,0:11:16.36,NoteArial,,0,0,0,,{\fs11\fscy60\blur0\fad(0,0)\1c&H000000&\bord0\move(-45,25,18,25)}Ookura Kichinarou\NAward Ceremony
+Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\shad0\move(312,22,434,22)}New first Dan\NCertification Ceremony
+Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\shad0\move(208,12,330,12)}Ooteai Awards Ceremony
+Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\shad0\move(103,12,225,12)}Kidou Award Ceremony
+Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H000000&\bord0\shad0\move(2,12,124,12)}Hideori Award Ceremony
+Dialogue: 0,0:11:13.78,0:11:16.36,NoteArial,,0,0,0,,{\fs11\fscy60\blur0\fad(0,0)\1c&H000000&\bord0\shad0\move(-45,25,18,25)}Ookura Kichinarou\NAward Ceremony
 Dialogue: 0,0:11:20.87,0:11:22.24,Thinking,,0,0,0,,I'll catch up to Touya...
 Dialogue: 0,0:11:22.79,0:11:23.75,Thinking,,0,0,0,,I'll surpass him!
 Dialogue: 0,0:11:25.12,0:11:29.34,NoteArial,,0,0,0,,{\fs14.5\1c&H766A63&\3c&HEFE3DC&\bord2\shad0\frz270\pos(198,285)}New First Dan Briefing Room
 Dialogue: 0,0:11:26.42,0:11:28.27,Background,,0,0,0,,That's about all.
 Dialogue: 0,0:11:30.06,0:11:32.59,Default,,0,0,0,,That's all we have to say.
 Dialogue: 0,0:11:33.64,0:11:39.39,Background,,0,0,0,,Then please open your envelopes. We'll explain\Nwhat each thing inside is.
-Dialogue: 0,0:11:46.02,0:11:46.14,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(400,491)}Ooteai Pairings
-Dialogue: 0,0:11:46.14,0:11:46.27,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(366,409)}Ooteai Pairings
-Dialogue: 0,0:11:46.27,0:11:46.35,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(345,343)}Ooteai Pairings
-Dialogue: 0,0:11:46.35,0:11:46.52,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(326,282)}Ooteai Pairings
-Dialogue: 0,0:11:46.52,0:11:46.60,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(311,241)}Ooteai Pairings
-Dialogue: 0,0:11:46.60,0:11:48.23,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\fscy90\frz17\pos(310,236)}Ooteai Pairings
-Dialogue: 0,0:11:46.52,0:11:46.60,NoteArial,,0,0,0,,{\fs13\1c&H000000&\bord0\fscy90\frz17\pos(305,464)}prepared by
-Dialogue: 0,0:11:46.60,0:11:48.23,NoteArial,,0,0,0,,{\fs13\1c&H000000&\bord0\fscy90\frz17\pos(302,456)}prepared by
-Dialogue: 0,0:11:46.35,0:11:46.52,NoteArial,,0,0,0,,{\fs16.5\1c&H000000&\bord0\fscy80\frz17\pos(443,463)}Japanese Go Institute
-Dialogue: 0,0:11:46.52,0:11:46.60,NoteArial,,0,0,0,,{\fs16.5\1c&H000000&\bord0\fscy80\frz17\pos(431,424)}Japanese Go Institute
-Dialogue: 0,0:11:46.60,0:11:48.23,NoteArial,,0,0,0,,{\fs16.5\1c&H000000&\bord0\fscy80\frz17\pos(428,416)}Japanese Go Institute
+Dialogue: 0,0:11:46.02,0:11:46.14,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\shad0\fscy90\frz17\pos(400,491)}Ooteai Pairings
+Dialogue: 0,0:11:46.14,0:11:46.27,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\shad0\fscy90\frz17\pos(366,409)}Ooteai Pairings
+Dialogue: 0,0:11:46.27,0:11:46.35,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\shad0\fscy90\frz17\pos(345,343)}Ooteai Pairings
+Dialogue: 0,0:11:46.35,0:11:46.52,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\shad0\fscy90\frz17\pos(326,282)}Ooteai Pairings
+Dialogue: 0,0:11:46.52,0:11:46.60,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\shad0\fscy90\frz17\pos(311,241)}Ooteai Pairings
+Dialogue: 0,0:11:46.60,0:11:48.23,NoteArial,,0,0,0,,{\fs25\1c&H000000&\bord0\shad0\fscy90\frz17\pos(309,233)}Ooteai Pairings
+Dialogue: 0,0:11:46.52,0:11:46.60,NoteArial,,0,0,0,,{\fs13\1c&H000000&\bord0\shad0\fscy90\frz17\pos(305,464)}prepared by
+Dialogue: 0,0:11:46.60,0:11:48.23,NoteArial,,0,0,0,,{\fs13\1c&H000000&\bord0\shad0\fscy90\frz17\pos(302,456)}prepared by
+Dialogue: 0,0:11:46.35,0:11:46.52,NoteArial,,0,0,0,,{\fs16.5\1c&H000000&\bord0\shad0\fscy80\frz17\pos(443,463)}Japanese Go Institute
+Dialogue: 0,0:11:46.52,0:11:46.60,NoteArial,,0,0,0,,{\fs16.5\1c&H000000&\bord0\shad0\fscy80\frz17\pos(431,424)}Japanese Go Institute
+Dialogue: 0,0:11:46.60,0:11:48.23,NoteArial,,0,0,0,,{\fs16.5\1c&H000000&\bord0\shad0\fscy80\frz17\pos(428,416)}Japanese Go Institute
 Dialogue: 0,0:11:49.37,0:11:52.49,Default,,0,0,0,,Oh, these are the pairings for the Ooteai matches.
 Dialogue: 0,0:11:53.03,0:11:57.70,Default,,0,0,0,,Yes. It has the pairings for all the Ooteai matches\Nyou will be playing this year.
 Dialogue: 0,0:11:58.20,0:11:59.85,Default,,0,0,0,,Huh? Where am I?
@@ -287,9 +287,9 @@ Dialogue: 0,0:12:00.32,0:12:01.26,Default,,0,0,0,,Towards the end.
 Dialogue: 0,0:12:01.87,0:12:05.72,Default,,0,0,0,,The person to the immediate right of your name is\Nyour opponent for the first match.
 Dialogue: 0,0:12:06.79,0:12:09.34,Default,,0,0,0,,Shindou Hikaru... there it is.
 Dialogue: 0,0:12:09.67,0:12:11.77,Default,,0,0,0,,My first opponent is...
-Comment: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\move(227,213,-30,213)}Shindou Hikaru Shodan
-Comment: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\pos(546,188)}Touya Akira 2-dan
-Comment: 0,0:12:12.54,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\fscy80\frz4.5\pos(695,170)}Suzuki Ayuma
+Comment: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\shad0\fscy80\frz4.5\move(227,213,-30,213)}Shindou Hikaru Shodan
+Comment: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\shad0\fscy80\frz4.5\pos(546,188)}Touya Akira 2-dan
+Comment: 0,0:12:12.54,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\shad0\fscy80\frz4.5\pos(695,170)}Suzuki Ayuma
 Comment: 0,0:12:11.75,0:12:14.75,NoteArial,,0,0,0,,Need to animate above, either scroll or individually
 Dialogue: 0,0:12:16.47,0:12:21.51,NoteArial,,0,0,0,,{\fs45\blur1\1c&H000000&\bord0\fscy80\frz8.5\move(504,142,175,142)}Touya Akira 2-dan
 Dialogue: 0,0:12:17.84,0:12:19.81,Thinking,,0,0,0,,Tou...ya...
