@@ -158,20 +158,20 @@ Dialogue: 0,0:10:00.70,0:10:03.09,Default,,0,0,0,,That's it... that's...
 Dialogue: 0,0:10:05.13,0:10:06.75,Default,,0,0,0,,I won't lose next time!
 Dialogue: 0,0:10:07.93,0:10:09.14,Default,,0,0,0,,Next time...
 Dialogue: 0,0:10:24.24,0:10:29.31,Default,,0,0,0,,Ochi, find out for yourself how strong Shindou is.
-Dialogue: 0,0:10:33.07,0:10:37.07,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Ochi: 14 wins 1 loss
-Dialogue: 0,0:10:38.24,0:10:42.25,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Isumi: 12 wins 3 losses
-Dialogue: 0,0:10:43.33,0:10:47.33,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Waya: 13 wins 2 losses
-Dialogue: 0,0:10:48.84,0:10:52.84,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Shindou: 13 wins 2 losses
-Dialogue: 0,0:10:54.05,0:10:58.01,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Honda: 12 wins 3 losses
-Dialogue: 0,0:10:59.56,0:11:04.56,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(187,90)}Fukui: 8 wins 7 losses
-Dialogue: 0,0:10:59.56,0:11:04.56,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(455,360)}Nase: 8 wins 7 losses
+Dialogue: 0,0:10:33.07,0:10:37.07,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Ochi: 14 wins 1 loss
+Dialogue: 0,0:10:38.24,0:10:42.25,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Isumi: 12 wins 3 losses
+Dialogue: 0,0:10:43.33,0:10:47.33,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Waya: 13 wins 2 losses
+Dialogue: 0,0:10:48.84,0:10:52.84,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Shindou: 13 wins 2 losses
+Dialogue: 0,0:10:54.05,0:10:58.01,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Honda: 12 wins 3 losses
+Dialogue: 0,0:10:59.56,0:11:04.56,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(187,90)}Fukui: 8 wins 7 losses
+Dialogue: 0,0:10:59.56,0:11:04.56,NoteArial,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(455,360)}Nase: 8 wins 7 losses
 Dialogue: 0,0:11:05.43,0:11:09.17,Sai,,0,0,0,,Twelve matches left, we're\Nin the final stretch Hikaru.
 Dialogue: 0,0:11:09.54,0:11:10.19,Thinking,,0,0,0,,Yeah.
 Dialogue: 0,0:11:19.83,0:11:20.92,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:11:22.70,0:11:24.62,Default,,0,0,0,,I'll be playing you in the last round Ochi.
 Dialogue: 0,0:11:25.29,0:11:28.63,Default,,0,0,0,,I'll be much stronger than I am now.
-Dialogue: 0,0:11:44.68,0:11:49.69,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz348\move(283,93,277,83)}Japanese Go Research Center
-Dialogue: 0,0:11:45.10,0:11:49.69,NoteArial,,0,0,0,,{\fs30\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,355)}Sixteenth Match of the Pro Exam Finals
+Dialogue: 0,0:11:44.68,0:11:49.69,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz348\move(283,93,277,83)}Japanese Go Research Center
+Dialogue: 0,0:11:45.10,0:11:49.69,NoteArial,,0,0,0,,{\fs30\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Sixteenth Match of the Pro Exam Finals
 Dialogue: 0,0:11:51.44,0:11:52.50,Background,,0,0,0,,I resign...
 Dialogue: 0,0:11:53.42,0:11:54.75,Default,,0,0,0,,Thanks for the game.
 Dialogue: 0,0:12:13.63,0:12:16.03,Thinking,,0,0,0,,Great, I managed to win.
@@ -193,7 +193,7 @@ Dialogue: 0,0:13:14.16,0:13:15.69,Default,,0,0,0,,Emotions are difficult.
 Dialogue: 0,0:13:26.50,0:13:28.96,Thinking,,0,0,0,,Shindou has changed...
 Dialogue: 0,0:13:29.43,0:13:31.26,Thinking,,0,0,0,,And it's not just his strength in the game.
 Dialogue: 0,0:13:33.63,0:13:35.74,Thinking,,0,0,0,,No, I can't be worrying.
-Dialogue: 0,0:13:38.01,0:13:42.93,NoteArial,,0,0,0,,{\fs30\bord1\fad(0,542)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,355)}Seventeenth Match of the Pro Exam Finals
+Dialogue: 0,0:13:38.01,0:13:42.93,NoteArial,,0,0,0,,{\fs30\bord1\fad(0,542)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Seventeenth Match of the Pro Exam Finals
 Dialogue: 0,0:13:45.17,0:13:47.16,Thinking,,0,0,0,,{\1c&HC5FEC1&}Oh! Shindou lost to Honda-san!
 Dialogue: 0,0:13:47.73,0:13:50.01,Thinking,,0,0,0,,Okay! Now Shindou has three losses!
 Dialogue: 0,0:13:52.10,0:13:54.01,Thinking,,0,0,0,,I knew he'd start falling.

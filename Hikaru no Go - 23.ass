@@ -103,13 +103,13 @@ Dialogue: 0,0:02:06.56,0:02:11.57,Note,,0,0,0,,[note: Yuugen translates roughly 
 Dialogue: 0,0:02:06.61,0:02:11.57,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(320,115)}The Twenty-Third Match
 Dialogue: 0,0:02:06.61,0:02:11.57,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Room of Yuugen
 Dialogue: 0,0:02:23.08,0:02:28.84,Note,,0,0,0,,[note: When you lose you get a black\Nmark. That is what Waya is referring to]
-Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(10,69)}I\Nw\Na\Nm\Ni
-Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(77,80)}O\Nk\No\Ns\Nh\Ni
-Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(136,10)}S\Na\Ni\Nt\No\Nu
-Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(199,10)}S\Nu\Nz\Nu\Nk\Ni
-Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(255,10)}O\Nn\No
-Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(319,11)}Y\No\Ns\Nh\Ni\Nd\Na
-Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(385,11)}S\Nh\Ni\Nn\Nd\No\Nu
+Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(10,69)}I\Nw\Na\Nm\Ni
+Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(77,80)}O\Nk\No\Ns\Nh\Ni
+Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(136,10)}S\Na\Ni\Nt\No\Nu
+Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(199,10)}S\Nu\Nz\Nu\Nk\Ni
+Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(255,10)}O\Nn\No
+Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(319,11)}Y\No\Ns\Nh\Ni\Nd\Na
+Dialogue: 0,0:02:16.53,0:02:18.16,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(385,11)}S\Nh\Ni\Nn\Nd\No\Nu
 Dialogue: 0,0:02:23.08,0:02:24.80,Default,,0,0,0,,Oh it's all black!
 Dialogue: 0,0:02:25.67,0:02:29.03,Default,,0,0,0,,Touya Akira's rival experiences\Nsix straight losses in a second class.
 Dialogue: 0,0:02:30.67,0:02:33.00,Default,,0,0,0,,What is it!? What are you trying to say?
@@ -119,13 +119,13 @@ Dialogue: 0,0:02:43.55,0:02:45.69,Default,,0,0,0,,And what's your rank!?
 Dialogue: 0,0:02:45.91,0:02:46.54,Default,,0,0,0,,Me?
 Dialogue: 0,0:02:47.56,0:02:48.80,Default,,0,0,0,,Let's see...
 Dialogue: 0,0:02:49.30,0:02:51.14,Background,,0,0,0,,Waya... Waya...
-Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(10,281)}O\Nd\Na
-Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(123,243)}M\Ni\Nu\Nr\Na
-Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(219,199)}W\Na\Ny\Na
-Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,121)}S\Na\Ni\Nt\No\Nu
-Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an6\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(422,153)}H\Na\Nt\Na\Nn\Na\Nk\Na
-Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an6\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(536,129)}K\Na\Nn\Ne\Nd\Na
-Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an6\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(632,103)}Y\Na\Nm\Na\Nm\No\Nt\No
+Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(10,281)}O\Nd\Na
+Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(123,243)}M\Ni\Nu\Nr\Na
+Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an4\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(219,199)}W\Na\Ny\Na
+Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,121)}S\Na\Ni\Nt\No\Nu
+Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an6\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(422,153)}H\Na\Nt\Na\Nn\Na\Nk\Na
+Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an6\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(536,129)}K\Na\Nn\Ne\Nd\Na
+Dialogue: 0,0:02:50.17,0:02:51.28,Note,,0,0,0,,{\an6\fs23.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(632,103)}Y\Na\Nm\Na\Nm\No\Nt\No
 Dialogue: 0,0:02:52.54,0:02:54.27,Default,,0,0,0,,6th... in first class...
 Dialogue: 0,0:02:55.56,0:02:57.12,Default,,0,0,0,,Waya you're good.
 Dialogue: 0,0:02:57.63,0:03:00.30,Default,,0,0,0,,Compared to the bottom of second class I am.

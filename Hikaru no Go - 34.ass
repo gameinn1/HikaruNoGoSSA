@@ -111,7 +111,7 @@ Dialogue: 0,0:02:57.13,0:02:58.38,Default,,0,0,0,,Oh well what?
 Dialogue: 0,0:02:59.91,0:03:01.35,Background,,0,0,0,,It's okay for him.
 Dialogue: 0,0:03:03.34,0:03:04.21,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:03:04.32,0:03:05.89,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:03:14.01,0:03:16.80,Note,,0,0,0,,{\fs30.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(325,120,325,-30)}Friendly Go Festival
+Dialogue: 0,0:03:14.01,0:03:16.80,Note,,0,0,0,,{\fs30.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(325,120,325,-30)}Friendly Go Festival
 Dialogue: 0,0:03:19.11,0:03:21.63,Default,,0,0,0,,Oh, Mr. Touya good morning.
 Dialogue: 0,0:03:22.03,0:03:23.27,Default,,0,0,0,,Good morning.
 Dialogue: 0,0:03:23.77,0:03:24.84,Default,,0,0,0,,Good morning.
@@ -140,7 +140,7 @@ Dialogue: 0,0:04:44.08,0:04:49.11,Default,,0,0,0,,Touya 2dan is Touya Meijin's s
 Dialogue: 0,0:04:49.85,0:04:51.90,Default,,0,0,0,,It's nothing special to be playing the son.
 Dialogue: 0,0:04:52.23,0:04:54.41,Default,,0,0,0,,Oh well. Give me some iced tea.
 Dialogue: 0,0:04:54.86,0:04:56.02,Default,,0,0,0,,Okay, this way please.
-Dialogue: 0,0:04:56.03,0:04:59.95,Note,,0,0,0,,{\fs30.5\fsp10\bord1\1a&HFF&\3c&H000000&\4c&HDDDDDD&\shad1\frz346\pos(414,85)}Friendly Go Festival
+Dialogue: 0,0:04:56.03,0:04:59.95,Note,,0,0,0,,{\fs30.5\fsp10\bord1\1a&HFF&\3c&H000000&\4c&HFFFFFF&\shad1\frz346\pos(414,85)}Friendly Go Festival
 Dialogue: 0,0:04:57.94,0:04:58.97,Default,,0,0,0,,My apologies.
 Dialogue: 0,0:04:59.36,0:04:59.95,Default,,0,0,0,,It's okay.
 Dialogue: 0,0:05:00.18,0:05:03.20,Background,,0,0,0,,That's who they are, but please lose to them.

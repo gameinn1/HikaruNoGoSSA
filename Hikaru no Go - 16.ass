@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 16 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 240
-Active Line: 257
-Video Position: 33830
+Scroll Position: 252
+Active Line: 269
+Video Position: 34723
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,11 +56,11 @@ Dialogue: 0,0:01:54.98,0:01:55.63,Background,,0,0,0,,Sai!
 Dialogue: 0,0:02:01.04,0:02:02.89,Default,,0,0,0,,Okay let's do it!
 Dialogue: 0,0:02:03.44,0:02:08.40,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(295,115)}The Sixteenth Match
 Dialogue: 0,0:02:03.44,0:02:08.40,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Who is Sai!?
-Dialogue: 0,0:02:12.36,0:02:15.49,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(261,10)}The current temperature is 36.5 degrees...
-Dialogue: 0,0:02:15.49,0:02:16.32,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Experience
-Dialogue: 0,0:02:16.32,0:02:17.53,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}the internet here!
-Dialogue: 0,0:02:17.53,0:02:18.58,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}State-of-the-art
-Dialogue: 0,0:02:18.58,0:02:19.62,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}systems available.
+Dialogue: 0,0:02:12.36,0:02:15.49,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(261,10)}The current temperature is 36.5 degrees...
+Dialogue: 0,0:02:15.49,0:02:16.32,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Experience
+Dialogue: 0,0:02:16.32,0:02:17.53,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}the internet here!
+Dialogue: 0,0:02:17.53,0:02:18.58,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}State-of-the-art
+Dialogue: 0,0:02:18.58,0:02:19.62,Note,,0,0,62,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}systems available.
 Dialogue: 0,0:02:23.80,0:02:24.88,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:02:26.20,0:02:28.48,Default,,0,0,0,,He suddenly sent me a message in English!
 Dialogue: 0,0:02:29.17,0:02:30.28,Default,,0,0,0,,Where?
@@ -84,7 +84,7 @@ Dialogue: 0,0:03:15.80,0:03:16.80,Default,,0,0,0,,Hey...
 Dialogue: 0,0:03:17.78,0:03:18.86,Background,,0,0,0,,Well then...
 Dialogue: 0,0:03:21.23,0:03:22.96,Default,,0,0,0,,Let's play a Japanese next.
 Dialogue: 0,0:03:23.42,0:03:24.60,Default,,0,0,0,,Be quiet already!
-Dialogue: 0,0:03:24.60,0:03:28.10,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad0\pos(242,40)}Nick
+Dialogue: 0,0:03:24.60,0:03:28.10,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(242,40)}Nick
 Dialogue: 0,0:03:29.62,0:03:33.48,Memory,,0,0,0,,Given his nick and the way he speaks, I\Njust thought he might be a child that's all.
 Dialogue: 0,0:03:33.55,0:03:35.99,NoteTimes,,0,0,10,,{\an2\fs32.5}Hey jerkoff! Don't quit the game just because\NI killed a big cluster of stones! Moron!
 Dialogue: 0,0:03:36.55,0:03:39.57,Default,,0,0,0,,That guy! Okay, let's play him!
@@ -105,7 +105,7 @@ Dialogue: 0,0:04:32.76,0:04:35.17,Background,,0,0,0,,How is he Sai?
 Dialogue: 0,0:04:36.05,0:04:38.70,Sai,,0,0,0,,He's strong... Stronger than anyone else
 Dialogue: 0,0:04:40.80,0:04:41.63,Sai,,0,0,0,,1-10.
 Dialogue: 0,0:04:43.05,0:04:45.03,Default,,0,0,0,,Coming from Sai that's gotta mean a lot...
-Dialogue: 0,0:04:49.31,0:04:52.32,Note,,0,0,10,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Resignation.
+Dialogue: 0,0:04:49.31,0:04:52.32,Note,,0,0,10,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Resignation.
 Dialogue: 0,0:04:50.28,0:04:52.13,Background,,0,0,0,,but look, he just resigned.
 Dialogue: 0,0:04:52.72,0:04:56.28,Sai,,0,0,0,,He's strong, so he can accurately\Nand quickly judge the situation.
 Dialogue: 0,0:04:56.75,0:05:00.36,Sai,,0,0,0,,Knowing my strength, he probably\Ndecided that he couldn't do any more.
@@ -120,15 +120,15 @@ Dialogue: 0,0:05:18.06,0:05:21.22,Default,,0,0,0,,Sure, but learn to do it yours
 Dialogue: 0,0:05:23.72,0:05:24.72,Default,,0,0,0,,There you go.
 Dialogue: 0,0:05:24.97,0:05:25.62,Default,,0,0,0,,Arigatou!
 Dialogue: 0,0:05:29.34,0:05:31.33,Default,,0,0,0,,The internet's so much fun.
-Dialogue: 0,0:05:32.56,0:05:36.36,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad0\pos(243,240)}Sai> I'm strong, aren't I?
-Dialogue: 0,0:05:32.56,0:05:36.36,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad0\pos(315,280)}Zelda> Who are you! I'm an "Insei"!
+Dialogue: 0,0:05:32.56,0:05:36.36,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(243,240)}Sai> I'm strong, aren't I?
+Dialogue: 0,0:05:32.56,0:05:36.36,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(315,280)}Zelda> Who are you! I'm an "Insei"!
 Dialogue: 0,0:05:33.39,0:05:38.21,Background,,0,0,0,,Who are you... I'm an "Insei"...
 Dialogue: 0,0:05:41.66,0:05:42.56,Default,,0,0,0,,Insei?
 Dialogue: 0,0:05:43.88,0:05:49.31,Default,,0,0,0,,Hikaru-kun, can you find a place to\Nstop soon? My shift's almost over.
 Dialogue: 0,0:05:49.59,0:05:51.16,Default,,0,0,0,,Oh, I'm done. Thanks much.
 Dialogue: 0,0:05:54.07,0:05:56.41,Default,,0,0,0,,So Zelda's an Insei...
 Dialogue: 0,0:05:58.39,0:06:00.13,Background,,0,0,0,,He's aimed for the pros...
-Dialogue: 0,0:06:02.01,0:06:06.97,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}Japanese Institute of Go
+Dialogue: 0,0:06:02.01,0:06:06.97,Note,,0,0,0,,{\fs30\bord1\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Japanese Institute of Go
 Dialogue: 0,0:06:14.24,0:06:17.13,Default,,0,0,0,,It's time for lunch, so please halt your game.
 Dialogue: 0,0:06:27.70,0:06:29.45,Background,,0,0,0,,What's wrong Waya-kun?
 Dialogue: 0,0:06:31.66,0:06:35.83,Default,,0,0,0,,What are you thinking about?\NDid you make a mistake in the first half?
@@ -170,7 +170,7 @@ Dialogue: 0,0:09:20.66,0:09:23.88,Default,,0,0,0,,What's your opinion on him as\
 Dialogue: 0,0:09:24.00,0:09:27.04,Default,,0,0,0,,Subarashii! I'd love to play him once.
 Dialogue: 0,0:09:27.81,0:09:32.55,Default,,0,0,0,,But, Sai gets so many challenges\Nthese days, it's hard to get a game.
 Dialogue: 0,0:09:32.79,0:09:36.52,Default,,0,0,0,,Well, well, then watching like\Nthis is all we can do, I guess.
-Dialogue: 0,0:09:38.02,0:09:40.27,Note,,0,0,10,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}Shanghai...
+Dialogue: 0,0:09:38.02,0:09:40.27,Note,,0,0,10,,{\fs30\bord1\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Shanghai...
 Dialogue: 0,0:09:44.14,0:09:49.94,Default,,0,0,0,,The number of observers are increasing every\Nday. People are starting to take notice of Sai.
 Dialogue: 0,0:09:49.97,0:09:52.68,Default,,0,0,0,,Master, is this person a pro?
 Dialogue: 0,0:09:52.85,0:09:58.36,Default,,0,0,0,,Probably not, a pro wouldn't play\Namateurs constantly like this.
@@ -183,15 +183,15 @@ Dialogue: 0,0:10:19.28,0:10:21.73,Default,,0,0,0,,And no one has any information
 Dialogue: 0,0:10:23.03,0:10:26.71,Default,,0,0,0,,The International Amateur Go Tournament\Nis coming up... if I go to Japan...
 Dialogue: 0,0:10:27.10,0:10:28.41,Default,,0,0,0,,If I go to Japan...
 Dialogue: 0,0:10:28.91,0:10:31.63,Default,,0,0,0,,I might find out something about Sai.
-Dialogue: 0,0:10:32.32,0:10:35.28,Note,,0,0,250,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}Resign
+Dialogue: 0,0:10:32.32,0:10:35.28,Note,,0,0,250,,{\fs30\bord1.5\shad0\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Resign
 Dialogue: 0,0:10:46.95,0:10:51.55,Thinking,,0,0,0,,I first saw Sai in the beginning of July.\NI've seen him constantly since then...
 Dialogue: 0,0:10:55.88,0:11:00.34,Thinking,,0,0,0,,{\1c&HC5FEC1&}But it's the middle of the day!\NDoesn't this guy have a job!?
 Dialogue: 0,0:11:02.94,0:11:05.91,Default,,0,0,0,,if you go everyday you'll...
-Dialogue: 0,0:11:06.19,0:11:08.44,Note,,0,0,155,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}I'm strong aren't I?
+Dialogue: 0,0:11:06.19,0:11:08.44,Note,,0,0,155,,{\fs30\bord1.5\shad0\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}I'm strong aren't I?
 Dialogue: 0,0:11:12.08,0:11:16.13,Default,,0,0,0,,July... August... Summer Vacation!?
 Dialogue: 0,0:11:18.45,0:11:19.28,Default,,0,0,0,,Could it be!?
 Dialogue: 0,0:11:20.50,0:11:21.37,Background,,0,0,0,,A child!?
-Dialogue: 0,0:11:29.92,0:11:34.47,Note,,0,0,0,,{\fs22.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(457,170)}Japanese Institute of Go
+Dialogue: 0,0:11:29.92,0:11:34.47,Note,,0,0,0,,{\fs22.5\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(457,170)}Japanese Institute of Go
 Dialogue: 0,0:11:42.87,0:11:47.52,Default,,0,0,0,,Recently, the international skill\Nlevel of Go has been rising steadily.
 Dialogue: 0,0:11:47.55,0:11:50.94,Default,,0,0,0,,And this year, we once again have\Nmore than 50 nations competing!
 Dialogue: 0,0:11:51.55,0:11:58.78,Background,,0,0,0,,This is clear proof of how much all of\Nyou enjoy go, and dedicate yourself to it.
@@ -252,9 +252,9 @@ Dialogue: 0,0:16:46.41,0:16:48.41,Default,,0,0,0,,I'm Waya, an Insei.
 Dialogue: 0,0:16:49.03,0:16:52.91,Default,,0,0,0,,Is there a computer with internet\Naccess that I could borrow?
 Dialogue: 0,0:16:53.16,0:16:56.53,Default,,0,0,0,,Sure. Use that laptop over there.
 Dialogue: 0,0:16:57.74,0:16:59.16,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:17:04.54,0:17:11.55,Computer,,0,0,0,,{\fs22.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(363,178)}Idle Players: 56
-Dialogue: 0,0:17:04.54,0:17:11.55,Computer,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(520,155)}Refresh
-Dialogue: 0,0:17:04.54,0:17:11.55,Computer,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(596,155)}Observe
+Dialogue: 0,0:17:04.54,0:17:11.55,Computer,,0,0,0,,{\fs22.5\bord1.5\shad0\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(363,178)}Idle Players: 56
+Dialogue: 0,0:17:04.54,0:17:11.55,Computer,,0,0,0,,{\fs17.5\bord1.5\shad0\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(520,155)}Refresh
+Dialogue: 0,0:17:04.54,0:17:11.55,Computer,,0,0,0,,{\fs17.5\bord1.5\shad0\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(596,155)}Observe
 Dialogue: 0,0:17:19.89,0:17:20.81,Default,,0,0,0,,He's not there...
 Dialogue: 0,0:17:24.86,0:17:26.57,Default,,0,0,0,,Thank you very much for your help.
 Dialogue: 0,0:17:27.00,0:17:29.12,Default,,0,0,0,,Oh you can leave it like that.
@@ -283,35 +283,35 @@ Dialogue: 0,0:20:26.31,0:20:27.06,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:20:29.65,0:20:31.59,Thinking,,0,0,0,,Where are you... Sai?
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
-Dialogue: 0,0:22:12.32,0:22:13.21,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}Teacher Yukari
+Dialogue: 0,0:22:12.32,0:22:13.21,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}Teacher Yukari
 Dialogue: 0,0:22:12.60,0:22:16.44,Default,,0,0,0,,Today, we'll talk about how to make it\Nimpossible to get your stones captured.
-Dialogue: 0,0:22:13.93,0:22:16.14,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,295)}How to make it impossible\Nto get your stones captured.
+Dialogue: 0,0:22:13.93,0:22:16.14,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,295)}How to make it impossible\Nto get your stones captured.
 Dialogue: 0,0:22:17.19,0:22:18.33,NoteTimes,,0,0,0,,{\fs32.5\pos(102,295)}Yuuki
 Dialogue: 0,0:22:17.19,0:22:18.33,NoteTimes,,0,0,0,,{\fs32.5\pos(540,295)}Mai
 Dialogue: 0,0:22:17.41,0:22:23.38,Default,,0,0,0,,Out of these three formations. One of the black\Nformations can't get captured no matter what.
-Dialogue: 0,0:22:20.10,0:22:25.04,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}Which shape would prevent black\Nfrom getting captured no matter what?
+Dialogue: 0,0:22:20.10,0:22:25.04,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}Which shape would prevent black\Nfrom getting captured no matter what?
 Dialogue: 0,0:22:23.51,0:22:25.41,Default,,0,0,0,,Which one is it?
 Dialogue: 0,0:22:26.35,0:22:27.15,Default,,0,0,0,,This.
 Dialogue: 0,0:22:28.52,0:22:29.32,Default,,0,0,0,,This.
 Dialogue: 0,0:22:30.64,0:22:34.81,Default,,0,0,0,,With this, if white plays here,\Nthey all get taken right?
-Dialogue: 0,0:22:31.49,0:22:32.91,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}White plays here.
-Dialogue: 0,0:22:32.93,0:22:34.90,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}All of it gets taken.
+Dialogue: 0,0:22:31.49,0:22:32.91,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}White plays here.
+Dialogue: 0,0:22:32.93,0:22:34.90,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}All of it gets taken.
 Dialogue: 0,0:22:35.52,0:22:39.40,Default,,0,0,0,,With this, even if you play\Nhere, and black takes back...
-Dialogue: 0,0:22:39.17,0:22:40.57,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}Even if you take back.
+Dialogue: 0,0:22:39.17,0:22:40.57,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}Even if you take back.
 Dialogue: 0,0:22:40.03,0:22:41.29,Default,,0,0,0,,It gets captured.
-Dialogue: 0,0:22:40.79,0:22:42.42,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}It still gets taken.
+Dialogue: 0,0:22:40.79,0:22:42.42,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}It still gets taken.
 Dialogue: 0,0:22:41.50,0:22:42.87,Default,,0,0,0,,Then what about this?
 Dialogue: 0,0:22:43.36,0:22:44.92,Default,,0,0,0,,Can you move here?
 Dialogue: 0,0:22:44.92,0:22:45.84,Background,,0,0,0,,No you can't.
-Dialogue: 0,0:22:47.19,0:22:48.78,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}With this shape...
+Dialogue: 0,0:22:47.19,0:22:48.78,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}With this shape...
 Dialogue: 0,0:22:47.42,0:22:48.48,Default,,0,0,0,,Can you go here?
 Dialogue: 0,0:22:48.48,0:22:49.56,Background,,0,0,0,,You can't.
-Dialogue: 0,0:22:48.81,0:22:51.06,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}Even if you're surrounded, you can't get captured.
+Dialogue: 0,0:22:48.81,0:22:51.06,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}Even if you're surrounded, you can't get captured.
 Dialogue: 0,0:22:49.56,0:22:52.86,Default,,0,0,0,,Okay. That's right.\NThese shapes are called "eyes"
-Dialogue: 0,0:22:51.56,0:22:52.86,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}"eyes"
+Dialogue: 0,0:22:51.56,0:22:52.86,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}"eyes"
 Dialogue: 0,0:22:52.86,0:22:55.87,Default,,0,0,0,,and if you make two "eyes" you\Ncan't get captured no matter what.
-Dialogue: 0,0:22:53.40,0:22:55.65,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}If you make two "eyes" you can't\Nget captured no matter what.
-Dialogue: 0,0:22:55.68,0:22:57.37,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,309)}To be continued...
+Dialogue: 0,0:22:53.40,0:22:55.65,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}If you make two "eyes" you can't\Nget captured no matter what.
+Dialogue: 0,0:22:55.68,0:22:57.37,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,309)}To be continued...
 Dialogue: 0,0:22:59.06,0:23:01.41,Background,,0,0,0,,Seems like there's someone really good on the net.
 Dialogue: 0,0:23:01.81,0:23:05.14,Background,,0,0,0,,I thought he was kinda like Shuusaku...
 Dialogue: 0,0:23:05.45,0:23:06.53,Background,,0,0,0,,Is he a god...?

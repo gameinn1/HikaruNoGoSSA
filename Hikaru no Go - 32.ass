@@ -99,8 +99,8 @@ Dialogue: 0,0:01:58.65,0:02:00.69,Default,,0,0,0,,I win by four and a half moku!
 Dialogue: 0,0:02:01.37,0:02:02.88,Default,,0,0,0,,Thanks for the game...
 Dialogue: 0,0:02:03.14,0:02:08.11,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(360,115)}The Thirty-Second Match
 Dialogue: 0,0:02:03.14,0:02:08.11,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Last day of the Preliminaries
-Dialogue: 0,0:02:08.11,0:02:12.28,Note,,0,0,0,,{\bord1\fs19\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz345\pos(378,166)}Japanese Go Institute
-Dialogue: 0,0:02:08.40,0:02:12.28,Note,,0,0,0,,{\fad(667,0)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,362)}Second day of the Pro Exam Preliminaries
+Dialogue: 0,0:02:08.11,0:02:12.28,Note,,0,0,0,,{\bord1\fs19\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz345\pos(378,166)}Japanese Go Institute
+Dialogue: 0,0:02:08.40,0:02:12.28,Note,,0,0,0,,{\fad(667,0)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,362)}Second day of the Pro Exam Preliminaries
 Dialogue: 0,0:02:10.57,0:02:11.80,Background,,0,0,0,,Please begin.
 Dialogue: 0,0:02:12.54,0:02:13.91,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:02:37.05,0:02:41.27,Thinking,,0,0,0,,{\1c&HFEFECE&}Hikaru... you're still not relaxed today...
@@ -123,7 +123,7 @@ Dialogue: 0,0:04:13.61,0:04:15.90,Thinking,,0,0,0,,Shut up! I'm trying to think 
 Dialogue: 0,0:04:25.24,0:04:26.30,Default,,0,0,0,,I resign...
 Dialogue: 0,0:04:35.96,0:04:39.31,Default,,0,0,0,,How did you do!? I got my second win!
 Dialogue: 0,0:04:40.44,0:04:45.97,Default,,0,0,0,,What? Looks like you got your second\Nloss. You're at the end of your rope!
-Dialogue: 0,0:04:48.56,0:04:52.44,Note,,0,0,0,,{\fad(667,667)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,362)}Third day of the pro exam preliminaries.
+Dialogue: 0,0:04:48.56,0:04:52.44,Note,,0,0,0,,{\fad(667,667)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,362)}Third day of the pro exam preliminaries.
 Dialogue: 0,0:04:52.27,0:04:53.83,Sai,,0,0,0,,Hikaru, is this okay?
 Dialogue: 0,0:04:54.29,0:04:55.16,Background,,0,0,0,,What?
 Dialogue: 0,0:04:55.82,0:04:57.76,Sai,,0,0,0,,I mean, it's almost time for the pro exam.
@@ -226,8 +226,8 @@ Dialogue: 0,0:12:50.04,0:12:52.86,Default,,0,0,0,,Hey Isumi-san, let's stop by t
 Dialogue: 0,0:12:53.17,0:12:55.31,Default,,0,0,0,,To see the pro exam preliminaries?
 Dialogue: 0,0:12:55.84,0:12:57.12,Background,,0,0,0,,Today's the third day.
 Dialogue: 0,0:12:57.75,0:13:01.25,Background,,0,0,0,,Let's go see if Shindou's risen\Nup with three straight wins.
-Dialogue: 0,0:13:02.72,0:13:08.27,Note,,0,0,0,,{\fs42.5\bord1\1c&H679299&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz10\pos(320,31)}Japanese Go Institute
-Dialogue: 0,0:13:04.10,0:13:08.27,Note,,0,0,0,,{\fad(751,0)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,362)}Pro Exam Preliminaries Day 4
+Dialogue: 0,0:13:02.72,0:13:08.27,Note,,0,0,0,,{\fs42.5\bord1\1c&H679299&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz10\pos(320,31)}Japanese Go Institute
+Dialogue: 0,0:13:04.10,0:13:08.27,Note,,0,0,0,,{\fad(751,0)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,362)}Pro Exam Preliminaries Day 4
 Dialogue: 0,0:13:04.82,0:13:08.12,Background,,0,0,0,,What!? Waya and Isumi-san dropped\Nby afterwards yesterday?
 Dialogue: 0,0:13:08.48,0:13:11.35,Default,,0,0,0,,Yup. In the afternoon, to check the match records.
 Dialogue: 0,0:13:12.56,0:13:16.23,Default,,0,0,0,,When I told them that Fuku and Shindou\Nfinished in the morning and went home,
@@ -266,8 +266,8 @@ Dialogue: 0,0:15:41.46,0:15:42.84,Default,,0,0,0,,There will be less people too.
 Dialogue: 0,0:15:43.95,0:15:45.83,Background,,0,0,0,,I'll go watch the other games.
 Dialogue: 0,0:15:48.64,0:15:51.02,Thinking,,0,0,0,,It's finally the last day of the preliminaries...
 Dialogue: 0,0:15:56.16,0:15:58.96,Thinking,,0,0,0,,I'll take... a win tomorrow too!
-Dialogue: 0,0:16:03.28,0:16:07.24,Note,,0,0,0,,{\fs24\bord1\1c&H3C5F80&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(487,194)}Japanese Go Institute
-Dialogue: 0,0:16:03.57,0:16:07.24,Note,,0,0,0,,{\fad(417,0)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,362)}Pro Exam Preliminaries Day 5
+Dialogue: 0,0:16:03.28,0:16:07.24,Note,,0,0,0,,{\fs24\bord1\1c&H3C5F80&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(487,194)}Japanese Go Institute
+Dialogue: 0,0:16:03.57,0:16:07.24,Note,,0,0,0,,{\fad(417,0)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,362)}Pro Exam Preliminaries Day 5
 Dialogue: 0,0:16:09.70,0:16:13.02,Thinking,,0,0,0,,{\1c&HC5FEC1&}Two boards... this decides everything...
 Dialogue: 0,0:16:15.48,0:16:16.52,Default,,0,0,0,,Umm...
 Dialogue: 0,0:16:17.68,0:16:18.28,Default,,0,0,0,,Morning.
@@ -290,7 +290,7 @@ Dialogue: 0,0:17:20.97,0:17:21.70,Default,,0,0,0,,I'm A.
 Dialogue: 0,0:17:22.72,0:17:24.34,Default,,0,0,0,,Nase-kun and Matsui-kun.
 Dialogue: 0,0:17:25.52,0:17:27.61,Default,,0,0,0,,Shindou-kun you don't have an opponent\Nand you win by default.
 Dialogue: 0,0:17:28.38,0:17:30.07,Default,,0,0,0,,Win by... default...
-Dialogue: 0,0:17:30.20,0:17:32.16,Note,,0,0,0,,{\fs42.5\bord1\1c&H587893&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(368,42)}Japanese Go Institute
+Dialogue: 0,0:17:30.20,0:17:32.16,Note,,0,0,0,,{\fs42.5\bord1\1c&H587893&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(368,42)}Japanese Go Institute
 Dialogue: 0,0:17:30.54,0:17:34.92,Default,,0,0,0,,YAHOO! I won without playing!
 Dialogue: 0,0:17:35.21,0:17:36.84,Default,,0,0,0,,I'm so lucky!
 Dialogue: 0,0:17:37.03,0:17:39.58,Sai,,0,0,0,,It's the opposite! You're unlucky!

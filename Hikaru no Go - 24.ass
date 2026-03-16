@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 24 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 216
-Active Line: 194
-Video Position: 28942
+Scroll Position: 63
+Active Line: 71
+Video Position: 10383
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -106,7 +106,7 @@ Dialogue: 0,0:02:22.52,0:02:24.89,Background,,0,0,0,,Look this way please.
 Dialogue: 0,0:02:25.64,0:02:28.99,Thinking,,0,0,0,,Change of plans, I'll crush him.
 Dialogue: 0,0:02:30.80,0:02:35.76,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(330,115)}The Twenty-Fourth Match
 Dialogue: 0,0:02:30.80,0:02:35.76,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Ouza vs Akira
-Dialogue: 0,0:02:35.76,0:02:41.72,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}The Depth of Spiritual Wonder
+Dialogue: 0,0:02:35.76,0:02:41.72,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}The Depth of Spiritual Wonder
 Dialogue: 0,0:03:22.75,0:03:26.10,Sai,,0,0,0,,I envy them... They're going\Nto go watch Touya's match...
 Dialogue: 0,0:03:27.40,0:03:30.00,Sai,,0,0,0,,We played Touya four times to the day.
 Dialogue: 0,0:03:30.30,0:03:33.64,Default,,0,0,0,,Yeah, but we've never seen him play anyone else.
@@ -160,8 +160,8 @@ Dialogue: 0,0:06:16.37,0:06:20.89,Thinking,,0,0,0,,Teacher, you don't go over th
 Dialogue: 0,0:06:20.89,0:06:29.81,Sai,,0,0,0,,Teacher! I'll... I'll make sure Hikaru reviews the\Ngame once we get home, so please make it short!
 Dialogue: 0,0:06:56.06,0:06:57.69,Default,,0,0,0,,He tossed it in! That's really aggressive!
 Dialogue: 0,0:06:55.73,0:07:04.61,Note,,0,0,0,,[note: Zama can cut a point in Touya's formation at\Nthis point, so Touya should have connected there to\Nplay it safe. Instead Touya's threatening to capture the\Nstones that are threatening him. It's a very risky move.]
-Dialogue: 0,0:07:13.04,0:07:16.75,Note,,0,0,45,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Touya tosses his stone in
-Dialogue: 0,0:07:13.04,0:07:16.75,Note,,0,0,312,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Biting the fan!
+Dialogue: 0,0:07:13.04,0:07:16.75,Note,,0,0,45,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Touya tosses his stone in
+Dialogue: 0,0:07:13.04,0:07:16.75,Note,,0,0,312,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Biting the fan!
 Dialogue: 0,0:07:29.84,0:07:33.60,Thinking,,0,0,0,,{\1c&HC5FEC1&}Black's throw in is a strong move\Nthat won't let White relax at all.
 Dialogue: 0,0:07:34.39,0:07:36.52,Thinking,,0,0,0,,{\1c&HC5FEC1&}Everything depends upon white's response to it.
 Dialogue: 0,0:07:38.14,0:07:43.53,Thinking,,0,0,0,,{\1c&HC5FEC1&}If white cuts, the battle will be very complex. Black\Nwill be in danger, but white will be in danger too.

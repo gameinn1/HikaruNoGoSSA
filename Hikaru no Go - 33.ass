@@ -108,7 +108,7 @@ Dialogue: 0,0:02:48.89,0:02:52.30,Background,,0,0,0,,I haven't played but I've w
 Dialogue: 0,0:02:54.70,0:02:55.86,Default,,0,0,0,,Sai was the one that played.
 Dialogue: 0,0:02:57.60,0:02:58.56,Default,,0,0,0,,Huh?
 Dialogue: 0,0:03:00.40,0:03:02.50,Default,,0,0,0,,This place looks good, it looks big.
-Dialogue: 0,0:03:02.50,0:03:04.16,Note,,0,0,0,,{\fs24\1c&H69439E&\3c&HFFFFFF&\4c&HDDDDDD&\bord1\shad1\pos(366,78)}H\Ne\Na\Nr\Nt\N\No\Nf\N\NS\Nt\No\Nn\Ne
+Dialogue: 0,0:03:02.50,0:03:04.16,Note,,0,0,0,,{\fs24\1c&H69439E&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(366,78)}H\Ne\Na\Nr\Nt\N\No\Nf\N\NS\Nt\No\Nn\Ne
 Dialogue: 0,0:03:04.46,0:03:06.56,Default,,0,0,0,,Brace yourself for the cigarette smoke.
 Dialogue: 0,0:03:06.87,0:03:07.54,Default,,0,0,0,,Okay.
 Dialogue: 0,0:03:08.38,0:03:10.67,Background,,0,0,0,,Hey Isumi-san, what about your Go class today?
@@ -190,7 +190,7 @@ Dialogue: 0,0:07:38.06,0:07:39.84,Default,,0,0,0,,No, he's not here.
 Dialogue: 0,0:07:42.42,0:07:43.45,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:07:44.34,0:07:45.26,Default,,0,0,0,,Good luck...
 Dialogue: 0,0:07:46.37,0:07:47.35,Default,,0,0,0,,Good luck...
-Dialogue: 0,0:07:51.49,0:07:53.49,Note,,0,0,0,,{\fs24\1c&H3723A8&\3c&HFFFFFF&\4c&HDDDDDD&\bord1\shad1\pos(176,154)}H\Ne\Na\Nr\Nt\N\No\Nf\N\NS\Nt\No\Nn\Ne
+Dialogue: 0,0:07:51.49,0:07:53.49,Note,,0,0,0,,{\fs24\1c&H3723A8&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(176,154)}H\Ne\Na\Nr\Nt\N\No\Nf\N\NS\Nt\No\Nn\Ne
 Dialogue: 0,0:07:54.37,0:07:57.51,Default,,0,0,0,,Hey! Hey! Hey! Hey! Wait up!
 Dialogue: 0,0:07:58.08,0:08:00.33,Default,,0,0,0,,Phew, it sure is hot today.
 Dialogue: 0,0:08:00.52,0:08:03.19,Default,,0,0,0,,Do taxi drivers really have that much free time?
@@ -202,8 +202,8 @@ Dialogue: 0,0:08:13.88,0:08:16.39,Default,,0,0,0,,I can't believe Kuwabara defen
 Dialogue: 0,0:08:17.84,0:08:20.61,Default,,0,0,0,,He sure is persistent, that Kuwabara.
 Dialogue: 0,0:08:20.76,0:08:21.64,Default,,0,0,0,,But,
 Dialogue: 0,0:08:21.77,0:08:24.68,Background,,0,0,0,,Ogata will take a title in the near future.
-Dialogue: 0,0:08:21.52,0:08:23.52,Note,,0,0,0,,{\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz24\pos(420,131)}Welcome to
-Dialogue: 0,0:08:21.52,0:08:23.52,Note,,0,0,0,,{\fsp10\fs30.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz29\pos(377,309)}Heart of Stone
+Dialogue: 0,0:08:21.52,0:08:23.52,Note,,0,0,0,,{\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz24\pos(420,131)}Welcome to
+Dialogue: 0,0:08:21.52,0:08:23.52,Note,,0,0,0,,{\fsp10\fs30.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz29\pos(377,309)}Heart of Stone
 Dialogue: 0,0:08:25.48,0:08:27.55,Default,,0,0,0,,He's got so much momentum.
 Dialogue: 0,0:08:33.12,0:08:35.18,Default,,0,0,0,,What is it? What's going on?
 Dialogue: 0,0:08:35.49,0:08:36.42,Default,,0,0,0,,Kawai-san!
@@ -236,7 +236,7 @@ Dialogue: 0,0:09:51.82,0:09:53.56,Default,,0,0,0,,Don't you understand!?
 Dialogue: 0,0:09:53.75,0:09:55.35,Default,,0,0,0,,Third board, don't lose!
 Dialogue: 0,0:09:55.54,0:09:56.06,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:10:03.76,0:10:04.82,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:10:12.59,0:10:15.05,Note,,0,0,0,,{\fs24\1c&H69439E&\3c&HFFFFFF&\4c&HDDDDDD&\bord1\shad1\pos(366,78)}H\Ne\Na\Nr\Nt\N\No\Nf\N\NS\Nt\No\Nn\Ne
+Dialogue: 0,0:10:12.59,0:10:15.05,Note,,0,0,0,,{\fs24\1c&H69439E&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(366,78)}H\Ne\Na\Nr\Nt\N\No\Nf\N\NS\Nt\No\Nn\Ne
 Dialogue: 0,0:10:16.13,0:10:19.64,Default,,0,0,0,,To let Kawai-san have three\Nstones. That's just crazy.
 Dialogue: 0,0:11:08.85,0:11:10.36,Thinking,,0,0,0,,I can't just play normally.
 Dialogue: 0,0:11:10.91,0:11:12.69,Thinking,,0,0,0,,I have a three stone handicap on my back.
@@ -256,7 +256,7 @@ Dialogue: 0,0:12:29.19,0:12:35.69,Note,,0,0,0,,[note: What Hikaru is doing, is m
 Dialogue: 0,0:12:36.46,0:12:40.38,Sai,,0,0,0,,In that case, you have to take territory\Nwith moves that you don't usually see.
 Dialogue: 0,0:12:44.24,0:12:46.71,Sai,,0,0,0,,In other words, you become better\Nat terrorizing the opponent.
 Dialogue: 0,0:12:50.10,0:12:55.26,Sai,,0,0,0,,That will turn into a strength to come back\Nfrom losing situations during even games.
-Dialogue: 0,0:13:05.56,0:13:09.56,Note,,0,0,0,,{\fs24\1c&H69439E&\3c&HFFFFFF&\4c&HDDDDDD&\bord1\shad1\pos(366,78)}H\Ne\Na\Nr\Nt\N\No\Nf\N\NS\Nt\No\Nn\Ne
+Dialogue: 0,0:13:05.56,0:13:09.56,Note,,0,0,0,,{\fs24\1c&H69439E&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(366,78)}H\Ne\Na\Nr\Nt\N\No\Nf\N\NS\Nt\No\Nn\Ne
 Dialogue: 0,0:13:09.71,0:13:11.49,Background,,0,0,0,,Here! They're from me.
 Dialogue: 0,0:13:12.35,0:13:12.98,Background,,0,0,0,,Thank you.
 Dialogue: 0,0:13:13.13,0:13:13.73,Default,,0,0,0,,Here you go.
@@ -375,7 +375,7 @@ Dialogue: 0,0:19:47.41,0:19:49.33,Default,,0,0,0,,No! Ramen noodles! Definitely 
 Dialogue: 0,0:19:49.33,0:19:51.84,Default,,0,0,0,,I was the first board, so Sushi!
 Dialogue: 0,0:19:51.84,0:19:53.60,Default,,0,0,0,,That doesn't matter!
 Dialogue: 0,0:19:53.71,0:19:55.78,Default,,0,0,0,,Rock paper scissors! Rock paper scissors!
-Dialogue: 0,0:19:55.80,0:19:58.43,Note,,0,0,0,,{\fsp6\fs30.5\bord1\1c&H5F73C2&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz5\pos(269,23)}Lotsa Sushi
+Dialogue: 0,0:19:55.80,0:19:58.43,Note,,0,0,0,,{\fsp6\fs30.5\bord1\1c&H5F73C2&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz5\pos(269,23)}Lotsa Sushi
 Dialogue: 0,0:20:02.06,0:20:05.37,Default,,0,0,0,,~Wah~ I was going to take that maguro!
 Dialogue: 0,0:20:05.47,0:20:07.90,Default,,0,0,0,,It'll come around again, be quiet.
 Dialogue: 0,0:20:08.96,0:20:11.04,Default,,0,0,0,,Didn't you dislike Sushi?

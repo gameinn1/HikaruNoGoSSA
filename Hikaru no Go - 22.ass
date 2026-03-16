@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 22 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 22 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 198
-Active Line: 230
-Video Position: 28155
+Video Zoom Percent: 0.625000
+Scroll Position: 158
+Active Line: 180
+Video Position: 23171
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -252,7 +252,7 @@ Dialogue: 0,0:14:42.46,0:14:44.91,Default,,0,0,0,,This made black lose.
 Dialogue: 0,0:14:46.41,0:14:48.36,Thinking,,0,0,0,,Looks like he lost.
 Dialogue: 0,0:14:49.06,0:14:49.58,Default,,0,0,0,,How'd it go?
 Dialogue: 0,0:14:50.63,0:14:51.55,Default,,0,0,0,,Uchida won
-Dialogue: 0,0:14:54.57,0:14:56.95,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}The Second Match
+Dialogue: 0,0:14:54.57,0:14:56.95,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}The Second Match
 Dialogue: 0,0:15:03.00,0:15:04.20,Default,,0,0,0,,I resign.
 Dialogue: 0,0:15:10.38,0:15:11.75,Thinking,,0,0,0,,And he's Touya's...
 Dialogue: 0,0:15:12.17,0:15:13.12,Thinking,,0,0,0,,Rival?
@@ -270,7 +270,7 @@ Dialogue: 0,0:15:53.55,0:15:55.10,Background,,0,0,0,,Waya, wanna go get lunch?
 Dialogue: 0,0:16:01.13,0:16:02.61,Default,,0,0,0,,What are you doing for lunch?
 Dialogue: 0,0:16:04.06,0:16:05.61,Default,,0,0,0,,I'm buying it too.
 Dialogue: 0,0:16:06.40,0:16:09.91,Note,,0,0,0,,[note: Loae's Japanese 101\NObento = Lunch Box\NOnigiri = Rice ball\NKeep learning, and you too can be as l33t as Loae]
-Dialogue: 0,0:16:06.40,0:16:09.91,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(232,304)}Obento Onigiri
+Dialogue: 0,0:16:06.40,0:16:09.91,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(232,304)}Obento Onigiri
 Dialogue: 0,0:16:07.99,0:16:09.32,Background,,0,0,0,,Thank you. Come again.
 Dialogue: 0,0:16:12.45,0:16:14.16,Default,,0,0,0,,{\an8}What's your relationship with Touya?
 Dialogue: 0,0:16:14.37,0:16:17.15,Default,,0,0,0,,{\an8}Were you his classmate in elementary school?

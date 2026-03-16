@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 306
-Active Line: 307
-Video Position: 35499
+Scroll Position: 169
+Active Line: 182
+Video Position: 19691
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,9 +64,9 @@ Dialogue: 0,0:02:41.28,0:02:44.60,Background,,0,0,0,,I asked him how his Go club
 Dialogue: 0,0:02:45.65,0:02:52.37,Background,,0,0,0,,"It doesn't matter anymore, it was just a detour" he said.
 Dialogue: 0,0:02:52.78,0:02:54.15,Background,,0,0,0,,Could I get some over here too?
 Dialogue: 0,0:02:54.36,0:02:55.23,Default,,0,0,0,,Just one second.
-Dialogue: 0,0:02:55.24,0:03:00.70,Default,,0,0,0,,{\fs28\1c&HFFFFFF&\shad1\bord2\b0\pos(325,285)}The Fourteenth Annual\N\N\NNCC Cup Tournament\N\N\NFifth game{\b1}
+Dialogue: 0,0:02:55.24,0:03:00.70,Default,,0,0,0,,{\fs30\1c&HFFFFFF&\shad1.5\bord2\b0\pos(320,287)}The Fourteenth Annual\N\N\NNCC Cup Tournament\N\N\NFifth game{\b1}
 Dialogue: 0,0:02:56.05,0:02:58.80,Background,,0,0,0,,Hey! The TV broadcast of the\NNCC Cup's about to begin!
-Dialogue: 0,0:03:00.70,0:03:04.21,Note,,0,10,0,,{\an6\fs18\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}The Fourteenth Annual\N\NNCC Cup Tournament\N\NFifth game of the First match.
+Dialogue: 0,0:03:00.70,0:03:04.21,Note,,0,10,0,,{\an6\bord1.5\fs18\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}The Fourteenth Annual\N\NNCC Cup Tournament\N\NFifth game of the First match.
 Dialogue: 0,0:03:08.10,0:03:10.67,Default,,0,0,0,,If you subscribe to our magazine for an entire year
 Dialogue: 0,0:03:10.88,0:03:13.21,Default,,0,0,0,,you will get a special on the subscription fee.
 Dialogue: 0,0:03:13.75,0:03:17.20,Default,,0,0,0,,You can even play Go through\Nthe internet these days!
@@ -139,7 +139,7 @@ Dialogue: 0,0:08:18.23,0:08:19.98,Default,,0,0,0,,This isn't a computer game!
 Dialogue: 0,0:08:20.05,0:08:21.45,Default,,0,0,0,,I've got to apologize.
 Dialogue: 0,0:08:23.65,0:08:27.45,Default,,0,0,0,,I'm sorry for ending the game so suddenly...
 Dialogue: 0,0:08:29.25,0:08:29.95,Background,,0,0,0,,What does it say?
-Dialogue: 0,0:08:29.95,0:08:35.95,Note,,0,0,0,,{\an5\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Hey Jerkoff!\NDon't quit the game just because I\Ncaptured a bunch of your stones! Moron!
+Dialogue: 0,0:08:29.95,0:08:35.95,Note,,0,0,0,,{\an5\fs30\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1.5\shad0}Hey Jerkoff!\NDon't quit the game just because I\Ncaptured a bunch of your stones! Moron!
 Dialogue: 0,0:08:30.41,0:08:35.75,Background,,0,0,0,,Let's see... "Hey Jerkoff! Don't quit the game just\Nbecause I captured a bunch of your stones! Moron!"
 Dialogue: 0,0:08:36.67,0:08:38.43,Default,,0,0,0,,He typed something in first...
 Dialogue: 0,0:08:39.34,0:08:40.92,Default,,0,0,0,,Wow, it's interesting!
@@ -218,14 +218,14 @@ Dialogue: 0,0:12:57.50,0:12:59.60,Default,,0,0,0,,Yeah, group matches are nice.
 Dialogue: 0,0:13:04.20,0:13:07.56,Default,,0,0,0,,Hey let's meet at least once\Na week during the summer!
 Dialogue: 0,0:13:07.99,0:13:10.37,Default,,0,0,0,,Yeah, I can make it once a week at least.
 Dialogue: 0,0:13:10.81,0:13:11.66,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:13:12.31,0:13:17.15,Note,,0,0,0,,{\an4\fs22.5\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(281,218)}Experience\N\N\N\Nthe\N\N\N\NInternet\N\N\N\NHere!\N\N\N\NState-of-the-art\N\N\N\Nsystems\N\N\N\Navailable.
+Dialogue: 0,0:13:12.31,0:13:17.15,Note,,0,0,0,,{\an4\bord1.5\fs22.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(281,218)}Experience\N\N\N\Nthe\N\N\N\NInternet\N\N\N\NHere!\N\N\N\NState-of-the-art\N\N\N\Nsystems\N\N\N\Navailable.
 Dialogue: 0,0:13:19.96,0:13:21.76,Default,,0,0,0,,World Igo Net?
 Dialogue: 0,0:13:22.40,0:13:24.16,Default,,0,0,0,,I just have to access this?
 Dialogue: 0,0:13:25.50,0:13:29.76,Default,,0,0,0,,But even if I know about computers,\NI know nothing about Go.
 Dialogue: 0,0:13:30.43,0:13:34.38,Default,,0,0,0,,That's okay, I learned how to play on my own.
-Dialogue: 0,0:13:36.59,0:13:42.22,NoteArialEF,,0,0,0,,{\fs31\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\b0\pos(152,166)}{\k19}W{\k19}o{\k19}r{\k19}l{\k19}d{\k19} {\k19}I{\k19}g{\k19}o{\k19} {\k19}N{\k19}e{\k19}t\N
-Dialogue: 0,0:13:35.25,0:13:41.26,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(531,157)}Search
-Dialogue: 0,0:13:41.26,0:13:42.22,Note,,0,0,0,,{\fs30\1c&HB15EFA&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(531,157)}Search
+Dialogue: 0,0:13:36.59,0:13:42.22,NoteArialEF,,0,0,0,,{\fs31\bord1.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\b0\pos(152,166)}{\k19}W{\k19}o{\k19}r{\k19}l{\k19}d{\k19} {\k19}I{\k19}g{\k19}o{\k19} {\k19}N{\k19}e{\k19}t\N
+Dialogue: 0,0:13:35.25,0:13:41.26,Note,,0,0,0,,{\fs30\bord1.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(531,157)}Search
+Dialogue: 0,0:13:41.26,0:13:42.22,Note,,0,0,0,,{\fs30\bord1.5\1c&HB15EFA&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(531,157)}Search
 Dialogue: 0,0:13:36.96,0:13:39.88,Default,,0,0,0,,World Igo Net
 Dialogue: 0,0:13:40.75,0:13:42.22,Default,,0,0,0,,And search!
 Dialogue: 0,0:13:42.54,0:13:43.54,Default,,0,0,0,,Let's see...

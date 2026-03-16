@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 14 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 165
-Active Line: 193
-Video Position: 35539
+Scroll Position: 150
+Active Line: 158
+Video Position: 29509
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -196,10 +196,10 @@ Dialogue: 0,0:19:22.28,0:19:24.06,Default,,0,0,0,,You intend to play to the end?
 Dialogue: 0,0:19:40.73,0:19:41.70,Default,,0,0,0,,I resign...
 Dialogue: 0,0:19:43.19,0:19:44.66,Default,,0,0,0,,Thanks for the game.
 Dialogue: 0,0:20:26.09,0:20:30.59,Background,,0,0,0,,Kaiou against Haze, Kaiou wins with a score of 3-0
-Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(171,174)}I\Nw\Na\Nn\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
-Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(318,198)}H\Na\Nz\Ne\N\NJ\Nr\N\NH\Ni\Ng\Nh
-Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(462,150)}S\Na\Nw\Na\Nr\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
-Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(620,174)}K\Na\Ni\No\Nu\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\bord1.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(171,174)}I\Nw\Na\Nn\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\bord1.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(318,198)}H\Na\Nz\Ne\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\bord1.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(462,150)}S\Na\Nw\Na\Nr\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:20:30.75,0:20:34.80,NoteArialEF,,0,0,0,,{\fs24\bord1.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(620,174)}K\Na\Ni\No\Nu\N\NJ\Nr\N\NH\Ni\Ng\Nh
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:13.62,0:22:16.43,Default,,0,0,0,,Let's try Nigiri, which is used to\Ndecide black and white, today.

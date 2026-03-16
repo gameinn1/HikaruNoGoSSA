@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 12
-Active Line: 18
-Video Position: 3903
+Scroll Position: 42
+Active Line: 70
+Video Position: 7680
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,12 +57,12 @@ Dialogue: 0,0:02:40.34,0:02:41.40,Background,,0,0,0,,Sneaked off?
 Dialogue: 0,0:02:41.74,0:02:42.34,Default,,0,0,0,,Yes...
 Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,10,,{\fs19}[note: Wakajishisen is a fictional tournament that appears in Hikaru no Go.\NIt is based on a real tournament where new pros play Insei in a\Ntournament style match.]
 Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,10,,{\fs19\an2}[note: Insei are children who go to the Japanese Go Center to learn Go. They all\Naim to become pros some day, and they're all frighteningly good at the game]\N\N{\fs20}[note: Shuusaku is the person that Sai inhabited 100 years ago. He actually\Ndid exist, and is considered one of the greatest players of all time]
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(50,115)}A\NHundred\NDifferent\NTsumego
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(111,210)}The Key\Nto\NSolving\NTsumego
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(320,116)}Collection\Nof\NShuusaku's\NMatches
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(385,219)}Famous\NPro\NMatches
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(433,161)}Waka-\Njishisen
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(496,244)}Ouza\NMatches
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(50,115)}A\NHundred\NDifferent\NTsumego
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(111,210)}The Key\Nto\NSolving\NTsumego
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(320,116)}Collection\Nof\NShuusaku's\NMatches
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(385,219)}Famous\NPro\NMatches
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(433,161)}Waka-\Njishisen
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(496,244)}Ouza\NMatches
 Dialogue: 0,0:02:52.74,0:02:54.85,Default,,0,0,0,,As you can see, it's a mess.
 Dialogue: 0,0:02:56.46,0:02:59.83,Default,,0,0,0,,When we didn't have very many\Nmembers, this was the club room.
 Dialogue: 0,0:03:00.18,0:03:03.17,Default,,0,0,0,,But now... it's just storage for the club.
@@ -75,24 +75,24 @@ Dialogue: 0,0:03:27.75,0:03:29.11,Background,,0,0,0,,and an old Go magazine.
 Dialogue: 0,0:03:29.67,0:03:30.37,Default,,0,0,0,,Wow!
 Dialogue: 0,0:03:29.67,0:03:35.78,Note,,0,0,10,,{\fs19}[note: The Japanese Calendar doesn't work on the same system as the\NWestern calendar. They have periods that begin and end with the government.\NCurrently they are in the Heisei period which started about 15 years ago. The\NShouwa period was before the Heisei period, and lasted more than 60 years.]
 Dialogue: 0,0:03:30.77,0:03:32.94,Default,,0,0,0,,There are things here from the\Nbeginning of the Shouwa Period.
-Dialogue: 0,0:03:32.78,0:03:33.90,Note,,0,0,0,,{\fs32.5\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(346,192)}Learning
-Dialogue: 0,0:03:32.78,0:03:33.90,Note,,0,0,0,,{\fs32.5\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(376,242)}Joseki
+Dialogue: 0,0:03:32.78,0:03:33.90,Note,,0,0,0,,{\fs32.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1.5\shad1\pos(346,192)}Learning
+Dialogue: 0,0:03:32.78,0:03:33.90,Note,,0,0,0,,{\fs32.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1.5\shad1\pos(376,242)}Joseki
 Dialogue: 0,0:03:33.11,0:03:35.66,Background,,0,0,0,,Wow, this book is old too!
 Dialogue: 0,0:03:42.90,0:03:44.00,Thinking,,0,0,0,,{\1c&HC5FEC1&}Old Joseki...
 Dialogue: 0,0:03:45.31,0:03:47.78,Thinking,,0,0,0,,I've felt it since I first met Shindou Hikaru.
 Dialogue: 0,0:03:49.13,0:03:51.46,Thinking,,0,0,0,,{\1c&HC5FEC1&}For example, black's next move....
-Dialogue: 0,0:03:52.39,0:03:54.01,Thinking,,0,0,0,,{\1c&HC5FEC1&}These days we would hane the white stone.
+Dialogue: 0,0:03:52.34,0:03:54.01,Thinking,,0,0,0,,{\1c&HC5FEC1&}These days we would hane the white stone.
 Dialogue: 0,0:03:54.18,0:03:56.74,Thinking,,0,0,0,,{\1c&HC5FEC1&}It's considered to be the best move.
 Dialogue: 0,0:03:57.59,0:03:59.59,Thinking,,0,0,0,,{\1c&HC5FEC1&}But, you used... {\alpha&HFF&\t(1360,1360,\alpha&H00&)}a nobi.
 Dialogue: 0,0:04:00.32,0:04:01.63,Thinking,,0,0,0,,{\1c&HC5FEC1&}That's an old joseki.
 Dialogue: 0,0:04:03.28,0:04:05.13,Thinking,,0,0,0,,Sometimes, things like that happen.
-Dialogue: 0,0:04:05.86,0:04:07.73,Thinking,,0,0,0,,It may look like a weakness to attack...
-Dialogue: 0,0:04:08.13,0:04:10.69,Thinking,,0,0,0,,but you crushed me with your\Nstrength before I got a chance.
+Dialogue: 0,0:04:05.81,0:04:07.73,Thinking,,0,0,0,,It may look like a weakness to attack...
+Dialogue: 0,0:04:08.10,0:04:10.69,Thinking,,0,0,0,,but you crushed me with your\Nstrength before I got a chance.
 Dialogue: 0,0:04:11.46,0:04:14.44,Thinking,,0,0,0,,Just improving slightly won't surpass him.
-Dialogue: 0,0:04:14.92,0:04:15.62,Thinking,,0,0,0,,Surpassing him...
-Dialogue: 0,0:04:15.53,0:04:20.24,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(458,162)}Master
-Dialogue: 0,0:04:15.53,0:04:20.24,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(426,238.089)}of
-Dialogue: 0,0:04:15.53,0:04:20.24,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(394,314)}Tesuji
+Dialogue: 0,0:04:14.86,0:04:15.69,Thinking,,0,0,0,,Surpassing him...
+Dialogue: 0,0:04:15.53,0:04:20.24,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(458,162)}Master
+Dialogue: 0,0:04:15.53,0:04:20.24,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(426,238.089)}of
+Dialogue: 0,0:04:15.53,0:04:20.24,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(394,314)}Tesuji
 Dialogue: 0,0:04:16.31,0:04:19.32,Thinking,,0,0,0,,will require a strength great\Nenough to... create new Joseki...
 Dialogue: 0,0:04:21.29,0:04:23.95,Default,,0,0,0,,Could you play a game against me while you're at it?
 Dialogue: 0,0:04:24.79,0:04:25.59,Default,,0,0,0,,Oh wait...
@@ -103,7 +103,7 @@ Dialogue: 0,0:04:39.24,0:04:42.04,Default,,0,0,0,,You're telling me to play blin
 Dialogue: 0,0:04:42.25,0:04:43.20,Default,,0,0,0,,No, not at all.
 Dialogue: 0,0:04:43.57,0:04:46.42,Default,,0,0,0,,It's just that if you're a member of the Kaiou Go club...
 Dialogue: 0,0:04:46.71,0:04:51.10,Default,,0,0,0,,You have to do the chores, and you\Nalso have to obey your sempai.
-Dialogue: 0,0:04:51.99,0:04:54.27,Default,,0,0,0,,Go is different from Shougi,\Nthe board is a lot larger.
+Dialogue: 0,0:04:51.94,0:04:54.27,Default,,0,0,0,,Go is different from Shougi,\Nthe board is a lot larger.
 Dialogue: 0,0:04:55.03,0:04:58.17,Default,,0,0,0,,Are you aware that blind Go is\Ndifficult even for pros?
 Dialogue: 0,0:04:58.39,0:05:00.10,Default,,0,0,0,,You can do it right?
 Dialogue: 0,0:05:00.37,0:05:02.65,Default,,0,0,0,,You are the future Meijin after all.

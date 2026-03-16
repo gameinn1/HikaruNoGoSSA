@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 12 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 12 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 280
-Active Line: 298
-Video Position: 32552
+Video Zoom Percent: 0.625000
+Scroll Position: 251
+Active Line: 274
+Video Position: 28201
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -159,7 +159,7 @@ Dialogue: 0,0:08:13.16,0:08:16.93,Background,,0,0,0,,Touya, the tournament regis
 Dialogue: 0,0:08:17.03,0:08:17.89,Background,,0,0,0,,Take a look at it.
 Dialogue: 0,0:08:19.56,0:08:21.31,Default,,0,0,0,,Shindou is the third board!?
 Dialogue: 0,0:08:21.31,0:08:27.45,Background,,0,0,0,,Sometimes, they don't decide the boards\Nby strength for strategic purposes.
-Dialogue: 0,0:08:21.54,0:08:33.20,Note,,0,0,10,,{\fs20\shad1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}The Fourth Summer North District Jr. High Go Tournament Registration Form\N\N{\fs20}To the Tournament Officials\N\NThis Jr. High School wishes to register for the Fourth Summer North\NDistrict Jr. High Go Tournament. In participating, we promise to follow\Nthe rules of the tournament, and not engage in any dishonest conduct.\NIn the case that we do engage in dishonest conduct, we will\Nnot object to any sort of consequences that you may give.\N\NJr.High: Haze Public Jr. High School\N\NThe participants are as follows\NName   Year\NFirst Mitani Yuuki First\NSecond Tsutsui Tomihiko Third\N Third Shindou Hikaru First Year\NAlternate ____________\NAlternate ____________
+Dialogue: 0,0:08:21.54,0:08:33.20,Note,,0,0,10,,{\fs20\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}The Fourth Summer North District Jr. High Go Tournament Registration Form\N\N{\fs20}To the Tournament Officials\N\NThis Jr. High School wishes to register for the Fourth Summer North\NDistrict Jr. High Go Tournament. In participating, we promise to follow\Nthe rules of the tournament, and not engage in any dishonest conduct.\NIn the case that we do engage in dishonest conduct, we will\Nnot object to any sort of consequences that you may give.\N\NJr.High: Haze Public Jr. High School\N\NThe participants are as follows\NName   Year\NFirst Mitani Yuuki First\NSecond Tsutsui Tomihiko Third\N Third Shindou Hikaru First Year\NAlternate ____________\NAlternate ____________
 Dialogue: 0,0:08:27.93,0:08:33.20,Background,,0,0,0,,That Mitani is probably the weakest in the group.
 Dialogue: 0,0:08:34.04,0:08:36.41,Default,,0,0,0,,By throwing away the first board,
 Dialogue: 0,0:08:36.54,0:08:39.20,Default,,0,0,0,,they probably plan on\Ndefinitely taking the other two.
@@ -178,8 +178,8 @@ Dialogue: 0,0:09:32.59,0:09:34.43,Background,,0,0,0,,You were far better than I 
 Dialogue: 0,0:09:35.20,0:09:37.19,Default,,0,0,0,,You were just to good,
 Dialogue: 0,0:09:37.81,0:09:39.23,Default,,0,0,0,,you saw far deeper than I did.
 Dialogue: 0,0:09:39.60,0:09:41.52,Default,,0,0,0,,Perhaps I tried to control the center too much.
-Dialogue: 0,0:09:42.55,0:09:45.31,Background,,0,0,0,,It probably won't work because of all the\Ndiscontinuities in your stone formations.
-Dialogue: 0,0:09:42.55,0:09:53.38,Note,,0,0,0,,[note: Stone formations are usually stronger when they\Nare connected to each other. In this case, Akira was able\Nto cut Kishimoto's formations apart, weakening them.]
+Dialogue: 0,0:09:42.52,0:09:45.31,Background,,0,0,0,,It probably won't work because of all the\Ndiscontinuities in your stone formations.
+Dialogue: 0,0:09:42.52,0:09:53.38,Note,,0,0,0,,[note: Stone formations are usually stronger when they\Nare connected to each other. In this case, Akira was able\Nto cut Kishimoto's formations apart, weakening them.]
 Dialogue: 0,0:09:45.51,0:09:48.53,Background,,0,0,0,,I connected here in my desperation,
 Dialogue: 0,0:09:48.78,0:09:51.11,Background,,0,0,0,,and I was constantly on the defensive after that.
 Dialogue: 0,0:09:51.53,0:09:53.36,Background,,0,0,0,,You wouldn't let me do anything.
@@ -198,7 +198,7 @@ Dialogue: 0,0:10:38.95,0:10:39.99,Background,,0,0,0,,Now the girls...
 Dialogue: 0,0:10:41.60,0:10:42.58,Default,,0,0,0,,Teacher!
 Dialogue: 0,0:10:43.05,0:10:46.08,Default,,0,0,0,,Weren't you going to make me third board!?
 Dialogue: 0,0:10:53.55,0:10:54.63,Default,,0,0,0,,Teacher!
-Dialogue: 0,0:11:01.64,0:11:06.19,Note,,0,0,10,,{\fs30\shad1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&}Japanese Go Institution Center
+Dialogue: 0,0:11:01.64,0:11:06.19,Note,,0,0,10,,{\fs30\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Japanese Go Institution Center
 Dialogue: 0,0:11:17.90,0:11:20.58,Background,,0,0,0,,Good morning Mr. Kuwabara
 Dialogue: 0,0:11:20.58,0:11:24.58,Default,,0,0,0,,Oh! I haven't seen you in awhile.
 Dialogue: 0,0:11:25.43,0:11:27.92,Default,,0,0,0,,Perfect, let me talk to you for a bit then.
@@ -269,9 +269,9 @@ Dialogue: 0,0:16:33.01,0:16:36.27,Default,,0,0,0,,Once this tournament is over, 
 Dialogue: 0,0:16:38.90,0:16:41.19,Default,,0,0,0,,Teacher! I...!
 Dialogue: 0,0:16:51.41,0:16:52.74,Default,,0,0,0,,Teacher!
 Dialogue: 0,0:16:57.47,0:16:58.71,Default,,0,0,0,,Touya...
-Dialogue: 0,0:17:01.67,0:17:06.67,Note,,0,0,0,,{\fs17.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(510,10)}T\Nh\Ne\N\NF\No\Nu\Nr\Nt\Nh\N\NA\Nn\Nn\Nu\Na\Nl
-Dialogue: 0,0:17:01.67,0:17:06.67,Note,,0,0,0,,{\fs17.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(370,10)}S\Nu\Nm\Nm\Ne\Nr\N\NN\No\Nr\Nt\Nh\N\ND\Ni\Ns\Nt\Nr\Ni\Nc\Nt
-Dialogue: 0,0:17:01.67,0:17:06.67,Note,,0,0,0,,{\fs17.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(250,10)}J\Nr\N\NH\Ni\Ng\Nh\N\NG\No\N\NT\No\Nu\Nr\Nn\Na\Nm\Ne\Nn\Nt\N\NH\Na\Nl\Nl
+Dialogue: 0,0:17:01.67,0:17:06.67,Note,,0,0,0,,{\fs17.5\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(510,10)}T\Nh\Ne\N\NF\No\Nu\Nr\Nt\Nh\N\NA\Nn\Nn\Nu\Na\Nl
+Dialogue: 0,0:17:01.67,0:17:06.67,Note,,0,0,0,,{\fs17.5\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(370,10)}S\Nu\Nm\Nm\Ne\Nr\N\NN\No\Nr\Nt\Nh\N\ND\Ni\Ns\Nt\Nr\Ni\Nc\Nt
+Dialogue: 0,0:17:01.67,0:17:06.67,Note,,0,0,0,,{\fs17.5\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(250,10)}J\Nr\N\NH\Ni\Ng\Nh\N\NG\No\N\NT\No\Nu\Nr\Nn\Na\Nm\Ne\Nn\Nt\N\NH\Na\Nl\Nl
 Dialogue: 0,0:17:18.88,0:17:20.48,Default,,0,0,0,,Hey! Mitani!
 Dialogue: 0,0:17:27.32,0:17:32.86,Default,,0,0,0,,Great, I thought you might\Nnot come, out of fear of Kaiou.
 Dialogue: 0,0:17:32.95,0:17:34.16,Default,,0,0,0,,You've gotta be kidding.
@@ -311,10 +311,10 @@ Dialogue: 0,0:19:23.90,0:19:26.60,Sai,,0,0,0,,Is it really that simple Hikaru?
 Dialogue: 0,0:19:27.06,0:19:29.52,Sai,,0,0,0,,He'll be trying his best too...
 Dialogue: 0,0:19:29.52,0:19:33.49,Default,,0,0,0,,Come on, my target is Kaiou.
 Dialogue: 0,0:19:33.87,0:19:36.15,Default,,0,0,0,,I can't afford to lose my first round.
-Dialogue: 0,0:19:36.20,0:19:42.14,Note,,0,0,0,,{\fs23.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(52,45)}I\Nw\Na\Nn\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
-Dialogue: 0,0:19:36.20,0:19:42.14,Note,,0,0,0,,{\fs23.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(190,45)}H\Na\Nz\Ne\N\NJ\Nr\N\NH\Ni\Ng\Nh
-Dialogue: 0,0:19:36.20,0:19:42.14,Note,,0,0,0,,{\fs23.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(332,45)}S\Na\Nw\Na\Nr\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
-Dialogue: 0,0:19:36.20,0:19:42.14,Note,,0,0,0,,{\fs23.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\pos(472,45)}K\Na\Ni\No\Nu\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:19:36.20,0:19:42.14,Note,,0,0,0,,{\fs23.5\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(52,45)}I\Nw\Na\Nn\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:19:36.20,0:19:42.14,Note,,0,0,0,,{\fs23.5\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(190,45)}H\Na\Nz\Ne\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:19:36.20,0:19:42.14,Note,,0,0,0,,{\fs23.5\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(332,45)}S\Na\Nw\Na\Nr\Na\N\NJ\Nr\N\NH\Ni\Ng\Nh
+Dialogue: 0,0:19:36.20,0:19:42.14,Note,,0,0,0,,{\fs23.5\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(472,45)}K\Na\Ni\No\Nu\N\NJ\Nr\N\NH\Ni\Ng\Nh
 Dialogue: 0,0:19:36.49,0:19:40.91,Background,,0,0,0,,Then, if I do my best up against Kaiou...
 Dialogue: 0,0:19:41.12,0:19:42.16,Background,,0,0,0,,maybe...
 Dialogue: 0,0:19:42.55,0:19:46.87,Sai,,0,0,0,,Kaiou's third board will try his best too, Hikaru...

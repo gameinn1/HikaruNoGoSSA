@@ -104,7 +104,7 @@ Dialogue: 0,0:02:22.21,0:02:23.25,Default,,0,0,0,,Six straight wins!?
 Dialogue: 0,0:02:23.96,0:02:26.71,Default,,0,0,0,,Shindou... Shindou has six straight wins...
 Dialogue: 0,0:02:27.46,0:02:32.42,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Thirty-Eighth Match
 Dialogue: 0,0:02:27.46,0:02:32.42,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Challengers
-Dialogue: 0,0:02:33.47,0:02:38.43,NoteArialEF,,0,0,0,,{\fs30\bord1\fad(751,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,355)}Seventh Match of the Pro Exam Finals
+Dialogue: 0,0:02:33.47,0:02:38.43,NoteArialEF,,0,0,0,,{\fs30\bord1\fad(751,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Seventh Match of the Pro Exam Finals
 Dialogue: 0,0:02:35.13,0:02:38.43,Note,,0,0,0,,Japanese Go Research Center
 Dialogue: 0,0:02:42.89,0:02:44.08,Default,,0,0,0,,It's finally time!
 Dialogue: 0,0:02:45.49,0:02:50.84,Default,,0,0,0,,I was so happy last night, I couldn't sleep.
@@ -179,9 +179,9 @@ Dialogue: 0,0:07:27.87,0:07:32.58,Sai,,0,0,0,,Though they all have different tal
 Dialogue: 0,0:07:33.31,0:07:37.13,Sai,,0,0,0,,they all love Go and concentrate on Go.
 Dialogue: 0,0:07:37.89,0:07:44.12,Sai,,0,0,0,,In this race none of that matters, and\Nwhoever wins the most can become pro...
 Dialogue: 0,0:07:49.14,0:07:52.54,Sai,,0,0,0,,Hikaru had a victory against Tsubaki.
-Dialogue: 0,0:07:52.87,0:07:56.37,NoteArialEF,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,355)}Eighth Match of the Pro Exam Finals
+Dialogue: 0,0:07:52.87,0:07:56.37,NoteArialEF,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Eighth Match of the Pro Exam Finals
 Dialogue: 0,0:08:11.65,0:08:19.55,Thinking,,0,0,0,,After Eight matches, Isumi-kun, Ochi-kun, Waya-kun,\Nand even Shindou-kun are still undefeated!
-Dialogue: 0,0:08:20.77,0:08:24.19,NoteArialEF,,0,0,0,,{\fs30\bord1\fad(751,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,355)}Ninth Match of the Pro Exam Finals
+Dialogue: 0,0:08:20.77,0:08:24.19,NoteArialEF,,0,0,0,,{\fs30\bord1\fad(751,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Ninth Match of the Pro Exam Finals
 Dialogue: 0,0:08:24.93,0:08:28.20,Default,,0,0,0,,Waya lost!? His opponent was... Adachi...
 Dialogue: 0,0:08:28.89,0:08:30.44,Default,,0,0,0,,Isumi-san you won?
 Dialogue: 0,0:08:31.79,0:08:35.38,Default,,0,0,0,,Well even though he's lost, it's only his first loss.
@@ -277,7 +277,7 @@ Dialogue: 0,0:15:49.81,0:15:52.47,Thinking,,0,0,0,,Shindou... why Shindou!?
 Dialogue: 0,0:15:52.97,0:15:57.26,Thinking,,0,0,0,,He came up to first class before I realized it,\Nand he was at the top before I realized it.
 Dialogue: 0,0:15:58.16,0:16:01.42,Thinking,,0,0,0,,Now he's going through the pro\Nexams with only one loss.
 Dialogue: 0,0:16:02.46,0:16:04.52,Memory,,0,0,0,,He's changed.
-Dialogue: 0,0:16:14.58,0:16:17.21,NoteArialEF,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,355)}Eleventh Match of the Pro Exam Finals
+Dialogue: 0,0:16:14.58,0:16:17.21,NoteArialEF,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Eleventh Match of the Pro Exam Finals
 Dialogue: 0,0:16:26.63,0:16:31.13,Default,,0,0,0,,Oh, Honda-kun. How many pairs are still playing?
 Dialogue: 0,0:16:31.62,0:16:32.60,Default,,0,0,0,,One pair.
 Dialogue: 0,0:16:33.21,0:16:36.19,Background,,0,0,0,,I guess it'll be awhile still...
@@ -315,7 +315,7 @@ Dialogue: 0,0:19:24.06,0:19:25.73,Sai,,0,0,0,,{\an8}Take this!
 Dialogue: 0,0:19:25.35,0:19:27.15,Background,,0,0,0,,{\an8}Oh, I didn't know you could do that!
 Dialogue: 0,0:19:27.19,0:19:29.69,Background,,0,0,0,,{\an8}Why you! Take this!
 Dialogue: 0,0:19:27.79,0:19:29.81,Default,,0,0,0,,What are you raising a commotion over up there?
-Dialogue: 0,0:19:29.98,0:19:33.99,NoteArialEF,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,355)}Twelfth Match of the Pro Exam Finals
+Dialogue: 0,0:19:29.98,0:19:33.99,NoteArialEF,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Twelfth Match of the Pro Exam Finals
 Dialogue: 0,0:19:40.32,0:19:42.05,Memory,,0,0,0,,What do you think of Shindou?
 Dialogue: 0,0:19:44.04,0:19:47.90,Thinking,,0,0,0,,Isumi-san will give Shindou his second loss today.
 Dialogue: 0,0:19:48.83,0:19:51.65,Thinking,,0,0,0,,That's my answer to you, Touya Akira.

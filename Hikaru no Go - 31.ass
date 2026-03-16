@@ -49,7 +49,7 @@ Dialogue: 0,0:01:53.30,0:01:56.30,Thinking,,0,0,0,,Shindou was laughing...
 Dialogue: 0,0:01:56.76,0:01:59.79,Thinking,,0,0,0,,does he understand that we're all rivals?
 Dialogue: 0,0:01:59.93,0:02:04.90,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(320,115)}The Thirty-First Match
 Dialogue: 0,0:01:59.93,0:02:04.90,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Preliminary Starts
-Dialogue: 0,0:02:09.40,0:02:10.99,Note,,0,0,0,,{\fs20\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(530,104)}Japanese Go Institute
+Dialogue: 0,0:02:09.40,0:02:10.99,Note,,0,0,0,,{\fs20\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(530,104)}Japanese Go Institute
 Dialogue: 0,0:02:11.38,0:02:15.45,Default,,0,0,0,,The Pro exam preliminaries start today\Nand go for five days. One match a day.
 Dialogue: 0,0:02:16.02,0:02:20.45,Sai,,0,0,0,,Those with three wins get to advance\Nto the finals a month from now right?
 Dialogue: 0,0:02:20.71,0:02:21.37,Default,,0,0,0,,Yeah.
@@ -172,7 +172,7 @@ Dialogue: 0,0:10:55.89,0:10:57.64,Sai,,0,0,0,,Hikaru! You can't go with him!
 Dialogue: 0,0:10:57.93,0:10:59.60,Default,,0,0,0,,B-But!
 Dialogue: 0,0:11:05.54,0:11:06.98,Default,,0,0,0,,Shindou-kun...
 Dialogue: 0,0:11:07.80,0:11:10.91,Default,,0,0,0,,Hamburgers!? You've gotta be kidding!
-Dialogue: 0,0:11:10.91,0:11:14.86,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(374,104)}S\No\Nb\Na\N\NS\Nt\No\Nr\Ne
+Dialogue: 0,0:11:10.91,0:11:14.86,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(374,104)}S\No\Nb\Na\N\NS\Nt\No\Nr\Ne
 Dialogue: 0,0:11:12.19,0:11:14.86,Background,,0,0,0,,Let's eat at that Soba store! Okay? Soba!
 Dialogue: 0,0:11:20.53,0:11:25.11,Default,,0,0,0,,Don't worry, it's on me. I won't make a kid pay.
 Dialogue: 0,0:11:25.43,0:11:27.87,Default,,0,0,0,,No, it's not that...
@@ -213,7 +213,7 @@ Dialogue: 0,0:13:22.04,0:13:25.91,Default,,0,0,0,,You won't ever be an adult unl
 Dialogue: 0,0:13:27.62,0:13:29.71,Default,,0,0,0,,Eat already, the noodle's going to go bad.
 Dialogue: 0,0:13:29.87,0:13:32.32,Thinking,,0,0,0,,I don't really like Soba.
 Dialogue: 0,0:13:33.28,0:13:36.80,Sai,,0,0,0,,He's completely been overwhelmed.\NThere's no way he can win like this.
-Dialogue: 0,0:13:37.67,0:13:40.17,Note,,0,0,0,,{\fs19\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1)\frz345\pos(341,185)}Japanese Go Institute.
+Dialogue: 0,0:13:37.67,0:13:40.17,Note,,0,0,0,,{\fs19\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1)\frz345\pos(341,185)}Japanese Go Institute.
 Dialogue: 0,0:13:46.36,0:13:47.42,Default,,0,0,0,,This is the end game.
 Dialogue: 0,0:13:54.49,0:13:55.18,Default,,0,0,0,,You won?
 Dialogue: 0,0:14:02.66,0:14:04.66,Default,,0,0,0,,I win by four and a half moku!
@@ -249,7 +249,7 @@ Dialogue: 0,0:15:32.12,0:15:35.20,Default,,0,0,0,,Two days!? There are games tha
 Dialogue: 0,0:15:35.74,0:15:37.62,Default,,0,0,0,,You didn't even know that?
 Dialogue: 0,0:15:38.08,0:15:40.34,Default,,0,0,0,,Yes there are. There are games\Nthat you spend two days on.
 Dialogue: 0,0:15:40.50,0:15:44.21,Default,,0,0,0,,Though the only people who play it are a few select\Nindividuals from the top ranks of the pro.
-Dialogue: 0,0:15:44.21,0:15:47.43,Note,,0,0,0,,{\fs30\1c&H008182&\3c&HFFFFFF&\4c&HDDDDDD&\shad1)\pos(444,4)}Japanese Go Institute
+Dialogue: 0,0:15:44.21,0:15:47.43,Note,,0,0,0,,{\fs30\1c&H008182&\3c&HFFFFFF&\4c&HFFFFFF&\shad1)\pos(444,4)}Japanese Go Institute
 Dialogue: 0,0:15:48.06,0:15:50.95,Background,,0,0,0,,Our priority is the pro exam!
 Dialogue: 0,0:15:51.32,0:15:55.39,Default,,0,0,0,,Listen, don't think about the match\Nduring the lunch break.
 Dialogue: 0,0:15:55.46,0:16:02.90,Default,,0,0,0,,And, even if we do have two hours, leaving for the\Nfirst half hour is obviously a plot to upset you!
@@ -307,8 +307,8 @@ Dialogue: 0,0:18:55.25,0:18:58.61,Default,,0,0,0,,I'm irritated right now becaus
 Dialogue: 0,0:18:59.35,0:19:00.30,Default,,0,0,0,,Hey Hikaru!
 Dialogue: 0,0:19:00.83,0:19:02.10,Default,,0,0,0,,Call me when dinner's ready.
 Dialogue: 0,0:19:03.52,0:19:09.97,Default,,0,0,0,,Huh? What? Umm... pro? What?
-Dialogue: 0,0:19:09.96,0:19:12.96,Note,,0,0,0,,{\fs19\1c&H008182&\3c&HFFFFFF&\4c&HDDDDDD&\shad1)\frz345\pos(330,180)}Japanese Go Institute
-Dialogue: 0,0:19:09.97,0:19:12.96,Note,,0,0,90,,{\an2\fs24\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Second day of Pro Exam Preliminaries
+Dialogue: 0,0:19:09.96,0:19:12.96,Note,,0,0,0,,{\fs19\1c&H008182&\3c&HFFFFFF&\4c&HFFFFFF&\shad1)\frz345\pos(330,180)}Japanese Go Institute
+Dialogue: 0,0:19:09.97,0:19:12.96,Note,,0,0,90,,{\an2\fs24\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Second day of Pro Exam Preliminaries
 Dialogue: 0,0:19:14.36,0:19:16.42,Thinking,,0,0,0,,That bearded guy's here already.
 Dialogue: 0,0:19:17.93,0:19:23.76,Thinking,,0,0,0,,It doesn't matter. He's not my opponent anymore.\NI won't let him push me around anymore.
 Dialogue: 0,0:19:26.32,0:19:28.16,Default,,0,0,0,,I just need to avoid him.
@@ -325,31 +325,31 @@ Dialogue: 0,0:20:11.07,0:20:13.94,Thinking,,0,0,0,,Shindou can't do it...
 Dialogue: 0,0:20:31.75,0:20:32.75,Default,,0,0,0,,Please begin.
 Dialogue: 0,0:20:34.84,0:20:35.76,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:22:12.54,0:22:14.38,Default,,0,0,0,,Let's do Tesuji today!
-Dialogue: 0,0:22:12.59,0:22:14.46,Note,,0,0,95,,{\an2\fad(334,0)\fs30\1c&H1B7BF5&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Teacher Yukari
+Dialogue: 0,0:22:12.59,0:22:14.46,Note,,0,0,95,,{\an2\fad(334,0)\fs30\1c&H1B7BF5&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Teacher Yukari
 Dialogue: 0,0:22:14.73,0:22:16.31,Default,,0,0,0,,It's white's turn in this formation.
-Dialogue: 0,0:22:14.56,0:22:14.68,Note,,0,0,115,,{\an2\fs30\1c&H0F8C18&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(-70,365,320,365)}Today is{\1c&H1D02E2&\3c&HFFFFFF&\4c&HDDDDDD&\shad1} [Tesuji]
-Dialogue: 0,0:22:14.68,0:22:16.81,Note,,0,0,115,,{\an2\fad(0,375)\fs30\1c&H0F8C18&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,365)}Today is{\1c&H1D02E2&\3c&HFFFFFF&\4c&HDDDDDD&\shad1} [Tesuji]
+Dialogue: 0,0:22:14.56,0:22:14.68,Note,,0,0,115,,{\an2\fs30\1c&H0F8C18&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(-70,365,320,365)}Today is{\1c&H1D02E2&\3c&HFFFFFF&\4c&HFFFFFF&\shad1} [Tesuji]
+Dialogue: 0,0:22:14.68,0:22:16.81,Note,,0,0,115,,{\an2\fad(0,375)\fs30\1c&H0F8C18&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,365)}Today is{\1c&H1D02E2&\3c&HFFFFFF&\4c&HFFFFFF&\shad1} [Tesuji]
 Dialogue: 0,0:22:16.56,0:22:22.20,Default,,0,0,0,,There are white stones that are about\Nto be captured. But white can save\Nit by capturing the black stones.
-Dialogue: 0,0:22:20.51,0:22:20.55,Note,,0,0,0,,{\an2\fs30\1c&HED0000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(125,415,125,345)}Yuuki
-Dialogue: 0,0:22:20.51,0:22:20.55,Note,,0,0,0,,{\an2\fs30\1c&HFF1EF7&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(507,415,507,345)}Mai
-Dialogue: 0,0:22:20.55,0:22:22.42,Note,,0,0,0,,{\an2\fs30\1c&HED0000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(125,345)}Yuuki
-Dialogue: 0,0:22:20.55,0:22:22.42,Note,,0,0,0,,{\an2\fs30\1c&HFF1EF7&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(507,345)}Mai
-Dialogue: 0,0:22:22.42,0:22:22.50,Note,,0,0,0,,{\an2\fs30\1c&HED0000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(125,345,125,600)}Yuuki
-Dialogue: 0,0:22:22.42,0:22:22.50,Note,,0,0,0,,{\an2\fs30\1c&HFF1EF7&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(507,345,507,600)}Mai
+Dialogue: 0,0:22:20.51,0:22:20.55,Note,,0,0,0,,{\an2\fs30\1c&HED0000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(125,415,125,345)}Yuuki
+Dialogue: 0,0:22:20.51,0:22:20.55,Note,,0,0,0,,{\an2\fs30\1c&HFF1EF7&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(507,415,507,345)}Mai
+Dialogue: 0,0:22:20.55,0:22:22.42,Note,,0,0,0,,{\an2\fs30\1c&HED0000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(125,345)}Yuuki
+Dialogue: 0,0:22:20.55,0:22:22.42,Note,,0,0,0,,{\an2\fs30\1c&HFF1EF7&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(507,345)}Mai
+Dialogue: 0,0:22:22.42,0:22:22.50,Note,,0,0,0,,{\an2\fs30\1c&HED0000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(125,345,125,600)}Yuuki
+Dialogue: 0,0:22:22.42,0:22:22.50,Note,,0,0,0,,{\an2\fs30\1c&HFF1EF7&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(507,345,507,600)}Mai
 Dialogue: 0,0:22:22.62,0:22:24.44,Default,,0,0,0,,What should white do?
-Dialogue: 0,0:22:26.35,0:22:28.67,Note,,0,0,93,,{\an2\fs30\fad(626,542)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Can you save the white stones?
+Dialogue: 0,0:22:26.35,0:22:28.67,Note,,0,0,93,,{\an2\fs30\fad(626,542)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Can you save the white stones?
 Dialogue: 0,0:22:29.21,0:22:30.39,Default,,0,0,0,,What would you do Mai-chan?
-Dialogue: 0,0:22:31.93,0:22:33.69,Note,,0,0,93,,{\an2\fs30\fad(626,542)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}The black stones connected.
+Dialogue: 0,0:22:31.93,0:22:33.69,Note,,0,0,93,,{\an2\fs30\fad(626,542)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}The black stones connected.
 Dialogue: 0,0:22:31.74,0:22:37.15,Default,,0,0,0,,They connected. You were trying\Nto save them, but you couldn't.
-Dialogue: 0,0:22:38.00,0:22:40.62,Note,,0,0,93,,{\an2\fs30\fad(209,375)\1c&HF50000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}Let's try again!!
+Dialogue: 0,0:22:38.00,0:22:40.62,Note,,0,0,93,,{\an2\fs30\fad(209,375)\1c&HF50000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Let's try again!!
 Dialogue: 0,0:22:37.56,0:22:39.55,Default,,0,0,0,,There should be a better move.
 Dialogue: 0,0:22:45.23,0:22:46.94,Background,,0,0,0,,Oh? What?
 Dialogue: 0,0:22:47.11,0:22:48.03,Background,,0,0,0,,He took it!
-Dialogue: 0,0:22:48.54,0:22:52.16,Note,,0,0,93,,{\an2\fs24\fad(209,375)\1c&H1200E9&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}He captured a lot of black stones while saving the white stones!
+Dialogue: 0,0:22:48.54,0:22:52.16,Note,,0,0,93,,{\an2\fs24\fad(209,375)\1c&H1200E9&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}He captured a lot of black stones while saving the white stones!
 Dialogue: 0,0:22:49.37,0:22:50.46,Default,,0,0,0,,I got them!
 Dialogue: 0,0:22:50.56,0:22:55.13,Default,,0,0,0,,Letting them capture first, and then attacking\Nwas the correct way to play.
-Dialogue: 0,0:22:54.97,0:22:55.32,Note,,0,0,0,,{\an2\fs50\1c&H1100E6&\3c&HFFFFFF&\4c&HDDDDDD&\bord1\shad1\i1\move(320,-10,320,472)}To be continued...{\i0}
-Dialogue: 0,0:22:55.32,0:22:57.36,Note,,0,0,0,,{\an2\fs50\1c&H1100E6&\3c&HFFFFFF&\4c&HDDDDDD&\bord1\shad1\i1\pos(320,472)}To be continued...{\i0}
+Dialogue: 0,0:22:54.97,0:22:55.32,Note,,0,0,0,,{\an2\fs50\1c&H1100E6&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\move(320,-10,320,472)}To be continued...{\i0}
+Dialogue: 0,0:22:55.32,0:22:57.36,Note,,0,0,0,,{\an2\fs50\1c&H1100E6&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(320,472)}To be continued...{\i0}
 Dialogue: 0,0:22:59.49,0:23:01.76,Default,,0,0,0,,Shut up! I'm trying to think right now!
 Dialogue: 0,0:23:03.16,0:23:07.85,Sai,,0,0,0,,Play normally... that becomes harder\Nas you become more desperate.
 Dialogue: 0,0:23:09.37,0:23:11.87,Default,,0,0,0,,We might play each other tomorrow.

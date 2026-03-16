@@ -112,7 +112,7 @@ Dialogue: 0,0:02:46.85,0:02:48.89,Default,,0,0,0,,There was quite a commotion ov
 Dialogue: 0,0:02:49.72,0:02:51.38,Default,,0,0,0,,So Kadowaki is...
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,370,1,\fscx100)\blur0.8\pos(300,115)}The Thirtieth Match
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,370,1,\fscx100)\pos(325,365)}Ogata VS Honinbou
-Dialogue: 0,0:03:00.03,0:03:04.08,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad0\fscx99\frz345\move(426,496,351,216)}Japanese Go Institute
+Dialogue: 0,0:03:00.03,0:03:04.08,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fscx99\frz345\move(426,496,351,216)}Japanese Go Institute
 Dialogue: 0,0:03:09.19,0:03:12.77,Default,,0,0,0,,Haven't been here since the\NMeijin match in college.
 Dialogue: 0,0:03:13.32,0:03:13.90,Default,,0,0,0,,Oh yeah...
 Dialogue: 0,0:03:16.62,0:03:21.47,Default,,0,0,0,,It's me. I'm at a place full of memories right now.
@@ -165,7 +165,7 @@ Dialogue: 0,0:07:14.26,0:07:20.41,Sai,,0,0,0,,This is the first time I've played
 Dialogue: 0,0:07:21.68,0:07:25.06,Default,,0,0,0,,Don't think too much. I want to\Ngo home before it gets dark.
 Dialogue: 0,0:07:27.38,0:07:28.31,Sai,,0,0,0,,Okay.
 Dialogue: 0,0:07:31.67,0:07:33.51,Sai,,0,0,0,,Upper right corner, Komoku!
-Dialogue: 0,0:08:10.89,0:08:16.85,Note,,0,0,0,,{\fs24\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(322,425)}Seventh game of the Honinbou game.
+Dialogue: 0,0:08:10.89,0:08:16.85,Note,,0,0,0,,{\fs24\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(322,425)}Seventh game of the Honinbou game.
 Dialogue: 0,0:08:34.41,0:08:36.82,Thinking,,0,0,0,,The first day will end in two more minutes.
 Dialogue: 0,0:08:38.41,0:08:41.00,Thinking,,0,0,0,,Master Kuwabara will probably be sealing the move.
 Dialogue: 0,0:08:41.84,0:08:45.63,Thinking,,0,0,0,,{\1c&HC5FEC1&}But it really is already the seventh\Ngame of the Honinbou match...
@@ -182,7 +182,7 @@ Dialogue: 0,0:10:44.06,0:10:44.92,Default,,0,0,0,,Here you go.
 Dialogue: 0,0:10:45.46,0:10:45.92,Default,,0,0,0,,Okay.
 Dialogue: 0,0:10:47.31,0:10:50.07,Background,,0,0,0,,I'm starved! Let's eat! Let's eat!
 Dialogue: 0,0:10:50.20,0:10:55.97,Background,,0,0,0,,There's a store with great eel around here.\NRecord keeper boy, come with us.
-Dialogue: 0,0:10:55.51,0:10:58.85,Note,,0,0,0,,{\fs24\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz344\pos(334,206)}Kakimoto
+Dialogue: 0,0:10:55.51,0:10:58.85,Note,,0,0,0,,{\fs24\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz344\pos(334,206)}Kakimoto
 Dialogue: 0,0:10:56.09,0:10:58.09,Background,,0,0,0,,Oh! Thank you!
 Dialogue: 0,0:10:59.73,0:11:02.92,Default,,0,0,0,,I'll go change, so please wait for me in the lobby.
 Dialogue: 0,0:11:03.23,0:11:05.06,Default,,0,0,0,,Kakimoto-san, you're coming too right?
@@ -219,7 +219,7 @@ Dialogue: 0,0:13:26.52,0:13:29.06,Default,,0,0,0,,Well, let's go eat now!
 Dialogue: 0,0:13:33.63,0:13:37.63,Default,,0,0,0,,You said earlier that you had a feeling that a\Nnew wave was coming upon the Go world.
 Dialogue: 0,0:13:38.13,0:13:46.56,Default,,0,0,0,,Sounds interesting. It's still too early to leave then.
 Dialogue: 0,0:13:48.15,0:13:54.30,Default,,0,0,0,,I think I'll face that wave, keeping\Nthis title of Honinbou.
-Dialogue: 0,0:14:03.82,0:14:08.66,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz342\pos(390,274)}Go Institute of Japan
+Dialogue: 0,0:14:03.82,0:14:08.66,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz342\pos(390,274)}Go Institute of Japan
 Dialogue: 0,0:14:18.98,0:14:20.01,Default,,0,0,0,,I resign.
 Dialogue: 0,0:14:21.82,0:14:23.30,Default,,0,0,0,,T-Thanks for the game.
 Dialogue: 0,0:14:24.14,0:14:26.31,Thinking,,0,0,0,,H-He's really strong.
@@ -239,7 +239,7 @@ Dialogue: 0,0:15:56.29,0:15:59.92,Default,,0,0,0,,I'm gonna re-train myself for 
 Dialogue: 0,0:16:00.63,0:16:04.69,Default,,0,0,0,,Yeah, I said I'm gonna take it next year.
 Dialogue: 0,0:16:09.90,0:16:14.39,Default,,0,0,0,,I'm going to do my best. My very best.
 Dialogue: 0,0:16:42.61,0:16:44.81,Default,,0,0,0,,It's time, so please begin.
-Dialogue: 0,0:16:47.40,0:16:53.37,Note,,0,0,0,,{\fs24\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\frz47\pos(378,292)}Kakimoto
+Dialogue: 0,0:16:47.40,0:16:53.37,Note,,0,0,0,,{\fs24\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz47\pos(378,292)}Kakimoto
 Dialogue: 0,0:17:17.73,0:17:19.02,Default,,0,0,0,,3-12
 Dialogue: 0,0:17:22.68,0:17:27.54,Thinking,,0,0,0,,3-12... so he decided that going\Nfor the left side was the best.
 Dialogue: 0,0:17:28.94,0:17:30.49,Thinking,,0,0,0,,I guessed wrong...
@@ -248,7 +248,7 @@ Dialogue: 0,0:17:38.18,0:17:42.59,Thinking,,0,0,0,,Did something happen between 
 Dialogue: 0,0:17:47.21,0:17:50.05,Default,,0,0,0,,I have no intentions of listening\Nto an old man's ramblings.
 Dialogue: 0,0:17:50.63,0:17:53.02,Default,,0,0,0,,I will take the seat of Honinbou.
 Dialogue: 0,0:17:53.51,0:17:56.97,Default,,0,0,0,,The next generation is almost here!
-Dialogue: 0,0:18:15.37,0:18:22.83,Note,,0,0,0,,{\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1}[Newspaper: Kuwabara Honinbou Defends his Title]\N[Newspaper: Honinbou Match Seventh Game]
+Dialogue: 0,0:18:15.37,0:18:22.83,Note,,0,0,0,,{\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}[Newspaper: Kuwabara Honinbou Defends his Title]\N[Newspaper: Honinbou Match Seventh Game]
 Dialogue: 0,0:18:17.87,0:18:22.84,Background,,0,0,0,,Hey! Is it true that neither Waya nor Isumi-san\Nhave to take the preliminaries for the pro exams?
 Dialogue: 0,0:18:23.40,0:18:27.47,Default,,0,0,0,,Yeah. The top eight in the Insei rankings\Ndon't have to take the preliminaries.
 Dialogue: 0,0:18:27.99,0:18:31.39,Default,,0,0,0,,I was ninth last year, man that sucked.
@@ -270,10 +270,10 @@ Dialogue: 0,0:19:39.28,0:19:40.70,Thinking,,0,0,0,,Only three of us can become p
 Dialogue: 0,0:19:41.91,0:19:43.81,Thinking,,0,0,0,,I won't lose!
 Dialogue: 0,0:19:46.25,0:19:50.87,Thinking,,0,0,0,,Shindou... we can't all pass it together...
 Dialogue: 0,0:20:04.55,0:20:06.56,Default,,0,0,0,,It's finally time!
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(125,0,125,188)}K\Ny\Nu\N\NR\Na\Nn\Nk\Ne\Nd\N\NP\Nl\Na\Ny\Ne\Nr\Ns\N\ND\Na\Ny\N\N2nd\N\NF\Nl\No\No\Nr
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(227,0,227,188)}P\Nu\Nb\Nl\Ni\Nc\N\NM\Na\Nt\Nc\Nh\N\NR\No\No\Nm\N\N2nd\N\NF\Nl\No\No\Nr
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(328,0,328,188)}P\Nr\No\N\NE\Nx\Na\Nm\Ni\Nn\Na\Nt\Ni\No\Nn\N\N6th\NF\Nl\No\No\Nr
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\move(461,0,461,188)}T\No\Nd\Na\Ny\N'\Ns\N\NE\Nv\Ne\Nn\Nt\Ns
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(125,0,125,188)}K\Ny\Nu\N\NR\Na\Nn\Nk\Ne\Nd\N\NP\Nl\Na\Ny\Ne\Nr\Ns\N\ND\Na\Ny\N\N2nd\N\NF\Nl\No\No\Nr
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(227,0,227,188)}P\Nu\Nb\Nl\Ni\Nc\N\NM\Na\Nt\Nc\Nh\N\NR\No\No\Nm\N\N2nd\N\NF\Nl\No\No\Nr
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(328,0,328,188)}P\Nr\No\N\NE\Nx\Na\Nm\Ni\Nn\Na\Nt\Ni\No\Nn\N\N6th\NF\Nl\No\No\Nr
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(461,0,461,188)}T\No\Nd\Na\Ny\N'\Ns\N\NE\Nv\Ne\Nn\Nt\Ns
 Dialogue: 0,0:20:16.50,0:20:17.98,Default,,0,0,0,,I'm finally here...
 Dialogue: 0,0:20:18.38,0:20:21.61,Sai,,0,0,0,,You're finally here? Your journey starts here.
 Dialogue: 0,0:20:22.04,0:20:23.36,Default,,0,0,0,,I know!

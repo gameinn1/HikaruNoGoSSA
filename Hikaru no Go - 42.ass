@@ -113,7 +113,7 @@ Dialogue: 0,0:02:57.20,0:02:58.46,Default,,0,0,0,,Not at all.
 Dialogue: 0,0:02:59.74,0:03:01.41,Default,,0,0,0,,That's what I'm here for.
 Dialogue: 0,0:03:02.33,0:03:07.25,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Forty-Second Match
 Dialogue: 0,0:03:02.33,0:03:07.25,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The First One to Pass
-Dialogue: 0,0:03:07.96,0:03:13.09,NoteArial,,0,0,0,,{\fs30\bord1\fad(542,542)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,355)}Eighteenth Match of the Pro Exam Finals
+Dialogue: 0,0:03:07.96,0:03:13.09,NoteArial,,0,0,0,,{\fs30\bord1\fad(542,542)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Eighteenth Match of the Pro Exam Finals
 Dialogue: 0,0:03:22.69,0:03:23.39,Default,,0,0,0,,I resign.
 Dialogue: 0,0:03:25.54,0:03:26.65,Default,,0,0,0,,Thanks for the game!
 Dialogue: 0,0:03:27.35,0:03:28.63,Default,,0,0,0,,Thanks for the game...
@@ -135,18 +135,18 @@ Dialogue: 0,0:04:09.19,0:04:11.43,Default,,0,0,0,,None of us have played against
 Dialogue: 0,0:04:11.53,0:04:13.62,Default,,0,0,0,,We still have a chance if we can beat them.
 Dialogue: 0,0:04:13.95,0:04:16.36,Default,,0,0,0,,We can't afford any more losses.
 Dialogue: 0,0:04:16.66,0:04:17.26,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:04:20.53,0:04:24.54,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}The Twentieth Match of the Pro Exam Finals
+Dialogue: 0,0:04:20.53,0:04:24.54,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}The Twentieth Match of the Pro Exam Finals
 Dialogue: 0,0:04:25.37,0:04:27.38,Default,,0,0,0,,Please start your clocks.
-Dialogue: 0,0:04:47.60,0:04:49.69,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Ochi 19 Wins 1 Loss
-Dialogue: 0,0:04:49.94,0:04:52.10,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Waya 18 Wins 2 Losses
-Dialogue: 0,0:04:52.31,0:04:54.52,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Shindou 17 Wins 3 Losses
-Dialogue: 0,0:04:54.69,0:04:56.82,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Isumi 17 Wins 3 Losses
-Dialogue: 0,0:04:57.07,0:04:59.20,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Honda 17 Wins 3 Losses
-Dialogue: 0,0:04:59.45,0:05:01.57,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Komiya 15 Wins 5 Losses
-Dialogue: 0,0:05:01.86,0:05:03.99,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Adachi 14 Wins 6 Losses
-Dialogue: 0,0:05:04.20,0:05:06.33,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Katagiri 14 Wins 6 Losses
-Dialogue: 0,0:05:06.58,0:05:08.75,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}Tsubaki 13 Wins 7 Losses
-Dialogue: 0,0:05:09.50,0:05:13.42,NoteArial,,0,0,0,,{\fs22\bord1\fad(1251,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}The Twenty-First Match of the Pro Exam Finals
+Dialogue: 0,0:04:47.60,0:04:49.69,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Ochi 19 Wins 1 Loss
+Dialogue: 0,0:04:49.94,0:04:52.10,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Waya 18 Wins 2 Losses
+Dialogue: 0,0:04:52.31,0:04:54.52,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Shindou 17 Wins 3 Losses
+Dialogue: 0,0:04:54.69,0:04:56.82,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Isumi 17 Wins 3 Losses
+Dialogue: 0,0:04:57.07,0:04:59.20,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Honda 17 Wins 3 Losses
+Dialogue: 0,0:04:59.45,0:05:01.57,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Komiya 15 Wins 5 Losses
+Dialogue: 0,0:05:01.86,0:05:03.99,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Adachi 14 Wins 6 Losses
+Dialogue: 0,0:05:04.20,0:05:06.33,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Katagiri 14 Wins 6 Losses
+Dialogue: 0,0:05:06.58,0:05:08.75,NoteArial,,0,0,0,,{\fs22\bord1\fad(417,417)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}Tsubaki 13 Wins 7 Losses
+Dialogue: 0,0:05:09.50,0:05:13.42,NoteArial,,0,0,0,,{\fs22\bord1\fad(1251,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}The Twenty-First Match of the Pro Exam Finals
 Dialogue: 0,0:05:20.22,0:05:21.95,Default,,0,0,0,,Nase! You beat Honda!?
 Dialogue: 0,0:05:22.49,0:05:23.19,Default,,0,0,0,,Yup!
 Dialogue: 0,0:05:23.35,0:05:25.46,Default,,0,0,0,,I played a great game!
@@ -249,20 +249,20 @@ Dialogue: 0,0:11:41.46,0:11:44.07,Default,,0,0,0,,But, this match did indeed hap
 Dialogue: 0,0:11:47.78,0:11:49.73,Default,,0,0,0,,Just who is Shindou!?
 Dialogue: 0,0:11:50.37,0:11:51.91,Default,,0,0,0,,That's what I want to find out.
 Dialogue: 0,0:11:54.57,0:11:56.49,Default,,0,0,0,,Come on, let's continue.
-Dialogue: 0,0:12:01.70,0:12:05.70,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}The Twenty-Second Match of the Pro Exam Finals
+Dialogue: 0,0:12:01.70,0:12:05.70,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}The Twenty-Second Match of the Pro Exam Finals
 Dialogue: 0,0:12:08.85,0:12:09.70,Background,,0,0,0,,I resign.
 Dialogue: 0,0:12:10.12,0:12:12.00,Thinking,,0,0,0,,Okay! I won by three and a half moku!
 Dialogue: 0,0:12:15.10,0:12:16.81,Sai,,0,0,0,,This is your nineteenth win.
-Dialogue: 0,0:12:18.13,0:12:20.97,NoteArial,,0,0,0,,{\fs22\bord1\fad(292,334)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(432,360)}Adachi 15 Wins 7 Losses
-Dialogue: 0,0:12:21.14,0:12:24.01,NoteArial,,0,0,0,,{\fs22\bord1\fad(292,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(282,360)}Shindou 19 Wins 3 Losses
+Dialogue: 0,0:12:18.13,0:12:20.97,NoteArial,,0,0,0,,{\fs22\bord1\fad(292,334)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(432,360)}Adachi 15 Wins 7 Losses
+Dialogue: 0,0:12:21.14,0:12:24.01,NoteArial,,0,0,0,,{\fs22\bord1\fad(292,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(282,360)}Shindou 19 Wins 3 Losses
 Dialogue: 0,0:12:26.97,0:12:28.23,Default,,0,0,0,,Thanks for the game.
-Dialogue: 0,0:12:31.90,0:12:35.90,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(462,83)}Waya 20 wins 2 Losses
-Dialogue: 0,0:12:31.90,0:12:35.90,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(178,360)}Komiya 16 Wins 6 Losses
+Dialogue: 0,0:12:31.90,0:12:35.90,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(462,83)}Waya 20 wins 2 Losses
+Dialogue: 0,0:12:31.90,0:12:35.90,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(178,360)}Komiya 16 Wins 6 Losses
 Dialogue: 0,0:13:23.84,0:13:25.48,Sai,,0,0,0,,Good job in seeing it.
 Dialogue: 0,0:13:26.29,0:13:28.25,Sai,,0,0,0,,Now, black has the advantage.
 Dialogue: 0,0:13:50.56,0:13:51.54,Default,,0,0,0,,I resign.
-Dialogue: 0,0:13:52.14,0:13:56.98,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(180,20)}Honda 18 Wins 4 Losses
-Dialogue: 0,0:13:52.14,0:13:56.98,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(464,335)}Isumi 18 wins 4 Losses
+Dialogue: 0,0:13:52.14,0:13:56.98,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(180,20)}Honda 18 Wins 4 Losses
+Dialogue: 0,0:13:52.14,0:13:56.98,NoteArial,,0,0,0,,{\fs22\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(464,335)}Isumi 18 wins 4 Losses
 Dialogue: 0,0:13:57.15,0:13:58.43,Background,,0,0,0,,Great! Great!
 Dialogue: 0,0:13:58.69,0:13:59.91,Background,,0,0,0,,I'm still at four losses.
 Dialogue: 0,0:14:00.24,0:14:02.39,Background,,0,0,0,,There is a good chance of a playoff.
@@ -287,7 +287,7 @@ Dialogue: 0,0:15:06.19,0:15:07.14,Default,,0,0,0,,Five more matches...
 Dialogue: 0,0:15:07.63,0:15:08.84,Default,,0,0,0,,I'm almost at the goal.
 Dialogue: 0,0:15:09.74,0:15:10.51,Default,,0,0,0,,Almost...
 Dialogue: 0,0:15:11.01,0:15:14.02,Note,,0,0,0,,{\fs32\frx10\fry6\frz340\pos(392,52)}Japanese Go Research Center
-Dialogue: 0,0:15:11.01,0:15:14.02,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,360)}The Twenty-Fifth Match of the Pro Exam Finals
+Dialogue: 0,0:15:11.01,0:15:14.02,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,360)}The Twenty-Fifth Match of the Pro Exam Finals
 Dialogue: 0,0:15:19.44,0:15:21.10,Background,,0,0,0,,Congratulations Ochi-kun!
 Dialogue: 0,0:15:21.42,0:15:22.64,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,0:15:22.79,0:15:26.91,Default,,0,0,0,,Even if you lose the last two matches, your win\Ntoday has guaranteed that you will pass.
