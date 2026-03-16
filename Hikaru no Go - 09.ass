@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 310
-Active Line: 315
-Video Position: 32319
+Scroll Position: 12
+Active Line: 18
+Video Position: 3903
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,12 +57,12 @@ Dialogue: 0,0:02:40.34,0:02:41.40,Background,,0,0,0,,Sneaked off?
 Dialogue: 0,0:02:41.74,0:02:42.34,Default,,0,0,0,,Yes...
 Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,10,,{\fs19}[note: Wakajishisen is a fictional tournament that appears in Hikaru no Go.\NIt is based on a real tournament where new pros play Insei in a\Ntournament style match.]
 Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,10,,{\fs19\an2}[note: Insei are children who go to the Japanese Go Center to learn Go. They all\Naim to become pros some day, and they're all frighteningly good at the game]\N\N{\fs20}[note: Shuusaku is the person that Sai inhabited 100 years ago. He actually\Ndid exist, and is considered one of the greatest players of all time]
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(50,115)}A\NHundred\NDifferent\NTsumego
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(111,210)}The Key\Nto\NSolving\NTsumego
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(320,115)}Collection\Nof\NShuusakus's\NMatches
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(385,215)}Famous\NPro\NMatches
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(433,161)}Waka-\Njishisen
-Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\pos(496,244)}Ouza\NMatches
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(50,115)}A\NHundred\NDifferent\NTsumego
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(111,210)}The Key\Nto\NSolving\NTsumego
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(320,116)}Collection\Nof\NShuusaku's\NMatches
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(385,219)}Famous\NPro\NMatches
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(433,161)}Waka-\Njishisen
+Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HDDDDDD&\shad1\bord1.5\pos(496,244)}Ouza\NMatches
 Dialogue: 0,0:02:52.74,0:02:54.85,Default,,0,0,0,,As you can see, it's a mess.
 Dialogue: 0,0:02:56.46,0:02:59.83,Default,,0,0,0,,When we didn't have very many\Nmembers, this was the club room.
 Dialogue: 0,0:03:00.18,0:03:03.17,Default,,0,0,0,,But now... it's just storage for the club.
