@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 183
-Active Line: 186
-Video Position: 24877
+Scroll Position: 174
+Active Line: 179
+Video Position: 22568
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -273,7 +273,7 @@ Dialogue: 0,0:15:10.85,0:15:13.06,Default,,0,0,0,,Okay. Let's go, Kumiko!
 Dialogue: 0,0:15:13.39,0:15:15.85,Default,,0,0,0,,Okay. I'm going first!
 Dialogue: 0,0:15:16.90,0:15:17.77,Default,,0,0,0,,Okay!
 Dialogue: 0,0:15:38.33,0:15:41.25,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(626,0)\bord0\fscx100\fscy160\blur0\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private Junior High School
-Dialogue: 0,0:15:41.25,0:15:41.42,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(0,0)\bord0\fscx100\fscy160\blur0\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private J{\\alpha&HFF&}unior High School
+Dialogue: 0,0:15:41.25,0:15:41.42,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(0,0)\bord0\fscx100\fscy160\blur0\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private J{\alpha&HFF&}unior High School
 Dialogue: 0,0:16:06.95,0:16:08.66,Thinking,,0,0,0,,It probably started already.
 Dialogue: 0,0:16:29.13,0:16:31.47,Thinking,,0,0,0,,I won't be playing...
 Dialogue: 0,0:16:34.06,0:16:34.72,Thinking,,0,0,0,,Sai...
