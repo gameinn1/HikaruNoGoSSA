@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 42
-Active Line: 70
-Video Position: 7680
+Active Line: 48
+Video Position: 6158
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,7 +93,7 @@ Dialogue: 0,0:04:14.86,0:04:15.69,Thinking,,0,0,0,,Surpassing him...
 Dialogue: 0,0:04:15.53,0:04:20.24,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(458,162)}Master
 Dialogue: 0,0:04:15.53,0:04:20.24,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(426,238.089)}of
 Dialogue: 0,0:04:15.53,0:04:20.24,Note,,0,0,0,,{\fs30\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(394,314)}Tesuji
-Dialogue: 0,0:04:16.31,0:04:19.32,Thinking,,0,0,0,,will require a strength great\Nenough to... create new Joseki...
+Dialogue: 0,0:04:16.28,0:04:19.32,Thinking,,0,0,0,,will require a strength great\Nenough to... create new Joseki...
 Dialogue: 0,0:04:21.29,0:04:23.95,Default,,0,0,0,,Could you play a game against me while you're at it?
 Dialogue: 0,0:04:24.79,0:04:25.59,Default,,0,0,0,,Oh wait...
 Dialogue: 0,0:04:26.22,0:04:29.25,Default,,0,0,0,,You just keep cleaning up like I told you to.
