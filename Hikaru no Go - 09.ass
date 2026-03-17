@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 42
-Active Line: 48
-Video Position: 6158
+Scroll Position: 30
+Active Line: 42
+Video Position: 5744
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,7 +83,7 @@ Dialogue: 0,0:03:45.31,0:03:47.78,Thinking,,0,0,0,,I've felt it since I first me
 Dialogue: 0,0:03:49.13,0:03:51.46,Thinking,,0,0,0,,{\1c&HC5FEC1&}For example, black's next move....
 Dialogue: 0,0:03:52.34,0:03:54.01,Thinking,,0,0,0,,{\1c&HC5FEC1&}These days we would hane the white stone.
 Dialogue: 0,0:03:54.18,0:03:56.74,Thinking,,0,0,0,,{\1c&HC5FEC1&}It's considered to be the best move.
-Dialogue: 0,0:03:57.59,0:03:59.59,Thinking,,0,0,0,,{\1c&HC5FEC1&}But, you used... {\alpha&HFF&\t(1360,1360,\alpha&H00&)}a nobi.
+Dialogue: 0,0:03:57.59,0:03:59.59,Thinking,,0,0,0,,{\1c&HC5FEC1&}But, you used... {\alpha&HFF&\t(1360,1360,\alpha&H00&\4a&H80&)}a nobi.
 Dialogue: 0,0:04:00.32,0:04:01.63,Thinking,,0,0,0,,{\1c&HC5FEC1&}That's an old joseki.
 Dialogue: 0,0:04:03.28,0:04:05.13,Thinking,,0,0,0,,Sometimes, things like that happen.
 Dialogue: 0,0:04:05.81,0:04:07.73,Thinking,,0,0,0,,It may look like a weakness to attack...
