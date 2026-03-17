@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 35 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 35 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 249
-Active Line: 278
-Video Position: 32429
+Video Zoom Percent: 0.625000
+Scroll Position: 252
+Active Line: 275
+Video Position: 32106
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -365,6 +365,7 @@ Dialogue: 0,0:20:25.55,0:20:26.33,Thinking,,0,0,0,,Su-Young.
 Dialogue: 0,0:20:30.43,0:20:34.81,Thinking,,0,0,0,,{\1c&HFEFECE&}He's finally looking straight at the game.
 Dialogue: 0,0:20:36.52,0:20:38.04,Sai,,0,0,0,,Let's make him remember...
 Dialogue: 0,0:20:39.52,0:20:41.27,Sai,,0,0,0,,the name Shindou Hikaru!
+Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(239,172)}Umezawa Yukari's
 Dialogue: 0,0:22:12.32,0:22:13.77,Note,,0,0,0,,Honinbou Shuusaku
 Dialogue: 0,0:22:14.70,0:22:18.71,Default,,0,0,0,,I'm in Innoshima, the land of Honinbou Shuusaku!
 Dialogue: 0,0:22:17.41,0:22:19.63,Note,,50,410,105,,{\an8}Hiroshima Prefecture\NInnoshima City

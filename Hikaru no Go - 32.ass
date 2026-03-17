@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 32 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 210
-Active Line: 245
-Video Position: 29275
+Scroll Position: 227
+Active Line: 249
+Video Position: 32123
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -339,6 +339,7 @@ Dialogue: 0,0:20:20.99,0:20:23.58,Default,,0,0,0,,What are you talking about? Ju
 Dialogue: 0,0:20:23.74,0:20:27.64,Default,,0,0,0,,"where's the hairy godzilla? Where's\Nthe hairy godzilla?" in fear.
 Dialogue: 0,0:20:28.61,0:20:30.81,Default,,0,0,0,,You didn't have to say that!
 Dialogue: 0,0:20:34.64,0:20:38.70,Thinking,,0,0,0,,{\1c&HFEFECE&}Oh well, I'm just glad you won.
+Dialogue: 0,0:22:10.72,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(233,173)}Umezawa Yukari's
 Dialogue: 0,0:22:13.11,0:22:15.29,Default,,0,0,0,,Let's continue with Tesuji today.
 Dialogue: 0,0:22:15.49,0:22:19.58,Default,,0,0,0,,It's white's turn. Right now, these three\Nwhite stones are about to get captured.
 Dialogue: 0,0:22:19.81,0:22:23.20,Default,,0,0,0,,{\an8}But there's a way to save them\Nby taking these black stones.

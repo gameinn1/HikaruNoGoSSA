@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 186
-Active Line: 208
-Video Position: 22639
+Scroll Position: 268
+Active Line: 286
+Video Position: 32123
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -328,7 +328,7 @@ Dialogue: 0,0:20:34.84,0:20:35.76,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:22:09.79,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(172,355)}Go
 Dialogue: 0,0:22:10.25,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(298,355)}Go
 Dialogue: 0,0:22:10.66,0:22:12.32,Note,,0,0,0,,{\fs58\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(471,355)}Igo!
-Dialogue: 0,0:22:10.79,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(247.625,171.25)}Umezawa Yukari's
+Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(234,173)}Umezawa Yukari's
 Dialogue: 0,0:22:12.54,0:22:14.38,Default,,0,0,0,,Let's do Tesuji today!
 Dialogue: 0,0:22:12.59,0:22:14.46,Note,,0,0,95,,{\an2\bord1\fad(334,0)\fs30\1c&H1B7BF5&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Teacher Yukari
 Dialogue: 0,0:22:14.73,0:22:16.31,Default,,0,0,0,,It's white's turn in this formation.

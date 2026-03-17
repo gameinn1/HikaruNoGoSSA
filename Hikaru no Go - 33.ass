@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 33 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 267
-Active Line: 283
-Video Position: 28708
+Scroll Position: 285
+Active Line: 301
+Video Position: 32123
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -391,6 +391,7 @@ Dialogue: 0,0:20:33.55,0:20:35.30,Background,,0,0,0,,Then I'll take anago!
 Dialogue: 0,0:20:35.93,0:20:37.43,Background,,0,0,0,,Then awabi!
 Dialogue: 0,0:20:37.67,0:20:38.76,Background,,0,0,0,,Toro over here!
 Dialogue: 0,0:20:39.20,0:20:41.80,Default,,0,0,0,,Don't eat! Don't eat any more than that!
+Dialogue: 0,0:22:10.72,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(234,173)}Umezawa Yukari's
 Dialogue: 0,0:22:13.37,0:22:16.19,Default,,0,0,0,,Today we're at Teacher Yukari's teacher's house!
 Dialogue: 0,0:22:16.84,0:22:18.42,Default,,0,0,0,,There's a study session today.
 Dialogue: 0,0:22:18.96,0:22:19.60,Default,,0,0,0,,Wanna go?
