@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 44 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 189
-Active Line: 205
-Video Position: 28470
+Scroll Position: 73
+Active Line: 87
+Video Position: 15984
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,7 +104,7 @@ Dialogue: 0,0:02:16.28,0:02:20.71,Thinking,,0,0,0,,If I turn this area, under wh
 Dialogue: 0,0:02:22.26,0:02:24.46,Thinking,,0,0,0,,{\1c&HC5FEC1&}If this black lives, you win.
 Dialogue: 0,0:02:29.46,0:02:34.38,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(335,115)}The Forty-Fourth Match
 Dialogue: 0,0:02:29.46,0:02:34.38,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}A Desperate Life
-Dialogue: 0,0:02:34.63,0:02:40.10,NoteArial,,0,0,0,,{\fs25\bord1.5\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,667)\shad1\pos(325,360)}The Twenty-Sixth Match of the Pro Exam Finals
+Dialogue: 0,0:02:34.63,0:02:40.10,NoteArial,,0,0,0,,{\fs25\bord1\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,667)\shad1\pos(325,360)}The Twenty-Sixth Match of the Pro Exam Finals
 Dialogue: 0,0:02:51.31,0:02:53.89,Memory,,0,0,0,,Become... a pro!
 Dialogue: 0,0:02:55.36,0:02:56.09,Thinking,,0,0,0,,I can win.
 Dialogue: 0,0:02:56.59,0:02:58.85,Thinking,,0,0,0,,So long as I don't move too quickly and make a mistake.

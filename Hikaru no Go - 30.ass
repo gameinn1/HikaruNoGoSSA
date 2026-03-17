@@ -279,6 +279,10 @@ Dialogue: 0,0:20:18.38,0:20:21.61,Sai,,0,0,0,,You're finally here? Your journey 
 Dialogue: 0,0:20:22.04,0:20:23.36,Default,,0,0,0,,I know!
 Dialogue: 0,0:20:24.09,0:20:27.44,Default,,0,0,0,,But... I really am here...
 Dialogue: 0,0:20:28.59,0:20:31.81,Thinking,,0,0,0,,The first day of the Pro Exam Preliminaries!
+Dialogue: 0,0:22:09.79,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(172,355)}Go
+Dialogue: 0,0:22:10.25,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(298,355)}Go
+Dialogue: 0,0:22:10.66,0:22:12.32,Note,,0,0,0,,{\fs58\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(471,355)}Igo!
+Dialogue: 0,0:22:10.79,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(247.625,171.25)}Umezawa Yukari's
 Dialogue: 0,0:22:12.59,0:22:17.17,Default,,0,0,0,,The "Igo Asia Cup in Okinawa" was\Nheld between March 22nd and 23rd.
 Dialogue: 0,0:22:29.41,0:22:32.46,Default,,0,0,0,,Korea won with a commanding lead.
 Dialogue: 0,0:22:33.45,0:22:36.10,Default,,0,0,0,,Please give a word to the young Go fans out there.

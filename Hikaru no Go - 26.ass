@@ -422,6 +422,8 @@ Dialogue: 0,0:20:25.20,0:20:26.96,Default,,0,0,0,,Good bye! Tsutsui-san!
 Dialogue: 0,0:20:27.04,0:20:27.75,Default,,0,0,0,,Please write.
 Dialogue: 0,0:20:27.75,0:20:29.58,Default,,0,0,0,,Watch me Tsutsui-san!
 Dialogue: 0,0:20:34.80,0:20:37.51,Thinking,,0,0,0,,I... really will be working hard!
+Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\1c&HFFFFFF&\pos(243,180)}Umezawa Yukari's
+Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\fs45\bord2\shad0\pos(256,329)}{\1c&H0E00DA&\i1}Go  Go  {\1c&HFFFFFF&}Igo!{\i0}
 Dialogue: 0,0:22:13.01,0:22:15.88,Default,,0,0,0,,This is Iyama Yuuta-kun who\Njust became pro this year.
 Dialogue: 0,0:22:16.30,0:22:18.20,Default,,0,0,0,,He's still just a 7th grader.
 Dialogue: 0,0:22:18.67,0:22:21.86,Default,,0,0,0,,Do you have time to play with your friends?

@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 24 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 24 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 63
-Active Line: 71
-Video Position: 10383
+Video Zoom Percent: 0.500000
+Scroll Position: 196
+Active Line: 201
+Video Position: 32123
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -291,6 +291,10 @@ Dialogue: 0,0:20:22.61,0:20:23.33,Thinking,,0,0,0,,{\1c&HFEFECE&}As if...
 Dialogue: 0,0:20:23.73,0:20:25.58,Thinking,,0,0,0,,{\1c&HFEFECE&}The existence of Touya Akira...
 Dialogue: 0,0:20:26.74,0:20:28.58,Thinking,,0,0,0,,{\1c&HFEFECE&}was placed here by God...
 Dialogue: 0,0:20:29.42,0:20:31.67,Thinking,,0,0,0,,{\1c&HFEFECE&}to make Hikaru grow.
+Dialogue: 0,0:22:09.99,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H000000&\4c&HFFFFFF&\shad0\pos(172,355)}Go
+Dialogue: 0,0:22:10.39,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H000000&\4c&HFFFFFF&\shad0\pos(298,355)}Go
+Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs58\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(471,355)}Igo!
+Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(247.625,171.25)}Umezawa Yukari's
 Dialogue: 0,0:22:12.69,0:22:14.50,Default,,0,0,0,,Let's study "Geta" today.
 Dialogue: 0,0:22:15.74,0:22:18.53,Default,,0,0,0,,There is a good way to\Ncapture this single white stone.
 Dialogue: 0,0:22:18.56,0:22:19.98,Default,,0,0,0,,Where is that?

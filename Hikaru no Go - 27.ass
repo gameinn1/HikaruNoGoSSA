@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 243
-Active Line: 269
-Video Position: 32266
+Active Line: 270
+Video Position: 32072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -358,6 +358,10 @@ Dialogue: 0,0:20:22.48,0:20:24.49,Default,,0,0,0,,But why is it three stones!?
 Dialogue: 0,0:20:24.87,0:20:26.99,Default,,0,0,0,,You lost every game today at three stones!
 Dialogue: 0,0:20:27.12,0:20:30.02,Default,,0,0,0,,I'll make it four stones if I lose\Nevery game tomorrow too.
 Dialogue: 0,0:20:30.02,0:20:32.75,Default,,0,0,0,,Like I said! Who said I was coming tomorrow!
+Dialogue: 0,0:22:09.79,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(172,355)}Go
+Dialogue: 0,0:22:10.25,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(298,355)}Go
+Dialogue: 0,0:22:10.66,0:22:12.32,Note,,0,0,0,,{\fs58\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(471,355)}Igo!
+Dialogue: 0,0:22:10.79,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(247.625,171.25)}Umezawa Yukari's
 Dialogue: 0,0:22:12.84,0:22:14.40,Default,,0,0,0,,Let's do "Fuseki" today.
 Dialogue: 0,0:22:14.69,0:22:17.00,Default,,0,0,0,,Fuseki is the first stage of a game of Go.
 Dialogue: 0,0:22:20.48,0:22:22.48,Note,,0,0,0,,[note: Loae is horrible at this >_< I'm maybe about 10k\Nin strength in the early game. I make up for it in the mid\Ngame though, and I'm horrible at the end game >_<]

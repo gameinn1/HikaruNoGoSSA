@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 21 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 180
-Active Line: 206
-Video Position: 26035
+Scroll Position: 219
+Active Line: 240
+Video Position: 32038
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,6 +329,8 @@ Dialogue: 0,0:20:01.26,0:20:02.67,Default,,0,0,0,,He'll...
 Dialogue: 0,0:20:03.41,0:20:04.90,Default,,0,0,0,,probably pass.
 Dialogue: 0,0:20:05.96,0:20:07.04,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:20:07.73,0:20:08.89,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\pos(242,240)}Umezawa Yukari's
+Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\fs45\bord2\shad0\i1\pos(256,328)}{\1c&H0E00DA&}Go  Go  {\1c&HFFFFFF&}Igo!{\i0}
 Dialogue: 0,0:22:12.76,0:22:15.51,Default,,0,0,0,,Let's play a game today between the two of you!
 Dialogue: 0,0:22:16.66,0:22:18.56,Default,,0,0,0,,Good luck!
 Dialogue: 0,0:22:25.87,0:22:27.63,Default,,0,0,0,,You're both concentrating so hard.

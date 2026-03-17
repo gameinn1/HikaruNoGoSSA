@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 312
-Active Line: 339
-Video Position: 29595
+Video Zoom Percent: 0.750000
+Scroll Position: 320
+Active Line: 341
+Video Position: 32038
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -431,6 +431,8 @@ Dialogue: 0,0:20:27.75,0:20:29.12,Thinking,,0,0,0,,A little more than a month le
 Dialogue: 0,0:20:29.77,0:20:33.39,Thinking,,0,0,0,,I have to rise up to sixteenth in first class by then,
 Dialogue: 0,0:20:34.34,0:20:35.80,Thinking,,0,0,0,,and participate in the Wakajishisen!
 Dialogue: 0,0:20:37.42,0:20:38.88,Thinking,,0,0,0,,To play against Touya!
+Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\1c&HFFFFFF&\pos(243,180)}Umezawa Yukari's
+Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\fs45\bord2\shad0\pos(256,329)}{\1c&H0E00DA&\i1}Go  Go  {\1c&HFFFFFF&}Igo!{\i0}
 Dialogue: 0,0:22:13.22,0:22:15.86,Default,,0,0,0,,We're at the Japanese Go Institute right now.
 Dialogue: 0,0:22:16.20,0:22:20.45,Default,,0,0,0,,The 2002 Annual Awards\NCeremony occurred on March 29th.
 Dialogue: 0,0:22:59.27,0:23:02.59,Default,,0,0,0,,Your opponents from today, are us, the first class.

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 23 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 309
-Active Line: 318
-Video Position: 34518
+Scroll Position: 303
+Active Line: 313
+Video Position: 32020
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -403,6 +403,7 @@ Dialogue: 0,0:20:05.69,0:20:09.90,Background,,0,0,0,,Kuwabara-sensei slammed the
 Dialogue: 0,0:20:10.31,0:20:14.44,Default,,0,0,0,,Hehe, you can't be getting swallowed\Nup by such obvious scare tactics.
 Dialogue: 0,0:20:14.86,0:20:17.32,Default,,0,0,0,,Kuwabara-sensei's just the type of person to do it.
 Dialogue: 0,0:20:17.94,0:20:20.78,Default,,0,0,0,,Well, let's see what happens with today's match.
+Dialogue: 0,0:22:09.82,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,333)}Umezawa Yukari's Go Go Igo!
 Dialogue: 0,0:22:30.58,0:22:33.36,Default,,0,0,0,,Wow, Yuuki-kun, you took a lot.
 Dialogue: 0,0:22:33.90,0:22:35.00,Default,,0,0,0,,That was harsh.
 Dialogue: 0,0:22:36.01,0:22:41.44,Default,,0,0,0,,It's called Shichou when your stones\Nget captured in this stair like shape.

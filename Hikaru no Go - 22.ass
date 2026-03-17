@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 22 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 158
-Active Line: 180
-Video Position: 23171
+Scroll Position: 238
+Active Line: 246
+Video Position: 32028
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -336,6 +336,7 @@ Dialogue: 0,0:20:15.11,0:20:20.28,Default,,0,0,0,,Oh yeah, that strong first boa
 Dialogue: 0,0:20:24.32,0:20:24.89,Default,,0,0,0,,Hey!
 Dialogue: 0,0:20:27.78,0:20:32.83,Thinking,,0,0,0,,Kaiou's first board was... Kishimoto\Nwas... always second class...
 Dialogue: 0,0:20:33.55,0:20:38.98,Thinking,,0,0,0,,I... I... will I ever be able to make it to first class?
+Dialogue: 0,0:22:10.72,0:22:12.32,NoteTimes,,0,0,0,,{\fs32.5\pos(320,356)}Umezawa Yukari's Go Go Igo!
 Dialogue: 0,0:22:12.32,0:22:15.76,NoteTimes,,0,0,0,,{\fs32.5\pos(320,308)}Sagamihara South Kamimizo\NPrivate Jr. High School
 Dialogue: 0,0:22:17.04,0:22:20.67,Default,,0,0,0,,{\an8}We're at South Kamimizo Private Jr.\NHigh school in Sagamihara city today.
 Dialogue: 0,0:22:22.39,0:22:26.82,Default,,0,0,0,,{\an8}Teacher Yukari immediately\Nstarted playing five games at once.
