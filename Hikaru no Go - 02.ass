@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 02 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 443
-Active Line: 456
-Video Position: 2712
+Scroll Position: 297
+Active Line: 307
+Video Position: 32123
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -346,7 +346,7 @@ Dialogue: 0,0:20:28.21,0:20:29.00,Default,,0,0,0,,Touya...
 Dialogue: 0,0:20:32.68,0:20:33.55,Default,,0,0,0,,I found you...
 Dialogue: 0,0:20:36.14,0:20:38.22,Background,,0,0,0,,I finally found you...
 Dialogue: 0,0:20:39.28,0:20:40.59,Default,,0,0,0,,Shindou Hikaru.
-Dialogue: 0,0:22:09.72,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.72,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1\pos(320,154)}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.72,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.35,0:22:14.15,Note,,0,0,20,,{\an2}What would Miss.Yukari teach us today?
 Dialogue: 0,0:22:15.56,0:22:17.76,Default,,0,0,0,,{\an8}Ok, then why don't we play the "capture" game?

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 400
-Active Line: 431
-Video Position: 34856
+Scroll Position: 265
+Active Line: 275
+Video Position: 32123
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -315,7 +315,7 @@ Dialogue: 0,0:20:17.28,0:20:18.16,Thinking,,0,0,0,,could play like...
 Dialogue: 0,0:20:19.41,0:20:20.37,Thinking,,0,0,0,,could play like...
 Dialogue: 0,0:20:21.18,0:20:21.78,Thinking,,0,0,0,,{\c&HC5FEC1&}like that!
 Dialogue: 0,0:20:29.25,0:20:29.96,Sai,,0,0,0,,Hikaru...
-Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1\pos(320,235)}Umezawa Yukari's Go Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.32,0:22:13.59,Note,,0,0,50,,{\an2}Teacher Yukari
 Dialogue: 0,0:22:14.15,0:22:15.86,Note,,0,0,10,,{\an2}Mai
