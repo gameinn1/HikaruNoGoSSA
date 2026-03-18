@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 336
-Active Line: 345
-Video Position: 27739
+Scroll Position: 63
+Active Line: 64
+Video Position: 7956
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -156,7 +156,10 @@ Dialogue: 0,0:05:26.24,0:05:27.24,Thinking,,0,0,0,,If...
 Dialogue: 0,0:05:27.97,0:05:29.43,Thinking,,0,0,0,,If Sai wins...
 Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\1c&HD8D8BD&\an7\bord0\shad0\pos(0,0)}{\p1}m 37 174 l 161 175 160 240 37 242 m 298 174 l 420 174 421 240 299 238 m 572 176 l 639 176 639 237 572 237 m 0 308 l 179 309 177 365 0 366 m 344 358 l 626 356 626 438 344 432{\p0}
 Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs39.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy170\pos(96,169)}Refresh
-Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs42\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy160\pos(362,168)}PLAY
+Dialogue: 0,0:05:28.89,0:05:31.39,NoteArial,,0,0,0,,{\fs42\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy160\pos(362,168)}PLAY
+Dialogue: 0,0:05:31.39,0:05:31.64,NoteArial,,0,0,0,,{\1c&HDBD5AF&\an7\bord0\shad0\pos(0,0)}{\p1}m 298 174 l 420 174 421 240 299 238{\p0}
+Dialogue: 0,0:05:31.39,0:05:31.64,NoteArial,,0,0,0,,{\fs42\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy160\pos(362,168)}PLAY
+Dialogue: 0,0:05:31.64,0:05:32.40,NoteArial,,0,0,0,,{\fs42\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy160\pos(362,168)}PLAY
 Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs42\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy160\pos(612,168)}EXIT
 Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs76\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy110\pos(492,353)}PAIR GO
 Dialogue: 0,0:05:28.89,0:05:32.40,NoteArial,,0,0,0,,{\fs65\1c&H2E260E&\3c&HDEDBC2&\bord0\blur1\shad0\fscy87\pos(6,307)}Information
