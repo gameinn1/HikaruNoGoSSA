@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 365
-Active Line: 370
-Video Position: 34768
+Scroll Position: 338
+Active Line: 345
+Video Position: 32171
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -434,7 +434,7 @@ Dialogue: 0,0:20:37.42,0:20:38.88,Thinking,,0,0,0,,To play against Touya!
 Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\1c&HFFFFFF&\pos(243,180)}Umezawa Yukari's
 Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\fs45\bord2\shad0\pos(256,329)}{\1c&H0E00DA&\i1}Go  Go  {\1c&HFFFFFF&}Igo!{\i0}
 Dialogue: 0,0:22:13.22,0:22:15.86,Default,,0,0,0,,We're at the Japanese Go Institute right now.
-Dialogue: 0,0:22:13.11,0:22:17.56,Note,,0,0,0,,{\1c&H157DF3&\pos(317.864,291.622)}Teacher Yukari
+Dialogue: 0,0:22:13.11,0:22:17.56,Note,,0,0,0,,{\1c&H157DF3&\pos(320,292}Teacher Yukari
 Dialogue: 0,0:22:13.11,0:22:17.56,Note,,0,0,0,,{\1c&HFF0004&\pos(253,372)}Yuuki
 Dialogue: 0,0:22:13.11,0:22:17.56,Note,,0,0,0,,{\1c&HFC27F0&\pos(492,372)}Mai
 Dialogue: 0,0:22:16.20,0:22:20.45,Default,,0,0,0,,The 2002 Annual Awards\NCeremony occurred on March 29th.
