@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 243
-Active Line: 270
-Video Position: 32072
+Video Zoom Percent: 1.000000
+Scroll Position: 280
+Active Line: 293
+Video Position: 34823
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -363,14 +363,27 @@ Dialogue: 0,0:22:10.25,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3
 Dialogue: 0,0:22:10.66,0:22:12.32,Note,,0,0,0,,{\fs58\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(471,355)}Igo!
 Dialogue: 0,0:22:10.79,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(247.625,171.25)}Umezawa Yukari's
 Dialogue: 0,0:22:12.84,0:22:14.40,Default,,0,0,0,,Let's do "Fuseki" today.
+Dialogue: 0,0:22:12.92,0:22:14.34,Note,,0,0,0,,{\fs30\1c&H177AF8&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,338)}Teacher Yukari
+Dialogue: 0,0:22:12.92,0:22:14.34,Note,,0,0,0,,{\an6\fs19\1c&H008E05&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(594,167)}T\NO\ND\NA\NY\N\NW\NE\N\NA\NR\NE\N\ND\NO\NI\NN\NG
+Dialogue: 0,0:22:12.92,0:22:14.34,Note,,0,0,0,,{\an6\fs19\1c&H1300EA&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(487,337)}F\NU\NS\NE\NK\NI
 Dialogue: 0,0:22:14.69,0:22:17.00,Default,,0,0,0,,Fuseki is the first stage of a game of Go.
+Dialogue: 0,0:22:15.16,0:22:20.16,Note,,0,0,0,,{\fs25\1c&H018C09&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(162,277)}[Fuseki] is
+Dialogue: 0,0:22:15.16,0:22:20.16,Note,,0,0,0,,{\fs25\1c&H018C09&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(315,359)}the placement of the first stones, and is important!!
 Dialogue: 0,0:22:20.48,0:22:22.48,Note,,0,0,0,,[note: Loae is horrible at this >_< I'm maybe about 10k\Nin strength in the early game. I make up for it in the mid\Ngame though, and I'm horrible at the end game >_<]
-Dialogue: 0,0:22:27.18,0:22:30.31,Default,,0,0,0,,You start declaring which areas you\Nwant to make your own territory.
+Dialogue: 0,0:22:21.53,0:22:22.17,Note,,0,0,0,,{\fs30\1c&HFC0003&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(280,415)}Yuuki
+Dialogue: 0,0:22:22.77,0:22:23.73,Note,,0,0,0,,{\fs30\1c&HFB24F1&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(318,410)}Mai
+Dialogue: 0,0:22:26.34,0:22:30.31,Note,,0,0,0,,{\fs22.5\1c&HFA0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,31)}This is my territory\Nover here!
+Dialogue: 0,0:22:27.34,0:22:30.31,Note,,0,0,0,,{\fs22.5\1c&HA059E9&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,236)}This side is\Nmy territory!
+Dialogue: 0,0:22:27.17,0:22:30.27,Default,,0,0,0,,You start declaring which areas you\Nwant to make your own territory.
+Dialogue: 0,0:22:31.21,0:22:33.79,Note,,0,0,15,,{\an2\fs30\1c&H058C0B&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1}If you move on further...
 Dialogue: 0,0:22:35.49,0:22:39.43,Default,,0,0,0,,In this were to happen, this area\Nmight become black's territory.
 Dialogue: 0,0:22:39.89,0:22:42.98,Default,,0,0,0,,This area here may become white's territory.
 Dialogue: 0,0:22:44.43,0:22:47.73,Default,,0,0,0,,Black's territory looks larger, so\Nlet's say that white moves in.
 Dialogue: 0,0:22:48.19,0:22:50.95,Default,,0,0,0,,When this happens, the Fuseki\Nis over and a fight begins.
+Dialogue: 0,0:22:51.56,0:22:54.48,Note,,0,0,0,,{\fs22.5\1c&H028D0B&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,297)}[Fuseki] has no set rules
+Dialogue: 0,0:22:51.56,0:22:54.48,Note,,0,0,0,,{\fs22.5\1c&H028D0B&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,360)}So think about different ways of playing!!
 Dialogue: 0,0:22:51.70,0:22:55.03,Default,,0,0,0,,It's important to play the "Fuseki" portion while\Ntrying to maintain a balance with your opponent.
+Dialogue: 0,0:22:55.07,0:22:57.37,Note,,0,0,0,,{\fs30\1c&H0F00EF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(320,303)}To be continued...{\i0}
 Dialogue: 0,0:22:55.17,0:22:55.72,Default,,0,0,0,,Yup!
 Dialogue: 0,0:22:57.37,0:23:03.36,Note,,0,0,0,,{\fs45\1c&H000000&\3c&HFFFFFF&\bord1\shad0\pos(320,44)}The Ninth Wakajishisen
 Dialogue: 0,0:22:59.82,0:23:02.52,Default,,0,0,0,,I thought Mashiba-san would be a little better than that.
