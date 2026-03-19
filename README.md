@@ -80,7 +80,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 18 | ✅ | ✅ | ✅ |
 | 19 | ✅ | ✅ | ✅ |
 | 20 | ✅ | ✅ | ✅ |
-| 21 | ✅ | ✅ | ☑️ |
+| 21 | ✅ | ✅ | ✅ |
 | 22 | ✅ | ✅ | ☑️ |
 | 23 | ✅ | ✅ | ☑️ |
 | 24 | ✅ | ✅ | ☑️ |
