@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 338
-Active Line: 345
-Video Position: 32171
+Scroll Position: 347
+Active Line: 370
+Video Position: 34712
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -460,7 +460,7 @@ Dialogue: 0,0:22:32.36,0:22:34.81,Note,,0,0,0,,{\1c&HFE8107&\pos(469,286)}Straig
 Dialogue: 0,0:22:32.36,0:22:34.81,Note,,0,0,0,,{\1c&HFE8107&\pos(464,425)}Takao Shinji     9dan
 Dialogue: 0,0:22:43.84,0:22:46.71,Note,,0,0,0,,{\1c&HFE8107&\pos(320,335)}And then the 7 new first dan players were introduced.
 Dialogue: 0,0:22:48.21,0:22:51.05,Note,,0,0,0,,{\1c&HFE8107&\pos(320,335)}Within them, Iyama Yuuta New First dan is 12!!
-Dialogue: 0,0:22:55.50,0:22:58.50,Note,,0,0,0,,{\an2\1c&H1400F0&\pos(320,334)}To be continued...
+Dialogue: 0,0:22:55.50,0:22:58.50,Note,,0,0,0,,{\1c&H1400F0&\pos(320,312)}To be continued...
 Dialogue: 0,0:22:59.27,0:23:02.59,Default,,0,0,0,,Your opponents from today, are us, the first class.
 Dialogue: 0,0:23:03.53,0:23:05.63,Background,,0,0,0,,I'm climbing much higher!
 Dialogue: 0,0:23:07.57,0:23:08.88,Background,,0,0,0,,Y-You...

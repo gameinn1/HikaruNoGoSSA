@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 282
-Active Line: 301
-Video Position: 27177
+Video Zoom Percent: 1.000000
+Scroll Position: 342
+Active Line: 351
+Video Position: 34823
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -424,18 +424,24 @@ Dialogue: 0,0:20:27.75,0:20:29.58,Default,,0,0,0,,Watch me Tsutsui-san!
 Dialogue: 0,0:20:34.80,0:20:37.51,Thinking,,0,0,0,,I... really will be working hard!
 Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\1c&HFFFFFF&\pos(243,180)}Umezawa Yukari's
 Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\fs45\bord2\shad0\pos(256,329)}{\1c&H0E00DA&\i1}Go  Go  {\1c&HFFFFFF&}Igo!{\i0}
+Dialogue: 0,0:22:12.32,0:22:14.19,Note,,0,0,0,,{\1c&H157DF3&\pos(320,340)}Teacher Yukari
 Dialogue: 0,0:22:13.01,0:22:15.88,Default,,0,0,0,,This is Iyama Yuuta-kun who\Njust became pro this year.
 Dialogue: 0,0:22:16.30,0:22:18.20,Default,,0,0,0,,He's still just a 7th grader.
 Dialogue: 0,0:22:18.67,0:22:21.86,Default,,0,0,0,,Do you have time to play with your friends?
 Dialogue: 0,0:22:21.86,0:22:30.28,Default,,0,0,0,,I play games with my friends on Mondays and Wednesdays after school.
 Dialogue: 0,0:22:30.46,0:22:32.62,Default,,0,0,0,,Which do you prefer, studying for school or Go?
+Dialogue: 0,0:22:30.58,0:22:32.78,Note,,0,0,0,,{\1c&HFE8107&\pos(320,345)}Which do you prefer, studying for school or studying Go?
 Dialogue: 0,0:22:33.09,0:22:36.40,Default,,0,0,0,,Studying Go is more work...
 Dialogue: 0,0:22:36.82,0:22:40.00,Default,,0,0,0,,Please tell us what kind of girl you like.
 Dialogue: 0,0:22:40.67,0:22:42.26,Default,,0,0,0,,I like kind-hearted girls.
 Dialogue: 0,0:22:42.97,0:22:45.72,Default,,0,0,0,,Your Goals for the future?
+Dialogue: 0,0:22:43.04,0:22:45.62,Note,,0,0,0,,{\1c&HFE8107&\pos(320,345)}Your Goals for the future?
 Dialogue: 0,0:22:45.85,0:22:49.42,Default,,0,0,0,,Of course, I'd like to be good enough for a title.
+Dialogue: 0,0:22:46.64,0:22:49.28,Note,,0,0,0,,{\1c&H027707&\pos(320,331)}To become a player worthy of a title.
 Dialogue: 0,0:22:49.94,0:22:54.10,Default,,0,0,0,,I'd also like to be a competitive world class player.
+Dialogue: 0,0:22:51.08,0:22:53.58,Note,,0,0,0,,{\1c&H027707&\pos(320,331)}To become a player that can compete in the world.
 Dialogue: 0,0:22:54.46,0:22:57.05,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:22:54.47,0:22:57.37,Note,,0,0,0,,{\1c&H1300EC&\pos(518,340)}To be continued...
 Dialogue: 0,0:22:59.27,0:23:02.28,Sai,,0,0,0,,It's gotten really lonely here at the Go club...
 Dialogue: 0,0:22:59.57,0:23:02.78,NoteArialEF,,0,0,0,,{\fs25\1c&HFFFFFF&\bord0\shad0\b0\pos(272,63)}Chemistry Lab{\b1}
 Dialogue: 0,0:23:03.03,0:23:08.12,Default,,0,0,0,,Mitani-kun! Hikaru just dropped\Nby today coincidentally...
