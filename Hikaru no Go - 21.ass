@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 21 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 219
-Active Line: 240
-Video Position: 32038
+Scroll Position: 233
+Active Line: 241
+Video Position: 32150
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -332,15 +332,30 @@ Dialogue: 0,0:20:07.73,0:20:08.89,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\pos(242,240)}Umezawa Yukari's
 Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\fs45\bord2\shad0\i1\pos(256,328)}{\1c&H0E00DA&}Go  Go  {\1c&HFFFFFF&}Igo!{\i0}
 Dialogue: 0,0:22:12.76,0:22:15.51,Default,,0,0,0,,Let's play a game today between the two of you!
+Dialogue: 0,0:22:12.89,0:22:13.77,Note,,0,0,0,,{\1c&H369DE8&\shad0\pos(320,336)}Teacher Yukari
+Dialogue: 0,0:22:14.39,0:22:16.11,Note,,0,0,0,,{\1c&HFE2234&\shad0\pos(113.647,281.15)}Yuuki
+Dialogue: 0,0:22:14.39,0:22:16.11,Note,,0,0,0,,{\1c&H369DE8&\shad0\pos(316.291,199.7)}Teacher Yukari
+Dialogue: 0,0:22:14.39,0:22:16.11,Note,,0,0,0,,{\1c&H6800C2&\shad0\pos(527.441,259.433)}Mai
+Dialogue: 0,0:22:15.04,0:22:16.09,Note,,0,0,0,,{\pos(320,345}Let's play a game today on the 9x9 board!
 Dialogue: 0,0:22:16.66,0:22:18.56,Default,,0,0,0,,Good luck!
+Dialogue: 0,0:22:17.50,0:22:19.58,Note,,0,0,0,,{\pos(320,320)}Even match, Yuuki has black. Game\Nstarts with a komi of five and a half moku.
 Dialogue: 0,0:22:25.87,0:22:27.63,Default,,0,0,0,,You're both concentrating so hard.
-Dialogue: 0,0:22:37.05,0:22:37.73,Default,,0,0,0,,Done?
-Dialogue: 0,0:22:38.28,0:22:39.05,Default,,0,0,0,,Yup.
+Dialogue: 0,0:22:31.93,0:22:35.73,Note,,0,0,0,,{\1c&H382AEA&\shad0\pos(197,361)}Almost over
+Dialogue: 0,0:22:33.89,0:22:35.73,Note,,0,0,0,,{\1c&H382AEA&\shad0\pos(455,361)}....or is it?
+Dialogue: 0,0:22:37.05,0:22:37.73,Default,,0,0,0,,{\1c&H6700D1&}Done?
+Dialogue: 0,0:22:38.28,0:22:39.05,Default,,0,0,0,,{\1c&HFF172C&}Yup.
+Dialogue: 0,0:22:39.32,0:22:42.54,Note,,0,0,20,,{\an2}When you think playing further is pointless,\Nconfirm the end of the game with your opponent!!
 Dialogue: 0,0:22:39.44,0:22:40.97,Default,,0,0,0,,After taking away Komi...
 Dialogue: 0,0:22:40.97,0:22:44.14,Default,,0,0,0,,15... 20... 23... win!
-Dialogue: 0,0:22:44.72,0:22:46.83,Default,,0,0,0,,Mai-chan wins!
+Dialogue: 0,0:22:43.80,0:22:45.09,Note,,0,0,20,,{\an2}A 23 and a half moku win by white with Komi.
+Dialogue: 0,0:22:44.72,0:22:46.83,Default,,0,0,20,,Mai-chan wins!
+Dialogue: 0,0:22:46.69,0:22:47.39,Note,,0,0,20,,{\an2\1c&H7500D2&\shad0\}Mai wins!!
 Dialogue: 0,0:22:47.22,0:22:49.07,Default,,0,0,0,,But it was a good game!
+Dialogue: 0,0:22:47.99,0:22:49.19,Note,,0,0,20,,{\an2\1c&H3670DF&\shad0\}But it was a good game!
 Dialogue: 0,0:22:49.20,0:22:52.43,Default,,0,0,0,,Well, here's a treat for Mai-chan then!
+Dialogue: 0,0:22:53.25,0:22:57.37,Note,,0,0,15,,{\1c&HF92530&\shad0}Don't give up Yuuki!
+Dialogue: 0,0:22:53.53,0:22:57.37,Note,,0,0,0,,{\1c&HF92530&\shad0}You'll win next time!!
+Dialogue: 0,0:22:54.73,0:22:57.37,Note,,0,0,0,,{\1c&H2F1DEF&\shad0}To be continued...
 Dialogue: 0,0:22:58.02,0:23:01.51,Default,,0,0,0,,He forcefully became third board\Nbecause he wanted to play me.
 Dialogue: 0,0:23:01.78,0:23:04.61,Default,,0,0,0,,He joined the Go club just to play me...
 Dialogue: 0,0:23:04.61,0:23:05.28,Sai,,0,0,0,,Hikaru!
