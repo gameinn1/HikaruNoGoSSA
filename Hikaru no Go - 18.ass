@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 146
-Active Line: 157
-Video Position: 23954
+Active Line: 10
+Video Position: 3191
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,8 +50,7 @@ Dialogue: 0,0:01:53.62,0:01:54.62,Default,,0,0,0,,Last time?
 Dialogue: 0,0:01:55.52,0:02:00.42,Sai,,0,0,0,,Yes... the second match against\Nhim when I cut him in two.
 Dialogue: 0,0:02:01.24,0:02:02.56,Sai,,0,0,0,,It's the match from then.
 Dialogue: 0,0:02:07.07,0:02:09.07,Background,,0,0,0,,I'll request a rematch on a different day.
-Dialogue: 0,0:02:10.04,0:02:11.19,Default,,0,0,0,,Touya Akira...
-Dialogue: 0,0:02:11.36,0:02:12.71,Default,,0,0,0,,He hasn't arrived yet...
+Dialogue: 0,0:02:10.04,0:02:12.70,Default,,0,0,0,,Touya Akira hasn't arrived yet...
 Dialogue: 0,0:02:13.08,0:02:14.48,Thinking,,0,0,0,,He's not coming...
 Dialogue: 0,0:02:15.75,0:02:17.87,Thinking,,0,0,0,,It doesn't matter If he loses the first match.
 Dialogue: 0,0:02:18.30,0:02:20.05,Thinking,,0,0,0,,Man, that guy pisses me off.

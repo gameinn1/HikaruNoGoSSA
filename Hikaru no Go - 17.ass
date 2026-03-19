@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 17 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 414
-Video Position: 3965
+Scroll Position: 267
+Active Line: 279
+Video Position: 28030
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -315,15 +316,14 @@ Dialogue: 0,0:18:43.17,0:18:46.40,Background,,0,0,0,,Yeah, makes it so much toug
 Dialogue: 0,0:18:46.40,0:18:47.73,Background,,0,0,0,,How many times have you taken it now?
 Dialogue: 0,0:18:47.75,0:18:51.82,Background,,0,0,0,,Don't mention that. If I don't make it\Nthis year, I should probably give it up...
 Dialogue: 0,0:18:52.07,0:18:57.78,NoteArialEF,,0,0,0,,{\fs31.5\bord3\1c&HFFFFFF&\b0}Japanese Center of the Study of Go{\b1}
-Dialogue: 0,0:19:17.71,0:19:19.39,Thinking,,0,0,0,,He's not coming...
-Dialogue: 0,0:19:20.41,0:19:22.93,Thinking,,0,0,0,,It doesn't matter if he loses the first match.
+Dialogue: 0,0:19:17.68,0:19:19.39,Thinking,,0,0,0,,He's not coming...
+Dialogue: 0,0:19:20.39,0:19:22.93,Thinking,,0,0,0,,It doesn't matter if he loses the first match.
 Dialogue: 0,0:19:22.93,0:19:24.94,Thinking,,0,0,0,,Man that guy pisses me off.
-Dialogue: 0,0:19:25.68,0:19:26.93,Default,,0,0,0,,Touya Akira...
-Dialogue: 0,0:19:26.93,0:19:28.40,Default,,0,0,0,,He hasn't arrived yet...
+Dialogue: 0,0:19:25.64,0:19:28.44,Default,,0,0,0,,Touya Akira hasn't arrived yet...
 Dialogue: 0,0:19:29.07,0:19:31.53,Thinking,,0,0,0,,Everyone's working hard for the pro exams.
 Dialogue: 0,0:19:31.73,0:19:35.15,Thinking,,0,0,0,,He doesn't know how hard it is to come here!
-Dialogue: 0,0:19:36.35,0:19:37.53,Thinking,,0,0,0,,Damn him!
-Dialogue: 0,0:19:39.10,0:19:41.03,Default,,0,0,0,,Well, please begin your match then.
+Dialogue: 0,0:19:36.32,0:19:37.53,Thinking,,0,0,0,,Damn him!
+Dialogue: 0,0:19:39.07,0:19:41.03,Default,,0,0,0,,Well, please begin your match then.
 Dialogue: 0,0:19:41.20,0:19:42.79,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:20:05.77,0:20:08.60,Default,,0,0,0,,Good morning Shindou-kun!\NIt sure is raining hard today.
 Dialogue: 0,0:20:08.65,0:20:12.23,Default,,0,0,0,,Sorry, I've gotta hurry.
