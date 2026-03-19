@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 320
-Active Line: 341
-Video Position: 32038
+Video Zoom Percent: 0.625000
+Scroll Position: 365
+Active Line: 370
+Video Position: 34768
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -434,7 +434,33 @@ Dialogue: 0,0:20:37.42,0:20:38.88,Thinking,,0,0,0,,To play against Touya!
 Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\1c&HFFFFFF&\pos(243,180)}Umezawa Yukari's
 Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\fs45\bord2\shad0\pos(256,329)}{\1c&H0E00DA&\i1}Go  Go  {\1c&HFFFFFF&}Igo!{\i0}
 Dialogue: 0,0:22:13.22,0:22:15.86,Default,,0,0,0,,We're at the Japanese Go Institute right now.
+Dialogue: 0,0:22:13.11,0:22:17.56,Note,,0,0,0,,{\1c&H157DF3&\pos(317.864,291.622)}Teacher Yukari
+Dialogue: 0,0:22:13.11,0:22:17.56,Note,,0,0,0,,{\1c&HFF0004&\pos(253,372)}Yuuki
+Dialogue: 0,0:22:13.11,0:22:17.56,Note,,0,0,0,,{\1c&HFC27F0&\pos(492,372)}Mai
 Dialogue: 0,0:22:16.20,0:22:20.45,Default,,0,0,0,,The 2002 Annual Awards\NCeremony occurred on March 29th.
+Dialogue: 0,0:22:18.58,0:22:20.60,Note,,0,0,0,,{\pos(117,16)}Japanese Go Institute
+Dialogue: 0,0:22:18.58,0:22:20.60,Note,,0,0,0,,{\pos(330,313)}2002 Annual Awards Ceremony
+Dialogue: 0,0:22:21.37,0:22:25.70,Note,,0,0,0,,{\1c&HFE8107&\pos(148,15)}35th Kidou Awards
+Dialogue: 0,0:22:21.37,0:22:25.70,Note,,0,0,0,,{\1c&HFE8107&\pos(320,290)}Best player award
+Dialogue: 0,0:22:21.37,0:22:25.70,Note,,0,0,0,,{\1c&HFE8107&\pos(204,418)}Kisei + 10 dan
+Dialogue: 0,0:22:21.37,0:22:25.70,Note,,0,0,0,,{\1c&HFE8107&\pos(392,424)}Ou Rissei
+Dialogue: 0,0:22:26.47,0:22:28.81,Note,,0,0,0,,{\1c&HFE8107&\pos(148,15)}35th Kidou Awards
+Dialogue: 0,0:22:26.47,0:22:28.81,Note,,0,0,0,,{\1c&HFE8107&\pos(340,285)}Good player award
+Dialogue: 0,0:22:26.47,0:22:28.81,Note,,0,0,0,,{\1c&HFE8107&\pos(279,427)}Lin Kaihou
+Dialogue: 0,0:22:26.47,0:22:28.81,Note,,0,0,0,,{\1c&HFE8107&\pos(421,430)}9dan
+Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(322,15)}35th Kidou Awards
+Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(193,285)}New player award
+Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(180,424)}Mizogame Tomochika  7dan
+Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(514,285)}Best female player award
+Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(475,424)}Female Honinbou Kobayashi Izumi
+Dialogue: 0,0:22:32.36,0:22:34.81,Note,,0,0,0,,{\1c&HFE8107&\pos(322,15)}35th Kidou Awards
+Dialogue: 0,0:22:32.36,0:22:34.81,Note,,0,0,0,,{\1c&HFE8107&\pos(202,286)}Greatest Win Ratio Award
+Dialogue: 0,0:22:32.36,0:22:34.81,Note,,0,0,0,,{\1c&HFE8107&\pos(185,425)}Mimura Tomoyasu   7dan
+Dialogue: 0,0:22:32.36,0:22:34.81,Note,,0,0,0,,{\1c&HFE8107&\pos(469,286)}Straight wins award
+Dialogue: 0,0:22:32.36,0:22:34.81,Note,,0,0,0,,{\1c&HFE8107&\pos(464,425)}Takao Shinji     9dan
+Dialogue: 0,0:22:43.84,0:22:46.71,Note,,0,0,0,,{\1c&HFE8107&\pos(320,335)}And then the 7 new first dan players were introduced.
+Dialogue: 0,0:22:48.21,0:22:51.05,Note,,0,0,0,,{\1c&HFE8107&\pos(320,335)}Within them, Iyama Yuuta New First dan is 12!!
+Dialogue: 0,0:22:55.50,0:22:58.50,Note,,0,0,0,,{\an2\1c&H1400F0&\pos(320,334)}To be continued...
 Dialogue: 0,0:22:59.27,0:23:02.59,Default,,0,0,0,,Your opponents from today, are us, the first class.
 Dialogue: 0,0:23:03.53,0:23:05.63,Background,,0,0,0,,I'm climbing much higher!
 Dialogue: 0,0:23:07.57,0:23:08.88,Background,,0,0,0,,Y-You...
