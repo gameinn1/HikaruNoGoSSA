@@ -16,76 +16,27 @@ Audio File: [Moozzi2] Hikaru no Go - 22 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 22 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 238
-Active Line: 246
-Video Position: 32028
+Video Zoom Percent: 0.500000
+Scroll Position: 241
+Active Line: 251
+Video Position: 32727
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Op1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
 Style: Op1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Op1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op2Kanji,MS Gothic,22,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2Romaji,Wordy Diva,36,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English,Wordy Diva,36,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op2Romaji2,Pristina,40,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English2,Pristina,40,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Op3Kanji,MS Gothic,24,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,20,1
-Style: Op3Romaji,Polo,28,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,55,1
-Style: Op3Romaji2,Pristina,70,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,180,100,0,0,1,1,0,8,30,30,55,1
-Style: Op3English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,2,20,20,20,1
-Style: Ed1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
-Style: Ed1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
 Style: Ed2Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
 Style: Ed2Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed2English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed3Kanji,MS Gothic,30,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3Romaji,Palatino Linotype,34,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3English,Palatino Linotype,34,&H00A7C6FA,&H0080FFFF,&H00082E51,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed3Romaji2,Pristina,40,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3English2,Pristina,40,&H0089D6F3,&H0080FFFF,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed4Kanji,MS Gothic,22,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4Romaji,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Ed5Kanji,MS Gothic,20,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,9,30,30,20,1
-Style: Ed5Romaji,Smudger Std,36,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,15,1
-Style: Ed5English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
 Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,15,1
-Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
-Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
-Style: ed75_kanji,Arial Unicode MS,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,55,1
-Style: ed75_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,2,0,0,18,1
-Style: Title_special,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
-Style: op75_romaji,Freehand471 BT,30,&H006ECECF,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,12,1
-Style: op75_kanji,MS UI Gothic,21,&H0051B5DC,&H006B6F7B,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,8,0,0,45,1
-Style: op75_eng,Freehand471 BT,29,&H00DBF3F2,&H006B6F7B,&H00000000,&H7D000000,0,0,0,0,100,100,0,0,1,2,2,2,0,0,14,1
-Style: special_end,Clearface,30,&H00B19E8D,&H000000FF,&H00FFFFFF,&H66000000,0,-1,0,0,98.5,98.5,0,0,1,2,2,2,19,19,16,1
-Style: special_end_romaji,Michaelmas,30,&H00B19E8D,&H006B574A,&H00FFFFFF,&H66000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,16,1
-Style: special_end_kanji,@MS UI Gothic,24,&H006B574A,&H00B19E8D,&H00FFFFFF,&H66000000,-1,0,0,0,100,100,0,270,1,2,2,6,15,15,50,1
-Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
-Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
-Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: 61Sign,HillWilliam,42,&H00594941,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,20,1
-Style: NoteArialEF,Arial,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,20,1
-Style: CreditsEF,Bookman Old Style,22.5,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,20,1
 
 [Events]
@@ -339,17 +290,22 @@ Dialogue: 0,0:20:33.55,0:20:38.98,Thinking,,0,0,0,,I... I... will I ever be able
 Dialogue: 0,0:22:10.72,0:22:12.32,NoteTimes,,0,0,0,,{\fs32.5\pos(320,356)}Umezawa Yukari's Go Go Igo!
 Dialogue: 0,0:22:12.32,0:22:15.76,NoteTimes,,0,0,0,,{\fs32.5\pos(320,308)}Sagamihara South Kamimizo\NPrivate Jr. High School
 Dialogue: 0,0:22:17.04,0:22:20.67,Default,,0,0,0,,{\an8}We're at South Kamimizo Private Jr.\NHigh school in Sagamihara city today.
+Dialogue: 0,0:22:16.46,0:22:20.35,NoteTimes,,0,0,0,,{\an2\fs32.5\pos(231,469)}Mai
+Dialogue: 0,0:22:16.46,0:22:20.35,NoteTimes,,0,0,0,,{\an2\fs32.5\pos(420,469)}Teacher  Yukari
 Dialogue: 0,0:22:22.39,0:22:26.82,Default,,0,0,0,,{\an8}Teacher Yukari immediately\Nstarted playing five games at once.
+Dialogue: 0,0:22:22.48,0:22:40.02,Note,,0,0,0,,{\q2\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(2135,433,-1512,433)}Kanagawa Prefecture Sagamihara city South Kamimizo Jr. High School Go-Shougi club. Formed in 1998. 15 members. Record for 2001: 7th in the prefecture - East Japan Tournament, 9th in the upper class - Prefecture Rookie Tournament second place.
 Dialogue: 0,0:22:27.61,0:22:30.69,Default,,0,0,0,,{\an8}I also played someone on a 9x9 board.
 Dialogue: 0,0:22:31.87,0:22:33.77,Default,,0,0,0,,{\an8}Have I gotten stronger than before?
 Dialogue: 0,0:22:37.15,0:22:40.48,Default,,0,0,0,,{\an8}Don't let your stones get cut apart.
 Dialogue: 0,0:22:38.49,0:22:41.17,Default,,0,0,0,,{\an8}The teacher gave them some\Nadvice after the games.
 Dialogue: 0,0:22:41.17,0:22:43.64,Default,,0,0,0,,{\an8}Which one to take is up to you but,
-Dialogue: 0,0:22:44.06,0:22:47.56,Default,,0,0,0,,Most of the kids here have been playing\Ngo for less than a year. But they're really
-Dialogue: 0,0:22:47.56,0:22:51.15,Default,,0,0,0,,strong and they surprised me.\NA second or third Hikaru may\Nnot be out of the question.
+Dialogue: 0,0:22:44.06,0:22:47.56,Default,,0,0,0,,{\pos(372,460)}Most of the kids here have been playing\Ngo for less than a year. But they're really
+Dialogue: 0,0:22:44.22,0:22:51.11,Note,,0,0,0,,{\fs31\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(101,41)}Y\No\Nu\Nr\Nc\No\Nm\Nm\Ne\Nn\Nt\N!!
+Dialogue: 0,0:22:47.56,0:22:51.15,Default,,0,0,0,,{\pos(372,460)}strong and they surprised me.\NA second or third Hikaru may\Nnot be out of the question.
 Dialogue: 0,0:22:52.35,0:22:54.71,Default,,0,0,0,,Please enjoy Go in the future as well.
 Dialogue: 0,0:22:55.03,0:22:55.87,Default,,0,0,0,,{\an8}Thank you
 Dialogue: 0,0:22:55.10,0:22:57.32,NoteTimes,,0,0,0,,{\fs32.5\pos(168,368)}Thanks to everyone in\Nthe South Kainan Jr.\NHigh Go-Shougi club.
+Dialogue: 0,0:22:55.10,0:22:57.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(507,433)}To be continued
 Dialogue: 0,0:23:00.03,0:23:02.02,Background,,0,0,0,,He came to see if I was here.
 Dialogue: 0,0:23:02.58,0:23:07.20,Background,,0,0,0,,He said he'd never appear before\Nme again... he's waiting for me.
 Dialogue: 0,0:23:08.26,0:23:10.50,Background,,0,0,0,,Pursue me with his skills?
