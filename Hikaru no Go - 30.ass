@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 144
-Active Line: 171
-Video Position: 27357
+Scroll Position: 200
+Active Line: 214
+Video Position: 34675
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -284,14 +284,29 @@ Dialogue: 0,0:22:10.25,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3
 Dialogue: 0,0:22:10.66,0:22:12.32,Note,,0,0,0,,{\fs58\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(471,355)}Igo!
 Dialogue: 0,0:22:10.79,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(247.625,171.25)}Umezawa Yukari's
 Dialogue: 0,0:22:12.59,0:22:17.17,Default,,0,0,0,,The "Igo Asia Cup in Okinawa" was\Nheld between March 22nd and 23rd.
+Dialogue: 0,0:22:12.87,0:22:14.43,Note,,0,0,0,,{\fs27.5\1c&H0576FD&\bord2\shad0\pos(322,358)}Teacher Yukari
+Dialogue: 0,0:22:14.43,0:22:17.46,Note,,0,0,0,,{\fs22.5\fsp4.4\1c&HF40202&\bord2\shad0\pos(221,18)}March 22nd~23rd 2002
+Dialogue: 0,0:22:14.43,0:22:17.46,Note,,0,0,0,,{\fs39\1c&HF40202&\bord2\fscy90\shad0\pos(358,287)}[Igo Asia Cup in Okinawa]
+Dialogue: 0,0:22:14.43,0:22:17.46,Note,,0,0,0,,{\fs32.5\1c&HF40202&\bord2\shad0\pos(321,362)}was held.
+Dialogue: 0,0:22:17.86,0:22:21.17,Note,,0,0,0,,{\fs34.5\1c&HF40202&\bord2\fscy90\shad0\pos(179,275)}The Asia Cup is
+Dialogue: 0,0:22:17.86,0:22:21.17,Note,,0,0,0,,{\fs25\1c&HF40202&\bord2\shad0\pos(320,436)}A team tournament between Japan, Korea, China, and Taipei
+Dialogue: 0,0:22:21.85,0:22:25.15,Note,,0,0,0,,{\fs22.5\1c&HF40202&\bord2\shad0\pos(289,270)}It's a tournament that's held {\1c&HFB7AFD&}With 5 top pros from
+Dialogue: 0,0:22:21.85,0:22:25.15,Note,,0,0,0,,{\fs22.5\1c&HF40202&\bord2\shad0\pos(320,437)}each nation.
+Dialogue: 0,0:22:28.99,0:22:32.74,Note,,0,0,0,,{\fs30\fad(209,542)\1c&H1600FE&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(313,349)}The Korea team won!!
 Dialogue: 0,0:22:29.41,0:22:32.46,Default,,0,0,0,,Korea won with a commanding lead.
 Dialogue: 0,0:22:33.45,0:22:36.10,Default,,0,0,0,,Please give a word to the young Go fans out there.
 Dialogue: 0,0:22:36.59,0:22:39.43,Default,,0,0,0,,The manga for Hikaru no Go is a lot of fun,
+Dialogue: 0,0:22:36.90,0:22:41.92,Note,,0,0,0,,{\fs30\fad(542,542)\1c&H229400&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(295,286)}Korea Team Captain
+Dialogue: 0,0:22:36.90,0:22:41.92,Note,,0,0,0,,{\fs30\fad(542,542)\1c&H229400&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(282,349)}Cho Funyon 9 dan
 Dialogue: 0,0:22:39.52,0:22:43.87,Default,,0,0,0,,and Go is in it too. But the way they\Npresent Go is very interesting...
 Dialogue: 0,0:22:43.87,0:22:46.51,Default,,0,0,0,,...and it makes learning Go very easy.
 Dialogue: 0,0:22:46.59,0:22:51.48,Default,,0,0,0,,The kids of Japan, umm... Go is easy\Nto learn, so please learn Go.
+Dialogue: 0,0:22:49.28,0:22:53.26,Note,,0,0,0,,{\fs30\fad(209,501)\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(313,349)}Please learn Go and enjoy the game!!
 Dialogue: 0,0:22:51.80,0:22:52.71,Default,,0,0,0,,And enjoy it!
-Dialogue: 0,0:22:53.23,0:22:54.90,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:22:53.21,0:22:54.88,Default,,0,0,0,,Thank you very much!
+Comment: 0,0:22:54.88,0:22:55.18,Note,,0,0,0,,If doing no scroll method, these values looked pretty good: {\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,2)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,69)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,137)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,204)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,272)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,338)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,405)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,418.5)}To be continued...{\i0}
+Dialogue: 0,0:22:54.88,0:22:55.18,Note,,0,0,0,,{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\move(378,-10,378,417)}To be continued...{\i0}
+Dialogue: 0,0:22:55.18,0:22:57.37,Note,,0,0,0,,{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,417)}To be continued...{\i0}
 Dialogue: 0,0:23:00.53,0:23:02.86,Sai,,0,0,0,,Hikaru, aren't you nervous?
 Dialogue: 0,0:23:03.95,0:23:05.82,Default,,0,0,0,,It doesn't matter who my opponent is!
 Dialogue: 0,0:23:07.24,0:23:12.04,Default,,0,0,0,,I calmed down during those thirty minutes.\NWhile you became upset instead.
