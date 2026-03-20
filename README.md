@@ -88,8 +88,8 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 26 | ✅ | ✅ | ✅ |
 | 27 | ✅ | ✅ | ✅ |
 | 28 | ✅ | ✅ | ✅ |
-| 29 | ✅ | ✅ | ☑️ |
-| 30 | ✅ | ✅ | ☑️ |
+| 29 | ✅ | ✅ | ✅ |
+| 30 | ✅ | ✅ | ✅ |
 | 31 | ✅ | ✅ | ✅ |
 | 32 | ✅ | ✅ | ☑️ |
 | 33 | ✅ | ✅ | ☑️ |
