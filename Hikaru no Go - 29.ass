@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 29 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 231
-Active Line: 258
-Video Position: 34497
+Scroll Position: 264
+Active Line: 270
+Video Position: 34752
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -345,10 +345,22 @@ Dialogue: 0,0:20:28.41,0:20:30.43,Default,,0,0,0,,There was quite a commotion ov
 Dialogue: 0,0:20:31.23,0:20:32.92,Default,,0,0,0,,So Kadowaki is...
 Dialogue: 0,0:20:33.75,0:20:38.51,Background,,0,0,0,,I saw it on the net. That Kadowaki\Nis taking the pro exams...
 Dialogue: 0,0:22:13.14,0:22:18.51,Default,,0,0,0,,{\an8}The "Hikaru no Go" Go class for beginners we\Nhad last time, was held nationally this time.
+Dialogue: 0,0:22:12.67,0:22:17.33,NoteArialEF,,0,0,0,,{\fs24.5\fad(542,542)\1c&HFFFFFF&\3c&H01A40C&\4c&H01A40C&\bord2.5\shad2\i1\pos(176,223}On March 23rd, 2002{\i0}
+Dialogue: 0,0:22:12.67,0:22:17.33,NoteArialEF,,0,0,0,,{\fs24.5\fad(542,542)\1c&HFFFFFF&\3c&H01A40C&\4c&H01A40C&\bord2.5\shad2\i1\pos(270,297)}"Hikaru no Go" Go class for beginners{\i0}
+Dialogue: 0,0:22:12.67,0:22:17.33,NoteArialEF,,0,0,0,,{\fs24.5\fad(542,542)\1c&HFFFFFF&\3c&H01A40C&\4c&H01A40C&\bord2.5\shad2\i1\pos(252,360)}was held nationally in 61 locations{\i0}
 Dialogue: 0,0:22:18.77,0:22:22.07,Default,,0,0,0,,Right now I am at one of those\Nlocations in Okinawa.
+Dialogue: 0,0:22:20.97,0:22:24.50,NoteArialEF,,0,0,0,,{\fs24.5\fad(250,501)\1c&HFFFFFF&\3c&H187AF7&\bord2\shad0\i1\pos(157,359)}Teacher Yukari{\i0}
+Dialogue: 0,0:22:20.97,0:22:24.50,NoteArialEF,,0,0,0,,{\fs22\fad(250,501)\1c&HFFFFFF&\3c&HF800EF&\4c&HF800EF&\bord2\shad2\i1\pos(389,299)}From Miyakojima{\i0}
+Dialogue: 0,0:22:20.97,0:22:24.50,NoteArialEF,,0,0,0,,{\fs24.5\fad(250,501)\1c&HFFFFFF&\3c&HF800EF&\4c&HF800EF&\bord2\shad2\i1\pos(452,358)}Women's Kisei Chinen Kaori{\i0}
 Dialogue: 0,0:22:22.20,0:22:24.30,Default,,0,0,0,,I'm with Women's Kisei Chinen Kaori!
 Dialogue: 0,0:22:25.95,0:22:30.77,Default,,0,0,0,,I'd like all of you to enjoy Go like\Nthe way Hikaru is right now.
+Dialogue: 0,0:22:31.23,0:22:36.68,NoteArialEF,,0,0,0,,{\fs24.5\fad(459,542)\1c&HFFFFFF&\3c&H01A40C&\4c&H01A40C&\bord2.5\shad2\i1\pos(322,361)}Roughly 8000 children from around the world came.{\i0}
+Dialogue: 0,0:22:31.23,0:22:36.68,NoteArialEF,,0,0,0,,{\fs24.5\fad(292,375)\1c&HFFFFFF&\3c&H000000&\4c&H000000&\bord2.5\shad3\i1\pos(439,35)}Okinawa Convention Center{\i0}
+Dialogue: 0,0:22:37.37,0:22:41.75,NoteArialEF,,0,0,0,,{\fs24.5\fad(375,542)\1c&HFFFFFF&\3c&H01A40C&\4c&H01A40C&\bord2.5\shad2\i1\pos(322,354)}The children in Okinawa are all doing well!!{\i0}
+Dialogue: 0,0:22:43.80,0:22:46.92,NoteArialEF,,0,0,0,,{\fs24.5\fad(292,292)\1c&HFFFFFF&\3c&HF91422&\4c&HF91422&\bord2.5\shad2\i1\pos(322,360)}A Children's Go Tournament was held in the afternoon.{\i0}
+Dialogue: 0,0:22:47.29,0:22:50.19,NoteArialEF,,0,0,0,,{\fs24.5\fad(292,292)\1c&HFFFFFF&\3c&HF91422&\4c&HF91422&\bord2.5\shad2\i1\pos(322,354)}Two of them got a ticket to the national tournament.{\i0}
 Dialogue: 0,0:22:51.92,0:22:56.57,Default,,0,0,0,,I learned exactly how far advanced\Nthey were at Go from interacting with\Nthe children of Okinawa today.
+Dialogue: 0,0:22:55.52,0:22:57.37,NoteArialEF,,0,0,0,,{\fs45\1c&HFFFFFF&\3c&H1200F1&\4c&H1200F1&\bord2.5\shad1\i1\pos(322,305)}To be continued...{\i0}
 Dialogue: 0,0:22:58.94,0:23:00.69,Default,,0,0,0,,Gotta watch out for Kadowaki.
 Dialogue: 0,0:23:01.19,0:23:04.90,Default,,0,0,0,,Ready to register for the pro exams,\Nso might as well warm up a bit.
 Dialogue: 0,0:23:05.88,0:23:08.22,Default,,0,0,0,,People do make mistakes.
