@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 28 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 28 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 216
-Active Line: 228
-Video Position: 32058
+Video Zoom Percent: 0.625000
+Scroll Position: 236
+Active Line: 254
+Video Position: 34367
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -320,22 +320,37 @@ Dialogue: 0,0:20:12.55,0:20:20.20,Sai,,0,0,0,,Can Touya see from this board, fro
 Dialogue: 0,0:20:22.29,0:20:24.55,Sai,,0,0,0,,Can he see the moves that occurred?
 Dialogue: 0,0:22:10.71,0:22:12.32,NoteTimes,,0,0,0,,{\fs32.5\pos(320,165)}Umezawa Yukari's Go Go Igo!
 Dialogue: 0,0:22:14.50,0:22:17.12,Default,,0,0,0,,{\an8}Yuuki-kun, you always start\Nplay at the Tengen every time.
+Dialogue: 0,0:22:14.54,0:22:16.83,Note,,0,0,15,,{\an2}Tengen => The little mark at the middle of the Go board.
+Dialogue: 0,0:22:14.54,0:22:16.83,Default,,0,0,0,,{\fs22.5\bord2\shad1\1c&HF70004&\3c&H000000&\4c&H000000&\pos(116,353)}Yuuki
+Dialogue: 0,0:22:14.54,0:22:16.83,Default,,0,0,0,,{\fs22.5\bord2\shad1\1c&H1177EE&\3c&H000000&\4c&H000000&\pos(376,259)}Teacher Yukari
+Dialogue: 0,0:22:14.54,0:22:16.83,Default,,0,0,0,,{\fs22.5\bord2\shad1\1c&HF726F0&\3c&H000000&\4c&H000000&\pos(505,347)}Mai
 Dialogue: 0,0:22:17.35,0:22:20.82,Default,,0,0,0,,{\an8}But Hikaru and Sai, start from the corners.
+Dialogue: 0,0:22:17.76,0:22:23.27,Note,,0,0,15,,{\an2}Hikaru and Sai start from the corners, why?
 Dialogue: 0,0:22:21.24,0:22:23.93,Default,,0,0,0,,{\an8}There's actually a reason to that.
 Dialogue: 0,0:22:23.93,0:22:28.76,Default,,0,0,0,,{\an8}I tried making the same sized territory\Nin the corner, side, and center.
 Dialogue: 0,0:22:28.75,0:22:32.53,Default,,0,0,0,,{\an8}Let's count how many moves were\Nnecessary in making these territories.
+Dialogue: 0,0:22:29.81,0:22:33.06,Note,,0,0,15,,{\an2}How many moves are necessary to surround four moku?
 Dialogue: 0,0:22:32.74,0:22:33.54,Default,,0,0,0,,{\an8}In the center?
 Dialogue: 0,0:22:33.75,0:22:34.43,Default,,0,0,0,,{\an8}Eight moves.
+Dialogue: 0,0:22:33.64,0:22:41.24,Note,,0,0,0,,{\pos(283,180)}8 moves.
 Dialogue: 0,0:22:34.72,0:22:35.49,Default,,0,0,0,,{\an8}The side?
+Dialogue: 0,0:22:35.15,0:22:41.24,Note,,0,0,0,,{\pos(151,361)}6 moves
 Dialogue: 0,0:22:35.46,0:22:36.34,Default,,0,0,0,,{\an8}Six moves.
 Dialogue: 0,0:22:36.52,0:22:37.37,Default,,0,0,0,,{\an8}The corner?
+Dialogue: 0,0:22:37.13,0:22:41.24,Note,,0,0,0,,{\pos(549,249)}4 moves.
 Dialogue: 0,0:22:37.33,0:22:38.24,Default,,0,0,0,,{\an8}Four moves.
 Dialogue: 0,0:22:38.24,0:22:42.56,Default,,0,0,0,,{\an8}Yup. We made the territory in the\Ncorner with the fewest moves.
+Dialogue: 0,0:22:39.18,0:22:42.24,Note,,0,0,15,,{\an2}You can get territory with fewer moves in the corners.
 Dialogue: 0,0:22:42.72,0:22:46.23,Default,,0,0,0,,{\an8}One place that's commonly played at are\Nthese marks in the corners, the stars.
 Dialogue: 0,0:22:46.23,0:22:49.34,Default,,0,0,0,,{\an8}And, the place one above it, the Komoku.
+Dialogue: 0,0:22:48.06,0:22:49.76,Note,,0,0,0,,{\pos(489,136)}Komoku
+Dialogue: 0,0:22:48.89,0:22:49.76,Note,,0,0,0,,{\pos(289,310)}Hoshi
 Dialogue: 0,0:22:50.13,0:22:51.47,Default,,0,0,0,,{\an8}Let's start then.
 Dialogue: 0,0:22:51.73,0:22:52.86,Default,,0,0,0,,{\an8}Good luck!
+Dialogue: 0,0:22:52.55,0:22:54.38,Note,,0,0,15,,{\an2}Where will you play first, Yuuki?
 Dialogue: 0,0:22:52.81,0:22:54.16,Default,,0,0,0,,{\an8}Good luck!
+Dialogue: 0,0:22:55.72,0:22:57.37,NoteTimes,,0,0,0,,{\fs32.5\pos(320,154)}Tengen after all!!
+Dialogue: 0,0:22:55.72,0:22:57.37,NoteTimes,,0,0,0,,{\an2\fs32.5\pos(348,468)}To be continued...
 Dialogue: 0,0:22:58.65,0:23:00.18,Background,,0,0,0,,I want to become stronger...
 Dialogue: 0,0:23:00.62,0:23:01.60,Background,,0,0,0,,I want to play more!
 Dialogue: 0,0:23:02.00,0:23:05.42,Background,,0,0,0,,Shindou has become that\Nstrong relative to the pros!?
