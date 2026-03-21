@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 153
-Active Line: 165
-Video Position: 17838
+Video Zoom Percent: 0.500000
+Scroll Position: 298
+Active Line: 302
+Video Position: 32386
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -397,7 +397,7 @@ Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.7\an2\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.7\an5\fscx300\fscy300\fs200\shad4\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.7\an5\fscx300\fscy300\fs200\shad4\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:13.09,0:22:15.34,Background,,0,0,0,,I, Umezawa Yukari,
-Dialogue: 0,0:22:14.41,0:22:16.86,NoteArial_Igo,,0,0,0,,{\fad(667,0)\fs22.5\1c&HFFFFFF&\3c&H127AF4&\pos(346,345)}Teacher Yukari
+Dialogue: 0,0:22:14.41,0:22:16.86,NoteArial_Igo,,0,0,0,,{\fad(667,0)\fs22.5\1c&HFFFFFF&\3c&H127AF4&\bord1.5\pos(346,345)}Teacher Yukari
 Dialogue: 0,0:22:15.34,0:22:19.73,Background,,0,0,0,,once took you through the land of Honinbou\NShuusaku's birth, Innoshima.
 Dialogue: 0,0:22:18.73,0:22:21.95,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs22.5\bord1.5\3c&H009000&\pos(322,332)}Memorial Monument for Honinbou Shuusaku
 Dialogue: 0,0:22:22.25,0:22:26.92,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs27.5\bord1.5\fscy95\3c&H009000&\pos(322,332)}Shuusaku Memorial Museum
