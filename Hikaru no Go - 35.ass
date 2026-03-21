@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 35 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 252
-Active Line: 275
-Video Position: 32106
+Scroll Position: 285
+Active Line: 297
+Video Position: 34823
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -368,20 +368,26 @@ Dialogue: 0,0:20:39.52,0:20:41.27,Sai,,0,0,0,,the name Shindou Hikaru!
 Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(239,172)}Umezawa Yukari's
 Dialogue: 0,0:22:12.32,0:22:13.77,Note,,0,0,0,,Honinbou Shuusaku
 Dialogue: 0,0:22:14.70,0:22:18.71,Default,,0,0,0,,I'm in Innoshima, the land of Honinbou Shuusaku!
-Dialogue: 0,0:22:17.41,0:22:19.63,Note,,50,410,105,,{\an8}Hiroshima Prefecture\NInnoshima City
-Dialogue: 0,0:22:17.41,0:22:19.63,Note,,0,0,125,,{\an2}Ishikiri Shrine - Shuusaku Memorial Museum
-Dialogue: 0,0:22:19.86,0:22:26.57,Note,,0,0,190,,{\an2}Shuusaku (Torajirou) was strong enough to be called "The Godly Genius Child" at the age of 6.
+Dialogue: 0,0:22:14.74,0:22:17.23,NoteArialEF,,0,0,0,,{\fs25\fad(292,0)\1c&H197BF5&\bord2\shad1\pos(216,345)}Teacher Yukari
+Dialogue: 0,0:22:17.41,0:22:19.63,Default,,0,0,0,,{\fs20\fad(334,0)\1c&H0AB10F&\bord2\shad1\pos(318,361)}Ishikiri Shrine - Shuusaku Memorial Museum
+Dialogue: 0,0:22:17.41,0:22:19.63,Default,,0,0,0,,{\fs20\fad(334,0)\1c&HFFFFFF&\3c&H000000&\4c&H000000&\bord2\shad1\pos(138,40)}Hiroshima Prefecture
+Dialogue: 0,0:22:17.41,0:22:19.63,Default,,0,0,0,,{\fs20\fad(334,0)\1c&HFFFFFF&\3c&H000000&\4c&H000000&\bord2\shad1\pos(138,119)}Innoshima City
+Dialogue: 0,0:22:19.85,0:22:26.60,Default,,0,0,0,,{\an4\fs20\fad(375,501)\1c&H0AB10F&\bord2\shad1\pos(55,286)}Shuusaku (Torajirou) was strong enough to be\Ncalled "The Godly Genius Child" at the age of 6
 Dialogue: 0,0:22:20.28,0:22:22.52,Default,,0,0,0,,Shuusaku had the child's name "Torajirou".
 Dialogue: 0,0:22:22.64,0:22:23.88,Default,,0,0,0,,He learned Go from his mother,
 Dialogue: 0,0:22:23.95,0:22:27.86,Default,,0,0,0,,and at six, no one in the area was a match for him.
-Dialogue: 0,0:22:27.66,0:22:29.85,Note,,0,0,0,,{\an7\frz270\pos(600,50)}Written by Shuusaku at the age of 16
+Dialogue: 0,0:22:27.62,0:22:31.64,Default,,0,0,0,,{\fs15.5\fad(417,501)\1c&H5043F3&\bord2\shad1\frz270\pos(577,188)}Written by Shuusaku at the age of 16
 Dialogue: 0,0:22:31.42,0:22:36.21,Default,,0,0,0,,He went to Edo at the age of 9, entered the\NHoninbou family, and studied under Jyouwa.
+Dialogue: 0,0:22:30.78,0:22:36.15,Default,,0,0,0,,{\fs18.5\fad(334,501)\1c&H0AB40E&\fscx101\bord2\shad1\pos(319,367)}At age 9, he goes to Edo and studies under Honinbou Jyouwa
+Dialogue: 0,0:22:32.59,0:22:36.21,Default,,0,0,0,,{\fs18.5\fad(334,501)\1c&H5941F8&\fscx101\bord2\shad1\pos(468,227)}The Go board he used\Nwith his mother
+Dialogue: 0,0:22:36.46,0:22:40.15,Default,,0,0,0,,{\fs25\fad(417,501)\1c&H04B408&\bord2\shad1\pos(319,368)}He was given the name Honinbou\Nfrom a Shogun at the age of 20,
+Dialogue: 0,0:22:40.27,0:22:44.07,Default,,0,0,0,,{\fs25\fad(417,501)\1c&H04B408&\bord2\shad1\pos(319,368)}He then creates an incredible\Nrecord of 19 straight wins.
 Dialogue: 0,0:22:38.22,0:22:42.07,Default,,0,0,0,,The opening style developed by Shuusaku was\Neventually called "the Shuusaku Style"
 Dialogue: 0,0:22:42.07,0:22:46.54,Default,,0,0,0,,It is considered to guarantee victory\Nwithout Komi, and is still used today.
-Dialogue: 0,0:22:45.79,0:22:49.86,Note,,0,0,0,,Shuusaku's grave
-Dialogue: 0,0:22:46.29,0:22:49.86,Note,,0,0,120,,{\an2}He succumbed to disease in 1862 and died at the young age of 34.
+Dialogue: 0,0:22:45.69,0:22:49.99,Default,,0,0,0,,{\fs15.5\fad(417,501)\1c&HFFFFFF&\bord2\shad1\frz270\pos(245,189)}Shuusaku's grave
+Dialogue: 0,0:22:46.27,0:22:49.99,Default,,0,0,0,,{\fs25\fad(417,501)\1c&H05B30C&\bord2\shad1\pos(319,368)}He collapsed of disease in 1862,\Nand died at the young age of 34.
 Dialogue: 0,0:22:51.78,0:22:54.89,Default,,0,0,0,,Torajirou grew up on this beautiful island.
-Dialogue: 0,0:22:54.97,0:22:57.37,Note,,0,0,0,,To be continued
+Dialogue: 0,0:22:54.93,0:22:57.37,Default,,0,0,0,,{\fs25\fad(417,0)\1c&H1300F1&\bord2\shad1\pos(346,334)}To be continued...
 Dialogue: 0,0:22:59.02,0:23:01.28,Thinking,,0,0,0,,{\1c&HFEFECE&}Though it started from a quibble.
 Dialogue: 0,0:23:01.74,0:23:05.30,Thinking,,0,0,0,,{\1c&HFEFECE&}This match touches me in the heart.
 Dialogue: 0,0:23:05.82,0:23:08.24,Thinking,,0,0,0,,So you were this bad after all.
