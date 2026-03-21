@@ -93,7 +93,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 31 | ✅ | ✅ | ✅ |
 | 32 | ✅ | ✅ | ✅ |
 | 33 | ✅ | ✅ | ☑️ |
-| 34 | ✅ | ✅ | ☑️ |
+| 34 | ✅ | ✅ | ✅ |
 | 35 | ✅ | ✅ | ☑️ |
 | 36 | ✅ | ✅ | ☑️ |
 | 37 | ✅ | ✅ | ☑️ |
