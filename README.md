@@ -95,7 +95,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 33 | ✅ | ✅ | ☑️ |
 | 34 | ✅ | ✅ | ✅ |
 | 35 | ✅ | ✅ | ✅ |
-| 36 | ✅ | ✅ | ☑️ |
+| 36 | ✅ | ✅ | ✅ |
 | 37 | ✅ | ✅ | ☑️ |
 | 38 | ✅ | ✅ | ☑️ |
 | 39 | ✅ | ✅ | ☑️ |
