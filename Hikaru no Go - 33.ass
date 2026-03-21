@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 33 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 285
-Active Line: 301
-Video Position: 32123
+Scroll Position: 307
+Active Line: 324
+Video Position: 34695
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -393,13 +393,29 @@ Dialogue: 0,0:20:37.67,0:20:38.76,Background,,0,0,0,,Toro over here!
 Dialogue: 0,0:20:39.20,0:20:41.80,Default,,0,0,0,,Don't eat! Don't eat any more than that!
 Dialogue: 0,0:22:10.72,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(234,173)}Umezawa Yukari's
 Dialogue: 0,0:22:13.37,0:22:16.19,Default,,0,0,0,,Today we're at Teacher Yukari's teacher's house!
+Dialogue: 0,0:22:14.03,0:22:16.08,Note,,0,0,0,,{\fs30\fad(209,0)\fsp40\t(0,83,1,\fsp1)\1c&HFA24F1&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(315,349)}Mai
+Dialogue: 0,0:22:16.08,0:22:16.33,Note,,0,0,0,,{\fs30\fad(0,292)\fsp1\t(0,90,1,\fsp190)\1c&HFA24F1&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(315,349)}Mai
+Dialogue: 0,0:22:16.68,0:22:18.35,Note,,0,0,0,,{\fs28\fad(209,0)\fsp70\t(0,125,1,\fsp1)\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(325,351)}Yuuki
+Dialogue: 0,0:22:18.35,0:22:18.58,Note,,0,0,0,,{\fs28\fad(0,292)\fsp1\t(0,125,1,\fsp190)\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(325,351)}Yuuki
 Dialogue: 0,0:22:16.84,0:22:18.42,Default,,0,0,0,,There's a study session today.
 Dialogue: 0,0:22:18.96,0:22:19.60,Default,,0,0,0,,Wanna go?
 Dialogue: 0,0:22:19.68,0:22:20.17,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:22:26.69,0:22:26.79,Note,,0,0,0,,{\fs30\fad(125,0)\1c&H117CFB&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\move(-60,361,177,361)}Teacher Yukari
+Dialogue: 0,0:22:26.79,0:22:28.94,Note,,0,0,0,,{\fs30\1c&H117CFB&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(177,361)}Teacher Yukari
+Dialogue: 0,0:22:26.69,0:22:26.79,Note,,0,0,0,,{\fs30\fad(125,0)\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\move(700,298,435,298)}Suzuki Isao 7 dan
+Dialogue: 0,0:22:26.79,0:22:28.94,Note,,0,0,0,,{\fs30\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(435,298)}Suzuki Isao 7 dan
+Dialogue: 0,0:22:28.94,0:22:31.46,Note,,0,0,0,,{\fs20\fad(0,542)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(217,302)}Yukari Teacher's teacher
+Dialogue: 0,0:22:28.94,0:22:31.46,Note,,0,0,0,,{\fs30\fad(0,542)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(297,349)}Katou Masao 9 dan
+Dialogue: 0,0:22:32.76,0:22:39.18,Note,,0,0,0,,{\fs30\fad(542,542)\1c&H038E07&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,290)}Today she is going over a game
+Dialogue: 0,0:22:32.76,0:22:39.18,Note,,0,0,0,,{\fs30\fad(542,542)\1c&H038E07&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,365)}she played before with her teacher
 Dialogue: 0,0:22:36.56,0:22:39.05,Default,,0,0,0,,You can't wait to play there. That's bad.
 Dialogue: 0,0:22:40.75,0:22:47.93,Note,,0,0,0,,[note: Katou Masao used to be one of Japan's top players...\Nwell I guess he's still one of Japan's top players :-P He is currently\Nplaying Honinbou O Meien for the Honinbou title.]
+Dialogue: 0,0:22:40.80,0:22:47.93,Note,,0,0,0,,{\fs30\fad(542,542)\1c&H038E07&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,290)}In study sessions, everyone
+Dialogue: 0,0:22:40.80,0:22:47.93,Note,,0,0,0,,{\fs30\fad(542,542)\1c&H038E07&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,365)}discusses games around their teacher.
 Dialogue: 0,0:22:49.13,0:22:53.18,Default,,0,0,0,,Even Teacher Yukari has a teacher\Nand studies like this all the time.
 Dialogue: 0,0:22:53.33,0:22:54.80,Default,,0,0,0,,Yeah, no wonder she's so strong.
+Dialogue: 0,0:22:54.77,0:22:55.03,Note,,0,0,0,,{\an2\fs50\1c&H1000E9&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\move(364,-15,364,467)}To be continued . . .{\i0}
+Dialogue: 0,0:22:55.03,0:22:57.37,Note,,0,0,0,,{\an2\fs50\1c&H1000E9&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(364,467)}To be continued . . .{\i0}
 Dialogue: 0,0:22:59.54,0:23:01.21,Background,,0,0,0,,Please lose to them.
 Dialogue: 0,0:23:02.57,0:23:03.36,Thinking,,0,0,0,,Four of them...
 Dialogue: 0,0:23:04.83,0:23:06.28,Default,,0,0,0,,What were you thinking!?
