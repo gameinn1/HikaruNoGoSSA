@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 34 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 273
-Active Line: 291
-Video Position: 32587
+Scroll Position: 312
+Active Line: 315
+Video Position: 34699
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -381,13 +381,31 @@ Dialogue: 0,0:20:35.00,0:20:37.89,Default,,0,0,0,,Oh well, we'll play you until 
 Dialogue: 0,0:20:38.76,0:20:39.43,Default,,0,0,0,,Okay!
 Dialogue: 0,0:20:40.18,0:20:41.14,Default,,0,0,0,,Thanks!
 Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(239,172)}Umezawa Yukari's
+Dialogue: 0,0:22:12.32,0:22:14.34,Note,,0,0,0,,{\fs30\fad(0,459)\1c&HFFFFFF&\3c&HCE0003&\4c&HFFFFFF&\bord2\shad1\pos(189,292)}May 24th
+Dialogue: 0,0:22:12.32,0:22:14.34,Note,,0,0,0,,{\fs30\fad(0,459)\1c&HFFFFFF&\3c&HCE0003&\4c&HFFFFFF&\bord2\shad1\pos(322,354)}Kure City of Hiroshima Prefecture
 Dialogue: 0,0:22:16.01,0:22:19.87,Default,,0,0,0,,{\fs24}May 24th, the second game of the 57th Honinbou match
+Dialogue: 0,0:22:16.36,0:22:19.76,Note,,0,0,0,,{\fs30\fad(334,459)\1c&HFFFFFF&\3c&H1379F6&\4c&HFFFFFF&\bord2\shad1\pos(446,349)}Teacher Yukari
 Dialogue: 0,0:22:20.05,0:22:22.60,Default,,0,0,0,,was held here in Kure City of Hiroshima Prefecture.
+Dialogue: 0,0:22:20.95,0:22:24.50,Note,,0,0,0,,{\fs30\fad(459,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(465,12}Clinton Bay Hotel
+Dialogue: 0,0:22:20.95,0:22:24.50,Note,,0,0,0,,{\fs30\fad(459,0)\1c&HFFFFFF&\3c&HD10002&\4c&HFFFFFF&\bord2\shad1\pos(322,354)}Second Game of the 57th Honinbou Match
 Dialogue: 0,0:22:24.22,0:22:28.36,Default,,0,0,0,,{\fs21}Katou Masao 9 dan is challenging 0 Meien Honinbou right now.
+Dialogue: 0,0:22:24.65,0:22:26.97,Note,,0,0,0,,{\fs30\fad(459,0)\1c&HFFFFFF&\3c&HD90006&\4c&HFFFFFF&\bord2\shad1\pos(208,295)}Challenger
+Dialogue: 0,0:22:24.65,0:22:26.97,Note,,0,0,0,,{\fs30\fad(459,0)\1c&HFFFFFF&\3c&HD90006&\4c&HFFFFFF&\bord2\shad1\pos(322,354)}Katou Masao      9 dan
+Dialogue: 0,0:22:27.12,0:22:29.51,Note,,0,0,0,,{\fs30\fad(459,0)\1c&HFFFFFF&\3c&HE40002&\4c&HFFFFFF&\bord2\shad1\pos(322,349)}O          Meien      Honinbou
+Dialogue: 0,0:22:29.96,0:22:34.01,Note,,0,0,0,,{\fs25\fad(375,459)\1c&HFFFFFF&\3c&HD90006&\4c&HFFFFFF&\bord2\shad1\pos(322,361)}You spend two days playing one game in the Honinbou match.
 Dialogue: 0,0:22:30.19,0:22:33.99,Default,,0,0,0,,{\fs21}You spend two days playing one game in the Honinbou match.
 Dialogue: 0,0:22:34.88,0:22:41.27,Default,,0,0,0,,{\fs19}The name of "Honinbou" was a name that was passed down\Nbetween players recognized by the Edo government.
+Dialogue: 0,0:22:34.96,0:22:41.95,Note,,0,0,0,,{\fs24\fad(375,501)\1c&HFFFFFF&\3c&HD10002&\4c&HFFFFFF&\bord2\shad1\pos(322,303)}The name of "Honinbou" was passed down from pro player to
+Dialogue: 0,0:22:34.96,0:22:41.95,Note,,0,0,0,,{\fs24\fad(375,501)\1c&HFFFFFF&\3c&HD10002&\4c&HFFFFFF&\bord2\shad1\pos(322,367)}pro player with the approval of the Edo Government.
+Dialogue: 0,0:22:40.53,0:22:40.64,Note,,0,0,0,,{\fs25\fad(125,0)\1c&HFFFFFF&\3c&H047A05&\4c&HFFFFFF&\bord2\shad1\move(50,5,378,210)}Araki Issei 4dan
+Dialogue: 0,0:22:40.57,0:22:40.64,Note,,0,0,0,,{\fs25\fad(125,0)\1c&HFFFFFF&\3c&H047A05&\4c&HFFFFFF&\bord2\shad1\move(455,396,157,233)}Gotou Shungo 9dan
+Dialogue: 0,0:22:40.64,0:22:44.32,Note,,0,0,0,,{\fs25\fad(0,501)\1c&HFFFFFF&\3c&H047A05&\4c&HFFFFFF&\bord2\shad1\pos(378,210)}Araki Issei 4dan
+Dialogue: 0,0:22:40.64,0:22:44.32,Note,,0,0,0,,{\fs25\fad(0,501)\1c&HFFFFFF&\3c&H047A05&\4c&HFFFFFF&\bord2\shad1\pos(157,233)}Gotou Shungo 9dan
+Dialogue: 0,0:22:42.47,0:22:49.16,Note,,0,0,0,,{\fs21.5\fad(375,501)\1c&HFFFFFF&\3c&HD10002&\4c&HFFFFFF&\bord2\shad1\pos(322,304)}The name of "Honinbou" was given to the Japanese Go Institute,
+Dialogue: 0,0:22:42.47,0:22:49.16,Note,,0,0,0,,{\fs21.5\fad(375,501)\1c&HFFFFFF&\3c&HD10002&\4c&HFFFFFF&\bord2\shad1\pos(322,366)}and the "Honinbou Match" began in 1940s.
 Dialogue: 0,0:22:43.42,0:22:48.68,Default,,0,0,0,,{\fs19}Out of all the Honinbous, Shuusaku who appears in Hikaru\Nno Go is a true master who was called "the God of Go"
 Dialogue: 0,0:22:50.68,0:22:55.10,Default,,0,0,0,,Next time, I'd like to visit Innoshima,\Nthe home of Honinbou Shuusaku.
+Dialogue: 0,0:22:55.23,0:22:57.37,Note,,0,0,0,,{\fs50\c&HFFFFFF&\3c&H1100EF&\bord2.5\shad0\i1\pos(396,418)}{\alpha&HFF&\t(0,59,\alpha&H00&)}T{\alpha&HFF&\t(59,118,\alpha&H00&)}o{\alpha&HFF&\t(118,177,\alpha&H00&)} {\alpha&HFF&\t(177,236,\alpha&H00&)}b{\alpha&HFF&\t(236,295,\alpha&H00&)}e{\alpha&HFF&\t(295,354,\alpha&H00&)} {\alpha&HFF&\t(354,413,\alpha&H00&)}co{\alpha&HFF&\t(413,472,\alpha&H00&)}nt{\alpha&HFF&\t(472,531,\alpha&H00&)}in{\alpha&HFF&\t(531,590,\alpha&H00&)}ue{\alpha&HFF&\t(590,649,\alpha&H00&)}d{\alpha&HFF&\t(649,708,\alpha&H00&)} {\alpha&HFF&\t(708,767,\alpha&H00&)}. . .{\i0}
 Dialogue: 0,0:23:00.37,0:23:03.00,Default,,0,0,0,,Yes. Su-Young is trying to become a pro in Korea.
 Dialogue: 0,0:23:03.99,0:23:08.53,Default,,0,0,0,,It'll be more fun for me to play the\Ncustomers here than to play you.
 Dialogue: 0,0:23:09.41,0:23:12.00,Default,,0,0,0,,You're that scared of losing to me!?
