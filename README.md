@@ -99,7 +99,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 37 | ✅ | ✅ | ✅ |
 | 38 | ✅ | ✅ | ✅ |
 | 39 | ✅ | ✅ | ✅ |
-| 40 | ✅ | ✅ | ☑️ |
+| 40 | ✅ | ✅ | ✅ |
 | 41 | ✅ | ✅ | ☑️ |
 | 42 | ✅ | ✅ | ☑️ |
 | 43 | ✅ | ✅ | ☑️ |
