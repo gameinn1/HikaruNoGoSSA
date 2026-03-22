@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 38 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 38 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 204
-Active Line: 229
-Video Position: 28729
+Video Zoom Percent: 1.000000
+Scroll Position: 258
+Active Line: 261
+Video Position: 34833
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -327,19 +327,31 @@ Dialogue: 0,0:20:05.56,0:20:06.87,Default,,0,0,0,,Oh, that.
 Dialogue: 0,0:20:12.52,0:20:15.16,Default,,0,0,0,,Okay! Let's do it now!
 Dialogue: 0,0:20:15.74,0:20:16.32,Sai,,0,0,0,,Okay!
 Dialogue: 0,0:20:19.50,0:20:22.60,Sai,,0,0,0,,Hikaru, your opponent for today is here.
+Dialogue: 0,0:22:12.89,0:22:15.66,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H1A7BF7&\4c&H1A7BF7&\bord2\shad1\pos(320,460)}Teacher Yukari
 Dialogue: 0,0:22:13.19,0:22:15.16,Default,,0,0,0,,{\an8}Let's cover Tsumego today!
+Dialogue: 0,0:22:13.41,0:22:15.66,Default,,0,0,0,,{\an4\1c&HFFFFFF&\fad(0,0)\3c&H09B20E&\4c&H09B20E&\bord2\shad1\pos(20,150)}T\Ns\Nu\Nm\Ne\Ng\No
+Dialogue: 0,0:22:13.41,0:22:15.66,Default,,0,0,0,,{\an4\1c&HFFFFFF&\fad(0,0)\3c&H09B20E&\4c&H09B20E&\bord2\shad1\pos(20,330)}T\No\Nd\Na\Ny
+Dialogue: 0,0:22:15.66,0:22:17.41,Default,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(0,0)\3c&HED0004&\4c&HED0004&\bord2\shad1\pos(130,460)}Yuuki
+Dialogue: 0,0:22:15.66,0:22:17.41,Default,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(0,0)\3c&HFC28EE&\4c&HFC28EE&\bord2\shad1\pos(490,460)}Mai
 Dialogue: 0,0:22:16.21,0:22:22.05,Default,,0,0,0,,{\an8}"Tsumego" are problems that deal with\Nlife and death in a particular shape.
+Dialogue: 0,0:22:17.88,0:22:22.60,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04B510&\4c&H04B510&\bord2\shad1\pos(300,305)}"Tsumego" are problems dealing with life
+Dialogue: 0,0:22:17.88,0:22:22.60,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04B510&\4c&H04B510&\bord2\shad1\pos(300,460)}and death in a particular shape.
 Dialogue: 0,0:22:22.42,0:22:23.81,Default,,0,0,0,,{\an8}Can you look at this?
 Dialogue: 0,0:22:24.03,0:22:26.17,Default,,0,0,0,,{\an8}This is Black First White Dies
+Dialogue: 0,0:22:24.47,0:22:26.99,NoteArialEF,,0,0,0,,{\fs30\1c&H000000&\fad(0,0)\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(320,435)}Black First White Dies
 Dialogue: 0,0:22:26.47,0:22:30.04,Default,,0,0,0,,{\an8}It's a situation where White dies if Black goes first.
+Dialogue: 0,0:22:27.61,0:22:30.21,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04B510&\4c&H04B510&\bord2\shad1\pos(320,460)}It's a problem where White dies if Black goes first.
 Dialogue: 0,0:22:30.93,0:22:32.59,Default,,0,0,0,,{\an8}Then Mai-chan why don't you try it first?
+Dialogue: 0,0:22:31.69,0:22:37.28,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04B510&\4c&H04B510&\bord2\shad1\pos(320,460)}You should all think about it!!
 Dialogue: 0,0:22:35.00,0:22:36.05,Default,,0,0,0,,{\an8}Here?
 Dialogue: 0,0:22:37.29,0:22:38.36,Default,,0,0,0,,{\an8}If I take it?
 Dialogue: 0,0:22:38.50,0:22:39.67,Default,,0,0,0,,{\an8}If you take it...
 Dialogue: 0,0:22:43.48,0:22:44.59,Default,,0,0,0,,{\an8}If I take it...
 Dialogue: 0,0:22:48.76,0:22:49.56,Default,,0,0,0,,{\an8}I live.
+Dialogue: 0,0:22:48.91,0:22:52.46,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04B510&\4c&H04B510&\bord2\shad1\pos(320,460)}Oh no... she got two eyes.
 Dialogue: 0,0:22:51.13,0:22:52.26,Default,,0,0,0,,{\an8}Too bad.
 Dialogue: 0,0:22:53.03,0:22:55.28,Default,,0,0,0,,{\an8}We'll continue this next week!
+Dialogue: 0,0:22:55.27,0:22:57.37,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H1200E9&\4c&H1200E9&\bord2\shad1\pos(320,460)}To be continued...
 Dialogue: 0,0:23:00.16,0:23:02.61,Background,,0,0,0,,I'll beat Isumi-san today to set a rhythm for myself.
 Dialogue: 0,0:23:03.96,0:23:07.82,Background,,0,0,0,,I was wondering if you had an over inflated\Nopinion of Shindou too Isumi-san.
 Dialogue: 0,0:23:08.99,0:23:12.00,Background,,0,0,0,,I'm confident that I'm stronger than Shindou.
