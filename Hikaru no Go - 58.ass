@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 336
-Active Line: 361
-Video Position: 35556
+Active Line: 338
+Video Position: 32123
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,6 +87,7 @@ Style: CreditsEF,Bookman Old Style,22.5,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000
 Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,20,1
+Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0.333,0,1,0,1,7,56,56,14,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -428,6 +429,24 @@ Dialogue: 0,0:20:26.66,0:20:28.75,Default,,0,0,0,,has announced his retirement!
 Dialogue: 0,0:20:29.88,0:20:30.54,Default,,0,0,0,,What!?
 Dialogue: 0,0:20:32.25,0:20:32.96,Default,,0,0,0,,Master...
 Dialogue: 0,0:20:33.80,0:20:35.20,Default,,0,0,0,,Touya's...
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.1\t(50,162,1,\1a&H00&\4a&H50&)}e
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,99)\4c&HF9CF72&\4a&HFF&\shad1.1\t(75,187,1,\1a&H00&\4a&H50&)}z
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,114)\4c&HFADB82&\4a&HFF&\shad1.1\t(100,212,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,129)\4c&HFBE792&\4a&HFF&\shad1.1\t(125,237,1,\1a&H00&\4a&H50&)}w
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,144)\4c&HFDF2A1&\4a&HFF&\shad1.1\t(150,262,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,171)\4c&HFEFEB1&\4a&HFF&\shad1.1\t(175,287,1,\1a&H00&\4a&H50&)}Y
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,186)\4c&HFDF2A1&\4a&HFF&\shad1.1\t(200,312,1,\1a&H00&\4a&H50&)}u
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,201)\4c&HFBE792&\4a&HFF&\shad1.1\t(225,337,1,\1a&H00&\4a&H50&)}k
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,216)\4c&HFADB82&\4a&HFF&\shad1.1\t(250,362,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,231)\4c&HF9CF72&\4a&HFF&\shad1.1\t(275,387,1,\1a&H00&\4a&H50&)}r
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,246)\4c&HF8C362&\4a&HFF&\shad1.1\t(300,412,1,\1a&H00&\4a&H50&)}i
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,262)\4c&HF6B853&\4a&HFF&\shad1.1\t(325,437,1,\1a&H00&\4a&H50&)}'
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,268)\4c&HF5AC43&\4a&HFF&\shad1.1\t(350,462,1,\1a&H00&\4a&H50&)}s
+Dialogue: 0,0:22:10.61,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
+Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
+Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:12.62,0:22:14.51,Default,,0,0,0,,Let's cover 'Seki' today.
 Dialogue: 0,0:22:14.86,0:22:16.88,Default,,0,0,0,,Mai-chan, have you heard of Seki before?
 Dialogue: 0,0:22:17.08,0:22:18.08,Default,,0,0,0,,Nope!

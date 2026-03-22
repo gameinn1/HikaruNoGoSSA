@@ -380,7 +380,29 @@ Dialogue: 0,0:20:32.70,0:20:34.68,Default,,0,0,0,,Make it succeed this time.
 Dialogue: 0,0:20:35.00,0:20:37.89,Default,,0,0,0,,Oh well, we'll play you until you do it.
 Dialogue: 0,0:20:38.76,0:20:39.43,Default,,0,0,0,,Okay!
 Dialogue: 0,0:20:40.18,0:20:41.14,Default,,0,0,0,,Thanks!
-Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(239,172)}Umezawa Yukari's
+Dialogue: 0,0:22:09.79,0:22:09.82,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(592.16,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:09.82,0:22:09.85,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(539.44,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:09.85,0:22:09.89,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(460.89,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:09.89,0:22:09.92,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(370.74,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:09.92,0:22:09.95,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(290.08,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:09.95,0:22:09.99,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(205.73,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:09.99,0:22:12.32,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fnDael Calligraphy\fsp3\fscx100\b0\i0\pos(146,349)}Go
+Dialogue: 0,0:22:10.22,0:22:10.25,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(584.26,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:10.25,0:22:10.29,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(527.32,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:10.29,0:22:10.32,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(465.11,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:10.32,0:22:10.35,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(411.34,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:10.35,0:22:10.39,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(353.88,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
+Dialogue: 0,0:22:10.39,0:22:12.32,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fnDael Calligraphy\fsp3\fscx100\b0\i0\pos(296.58,349.26)}Go
+Dialogue: 1,0:22:10.52,0:22:10.56,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(-119.32,273.98)\fscx458.04\fscy458.04\fnDael Calligraphy\i1}Igo!
+Dialogue: 1,0:22:10.56,0:22:10.59,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(-32.63,285.88)\fscx405.46\fscy405.46\fnDael Calligraphy\i1}Igo!
+Dialogue: 1,0:22:10.59,0:22:10.62,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(51.52,297.43)\fscx354.42\fscy354.42\fnDael Calligraphy\i1}Igo!
+Dialogue: 1,0:22:10.62,0:22:10.66,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(135.67,308.98)\fscx303.38\fscy303.38\fnDael Calligraphy\i1}Igo!
+Dialogue: 1,0:22:10.66,0:22:10.69,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(222.38,320.88)\fscx250.79\fscy250.79\fnDael Calligraphy\i1}Igo!
+Dialogue: 1,0:22:10.69,0:22:10.72,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(306.52,332.43)\fscx199.76\fscy199.76\fnDael Calligraphy\i1}Igo!
+Dialogue: 1,0:22:10.72,0:22:10.76,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(390.67,343.98)\fscx148.72\fscy148.72\fnDael Calligraphy\i1}Igo!
+Dialogue: 1,0:22:10.76,0:22:10.77,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(476.61,349.26)\fscx100\fscy100\fnDael Calligraphy\i1}Igo!
+Dialogue: 1,0:22:10.77,0:22:12.32,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\fnDael Calligraphy\i1\pos(476.61,349.26)}Igo!
+Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(231,175)}Umezawa Yukari's
 Dialogue: 0,0:22:12.32,0:22:14.34,Note,,0,0,0,,{\fs30\fad(0,459)\1c&HFFFFFF&\3c&HCE0003&\4c&HFFFFFF&\bord2\shad1\pos(189,292)}May 24th
 Dialogue: 0,0:22:12.32,0:22:14.34,Note,,0,0,0,,{\fs30\fad(0,459)\1c&HFFFFFF&\3c&HCE0003&\4c&HFFFFFF&\bord2\shad1\pos(322,354)}Kure City of Hiroshima Prefecture
 Dialogue: 0,0:22:16.01,0:22:19.87,Default,,0,0,0,,{\fs24}May 24th, the second game of the 57th Honinbou match

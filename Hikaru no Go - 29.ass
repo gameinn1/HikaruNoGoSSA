@@ -87,6 +87,7 @@ Style: CreditsEF,Bookman Old Style,22.5,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000
 Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,20,1
+Style: igo29,Arial,30,&H00000000,&H006B6F7B,&H00000000,&HB4000000,-1,-1,0,0,100,100,0,0,1,0,5,5,56,56,14,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -344,6 +345,17 @@ Dialogue: 0,0:20:25.95,0:20:27.70,Default,,0,0,0,,I can't believe you know that 
 Dialogue: 0,0:20:28.41,0:20:30.43,Default,,0,0,0,,There was quite a commotion over him.
 Dialogue: 0,0:20:31.23,0:20:32.92,Default,,0,0,0,,So Kadowaki is...
 Dialogue: 0,0:20:33.75,0:20:38.51,Background,,0,0,0,,I saw it on the net. That Kadowaki\Nis taking the pro exams...
+Dialogue: 0,0:22:10.49,0:22:10.52,igo29,,0,0,0,,{\blur0.6\pos(357.73,264.79)\fscx302.69\fscy302.69\fs130\4a&HC0&\shad4.97}Igo
+Dialogue: 0,0:22:10.52,0:22:10.56,igo29,,0,0,0,,{\blur0.6\pos(378.24,280.15)\fscx278.97\fscy278.97\fs130\4a&HC0&\shad4.8}Igo
+Dialogue: 0,0:22:10.56,0:22:10.59,igo29,,0,0,0,,{\blur0.6\pos(399.37,295.97)\fscx254.53\fscy254.53\fs130\4a&HC0&\shad4.62}Igo
+Dialogue: 0,0:22:10.59,0:22:10.62,igo29,,0,0,0,,{\blur0.6\pos(419.88,311.32)\fscx230.81\fscy230.81\fs130\4a&HC0&\shad4.45}Igo
+Dialogue: 0,0:22:10.62,0:22:10.66,igo29,,0,0,0,,{\blur0.6\pos(440.39,326.67)\fscx207.09\fscy207.09\fs130\4a&HC0&\shad4.28}Igo
+Dialogue: 0,0:22:10.66,0:22:10.69,igo29,,0,0,0,,{\blur0.6\pos(461.52,342.49)\fscx182.66\fscy182.66\fs130\4a&HC0&\shad4.1}Igo
+Dialogue: 0,0:22:10.69,0:22:10.72,igo29,,0,0,0,,{\blur0.6\pos(482.03,357.85)\fscx158.94\fscy158.94\fs130\4a&HC0&\shad3.93}Igo
+Dialogue: 0,0:22:10.72,0:22:10.76,igo29,,0,0,0,,{\blur0.6\pos(502.55,373.2)\fscx135.22\fscy135.22\fs130\4a&HC0&\shad3.76}Igo
+Dialogue: 0,0:22:10.76,0:22:10.81,igo29,,0,0,0,,{\blur0.6\pos(533,396)\fscx100\fscy100\fs130\4a&HC0&\shad3.5}Igo
+Dialogue: 0,0:22:10.81,0:22:12.32,igo29,,0,0,0,,{\blur0.6\pos(533,396)\fs130\4a&HC0&\shad3.5}Igo
+Dialogue: 0,0:22:10.77,0:22:12.32,igo29,,0,0,0,,{\shad4.4\blur0.6\fs30\an5\pos(260.78,191.65)}Umezawa Yukari's
 Dialogue: 0,0:22:13.14,0:22:18.51,Default,,0,0,0,,{\an8}The "Hikaru no Go" Go class for beginners we\Nhad last time, was held nationally this time.
 Dialogue: 0,0:22:12.67,0:22:17.33,NoteArialEF,,0,0,0,,{\fs24.5\fad(542,542)\1c&HFFFFFF&\3c&H01A40C&\4c&H01A40C&\bord2.5\shad2\i1\pos(176,223}On March 23rd, 2002{\i0}
 Dialogue: 0,0:22:12.67,0:22:17.33,NoteArialEF,,0,0,0,,{\fs24.5\fad(542,542)\1c&HFFFFFF&\3c&H01A40C&\4c&H01A40C&\bord2.5\shad2\i1\pos(270,297)}"Hikaru no Go" Go class for beginners{\i0}

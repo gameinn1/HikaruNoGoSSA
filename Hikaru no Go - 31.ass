@@ -325,10 +325,28 @@ Dialogue: 0,0:20:07.10,0:20:10.24,Default,,0,0,0,,What's your problem! I've only
 Dialogue: 0,0:20:11.07,0:20:13.94,Thinking,,0,0,0,,Shindou can't do it...
 Dialogue: 0,0:20:31.75,0:20:32.75,Default,,0,0,0,,Please begin.
 Dialogue: 0,0:20:34.84,0:20:35.76,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:22:09.79,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(172,355)}Go
-Dialogue: 0,0:22:10.25,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(298,355)}Go
-Dialogue: 0,0:22:10.66,0:22:12.32,Note,,0,0,0,,{\fs58\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(471,355)}Igo!
-Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(234,173)}Umezawa Yukari's
+Dialogue: 0,0:22:09.99,0:22:12.32,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(144,350)}Go
+Dialogue: 0,0:22:09.79,0:22:09.82,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(592,350)}Go
+Dialogue: 0,0:22:09.82,0:22:09.85,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(539,350)}Go
+Dialogue: 0,0:22:09.85,0:22:09.89,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(461,350)}Go
+Dialogue: 0,0:22:09.89,0:22:09.92,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(371,350)}Go
+Dialogue: 0,0:22:09.92,0:22:09.95,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(290,350)}Go
+Dialogue: 0,0:22:09.95,0:22:09.99,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(206,350)}Go
+Dialogue: 0,0:22:10.22,0:22:10.25,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(584,350)}Go
+Dialogue: 0,0:22:10.25,0:22:10.29,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(527,350)}Go
+Dialogue: 0,0:22:10.29,0:22:10.32,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(465,350)}Go
+Dialogue: 0,0:22:10.32,0:22:10.35,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(411,350)}Go
+Dialogue: 0,0:22:10.35,0:22:10.39,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(354,350)}Go
+Dialogue: 0,0:22:10.39,0:22:12.32,NoteArialEF,,0,0,0,,{\fs62\bord3\c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(294.33,350)}Go
+Dialogue: 1,0:22:10.52,0:22:10.56,Note,,0,0,0,,{\fs64\bord1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(-119.32,273.98)\fscx458.04\fscy458.04}Igo!
+Dialogue: 1,0:22:10.56,0:22:10.59,Note,,0,0,0,,{\fs64\bord1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(-32.63,285.88)\fscx405.46\fscy405.46}Igo!
+Dialogue: 1,0:22:10.59,0:22:10.62,Note,,0,0,0,,{\fs64\bord1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(51.52,297.43)\fscx354.42\fscy354.42}Igo!
+Dialogue: 1,0:22:10.62,0:22:10.66,Note,,0,0,0,,{\fs64\bord1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(135.67,308.98)\fscx303.38\fscy303.38}Igo!
+Dialogue: 1,0:22:10.66,0:22:10.69,Note,,0,0,0,,{\fs64\bord1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(222.38,320.88)\fscx250.79\fscy250.79}Igo!
+Dialogue: 1,0:22:10.69,0:22:10.72,Note,,0,0,0,,{\fs64\bord1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(306.52,332.43)\fscx199.76\fscy199.76}Igo!
+Dialogue: 1,0:22:10.72,0:22:10.76,Note,,0,0,0,,{\fs64\bord1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(390.67,343.98)\fscx148.72\fscy148.72}Igo!
+Dialogue: 1,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs64\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(470,349)}Igo!
+Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(231,175)}Umezawa Yukari's
 Dialogue: 0,0:22:12.54,0:22:14.38,Default,,0,0,0,,Let's do Tesuji today!
 Dialogue: 0,0:22:12.59,0:22:14.46,Note,,0,0,95,,{\an2\bord1\fad(334,0)\fs30\1c&H1B7BF5&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Teacher Yukari
 Dialogue: 0,0:22:14.73,0:22:16.31,Default,,0,0,0,,It's white's turn in this formation.

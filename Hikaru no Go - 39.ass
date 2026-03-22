@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 39 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 39 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 99
-Active Line: 105
-Video Position: 16069
+Video Zoom Percent: 0.625000
+Scroll Position: 291
+Active Line: 317
+Video Position: 34699
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,6 +87,7 @@ Style: CreditsEF,Bookman Old Style,22.5,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000
 Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,20,1
+Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0.333,0,1,0,1,7,56,56,14,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -292,25 +293,122 @@ Dialogue: 0,0:19:37.28,0:19:41.65,Thinking,,0,0,0,,I intended to do so, but I wa
 Dialogue: 0,0:19:56.72,0:20:00.93,Thinking,,0,0,0,,Sai... didn't his fingers leave the stone just now?
 Dialogue: 0,0:20:11.46,0:20:13.11,Thinking,,0,0,0,,Sai, did you see?
 Dialogue: 0,0:20:20.32,0:20:25.62,Thinking,,0,0,0,,Playing somewhere else after your fingers\Nleave the stone... That's an automatic loss.
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.1\t(50,162,1,\1a&H00&\4a&H50&)}e
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,99)\4c&HF9CF72&\4a&HFF&\shad1.1\t(75,187,1,\1a&H00&\4a&H50&)}z
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,114)\4c&HFADB82&\4a&HFF&\shad1.1\t(100,212,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,129)\4c&HFBE792&\4a&HFF&\shad1.1\t(125,237,1,\1a&H00&\4a&H50&)}w
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,144)\4c&HFDF2A1&\4a&HFF&\shad1.1\t(150,262,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,171)\4c&HFEFEB1&\4a&HFF&\shad1.1\t(175,287,1,\1a&H00&\4a&H50&)}Y
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,186)\4c&HFDF2A1&\4a&HFF&\shad1.1\t(200,312,1,\1a&H00&\4a&H50&)}u
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,201)\4c&HFBE792&\4a&HFF&\shad1.1\t(225,337,1,\1a&H00&\4a&H50&)}k
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,216)\4c&HFADB82&\4a&HFF&\shad1.1\t(250,362,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,231)\4c&HF9CF72&\4a&HFF&\shad1.1\t(275,387,1,\1a&H00&\4a&H50&)}r
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,246)\4c&HF8C362&\4a&HFF&\shad1.1\t(300,412,1,\1a&H00&\4a&H50&)}i
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,262)\4c&HF6B853&\4a&HFF&\shad1.1\t(325,437,1,\1a&H00&\4a&H50&)}'
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,268)\4c&HF5AC43&\4a&HFF&\shad1.1\t(350,462,1,\1a&H00&\4a&H50&)}s
+Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
+Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
+Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:13.37,0:22:16.33,Default,,0,0,0,,Okay, continuing from last week,\Nnow it's Yuuki-kun's turn.
+Dialogue: 0,0:22:13.82,0:22:16.96,Note,,0,0,0,,{\1c&H1579F9&\fad(167,417)\bord2\shad0\pos(307,191)}Teacher Yukari
+Dialogue: 0,0:22:13.82,0:22:16.96,Note,,0,0,0,,{\1c&HE0750C&\fad(167,417)\bord2\shad0\pos(137,316)}Yuuki
+Dialogue: 0,0:22:13.82,0:22:16.96,Note,,0,0,0,,{\1c&HF824F0&\fad(167,417)\bord2\shad0\pos(485,316)}Mai
 Dialogue: 0,0:22:16.50,0:22:17.15,Default,,0,0,0,,Okay!
+Dialogue: 0,0:22:17.26,0:22:22.33,Note,,0,0,0,,{\an7\1c&H03B309&\fad(459,417)\bord2\shad0\pos(151,340)\org(151,340)\fry80\t(0,370,\fry0)}Continuation of the Tsumego problem.
 Dialogue: 0,0:22:19.55,0:22:20.43,Default,,0,0,0,,And if I take it?
 Dialogue: 0,0:22:24.21,0:22:25.35,Default,,0,0,0,,And if I take it?
+Dialogue: 0,0:22:25.15,0:22:30.07,Note,,0,0,0,,{\1c&H563FF9&\fad(709,417)\bord2\shad0\pos(320,365)}It... doesn't look good, {\1c&HE0750C&}Yuuki
 Dialogue: 0,0:22:26.94,0:22:27.66,Default,,0,0,0,,Huh?
 Dialogue: 0,0:22:28.51,0:22:29.51,Default,,0,0,0,,If I take it?
 Dialogue: 0,0:22:29.50,0:22:30.47,Default,,0,0,0,,Oh no.
+Dialogue: 0,0:22:30.31,0:22:30.34,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,22)}Oh no.
+Dialogue: 0,0:22:30.34,0:22:30.37,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,135)}Oh no.
+Dialogue: 0,0:22:30.37,0:22:30.41,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,247)}Oh no.
+Dialogue: 0,0:22:30.41,0:22:30.44,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,344)}Oh no.
+Dialogue: 0,0:22:30.44,0:22:30.47,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,310)}Oh no.
+Dialogue: 0,0:22:30.47,0:22:30.49,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,274)}Oh no.
+Dialogue: 0,0:22:30.49,0:22:30.52,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,251)}Oh no.
+Dialogue: 0,0:22:30.52,0:22:30.54,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,258)}Oh no.
+Dialogue: 0,0:22:30.54,0:22:30.56,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,262)}Oh no.
+Dialogue: 0,0:22:30.56,0:22:30.58,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,278)}Oh no.
+Dialogue: 0,0:22:30.58,0:22:30.59,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,287)}Oh no.
+Dialogue: 0,0:22:30.59,0:22:30.61,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,295)}Oh no.
+Dialogue: 0,0:22:30.61,0:22:30.63,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,300)}Oh no.
+Dialogue: 0,0:22:30.63,0:22:30.64,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,305)}Oh no.
+Dialogue: 0,0:22:30.64,0:22:30.68,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,302)}Oh no.
+Dialogue: 0,0:22:30.68,0:22:30.69,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,295)}Oh no.
+Dialogue: 0,0:22:30.69,0:22:30.71,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,290)}Oh no.
+Dialogue: 0,0:22:30.71,0:22:30.73,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,285)}Oh no.
+Dialogue: 0,0:22:30.73,0:22:30.74,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,283)}Oh no.
+Dialogue: 0,0:22:30.74,0:22:30.76,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,285)}Oh no.
+Dialogue: 0,0:22:30.76,0:22:30.78,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,286)}Oh no.
+Dialogue: 0,0:22:30.78,0:22:30.79,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,292)}Oh no.
+Dialogue: 0,0:22:30.79,0:22:30.81,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,295)}Oh no.
+Dialogue: 0,0:22:30.81,0:22:30.83,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,299)}Oh no.
+Dialogue: 0,0:22:30.83,0:22:30.86,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,302)}Oh no.
+Dialogue: 0,0:22:30.86,0:22:30.88,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,300)}Oh no.
+Dialogue: 0,0:22:30.88,0:22:30.89,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,298)}Oh no.
+Dialogue: 0,0:22:30.89,0:22:30.91,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,295)}Oh no.
+Dialogue: 0,0:22:30.91,0:22:30.93,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,290)}Oh no.
+Dialogue: 0,0:22:30.93,0:22:30.94,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,287)}Oh no.
+Dialogue: 0,0:22:30.94,0:22:30.98,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,284)}Oh no.
+Dialogue: 0,0:22:30.98,0:22:30.99,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,286)}Oh no.
+Dialogue: 0,0:22:30.99,0:22:31.01,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,288)}Oh no.
+Dialogue: 0,0:22:31.01,0:22:31.03,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,292)}Oh no.
+Dialogue: 0,0:22:31.03,0:22:31.04,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,297)}Oh no.
+Dialogue: 0,0:22:31.04,0:22:31.06,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,304)}Oh no.
+Dialogue: 0,0:22:31.06,0:22:31.41,Note,,0,0,0,,{\fs38\1c&HE0750C&\fad(0,0)\bord2\shad0\pos(439,310)}Oh no.
 Dialogue: 0,0:22:31.64,0:22:33.31,Default,,0,0,0,,Mai-chan you try it now.
+Dialogue: 0,0:22:31.54,0:22:31.79,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\move(-100,356,329,356)}Next is {\1c&HFB26F2&}Mai-chan {\i1\1c&H07B00A&}!{\i0}
+Dialogue: 0,0:22:31.79,0:22:33.91,Note,,0,0,0,,{\1c&H07B00A&\fad(0,417)\bord2\shad0\pos(329,356)}Next is {\1c&HFB26F2&}Mai-chan {\i1\1c&H07B00A&}!{\i0}
 Dialogue: 0,0:22:33.38,0:22:34.05,Default,,0,0,0,,Okay!
 Dialogue: 0,0:22:36.33,0:22:37.14,Default,,0,0,0,,Here.
 Dialogue: 0,0:22:37.91,0:22:38.96,Default,,0,0,0,,I take it.
 Dialogue: 0,0:22:40.51,0:22:42.23,Default,,0,0,0,,Now, I go here.
+Dialogue: 0,0:22:42.22,0:22:42.24,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(637,360)}Oh!!
+Dialogue: 0,0:22:42.24,0:22:42.25,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(595,360)}Oh!!
+Dialogue: 0,0:22:42.25,0:22:42.27,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(545,360)}Oh!!
+Dialogue: 0,0:22:42.27,0:22:42.29,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(500,360)}Oh!!
+Dialogue: 0,0:22:42.29,0:22:42.30,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(455,360)}Oh!!
+Dialogue: 0,0:22:42.30,0:22:42.32,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(415,360)}Oh!!
+Dialogue: 0,0:22:42.32,0:22:42.34,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(375,360)}Oh!!
+Dialogue: 0,0:22:42.34,0:22:42.35,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(342,360)}Oh!!
+Dialogue: 0,0:22:42.35,0:22:42.37,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(309,360)}Oh!!
+Dialogue: 0,0:22:42.37,0:22:42.39,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(280,360)}Oh!!
+Dialogue: 0,0:22:42.39,0:22:42.40,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(259,360)}Oh!!
+Dialogue: 0,0:22:42.40,0:22:42.42,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(237,360)}Oh!!
+Dialogue: 0,0:22:42.42,0:22:42.44,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(222,360)}Oh!!
+Dialogue: 0,0:22:42.44,0:22:42.45,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(211,360)}Oh!!
+Dialogue: 0,0:22:42.45,0:22:42.47,Note,,0,0,0,,{\1c&H07B00A&\fad(0,0)\bord2\shad0\pos(204,360)}Oh!!
+Dialogue: 0,0:22:42.47,0:22:46.79,Note,,0,0,0,,{\1c&H07B00A&\fad(0,459)\bord2\shad0\pos(200,360)}Oh!!
 Dialogue: 0,0:22:42.24,0:22:43.04,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:22:43.82,0:22:44.82,Default,,0,0,0,,I take it.
+Dialogue: 0,0:22:43.44,0:22:46.79,Note,,0,0,0,,{\1c&H07B00A&\fad(501,459)\bord2\shad0\pos(413,339)}It looks good
 Dialogue: 0,0:22:46.33,0:22:47.03,Default,,0,0,0,,Here!
 Dialogue: 0,0:22:47.16,0:22:48.08,Default,,0,0,0,,Yup!
+Dialogue: 0,0:22:47.19,0:22:49.68,Note,,0,0,0,,{\1c&HFF21F7&\fad(167,542)\bord2\shad0\pos(323,336)}Mai is {\1c&H07B10B&}right!
+Dialogue: 0,0:22:49.76,0:22:54.58,Note,,0,0,0,,{\1c&H06B20B&\fad(501,0)\bord2\shad0\pos(269,279)}All of you should work on
+Dialogue: 0,0:22:54.58,0:22:54.87,Note,,0,0,0,,{\1c&H06B20B&\fad(0,0)\bord2\shad0\move(269,279,269,490)}All of you should work on
+Dialogue: 0,0:22:49.76,0:22:54.58,Note,,0,0,0,,{\1c&H06B20B&\fad(501,0)\bord2\shad0\pos(289,367)}Tsumego as much as possible!!
+Dialogue: 0,0:22:54.58,0:22:54.83,Note,,0,0,0,,{\1c&H06B20B&\fad(0,0)\bord2\shad0\move(289,367,289,500)}Tsumego as much as possible!!
 Dialogue: 0,0:22:49.93,0:22:52.60,Default,,0,0,0,,You'll get a lot stronger by working on Tsumego.
 Dialogue: 0,0:22:52.60,0:22:55.23,Default,,0,0,0,,Try solving lots of different problems.
 Dialogue: 0,0:22:55.23,0:22:56.03,Default,,0,0,0,,Okay!
+Dialogue: 0,0:22:55.00,0:22:55.03,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,124)}To be continued . . .
+Dialogue: 0,0:22:55.03,0:22:55.07,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,295)}To be continued . . .
+Dialogue: 0,0:22:55.07,0:22:55.12,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,269)}To be continued . . .
+Dialogue: 0,0:22:55.12,0:22:55.13,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,286)}To be continued . . .
+Dialogue: 0,0:22:55.13,0:22:55.17,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,292)}To be continued . . .
+Dialogue: 0,0:22:55.17,0:22:55.18,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,288)}To be continued . . .
+Dialogue: 0,0:22:55.18,0:22:55.20,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,282)}To be continued . . .
+Dialogue: 0,0:22:55.20,0:22:55.22,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,275)}To be continued . . .
+Dialogue: 0,0:22:55.22,0:22:55.23,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,271)}To be continued . . .
+Dialogue: 0,0:22:55.23,0:22:55.25,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,276)}To be continued . . .
+Dialogue: 0,0:22:55.25,0:22:55.27,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,281)}To be continued . . .
+Dialogue: 0,0:22:55.27,0:22:55.28,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,291)}To be continued . . .
+Dialogue: 0,0:22:55.28,0:22:57.37,Note,,0,0,0,,{\fs31\1c&H0C00EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,304)}To be continued . . .
 Dialogue: 0,0:22:58.57,0:23:00.85,Thinking,,0,0,0,,Should I not ask Isumi-san?
 Dialogue: 0,0:23:01.32,0:23:03.42,Thinking,,0,0,0,,{\1c&HC5FEC1&}If his fingers left the stone?
 Dialogue: 0,0:23:03.86,0:23:05.82,Thinking,,0,0,0,,It'll cost you dearly if you've cracked emotionally.

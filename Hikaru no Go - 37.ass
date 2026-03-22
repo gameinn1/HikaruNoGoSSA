@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 37 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 231
-Active Line: 249
-Video Position: 34490
+Scroll Position: 228
+Active Line: 235
+Video Position: 32286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,6 +87,7 @@ Style: CreditsEF,Bookman Old Style,22.5,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000
 Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: NoteTimes,Times New Roman,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,20,1
+Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0.333,0,1,0,1,7,56,56,14,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -321,27 +322,45 @@ Dialogue: 0,0:20:24.96,0:20:26.38,Default,,0,0,0,,I'll go! I'll go!
 Dialogue: 0,0:20:26.69,0:20:28.74,Default,,0,0,0,,Yes please set it up.
 Dialogue: 0,0:20:34.05,0:20:34.82,Default,,0,0,0,,Shindou...
 Dialogue: 0,0:20:37.59,0:20:40.05,Default,,0,0,0,,I'm going to take a look at how\Nstrong you are right now.
-Dialogue: 0,0:22:12.32,0:22:14.31,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HE10001&\4c&HE10001&\bord1.5\shad1\pos(203.96,460)}Yuuki
-Dialogue: 0,0:22:12.32,0:22:14.31,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HFD24F2&\4c&HFD24F2&\bord1.5\shad1\pos(450,460)}Mai
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.1\t(50,162,1,\1a&H00&\4a&H50&)}e
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,99)\4c&HF9CF72&\4a&HFF&\shad1.1\t(75,187,1,\1a&H00&\4a&H50&)}z
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,114)\4c&HFADB82&\4a&HFF&\shad1.1\t(100,212,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,129)\4c&HFBE792&\4a&HFF&\shad1.1\t(125,237,1,\1a&H00&\4a&H50&)}w
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,144)\4c&HFDF2A1&\4a&HFF&\shad1.1\t(150,262,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,171)\4c&HFEFEB1&\4a&HFF&\shad1.1\t(175,287,1,\1a&H00&\4a&H50&)}Y
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,186)\4c&HFDF2A1&\4a&HFF&\shad1.1\t(200,312,1,\1a&H00&\4a&H50&)}u
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,201)\4c&HFBE792&\4a&HFF&\shad1.1\t(225,337,1,\1a&H00&\4a&H50&)}k
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,216)\4c&HFADB82&\4a&HFF&\shad1.1\t(250,362,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,231)\4c&HF9CF72&\4a&HFF&\shad1.1\t(275,387,1,\1a&H00&\4a&H50&)}r
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,246)\4c&HF8C362&\4a&HFF&\shad1.1\t(300,412,1,\1a&H00&\4a&H50&)}i
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,262)\4c&HF6B853&\4a&HFF&\shad1.1\t(325,437,1,\1a&H00&\4a&H50&)}'
+Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,268)\4c&HF5AC43&\4a&HFF&\shad1.1\t(350,462,1,\1a&H00&\4a&H50&)}s
+Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
+Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
+Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.32,0:22:14.31,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HE10001&\4c&HE10001&\bord2\shad1\pos(203.96,460)}Yuuki
+Dialogue: 0,0:22:12.32,0:22:14.31,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HFD24F2&\4c&HFD24F2&\bord2\shad1\pos(450,460)}Mai
 Dialogue: 0,0:22:12.48,0:22:14.39,Default,,0,0,0,,{\an8}We're explaining Go terms again today!
 Dialogue: 0,0:22:14.84,0:22:15.44,Default,,0,0,0,,{\an8}Okay.
-Dialogue: 0,0:22:15.03,0:22:17.23,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,417)\3c&H1A7BF7&\4c&H1A7BF7&\bord1.5\shad1\pos(320,335)}Teacher Yukari
-Dialogue: 0,0:22:15.03,0:22:17.23,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,417)\3c&H0BAF11&\4c&H0BAF11&\bord1.5\shad1\pos(320,460)}Go terms again today!!
+Dialogue: 0,0:22:15.03,0:22:17.23,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,417)\3c&H1A7BF7&\4c&H1A7BF7&\bord2\shad1\pos(320,335)}Teacher Yukari
+Dialogue: 0,0:22:15.03,0:22:17.23,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,417)\3c&H0BAF11&\4c&H0BAF11&\bord2\shad1\pos(320,460)}Go terms again today!!
 Dialogue: 0,0:22:18.83,0:22:22.63,Default,,0,0,0,,{\an8}When you place your stone immediately next\Nto another stone, it's called a "Tsuke"
-Dialogue: 0,0:22:21.62,0:22:23.92,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,375)\3c&H351FE9&\4c&H351FE9&\bord1.5\shad1\pos(320,460)}"Tsuke"
+Dialogue: 0,0:22:21.62,0:22:23.92,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,375)\3c&H351FE9&\4c&H351FE9&\bord2\shad1\pos(320,460)}"Tsuke"
 Dialogue: 0,0:22:23.94,0:22:27.41,Default,,0,0,0,,{\an8}When you play diagonally to a Tsuke\Nlike this, it's called a "Hane"
-Dialogue: 0,0:22:26.29,0:22:28.64,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,375)\3c&H351FE9&\4c&H351FE9&\bord1.5\shad1\pos(320,460)}"Hane"
+Dialogue: 0,0:22:26.29,0:22:28.64,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,375)\3c&H351FE9&\4c&H351FE9&\bord2\shad1\pos(320,460)}"Hane"
 Dialogue: 0,0:22:28.46,0:22:32.32,Default,,0,0,0,,{\an8}When you place a stone next to the "tsuke"\Nstone after a "hane" is a "Nobi"
-Dialogue: 0,0:22:31.31,0:22:34.05,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,375)\3c&H351FE9&\4c&H351FE9&\bord1.5\shad1\pos(320,460)}"Nobi"
+Dialogue: 0,0:22:31.31,0:22:34.05,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,375)\3c&H351FE9&\4c&H351FE9&\bord2\shad1\pos(320,460)}"Nobi"
 Dialogue: 0,0:22:33.48,0:22:39.12,Default,,0,0,0,,{\an8}Let's say black connects these two isolated\Nstones, this is called a "Tsugi"
-Dialogue: 0,0:22:37.93,0:22:40.28,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,375)\3c&H351FE9&\4c&H351FE9&\bord1.5\shad1\pos(320,460)}"Tsugi"
+Dialogue: 0,0:22:37.93,0:22:40.28,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,375)\3c&H351FE9&\4c&H351FE9&\bord2\shad1\pos(320,460)}"Tsugi"
 Dialogue: 0,0:22:39.95,0:22:47.12,Default,,0,0,0,,{\an8}If black doesn't play there, and white plays\Nthere instead, cutting the two stones\Napart, this move is called a "Kiri"
-Dialogue: 0,0:22:45.67,0:22:47.86,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H351FE9&\4c&H351FE9&\bord1.5\shad1\pos(320,460)}"Kiri"
+Dialogue: 0,0:22:45.67,0:22:47.86,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H351FE9&\4c&H351FE9&\bord2\shad1\pos(320,460)}"Kiri"
 Dialogue: 0,0:22:48.07,0:22:54.92,Default,,0,0,0,,{\an8}Once you learn Go terms, you'll be able to\Nunderstand what Sai talks about, and explanations,\Nand Go will become even more fun.
-Dialogue: 0,0:22:48.51,0:22:50.78,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04AD0C&\4c&H04AD0C&\bord1.5\shad1\pos(320,460)}There are many other Go terms!!
-Dialogue: 0,0:22:51.16,0:22:54.12,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04AD0C&\4c&H04AD0C&\bord1.5\shad1\pos(270,290)}Go will become even more fun
-Dialogue: 0,0:22:51.16,0:22:54.12,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04AD0C&\4c&H04AD0C&\bord1.5\shad1\pos(320,460)}if you learn lots of Go terms!!
-Dialogue: 0,0:22:54.53,0:22:57.37,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H1100EC&\4c&H1100EC&\bord1.5\shad1\pos(320,460)}To be continued...
+Dialogue: 0,0:22:48.51,0:22:50.78,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04AD0C&\4c&H04AD0C&\bord2\shad1\pos(320,460)}There are many other Go terms!!
+Dialogue: 0,0:22:51.16,0:22:54.12,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04AD0C&\4c&H04AD0C&\bord2\shad1\pos(270,290)}Go will become even more fun
+Dialogue: 0,0:22:51.16,0:22:54.12,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H04AD0C&\4c&H04AD0C&\bord2\shad1\pos(320,460)}if you learn lots of Go terms!!
+Dialogue: 0,0:22:54.53,0:22:57.37,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H1100EC&\4c&H1100EC&\bord2\shad1\pos(320,460)}To be continued...
 Dialogue: 0,0:22:58.98,0:23:01.32,Background,,0,0,0,,I want to find out how strong Shindou is.
 Dialogue: 0,0:23:01.82,0:23:05.99,Background,,0,0,0,,You don't think I can beat Shindou?
 Dialogue: 0,0:23:06.32,0:23:09.28,Background,,0,0,0,,Shindou will trip along the way.
