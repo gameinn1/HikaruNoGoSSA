@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 41 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 41 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 90
-Active Line: 107
-Video Position: 20034
+Video Zoom Percent: 1.000000
+Scroll Position: 221
+Active Line: 228
+Video Position: 34733
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -188,11 +188,11 @@ Dialogue: 0,0:12:48.38,0:12:51.67,Default,,0,0,0,,You're doing well too, staying
 Dialogue: 0,0:12:52.38,0:12:55.27,Background,,0,0,0,,You played Nase today right? Easy win?
 Dialogue: 0,0:12:56.46,0:12:57.17,Default,,0,0,0,,Not at all.
 Dialogue: 0,0:12:58.55,0:13:01.34,Default,,0,0,0,,Even if you're at an advantage, mistakes\Nhappen if you try to rush the win.
-Dialogue: 0,0:13:01.67,0:13:04.72,Default,,0,0,0,,Since it's the pro exam, it's hard to play normally.
+Dialogue: 0,0:13:01.64,0:13:04.72,Default,,0,0,0,,Since it's the pro exam, it's hard to play normally.
 Dialogue: 0,0:13:06.47,0:13:12.33,Default,,0,0,0,,Being too determined to win\Ncan make you falter too.
 Dialogue: 0,0:13:14.16,0:13:15.69,Default,,0,0,0,,Emotions are difficult.
 Dialogue: 0,0:13:26.50,0:13:28.96,Thinking,,0,0,0,,Shindou has changed...
-Dialogue: 0,0:13:29.43,0:13:31.26,Thinking,,0,0,0,,And it's not just his strength in the game.
+Dialogue: 0,0:13:29.37,0:13:31.26,Thinking,,0,0,0,,And it's not just his strength in the game.
 Dialogue: 0,0:13:33.63,0:13:35.74,Thinking,,0,0,0,,No, I can't be worrying.
 Dialogue: 0,0:13:38.01,0:13:42.93,NoteArial,,0,0,0,,{\fs30\bord1\fad(0,542)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Seventeenth Match of the Pro Exam Finals
 Dialogue: 0,0:13:45.17,0:13:47.16,Thinking,,0,0,0,,{\1c&HC5FEC1&}Oh! Shindou lost to Honda-san!
@@ -295,8 +295,17 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.56,0:22:12.77,Default,,0,0,0,,{\1c&HFFFFFF&\3c&H1A7BF3&\4c&H1A7BF3&\bord2\shad1\move(-30,391,184,391)}Teacher Yukari
+Dialogue: 0,0:22:12.77,0:22:15.06,Default,,0,0,0,,{\1c&HFFFFFF&\3c&H1A7BF3&\4c&H1A7BF3&\bord2\shad1\pos(184,391)}Teacher Yukari
+Dialogue: 0,0:22:12.57,0:22:12.77,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HFA22F2&\4c&HFA22F2&\bord2\shad1\move(680,391,495,391)}Mai
+Dialogue: 0,0:22:12.77,0:22:15.06,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HFA22F2&\4c&HFA22F2&\bord2\shad1\pos(495,391)}Mai
 Dialogue: 0,0:22:12.89,0:22:17.25,Default,,0,0,0,,Today, we're at Tokyo city Kodaira district's\NFifth Public Kodaira Junior High School.
+Dialogue: 0,0:22:15.38,0:22:15.51,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HF40414&\4c&HF40414&\bord2\shad1\move(233,480,233,308)}Tokyo City Kodaira District's
+Dialogue: 0,0:22:15.51,0:22:17.46,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HF40414&\4c&HF40414&\bord2\shad1\pos(233,308)}Tokyo City Kodaira District's
+Dialogue: 0,0:22:15.39,0:22:15.51,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HF40414&\4c&HF40414&\bord2\shad1\move(320,500,320,385)}Fifth Public Kodaira Junior High School
+Dialogue: 0,0:22:15.51,0:22:17.46,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HF40414&\4c&HF40414&\bord2\shad1\pos(320,385)}Fifth Public Kodaira Junior High School
 Dialogue: 0,0:22:18.60,0:22:22.18,Default,,0,0,0,,Kodaira Five's Go club is a brand new\Nclub that started just this year.
+Dialogue: 0,0:22:21.58,0:22:36.23,NoteArial_Igo,,0,0,0,,{\fs30\q2\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\move(1535,360,-890,360)}Tokyo Kodaira Junior High School     Go club     Formed in 2002    9 Members       Formed by 7th graders who were inspired by Hikaru no Go.
 Dialogue: 0,0:22:22.75,0:22:25.84,Default,,0,0,0,,At first, they played on home made Go boards.
 Dialogue: 0,0:22:26.09,0:22:27.51,Default,,0,0,0,,But as you can see, they are...
 Dialogue: 0,0:22:27.97,0:22:30.21,Default,,0,0,0,,very active now. Doing things like...
@@ -307,8 +316,11 @@ Dialogue: 0,0:22:40.72,0:22:42.35,Default,,0,0,0,,I was close to winning too.
 Dialogue: 0,0:22:43.08,0:22:47.80,Default,,0,0,0,,At the end, teacher Yukari gave us some Tsumego\Nproblems, and we solved them together.
 Dialogue: 0,0:22:48.78,0:22:51.55,Default,,0,0,0,,Their club just started, but\Neveryone was really good.
 Dialogue: 0,0:22:51.74,0:22:53.13,Default,,0,0,0,,I lost my game too.
-Dialogue: 0,0:22:53.34,0:22:54.87,Default,,0,0,0,,Please keep up the good work.
-Dialogue: 0,0:22:55.33,0:22:55.97,Default,,0,0,0,,Okay!
+Dialogue: 0,0:22:53.34,0:22:54.85,Default,,0,0,0,,Please keep up the good work.
+Dialogue: 0,0:22:54.85,0:22:57.37,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HF50115&\4c&HF50115&\bord2\shad1\pos(250,328)}Everyone in Kodaira Junior High School
+Dialogue: 0,0:22:54.85,0:22:57.37,Default,,0,0,0,,{\1c&HFFFFFF&\3c&HF50115&\4c&HF50115&\bord2\shad1\pos(187,455)}Thank you very much
+Dialogue: 0,0:22:54.85,0:22:57.37,Default,,0,0,0,,{\1c&HFFFFFF&\3c&H220DF2&\4c&H220DF2&\bord2\shad1\pos(508,455)}To be continued...
+Dialogue: 0,0:22:55.33,0:22:55.97,Default,,0,0,0,,{\pos(360,460)}Okay!
 Dialogue: 0,0:23:00.20,0:23:01.99,Default,,0,0,0,,The top five just won't fall.
 Dialogue: 0,0:23:03.32,0:23:05.57,Default,,0,0,0,,I've finally lost my grip on the cliff.
 Dialogue: 0,0:23:07.45,0:23:09.41,Default,,0,0,0,,Who is Shindou!?
