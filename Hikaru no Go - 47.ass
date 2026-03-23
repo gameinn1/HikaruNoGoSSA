@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 294
-Active Line: 313
-Video Position: 32124
+Scroll Position: 354
+Active Line: 372
+Video Position: 34685
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -421,26 +421,50 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
-Dialogue: 0,0:22:12.32,0:22:14.46,Note,,0,0,0,,August 30th Japanese Go Institute
-Dialogue: 0,0:22:12.32,0:22:14.46,Note,,0,0,0,,Go Go Igo Cup Junior Pair Go Tournament was held
+Dialogue: 0,0:22:12.32,0:22:14.46,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(242,21)}August 30th     Japanese Go Institute
+Dialogue: 0,0:22:12.32,0:22:14.46,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(383,368)}Go Go Igo Cup Junior Pair Go Tournament was held.
+Dialogue: 0,0:22:14.89,0:22:15.11,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord0.5\shad1\move(-40,272,199,272)}Yuuki
+Dialogue: 0,0:22:15.11,0:22:18.63,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,417)\3c&HFF0212&\4c&HFF0212&\bord0.5\shad1\pos(199,272)}Yuuki
+Dialogue: 0,0:22:14.93,0:22:15.11,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HFE22F4&\4c&HFE22F4&\bord0.5\shad1\move(650,305,459,305)}Mai
+Dialogue: 0,0:22:15.11,0:22:18.63,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,417)\3c&HFE22F4&\4c&HFE22F4&\bord0.5\shad1\pos(459,305)}Mai
 Dialogue: 0,0:22:15.26,0:22:17.09,Default,,0,0,0,,It's finally the day of the Go Tournament!
 Dialogue: 0,0:22:17.09,0:22:18.41,Default,,0,0,0,,Yup, let's do our best!
 Dialogue: 0,0:22:18.41,0:22:19.06,Default,,0,0,0,,Yup!
-Dialogue: 0,0:22:19.55,0:22:23.75,Note,,0,0,0,,In the morning, 300 pairs played in the preliminaries
+Dialogue: 0,0:22:19.48,0:22:23.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,346)}In the morning, 300 pairs played in the preliminaries
 Dialogue: 0,0:22:19.55,0:22:21.20,Default,,0,0,0,,Start your clocks!
-Dialogue: 0,0:22:24.12,0:22:27.47,Note,,0,0,0,,Only 32 pairs can go to the finals!!
-Dialogue: 0,0:22:27.78,0:22:32.81,Default,,0,0,0,,Go Go Igo cup's Junior Pair Go Tournament\Nwas finally held today. I'm glad.
-Dialogue: 0,0:22:33.33,0:22:38.00,Note,,0,0,0,,Katou Masao Honinbou and Suzuki Isao 7 dan\Ncame to cheer them on
+Dialogue: 0,0:22:24.12,0:22:27.47,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,362)}Only 32 pairs can go to the finals!!
+Dialogue: 1,0:22:27.78,0:22:32.81,Default,,0,0,0,,Go Go Igo cup's Junior Pair Go Tournament\Nwas finally held today. I'm glad.
+Dialogue: 0,0:22:28.17,0:22:28.29,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H157AF7&\4c&H157AF7&\bord1\shad1\move(287,480,287,364)}Yukari
+Dialogue: 0,0:22:28.29,0:22:31.98,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,417)\3c&H157AF7&\4c&H157AF7&\bord1\shad1\pos(287,364)}Yukari
+Dialogue: 0,0:22:28.17,0:22:28.29,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H157AF7&\4c&H157AF7&\bord1\shad1\move(376,480,376,345)}Teacher
+Dialogue: 0,0:22:28.29,0:22:31.98,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,417)\3c&H157AF7&\4c&H157AF7&\bord1\shad1\pos(376,345)}Teacher
+Dialogue: 0,0:22:33.16,0:22:38.02,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(167,501)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,280)}Katou Masao Honinbou and Suzuki Isao 7 dan
+Dialogue: 0,0:22:33.16,0:22:38.02,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(167,501)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(246,367)}came to cheer them on
 Dialogue: 0,0:22:35.50,0:22:36.40,Default,,0,0,0,,It was a good match.
 Dialogue: 0,0:22:38.19,0:22:39.60,Default,,0,0,0,,Good luck next time.
-Dialogue: 0,0:22:40.60,0:22:42.52,Note,,0,0,0,,In the meanwhile Mai and Yuuki were...
-Dialogue: 0,0:22:43.17,0:22:46.01,Note,,0,0,0,,Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:40.23,0:22:42.55,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,501)\3c&H1200EC&\4c&H1200EC&\bord1\shad1\pos(328,362)}In the mean while {\3c&HFE22F4&\4c&HFE22F4&}Mai {\3c&H1200EC&\4c&H1200EC&}and {(\3c&HFF0212&\4c&HFF0212&}Yuuki {\3c&H1200EC&\4c&H1200EC&}were...
+Dialogue: 0,0:22:42.94,0:22:42.95,NoteArial_Igo,,0,0,0,,{\fs6\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,460)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:42.95,0:22:42.97,NoteArial_Igo,,0,0,0,,{\fs7\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,453)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:42.97,0:22:42.99,NoteArial_Igo,,0,0,0,,{\fs8\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,440)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:42.99,0:22:43.00,NoteArial_Igo,,0,0,0,,{\fs9\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,432)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.00,0:22:43.02,NoteArial_Igo,,0,0,0,,{\fs10\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,427)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.02,0:22:43.04,NoteArial_Igo,,0,0,0,,{\fs11\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,420)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.04,0:22:43.05,NoteArial_Igo,,0,0,0,,{\fs12\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,412)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.05,0:22:43.07,NoteArial_Igo,,0,0,0,,{\fs13\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,402)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.07,0:22:43.09,NoteArial_Igo,,0,0,0,,{\fs14\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,395)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.09,0:22:43.10,NoteArial_Igo,,0,0,0,,{\fs15\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,386)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.10,0:22:43.12,NoteArial_Igo,,0,0,0,,{\fs16\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,377)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.12,0:22:43.14,NoteArial_Igo,,0,0,0,,{\fs17\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,367)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.14,0:22:43.15,NoteArial_Igo,,0,0,0,,{\fs18\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,358)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.15,0:22:43.17,NoteArial_Igo,,0,0,0,,{\fs19\q2\1c&HFFFFFF&\fad(0,0)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,351)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
+Dialogue: 0,0:22:43.17,0:22:46.06,NoteArial_Igo,,0,0,0,,{\fs20\q2\1c&HFFFFFF&\fad(0,417)\3c&HFF0212&\4c&HFF0212&\bord1\shad1\pos(320,343)}Unfortunately eliminated from the preliminaries, with 1 win and 4 losses
 Dialogue: 0,0:22:46.95,0:22:47.85,Default,,0,0,0,,How was it?
 Dialogue: 0,0:22:48.03,0:22:49.58,Default,,0,0,0,,I wanted to go to the finals.
 Dialogue: 0,0:22:49.76,0:22:50.70,Default,,0,0,0,,What about you, Yuuki-kun?
 Dialogue: 0,0:22:50.70,0:22:52.33,Default,,0,0,0,,I wanted to go to the finals, too.
 Dialogue: 0,0:22:52.49,0:22:55.94,Default,,0,0,0,,I'm sorry for the both of you.\NBut you tried your best.
-Dialogue: 0,0:22:54.37,0:22:57.37,Note,,0,0,0,,The finals tournament is next!!
+Dialogue: 0,0:22:54.13,0:22:54.35,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H210AEF&\4c&H210AEF&\bord1\shad1\move(320,-10,320,330)}The finals tournament is next!!
+Dialogue: 0,0:22:54.35,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H210AEF&\4c&H210AEF&\bord1\shad1\pos(320,330)}The finals tournament is next!!
 Dialogue: 0,0:23:01.19,0:23:04.19,Default,,0,0,0,,I'm going to be hidden in your shadow again.
 Dialogue: 0,0:23:04.74,0:23:05.70,Sai,,0,0,0,,Then hide in my shadow!
 Dialogue: 0,0:23:06.08,0:23:07.26,Default,,0,0,0,,I can't!
