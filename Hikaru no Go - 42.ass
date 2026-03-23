@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 42 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 42 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 261
-Active Line: 280
-Video Position: 32378
+Video Zoom Percent: 1.000000
+Scroll Position: 326
+Active Line: 332
+Video Position: 34796
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -387,14 +387,30 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.32,0:22:15.73,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,417)\3c&H04900C&\4c&H04900C&\bord2\shad1\pos(455,228)}"Kakugen"\N(Maxims)\NToday!!
+Dialogue: 0,0:22:12.32,0:22:15.73,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,417)\3c&H1378F1&\4c&H1378F1&\bord2\shad1\pos(320,374)}Teacher Yukari
 Dialogue: 0,0:22:12.99,0:22:14.84,Default,,0,0,0,,Let's cover maxims today.
 Dialogue: 0,0:22:14.94,0:22:16.29,Default,,0,0,0,,Do you know what a maxim is?
+Dialogue: 0,0:22:16.48,0:22:16.49,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(564,390)}Mai
+Dialogue: 0,0:22:16.49,0:22:16.51,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(459,390)}Mai
+Dialogue: 0,0:22:16.51,0:22:16.53,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(380,390)}Mai
+Dialogue: 0,0:22:16.53,0:22:16.54,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(330,390)}Mai
+Dialogue: 0,0:22:16.54,0:22:17.70,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(314,390)}Mai
 Dialogue: 0,0:22:16.56,0:22:21.23,Note,,0,0,0,,[Money for a cat is a Japanese expression (or maxim)\Nthat means, "Just like the way giving money to\Na cat is useless, this and that is also useless."]
 Dialogue: 0,0:22:16.56,0:22:17.65,Default,,0,0,0,,Money for a cat!
 Dialogue: 0,0:22:17.77,0:22:21.18,Default,,0,0,0,,Yup! The thing is, there are maxims for Go too.
+Dialogue: 0,0:22:17.90,0:22:17.91,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDA0000&\4c&HDA0000&\bord2\shad1\pos(138,431)}Yuuki
+Dialogue: 0,0:22:17.91,0:22:17.93,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDA0000&\4c&HDA0000&\bord2\shad1\pos(138,372)}Yuuki
+Dialogue: 0,0:22:17.93,0:22:17.95,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDA0000&\4c&HDA0000&\bord2\shad1\pos(138,333)}Yuuki
+Dialogue: 0,0:22:17.95,0:22:20.11,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDA0000&\4c&HDA0000&\bord2\shad1\pos(138,320)}Yuuki
+Dialogue: 0,0:22:20.11,0:22:20.13,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDA0000&\4c&HDA0000&\bord2\shad1\pos(120,320)}Yuuki
+Dialogue: 0,0:22:20.13,0:22:20.15,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDA0000&\4c&HDA0000&\bord2\shad1\pos(71,320)}Yuuki
+Dialogue: 0,0:22:20.15,0:22:20.16,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDA0000&\4c&HDA0000&\bord2\shad1\pos(-8,320)}Yuuki
 Dialogue: 0,0:22:21.27,0:22:22.75,Default,,0,0,0,,Take a look at the Go board.
 Dialogue: 0,0:22:22.97,0:22:25.04,Default,,0,0,0,,This is a tsumego where white\Ndies if black goes first.
 Dialogue: 0,0:22:25.04,0:22:28.52,Default,,0,0,0,,The key is a maxim the states, "The\Ncenter is key with a mirror image."
+Dialogue: 0,0:22:25.10,0:22:28.42,Default,,0,0,0,,{\1c&HFFFFFF&\fad(417,417)\3c&H0D9117&\4c&H0D9117&\bord2\shad1\pos(110,335)}The maxim
+Dialogue: 0,0:22:25.10,0:22:28.42,Default,,0,0,0,,{\1c&HFFFFFF&\fad(417,417)\3c&HDB00D4&\4c&HDB00D4&\bord2\shad1\pos(320,385)}"The center is key with a mirror image" {\3c&H0D9117&\4c&H0D9117&}is the key!
 Dialogue: 0,0:22:28.66,0:22:29.80,Default,,0,0,0,,Want to try it Yuuki-kun?
 Dialogue: 0,0:22:29.80,0:22:30.83,Default,,0,0,0,,Yeah, here!
 Dialogue: 0,0:22:31.07,0:22:33.21,Default,,0,0,0,,Yeah, that's the center.
@@ -404,8 +420,10 @@ Dialogue: 0,0:22:37.56,0:22:40.23,Default,,0,0,0,,Now, even if I take it...
 Dialogue: 0,0:22:40.28,0:22:43.38,Default,,0,0,0,,You can take it back, it's an utegaeshi shape.
 Dialogue: 0,0:22:43.60,0:22:45.83,Default,,0,0,0,,There will only be one eye if you play there.
 Dialogue: 0,0:22:47.22,0:22:50.36,Default,,0,0,0,,Even if I play here... you can just play\Nhere, and it's the same thing.
+Dialogue: 0,0:22:49.23,0:22:53.05,Default,,0,0,0,,{\1c&HFFFFFF&\fad(417,417)\3c&H0B8B16&\4c&H0B8B16&\bord2\shad1\pos(320,308)}The maxim states that, when both sides look the\Nsame the center tends to become the key spot.
 Dialogue: 0,0:22:50.93,0:22:53.17,Default,,0,0,0,,The center was the critical spot.
 Dialogue: 0,0:22:53.70,0:22:55.67,Default,,0,0,0,,Let's cover maxims again next week.
+Dialogue: 0,0:22:55.13,0:22:57.37,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H08B709&\4c&H08B709&\bord2\shad1\pos(320,358)}Maxims again next week. {\3c&H1100ED&\4c&H1100ED&}To be continued...
 Dialogue: 0,0:22:56.05,0:22:56.55,Default,,0,0,0,,Okay!
 Dialogue: 0,0:22:59.44,0:23:01.65,Default,,0,0,0,,Damn, I can't find it...
 Dialogue: 0,0:23:02.65,0:23:04.60,Default,,0,0,0,,The way for black to live...
