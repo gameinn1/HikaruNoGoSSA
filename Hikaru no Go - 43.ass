@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 43 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 216
-Active Line: 222
-Video Position: 35021
+Scroll Position: 225
+Active Line: 226
+Video Position: 32464
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -317,19 +317,38 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.86,0:22:13.04,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H1378F1&\4c&H1378F1&\bord1\shad1\move(320,480,320,277)}Teacher Yukari
+Dialogue: 0,0:22:13.04,0:22:17.43,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H1378F1&\4c&H1378F1&\bord1\shad1\pos(320,277)}Teacher Yukari
+Dialogue: 0,0:22:12.86,0:22:13.04,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDE0003&\4c&HDE0003&\bord1\shad1\move(134,500,134,305)}Yuuki
+Dialogue: 0,0:22:13.04,0:22:17.43,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDE0003&\4c&HDE0003&\bord1\shad1\pos(134,305)}Yuuki
+Dialogue: 0,0:22:12.86,0:22:13.04,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF724F2&\4c&HF724F2&\bord1\shad1\move(524,500,524,305)}Mai
+Dialogue: 0,0:22:13.04,0:22:17.43,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF724F2&\4c&HF724F2&\bord1\shad1\pos(524,305)}Mai
+Dialogue: 0,0:22:12.89,0:22:13.04,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H008E06&\4c&H008E06&\bord1\shad1\move(328,500,328,374)}The Maxim{\3c&H321BF2&\4c&H321BF2&}"hane two stones blindly" {\3c&H048D06&\4c&H048D06&}will be covered today
+Dialogue: 0,0:22:13.04,0:22:17.43,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H008E06&\4c&H008E06&\bord1\shad1\pos(328,374)}The Maxim{\3c&H321BF2&\4c&H321BF2&}"hane two stones blindly" {\3c&H008E06&\4c&H008E06&}will be covered today
 Dialogue: 0,0:22:13.36,0:22:17.43,Default,,0,0,0,,I'll talk about the maxim "hane\Ntwo stones blindly" today.
 Dialogue: 0,0:22:17.80,0:22:23.64,Default,,0,0,0,,This maxim says that white should play a hane\Nright away when there are two\Nstones lined up like this.
+Dialogue: 0,0:22:18.03,0:22:18.28,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H008E06&\4c&H008E06&\bord1\shad1\move(700,324,320,324)}When two stones are side by side like this,
+Dialogue: 0,0:22:18.28,0:22:23.63,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,459)\3c&H008E06&\4c&H008E06&\bord1\shad1\pos(320,324)}When two stones are side by side like this,
+Dialogue: 0,0:22:18.03,0:22:18.28,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H008E06&\4c&H008E06&\bord1\shad1\move(700,387,320,387)}do a hane before your opponent no matter what
+Dialogue: 0,0:22:18.28,0:22:23.63,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,459)\3c&H008E06&\4c&H008E06&\bord1\shad1\pos(320,387)}do a hane before your opponent no matter what
 Dialogue: 0,0:22:23.93,0:22:27.43,Default,,0,0,0,,Doesn't black look cramped when white plays here?
 Dialogue: 0,0:22:28.53,0:22:29.64,Default,,0,0,0,,He might get taken.
 Dialogue: 0,0:22:30.99,0:22:34.08,Default,,0,0,0,,And it looks like white can develop over here.
+Dialogue: 0,0:22:31.43,0:22:35.35,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(417,459)\3c&H008E06&\4c&H008E06&\bord1\shad1\pos(320,387)}It looks like white can spread to the right
 Dialogue: 0,0:22:34.81,0:22:37.45,Default,,0,0,0,,But what if black extends here?
+Dialogue: 0,0:22:36.15,0:22:36.30,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H008E06&\4c&H008E06&\bord1\shad1\move(0,387,320,387)}Instead if Black extends...
+Dialogue: 0,0:22:36.30,0:22:40.02,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,459)\3c&H008E06&\4c&H008E06&\bord1\shad1\pos(320,387)}Instead if Black extends...
 Dialogue: 0,0:22:37.92,0:22:39.32,Default,,0,0,0,,White is in danger.
 Dialogue: 0,0:22:40.05,0:22:45.05,Default,,0,0,0,,It looks a little scary for white, and\Nblack can develop here now.
+Dialogue: 0,0:22:42.00,0:22:46.29,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(417,459)\3c&H008E06&\4c&H008E06&\bord1\shad1\pos(320,387)}It looks like Black can spread above.
 Dialogue: 0,0:22:45.70,0:22:48.78,Default,,0,0,0,,Yup. This is a spot that neither of them can give up.
 Dialogue: 0,0:22:49.12,0:22:52.84,Default,,0,0,0,,If you're in a situation like this as\Nwhite, play a hane right away.
 Dialogue: 0,0:22:53.75,0:22:56.13,Default,,0,0,0,,Please remember "hane two stones blindly!"
+Dialogue: 0,0:22:55.25,0:22:55.48,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H008E06&\4c&H008E06&\bord1\shad1\move(282,40,282,314)}There are still more maxims, try learning them!
+Dialogue: 0,0:22:55.48,0:22:57.37,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H008E06&\4c&H008E06&\bord1\shad1\pos(282,314)}There are still more maxims, try learning them!
+Dialogue: 0,0:22:55.25,0:22:55.48,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H1000F2&\4c&H1000F2&\bord1\shad1\move(425,58,425,425)}To be continued...
+Dialogue: 0,0:22:55.48,0:22:57.37,Default,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H1000F2&\4c&H1000F2&\bord1\shad1\pos(425,425)}To be continued...
 Dialogue: 0,0:22:56.45,0:22:57.10,Default,,0,0,0,,Okay!
-Dialogue: 0,0:22:55.25,0:22:57.37,Note,,0,0,0,,To be continued...
 Dialogue: 0,0:22:59.82,0:23:05.24,Default,,0,0,0,,Then if I win the last match will\Nyou recognize me as a rival!?
 Dialogue: 0,0:23:05.57,0:23:07.03,Default,,0,0,0,,You'll lose if you underestimate him!
 Dialogue: 0,0:23:08.16,0:23:11.84,Default,,0,0,0,,I fell sorry for Waya but... Fuku has the advantage.
