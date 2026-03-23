@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 46 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 246
-Active Line: 272
-Video Position: 32123
+Scroll Position: 297
+Active Line: 314
+Video Position: 34706
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -365,7 +365,18 @@ Dialogue: 0,0:22:10.61,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fsc
 Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:12.79,0:22:14.57,Default,,0,0,0,,Let's do another problem today!
+Dialogue: 0,0:22:12.70,0:22:12.87,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE70003&\4c&HE70003&\bord0.5\shad1\move(138,490,138,293)}Yuuki
+Dialogue: 0,0:22:12.87,0:22:15.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE70003&\4c&HE70003&\bord0.5\shad1\pos(138,293)}Yuuki
+Dialogue: 0,0:22:12.75,0:22:12.87,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AF6&\4c&H167AF6&\bord0.5\shad1\move(291,490,291,277)}Yukari
+Dialogue: 0,0:22:12.87,0:22:15.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AF6&\4c&H167AF6&\bord0.5\shad1\pos(291,277)}Yukari
+Dialogue: 0,0:22:12.72,0:22:12.87,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AF6&\4c&H167AF6&\bord0.5\shad1\move(378,490,378,257)}Teacher
+Dialogue: 0,0:22:12.87,0:22:15.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AF6&\4c&H167AF6&\bord0.5\shad1\pos(378,257)}Teacher
+Dialogue: 0,0:22:12.70,0:22:12.87,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF725F2&\4c&HF725F2&\bord0.5\shad1\move(525,490,525,293)}Mai
+Dialogue: 0,0:22:12.87,0:22:15.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF725F2&\4c&HF725F2&\bord0.5\shad1\pos(525,293)}Mai
+Dialogue: 0,0:22:12.75,0:22:12.87,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H058C08&\4c&H058C08&\bord1\shad1\move(320,490,320,348)}Let's solve another problem today!
+Dialogue: 0,0:22:12.87,0:22:15.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H058C08&\4c&H058C08&\bord1\shad1\pos(320,348)}Let's solve another problem today!
 Dialogue: 0,0:22:14.57,0:22:15.25,Default,,0,0,0,,Okay!
+Dialogue: 0,0:22:15.59,0:22:20.34,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(459,459)\3c&H058C08&\4c&H058C08&\bord1\shad1\pos(320,341)}Black can still play something in white's territory again.
 Dialogue: 0,0:22:15.82,0:22:19.36,Background,,0,0,0,,You can still play something in this white territory.
 Dialogue: 0,0:22:19.56,0:22:20.76,Background,,0,0,0,,It's black's turn.
 Dialogue: 0,0:22:20.76,0:22:21.79,Default,,0,0,0,,Mai-chan, try it.
@@ -374,17 +385,30 @@ Dialogue: 0,0:22:24.71,0:22:26.31,Background,,0,0,0,,I connect because it's atar
 Dialogue: 0,0:22:27.95,0:22:28.60,Background,,0,0,0,,Here!
 Dialogue: 0,0:22:28.94,0:22:30.00,Background,,0,0,0,,If I play here?
 Dialogue: 0,0:22:30.23,0:22:31.34,Default,,0,0,0,,It doesn't work.
+Dialogue: 0,0:22:30.43,0:22:30.62,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(125,0)\3c&HF725F2&\4c&HF725F2&\bord1\shad1\move(236,10,236,361)}Mai
+Dialogue: 0,0:22:30.62,0:22:32.69,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF725F2&\4c&HF725F2&\bord1\shad1\pos(236,361)}Mai
+Dialogue: 0,0:22:32.69,0:22:32.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,125)\3c&HF725F2&\4c&HF725F2&\bord1\shad1\move(236,361,236,500)}Mai
+Dialogue: 0,0:22:30.43,0:22:30.62,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(125,0)\3c&HF725F2&\4c&HF725F2&\bord1\shad1\move(360,10,360,343)}too bad {\i1}!!{\i0}
+Dialogue: 0,0:22:30.62,0:22:32.69,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF725F2&\4c&HF725F2&\bord1\shad1\pos(360,343)}too bad {\i1}!!{\i0}
+Dialogue: 0,0:22:32.69,0:22:32.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,125)\3c&HF725F2&\4c&HF725F2&\bord1\shad1\move(360,343,360,500)}too bad {\i1}!!{\i0}
 Dialogue: 0,0:22:31.60,0:22:32.97,Default,,0,0,0,,You can't take anything.
 Dialogue: 0,0:22:34.24,0:22:35.48,Default,,0,0,0,,Try it Yuuki-kun.
 Dialogue: 0,0:22:38.52,0:22:40.07,Background,,0,0,0,,I connect because it's atari.
 Dialogue: 0,0:22:41.50,0:22:43.39,Background,,0,0,0,,I connect again because it's atari.
 Dialogue: 0,0:22:44.11,0:22:47.27,Background,,0,0,0,,Yup. White can't get away from this.
 Dialogue: 0,0:22:47.47,0:22:48.75,Default,,0,0,0,,Yes!
+Dialogue: 0,0:22:48.62,0:22:51.14,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,501)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(230,362)}You captured alot
+Dialogue: 0,0:22:48.62,0:22:51.14,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,501)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(479,362)}Yuuki {\i1}!!{\i0}
 Dialogue: 0,0:22:48.75,0:22:51.02,Default,,0,0,0,,Good job! That's right.
+Dialogue: 0,0:22:51.20,0:22:54.54,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(459,0)\3c&H058C08&\4c&H058C08&\bord1\shad1\pos(320,305)}Even if it looks like territory, it may still have problems
+Dialogue: 0,0:22:54.54,0:22:54.62,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,83)\3c&H058C08&\4c&H058C08&\bord1\shad1\move(320,305,320,500)}Even if it looks like territory, it may still have problems
+Dialogue: 0,0:22:51.20,0:22:54.54,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(459,0)\3c&H058C08&\4c&H058C08&\bord1\shad1\pos(320,368)}so learn to tell when you can take advantage of them {\i1}! !{\i0}
+Dialogue: 0,0:22:54.54,0:22:54.62,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,83)\3c&H058C08&\4c&H058C08&\bord1\shad1\move(320,368,320,590)}so learn to tell when you can take advantage of them {\i1}! !{\i0}
 Dialogue: 0,0:22:51.93,0:22:54.51,Default,,0,0,0,,There can be problems even if it looks like territory,
-Dialogue: 0,0:22:54.51,0:22:56.13,Default,,0,0,0,,so learn to tell them apart.
+Dialogue: 1,0:22:54.51,0:22:56.13,Default,,0,0,0,,so learn to tell them apart.
+Dialogue: 0,0:22:54.94,0:22:55.17,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(209,0)\3c&H1200EF&\4c&H1200EF&\bord1.5\shad1\i1\move(357,-50,357,424)}To be continued...{\i0}
+Dialogue: 0,0:22:55.17,0:22:57.33,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(0,0)\3c&H1200EF&\4c&H1200EF&\bord1.5\shad1\i1\pos(357,424)}To be continued...{\i0}
 Dialogue: 0,0:22:56.38,0:22:57.18,Default,,0,0,0,,Okay!
-Dialogue: 0,0:22:54.96,0:22:57.33,Note,,0,0,0,,To be continued...
 Dialogue: 0,0:22:59.03,0:23:01.10,Default,,0,0,0,,We're in the same world now!
 Dialogue: 0,0:23:01.46,0:23:03.38,Default,,0,0,0,,He'll be playing me some day!
 Dialogue: 0,0:23:04.32,0:23:05.02,Sai,,0,0,0,,'Me'...
