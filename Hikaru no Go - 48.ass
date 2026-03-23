@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 48 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 57
-Active Line: 59
-Video Position: 7577
+Scroll Position: 298
+Active Line: 311
+Video Position: 34680
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -366,14 +366,44 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.32,0:22:14.91,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE70003&\4c&HE70003&\bord0.5\shad1\pos(138,366)}Yuuki
+Dialogue: 0,0:22:14.91,0:22:15.04,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE70003&\4c&HE70003&\bord0.5\shad1\move(138,366,-10,366)}Yuuki
+Dialogue: 0,0:22:12.32,0:22:14.91,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H157AF7&\4c&H157AF7&\bord0.5\shad1\pos(290,326)}Yukari
+Dialogue: 0,0:22:14.91,0:22:15.14,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H157AF7&\4c&H157AF7&\bord0.5\shad1\move(290,326,-40,326)}Yukari
+Dialogue: 0,0:22:12.32,0:22:14.91,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H157AF7&\4c&H157AF7&\bord0.5\shad1\pos(378,306)}Teacher
+Dialogue: 0,0:22:14.91,0:22:15.13,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H157AF7&\4c&H157AF7&\bord0.5\shad1\move(378,306,30,306)}Teacher
+Dialogue: 0,0:22:12.32,0:22:14.91,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF725F2&\4c&HF725F2&\bord0.5\shad1\pos(505,366)}Mai
+Dialogue: 0,0:22:14.91,0:22:15.19,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF725F2&\4c&HF725F2&\bord0.5\shad1\move(505,366,-20,366)}Mai
 Dialogue: 0,0:22:13.04,0:22:16.50,Default,,0,0,0,,We're going to be looking at the final tournament\Nfor the Go Go Igo cup this week.
+Dialogue: 0,0:22:15.43,0:22:15.61,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE70003&\4c&HE70003&\bord0.5\shad1\move(760,22,219,22)}August 30th Japanese Go Institute
+Dialogue: 0,0:22:15.61,0:22:18.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE70003&\4c&HE70003&\bord0.5\shad1\pos(219,22)}August 30th Japanese Go Institute
+Dialogue: 0,0:22:15.43,0:22:15.61,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE70003&\4c&HE70003&\bord1\shad1\move(760,280,320,280)}Go Go Igo Cup Junior Pair Go Tournament
+Dialogue: 0,0:22:15.61,0:22:18.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(320,280)}Go Go Igo Cup Junior Pair Go Tournament
+Dialogue: 0,0:22:15.44,0:22:15.61,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H260AF5&\4c&H260AF5&\bord1\shad1\move(760,367,346,367)}Finals Tournament!!
+Dialogue: 0,0:22:15.61,0:22:18.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H260AF5&\4c&H260AF5&\bord1\shad1\pos(346,367)}Finals Tournament!!
+Dialogue: 0,0:22:18.95,0:22:22.77,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,459)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(320,300)}The 32 pairs that passed the preliminaries compete
+Dialogue: 0,0:22:18.95,0:22:22.77,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,459)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(335,388)}for victory!!
+Dialogue: 0,0:22:24.29,0:22:28.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(250,459)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(320,280)}In the meantime, things like "Go Class" and
+Dialogue: 0,0:22:24.29,0:22:28.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(250,459)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(320,366)}"Voice Actor Talk Show" were held on the second floor.
+Dialogue: 0,0:22:25.70,0:22:28.77,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,459)\fscx99\3c&HFD4CF3&\4c&HFD4CF3&\bord1\shad1\pos(500,41)}Shindou Hikaru's voice
+Dialogue: 0,0:22:25.70,0:22:28.77,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,459)\fscx99\3c&HFD4CF3&\4c&HFD4CF3&\bord1\shad1\pos(427,73)}Kawakami Tomoko
 Dialogue: 0,0:22:26.41,0:22:28.37,Default,,0,0,0,,I can go home happy now.
+Dialogue: 0,0:22:30.06,0:22:33.18,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(320,279)}The final round was held between the Kurita-san
+Dialogue: 0,0:22:30.06,0:22:33.18,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(320,366)}parent-child pair vs the Yamao-san parent-child pair.
+Dialogue: 0,0:22:33.76,0:22:38.32,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&HE70003&\4c&HE70003&\bord1\shad1\pos(320,347)}Yamao-san parent-child pair wins by 3 and a half moku!!
 Dialogue: 0,0:22:39.37,0:22:43.09,Default,,0,0,0,,Playing with my child, I really\Nthought pair-go is great.
+Dialogue: 0,0:22:39.63,0:22:42.92,NoteArial_Igo,,0,0,0,,{\fs18.5\1c&HFFFFFF&\fad(417,459)\3c&H038D0B&\4c&H038D0B&\bord1\shad1\pos(170,349)}Fuchou City
+Dialogue: 0,0:22:39.63,0:22:42.92,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,459)\3c&H038D0B&\4c&H038D0B&\bord1\shad1\pos(320,336)}Yamao Takashi-san
+Dialogue: 0,0:22:39.63,0:22:42.92,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,459)\3c&H038D0B&\4c&H038D0B&\bord1\shad1\pos(450,349)}(44)
+Dialogue: 0,0:22:43.44,0:22:47.16,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,459)\3c&H038D0B&\4c&H038D0B&\bord1\shad1\pos(290,336)}Yamao Munehiro-kun
+Dialogue: 0,0:22:43.44,0:22:47.16,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,459)\3c&H038D0B&\4c&H038D0B&\bord1\shad1\pos(423,346)}(11)
 Dialogue: 0,0:22:43.62,0:22:46.68,Default,,0,0,0,,I'm really happy that we won.\NThank you very much.
 Dialogue: 0,0:22:47.04,0:22:48.12,Background,,0,0,0,,Congratulations.
 Dialogue: 0,0:22:48.12,0:22:50.12,Default,,0,0,0,,Everyone was playing so intently.
 Dialogue: 0,0:22:50.48,0:22:54.53,Default,,0,0,0,,There were lots of different pairs, and\NI really enjoyed watching them.
 Dialogue: 0,0:22:54.85,0:22:56.25,Default,,0,0,0,,Wasn't it fun!?
+Dialogue: 0,0:22:54.72,0:22:54.92,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(167,0)\3c&H1200EF&\4c&H1200EF&\bord1\shad1\i1\move(357,-65,357,375)}To be continued...{\i0}
+Dialogue: 0,0:22:54.92,0:22:57.37,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(0,0)\3c&H1200EF&\4c&H1200EF&\bord1\shad1\i1\pos(357,375)}To be continued...{\i0}
 Dialogue: 0,0:23:00.51,0:23:03.07,Sai,,0,0,0,,I can't win unless I start a fight early on.
 Dialogue: 0,0:23:04.07,0:23:06.70,Default,,0,0,0,,What is Shindou-kun thinking!?
 Dialogue: 0,0:23:07.45,0:23:11.77,Thinking,,0,0,0,,The fight that started in a corner...\Nhas spread across the board.
