@@ -100,8 +100,8 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 38 | ✅ | ✅ | ✅ |
 | 39 | ✅ | ✅ | ✅ |
 | 40 | ✅ | ✅ | ✅ |
-| 41 | ✅ | ✅ | ☑️ |
-| 42 | ✅ | ✅ | ☑️ |
+| 41 | ✅ | ✅ | ✅ |
+| 42 | ✅ | ✅ | ✅ |
 | 43 | ✅ | ✅ | ☑️ |
 | 44 | ✅ | ✅ | ☑️ |
 | 45 | ✅ | ✅ | ☑️ |
