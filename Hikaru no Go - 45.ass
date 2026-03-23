@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 45 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 45 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 216
-Active Line: 235
-Video Position: 34567
+Video Zoom Percent: 0.625000
+Scroll Position: 267
+Active Line: 272
+Video Position: 34684
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -328,25 +328,43 @@ Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:12.75,0:22:16.06,Default,,0,0,0,,I have a problem for today. Everyone\Nin the audience should think along.
+Dialogue: 0,0:22:14.14,0:22:14.16,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(42,0)\3c&HE70003&\4c&HE70003&\bord0.5\shad1\pos(524,290)}Yuuki
+Dialogue: 0,0:22:14.16,0:22:14.18,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(42,0)\3c&HE70003&\4c&HE70003&\bord0.5\shad1\pos(225,290)}Yuuki
+Dialogue: 0,0:22:14.18,0:22:16.06,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE70003&\4c&HE70003&\bord0.5\shad1\pos(134,290)}Yuuki
+Dialogue: 0,0:22:14.23,0:22:14.24,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AF6&\4c&H167AF6&\bord0.5\shad1\pos(468,276)}Yukari
+Dialogue: 0,0:22:14.24,0:22:14.26,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AF6&\4c&H167AF6&\bord0.5\shad1\pos(297,276)}Yukari
+Dialogue: 0,0:22:14.26,0:22:16.06,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AF6&\4c&H167AF6&\bord0.5\shad1\pos(286,276)}Yukari
+Dialogue: 0,0:22:14.26,0:22:14.28,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AF6&\4c&H167AF6&\bord0.5\shad1\pos(510,256)}Teacher
+Dialogue: 0,0:22:14.28,0:22:16.06,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AF6&\4c&H167AF6&\bord0.5\shad1\pos(375,256)}Teacher
+Dialogue: 0,0:22:14.31,0:22:14.33,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(42,0)\3c&HF725F2&\4c&HF725F2&\bord0.5\shad1\pos(642,290)}Mai
+Dialogue: 0,0:22:14.33,0:22:16.06,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF725F2&\4c&HF725F2&\bord0.5\shad1\pos(523,290)}Mai
 Dialogue: 0,0:22:16.20,0:22:19.10,Background,,0,0,0,,There's something you can still do to white.
+Dialogue: 0,0:22:16.51,0:22:20.92,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&H088C0C&\4c&H088C0C&\bord1\shad1\pos(320,349)}There's something you can still do to white.
 Dialogue: 0,0:22:19.28,0:22:21.08,Background,,0,0,0,,Where should Black play?
 Dialogue: 0,0:22:21.34,0:22:22.51,Default,,0,0,0,,Try it, Yuuki-kun.
+Dialogue: 0,0:22:21.45,0:22:21.58,NoteArial_Igo,,0,0,0,,{\fs22.5\q2\1c&HFFFFFF&\fad(125,0)\fscx200\t(0,83,1,\fscx100)\3c&H088C0C&\4c&H088C0C&\bord1\shad1\move(700,360,380,360)}Try thinking about it!!
+Dialogue: 0,0:22:21.58,0:22:24.24,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,417)\3c&H088C0C&\4c&H088C0C&\bord1\shad1\pos(380,360)}Try thinking about it!!
 Dialogue: 0,0:22:25.12,0:22:25.82,Default,,0,0,0,,Here.
 Dialogue: 0,0:22:26.62,0:22:28.39,Default,,0,0,0,,That's Atari, so I'll run.
 Dialogue: 0,0:22:28.55,0:22:29.25,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:30.19,0:22:30.98,Background,,0,0,0,,Atari!
 Dialogue: 0,0:22:32.07,0:22:32.87,Background,,0,0,0,,Here!
 Dialogue: 0,0:22:33.70,0:22:35.65,Background,,0,0,0,,Thanks for the meal!
+Dialogue: 0,0:22:33.71,0:22:35.88,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(542,375)\3c&HFF0111&\4c&HFF0111&\bord1\shad1\pos(150,366)}Oh no!
+Dialogue: 0,0:22:33.71,0:22:35.88,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(542,375)\3c&HFF0111&\4c&HFF0111&\bord1\shad1\pos(408,366)}She captured it!
 Dialogue: 0,0:22:36.69,0:22:37.74,Default,,0,0,0,,Try it, Mai-chan.
 Dialogue: 0,0:22:39.45,0:22:40.15,Default,,0,0,0,,Here!
 Dialogue: 0,0:22:41.80,0:22:42.86,Background,,0,0,0,,I'll capture it.
 Dialogue: 0,0:22:43.92,0:22:44.67,Background,,0,0,0,,Here!
 Dialogue: 0,0:22:46.20,0:22:48.16,Background,,0,0,0,,I can't get away from this.
 Dialogue: 0,0:22:49.19,0:22:50.42,Background,,0,0,0,,Thanks for the meal.
+Dialogue: 0,0:22:49.29,0:22:52.66,NoteArial_Igo,,0,0,0,,{\fs22.5\q2\1c&HFFFFFF&\fad(167,417)\fscx200\t(0,167,1,\fscx100)\3c&HFF23F6&\4c&HFF23F6&\bord1\shad1\pos(232,360)}Mai
+Dialogue: 0,0:22:49.29,0:22:52.66,NoteArial_Igo,,0,0,0,,{\fs22.5\q2\1c&HFFFFFF&\fad(167,417)\fscx200\t(0,167,1,\fscx100)\3c&HFF23F6&\4c&HFF23F6&\bord1\shad1\pos(355,342)}is correct {\i1}!!{\i0}
 Dialogue: 0,0:22:50.42,0:22:52.15,Background,,0,0,0,,Yup, that's right!
 Dialogue: 0,0:22:53.08,0:22:54.58,Default,,0,0,0,,I want to try out more problems!
 Dialogue: 0,0:22:54.58,0:22:55.77,Default,,0,0,0,,We will next time.
-Dialogue: 0,0:22:55.03,0:22:57.37,Note,,0,0,0,,To be continued...
+Dialogue: 0,0:22:54.98,0:22:55.05,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(83,0)\3c&H1200EF&\4c&H1200EF&\bord1.5\shad1\i1\move(357,-200,357,424)}To be continued...{\i0}
+Dialogue: 0,0:22:55.05,0:22:57.37,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(0,0)\3c&H1200EF&\4c&H1200EF&\bord1.5\shad1\i1\pos(357,424)}To be continued...{\i0}
 Dialogue: 0,0:22:59.32,0:23:01.95,Background,,0,0,0,,There are still two matches going on...
 Dialogue: 0,0:23:01.95,0:23:04.79,Background,,0,0,0,,and what important matches they are.
 Dialogue: 0,0:23:05.41,0:23:08.83,Thinking,,0,0,0,,If Shindou loses, we'll be tied at four\Nlosses and we'll have a playoff.
