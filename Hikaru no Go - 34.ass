@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 34 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 312
-Active Line: 315
-Video Position: 34699
+Scroll Position: 285
+Active Line: 303
+Video Position: 32016
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -380,19 +380,19 @@ Dialogue: 0,0:20:32.70,0:20:34.68,Default,,0,0,0,,Make it succeed this time.
 Dialogue: 0,0:20:35.00,0:20:37.89,Default,,0,0,0,,Oh well, we'll play you until you do it.
 Dialogue: 0,0:20:38.76,0:20:39.43,Default,,0,0,0,,Okay!
 Dialogue: 0,0:20:40.18,0:20:41.14,Default,,0,0,0,,Thanks!
-Dialogue: 0,0:22:09.79,0:22:09.82,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(592.16,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:09.82,0:22:09.85,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(539.44,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:09.85,0:22:09.89,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(460.89,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:09.89,0:22:09.92,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(370.74,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:09.92,0:22:09.95,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(290.08,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:09.95,0:22:09.99,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(205.73,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:09.99,0:22:12.32,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fnDael Calligraphy\fsp3\fscx100\b0\i0\pos(146,349)}Go
-Dialogue: 0,0:22:10.22,0:22:10.25,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(584.26,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:10.25,0:22:10.29,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(527.32,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:10.29,0:22:10.32,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(465.11,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:10.32,0:22:10.35,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(411.34,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:10.35,0:22:10.39,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(353.88,349.26)\fnDael Calligraphy\fsp3\fscx100\b0\i0}Go
-Dialogue: 0,0:22:10.39,0:22:12.32,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fnDael Calligraphy\fsp3\fscx100\b0\i0\pos(296.58,349.26)}Go
+Dialogue: 0,0:22:09.79,0:22:09.82,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(592.16,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:09.82,0:22:09.85,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(539.44,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:09.85,0:22:09.89,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(460.89,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:09.89,0:22:09.92,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(370.74,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:09.92,0:22:09.95,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(290.08,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:09.95,0:22:09.99,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(205.73,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:09.99,0:22:12.32,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fnDael Calligraphy\fsp3\fscx100\b1\i0\pos(146,349)}Go
+Dialogue: 0,0:22:10.22,0:22:10.25,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(584.26,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:10.25,0:22:10.29,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(527.32,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:10.29,0:22:10.32,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(465.11,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:10.32,0:22:10.35,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(411.34,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:10.35,0:22:10.39,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(353.88,349.26)\fnDael Calligraphy\fsp3\fscx100\b1\i0}Go
+Dialogue: 0,0:22:10.39,0:22:12.32,NoteArialEF,,0,0,0,,{\fs86\bord2.5\c&H0E00DC&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fnDael Calligraphy\fsp3\fscx100\b1\i0\pos(296.58,349.26)}Go
 Dialogue: 1,0:22:10.52,0:22:10.56,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(-119.32,273.98)\fscx458.04\fscy458.04\fnDael Calligraphy\i1}Igo!
 Dialogue: 1,0:22:10.56,0:22:10.59,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(-32.63,285.88)\fscx405.46\fscy405.46\fnDael Calligraphy\i1}Igo!
 Dialogue: 1,0:22:10.59,0:22:10.62,Note,,0,0,0,,{\fs88\bord2.5\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(51.52,297.43)\fscx354.42\fscy354.42\fnDael Calligraphy\i1}Igo!
