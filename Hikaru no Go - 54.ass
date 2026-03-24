@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 54 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 231
-Active Line: 255
-Video Position: 33006
+Scroll Position: 292
+Active Line: 311
+Video Position: 34833
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -360,18 +360,50 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.32,0:22:14.79,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(0,375)\3c&HE30010&\4c&HE30010&\fscx100\fscy95\bord1\shad1\pos(314,339)}The 27th Annual Igo Meijin Title Match Third Game
 Dialogue: 0,0:22:13.02,0:22:16.18,Background,,0,0,0,,Right now Fuda Norimoto Meijin\Nand Cho Ch'i-hun Ouza are
+Dialogue: 0,0:22:15.16,0:22:17.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(334,375)\3c&HE30010&\4c&HE30010&\fscx100\fscy100\bord1\shad1\pos(190,342)}Fuda Norimoto Meijin
+Dialogue: 0,0:22:15.16,0:22:17.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(334,375)\3c&HE30010&\4c&HE30010&\fscx100\fscy100\bord1\shad1\pos(449,342)}Cho Ch'i-hun Ouza
 Dialogue: 0,0:22:16.18,0:22:19.49,Background,,0,0,0,,playing the 27th annual Igo Meijin Match.
 Dialogue: 0,0:22:20.93,0:22:24.25,Background,,0,0,0,,Today I am doing the big board explanation
+Dialogue: 0,0:22:20.97,0:22:21.18,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H1D76F7&\4c&H1D76F7&\fscx100\fscy100\bord1\shad1\move(-40,314,425,314)}Teacher Yukari
+Dialogue: 0,0:22:21.18,0:22:24.20,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H1D76F7&\4c&H1D76F7&\fscx100\fscy100\bord1\shad1\pos(425,314)}Teacher Yukari
 Dialogue: 0,0:22:24.25,0:22:26.41,Background,,0,0,0,,of the third match with Suzuki Isao 7-dan.
+Dialogue: 0,0:22:24.37,0:22:24.57,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H018D0B&\4c&H018D0B&\fscx100\fscy100\bord1\shad1\move(700,325,161,325)}Suzuki Isao 7-dan
+Dialogue: 0,0:22:24.57,0:22:26.94,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H018D0B&\4c&H018D0B&\fscx100\fscy100\bord1\shad1\pos(161,325)}Suzuki Isao 7-dan
 Dialogue: 0,0:22:27.03,0:22:28.89,Background,,0,0,0,,One thing that's different from usual is
+Dialogue: 0,0:22:27.14,0:22:31.01,NoteArial_Igo,,0,0,0,,{\fs19.5\1c&HFFFFFF&\fad(334,375)\3c&HF30000&\4c&HF30000&\fscx100\fscy95\bord1\shad1\pos(235,99)}Asahi Shinbun Tokyo Office Readers Hall
+Dialogue: 0,0:22:27.14,0:22:31.01,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(334,375)\3c&HF30000&\4c&HF30000&\fscx100\fscy95\bord1\shad1\pos(315,339)}"An Igo Meijin Match for Kids"
 Dialogue: 0,0:22:28.89,0:22:31.93,Background,,0,0,0,,that everyone in the audience is from\Ngrade school and junior high school.
 Dialogue: 0,0:22:33.07,0:22:38.45,Background,,0,0,0,,Other than the Meijin and Honinbou, there are titles\Nlike Kisei and Ouza, for a total of 17 titles.
+Dialogue: 0,0:22:34.05,0:22:35.03,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Kisei
+Dialogue: 0,0:22:34.50,0:22:35.48,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Meijin
+Dialogue: 0,0:22:34.95,0:22:35.93,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Honinbou
+Dialogue: 0,0:22:35.40,0:22:36.38,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Jyudan
+Dialogue: 0,0:22:35.85,0:22:36.83,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Tengen
+Dialogue: 0,0:22:36.30,0:22:37.28,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Ouza
+Dialogue: 0,0:22:36.75,0:22:37.73,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad1\move(195,356,407,356,0,150)}World Competitor Rights
+Dialogue: 0,0:22:37.20,0:22:38.18,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Gosei
+Dialogue: 0,0:22:37.65,0:22:38.63,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}NEC
+Dialogue: 0,0:22:38.10,0:22:39.08,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Kakusei
+Dialogue: 0,0:22:38.55,0:22:39.53,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad1\move(195,355,407,355,0,150)}All Japan Fast Go Champion
+Dialogue: 0,0:22:39.00,0:22:39.98,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}NEC Shunei
+Dialogue: 0,0:22:39.45,0:22:40.43,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad1\move(195,355,407,355,0,150)}Top New Player
+Dialogue: 0,0:22:39.90,0:22:40.88,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad1\move(195,355,407,355,0,150)}NHK Tournament
+Dialogue: 0,0:22:40.35,0:22:41.33,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad1\move(195,355,407,355,0,150)}Fast Go Competitor Rights
+Dialogue: 0,0:22:40.80,0:22:41.78,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Ryusei
+Dialogue: 0,0:22:41.25,0:22:42.23,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad1\move(195,350,407,350,0,150)}Shinei
+Dialogue: 0,0:22:41.70,0:22:42.68,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad1\move(195,355,407,355,0,150)}Women's Honinbou
+Dialogue: 0,0:22:42.15,0:22:43.13,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad1\move(195,355,407,355,0,150)}Women's Meijin
+Dialogue: 0,0:22:42.60,0:22:43.58,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad1\move(195,355,407,355,0,150)}Women's Kakusei
+Dialogue: 0,0:22:43.05,0:22:44.03,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad1\move(195,355,407,355,0,150)}Women's Kisei
+Dialogue: 0,0:22:43.50,0:22:44.48,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad1\move(195,355,407,355,0,150)}Top Woman Player
 Dialogue: 0,0:22:38.70,0:22:41.59,Background,,0,0,0,,Combined with the women's\Ntitles, there are a total of 22.
 Dialogue: 0,0:22:42.95,0:22:46.64,Background,,0,0,0,,Getting a title is a major goal of any pro player.
 Dialogue: 0,0:22:48.28,0:22:50.36,Default,,0,0,0,,I hope one of the kids watching today
 Dialogue: 0,0:22:50.51,0:22:54.18,Default,,0,0,0,,will one day become good enough to take a title.
-Dialogue: 0,0:22:54.60,0:22:57.37,Note,,0,0,0,,To be continued...
+Dialogue: 0,0:22:54.82,0:22:54.93,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(83,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\move(303,250,303,303)}To be continued...
+Dialogue: 0,0:22:54.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\pos(303,303)}To be continued...
 Dialogue: 0,0:22:58.61,0:23:01.06,Default,,0,0,0,,I don't care if he has to retire or anything!
 Dialogue: 0,0:23:01.48,0:23:04.34,Default,,0,0,0,,I get to watch this match today, from here!
 Dialogue: 0,0:23:04.86,0:23:09.40,Default,,0,0,0,,I have no intentions of taking back my\Npromise of retiring if I were to lose.
