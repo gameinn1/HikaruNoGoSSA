@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 319
-Active Line: 332
-Video Position: 34532
+Scroll Position: 301
+Active Line: 305
+Video Position: 32329
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -396,7 +396,7 @@ Dialogue: 0,0:22:12.32,0:22:14.89,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad
 Dialogue: 0,0:22:12.32,0:22:14.89,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HFF24F1&\4c&HFFFFFF&\bord1\shad1\pos(504,277)}Mai
 Dialogue: 0,0:22:12.32,0:22:14.89,NoteArial_Igo,,0,0,0,,{\fs27\1c&HFFFFFF&\fad(0,0)\3c&H05B40A&\4c&HFFFFFF&\fscy85\bord1\shad1\pos(362,362)}It's "Yose" again (Sente, Gote)
 Dialogue: 0,0:22:12.86,0:22:14.57,Default,,0,0,0,,We're continuing with Yose today.
-Dialogue: 0,0:22:15.33,0:22:19.00,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\frx70\t(0,310,1,\frx0)\3c&H05B40A&\4c&HFFFFFF&\fscy100\bord1\shad1\pos(350,368)}There are two "Yose" spots, but...
+Dialogue: 0,0:22:15.33,0:22:19.00,NoteArial_Igo,,0,0,0,,{\an5\fs22.5\1c&HFFFFFF&\fad(417,417)\frx70\t(0,310,1,\frx0)\3c&H05B40A&\4c&HFFFFFF&\fscy100\bord1\shad1\pos(350,379)}There are two "Yose" spots, but...
 Dialogue: 0,0:22:15.53,0:22:18.44,Background,,0,0,0,,When there are two Yose spots\Nleft, how would you play, Yuuki-kun?
 Dialogue: 0,0:22:18.54,0:22:19.19,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:20.66,0:22:21.31,Background,,0,0,0,,Here.

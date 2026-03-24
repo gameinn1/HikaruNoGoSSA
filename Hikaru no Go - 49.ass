@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 225
-Active Line: 232
-Video Position: 32134
+Video Zoom Percent: 0.625000
+Scroll Position: 237
+Active Line: 256
+Video Position: 34709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -334,20 +334,20 @@ Dialogue: 0,0:22:17.48,0:22:23.43,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad
 Dialogue: 0,0:22:18.09,0:22:21.69,Default,,0,0,0,,It's when you make the borders between\Nyour territories clear at the end of the game.
 Dialogue: 0,0:22:21.99,0:22:23.88,Default,,0,0,0,,Let's take a look at this.
 Dialogue: 0,0:22:24.21,0:22:27.98,Background,,0,0,0,,The border between black and\Nwhite isn't completely set here.
-Dialogue: 0,0:22:28.01,0:22:33.11,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(417,417)\frx50\t(0,310,1,\frx0)\t(4800,5000,1,\frx50)\3c&H04B308&\4c&HFFFFFF&\fscx99\fscy110\bord1\shad1\pos(320,303)}Once you get good at "Yose" you can increase your territory
-Dialogue: 0,0:22:28.01,0:22:33.11,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(417,417)\frx50\t(0,310,1,\frx0)\t(4800,5000,1,\frx50)\3c&H04B308&\4c&HFFFFFF&\fscx99\fscy100\bord1\shad1\pos(230,368)}or reduce your opponent's territory{\i1}!!{\i0}
+Dialogue: 0,0:22:28.01,0:22:33.11,NoteArial_Igo,,0,0,0,,{\an5\fs20.5\1c&HFFFFFF&\fad(417,417)\frx50\t(0,310,1,\frx0)\t(4800,5000,1,\frx50)\3c&H04B308&\4c&HFFFFFF&\fscx99\fscy110\bord1\shad1\pos(320,314)}Once you get good at "Yose" you can increase your territory
+Dialogue: 0,0:22:28.01,0:22:33.11,NoteArial_Igo,,0,0,0,,{\an5\fs22\1c&HFFFFFF&\fad(417,417)\frx50\t(0,310,1,\frx0)\t(4800,5000,1,\frx50)\3c&H04B308&\4c&HFFFFFF&\fscx99\fscy100\bord1\shad1\pos(230,379)}or reduce your opponent's territory{\i1}!!{\i0}
 Dialogue: 0,0:22:28.30,0:22:32.89,Background,,0,0,0,,What should White do to reduce\NBlack's territory as much as possible?
 Dialogue: 0,0:22:33.60,0:22:35.42,Default,,0,0,0,,Then Mai-chan you start.
 Dialogue: 0,0:22:37.05,0:22:37.75,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:38.60,0:22:39.82,Background,,0,0,0,,If I go here?
 Dialogue: 0,0:22:40.00,0:22:40.70,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:41.46,0:22:43.36,Background,,0,0,0,,There's a cut point here, so black connects.
-Dialogue: 0,0:22:43.42,0:22:46.91,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&H04B308&\4c&HFFFFFF&\fscx100\fscy100\bord1\shad1\pos(325,307)}The border becomes clear
-Dialogue: 0,0:22:43.42,0:22:46.91,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(417,417)\3c&H04B308&\4c&HFFFFFF&\fscx99\fscy90\bord1\shad1\pos(312,369)}Black's territory became 10 moku{\i1}!!{\i0}
+Dialogue: 0,0:22:43.39,0:22:46.86,NoteArial_Igo,,0,0,0,,{\an4\fs22.5\1c&HFFFFFF&\fad(125,417)\fry50\t(0,110,\fry0)\t(3140,3400,1,\fry50)\3c&H04B308&\4c&HFFFFFF&\bord1\shad1\pos(200,317)}The border becomes clear
+Dialogue: 0,0:22:43.39,0:22:46.86,NoteArial_Igo,,0,0,0,,{\an4\fs25\1c&HFFFFFF&\fad(125,417)\fry50\t(0,110,\fry0)\t(3140,3400,1,\fry50)\3c&H04B308&\4c&HFFFFFF&\fscx99\fscy90\bord1\shad1\pos(131,380)}Black's territory became 10 moku{\i1}!!{\i0}
 Dialogue: 0,0:22:43.55,0:22:46.63,Background,,0,0,0,,This makes black's territory ten moku.
 Dialogue: 0,0:22:47.16,0:22:53.83,Background,,0,0,0,,But if white plays like this, Black plays\Nhere, and Black's territory is twelve moku.
-Dialogue: 0,0:22:47.54,0:22:50.01,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,209)\frx50\t(0,310,1,\frx0)\t(2300,2450,1,\frx50)\3c&H04B308&\4c&HFFFFFF&\fscx100\fscy100\bord1\shad1\pos(320,347)}But, if you make a mistake...
-Dialogue: 0,0:22:52.15,0:22:54.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,542)\frx50\t(0,310,1,\frx0)\t(2300,2600,1,\frx50)\3c&H04B308&\4c&HFFFFFF&\fscx100\fscy100\bord1\shad1\pos(445,367)}Black gained 2 moku{\i1}!!{\i0}
+Dialogue: 0,0:22:47.54,0:22:50.01,NoteArial_Igo,,0,0,0,,{\an5\fs22.5\1c&HFFFFFF&\fad(417,209)\frx50\t(0,310,1,\frx0)\t(2300,2450,1,\frx50)\3c&H04B308&\4c&HFFFFFF&\fscx100\fscy100\bord1\shad1\pos(320,359)}But, if you make a mistake...
+Dialogue: 0,0:22:52.15,0:22:54.80,NoteArial_Igo,,0,0,0,,{\an5\fs22.5\1c&HFFFFFF&\fad(417,542)\frx50\t(0,310,1,\frx0)\t(2300,2600,1,\frx50)\3c&H04B308&\4c&HFFFFFF&\fscx100\fscy100\bord1\shad1\pos(450,378)}Black gained 2 moku{\i1}!!{\i0}
 Dialogue: 0,0:22:53.96,0:22:55.91,Background,,0,0,0,,Black gained two whole moku.
 Comment: 0,0:22:54.92,0:22:55.23,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(501,0)\fscy1500\fscx99\3c&H270BF5&\4c&HFFFFFF&\bord1\shad1\pos(376,300)\t(0,310,\fscy90\pos(376,400)\t(310,400,\fscy100))}Next time is "Yose" too{\i1}!!{\i0}
 Dialogue: 0,0:22:54.92,0:22:55.23,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(501,0)\fscy1500\fscx99\3c&H270BF5&\4c&HFFFFFF&\bord1\shad1\pos(376,300)\t(0,310,\fscy100\pos(376,400))}Next time is "Yose" too{\i1}!!{\i0}
