@@ -109,8 +109,8 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 47 | ✅ | ✅ | ✅ |
 | 48 | ✅ | ✅ | ✅ |
 | 49 | ✅ | ✅ | ✅ |
-| 50 | ✅ | ✅ | ☑️ |
-| 51 | ✅ | ✅ | ☑️ |
+| 50 | ✅ | ✅ | ✅ |
+| 51 | ✅ | ✅ | ✅ |
 | 52 | ✅ | ✅ | ☑️ |
 | 53 | ✅ | ✅ | ☑️ |
 | 54 | ✅ | ✅ | ☑️ |
