@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 240
-Active Line: 259
-Video Position: 34720
+Video Zoom Percent: 0.875000
+Scroll Position: 225
+Active Line: 232
+Video Position: 32134
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -323,7 +323,7 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
-Dialogue: 0,0:22:12.32,0:22:14.94,NoteArial_Igo,,0,0,0,,{\fs21.5\1c&HFFFFFF&\fad(0,83)\3c&H04B308&\4c&HFFFFFF&\fscx99\fscy110\bord1\shad1\pos(367,356)}This time it's "Yose"
+Dialogue: 0,0:22:12.32,0:22:14.94,NoteArial_Igo,,0,0,0,,{\fs21.5\1c&HFFFFFF&\fad(0,83)\3c&H04B308&\4c&HFFFFFF&\fscx99\fscy110\bord1\shad1\pos(368,356)}This time it's "Yose"
 Dialogue: 0,0:22:13.01,0:22:14.85,Default,,0,0,0,,We'll be doing Yose today.
 Dialogue: 0,0:22:15.46,0:22:18.09,Default,,0,0,0,,Yose is the last step in Igo.
 Dialogue: 0,0:22:15.44,0:22:17.19,NoteArial_Igo,,0,0,0,,{\fs22.5\q2\1c&HFFFFFF&\fad(292,167)\fscx850\t(0,209,1,\fscx100)\t(1570,1750,1,\fscx850)\3c&HFA0001&\4c&HFFFFFF&\bord1\shad1\pos(128,332)}Yuuki
