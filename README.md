@@ -114,7 +114,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 52 | ✅ | ✅ | ✅ |
 | 53 | ✅ | ✅ | ✅ |
 | 54 | ✅ | ✅ | ✅ |
-| 55 | ✅ | ✅ | ☑️ |
+| 55 | ✅ | ✅ | ✅ |
 | 56 | ✅ | ✅ | ☑️ |
 | 57 | ✅ | ✅ | ☑️ |
 | 58 | ✅ | ✅ | ☑️ |
