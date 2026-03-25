@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 9
-Active Line: 30
-Video Position: 5177
+Video Zoom Percent: 0.750000
+Scroll Position: 299
+Active Line: 307
+Video Position: 34777
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -371,22 +371,35 @@ Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:12.66,0:22:14.44,Default,,0,0,0,,Let's do Joseki today.
+Dialogue: 0,0:22:12.44,0:22:12.71,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H127AF8&\4c&H127AF8&\fscx100\fscy100\bord1\shad1\move(-10,350,162,350)}Teacher Yukari
+Dialogue: 0,0:22:12.71,0:22:16.31,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H127AF8&\4c&H127AF8&\fscx100\fscy100\bord1\shad1\pos(162,350)}Teacher Yukari
+Dialogue: 0,0:22:12.47,0:22:12.71,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&HFD20F3&\4c&HFD20F3&\fscx100\fscy100\bord1\shad1\move(640,350,486,350)}Mai
+Dialogue: 0,0:22:12.71,0:22:16.31,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HFD20F3&\4c&HFD20F3&\fscx100\fscy100\bord1\shad1\pos(486,350)}Mai
 Dialogue: 0,0:22:14.61,0:22:16.25,Default,,0,0,0,,Mai-chan, do you know what Joseki is?
 Dialogue: 0,0:22:16.32,0:22:17.19,Default,,0,0,0,,No, I don't.
 Dialogue: 0,0:22:17.82,0:22:21.71,Default,,0,0,0,,Joseki is a set pattern of moves, researched\Nby people over a long period of time,
+Dialogue: 0,0:22:17.76,0:22:18.01,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(209,0)\3c&H058B0B&\4c&H058B0B&\fscx99\fscy90\bord1\shad1\move(780,356,313,356)}Joseki... born from studying Go since long ago.
+Dialogue: 0,0:22:18.01,0:22:21.67,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(0,42)\3c&H058B0B&\4c&H058B0B&\fscx99\fscy90\bord1\shad1\pos(313,356)}Joseki... born from studying Go since long ago.
+Dialogue: 0,0:22:21.67,0:22:24.94,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(42,501)\3c&H058B0B&\4c&H058B0B&\fscx98\fscy100\bord1\shad1\pos(313,356)}Joseki... set pattern of play that leads to equal results.
 Dialogue: 0,0:22:21.79,0:22:25.10,Default,,0,0,0,,the lead to equal benefits for both sides.
+Dialogue: 0,0:22:25.10,0:22:41.69,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,542)\3c&HD500CC&\4c&HD500CC&\fscx98\fscy100\bord1\shad1\pos(164,47)}~Example of a Joseki~
 Dialogue: 0,0:22:25.10,0:22:27.42,Background,,0,0,0,,Let me introduce a common one.
 Dialogue: 0,0:22:28.54,0:22:31.24,Background,,0,0,0,,White goes to Keima to attack Black's Hoshi.
 Dialogue: 0,0:22:31.33,0:22:33.04,Background,,0,0,0,,and Black responds with another Keima.
 Dialogue: 0,0:22:33.04,0:22:35.66,Background,,0,0,0,,White does a Suberi to reduce Black's territory,
 Dialogue: 0,0:22:35.66,0:22:38.83,Background,,0,0,0,,and Black stops White with a Kosumi to\Nprevent White from going any further.
 Dialogue: 0,0:22:38.83,0:22:42.84,Background,,0,0,0,,And to stabilize his shape, White\Ndoes a two space jump.
+Dialogue: 0,0:22:42.24,0:22:44.49,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(375,0)\3c&H0000F3&\4c&H0000F3&\fscx100\fscy100\bord1\shad1\pos(163,43)}Both sides have an
+Dialogue: 0,0:22:42.24,0:22:44.49,NoteArial_Igo,,0,0,0,,{\fs21\1c&HFFFFFF&\fad(375,0)\3c&H0000F3&\4c&H0000F3&\fscx99\fscy105\bord1\shad1\pos(256,97)}equal amount of territory
 Dialogue: 0,0:22:42.83,0:22:44.49,Background,,0,0,0,,This is Joseki.
 Dialogue: 0,0:22:44.49,0:22:49.00,Default,,0,0,0,,It's the shortest Joseki there is, and it\Nis commonly used even in pro games.
 Dialogue: 0,0:22:49.13,0:22:51.13,Default,,0,0,0,,Is this the only Joseki?
+Dialogue: 0,0:22:51.20,0:22:55.67,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,375)\3c&H058B0B&\4c&H058B0B&\fscx99\fscy100\bord1\shad1\pos(272,273)}There are lots of other Joseki{\i1}!{\i0}
+Dialogue: 0,0:22:51.20,0:22:55.67,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(0,375)\3c&H058B0B&\4c&H058B0B&\fscx99\fscy90\bord1\shad1\pos(351,354)}Learn the important ones as you get better{\i1}!{\i0}
 Dialogue: 0,0:22:51.50,0:22:53.08,Default,,0,0,0,,There are tons of others,
 Dialogue: 0,0:22:53.42,0:22:56.80,Default,,0,0,0,,but you only need to remember\Na few important ones.
-Dialogue: 0,0:22:55.88,0:22:57.37,Note,,0,0,0,,To be continued...
+Dialogue: 0,0:22:56.08,0:22:56.15,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(83,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\move(305,265,305,306)}To be continued...
+Dialogue: 0,0:22:56.15,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\pos(305,306)}To be continued...
 Dialogue: 0,0:22:58.77,0:23:03.71,Sai,,0,0,0,,Why? Why is it not me, but Hikaru, God?
 Dialogue: 0,0:23:05.16,0:23:06.54,Sai,,0,0,0,,I'm going to disappear, but...
 Dialogue: 0,0:23:07.70,0:23:08.83,Sai,,0,0,0,,Hikaru will...
