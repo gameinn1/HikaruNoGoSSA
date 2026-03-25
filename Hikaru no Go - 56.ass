@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 197
-Active Line: 224
-Video Position: 24482
+Scroll Position: 319
+Active Line: 334
+Video Position: 34731
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -401,21 +401,32 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
-Dialogue: 0,0:22:12.85,0:22:15.00,Default,,0,0,0,,Let's do another Fuseki problem today.
+Dialogue: 1,0:22:12.85,0:22:15.00,Default,,0,0,0,,Let's do another Fuseki problem today.
+Dialogue: 0,0:22:12.84,0:22:12.96,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(125,0)\3c&HF00001&\4c&HF00001&\fscx100\fscy100\bord1\shad1\move(118,460,118,298)}Yuuki
+Dialogue: 0,0:22:12.96,0:22:15.66,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF00001&\4c&HF00001&\fscx100\fscy100\bord1\shad1\pos(118,298)}Yuuki
+Dialogue: 0,0:22:12.81,0:22:12.96,NoteArial_Igo,,0,0,0,,{\fs21.5\1c&HFFFFFF&\fad(83,0)\3c&H1C7BF0&\4c&H1C7BF0&\fscx99\fscy110\bord1\shad1\move(315,410,315,226)}Teacher Yukari
+Dialogue: 0,0:22:12.96,0:22:15.66,NoteArial_Igo,,0,0,0,,{\fs21.5\1c&HFFFFFF&\fad(0,0)\3c&H1C7BF0&\4c&H1C7BF0&\fscx99\fscy110\bord1\shad1\pos(315,226)}Teacher Yukari
+Dialogue: 0,0:22:12.84,0:22:12.96,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(125,0)\3c&HFA25F0&\4c&HFA25F0&\fscx100\fscy100\bord1\shad1\move(510,460,510,298)}Mai
+Dialogue: 0,0:22:12.96,0:22:15.66,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HFA25F0&\4c&HFA25F0&\fscx100\fscy100\bord1\shad1\pos(510,298)}Mai
+Dialogue: 0,0:22:12.87,0:22:12.96,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(83,0)\3c&H018307&\4c&H018307&\fscx98\fscy115\bord1\shad1\move(320,465,320,347)}Let's do another Fuseki problem today
+Dialogue: 0,0:22:12.96,0:22:15.66,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,0)\3c&H018307&\4c&H018307&\fscx98\fscy115\bord1\shad1\pos(320,347)}Let's do another Fuseki problem today
 Dialogue: 0,0:22:16.20,0:22:18.62,Background,,0,0,0,,The problem arises when White moves here.
 Dialogue: 0,0:22:18.96,0:22:21.04,Background,,0,0,0,,Should black play here...
 Dialogue: 0,0:22:22.15,0:22:25.34,Background,,0,0,0,,or here? Which is better?
 Dialogue: 0,0:22:28.12,0:22:29.27,Background,,0,0,0,,If he plays here...
 Dialogue: 0,0:22:29.73,0:22:31.59,Background,,0,0,0,,White responds like this,
+Dialogue: 0,0:22:31.39,0:22:36.13,NoteArial_Igo,,0,0,0,,{\an5\q2\fs20.5\1c&HFFFFFF&\fad(417,0)\fscx850\t(0,400,1,\fscx99)\3c&H018307&\4c&H018307&\fscy110\bord1\shad1\pos(409,382)}It's easier for white to make eyes...
 Dialogue: 0,0:22:31.59,0:22:34.68,Background,,0,0,0,,and he can almost immediately get two eyes.
 Dialogue: 0,0:22:34.99,0:22:36.70,Background,,0,0,0,,White has plenty of space.
 Dialogue: 0,0:22:39.79,0:22:41.39,Background,,0,0,0,,If he plays here...
 Dialogue: 0,0:22:42.01,0:22:43.89,Background,,0,0,0,,It may proceed like this,
 Dialogue: 0,0:22:44.08,0:22:47.17,Background,,0,0,0,,and White won't be able to readily make two eyes.
+Dialogue: 0,0:22:45.87,0:22:49.43,NoteArial_Igo,,0,0,0,,{\an5\q2\fs20.5\1c&HFFFFFF&\fad(459,0)\fscx900\t(0,430,1,\fscx99)\3c&H018307&\4c&H018307&\fscy110\bord1\shad1\pos(360,380)}It's tougher on white...
 Dialogue: 0,0:22:47.41,0:22:49.08,Background,,0,0,0,,White has very little space.
 Dialogue: 0,0:22:50.34,0:22:53.05,Default,,0,0,0,,If White comes into a place Black is strong in,
 Dialogue: 0,0:22:53.05,0:22:56.05,Default,,0,0,0,,respond aggressively so that White can't live easily.
-Dialogue: 0,0:22:55.03,0:22:57.37,Note,,0,0,0,,To be continued...
+Dialogue: 0,0:22:55.15,0:22:55.22,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(125,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\move(305,265,305,304)}To be continued...
+Dialogue: 0,0:22:55.22,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\pos(305,304)}To be continued...
 Dialogue: 0,0:22:59.57,0:23:00.90,Default,,0,0,0,,Sai, you say?
 Dialogue: 0,0:23:01.48,0:23:03.98,Background,,0,0,0,,So you do know Sai after all!
 Dialogue: 0,0:23:04.24,0:23:05.83,Background,,0,0,0,,Mr. Ogata...
