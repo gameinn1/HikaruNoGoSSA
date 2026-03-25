@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
 Scroll Position: 299
-Active Line: 307
-Video Position: 34777
+Active Line: 308
+Video Position: 34751
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -398,8 +398,8 @@ Dialogue: 0,0:22:51.20,0:22:55.67,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0
 Dialogue: 0,0:22:51.20,0:22:55.67,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(0,375)\3c&H058B0B&\4c&H058B0B&\fscx99\fscy90\bord1\shad1\pos(351,354)}Learn the important ones as you get better{\i1}!{\i0}
 Dialogue: 0,0:22:51.50,0:22:53.08,Default,,0,0,0,,There are tons of others,
 Dialogue: 0,0:22:53.42,0:22:56.80,Default,,0,0,0,,but you only need to remember\Na few important ones.
-Dialogue: 0,0:22:56.08,0:22:56.15,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(83,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\move(305,265,305,306)}To be continued...
-Dialogue: 0,0:22:56.15,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\pos(305,306)}To be continued...
+Dialogue: 0,0:22:56.08,0:22:56.15,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(83,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\move(305,265,305,306)}To be continued...
+Dialogue: 0,0:22:56.15,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\pos(305,306)}To be continued...
 Dialogue: 0,0:22:58.77,0:23:03.71,Sai,,0,0,0,,Why? Why is it not me, but Hikaru, God?
 Dialogue: 0,0:23:05.16,0:23:06.54,Sai,,0,0,0,,I'm going to disappear, but...
 Dialogue: 0,0:23:07.70,0:23:08.83,Sai,,0,0,0,,Hikaru will...

@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
+Video Zoom Percent: 1.000000
 Scroll Position: 420
 Active Line: 424
-Video Position: 34828
+Video Position: 34690
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -515,8 +515,8 @@ Dialogue: 0,0:22:21.50,0:22:26.90,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(0
 Dialogue: 0,0:22:26.69,0:22:27.44,Default,,0,0,0,,Sure.
 Dialogue: 0,0:22:32.38,0:22:43.09,NoteArial_Igo,,0,0,0,,{\fs25\q2\1c&HFFFFFF&\fad(0,0)\fscx99\3c&H600037&\4c&H600037&\fscy90\bord1\shad1\move(1220,342,-560,342)}If you replay a Kifu, you can learn all sorts of things, like the flow of a game, attacking, and defending.
 Dialogue: 0,0:22:49.07,0:22:55.00,Default,,0,0,0,,Even a match from hundreds of years\Nago can be replayed with just one Kifu.
-Dialogue: 0,0:22:54.83,0:22:54.95,NoteArial_Igo,,0,0,0,,{\fs29.5\1c&HFFFFFF&\fad(125,0)\fscx99\3c&H1500F0&\4c&H1500F0&\fscx99\fscy75\bord0.5\shad1\move(300,260,300,309)}To be continued...
-Dialogue: 0,0:22:54.95,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29.5\1c&HFFFFFF&\fad(0,0)\fscx99\3c&H1500F0&\4c&H1500F0&\fscx99\fscy75\bord0.5\shad1\pos(300,309)}To be continued...
+Dialogue: 0,0:22:54.83,0:22:54.95,NoteArial_Igo,,0,0,0,,{\fs29.5\1c&HFFFFFF&\fad(125,0)\fscx99\3c&H1500F0&\4c&H1500F0&\fscx99\fscy75\bord1\shad1\move(300,260,300,309)}To be continued...
+Dialogue: 0,0:22:54.95,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29.5\1c&HFFFFFF&\fad(0,0)\fscx99\3c&H1500F0&\4c&H1500F0&\fscx99\fscy75\bord1\shad1\pos(300,309)}To be continued...
 Dialogue: 0,0:22:59.29,0:23:01.16,Default,,0,0,0,,My first opponent is...
 Dialogue: 0,0:23:02.53,0:23:03.28,Default,,0,0,0,,Touya!
 Dialogue: 0,0:23:03.92,0:23:06.58,Sai,,0,0,0,,He's already declared hostilities against you.

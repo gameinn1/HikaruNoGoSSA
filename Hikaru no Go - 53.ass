@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 342
-Active Line: 346
-Video Position: 34770
+Active Line: 349
+Video Position: 34701
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -440,8 +440,8 @@ Dialogue: 0,0:22:48.96,0:22:51.40,Background,,0,0,0,,In this case white dies.
 Dialogue: 0,0:22:51.63,0:22:54.60,NoteArial_Igo,,0,0,0,,{\an5\q2\1c&HFFFFFF&\fad(0,501)\fs11\fscy200\t(0,80,1,\fs25\fscy90)\3c&H6500ED&\4c&H6500ED&\fscx99\bord1\shad1\pos(314,372)}Congratulations to anyone who solved it!!
 Dialogue: 0,0:22:51.75,0:22:53.69,Default,,0,0,0,,If you were able to solve this\Nproblem without a hint,
 Dialogue: 0,0:22:53.69,0:22:55.94,Default,,0,0,0,,you're probably a higher-kyu player.
-Dialogue: 0,0:22:55.02,0:22:55.10,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(83,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\move(301,250,301,303)}To be continued...
-Dialogue: 0,0:22:55.10,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\pos(301,303)}To be continued...
+Dialogue: 0,0:22:55.02,0:22:55.10,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(83,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\move(301,250,301,303)}To be continued...
+Dialogue: 0,0:22:55.10,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\pos(301,303)}To be continued...
 Dialogue: 0,0:22:58.86,0:23:00.58,Background,,0,0,0,,Turn your computer on.
 Dialogue: 0,0:23:00.83,0:23:02.44,Background,,0,0,0,,Touya Kouyou is playing!
 Dialogue: 0,0:23:02.61,0:23:05.75,Default,,0,0,0,,I've been watching! Since about half an hour ago!

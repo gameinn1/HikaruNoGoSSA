@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 319
-Active Line: 334
-Video Position: 34731
+Active Line: 335
+Video Position: 34695
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -425,8 +425,8 @@ Dialogue: 0,0:22:45.87,0:22:49.43,NoteArial_Igo,,0,0,0,,{\an5\q2\fs20.5\1c&HFFFF
 Dialogue: 0,0:22:47.41,0:22:49.08,Background,,0,0,0,,White has very little space.
 Dialogue: 0,0:22:50.34,0:22:53.05,Default,,0,0,0,,If White comes into a place Black is strong in,
 Dialogue: 0,0:22:53.05,0:22:56.05,Default,,0,0,0,,respond aggressively so that White can't live easily.
-Dialogue: 0,0:22:55.15,0:22:55.22,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(125,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\move(305,265,305,304)}To be continued...
-Dialogue: 0,0:22:55.22,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\pos(305,304)}To be continued...
+Dialogue: 0,0:22:55.15,0:22:55.22,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(125,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\move(305,265,305,304)}To be continued...
+Dialogue: 0,0:22:55.22,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\pos(305,304)}To be continued...
 Dialogue: 0,0:22:59.57,0:23:00.90,Default,,0,0,0,,Sai, you say?
 Dialogue: 0,0:23:01.48,0:23:03.98,Background,,0,0,0,,So you do know Sai after all!
 Dialogue: 0,0:23:04.24,0:23:05.83,Background,,0,0,0,,Mr. Ogata...

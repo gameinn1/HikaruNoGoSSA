@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 419
-Active Line: 435
-Video Position: 34711
+Active Line: 436
+Video Position: 34707
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -526,8 +526,8 @@ Dialogue: 0,0:22:37.25,0:22:39.72,Background,,0,0,0,,And he gets a lot of territ
 Dialogue: 0,0:22:41.78,0:22:45.85,Background,,0,0,0,,If black blocks from the other\Nside, it will progress like this,
 Dialogue: 0,0:22:46.39,0:22:50.18,Background,,0,0,0,,and we have no idea where\Nblack can make territory.
 Dialogue: 0,0:22:52.13,0:22:56.07,Default,,0,0,0,,So, this is a situation in which you\Nwant to block from this side.
-Dialogue: 0,0:22:55.32,0:22:55.42,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(125,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\move(303,265,303,303)}To be continued...
-Dialogue: 0,0:22:55.42,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\pos(303,303)}To be continued...
+Dialogue: 0,0:22:55.32,0:22:55.42,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(125,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\move(303,265,303,303)}To be continued...
+Dialogue: 0,0:22:55.42,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\pos(303,303)}To be continued...
 Dialogue: 0,0:22:57.94,0:23:01.53,Thinking,,0,0,0,,My father arranged to play against Sai ahead of time.
 Dialogue: 0,0:23:01.61,0:23:03.95,Thinking,,0,0,0,,My father knows who Sai is!?
 Dialogue: 0,0:23:04.03,0:23:07.49,Background,,0,0,0,,They're both neck and neck now!

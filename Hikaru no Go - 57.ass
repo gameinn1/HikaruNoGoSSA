@@ -16,9 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 305
-Active Line: 316
+Video Zoom Percent: 1.000000
+Scroll Position: 311
+Active Line: 317
 Video Position: 34742
 
 [V4+ Styles]
@@ -407,8 +407,8 @@ Dialogue: 0,0:22:49.08,0:22:52.16,Default,,0,0,0,,{\fs24}what a big difference t
 Dialogue: 0,0:22:48.99,0:22:54.60,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(417,459)\3c&H038D07&\4c&H038D07&\fscx99\fscy109\bord1\shad1\pos(216,297)}This is the first major rule change in
 Dialogue: 0,0:22:48.99,0:22:54.60,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(417,459)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad1\pos(320,365)}the last 50 years, and it was made to keep up with the times.
 Dialogue: 0,0:22:52.80,0:22:56.47,Default,,0,0,0,,The rules of Go change with the time.
-Dialogue: 0,0:22:55.13,0:22:55.25,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(167,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\move(305,265,305,304)}To be continued...
-Dialogue: 0,0:22:55.25,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord1.5\shad1\pos(305,304)}To be continued...
+Dialogue: 0,0:22:55.13,0:22:55.25,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(167,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\move(305,265,305,304)}To be continued...
+Dialogue: 0,0:22:55.25,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\pos(305,304)}To be continued...
 Dialogue: 0,0:22:59.20,0:23:02.59,Background,,0,0,0,,Okay! I'll see exactly how far I can go
 Dialogue: 0,0:23:02.82,0:23:05.20,Background,,0,0,0,,playing against Kurata-san!
 Dialogue: 0,0:23:05.36,0:23:06.01,Background,,0,0,0,,Huh?
