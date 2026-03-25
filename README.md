@@ -23,7 +23,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/64%20Ending.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%201.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%202.png" width="260"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%20v3.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/75%20v4.png" width="260"></td>
   </tr>
 </table>
 
@@ -52,6 +52,8 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 5: Intro texts such as "Elite-Fansubs presents" and "Real-Fansubbers presents".
 
 6: Perfectly recreated the FANTASY (Opening 3 plus karaoke) for episodes 61-75.
+
+7: Helped lots with the "Yukari Umezawa's Go Go Igo" titles from episode 36 onwards.
 
 ### Status Legend
 - ✅ Complete
