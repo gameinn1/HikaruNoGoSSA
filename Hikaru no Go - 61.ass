@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.625000
 Scroll Position: 298
-Active Line: 302
-Video Position: 32386
+Active Line: 313
+Video Position: 33396
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -397,25 +397,25 @@ Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:13.09,0:22:15.34,Background,,0,0,0,,I, Umezawa Yukari,
-Dialogue: 0,0:22:14.41,0:22:16.86,NoteArial_Igo,,0,0,0,,{\fad(667,0)\fs22.5\1c&HFFFFFF&\3c&H127AF4&\bord1.5\pos(346,345)}Teacher Yukari
+Dialogue: 0,0:22:14.41,0:22:16.86,NoteArial_Igo,,0,0,0,,{\fad(667,0)\fs22.5\1c&HFFFFFF&\3c&H127AF4&\4c&H127AF4&\bord1.5\shad1\pos(346,345)}Teacher Yukari
 Dialogue: 0,0:22:15.34,0:22:19.73,Background,,0,0,0,,once took you through the land of Honinbou\NShuusaku's birth, Innoshima.
-Dialogue: 0,0:22:18.73,0:22:21.95,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs22.5\bord1.5\3c&H009000&\pos(322,332)}Memorial Monument for Honinbou Shuusaku
-Dialogue: 0,0:22:22.25,0:22:26.92,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs27.5\bord1.5\fscy95\3c&H009000&\pos(322,332)}Shuusaku Memorial Museum
+Dialogue: 0,0:22:18.73,0:22:21.95,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs22.5\bord1.5\3c&H009000&\4c&H009000&\shad1\pos(322,332)}Memorial Monument for Honinbou Shuusaku
+Dialogue: 0,0:22:22.25,0:22:26.92,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs27.5\bord1.5\fscy95\3c&H009000&\4c&H009000&\shad1\pos(322,332)}Shuusaku Memorial Museum
 Dialogue: 0,0:22:24.02,0:22:28.02,Background,,0,0,0,,So this time, we'll take you through the\Nother grave of Honinbou Shuusaku,
-Dialogue: 0,0:22:27.24,0:22:30.29,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs28\bord1.5\fscy95\3c&H009000&\pos(227,332)}Grave of Shuusaku
-Dialogue: 0,0:22:27.24,0:22:30.29,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs28\bord1.5\fscy95\3c&H009000&\pos(462,332)}(Innoshima)
+Dialogue: 0,0:22:27.24,0:22:30.29,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs28\bord1.5\fscy95\3c&H009000&\4c&H009000&\shad1\pos(227,332)}Grave of Shuusaku
+Dialogue: 0,0:22:27.24,0:22:30.29,NoteArial_Igo,,0,0,0,,{\fad(501,501)\fs28\bord1.5\fscy95\3c&H009000&\4c&H009000&\shad1\pos(462,332)}(Innoshima)
 Dialogue: 0,0:22:28.02,0:22:30.47,Background,,0,0,0,,Honmyouji temple in Sugamo of Tokyo.
 Dialogue: 0,0:22:31.01,0:22:32.68,Default,,0,0,0,,I'll show you around!
-Dialogue: 0,0:22:30.69,0:22:30.88,NoteArial_Igo,,0,0,0,,{\fad(125,0)\fs25\3c&HF627EF&\move(475,397,400,342)}Mai
-Dialogue: 0,0:22:30.88,0:22:33.01,NoteArial_Igo,,0,0,0,,{\fs25\3c&HF627EF&\pos(400,342)}Mai
-Dialogue: 0,0:22:33.01,0:22:34.95,NoteArial_Igo,,0,0,0,,{\fad(501,0)\fs28\bord1.5\fscy95\3c&H009000&\pos(322,332)}Honmyouji
-Dialogue: 0,0:22:35.10,0:22:37.87,NoteArial_Igo,,0,0,0,,{\fs19\fscy115\bord1.5\fad(501,459)\3c&H009000&\pos(181,50)}Toshima District of Tokyo City
-Dialogue: 0,0:22:35.10,0:22:37.87,NoteArial_Igo,,0,0,0,,{\fad(501,459)\fs28\bord1.5\fscx94\fscy97\3c&H009000&\pos(322,300)}Honmyouji
-Dialogue: 0,0:22:37.97,0:22:39.43,NoteArial_Igo,,0,0,0,,{\fad(501,459)\fs28\bord1.5\fscx99\fscy95\3c&H009000&\pos(322,332)}Honinbou
+Dialogue: 0,0:22:30.69,0:22:30.88,NoteArial_Igo,,0,0,0,,{\fad(125,0)\fs25\3c&HF627EF&\4c&HF627EF&\bord1.5\shad1\move(475,397,400,342)}Mai
+Dialogue: 0,0:22:30.88,0:22:33.01,NoteArial_Igo,,0,0,0,,{\fs25\3c&HF627EF&\4c&HF627EF&\bord1.5\shad1\pos(400,342)}Mai
+Dialogue: 0,0:22:33.01,0:22:34.95,NoteArial_Igo,,0,0,0,,{\fad(501,0)\fs28\bord1\fscy95\3c&H009000&\4c&H009000&\shad1\pos(322,332)}Honmyouji
+Dialogue: 0,0:22:35.10,0:22:37.87,NoteArial_Igo,,0,0,0,,{\fs19\fscy115\bord1.5\fad(501,459)\3c&H009000&\4c&H009000&\shad1\pos(181,50)}Toshima District of Tokyo City
+Dialogue: 0,0:22:35.10,0:22:37.87,NoteArial_Igo,,0,0,0,,{\fad(501,459)\fs28\bord1.5\fscx94\fscy97\3c&H009000&\4c&H009000&\shad1\pos(322,300)}Honmyouji
+Dialogue: 0,0:22:37.97,0:22:39.43,NoteArial_Igo,,0,0,0,,{\fad(501,459)\fs28\bord1\fscx99\fscy95\3c&H009000&\4c&H009000&\shad1\pos(322,332)}Honinbou
 Dialogue: 0,0:22:38.80,0:22:44.31,Background,,0,0,0,,The graves of historic Honinbous are at Honmyouji\Ntemple, along with the grave of Shuusaku.
 Dialogue: 0,0:22:47.09,0:22:49.83,Background,,0,0,0,,Hikaru came here in search of Sai,
 Dialogue: 0,0:22:49.83,0:22:53.55,Background,,0,0,0,,but I came here to pray that I get better at Go.
-Dialogue: 0,0:22:55.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fad(542,0)\fs22.5\bord1.5\shad1\3c&H0300EA&\4c&HFFFFFF&\pos(393,332)}To be continued...
+Dialogue: 0,0:22:55.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fad(542,0)\fs22.5\bord2\shad1\3c&H0300EA&\4c&HFFFFFF&\pos(393,332)}To be continued...
 Dialogue: 0,0:22:58.86,0:23:01.15,Default,,0,0,0,,You over there, want to play me?
 Dialogue: 0,0:23:02.36,0:23:07.16,Background,,0,0,0,,If you beat me, I'll forget about\Nthe money from the last game.
 Dialogue: 0,0:23:07.66,0:23:08.74,Thinking,,0,0,0,,Shuusaku's...
