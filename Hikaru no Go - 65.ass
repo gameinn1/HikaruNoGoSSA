@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 65 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 28
-Video Position: 4619
+Scroll Position: 360
+Active Line: 371
+Video Position: 34438
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -437,11 +438,35 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.66,0:22:15.96,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(417,501)\3c&HE30003&\4c&HE30003&\fscx100\fscy95\bord1\shad1\pos(247,42)}December 7th 2002 : The Garden Hotel in Ebisu
+Dialogue: 0,0:22:12.66,0:22:15.96,NoteArial_Igo,,0,0,0,,{\fs25.5\1c&HFFFFFF&\fad(417,501)\3c&HE30003&\4c&HE30003&\fscx100\fscy85\bord1\shad1\pos(320,368)}RiCOH Cup Pro Player Pair Go Tournament 2003
 Dialogue: 0,0:22:12.72,0:22:16.13,Background,,0,0,0,,A pair Go tournament between\Nthe top pros in Japan was held.
+Dialogue: 0,0:22:16.58,0:22:16.84,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(250,0)\3c&HE30003&\4c&HE30003&\fscx100\fscy100\bord1\shad1\move(840,305,283,305)}16 pairs of male and female pro players
+Dialogue: 0,0:22:16.84,0:22:22.27,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,626)\3c&HE30003&\4c&HE30003&\fscx100\fscy100\bord1\shad1\pos(283,305)}16 pairs of male and female pro players
+Dialogue: 0,0:22:16.58,0:22:16.84,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(250,0)\3c&HE30003&\4c&HE30003&\fscx100\fscy100\bord1\shad1\move(750,368,194,368)}competed for victory
+Dialogue: 0,0:22:16.84,0:22:22.27,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,626)\3c&HE30003&\4c&HE30003&\fscx100\fscy100\bord1\shad1\pos(194,368)}competed for victory
 Dialogue: 0,0:22:17.03,0:22:20.45,Background,,0,0,0,,I participated in it as a pair\Nwith Ishisa Yoshio 9-dan.
+Dialogue: 0,0:22:25.82,0:22:26.09,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(250,0)\3c&HE30003&\4c&HE30003&\fscx98\fscy100\bord1\shad1\move(750,311,287,311)}It was a chance for Go fans to watch
+Dialogue: 0,0:22:26.09,0:22:32.48,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,542)\3c&HE30003&\4c&HE30003&\fscx98\fscy100\bord1\shad1\pos(287,311)}It was a chance for Go fans to watch
+Dialogue: 0,0:22:25.84,0:22:26.09,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(209,0)\3c&HE30003&\4c&HE30003&\fscx98\fscy100\bord1\shad1\move(750,370,428,370)}pro games from close by{\i1}!!{\i0}
+Dialogue: 0,0:22:26.09,0:22:32.48,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,626)\3c&HE30003&\4c&HE30003&\fscx98\fscy100\bord1\shad1\pos(428,370)}pro games from close by{\i1}!!{\i0}
+Dialogue: 0,0:22:35.95,0:22:40.69,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(459,459)\3c&HE30003&\4c&HE30003&\fscx100\fscy100\bord1\shad1\pos(137,39)}December 14th 2002
+Dialogue: 0,0:22:35.95,0:22:40.69,NoteArial_Igo,,0,0,0,,{\fs17\1c&HFFFFFF&\fad(459,459)\3c&HE30003&\4c&HE30003&\fscx100\fscy102\bord1\shad1\pos(346,40)}Quarter Finals & Semi Finals
+Dialogue: 0,0:22:41.39,0:22:44.49,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(42,292)\3c&HE30003&\4c&HE30003&\fscx99\fscy95\bord1\shad1\pos(314,368)}Ishida Umezawa Pair went to the Semi Finals but...
+Dialogue: 0,0:22:44.57,0:22:47.84,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(417,0)\3c&HE30003&\4c&HE30003&\fscx99\fscy98\bord1\shad1\pos(318,365)}Unfortunately they lost
+Dialogue: 0,0:22:47.84,0:22:48.08,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(0,250)\3c&HE30003&\4c&HE30003&\fscx99\fscy98\bord1\shad1\move(318,365,318,650)}Unfortunately they lost
 Dialogue: 0,0:22:42.35,0:22:43.02,Default,,0,0,0,,25 seconds.
 Dialogue: 0,0:22:43.69,0:22:45.32,Default,,0,0,0,,This wasn't very good.
 Dialogue: 0,0:22:46.59,0:22:49.81,Default,,0,0,0,,I'm a little disappointed that\NI lost, but I learned a lot.
+Dialogue: 0,0:22:50.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\an4\fs16\1c&HFFFFFF&\fad(0,0)\3c&HE30003&\4c&HE30003&\fscx99\fscy100\bord1\shad1\pos(56,220)}The Finals will \Nbe between
+Dialogue: 0,0:22:50.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\an4\fs20\1c&HFFFFFF&\fad(0,0)\3c&HE30003&\4c&HE30003&\fscx100\fscy100\bord1\shad1\pos(240,301)}pair
+Dialogue: 0,0:22:50.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\an4\fs20\1c&HFFFFFF&\fad(0,0)\3c&HE30003&\4c&HE30003&\fscx100\fscy100\bord1\shad1\pos(297,301)}vs.
+Dialogue: 0,0:22:50.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\an4\fs20\1c&HFFFFFF&\fad(0,0)\3c&HE30003&\4c&HE30003&\fscx100\fscy100\bord1\shad1\pos(521,301)}pair
+Dialogue: 0,0:22:50.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\an4\fs16\1c&HFFFFFF&\fad(0,0)\3c&HFF00FF&\4c&HFF00FF&\fscx100\fscy100\bord1\shad1\pos(87,277)}Yoshida Mika   7-dan
+Dialogue: 0,0:22:50.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\an4\fs16\1c&HFFFFFF&\fad(0,0)\3c&HFF00FF&\4c&HFF00FF&\fscx98\fscy100\bord1\shad1\pos(367,277)}Inori Youko  5-dan
+Dialogue: 0,0:22:50.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\an4\fs16\1c&HFFFFFF&\fad(0,0)\3c&H057A0B&\4c&H057A0B&\fscx99\fscy100\bord1\shad1\pos(73,326)}Kobayashi Kouichi Gosei
+Dialogue: 0,0:22:50.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\an4\fs16\1c&HFFFFFF&\fad(0,0)\3c&H057A0B&\4c&H057A0B&\fscx99\fscy100\bord1\shad1\pos(347,326)}25th Honinbou Chikun
+Dialogue: 0,0:22:50.93,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HE30003&\4c&HE30003&\fscx100\fscy100\bord1\shad1\pos(320,372)}It will be held on January 26th 2003
 Dialogue: 0,0:22:51.68,0:22:54.68,Background,,0,0,0,,The final round is on January 26th.
 Dialogue: 0,0:22:57.73,0:23:00.57,Background,,0,0,0,,Isn't he the strongest grade-school\Nplayer right now?
 Dialogue: 0,0:23:00.90,0:23:02.44,Background,,0,0,0,,Yeah, Touya Akira.
