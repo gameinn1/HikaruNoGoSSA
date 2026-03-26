@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 106
-Active Line: 127
-Video Position: 16033
+Scroll Position: 239
+Active Line: 251
+Video Position: 34824
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -168,16 +168,16 @@ Dialogue: 0,0:06:55.71,0:07:00.31,Default,,0,0,0,,But I can see why you won the\
 Dialogue: 0,0:07:01.32,0:07:02.28,Default,,0,0,0,,You're very good.
 Dialogue: 0,0:07:02.82,0:07:04.75,Default,,0,0,0,,That thing's worthless.
 Dialogue: 0,0:07:06.53,0:07:09.25,Default,,0,0,0,,How is that worthless?
-Dialogue: 0,0:07:10.16,0:07:14.58,Default,,0,0,0,,You won in a tournament of over 2000\Nchildren from all over the nation.
+Dialogue: 0,0:07:10.12,0:07:14.58,Default,,0,0,0,,You won in a tournament of over 2000\Nchildren from all over the nation.
 Dialogue: 0,0:07:14.71,0:07:16.04,Default,,0,0,0,,You're the top child player in Japan.
-Dialogue: 0,0:07:17.04,0:07:20.77,Default,,0,0,0,,I heard a rumor about him after\Nthe awards ceremony.
+Dialogue: 0,0:07:16.96,0:07:20.77,Default,,0,0,0,,I heard a rumor about him after\Nthe awards ceremony.
 Dialogue: 0,0:07:21.75,0:07:22.62,Default,,0,0,0,,Him?
 Dialogue: 0,0:07:23.63,0:07:24.72,Default,,0,0,0,,Touya Akira.
 Dialogue: 0,0:07:26.09,0:07:28.93,Memory,,0,0,0,,Isn't he the strongest Go player amongst kids?
 Dialogue: 0,0:07:29.68,0:07:31.10,Memory,,0,0,0,,Yeah, Touya Akira.
-Dialogue: 0,0:07:31.85,0:07:35.23,Memory,,0,0,0,,He's Touya Meijin's son, and he doesn't\Nplay in Amateur tournaments.
+Dialogue: 0,0:07:31.76,0:07:35.23,Memory,,0,0,0,,He's Touya Meijin's son, and he doesn't\Nplay in Amateur tournaments.
 Dialogue: 0,0:07:35.89,0:07:37.98,Memory,,0,0,0,,Isn't he trying to become a\Npro in the Insei program?
-Dialogue: 0,0:07:38.31,0:07:40.15,Memory,,0,0,0,,Insei? Not at all.
+Dialogue: 0,0:07:38.27,0:07:40.15,Memory,,0,0,0,,Insei? Not at all.
 Dialogue: 0,0:07:40.77,0:07:42.53,Memory,,0,0,0,,Then why doesn't he come out to the tournaments?
 Dialogue: 0,0:07:42.90,0:07:46.49,Memory,,0,0,0,,He said that all the other kids would\Nstop trying if he were to play.
 Dialogue: 0,0:07:46.74,0:07:48.65,Memory,,0,0,0,,What? Did he seriously say that?
@@ -203,10 +203,10 @@ Dialogue: 0,0:09:17.30,0:09:20.04,Background,,0,0,0,,Yeah, I just played him.
 Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&H777E4D&\bord0\shad0\fscy260\frz351\move(475,101,475,136)}IGO SALON
 Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\alpha&H60&\bord0\shad0\fscy130\frz9\frx6\fry350\move(153,260,153,295)}WEEKDAYS
 Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\\alpha&H60&\bord0\shad0\fscy130\frz9\frx6\fry350\move(159,310,159,345)}SATURDAYS
-Dialogue: 0,0:09:39.14,0:09:39.98,Default,,0,0,0,,Welcome.
-Dialogue: 0,0:09:44.86,0:09:45.31,Default,,0,0,0,,Huh?
+Dialogue: 0,0:09:39.10,0:09:39.98,Default,,0,0,0,,Welcome.
+Dialogue: 0,0:09:44.81,0:09:45.31,Default,,0,0,0,,Huh?
 Dialogue: 0,0:09:46.23,0:09:47.16,Default,,0,0,0,,Hey, you!
-Dialogue: 0,0:10:00.54,0:10:01.12,Default,,0,0,0,,Who is he?
+Dialogue: 0,0:10:00.50,0:10:01.12,Default,,0,0,0,,Who is he?
 Dialogue: 0,0:10:02.46,0:10:04.37,Default,,0,0,0,,Him? You mean Akira-kun?
 Dialogue: 0,0:10:05.06,0:10:06.07,Default,,0,0,0,,Touya Akira?
 Dialogue: 0,0:10:07.26,0:10:08.05,Default,,0,0,0,,Yeah.
@@ -215,15 +215,15 @@ Dialogue: 0,0:10:16.16,0:10:17.56,Default,,0,0,0,,How much is it to play here?
 Dialogue: 0,0:10:18.10,0:10:19.72,Default,,0,0,0,,500 yen for children.
 Dialogue: 0,0:10:20.47,0:10:21.02,Background,,0,0,0,,Here.
 Dialogue: 0,0:10:22.34,0:10:24.40,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:10:27.35,0:10:30.78,Default,,0,0,0,,I heard Touya Akira is good, is that true?
-Dialogue: 0,0:10:32.85,0:10:35.80,Default,,0,0,0,,Yes. You doubt it?
-Dialogue: 0,0:10:36.99,0:10:37.49,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:10:39.80,0:10:42.56,Default,,0,0,0,,Then why don't you ask Akira-kun\Nto play a game against you?
+Dialogue: 0,0:10:27.40,0:10:30.78,Default,,0,0,0,,I heard Touya Akira is good, is that true?
+Dialogue: 0,0:10:32.95,0:10:35.80,Default,,0,0,0,,Yes. You doubt it?
+Dialogue: 0,0:10:36.99,0:10:37.58,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:10:39.83,0:10:42.56,Default,,0,0,0,,Then why don't you ask Akira-kun\Nto play a game against you?
 Dialogue: 0,0:10:43.48,0:10:45.94,Default,,0,0,0,,Yeah, that's what I came here for.
 Dialogue: 0,0:11:00.95,0:11:01.79,Default,,0,0,0,,Akira-kun.
 Dialogue: 0,0:11:07.40,0:11:08.15,Default,,0,0,0,,A customer?
 Dialogue: 0,0:11:08.69,0:11:12.07,Default,,0,0,0,,Yes, he wants to play you,\NAkira-kun. Is that alright?
-Dialogue: 0,0:11:12.83,0:11:15.20,Default,,0,0,0,,Sure. How strong are you?
+Dialogue: 0,0:11:12.94,0:11:15.20,Default,,0,0,0,,Sure. How strong are you?
 Dialogue: 0,0:11:15.69,0:11:17.74,Default,,0,0,0,,I won the Children's Meijin tournament.
 Dialogue: 0,0:11:18.51,0:11:20.40,Default,,0,0,0,,Really? That's incredible!
 Dialogue: 0,0:11:20.60,0:11:23.40,Default,,0,0,0,,What's incredible about it? You weren't in it.
@@ -240,13 +240,13 @@ Dialogue: 0,0:12:19.64,0:12:21.14,Default,,0,0,0,,Isobe Hideki-kun, right?
 Dialogue: 0,0:12:21.43,0:12:24.72,Default,,0,0,0,,Let's play! Do you mind if I Nigiri?
 Dialogue: 0,0:12:26.89,0:12:28.10,Thinking,,0,0,0,,What's with him?
 Dialogue: 0,0:12:31.68,0:12:34.04,Thinking,,0,0,0,,He doesn't seem that good at all.
-Dialogue: 0,0:12:34.61,0:12:35.82,Default,,0,0,0,,You're going first.
-Dialogue: 0,0:12:37.03,0:12:37.95,Default,,0,0,0,,Y-Yeah...
-Dialogue: 0,0:12:39.30,0:12:40.45,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:12:40.76,0:12:41.88,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:12:52.45,0:12:54.23,Thinking,,0,0,0,,I can't possibly lose...
+Dialogue: 0,0:12:34.65,0:12:35.82,Default,,0,0,0,,You're going first.
+Dialogue: 0,0:12:36.99,0:12:37.95,Default,,0,0,0,,Y-Yeah...
+Dialogue: 0,0:12:39.32,0:12:40.45,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:12:40.91,0:12:41.88,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:12:52.42,0:12:54.23,Thinking,,0,0,0,,I can't possibly lose...
 Dialogue: 0,0:12:57.11,0:12:58.26,Thinking,,0,0,0,,against someone like him!
-Dialogue: 0,0:13:15.02,0:13:19.03,Thinking,,0,0,0,,His... His expression's changed...
+Dialogue: 0,0:13:14.98,0:13:19.03,Thinking,,0,0,0,,His... His expression's changed...
 Dialogue: 0,0:13:58.78,0:14:02.61,Default,,0,0,0,,You should have played here instead\Nof making a Keima jump.
 Dialogue: 0,0:14:04.08,0:14:05.78,Background,,0,0,0,,A Tsuke is perfect in this situation.
 Dialogue: 0,0:14:06.30,0:14:08.44,Default,,0,0,0,,Ohh! I see.
@@ -272,12 +272,12 @@ Dialogue: 0,0:17:14.92,0:17:17.07,Background,,0,0,0,,Yeah... You're right.
 Dialogue: 0,0:17:24.60,0:17:29.11,Background,,0,0,0,,In the past, you ignored this and\Nlet me cut your stones apart.
 Dialogue: 0,0:17:29.99,0:17:35.74,Background,,0,0,0,,But your Kaketsugi today, whether it was\Ngood or bad, lead to a decent shape.
 Dialogue: 0,0:17:37.45,0:17:42.71,Default,,0,0,0,,No judging from the shape Black was\Nin, it strengthened Black a great deal.
-Dialogue: 0,0:17:43.75,0:17:46.97,Default,,0,0,0,,You played a good game today, for\Nthe first time in a great while.
+Dialogue: 0,0:17:43.71,0:17:46.97,Default,,0,0,0,,You played a good game today, for\Nthe first time in a great while.
 Dialogue: 0,0:17:54.04,0:17:58.45,Background,,0,0,0,,Your handicap may change from three\Nstones to two in the near future.
-Dialogue: 0,0:18:05.72,0:18:06.36,Default,,0,0,0,,I see...
-Dialogue: 0,0:18:08.13,0:18:11.12,Default,,0,0,0,,great hope for you.
+Dialogue: 0,0:18:05.72,0:18:06.52,Default,,0,0,0,,I see...
+Dialogue: 0,0:18:08.28,0:18:11.12,Default,,0,0,0,,great hope for you.
 Dialogue: 0,0:18:17.91,0:18:18.79,Thinking,,0,0,0,,Father!
-Dialogue: 0,0:18:23.00,0:18:23.92,Thinking,,0,0,0,,Father...
+Dialogue: 0,0:18:22.96,0:18:23.92,Thinking,,0,0,0,,Father...
 Dialogue: 0,0:18:29.55,0:18:31.26,Default,,0,0,0,,Oh, hi Akira-kun.
 Dialogue: 0,0:18:32.13,0:18:35.84,Default,,0,0,0,,Hello, Ichikawa-san. Can you take this again?
 Dialogue: 0,0:18:36.65,0:18:37.41,Default,,0,0,0,,Okay.
@@ -292,16 +292,16 @@ Dialogue: 0,0:19:01.33,0:19:03.87,Background,,0,0,0,,He's very proud of you. You
 Dialogue: 0,0:19:14.09,0:19:18.22,Thinking,,0,0,0,,Father expects a lot from me. Ashiwara-san\Nis waiting for me, too.
 Dialogue: 0,0:19:19.05,0:19:22.56,Thinking,,0,0,0,,Yeah, I should recognize my own strength.
 Dialogue: 0,0:19:23.64,0:19:30.19,Thinking,,0,0,0,,I'm not being overconfident. I will stand at the\Ntop of the Go world. Just like my father.
-Dialogue: 0,0:19:31.69,0:19:34.53,Thinking,,0,0,0,,And I'll pull along those who follow me.
+Dialogue: 0,0:19:31.65,0:19:34.53,Thinking,,0,0,0,,And I'll pull along those who follow me.
 Dialogue: 0,0:19:35.90,0:19:41.08,Thinking,,0,0,0,,I'll forget about my worries. I just\Nneed to walk straight forward.
 Dialogue: 0,0:19:54.51,0:19:59.22,Thinking,,0,0,0,,Walk straight... down the path of the pros.
 Dialogue: 0,0:20:04.63,0:20:06.59,Background,,0,0,0,,Oh, there's a kid!
-Dialogue: 0,0:20:10.40,0:20:11.30,Default,,0,0,0,,Can I play him?
-Dialogue: 0,0:20:11.65,0:20:12.77,Default,,0,0,0,,Ah... umm...
+Dialogue: 0,0:20:10.36,0:20:11.30,Default,,0,0,0,,Can I play him?
+Dialogue: 0,0:20:11.57,0:20:12.77,Default,,0,0,0,,Ah... umm...
 Dialogue: 0,0:20:13.28,0:20:14.23,Background,,0,0,0,,He's...
-Dialogue: 0,0:20:23.12,0:20:26.79,Background,,0,0,0,,Are you looking for someone to\Nplay? Wanna play in the back?
-Dialogue: 0,0:20:27.54,0:20:28.75,Default,,0,0,0,,I'm Touya Akira.
-Dialogue: 0,0:20:29.46,0:20:31.88,Default,,0,0,0,,I'm Shindou Hikaru. I'm in the sixth grade.
+Dialogue: 0,0:20:23.08,0:20:26.79,Background,,0,0,0,,Are you looking for someone to\Nplay? Wanna play in the back?
+Dialogue: 0,0:20:27.50,0:20:28.75,Default,,0,0,0,,I'm Touya Akira.
+Dialogue: 0,0:20:29.33,0:20:31.88,Default,,0,0,0,,I'm Shindou Hikaru. I'm in the sixth grade.
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.1\t(50,162,1,\1a&H00&\4a&H50&)}e
@@ -320,8 +320,17 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
-Dialogue: 0,0:22:13.06,0:22:16.23,Default,,0,0,0,,Let's cover an interesting Tesuji\Ncalled "Under the Stone" today.
+Dialogue: 1,0:22:13.06,0:22:16.23,Default,,0,0,0,,Let's cover an interesting Tesuji\Ncalled "Under the Stone" today.
+Dialogue: 0,0:22:14.13,0:22:14.24,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(83,0)\3c&HF50001&\4c&HF50001&\fscx100\fscy100\bord1\shad1\move(119,436,119,303)}Yuuki
+Dialogue: 0,0:22:14.24,0:22:16.66,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,0)\3c&HF50001&\4c&HF50001&\fscx100\fscy100\bord1\shad1\pos(119,303)}Yuuki
+Dialogue: 0,0:22:14.13,0:22:14.24,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(83,0)\3c&H1479F9&\4c&H1479F9&\fscx100\fscy100\bord1\shad1\move(346,380,346,246)}Teacher Yukari
+Dialogue: 0,0:22:14.24,0:22:16.66,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,0)\3c&H1479F9&\4c&H1479F9&\fscx100\fscy100\bord1\shad1\pos(346,246)}Teacher Yukari
+Dialogue: 0,0:22:14.13,0:22:14.24,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(83,0)\3c&HFE22F5&\4c&HFE22F5&\fscx100\fscy100\bord1\shad1\move(507,438,507,305)}Mai
+Dialogue: 0,0:22:14.24,0:22:16.66,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,0)\3c&HFE22F5&\4c&HFE22F5&\fscx100\fscy100\bord1\shad1\pos(507,305)}Mai
+Dialogue: 0,0:22:14.14,0:22:14.24,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(83,0)\3c&H018D06&\4c&H018D06&\fscx100\fscy130\bord1\shad1\move(307,480,307,364)}Let's cover "Under the Stone" today
+Dialogue: 0,0:22:14.24,0:22:16.66,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,0)\3c&H018D06&\4c&H018D06&\fscx100\fscy130\bord1\shad1\pos(307,364)}Let's cover "Under the Stone" today
 Dialogue: 0,0:22:18.08,0:22:19.88,Background,,0,0,0,,Black lives if Black goes first here.
+Dialogue: 0,0:22:18.31,0:22:21.27,NoteArial_Igo,,0,0,0,,{\fs27\1c&HFFFFFF&\fad(83,0)\3c&H018D06&\4c&H018D06&\fscx100\fscy80\bord1\shad1\pos(278,367)}Black First Black Lives
 Dialogue: 0,0:22:21.52,0:22:23.15,Default,,0,0,0,,Yuuki-kun, why don't you try?
 Dialogue: 0,0:22:23.68,0:22:24.19,Default,,0,0,0,,Okay!
 Dialogue: 0,0:22:28.26,0:22:29.09,Background,,0,0,0,,If I take it?
@@ -329,13 +338,19 @@ Dialogue: 0,0:22:32.63,0:22:36.46,Background,,0,0,0,,Yup! Now you can take these
 Dialogue: 0,0:22:36.63,0:22:40.97,Background,,0,0,0,,So, you have two eyes, here\Nand here, so you're alive.
 Dialogue: 0,0:22:41.15,0:22:42.24,Background,,0,0,0,,Yuuki-kun, you're right.
 Dialogue: 0,0:22:42.84,0:22:45.84,Background,,0,0,0,,As you can see, you can move under the stone that
+Dialogue: 0,0:22:42.94,0:22:49.16,NoteArial_Igo,,0,0,0,,{\an5\q2\fs14\1c&HFFFFFF&\fad(542,459)\fscx750\t(0,650,1,\fscx101)\3c&H018D06&\4c&H018D06&\fscy130\bord1\shad0.5\frz270\pos(553,239)}Since you can move under the stone that was taken this is called
+Dialogue: 0,0:22:42.94,0:22:49.16,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22\1c&HFFFFFF&\fad(542,459)\fscx750\t(0,650,1,\fscx100)\3c&H018D06&\4c&H018D06&\fscy100\bord1\shad0.5\frz270\pos(489,342)}"Under the Stone"
 Dialogue: 0,0:22:46.14,0:22:48.56,Background,,0,0,0,,was taken, so it's called "Under the Stone".
 Dialogue: 0,0:22:50.95,0:22:52.83,Default,,0,0,0,,Give Mai a problem, too.
 Dialogue: 0,0:22:53.01,0:22:54.10,Default,,0,0,0,,Next week then.
+Dialogue: 0,0:22:54.68,0:22:54.75,NoteArial_Igo,,0,0,0,,{\fs17\1c&HFFFFFF&\fad(42,0)\3c&H018D06&\4c&H018D06&\fscx100\fscy130\bord1\shad0.5\move(189,296,189,360)}"Under the Stone" again next week
+Dialogue: 0,0:22:54.75,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs17\1c&HFFFFFF&\fad(0,0)\3c&H018D06&\4c&H018D06&\fscx100\fscy130\bord1\shad0.5\pos(189,360)}"Under the Stone" again next week
+Dialogue: 0,0:22:54.68,0:22:54.75,NoteArial_Igo,,0,0,0,,{\fs24.5\1c&HFFFFFF&\fad(42,0)\3c&H1700F6&\4c&H1700F6&\fscx99\fscy95\bord1\shad0.5\move(421,300,421,347)}To be continued...
+Dialogue: 0,0:22:54.75,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs24.5\1c&HFFFFFF&\fad(0,0)\3c&H1700F6&\4c&H1700F6&\fscx99\fscy95\bord1\shad0.5\pos(421,347)}To be continued...
 Dialogue: 0,0:22:58.57,0:23:00.61,Default,,0,0,0,,Le Ping? You lost to him?
 Dialogue: 0,0:23:01.44,0:23:04.32,Default,,0,0,0,,Isumi-kun, come here. Let's play a game.
-Dialogue: 0,0:23:05.74,0:23:06.95,Background,,0,0,0,,I'm going to test how good you are.
-Dialogue: 0,0:23:07.32,0:23:12.33,Background,,0,0,0,,I'm sorry but I can't let you stay here if you can't\Neven beat Le Ping. You'll have to leave.
+Dialogue: 0,0:23:05.70,0:23:06.95,Background,,0,0,0,,I'm going to test how good you are.
+Dialogue: 0,0:23:07.28,0:23:12.33,Background,,0,0,0,,I'm sorry but I can't let you stay here if you can't\Neven beat Le Ping. You'll have to leave.
 Dialogue: 0,0:23:23.38,0:23:25.93,Default,,0,0,0,,L...Leave? Yang Hai-san?
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,238,640,244)}Real Fansubbers presents
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,220,640,232)}Real Fansubbers presents
