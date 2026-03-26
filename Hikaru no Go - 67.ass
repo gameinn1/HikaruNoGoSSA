@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 67 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 222
-Active Line: 249
-Video Position: 29313
+Scroll Position: 282
+Active Line: 288
+Video Position: 34939
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -364,7 +364,13 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:13.67,0:22:17.13,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(125,0)\3c&HF30007&\4c&HF30007&\fscx100\fscy100\bord1\shad0.5\pos(119,303)}Yuuki
+Dialogue: 0,0:22:13.67,0:22:17.13,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(125,0)\3c&H1574E8&\4c&H1574E8&\fscx100\fscy100\bord1\shad0.5\pos(315,245)}Teacher Yukari
+Dialogue: 0,0:22:13.67,0:22:17.13,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(125,0)\3c&HF61FEF&\4c&HF61FEF&\fscx100\fscy100\bord1\shad0.5\pos(507,305)}Mai
+Dialogue: 0,0:22:13.67,0:22:17.13,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(125,0)\3c&H058909&\4c&H058909&\fscx100\fscy100\bord1\shad0.5\pos(303,365)}"Under the Stone" Again
 Dialogue: 0,0:22:14.39,0:22:16.11,Default,,0,0,0,,Let's do "Under the Stone" again.
+Dialogue: 0,0:22:17.86,0:22:18.11,NoteArial_Igo,,0,0,0,,{\fs27\1c&HFFFFFF&\fad(250,0)\3c&H058909&\4c&H058909&\fscx100\fscy80\bord1\shad0.5\move(780,367,281,367)}Black First, Black Lives
+Dialogue: 0,0:22:18.11,0:22:20.26,NoteArial_Igo,,0,0,0,,{\fs27\1c&HFFFFFF&\fad(0,0)\3c&H058909&\4c&H058909&\fscx100\fscy80\bord1\shad0.5\pos(281,367)}Black First, Black Lives
 Dialogue: 0,0:22:18.53,0:22:20.20,Background,,0,0,0,,Black lives if Black goes first here.
 Dialogue: 0,0:22:20.23,0:22:21.37,Default,,0,0,0,,Give it a try, Mai-chan.
 Dialogue: 0,0:22:21.37,0:22:21.83,Default,,0,0,0,,Okay.
@@ -375,7 +381,10 @@ Dialogue: 0,0:22:35.43,0:22:41.52,Background,,0,0,0,,So Black now has two eyes, 
 Dialogue: 0,0:22:42.85,0:22:46.66,Background,,0,0,0,,Had you connected here, White\Nwould have played here.
 Dialogue: 0,0:22:46.91,0:22:49.88,Background,,0,0,0,,this is a deficient eye and Black would have died.
 Dialogue: 0,0:22:50.75,0:22:53.80,Default,,0,0,0,,"Under the Stone" is a Tesuji that\Nappears frequently in real games.
+Dialogue: 0,0:22:50.96,0:22:54.92,NoteArial_Igo,,0,0,0,,{\an5\fs23\1c&HFFFFFF&\fad(334,334)\3c&H058909&\4c&H058909&\fscx99\fscy105\bord1\shad0.5\pos(318,378)}Learn "Under the Stone" and use it in a real match{\i1}!!{\i0}
 Dialogue: 0,0:22:53.91,0:22:55.42,Default,,0,0,0,,Let's take this opportunity to learn it.
+Dialogue: 0,0:22:55.40,0:22:55.48,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(83,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\move(303,260,303,308)}To be continued...
+Dialogue: 0,0:22:55.48,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(0,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\pos(303,308)}To be continued...
 Dialogue: 0,0:22:57.56,0:22:58.77,Background,,0,0,0,,Quit being a pro!?
 Dialogue: 0,0:22:58.94,0:23:00.69,Background,,0,0,0,,Shindou-kun!?
 Dialogue: 0,0:23:00.69,0:23:04.07,Background,,0,0,0,,This is so annoying! What is he doing!?

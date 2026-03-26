@@ -19,7 +19,7 @@ Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 272
 Active Line: 291
-Video Position: 34733
+Video Position: 34749
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -385,7 +385,7 @@ Dialogue: 0,0:22:50.04,0:22:50.76,Default,,0,0,0,,Yup!
 Dialogue: 0,0:22:51.00,0:22:55.05,Default,,0,0,0,,There's a theory that Go boards and\Nstones were used for fortune telling.
 Dialogue: 0,0:22:51.01,0:22:54.93,NoteArial_Igo,,0,0,0,,{\fs20\fscy115\3c&HB90003&\4c&HB90003&\bord1.5\shad1\fad(459,459)\pos(153,305)}There is a theory that
 Dialogue: 0,0:22:51.01,0:22:54.93,NoteArial_Igo,,0,0,0,,{\fs20\fscy115\bord1.5\shad1\3c&HB90003&\4c&HB90003&\fad(459,459)\pos(335,367)}Go Boards and Stones were once used for fortune telling.
-Dialogue: 0,0:22:55.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fad(542,0)\fs20.5\bord1.5\fscy115\3c&H1700E5&\4c&H1700E5&\pos(391,346)}To be Continued...
+Dialogue: 0,0:22:55.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fad(542,0)\fs20.5\bord1.5\shad0.5\fscy115\3c&H1700E5&\4c&H1700E5&\pos(392,346)}To be Continued...
 Dialogue: 0,0:22:58.19,0:23:01.11,Background,,0,0,0,,Don't touch the merchandise!
 Dialogue: 0,0:23:02.11,0:23:04.69,Background,,0,0,0,,But this is Grandpa's!
 Dialogue: 0,0:23:04.99,0:23:07.66,Background,,0,0,0,,Mister, you play Go? Want to play me?
