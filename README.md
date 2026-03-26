@@ -126,8 +126,8 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 62 | ✅ | ✅ | ❗ |
 | 63 | ✅ | ✅ | ✅ |
 | 64 | ✅ | ✅ | ✅ |
-| 65 | ✅ | ✅ | ☑️ |
-| 66 | ✅ | ✅ | ☑️ |
+| 65 | ✅ | ✅ | ✅ |
+| 66 | ✅ | ✅ | ✅ |
 | 67 | ✅ | ✅ | ☑️ |
 | 68 | ✅ | ✅ | ☑️ |
 | 69 | ✅ | ✅ | ☑️ |
