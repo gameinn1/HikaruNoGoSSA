@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 69 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 105
-Active Line: 112
-Video Position: 14648
+Scroll Position: 253
+Active Line: 263
+Video Position: 34647
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -332,10 +332,22 @@ Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:12.91,0:22:15.79,Default,,0,0,0,,Let's cover Ooba and Kyuuba today.
+Dialogue: 0,0:22:14.19,0:22:16.59,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(83,334)\3c&HF70000&\4c&HF70000&\fscx100\fscy100\bord1\shad0.5\pos(117,304)}Yuuki
+Dialogue: 0,0:22:14.19,0:22:16.59,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(83,334)\3c&H127AF9&\4c&H127AF9&\fscx100\fscy100\bord1\shad0.5\pos(311,245)}Teacher Yukari
+Dialogue: 0,0:22:14.19,0:22:16.59,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(83,334)\3c&HFA26F2&\4c&HFA26F2&\fscx100\fscy100\bord1\shad0.5\pos(505,304)}Mai
+Dialogue: 0,0:22:14.19,0:22:16.59,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(83,334)\3c&H008B09&\4c&H008B09&\fscx100\fscy115\bord1\shad0.5\pos(319,365)}Let's cover "Ooba and Kyuuba" today
 Dialogue: 0,0:22:17.18,0:22:19.31,Default,,0,0,0,,Kyuuba is a place where if you\Ndon't play immediately,
+Dialogue: 0,0:22:18.10,0:22:26.77,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(417,459)\3c&H391DF2&\4c&H391DF2&\fscx100\fscy100\bord1\shad0.5\pos(290,240)}Kyuuba             A place you have to play at immediately.
+Dialogue: 0,0:22:18.10,0:22:26.77,NoteArial_Igo,,0,0,0,,{\fs21\1c&HFFFFFF&\fad(417,459)\3c&HF42436&\4c&HF42436&\fscx100\fscy100\bord1\shad0.5\pos(85,312)}Ooba
+Dialogue: 0,0:22:18.10,0:22:26.77,NoteArial_Igo,,0,0,0,,{\fs18.5\1c&HFFFFFF&\fad(417,459)\3c&HF42436&\4c&HF42436&\fscx100\fscy108\bord1\shad0.5\pos(404,312)}A place that will just increase your territory, or decrease
+Dialogue: 0,0:22:18.10,0:22:26.77,NoteArial_Igo,,0,0,0,,{\fs19.5\1c&HFFFFFF&\fad(417,459)\3c&HF42436&\4c&HF42436&\fscx100\fscy100\bord1\shad0.5\pos(290,371)}your opponent's territory.
 Dialogue: 0,0:22:19.35,0:22:22.07,Default,,0,0,0,,your opponent will advance and make\Nthings very difficult on you.
 Dialogue: 0,0:22:22.52,0:22:26.27,Default,,0,0,0,,Ooba is a place that will simply increase your\Nterritory or decrease your opponent's territory.
 Dialogue: 0,0:22:27.81,0:22:30.69,Background,,0,0,0,,For example, on this board, this area is the Ooba.
+Dialogue: 0,0:22:29.79,0:22:30.07,NoteArial_Igo,,0,0,0,,{\fs35\1c&HFFFFFF&\fad(209,0)\3c&H50BD0F&\4c&H50BD0F&\fscx95\fscy68\bord1\shad0.5\move(650,71,507,71)}Ooba
+Dialogue: 0,0:22:30.07,0:22:39.07,NoteArial_Igo,,0,0,0,,{\fs35\1c&HFFFFFF&\fad(0,918)\3c&H50BD0F&\4c&H50BD0F&\fscx95\fscy68\bord1\shad0.5\pos(507,71)}Ooba
+Dialogue: 0,0:22:31.83,0:22:32.11,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(209,0)\3c&H7A6CF4&\4c&H7A6CF4&\fscx100\fscy90\bord1\shad0.5\move(336,420,336,278)}Kyuuba
+Dialogue: 0,0:22:32.11,0:22:38.98,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(0,793)\3c&H7A6CF4&\4c&H7A6CF4&\fscx100\fscy90\bord1\shad0.5\pos(336,278)}Kyuuba
 Dialogue: 0,0:22:31.08,0:22:32.96,Background,,0,0,0,,This area would be the Kyuuba.
 Dialogue: 0,0:22:33.66,0:22:37.50,Background,,0,0,0,,Which one should you play when\Nboth of them are present?
 Dialogue: 0,0:22:37.78,0:22:38.42,Background,,0,0,0,,Kyuuba!
@@ -343,6 +355,10 @@ Dialogue: 0,0:22:38.93,0:22:40.32,Background,,0,0,0,,Yup! That's right!
 Dialogue: 0,0:22:40.75,0:22:45.26,Background,,0,0,0,,If you were to play here, Black would\Nrespond by playing here,
 Dialogue: 0,0:22:45.42,0:22:48.09,Background,,0,0,0,,and these three stones would\Nbecome very unstable.
 Dialogue: 0,0:22:48.71,0:22:53.88,Default,,0,0,0,,So, when both Kyuuba and Ooba are\Navailable, play the Kyuuba first!
+Dialogue: 0,0:22:50.06,0:22:53.97,NoteArial_Igo,,0,0,0,,{\fs24.5\blur1\1c&HFFFFFF&\fad(125,334)\1c&H3F2DF7&\3c&HFFFFFF&\4c&HFFFFFF&\fscx100\fscy90\bord1\shad0\pos(145,309)}MAXIM
+Dialogue: 0,0:22:50.06,0:22:53.97,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(125,334)\1c&HFFFFFF&\3c&HFF2535&\4c&HFF2535&\fscx100\fscy90\bord1\shad0.5\pos(381,358)}Kyuuba    {\3c&H19981A&\4c&H19981A&}over     {\3c&H381BF5&\4c&H381BF5&}Ooba    {\3c&H19981A&\4c&H19981A&}{\i1}!!{\i0}
+Dialogue: 0,0:22:54.33,0:22:54.42,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(83,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\move(301,260,301,308)}To be continued...
+Dialogue: 0,0:22:54.42,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(0,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\pos(301,308)}To be continued...
 Dialogue: 0,0:22:59.15,0:22:59.82,Background,,0,0,0,,Shindou.
 Dialogue: 0,0:23:00.40,0:23:04.40,Background,,0,0,0,,It's your life, so I'm not going to say\Nanything about you quitting Go.
 Dialogue: 0,0:23:04.99,0:23:09.58,Background,,0,0,0,,But could you play a game against\Nme just today? For me?
