@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 221
-Active Line: 238
-Video Position: 33548
+Scroll Position: 241
+Active Line: 253
+Video Position: 34836
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -333,13 +333,20 @@ Dialogue: 0,0:22:27.72,0:22:35.43,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0
 Dialogue: 0,0:22:27.51,0:22:27.72,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(167,0)\3c&H0A7A0A&\4c&H0A7A0A&\fscx99\fscy100\bord1\shad0.5\move(580,370,205,370)}working hard for the tournament.
 Dialogue: 0,0:22:27.72,0:22:35.43,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,459)\3c&H0A7A0A&\4c&H0A7A0A&\fscx99\fscy100\bord1\shad0.5\pos(205,370)}working hard for the tournament.
 Dialogue: 0,0:22:31.03,0:22:33.53,Background,,0,0,0,,cheering each other on every day\Nto prepare for the tournament.
-Dialogue: 0,0:22:36.08,0:22:39.08,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,459)\3c&HF92AF0&\4c&HF92AF0&\fscx100\fscy100\bord1\shad0.5\pos(319,361)}Advice from Teacher Yukari{\i1}!!{\i0}
+Dialogue: 0,0:22:36.06,0:22:38.32,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(83,334)\3c&H1E7EF7&\4c&H1E7EF7&\fscx100\fscy100\bord1\shad0.5\pos(318,370)}Advice from Teacher Yukari{\i1}!!{\i0}
+Dialogue: 0,0:22:38.72,0:22:42.09,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(584,209)\3c&HF823F1&\4c&HF823F1&\fscx100\fscy100\bord1\shad0.5\pos(269,360)}What about Mai...
+Dialogue: 0,0:22:40.50,0:22:42.09,NoteArial_Igo,,0,0,0,,{\1c&H432EE6&\blur1\fad(250,209)\fs100\fscx162\fscy100\t(70,240,1,\fs35\fscx100\fscy65)\3c&HFFFFFF&\4c&HFFFFFF&\\bord1.5\shad0\frz20\move(367,218,515,258,70,240)}LOST
 Dialogue: 0,0:22:40.53,0:22:41.59,Default,,0,0,0,,I lost.
 Dialogue: 0,0:22:42.50,0:22:44.06,Background,,0,0,0,,We had discussion after the matches.
 Dialogue: 0,0:22:44.82,0:22:48.71,Background,,0,0,0,,Teacher Yukari explained everything\Nclearly to everyone.
 Dialogue: 0,0:22:49.51,0:22:50.43,Default,,0,0,0,,Thank you for the game.
 Dialogue: 0,0:22:50.14,0:22:51.45,Default,,0,0,0,,Thank you for the game.
 Dialogue: 0,0:22:52.51,0:22:54.73,Default,,0,0,0,,Please keep on playing Go.
+Dialogue: 0,0:22:54.63,0:22:54.88,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(209,0)\3c&HF50016&\4c&HF50016&\fscx100\fscy115\bord1\shad0.5\move(580,323,223,323)}Thank you very much    everyone in the
+Dialogue: 0,0:22:54.88,0:22:56.00,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,42)\3c&HF50016&\4c&HF50016&\fscx100\fscy115\bord1\shad0.5\pos(223,323)}Thank you very much    everyone in the
+Dialogue: 0,0:22:55.97,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs15.5\1c&HFFFFFF&\fad(42,0)\3c&HF50016&\4c&HF50016&\fscx99\fscy140\bord1\shad0.5\pos(233,323)}West Fujimi City Public Junior High School Go club.
+Dialogue: 0,0:22:54.70,0:22:54.88,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(167,0)\3c&H210BF3&\4c&H210BF3&\fscx100\fscy100\bord1\shad0.5\move(735,335,502,335)}To be continued...
+Dialogue: 0,0:22:54.88,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H210BF3&\4c&H210BF3&\fscx100\fscy100\bord1\shad0.5\pos(502,335)}To be continued...
 Dialogue: 0,0:22:55.22,0:22:55.97,Default,,0,0,0,,Okay.
 Dialogue: 0,0:22:57.90,0:22:58.73,Default,,0,0,0,,Forfeits!?
 Dialogue: 0,0:22:58.98,0:23:02.69,Background,,0,0,0,,I have no idea. It seems like he doesn't\Nwant to play Go anymore.
