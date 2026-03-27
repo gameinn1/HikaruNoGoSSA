@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 71 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 71 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 166
-Active Line: 186
-Video Position: 29389
+Video Zoom Percent: 0.625000
+Scroll Position: 219
+Active Line: 231
+Video Position: 34710
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -301,17 +301,33 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.74,0:22:16.63,NoteArial_Igo,,0,0,0,,{\an5\q2\fs20\1c&HFFFFFF&\fad(209,375)\fscx410\t(0,300,1,\fscx100)\3c&H028A08&\4c&H028A08&\\fscy125\bord1\shad0.5\pos(320,378)}Choices to make when starting the midgame.
 Dialogue: 0,0:22:15.83,0:22:17.46,Background,,0,0,0,,It's Black's turn on this board.
+Dialogue: 0,0:22:17.08,0:22:19.96,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(42,334)\3c&HFF0001&\4c&HFF0001&\fscx100\fscy100\bord1\shad0.5\pos(118,305)}Yuuki
+Dialogue: 0,0:22:17.08,0:22:19.96,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(42,334)\3c&H1579F6&\4c&H1579F6&\fscx100\fscy100\bord1\shad0.5\pos(311,212)}Teacher Yukari
+Dialogue: 0,0:22:17.08,0:22:19.96,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(42,334)\3c&HFD21F0&\4c&HFD21F0&\fscx100\fscy100\bord1\shad0.5\pos(521,305)}Mai
 Dialogue: 0,0:22:17.73,0:22:19.53,Default,,0,0,0,,Where would you go, Mai-chan?
 Dialogue: 0,0:22:21.03,0:22:21.58,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:22.48,0:22:24.12,Default,,0,0,0,,Why did you want to play there?
 Dialogue: 0,0:22:24.89,0:22:28.44,Default,,0,0,0,,I wanted to increase Black's territory, and\Nget in the way of White's territory.
+Dialogue: 0,0:22:25.40,0:22:25.65,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(209,0)\3c&H028E05&\4c&H028E05&\fscx100\fscy90\bord1\shad0.5\move(750,299,206,299)}A move to try to increase
+Dialogue: 0,0:22:25.65,0:22:31.38,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,501)\3c&H028E05&\4c&H028E05&\fscx100\fscy90\bord1\shad0.5\pos(206,299)}A move to try to increase
+Dialogue: 0,0:22:25.40,0:22:25.65,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(209,0)\3c&H028E05&\4c&H028E05&\fscx100\fscy90\bord1\shad0.5\move(840,368,297,368)}Black's territory, and get in the way of White.
+Dialogue: 0,0:22:25.65,0:22:31.38,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,501)\3c&H028E05&\4c&H028E05&\fscx100\fscy90\bord1\shad0.5\pos(297,368)}Black's territory, and get in the way of White.
 Dialogue: 0,0:22:29.27,0:22:31.08,Default,,0,0,0,,That's one way of thinking.
 Dialogue: 0,0:22:32.31,0:22:33.36,Background,,0,0,0,,Other than this...
 Dialogue: 0,0:22:33.93,0:22:37.93,Background,,0,0,0,,You can play here to try to solidify\NBlack's territory here,
+Dialogue: 0,0:22:35.60,0:22:35.80,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(167,0)\3c&H028A08&\4c&H028A08&\fscx100\fscy90\bord1\shad0.5\move(720,367,325,367)}Attempt to solidify Black's territory.
+Dialogue: 0,0:22:35.80,0:22:39.75,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,375)\3c&H028A08&\4c&H028A08&\fscx100\fscy90\bord1\shad0.5\pos(325,367)}Attempt to solidify Black's territory.
 Dialogue: 0,0:22:38.63,0:22:47.91,Background,,0,0,0,,or move here, and if White responds move forward\Neven more to make this area Black.
+Dialogue: 0,0:22:45.14,0:22:45.34,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(167,0)\3c&H028A08&\4c&H028A08&\fscx100\fscy90\bord1\shad0.5\move(700,367,325,367)}An attempt to expand Black's territory in the center.
+Dialogue: 0,0:22:45.34,0:22:50.36,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,459)\3c&H028A08&\4c&H028A08&\fscx100\fscy90\bord1\shad0.5\pos(325,367)}An attempt to expand Black's territory in the center.
 Dialogue: 0,0:22:48.19,0:22:49.66,Background,,0,0,0,,These are all good moves.
 Dialogue: 0,0:22:51.01,0:22:55.98,Default,,0,0,0,,When you have lots of different paths\Nto take, choose one suited to yourself.
+Dialogue: 0,0:22:52.16,0:22:54.97,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(42,250)\3c&H028A08&\4c&H028A08&\fscx100\fscy90\bord1\shad0.5\pos(245,299)}Choose a path suited for you,
+Dialogue: 0,0:22:52.16,0:22:54.97,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(42,250)\3c&H028A08&\4c&H028A08&\fscx100\fscy90\bord1\shad0.5\pos(225,368)}to fight in the mid-game{\i1}!!{\i0}
+Dialogue: 0,0:22:55.33,0:22:55.42,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(83,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\move(301,260,301,308)}To be continued...
+Dialogue: 0,0:22:55.42,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(0,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\pos(301,308)}To be continued...
 Dialogue: 0,0:23:00.48,0:23:02.61,Thinking,,0,0,0,,Is the new wave really coming?
 Dialogue: 0,0:23:04.03,0:23:07.03,Thinking,,0,0,0,,Is Shindou-kun's strength real?
 Dialogue: 0,0:23:08.37,0:23:12.16,Thinking,,0,0,0,,I won't let these young ones take the world just yet.

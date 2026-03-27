@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 70 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 188
-Active Line: 206
-Video Position: 34676
+Scroll Position: 179
+Active Line: 189
+Video Position: 32217
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -284,7 +284,7 @@ Dialogue: 0,0:22:14.11,0:22:17.60,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0
 Dialogue: 0,0:22:13.87,0:22:17.60,NoteArial_Igo,,0,0,0,,{\an5\q2\fs20\1c&HFFFFFF&\fad(167,334)\fscx680\t(0,240,1,\fscx100)\3c&H187AF5&\4c&H187AF5&\fscy100\bord1\shad0.5\pos(311,255)}Teacher Yukari
 Dialogue: 0,0:22:14.04,0:22:14.11,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(42,0)\3c&HFE26F4&\4c&HFE26F4&\fscx100\fscy100\bord1\shad0.5\move(650,304,504,304)}Mai
 Dialogue: 0,0:22:14.11,0:22:17.60,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,334)\3c&HFE26F4&\4c&HFE26F4&\fscx100\fscy100\bord1\shad0.5\pos(504,304)}Mai
-Dialogue: 0,0:22:13.87,0:22:17.60,NoteArial_Igo,,0,0,0,,{\an5\q2\fs20\1c&HFFFFFF&\fad(167,334)\fscx680\t(0,240,1,\fscx100)\3c&H008E06&\4c&H008E06&\\fscy125\bord1\shad0.5\pos(320,377)}How to think in the mid-game
+Dialogue: 0,0:22:13.87,0:22:17.60,NoteArial_Igo,,0,0,0,,{\an5\q2\fs20\1c&HFFFFFF&\fad(167,334)\fscx680\t(0,240,1,\fscx100)\3c&H008E06&\4c&H008E06&\\fscy125\bord1\shad0.5\pos(320,378)}How to think in the mid-game
 Dialogue: 0,0:22:20.45,0:22:21.78,Default,,0,0,0,,Let's stop here for a second.
 Dialogue: 0,0:22:22.08,0:22:24.09,Default,,0,0,0,,Yuuki-kun, why did you play here?
 Dialogue: 0,0:22:24.22,0:22:25.55,Default,,0,0,0,,Because I wanted to expand my territory.
