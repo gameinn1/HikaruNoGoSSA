@@ -132,7 +132,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 68 | ✅ | ✅ | ✅ |
 | 69 | ✅ | ✅ | ✅ |
 | 70 | ✅ | ✅ | ✅ |
-| 71 | ✅ | ✅ | ☑️ |
+| 71 | ✅ | ✅ | ✅ |
 | 72 | ✅ | ✅ | ☑️ |
 | 73 | ✅ | ✅ | ☑️ |
 | 74 | ✅ | ✅ | ☑️ |
