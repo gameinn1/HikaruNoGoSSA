@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 70 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 141
-Active Line: 165
-Video Position: 29364
+Scroll Position: 188
+Active Line: 206
+Video Position: 34676
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -279,15 +279,30 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:14.03,0:22:14.11,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(42,0)\3c&HF80001&\4c&HF80001&\fscx100\fscy100\bord1\shad0.5\move(-20,304,117,304)}Yuuki
+Dialogue: 0,0:22:14.11,0:22:17.60,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,334)\3c&HF80001&\4c&HF80001&\fscx100\fscy100\bord1\shad0.5\pos(117,304)}Yuuki
+Dialogue: 0,0:22:13.87,0:22:17.60,NoteArial_Igo,,0,0,0,,{\an5\q2\fs20\1c&HFFFFFF&\fad(167,334)\fscx680\t(0,240,1,\fscx100)\3c&H187AF5&\4c&H187AF5&\fscy100\bord1\shad0.5\pos(311,255)}Teacher Yukari
+Dialogue: 0,0:22:14.04,0:22:14.11,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(42,0)\3c&HFE26F4&\4c&HFE26F4&\fscx100\fscy100\bord1\shad0.5\move(650,304,504,304)}Mai
+Dialogue: 0,0:22:14.11,0:22:17.60,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,334)\3c&HFE26F4&\4c&HFE26F4&\fscx100\fscy100\bord1\shad0.5\pos(504,304)}Mai
+Dialogue: 0,0:22:13.87,0:22:17.60,NoteArial_Igo,,0,0,0,,{\an5\q2\fs20\1c&HFFFFFF&\fad(167,334)\fscx680\t(0,240,1,\fscx100)\3c&H008E06&\4c&H008E06&\\fscy125\bord1\shad0.5\pos(320,377)}How to think in the mid-game
 Dialogue: 0,0:22:20.45,0:22:21.78,Default,,0,0,0,,Let's stop here for a second.
 Dialogue: 0,0:22:22.08,0:22:24.09,Default,,0,0,0,,Yuuki-kun, why did you play here?
 Dialogue: 0,0:22:24.22,0:22:25.55,Default,,0,0,0,,Because I wanted to expand my territory.
+Dialogue: 0,0:22:25.75,0:22:29.87,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(42,501)\3c&HFD0008&\4c&HFD0008&\fscx100\fscy80\bord1\shad0.5\pos(322,303)}Yuuki {\3c&H018507&\4c&H018507&}played there because he wanted to expand
+Dialogue: 0,0:22:25.75,0:22:29.87,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(42,501)\3c&H018507&\4c&H018507&\fscx100\fscy80\bord1\shad0.5\pos(140,368)}his territory{\i1}!!{\i0}
 Dialogue: 0,0:22:26.34,0:22:29.22,Default,,0,0,0,,Yes! It's very good to play with thoughts like that.
 Dialogue: 0,0:22:30.24,0:22:32.96,Background,,0,0,0,,In addition to the move that Yuuki-kun played,
 Dialogue: 0,0:22:33.91,0:22:37.30,Background,,0,0,0,,he could have played here to solidify\NBlack's territory here.
+Dialogue: 0,0:22:34.56,0:22:34.86,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(292,0)\3c&H018507&\4c&H018507&\fscx100\fscy100\bord1\shad0.5\move(600,367,344,367)}A move to solidify Black's territory.
+Dialogue: 0,0:22:34.86,0:22:38.15,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,501)\3c&H018507&\4c&H018507&\fscx100\fscy100\bord1\shad0.5\pos(344,367)}A move to solidify Black's territory.
 Dialogue: 0,0:22:37.85,0:22:43.82,Background,,0,0,0,,Or played here to reduce White's territory here.
+Dialogue: 0,0:22:39.98,0:22:40.27,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(292,0)\3c&H018507&\4c&H018507&\fscx100\fscy100\bord1\shad0.5\move(600,367,344,367)}A move to reduce White's territory.
+Dialogue: 0,0:22:40.27,0:22:44.92,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,501)\3c&H018507&\4c&H018507&\fscx100\fscy100\bord1\shad0.5\pos(344,367)}A move to reduce White's territory.
 Dialogue: 0,0:22:45.49,0:22:48.46,Default,,0,0,0,,As you can see, there are lots of\Ngood moves in the mid-game.
 Dialogue: 0,0:22:49.14,0:22:53.98,Default,,0,0,0,,So let's decide where to play after careful thought!
+Dialogue: 0,0:22:49.43,0:22:54.33,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(83,501)\3c&H018507&\4c&H018507&\fscx100\fscy100\bord1\shad0.5\pos(320,367)}Think about what will happen, and then decide on your move{\i1}!!{\i0}
+Dialogue: 0,0:22:54.80,0:22:54.88,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(83,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\move(301,260,301,308)}To be continued...
+Dialogue: 0,0:22:54.88,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(0,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\pos(301,308)}To be continued...
 Dialogue: 0,0:22:57.73,0:23:00.90,Background,,0,0,0,,Even though Hikaru was thinking about\Nquitting, he's started playing again.
 Dialogue: 0,0:23:01.07,0:23:05.70,Background,,0,0,0,,Shindou Hikaru, huh? Man, kids these days...
 Dialogue: 0,0:23:06.36,0:23:09.49,Thinking,,0,0,0,,I'll bring it to Yose and play a game to win.
