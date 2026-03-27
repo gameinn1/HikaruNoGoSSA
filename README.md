@@ -129,8 +129,8 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 65 | ✅ | ✅ | ✅ |
 | 66 | ✅ | ✅ | ✅ |
 | 67 | ✅ | ✅ | ✅ |
-| 68 | ✅ | ✅ | ☑️ |
-| 69 | ✅ | ✅ | ☑️ |
+| 68 | ✅ | ✅ | ✅ |
+| 69 | ✅ | ✅ | ✅ |
 | 70 | ✅ | ✅ | ☑️ |
 | 71 | ✅ | ✅ | ☑️ |
 | 72 | ✅ | ✅ | ☑️ |
