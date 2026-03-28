@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 236
-Active Line: 247
-Video Position: 33239
+Video Zoom Percent: 0.625000
+Scroll Position: 242
+Active Line: 256
+Video Position: 34834
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -342,8 +342,21 @@ Dialogue: 0,0:22:23.50,0:22:25.47,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22\1c&HFFFFFF
 Dialogue: 0,0:22:23.92,0:22:25.47,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22\1c&H000000&\fad(375,0)\fscx350\t(0,209,1,\fscx100)\3c&HFFFFFF&\4c&HFFFFFF&\fscy100\bord1\shad0.5\pos(320,230)}Umezawa Yukari\N\N{\fs16.5}vs
 Dialogue: 0,0:22:23.92,0:22:25.47,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22\1c&H000000&\fad(375,0)\fscx350\t(0,209,1,\fscx100)\3c&HFFFFFF&\4c&HFFFFFF&\fscy100\bord1\shad0.5\pos(320,274)}Chinen Kaori
 Dialogue: 0,0:22:25.85,0:22:28.44,NoteArial_Igo,,0,0,0,,{\fs30\1c&HFFFFFF&\fad(83,501)\3c&H1873E8&\4c&H1873E8&\fscx100\fscy75\bord1\shad0.5\pos(318,362)}Teacher Yukari appears{\i1}!!{\i0}
-Dialogue: 0,0:22:30.07,0:22:32.46,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H07960B&\4c&H07960B&\fscx100\fscy100\bord1\shad1\pos(303.046,345.537)}Her opponent is Women's Kisei Chinen Kaori{\i1}!!{\i0}
+Dialogue: 0,0:22:30.04,0:22:32.46,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(83,501)\3c&H07960B&\4c&H07960B&\fscx100\fscy90\bord1\shad0.5\pos(324,368)}Her opponent is Women's Kisei Chinen Kaori{\i1}!!{\i0}
+Dialogue: 0,0:22:32.74,0:22:38.05,NoteArial_Igo,,0,0,0,,{\fs16\1c&HFFFFFF&\fad(501,501)\3c&HFF1227&\4c&HFF1227&\fscx98\fscy98\bord1\shad0.5\pos(477,41)}Help from :  Asahi Newspaper Co.
+Dialogue: 0,0:22:32.74,0:22:38.05,NoteArial_Igo,,0,0,0,,{\fs23\1c&HFFFFFF&\fad(501,501)\3c&H099F0B&\4c&H099F0B&\fscx99\fscy90\bord1\shad0.5\pos(183,362)}Meijin Match
+Dialogue: 0,0:22:32.74,0:22:38.05,NoteArial_Igo,,0,0,0,,{\fs17.5\1c&HFFFFFF&\fad(501,501)\3c&H230AE8&\4c&H230AE8&\fscx100\fscy100\bord1\shad0.5\pos(378,380)}First and Second preliminaries
+Dialogue: 0,0:22:45.92,0:22:46.72,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H049806&\4c&H049806&\fscx100\fscy90\bord1\shad0.5\pos(310,369)}Kurotaki Masaki 5-dan
+Dialogue: 0,0:22:46.72,0:22:47.53,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H049806&\4c&H049806&\fscx100\fscy90\bord1\shad0.5\pos(310,369)}Matsumoto Takehisa 5-dan
+Dialogue: 0,0:22:47.53,0:22:48.33,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,0)\3c&H049806&\4c&H049806&\fscx98\fscy90\bord1\shad0.5\pos(216,254)}Nagahara Yoshiaki 6-dan
+Dialogue: 0,0:22:47.53,0:22:48.33,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(0,0)\3c&H049806&\4c&H049806&\fscx99\fscy80\bord1\shad0.5\pos(464,377)}Yoshida Youichi 5-dan
 Dialogue: 0,0:22:54.05,0:22:57.22,Default,,0,0,0,,It made me want to become a pro.
+Dialogue: 0,0:22:55.02,0:22:55.08,NoteArial_Igo,,0,0,0,,{\fs33\1c&HFFFFFF&\fad(42,0)\3c&HE9000C&\4c&HE9000C&\fscx100\fscy85\bord1\shad0.5\frz270\move(183,170,183,232)}Pro player{\i1}!!{\i0}
+Dialogue: 0,0:22:55.08,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs33\1c&HFFFFFF&\fad(0,0)\3c&HE9000C&\4c&HE9000C&\fscx100\fscy85\bord1\shad0.5\frz270\pos(183,232)}Pro player{\i1}!!{\i0}
+Dialogue: 0,0:22:55.02,0:22:55.08,NoteArial_Igo,,0,0,0,,{\fs33\1c&HFFFFFF&\fad(42,0)\3c&HE9000C&\4c&HE9000C&\fscx100\fscy85\bord1\shad0.5\frz270\move(555,145,555,208)}Head for it{\i1}!!{\i0}
+Dialogue: 0,0:22:55.08,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs33\1c&HFFFFFF&\fad(0,0)\3c&HE9000C&\4c&HE9000C&\fscx100\fscy85\bord1\shad0.5\frz270\pos(555,208)}Head for it{\i1}!!{\i0}
+Dialogue: 0,0:22:55.02,0:22:55.08,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(42,0)\3c&H1600ED&\4c&H1600ED&\fscx99\fscy100\bord1\shad0.5\move(399,285,399,348)}To be continued...
+Dialogue: 0,0:22:55.08,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H1600ED&\4c&H1600ED&\fscx99\fscy100\bord1\shad0.5\pos(399,348)}To be continued...
 Dialogue: 0,0:22:59.44,0:23:00.03,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:23:00.73,0:23:04.40,Thinking,,0,0,0,,Let's play. We can't start until we do.
 Dialogue: 0,0:23:05.24,0:23:08.78,Thinking,,0,0,0,,The Sai that you wanted to play is no longer here, but...
