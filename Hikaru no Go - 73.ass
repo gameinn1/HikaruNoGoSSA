@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 216
-Active Line: 222
-Video Position: 32249
+Active Line: 240
+Video Position: 34709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -314,14 +314,18 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
-Dialogue: 0,0:22:12.32,0:22:16.73,NoteArial_Igo,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\fs28\frz0\t(865,1780,1,\fs17\frz17)\3c&H2245DB&\4c&H2245DB&fscx100\fscy100\bord1\shad0.5\move(310,357,308,204,865,1780)}Teacher Yukari
-Dialogue: 0,0:22:13.84,0:22:16.73,NoteArial_Igo,,0,0,0,,{\1c&HFFFFFF&\fad(125,0)\3c&HC71525&\4c&HC71525&\fs28\t(0,180,1,\fs18)\fscx100\fscy100\frz17\bord1\shad0.5\move(-36,300,98,265,0,180)}Yuuki
-Dialogue: 0,0:22:13.84,0:22:16.73,NoteArial_Igo,,0,0,0,,{\1c&HFFFFFF&\fad(125,0)\3c&H6C00CD&\4c&H6C00CD&\fs28\t(0,180,1,\fs18)\fscx100\fscy100\frz17\bord1\shad0.5\move(642,128,522,167,0,180)}Mai
-Dialogue: 0,0:22:14.16,0:22:16.73,NoteArial_Igo,,0,0,0,,{\fs28\q2\1c&HFFFFFF&\fad(125,0)\3c&H53A20E&\4c&H53A20E&\fscx360\fscy230\t(0,200,1,\fscx100\fscy70)\frz15\bord1\shad0.5\move(297,383,308,299,0,190)}A serious match between them today{\i1}!!{\i0}
+Dialogue: 0,0:22:12.32,0:22:16.73,NoteArial_Igo,,0,0,0,,{\1c&HFFFFFF&\fad(0,542)\fs28\frz0\t(865,1780,1,\fs17\frz16)\3c&H2245DB&\4c&H2245DB&fscx100\fscy100\bord1\shad0.5\move(310,357,308,204,865,1780)}Teacher Yukari
+Dialogue: 0,0:22:13.84,0:22:16.73,NoteArial_Igo,,0,0,0,,{\1c&HFFFFFF&\fad(125,542)\3c&HC71525&\4c&HC71525&\fs28\t(0,180,1,\fs18)\fscx100\fscy100\frz16\bord1\shad0.5\move(-36,300,98,265,0,180)}Yuuki
+Dialogue: 0,0:22:13.84,0:22:16.73,NoteArial_Igo,,0,0,0,,{\1c&HFFFFFF&\fad(125,542)\3c&H6C00CD&\4c&H6C00CD&\fs28\t(0,180,1,\fs18)\fscx100\fscy100\frz16\bord1\shad0.5\move(642,128,522,167,0,180)}Mai
+Dialogue: 0,0:22:14.16,0:22:16.73,NoteArial_Igo,,0,0,0,,{\fs28\q2\1c&HFFFFFF&\fad(125,542)\3c&H53A20E&\4c&H53A20E&\fscx360\fscy230\t(0,200,1,\fscx100\fscy70)\frz15\bord1\shad0.5\move(297,383,308,299,0,190)}A serious match between them today{\i1}!!{\i0}
 Dialogue: 0,0:22:12.91,0:22:15.71,Default,,0,0,0,,We'll have a serious match between\NMai-chan and Yuuki-kun today.
 Dialogue: 0,0:22:16.54,0:22:17.66,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:22:17.71,0:22:18.98,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:22:17.71,0:22:32.38,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(584,42)\3c&HCB1521&\4c&H000000&\fscx100\fscy100\bord1\shad0.5\pos(95,354)}Yuuki
+Dialogue: 0,0:22:17.71,0:22:32.38,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(584,42)\3c&H6500CA&\4c&H000000&\fscx100\fscy100\bord1\shad0.5\pos(550,354)}Mai
 Dialogue: 0,0:22:32.99,0:22:35.66,Default,,0,0,0,,This move by white was too aggressive.
+Dialogue: 0,0:22:32.63,0:22:33.14,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(209,0)\3c&H3E49DE&\4c&H3E49DE&\fscx100\fscy100\bord1\shad0.5\move(680,370,317,370)}Important point of the match.
+Dialogue: 0,0:22:33.14,0:22:54.60,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,501)\3c&H3E49DE&\4c&H3E49DE&\fscx100\fscy100\bord1\shad0.5\pos(317,370)}Important point of the match.
 Dialogue: 0,0:22:35.98,0:22:39.32,Default,,0,0,0,,This move in the game was rather\Ngood, but there is a better move.
 Dialogue: 0,0:22:39.47,0:22:40.47,Default,,0,0,0,,Here.
 Dialogue: 0,0:22:40.77,0:22:42.24,Default,,0,0,0,,It's an Atari, so White runs.
@@ -329,6 +333,9 @@ Dialogue: 0,0:22:42.47,0:22:45.31,Default,,0,0,0,,You extend here, and then...
 Dialogue: 0,0:22:45.46,0:22:48.51,Default,,0,0,0,,Black can either play here to\Ncapture these two stones,
 Dialogue: 0,0:22:48.63,0:22:50.96,Default,,0,0,0,,or play here to get this stone in a net.
 Dialogue: 0,0:22:51.30,0:22:53.51,Default,,0,0,0,,White is stuck in a Miai.
+Dialogue: 0,0:22:55.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs21.5\1c&HFFFFFF&\fad(42,0)\fscy80\t(0,45,1,\fscy99)\3c&H54A50A&\4c&H54A50A&\fscx99\bord1\shad0.5\move(238,350,226,348,0,45)}Second half of the game next time{\i1}!!{\i0}
+Dialogue: 0,0:22:55.38,0:22:55.45,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(42,0)\3c&H0C00F5&\4c&H0C00F5&\fscx99\fscy100\bord1\shad0.5\move(493,283,493,346)}To be continued...
+Dialogue: 0,0:22:55.45,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(0,0)\3c&H0C00F5&\4c&H0C00F5&\fscx99\fscy100\bord1\shad0.5\pos(493,346)}To be continued...
 Dialogue: 0,0:22:58.02,0:22:59.15,Thinking,,0,0,0,,I saw...
 Dialogue: 0,0:22:59.48,0:23:01.03,Thinking,,0,0,0,,a shadow of Sai in Shindou!
 Dialogue: 0,0:23:01.69,0:23:05.74,Thinking,,0,0,0,,That shadow that I... I've always been chasing after.
