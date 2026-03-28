@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 52
-Active Line: 61
-Video Position: 11453
+Video Zoom Percent: 0.500000
+Scroll Position: 182
+Active Line: 203
+Video Position: 34454
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -283,12 +283,22 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,584)\3c&HC51527&\4c&HC51527&\fscx99\fscy100\bord1.5\shad0.5\pos(100,307)}Yuuki
+Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,584)\3c&H2647D8&\4c&H2647D8&\fscx99\fscy100\bord1.5\shad0.5\pos(316,212)}Teacher Yukari
+Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,584)\3c&H5D01AB&\4c&H5D01AB&\fscx99\fscy100\bord1.5\shad0.5\pos(511,281)}Mai
+Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs35\1c&HFFFFFF&\fad(0,584)\3c&H2EBE0B&\4c&H2EBE0B&\fscx100\fscy70\bord1.5\shad0.5\pos(316,354)}"{\3c&H6900CF&\4c&H6900CF&}Mai {\3c&H2EBE0B&\4c&H2EBE0B&\}vs {\3c&HCA111E&\4c&HCA111E&}Yuuki{\3c&H2EBE0B&\4c&H2EBE0B&}"        Second Half
+Dialogue: 0,0:22:14.48,0:22:28.14,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(709,83)\3c&HBD192A&\4c&HBD192A&\fscx100\fscy100\bord2\shad0.5\pos(89,374)}Yuuki
+Dialogue: 0,0:22:14.48,0:22:28.14,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(709,83)\3c&H6800C7&\4c&H6800C7&\fscx99\fscy100\bord2\shad0.5\pos(547,374)}Mai
+Dialogue: 0,0:22:28.64,0:22:29.12,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(375,0)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy110\bord1.5\shad0.5\move(300,476,300,370)}Important part of the match.
+Dialogue: 0,0:22:29.12,0:22:49.69,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(0,584)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy110\bord1.5\shad0.5\pos(300,370)}Important part of the match.
 Dialogue: 0,0:22:29.76,0:22:33.51,Default,,0,0,0,,When White played here at this\Npoint, that was a mistake.
 Dialogue: 0,0:22:34.30,0:22:36.96,Default,,0,0,0,,Black could play here.
 Dialogue: 0,0:22:37.38,0:22:39.47,Default,,0,0,0,,It's an Atari, so White has to connect.
 Dialogue: 0,0:22:39.47,0:22:43.30,Default,,0,0,0,,Then Black moves here, and White loses its eyes.
 Dialogue: 0,0:22:44.14,0:22:48.78,Default,,0,0,0,,So, White has to protect at this point.
+Dialogue: 0,0:22:50.21,0:22:53.21,NoteArial_Igo,,0,0,0,,{\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(444,166)}{\alpha&HFF&\t(0,58,\alpha&H00&)}"{\alpha&HFF&\t(58,116,\alpha&H00&)}.{\alpha&HFF&\t(116,174,\alpha&H00&)}.{\alpha&HFF&\t(174,232,\alpha&H00&)}.{\alpha&HFF&\t(232,290,\alpha&H00&)} {\alpha&HFF&\t(290,348,\alpha&H00&)}I{\alpha&HFF&\t(348,406,\alpha&H00&)} {\alpha&HFF&\t(406,464,\alpha&H00&)}r{\alpha&HFF&\t(464,522,\alpha&H00&)}e{\alpha&HFF&\t(522,580,\alpha&H00&)}s{\alpha&HFF&\t(580,638,\alpha&H00&)}i{\alpha&HFF&\t(638,696,\alpha&H00&)}g{\alpha&HFF&\t(696,754,\alpha&H00&)}n{\alpha&HFF&\t(754,812,\alpha&H00&)}.{\alpha&HFF&\t(812,867,\alpha&H00&)}.{\alpha&HFF&\t(867,867,\alpha&H00&)}."
 Dialogue: 0,0:22:50.38,0:22:51.20,Default,,0,0,0,,I resign.
+Dialogue: 0,0:22:51.20,0:22:54.20,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(0,584)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy100\bord1.5\shad0.5\pos(300,370)}Yuuki wins by resignation after 213 moves{\i1}!!{\i0}
 Dialogue: 0,0:22:53.91,0:22:56.13,Default,,0,0,0,,Yuuki-kun won by resignation.
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,238,640,244)}Real Fansubbers presents
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,220,640,232)}Real Fansubbers presents
