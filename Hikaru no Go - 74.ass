@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.625000
 Scroll Position: 182
 Active Line: 203
-Video Position: 34454
+Video Position: 34484
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -298,7 +298,7 @@ Dialogue: 0,0:22:39.47,0:22:43.30,Default,,0,0,0,,Then Black moves here, and Whi
 Dialogue: 0,0:22:44.14,0:22:48.78,Default,,0,0,0,,So, White has to protect at this point.
 Dialogue: 0,0:22:50.21,0:22:53.21,NoteArial_Igo,,0,0,0,,{\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(444,166)}{\alpha&HFF&\t(0,58,\alpha&H00&)}"{\alpha&HFF&\t(58,116,\alpha&H00&)}.{\alpha&HFF&\t(116,174,\alpha&H00&)}.{\alpha&HFF&\t(174,232,\alpha&H00&)}.{\alpha&HFF&\t(232,290,\alpha&H00&)} {\alpha&HFF&\t(290,348,\alpha&H00&)}I{\alpha&HFF&\t(348,406,\alpha&H00&)} {\alpha&HFF&\t(406,464,\alpha&H00&)}r{\alpha&HFF&\t(464,522,\alpha&H00&)}e{\alpha&HFF&\t(522,580,\alpha&H00&)}s{\alpha&HFF&\t(580,638,\alpha&H00&)}i{\alpha&HFF&\t(638,696,\alpha&H00&)}g{\alpha&HFF&\t(696,754,\alpha&H00&)}n{\alpha&HFF&\t(754,812,\alpha&H00&)}.{\alpha&HFF&\t(812,867,\alpha&H00&)}.{\alpha&HFF&\t(867,867,\alpha&H00&)}."
 Dialogue: 0,0:22:50.38,0:22:51.20,Default,,0,0,0,,I resign.
-Dialogue: 0,0:22:51.20,0:22:54.20,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(0,584)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy100\bord1.5\shad0.5\pos(300,370)}Yuuki wins by resignation after 213 moves{\i1}!!{\i0}
+Dialogue: 0,0:22:51.20,0:22:55.37,NoteArial_Igo,,0,0,0,,{\fs28\q2\1c&HFFFFFF&\fad(0,0)\fscx360\fscy280\t(0,490,1,\fscx98\fscy80)\3c&HCE111C&\4c&HCE111C&\bord1.5\shad0.5\move(320,321,320,348,0,490)}Yuuki {\3c&H50A40D&\4c&H50A40D&}wins by resignation after 213 moves{\i1}!!{\i0}
 Dialogue: 0,0:22:53.91,0:22:56.13,Default,,0,0,0,,Yuuki-kun won by resignation.
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,238,640,244)}Real Fansubbers presents
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,220,640,232)}Real Fansubbers presents
