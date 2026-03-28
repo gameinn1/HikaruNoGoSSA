@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 96
-Active Line: 115
-Video Position: 16968
+Video Zoom Percent: 0.625000
+Scroll Position: 216
+Active Line: 222
+Video Position: 32249
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -314,6 +314,10 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:12.32,0:22:16.73,NoteArial_Igo,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\fs28\frz0\t(865,1780,1,\fs17\frz17)\3c&H2245DB&\4c&H2245DB&fscx100\fscy100\bord1\shad0.5\move(310,357,308,204,865,1780)}Teacher Yukari
+Dialogue: 0,0:22:13.84,0:22:16.73,NoteArial_Igo,,0,0,0,,{\1c&HFFFFFF&\fad(125,0)\3c&HC71525&\4c&HC71525&\fs28\t(0,180,1,\fs18)\fscx100\fscy100\frz17\bord1\shad0.5\move(-36,300,98,265,0,180)}Yuuki
+Dialogue: 0,0:22:13.84,0:22:16.73,NoteArial_Igo,,0,0,0,,{\1c&HFFFFFF&\fad(125,0)\3c&H6C00CD&\4c&H6C00CD&\fs28\t(0,180,1,\fs18)\fscx100\fscy100\frz17\bord1\shad0.5\move(642,128,522,167,0,180)}Mai
+Dialogue: 0,0:22:14.16,0:22:16.73,NoteArial_Igo,,0,0,0,,{\fs28\q2\1c&HFFFFFF&\fad(125,0)\3c&H53A20E&\4c&H53A20E&\fscx360\fscy230\t(0,200,1,\fscx100\fscy70)\frz15\bord1\shad0.5\move(297,383,308,299,0,190)}A serious match between them today{\i1}!!{\i0}
 Dialogue: 0,0:22:12.91,0:22:15.71,Default,,0,0,0,,We'll have a serious match between\NMai-chan and Yuuki-kun today.
 Dialogue: 0,0:22:16.54,0:22:17.66,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:22:17.71,0:22:18.98,Default,,0,0,0,,Good luck.
