@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 93
-Active Line: 104
-Video Position: 7909
+Scroll Position: 441
+Active Line: 467
+Video Position: 34729
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -543,14 +543,14 @@ Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:13.13,0:22:15.79,Default,,0,0,0,,Let's cover a Fuseki problem today.
-Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF70000&\4c&HF70000&\fscx100\fscy100\bord1\shad1\pos(200,226)}Yuuki
-Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AED&\4c&H167AED&\fscx100\fscy100\bord1\shad1\pos(320,226)}Teacher Yukari
-Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF824F4&\4c&HF824F4&\fscx100\fscy100\bord1\shad1\pos(514.357,300.222)}Mai
+Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF70000&\4c&HF70000&\fscx100\fscy100\bord1\shad0.5\pos(200,226)}Yuuki
+Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AED&\4c&H167AED&\fscx100\fscy100\bord1\shad0.5\pos(320,226)}Teacher Yukari
+Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF824F4&\4c&HF824F4&\fscx100\fscy100\bord1\shad0.5\pos(514.357,300.222)}Mai
 Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H008708&\4c&H008708&\fscx100\fscy100\bord1\shad1\pos(322,344)}Let's do a Fuseki problem today
 Dialogue: 0,0:22:14.16,0:22:18.50,NoteArial,,0,0,0,,{\fad(334,334)}Fuseki is the opening of the game.
 Dialogue: 0,0:22:16.23,0:22:18.84,Background,,0,0,0,,White just went to 3,3 and here's the problem.
 Dialogue: 0,0:22:19.18,0:22:25.56,Background,,0,0,0,,Should black go here, or go here? Which is better?
-Dialogue: 0,0:22:24.22,0:22:29.44,NoteArial_Igo,,0,0,0,,{\an5\fs22.5\1c&HFFFFFF&\fad(626,459)\frx70\t(0,542,1,\frx0)\3c&H008708&\4c&H008708&\fscx100\fscy100\bord1\shad1\pos(328,381)}Which side is it better to                          play from{\i1}?{\i0}
+Dialogue: 0,0:22:24.22,0:22:29.44,NoteArial_Igo,,0,0,0,,{\an5\fs22.5\1c&HFFFFFF&\fad(626,459)\frx70\t(0,542,1,\frx0)\3c&H008708&\4c&H008708&\fscx100\fscy100\bord1\shad0.5\pos(328,381)}Which side is it better to                          play from{\i1}?{\i0}
 Dialogue: 0,0:22:25.87,0:22:30.27,Background,,0,0,0,,Your hint is that black is trying\Nto gain territory on this side.
 Dialogue: 0,0:22:31.97,0:22:35.78,Background,,0,0,0,,If black blocks off from this side,\Nthe game will progress like this...
 Dialogue: 0,0:22:37.25,0:22:39.72,Background,,0,0,0,,And he gets a lot of territory.

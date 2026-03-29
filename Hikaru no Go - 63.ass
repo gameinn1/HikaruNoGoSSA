@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 272
-Active Line: 291
-Video Position: 34749
+Scroll Position: 260
+Active Line: 277
+Video Position: 33499
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -358,33 +358,31 @@ Dialogue: 0,0:20:39.63,0:20:41.51,Default,,0,0,0,,Sai!
 Dialogue: 0,0:22:07.59,0:22:10.34,Background,,0,0,0,,Merry Christmas!
 Dialogue: 0,0:22:07.69,0:22:12.26,ed64_romaji,,0,0,0,,{\fs34\c&HCDF8F8&\4c&H7CD26E&\shad2\bord0\pos(150,243)\fad(0,1250)}{\alpha&HFF&\t(0,32,\alpha&H00&)}U{\alpha&HFF&\t(32,64,\alpha&H00&)}m{\alpha&HFF&\t(64,96,\alpha&H00&)}e{\alpha&HFF&\t(96,128,\alpha&H00&)}z{\alpha&HFF&\t(128,160,\alpha&H00&)}a{\alpha&HFF&\t(160,192,\alpha&H00&)}w{\alpha&HFF&\t(192,224,\alpha&H00&)}a{\alpha&HFF&\t(224,256,\alpha&H00&)}Y{\alpha&HFF&\t(256,288,\alpha&H00&)}u{\alpha&HFF&\t(288,320,\alpha&H00&)}k{\alpha&HFF&\t(320,352,\alpha&H00&)}a{\alpha&HFF&\t(352,384,\alpha&H00&)}r{\alpha&HFF&\t(384,416,\alpha&H00&)}i{\alpha&HFF&\t(416,448,\alpha&H00&)}'{\alpha&HFF&\t(448,480,\alpha&H00&)}s
 Dialogue: 0,0:22:11.41,0:22:13.87,Default,,0,0,0,,Teacher, aren't the stars pretty?
-Dialogue: 0,0:22:13.91,0:22:18.41,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&H117AF8&\4c&H117AF8&\fad(542,542)\bord1\shad1\pos(459,365)}Teacher Yukari
-Dialogue: 0,0:22:13.91,0:22:18.41,NoteArial_Igo,,0,0,0,,{\3c&HF90000&\4c&HF90000&\fad(542,542)\bord1\shad1\pos(214,192)}Yuuki
-Dialogue: 0,0:22:13.91,0:22:18.41,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&HF627EF&\4c&HF627EF&\fad(542,542)\bord1\shad1\pos(112,365)}Mai
+Dialogue: 0,0:22:13.91,0:22:18.41,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&H117AF8&\4c&H117AF8&\fad(542,542)\bord1\shad0.5\pos(459,365)}Teacher Yukari
+Dialogue: 0,0:22:13.91,0:22:18.41,NoteArial_Igo,,0,0,0,,{\3c&HF90000&\4c&HF90000&\fad(542,542)\bord1\shad0.5\pos(214,192)}Yuuki
+Dialogue: 0,0:22:13.91,0:22:18.41,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&HF627EF&\4c&HF627EF&\fad(542,542)\bord1\shad0.5\pos(112,365)}Mai
 Dialogue: 0,0:22:13.99,0:22:15.46,Default,,0,0,0,,They really are.
 Dialogue: 0,0:22:15.88,0:22:18.63,Default,,0,0,0,,Oh yes, have you heard this story about Go?
 Dialogue: 0,0:22:19.65,0:22:22.78,Background,,0,0,0,,There are 361 intersections on a 19x19 board.
 Dialogue: 0,0:22:22.88,0:22:26.10,Background,,0,0,0,,This is the same as the number\Nof days in ancient China.
-Dialogue: 0,0:22:22.98,0:22:26.52,NoteArial_Igo,,0,0,0,,{\fs19\3c&H126A14&\4c&H126A14&\fscy120\bord1\shad1\fad(459,459)\pos(320,303)}There are 361 intersections on a 19x19 board
-Dialogue: 0,0:22:22.98,0:22:26.52,NoteArial_Igo,,0,0,0,,{\fs23\3c&H1464C6&\4c&H1464C6&\bord1\shad1\fad(459,459)\pos(317,368)}There were 361 days in an old Chinese year
-Dialogue: 0,0:22:27.81,0:22:31.88,NoteArial_Igo,,0,0,0,,{\fs19\3c&H126A14&\4c&H126A14&\fad(459,459)\fscy115\bord1.5\shad1\pos(320,329)}There is a theory that one rotation around the first line is one year.
+Dialogue: 0,0:22:22.98,0:22:26.52,NoteArial_Igo,,0,0,0,,{\fs19\3c&H126A14&\4c&H126A14&\fscy120\bord1\shad0.5\fad(459,459)\pos(320,303)}There are 361 intersections on a 19x19 board
+Dialogue: 0,0:22:22.98,0:22:26.52,NoteArial_Igo,,0,0,0,,{\fs23\3c&H1464C6&\4c&H1464C6&\bord1\shad0.5\fad(459,459)\pos(317,368)}There were 361 days in an old Chinese year
+Dialogue: 0,0:22:27.81,0:22:31.88,NoteArial_Igo,,0,0,0,,{\fs19\3c&H126A14&\4c&H126A14&\fad(459,459)\fscy115\bord1.5\shad0.5\pos(320,329)}There is a theory that one rotation around the first line is one year.
 Dialogue: 0,0:22:27.10,0:22:32.03,Background,,0,0,0,,And it's said that one rotation around the\Nfirst line of the board represents a year.
 Dialogue: 0,0:22:33.16,0:22:36.88,Background,,0,0,0,,And the white Go stones represent the Day,\Nand the black ones represent the Night.
-Dialogue: 0,0:22:34.73,0:22:37.97,NoteArial_Igo,,0,0,0,,{\fs19\fscy115\bord1.5\fad(459,417)\pos(140,345)}White Stones
-Dialogue: 0,0:22:34.73,0:22:37.97,NoteArial_Igo,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\bord1.5\fs19\fad(459,417)\fscy115\pos(423,345)}Black Stones
-Dialogue: 0,0:22:34.73,0:22:37.97,NoteArial_Igo,,0,0,0,,{\fs19\fscy115\bord1.5\fad(459,417)\pos(180,368)}Represent Day   (Yang)
-Dialogue: 0,0:22:34.73,0:22:37.97,NoteArial_Igo,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\fs19\bord1.5\fscy115\fad(459,417)\pos(462,368)}Represent Night (Ying)
+Dialogue: 0,0:22:34.73,0:22:37.97,NoteArial_Igo,,0,0,0,,{\an4\fs19\4c&HFFFFFF&\fscy115\bord1.5\shad0.5\fad(459,417)\pos(86,367)}White Stones\NRepresent Day   (Yang)
+Dialogue: 0,0:22:34.73,0:22:37.97,NoteArial_Igo,,0,0,0,,{\an4\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1.5\shad0.5\fs19\fad(459,417)\fscy115\pos(370,367)}Black Stones\NRepresent Night (Ying)
 Dialogue: 0,0:22:37.67,0:22:40.67,Background,,0,0,0,,In other words, the Go board shows\Nthe flow of time on Earth...
-Dialogue: 0,0:22:38.28,0:22:44.32,NoteArial_Igo,,0,0,0,,{\fs15\3c&H0871F3&\4c&H0871F3&\fscy145\bord1.5\shad1\fad(459,501)\pos(211,368)}Go boards represent the flow of time on Earth
-Dialogue: 0,0:22:40.48,0:22:44.32,NoteArial_Igo,,0,0,0,,{\fs15\3c&HF60114&\4c&HF60114&\fscy145\fad(459,501)\bord1.5\shad1\pos(465,368)}and Go Stones represent the sky
+Dialogue: 0,0:22:38.28,0:22:44.32,NoteArial_Igo,,0,0,0,,{\fs15\3c&H0871F3&\4c&H0871F3&\fscy145\bord1.5\shad0.5\fad(459,501)\pos(211,368)}Go boards represent the flow of time on Earth
+Dialogue: 0,0:22:40.48,0:22:44.32,NoteArial_Igo,,0,0,0,,{\fs15\3c&HF60114&\4c&HF60114&\fscy145\fad(459,501)\bord1.5\shad0.5\pos(465,368)}and Go Stones represent the sky
 Dialogue: 0,0:22:40.87,0:22:44.12,Background,,0,0,0,,and the Go stones... the sky.
 Dialogue: 0,0:22:45.21,0:22:48.63,Default,,0,0,0,,What do you picture when these\Ntwo are brought together?
 Dialogue: 0,0:22:48.91,0:22:49.88,Default,,0,0,0,,Space?
-Dialogue: 0,0:22:49.08,0:22:50.90,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&HD90004&\4c&HD90004&\bord1\shad1\fad(359,417)\q2\fscx2000\t(0,542,1,\fscx100)\pos(322,349)}The Universe
+Dialogue: 0,0:22:49.08,0:22:50.90,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&HD90004&\4c&HD90004&\bord1\shad0.5\fad(359,417)\q2\fscx2000\t(0,542,1,\fscx100)\pos(322,349)}The Universe
 Dialogue: 0,0:22:50.04,0:22:50.76,Default,,0,0,0,,Yup!
 Dialogue: 0,0:22:51.00,0:22:55.05,Default,,0,0,0,,There's a theory that Go boards and\Nstones were used for fortune telling.
 Dialogue: 0,0:22:51.01,0:22:54.93,NoteArial_Igo,,0,0,0,,{\fs20\fscy115\3c&HB90003&\4c&HB90003&\bord1.5\shad1\fad(459,459)\pos(153,305)}There is a theory that
-Dialogue: 0,0:22:51.01,0:22:54.93,NoteArial_Igo,,0,0,0,,{\fs20\fscy115\bord1.5\shad1\3c&HB90003&\4c&HB90003&\fad(459,459)\pos(335,367)}Go Boards and Stones were once used for fortune telling.
+Dialogue: 0,0:22:51.01,0:22:54.93,NoteArial_Igo,,0,0,0,,{\fs20\fscy115\bord1.5\shad0.5\3c&HB90003&\4c&HB90003&\fad(459,459)\pos(335,367)}Go Boards and Stones were once used for fortune telling.
 Dialogue: 0,0:22:55.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fad(542,0)\fs20.5\bord1.5\shad0.5\fscy115\3c&H1700E5&\4c&H1700E5&\pos(392,346)}To be Continued...
 Dialogue: 0,0:22:58.19,0:23:01.11,Background,,0,0,0,,Don't touch the merchandise!
 Dialogue: 0,0:23:02.11,0:23:04.69,Background,,0,0,0,,But this is Grandpa's!

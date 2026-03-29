@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 420
-Active Line: 424
-Video Position: 34690
+Video Zoom Percent: 0.625000
+Scroll Position: 402
+Active Line: 406
+Video Position: 32255
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -497,26 +497,26 @@ Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:13.31,0:22:15.35,Default,,0,0,0,,Have you guys seen things like this before?
-Dialogue: 0,0:22:14.51,0:22:20.80,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(417,417)\3c&H84004F&\4c&H84004F&\bord1\shad1\fscx101\fscy105\frz270\pos(186,202)}Something that records the moves
-Dialogue: 0,0:22:14.51,0:22:20.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&H84004F&\4c&H84004F&\bord1\shad1\frz270\pos(113,299)}that were played in a game.
-Dialogue: 0,0:22:14.51,0:22:20.80,NoteArial_Igo,,0,0,0,,{\fs23\1c&HFFFFFF&\fad(417,417)\3c&H84004F&\4c&H84004F&\fscy95\bord1\shad1\pos(534,20)}Kifu
+Dialogue: 0,0:22:14.51,0:22:20.80,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(417,417)\3c&H84004F&\4c&H84004F&\bord1\shad0.5\fscx101\fscy105\frz270\pos(186,202)}Something that records the moves
+Dialogue: 0,0:22:14.51,0:22:20.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&H84004F&\4c&H84004F&\bord1\shad0.5\frz270\pos(113,299)}that were played in a game.
+Dialogue: 0,0:22:14.51,0:22:20.80,NoteArial_Igo,,0,0,0,,{\fs23\1c&HFFFFFF&\fad(417,417)\3c&H84004F&\4c&H84004F&\fscy95\bord1\shad0.5\pos(534,20)}Kifu
 Dialogue: 0,0:22:15.43,0:22:16.67,Default,,0,0,0,,Yup.
 Dialogue: 0,0:22:16.90,0:22:20.97,Default,,0,0,0,,This is called Kifu. If you place stones on the board
 Dialogue: 0,0:22:20.97,0:22:25.15,Default,,0,0,0,,following these numbers,\Nyou can replay an old game.
 Dialogue: 0,0:22:25.45,0:22:26.55,Default,,0,0,0,,Want to give it a try?
-Dialogue: 0,0:22:21.22,0:22:21.50,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(250,0)\fscx100\3c&H1B7AF4&\4c&H1B7AF4&\bord1\shad1\move(600,245,138,245)}Teacher Yukari
-Dialogue: 0,0:22:21.50,0:22:26.90,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,459)\fscx100\3c&H1B7AF4&\4c&H1B7AF4&\bord1\shad1\pos(138,245)}Teacher Yukari
-Dialogue: 0,0:22:21.28,0:22:21.50,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\fscx100\3c&HFB25F5&\4c&HFB25F5&\bord1\shad1\move(600,245,376,245)}Mai
-Dialogue: 0,0:22:21.50,0:22:26.90,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,459)\fscx100\3c&HFB25F5&\4c&HFB25F5&\bord1\shad1\pos(376,245)}Mai
-Dialogue: 0,0:22:21.35,0:22:21.50,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\fscx100\3c&HF00000&\4c&HF00000&\bord1\shad1\move(600,273,510,273)}Yuuki
-Dialogue: 0,0:22:21.50,0:22:26.90,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,459)\fscx100\3c&HF00000&\4c&HF00000&\bord1\shad1\pos(510,273)}Yuuki
-Dialogue: 0,0:22:21.22,0:22:21.50,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(250,0)\fscx99\3c&H66003A&\4c&H66003A&\fscy90\bord1\shad1\move(782,342,320,342)}You can replay a match from the past with a Kifu{\i1}!!{\i0}
-Dialogue: 0,0:22:21.50,0:22:26.90,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(0,459)\fscx99\3c&H66003A&\4c&H66003A&\fscy90\bord1\shad1\pos(320,340)}You can replay a match from the past with a Kifu{\i1}!!{\i0}
+Dialogue: 0,0:22:21.22,0:22:21.50,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(250,0)\fscx100\3c&H1B7AF4&\4c&H1B7AF4&\bord1\shad0.5\move(600,245,138,245)}Teacher Yukari
+Dialogue: 0,0:22:21.50,0:22:26.90,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,459)\fscx100\3c&H1B7AF4&\4c&H1B7AF4&\bord1\shad0.5\pos(138,245)}Teacher Yukari
+Dialogue: 0,0:22:21.28,0:22:21.50,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\fscx100\3c&HFB25F5&\4c&HFB25F5&\bord1\shad0.5\move(600,245,376,245)}Mai
+Dialogue: 0,0:22:21.50,0:22:26.90,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,459)\fscx100\3c&HFB25F5&\4c&HFB25F5&\bord1\shad0.5\pos(376,245)}Mai
+Dialogue: 0,0:22:21.35,0:22:21.50,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\fscx100\3c&HF00000&\4c&HF00000&\bord1\shad0.5\move(600,273,510,273)}Yuuki
+Dialogue: 0,0:22:21.50,0:22:26.90,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,459)\fscx100\3c&HF00000&\4c&HF00000&\bord1\shad0.5\pos(510,273)}Yuuki
+Dialogue: 0,0:22:21.22,0:22:21.50,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(250,0)\fscx99\3c&H66003A&\4c&H66003A&\fscy90\bord1\shad0.5\move(782,342,320,342)}You can replay a match from the past with a Kifu{\i1}!!{\i0}
+Dialogue: 0,0:22:21.50,0:22:26.90,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(0,459)\fscx99\3c&H66003A&\4c&H66003A&\fscy90\bord1\shad0.5\pos(320,340)}You can replay a match from the past with a Kifu{\i1}!!{\i0}
 Dialogue: 0,0:22:26.69,0:22:27.44,Default,,0,0,0,,Sure.
-Dialogue: 0,0:22:32.38,0:22:43.09,NoteArial_Igo,,0,0,0,,{\fs25\q2\1c&HFFFFFF&\fad(0,0)\fscx99\3c&H600037&\4c&H600037&\fscy90\bord1\shad1\move(1220,342,-560,342)}If you replay a Kifu, you can learn all sorts of things, like the flow of a game, attacking, and defending.
+Dialogue: 0,0:22:32.38,0:22:43.09,NoteArial_Igo,,0,0,0,,{\fs25\q2\1c&HFFFFFF&\fad(0,0)\fscx99\3c&H600037&\4c&H600037&\fscy90\bord1\shad0.5\move(1220,342,-560,342)}If you replay a Kifu, you can learn all sorts of things, like the flow of a game, attacking, and defending.
 Dialogue: 0,0:22:49.07,0:22:55.00,Default,,0,0,0,,Even a match from hundreds of years\Nago can be replayed with just one Kifu.
-Dialogue: 0,0:22:54.83,0:22:54.95,NoteArial_Igo,,0,0,0,,{\fs29.5\1c&HFFFFFF&\fad(125,0)\fscx99\3c&H1500F0&\4c&H1500F0&\fscx99\fscy75\bord1\shad1\move(300,260,300,309)}To be continued...
-Dialogue: 0,0:22:54.95,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29.5\1c&HFFFFFF&\fad(0,0)\fscx99\3c&H1500F0&\4c&H1500F0&\fscx99\fscy75\bord1\shad1\pos(300,309)}To be continued...
+Dialogue: 0,0:22:54.83,0:22:54.95,NoteArial_Igo,,0,0,0,,{\fs29.5\1c&HFFFFFF&\fad(125,0)\fscx99\3c&H1500F0&\4c&H1500F0&\fscx99\fscy75\bord1\shad0.5\move(300,260,300,309)}To be continued...
+Dialogue: 0,0:22:54.95,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29.5\1c&HFFFFFF&\fad(0,0)\fscx99\3c&H1500F0&\4c&H1500F0&\fscx99\fscy75\bord1\shad0.5\pos(300,309)}To be continued...
 Dialogue: 0,0:22:59.29,0:23:01.16,Default,,0,0,0,,My first opponent is...
 Dialogue: 0,0:23:02.53,0:23:03.28,Default,,0,0,0,,Touya!
 Dialogue: 0,0:23:03.92,0:23:06.58,Sai,,0,0,0,,He's already declared hostilities against you.

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 301
-Active Line: 305
-Video Position: 32329
+Scroll Position: 295
+Active Line: 317
+Video Position: 33372
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -408,7 +408,7 @@ Dialogue: 0,0:22:25.86,0:22:27.61,Background,,0,0,0,,If you play here first...
 Dialogue: 0,0:22:25.90,0:22:26.15,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H05B40A&\4c&HFFFFFF&\fscy100\bord1\shad1\move(-180,344,320,344)}But, if you play the top first...
 Dialogue: 0,0:22:26.15,0:22:29.86,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,250)\3c&H05B40A&\4c&HFFFFFF&\fscy100\bord1\shad1\pos(320,344)}But, if you play the top first...
 Dialogue: 0,0:22:30.81,0:22:32.57,Background,,0,0,0,,You can only get one of the spots.
-Dialogue: 0,0:22:32.56,0:22:35.71,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H05B40A&\4c&HFFFFFF&\fscy100\bord1\shad1\pos(320,344)}Black lost out on 3 moku.
+Dialogue: 0,0:22:32.56,0:22:35.71,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(375,0)\3c&H05B40A&\4c&HFFFFFF&\fscy100\bord1\shad1\pos(320,344)}Black lost out on 3 moku.
 Dialogue: 0,0:22:35.71,0:22:35.86,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,167)\3c&H05B40A&\4c&HFFFFFF&\fscy100\bord1\shad1\move(320,344,320,450)}Black lost out on 3 moku.
 Dialogue: 0,0:22:32.82,0:22:35.80,Background,,0,0,0,,You lost three moku compared to earlier.
 Dialogue: 0,0:22:35.93,0:22:37.80,Background,,0,0,0,,We call places like this,

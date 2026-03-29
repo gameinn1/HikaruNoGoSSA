@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 381
-Active Line: 391
-Video Position: 34585
+Scroll Position: 351
+Active Line: 358
+Video Position: 32262
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -449,41 +449,41 @@ Dialogue: 0,0:22:10.61,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fsc
 Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:12.89,0:22:14.59,Default,,0,0,0,,Let's solve a problem today.
-Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H167AF1&\4c&H167AF1&\fscy100\bord1\shad1\move(320,420,320,214)}Teacher Yukari
-Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H167AF1&\4c&H167AF1&\fscy100\bord1\shad1\pos(320,214)}Teacher Yukari
-Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&HFF0000&\4c&HFF0000&\fscy100\bord1\shad1\move(118,420,118,273}Yuuki
-Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HFF0000&\4c&HFF0000&\fscy100\bord1\shad1\pos(118,273}Yuuki
-Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&HF626F0&\4c&HF626F0&\fscy100\bord1\shad1\move(493,420,493,273)}Mai
-Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HF626F0&\4c&HF626F0&\fscy100\bord1\shad1\pos(493,273)}Mai
-Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(209,0)\3c&H000000&\4c&H000000&\fscx101\fscy110\bord1\shad1\move(278,440,278,338)}Black First White Dies
-Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,501)\3c&H000000&\4c&H000000&\fscx101\fscy110\bord1\shad1\pos(278,338)}Black First White Dies
-Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs16.5\1c&HFFFFFF&\fad(209,0)\3c&HFE929A&\4c&HFE929A&\fscx102\fscy110\bord1\shad1\move(94,450,94,357)}This time we're doing a
-Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs16.5\1c&HFFFFFF&\fad(0,501)\3c&HFE929A&\4c&HFE929A&\fscx102\fscy110\bord1\shad1\pos(94,357)}This time we're doing a
-Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs16.5\1c&HFFFFFF&\fad(209,0)\3c&HFE929A&\4c&HFE929A&\fscx102\fscy110\bord1\shad1\move(435,450,435,357)}Problem {\i1}!!{\i0}
-Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs16.5\1c&HFFFFFF&\fad(0,501)\3c&HFE929A&\4c&HFE929A&\fscx102\fscy110\bord1\shad1\pos(435,357)}Problem {\i1}!!{\i0}
+Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H167AF1&\4c&H167AF1&\fscy100\bord1\shad0.5\move(320,420,320,214)}Teacher Yukari
+Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H167AF1&\4c&H167AF1&\fscy100\bord1\shad0.5\pos(320,214)}Teacher Yukari
+Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&HFF0000&\4c&HFF0000&\fscy100\bord1\shad0.5\move(118,420,118,273}Yuuki
+Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HFF0000&\4c&HFF0000&\fscy100\bord1\shad0.5\pos(118,273}Yuuki
+Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&HF626F0&\4c&HF626F0&\fscy100\bord1\shad0.5\move(493,420,493,273)}Mai
+Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HF626F0&\4c&HF626F0&\fscy100\bord1\shad0.5\pos(493,273)}Mai
+Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(209,0)\3c&H000000&\4c&H000000&\fscx101\fscy110\bord1\shad0.5\move(278,440,278,338)}Black First White Dies
+Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,501)\3c&H000000&\4c&H000000&\fscx101\fscy110\bord1\shad0.5\pos(278,338)}Black First White Dies
+Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs16.5\1c&HFFFFFF&\fad(209,0)\3c&HFE929A&\4c&HFE929A&\fscx102\fscy110\bord1\shad0.5\move(94,450,94,357)}This time we're doing a
+Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs16.5\1c&HFFFFFF&\fad(0,501)\3c&HFE929A&\4c&HFE929A&\fscx102\fscy110\bord1\shad0.5\pos(94,357)}This time we're doing a
+Dialogue: 0,0:22:14.60,0:22:14.83,NoteArial_Igo,,0,0,0,,{\fs16.5\1c&HFFFFFF&\fad(209,0)\3c&HFE929A&\4c&HFE929A&\fscx102\fscy110\bord1\shad0.5\move(435,450,435,357)}Problem {\i1}!!{\i0}
+Dialogue: 0,0:22:14.83,0:22:18.19,NoteArial_Igo,,0,0,0,,{\fs16.5\1c&HFFFFFF&\fad(0,501)\3c&HFE929A&\4c&HFE929A&\fscx102\fscy110\bord1\shad0.5\pos(435,357)}Problem {\i1}!!{\i0}
 Dialogue: 0,0:22:14.89,0:22:18.35,Default,,0,0,0,,It's a black first white dies problem. You should all\Nthink along with us.
-Dialogue: 0,0:22:18.52,0:22:21.32,NoteArial_Igo,,0,0,0,,{\an4\fs22.5\q2\1c&HFFFFFF&\fad(0,0)\fscx750\t(0,209,1,\fscx100)\3c&H351CF0&\4c&H351CF0&\fscy100\bord1\shad1\pos(231,373)}Try it with no              hint first{\i1}!?{\i0}
+Dialogue: 0,0:22:18.52,0:22:21.32,NoteArial_Igo,,0,0,0,,{\an4\fs22.5\q2\1c&HFFFFFF&\fad(0,0)\fscx750\t(0,209,1,\fscx100)\3c&H351CF0&\4c&H351CF0&\fscy100\bord1\shad0.5\pos(231,373)}Try it with no              hint first{\i1}!?{\i0}
 Dialogue: 0,0:22:21.86,0:22:23.08,Default,,0,0,0,,Can you do it, Yuuki-kun?
 Dialogue: 0,0:22:26.16,0:22:26.81,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:28.01,0:22:28.99,Background,,0,0,0,,I capture.
 Dialogue: 0,0:22:29.22,0:22:29.87,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:30.65,0:22:31.45,Background,,0,0,0,,What about here?
-Dialogue: 0,0:22:30.82,0:22:33.74,NoteArial_Igo,,0,0,0,,{\an4\fs22.5\1c&HFFFFFF&\fad(501,0)\frz-10\t(0,667,1,\frz0)\3c&HF951BE&\4c&HF951BE&\fscx100\fscy100\bord1\shad1\pos(234,372)}White got two eyes...
+Dialogue: 0,0:22:30.82,0:22:33.74,NoteArial_Igo,,0,0,0,,{\an4\fs22.5\1c&HFFFFFF&\fad(501,0)\frz-10\t(0,667,1,\frz0)\3c&HF951BE&\4c&HF951BE&\fscx100\fscy100\bord1\shad0.5\pos(234,372)}White got two eyes...
 Dialogue: 0,0:22:31.81,0:22:33.08,Background,,0,0,0,,White got two eyes.
 Dialogue: 0,0:22:34.31,0:22:35.46,Default,,0,0,0,,What about you, Mai-chan?
 Dialogue: 0,0:22:36.21,0:22:37.01,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:37.85,0:22:38.85,Background,,0,0,0,,If I take it?
 Dialogue: 0,0:22:39.36,0:22:40.21,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:40.59,0:22:41.73,Background,,0,0,0,,And if I go here?
-Dialogue: 0,0:22:41.66,0:22:44.31,NoteArial_Igo,,0,0,0,,{\fs27\1c&HFFFFFF&\fad(292,0)\3c&HED1CE4&\4c&HED1CE4&\fscx100\fscy80\bord1\shad1\pos(307,343)}Mai is wrong, too...
+Dialogue: 0,0:22:41.66,0:22:44.31,NoteArial_Igo,,0,0,0,,{\fs27\1c&HFFFFFF&\fad(292,0)\3c&HED1CE4&\4c&HED1CE4&\fscx100\fscy80\bord1\shad0.5\pos(307,343)}Mai is wrong, too...
 Dialogue: 0,0:22:42.31,0:22:43.67,Background,,0,0,0,,I made two eyes.
 Dialogue: 0,0:22:45.00,0:22:47.74,Default,,0,0,0,,It's a difficult problem, so I'll give you a hint.
 Dialogue: 0,0:22:48.90,0:22:49.70,Background,,0,0,0,,"A"
 Dialogue: 0,0:22:50.37,0:22:51.17,Background,,0,0,0,,"B"
 Dialogue: 0,0:22:51.56,0:22:52.36,Background,,0,0,0,,"C"
 Dialogue: 0,0:22:52.96,0:22:55.22,Background,,0,0,0,,The correct answer is one of these three.
-Dialogue: 0,0:22:53.01,0:22:57.33,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(292,0)\3c&HED1CE4&\4c&HED1CE4&\fscx101\fscy110\bord1\shad1\pos(208,337)}Next time, we'll give you the answer.
-Dialogue: 0,0:22:53.01,0:22:57.33,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(292,0)\3c&H260BF1&\4c&H260BF1&\fscx103\fscy95\bord1\shad1\pos(464,336)}To be continued...
+Dialogue: 0,0:22:53.01,0:22:57.33,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(292,0)\3c&HED1CE4&\4c&HED1CE4&\fscx101\fscy110\bord1\shad1\pos(208,338)}Next time, we'll give you the answer.
+Dialogue: 0,0:22:53.01,0:22:57.33,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(292,0)\3c&H260BF1&\4c&H260BF1&\fscx103\fscy95\bord1\shad1\pos(464,337)}To be continued...
 Dialogue: 0,0:22:59.20,0:23:01.32,Default,,0,0,0,,You play go over the internet?
 Dialogue: 0,0:23:01.48,0:23:04.78,Default,,0,0,0,,I'm thankful that I can play even while I'm in the\Nhospital.
 Dialogue: 0,0:23:05.74,0:23:09.24,Default,,0,0,0,,He's eager to play against you, Master Touya!

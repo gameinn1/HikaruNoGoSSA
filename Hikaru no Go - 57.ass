@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 311
-Active Line: 317
-Video Position: 34742
+Video Zoom Percent: 0.625000
+Scroll Position: 275
+Active Line: 281
+Video Position: 32152
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -372,40 +372,40 @@ Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:13.02,0:22:15.29,Default,,0,0,0,,Hey, Mai-chan, do you remember what Komi is?
-Dialogue: 0,0:22:12.79,0:22:13.04,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H187BF8&\4c&H187BF8&\fscx100\fscy100\bord1\shad1\move(10,296,183,296)}Teacher Yukari
-Dialogue: 0,0:22:13.04,0:22:16.76,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H187BF8&\4c&H187BF8&\fscx100\fscy100\bord1\shad1\pos(183,296)}Teacher Yukari
-Dialogue: 0,0:22:12.79,0:22:13.04,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&HFF21F5&\4c&HFF21F5&\fscx100\fscy100\bord1\shad1\move(650,296,435,296)}Mai
-Dialogue: 0,0:22:13.04,0:22:16.76,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HFF21F5&\4c&HFF21F5&\fscx100\fscy100\bord1\shad1\pos(435,296)}Mai
+Dialogue: 0,0:22:12.79,0:22:13.04,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H187BF8&\4c&H187BF8&\fscx100\fscy100\bord1\shad0.5\move(10,296,183,296)}Teacher Yukari
+Dialogue: 0,0:22:13.04,0:22:16.76,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H187BF8&\4c&H187BF8&\fscx100\fscy100\bord1\shad0.5\pos(183,296)}Teacher Yukari
+Dialogue: 0,0:22:12.79,0:22:13.04,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&HFF21F5&\4c&HFF21F5&\fscx100\fscy100\bord1\shad0.5\move(650,296,435,296)}Mai
+Dialogue: 0,0:22:13.04,0:22:16.76,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HFF21F5&\4c&HFF21F5&\fscx100\fscy100\bord1\shad0.5\pos(435,296)}Mai
 Dialogue: 0,0:22:15.40,0:22:16.30,Default,,0,0,0,,Yup!
 Dialogue: 0,0:22:16.54,0:22:19.18,Default,,0,0,0,,Well Komi just changed from five and a half moku
-Dialogue: 0,0:22:16.99,0:22:17.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H038D07&\4c&H038D07&\fscx100\fscy100\bord1\shad1\move(800,296,308,296)}"Komi",                           the Handicap given to Black,
-Dialogue: 0,0:22:17.25,0:22:21.10,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H038D07&\4c&H038D07&\fscx100\fscy100\bord1\shad1\pos(308,296)}"Komi",                           the Handicap given to Black,
-Dialogue: 0,0:22:16.99,0:22:17.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H038D07&\4c&H038D07&\fscx100\fscy100\bord1\shad1\move(820,365,373,365)}is changing from 5.5 moku to 6.5 moku{\i1}!{\i0}
-Dialogue: 0,0:22:17.25,0:22:21.10,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H038D07&\4c&H038D07&\fscx100\fscy100\bord1\shad1\pos(373,365)}is changing from 5.5 moku to 6.5 moku{\i1}!{\i0}
+Dialogue: 0,0:22:16.99,0:22:17.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H038D07&\4c&H038D07&\fscx100\fscy100\bord1\shad0.5\move(800,296,308,296)}"Komi",                           the Handicap given to Black,
+Dialogue: 0,0:22:17.25,0:22:21.10,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H038D07&\4c&H038D07&\fscx100\fscy100\bord1\shad0.5\pos(308,296)}"Komi",                           the Handicap given to Black,
+Dialogue: 0,0:22:16.99,0:22:17.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H038D07&\4c&H038D07&\fscx100\fscy100\bord1\shad0.5\move(820,365,373,365)}is changing from 5.5 moku to 6.5 moku{\i1}!{\i0}
+Dialogue: 0,0:22:17.25,0:22:21.10,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H038D07&\4c&H038D07&\fscx100\fscy100\bord1\shad0.5\pos(373,365)}is changing from 5.5 moku to 6.5 moku{\i1}!{\i0}
 Dialogue: 0,0:22:19.31,0:22:21.20,Default,,0,0,0,,to six and a half moku.
 Dialogue: 0,0:22:21.67,0:22:22.88,Default,,0,0,0,,Why?
 Dialogue: 0,0:22:23.27,0:22:25.05,Default,,0,0,0,,It's because Black's win rate has been
-Dialogue: 0,0:22:23.33,0:22:23.58,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(250,0)\3c&H038D07&\4c&H038D07&\fscx98\fscy115\bord1\shad1\move(700,345,320,345)}Black's win percentage from the last five years was 51.86%{\i1}!{\i0}
-Dialogue: 0,0:22:23.58,0:22:27.69,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,0)\3c&H038D07&\4c&H038D07&\fscx98\fscy115\bord1\shad1\pos(320,345)}Black's win percentage from the last five years was 51.86%{\i1}!{\i0}
-Dialogue: 0,0:22:27.69,0:22:27.97,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,209)\3c&H038D07&\4c&H038D07&\fscx98\fscy115\bord1\shad1\move(320,345,-170,345)}Black's win percentage from the last five years was 51.86%{\i1}!{\i0}
+Dialogue: 0,0:22:23.33,0:22:23.58,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(250,0)\3c&H038D07&\4c&H038D07&\fscx98\fscy115\bord1\shad0.5\move(700,345,320,345)}Black's win percentage from the last five years was 51.86%{\i1}!{\i0}
+Dialogue: 0,0:22:23.58,0:22:27.69,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,0)\3c&H038D07&\4c&H038D07&\fscx98\fscy115\bord1\shad0.5\pos(320,345)}Black's win percentage from the last five years was 51.86%{\i1}!{\i0}
+Dialogue: 0,0:22:27.69,0:22:27.97,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,209)\3c&H038D07&\4c&H038D07&\fscx98\fscy115\bord1\shad0.5\move(320,345,-170,345)}Black's win percentage from the last five years was 51.86%{\i1}!{\i0}
 Dialogue: 0,0:22:25.05,0:22:28.36,Default,,0,0,0,,significantly higher in the last five years.
 Dialogue: 0,0:22:28.77,0:22:32.07,Default,,0,0,0,,{\fs24}Komi recently became seven and a half moku in China.
-Dialogue: 0,0:22:29.36,0:22:29.62,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(250,0)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad1\move(800,345,296,345)}In China, Komi is 7.5 moku.         It's 6.5 moku in Korea{\i1}!{\i0}
-Dialogue: 0,0:22:29.62,0:22:34.83,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(0,0)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad1\pos(296,345)}In China, Komi is 7.5 moku.         It's 6.5 moku in Korea{\i1}!{\i0}
-Dialogue: 0,0:22:34.83,0:22:35.11,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(0,209)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad1\move(296,345,-130,345)}In China, Komi is 7.5 moku.         It's 6.5 moku in Korea{\i1}!{\i0}
+Dialogue: 0,0:22:29.36,0:22:29.62,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(250,0)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad0.5\move(800,345,296,345)}In China, Komi is 7.5 moku.         It's 6.5 moku in Korea{\i1}!{\i0}
+Dialogue: 0,0:22:29.62,0:22:34.83,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(0,0)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad0.5\pos(296,345)}In China, Komi is 7.5 moku.         It's 6.5 moku in Korea{\i1}!{\i0}
+Dialogue: 0,0:22:34.83,0:22:35.11,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(0,209)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad0.5\move(296,345,-130,345)}In China, Komi is 7.5 moku.         It's 6.5 moku in Korea{\i1}!{\i0}
 Dialogue: 0,0:22:32.07,0:22:35.30,Default,,0,0,0,,Since komi became six and a half moku in Korea,
 Dialogue: 0,0:22:35.30,0:22:38.52,Default,,0,0,0,,Japan has decided to follow in their footsteps\Nand change komi to six and a half moku.
 Dialogue: 0,0:22:38.52,0:22:44.87,NoteArial,,0,0,0,,{\fs15.5\fad(292,292)}Note from translator: As stupid as this joke is, I have no choice but to explain it. 'Gomoku\NGohan' is a type of food dish, and it sounds like 'Gomoku han' which is 5.5 moku.
 Dialogue: 0,0:22:38.72,0:22:41.55,Default,,0,0,0,,I thought it was because people mistook it for Gomoku Gohan.
-Dialogue: 0,0:22:39.70,0:22:41.89,NoteArial_Igo,,0,0,0,,{\an4\fs20.5\1c&HFFFFFF&\fad(209,209)\frx90\fry70\t(0,300,1,\frx0\fry0)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad1\pos(228,307)}I thought it was because people would
-Dialogue: 0,0:22:39.70,0:22:41.89,NoteArial_Igo,,0,0,0,,{\an4\fs20.5\1c&HFFFFFF&\fad(209,209)\frx90\fry70\t(0,300,1,\frx0\fry0)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad1\pos(60,379)}mistake it for {\3c&H1400F0&\4c&H1400F0&}Gomoku Gohan{\3c&H038D07&\4c&H038D07&}~{\i1}!{\i0}
+Dialogue: 0,0:22:39.70,0:22:41.89,NoteArial_Igo,,0,0,0,,{\an4\fs20.5\1c&HFFFFFF&\fad(209,209)\frx90\fry70\t(0,300,1,\frx0\fry0)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad0.5\pos(228,307)}I thought it was because people would
+Dialogue: 0,0:22:39.70,0:22:41.89,NoteArial_Igo,,0,0,0,,{\an4\fs20.5\1c&HFFFFFF&\fad(209,209)\frx90\fry70\t(0,300,1,\frx0\fry0)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad0.5\pos(60,379)}mistake it for {\3c&H1400F0&\4c&H1400F0&}Gomoku Gohan{\3c&H038D07&\4c&H038D07&}~{\i1}!{\i0}
 Dialogue: 0,0:22:42.69,0:22:44.49,Default,,0,0,0,,That's not quite it...
-Dialogue: 0,0:22:44.66,0:22:48.91,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(417,417)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad1\pos(311,297)}Overseas matches have become more prevalent recently
-Dialogue: 0,0:22:44.66,0:22:48.91,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&H038D07&\4c&H038D07&\fscx98\fscy100\bord1\shad1\pos(314,365)}and the players have changed their view of the rule.
+Dialogue: 0,0:22:44.66,0:22:48.91,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(417,417)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad0.5\pos(311,297)}Overseas matches have become more prevalent recently
+Dialogue: 0,0:22:44.66,0:22:48.91,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(417,417)\3c&H038D07&\4c&H038D07&\fscx98\fscy100\bord1\shad0.5\pos(314,365)}and the players have changed their view of the rule.
 Dialogue: 0,0:22:45.29,0:22:49.08,Default,,0,0,0,,Komi didn't even exist in Shuusaku's time,
 Dialogue: 0,0:22:49.08,0:22:52.16,Default,,0,0,0,,{\fs24}what a big difference that is from six and a half moku.
-Dialogue: 0,0:22:48.99,0:22:54.60,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(417,459)\3c&H038D07&\4c&H038D07&\fscx99\fscy109\bord1\shad1\pos(216,297)}This is the first major rule change in
-Dialogue: 0,0:22:48.99,0:22:54.60,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(417,459)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad1\pos(320,365)}the last 50 years, and it was made to keep up with the times.
+Dialogue: 0,0:22:48.99,0:22:54.60,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(417,459)\3c&H038D07&\4c&H038D07&\fscx99\fscy109\bord1\shad0.5\pos(216,297)}This is the first major rule change in
+Dialogue: 0,0:22:48.99,0:22:54.60,NoteArial_Igo,,0,0,0,,{\fs20.5\1c&HFFFFFF&\fad(417,459)\3c&H038D07&\4c&H038D07&\fscx99\fscy110\bord1\shad0.5\pos(320,365)}the last 50 years, and it was made to keep up with the times.
 Dialogue: 0,0:22:52.80,0:22:56.47,Default,,0,0,0,,The rules of Go change with the time.
 Dialogue: 0,0:22:55.13,0:22:55.25,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(167,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\move(305,265,305,304)}To be continued...
 Dialogue: 0,0:22:55.25,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord2\shad1\pos(305,304)}To be continued...
