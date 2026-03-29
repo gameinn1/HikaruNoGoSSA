@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 260
-Active Line: 277
-Video Position: 33499
+Scroll Position: 266
+Active Line: 288
+Video Position: 34476
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -381,7 +381,7 @@ Dialogue: 0,0:22:48.91,0:22:49.88,Default,,0,0,0,,Space?
 Dialogue: 0,0:22:49.08,0:22:50.90,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&HD90004&\4c&HD90004&\bord1\shad0.5\fad(359,417)\q2\fscx2000\t(0,542,1,\fscx100)\pos(322,349)}The Universe
 Dialogue: 0,0:22:50.04,0:22:50.76,Default,,0,0,0,,Yup!
 Dialogue: 0,0:22:51.00,0:22:55.05,Default,,0,0,0,,There's a theory that Go boards and\Nstones were used for fortune telling.
-Dialogue: 0,0:22:51.01,0:22:54.93,NoteArial_Igo,,0,0,0,,{\fs20\fscy115\3c&HB90003&\4c&HB90003&\bord1.5\shad1\fad(459,459)\pos(153,305)}There is a theory that
+Dialogue: 0,0:22:51.01,0:22:54.93,NoteArial_Igo,,0,0,0,,{\fs20\fscy115\3c&HB90003&\4c&HB90003&\bord1.5\shad0.5\fad(459,459)\pos(153,305)}There is a theory that
 Dialogue: 0,0:22:51.01,0:22:54.93,NoteArial_Igo,,0,0,0,,{\fs20\fscy115\bord1.5\shad0.5\3c&HB90003&\4c&HB90003&\fad(459,459)\pos(335,367)}Go Boards and Stones were once used for fortune telling.
 Dialogue: 0,0:22:55.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fad(542,0)\fs20.5\bord1.5\shad0.5\fscy115\3c&H1700E5&\4c&H1700E5&\pos(392,346)}To be Continued...
 Dialogue: 0,0:22:58.19,0:23:01.11,Background,,0,0,0,,Don't touch the merchandise!

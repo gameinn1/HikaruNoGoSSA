@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 351
-Active Line: 358
-Video Position: 32262
+Scroll Position: 363
+Active Line: 371
+Video Position: 32525
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -482,8 +482,8 @@ Dialogue: 0,0:22:48.90,0:22:49.70,Background,,0,0,0,,"A"
 Dialogue: 0,0:22:50.37,0:22:51.17,Background,,0,0,0,,"B"
 Dialogue: 0,0:22:51.56,0:22:52.36,Background,,0,0,0,,"C"
 Dialogue: 0,0:22:52.96,0:22:55.22,Background,,0,0,0,,The correct answer is one of these three.
-Dialogue: 0,0:22:53.01,0:22:57.33,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(292,0)\3c&HED1CE4&\4c&HED1CE4&\fscx101\fscy110\bord1\shad1\pos(208,338)}Next time, we'll give you the answer.
-Dialogue: 0,0:22:53.01,0:22:57.33,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(292,0)\3c&H260BF1&\4c&H260BF1&\fscx103\fscy95\bord1\shad1\pos(464,337)}To be continued...
+Dialogue: 0,0:22:53.01,0:22:57.33,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(292,0)\3c&HF851BA&\4c&HF851BA&\fscx101\fscy110\bord1\shad0.5\pos(208,338)}Next time, we'll give you the answer.
+Dialogue: 0,0:22:53.01,0:22:57.33,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(292,0)\3c&H2509F3&\4c&H2509F3&\fscx103\fscy95\bord1\shad0.5\pos(464,337)}To be continued...
 Dialogue: 0,0:22:59.20,0:23:01.32,Default,,0,0,0,,You play go over the internet?
 Dialogue: 0,0:23:01.48,0:23:04.78,Default,,0,0,0,,I'm thankful that I can play even while I'm in the\Nhospital.
 Dialogue: 0,0:23:05.74,0:23:09.24,Default,,0,0,0,,He's eager to play against you, Master Touya!
