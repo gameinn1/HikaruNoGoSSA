@@ -135,6 +135,6 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 71 | ✅ | ✅ | ✅ |
 | 72 | ✅ | ✅ | ✅ |
 | 73 | ✅ | ✅ | ✅ |
-| 74 | ✅ | ✅ | ☑️ |
+| 74 | ✅ | ✅ | ✅ |
 | 75 | ✅ | ✅ | ✅ |
 | 76 | ✅ | ✅ | ❗ |
