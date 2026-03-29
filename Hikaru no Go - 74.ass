@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 188
-Active Line: 201
-Video Position: 34579
+Scroll Position: 197
+Active Line: 216
+Video Position: 34473
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -296,9 +296,22 @@ Dialogue: 0,0:22:34.30,0:22:36.96,Default,,0,0,0,,Black could play here.
 Dialogue: 0,0:22:37.38,0:22:39.47,Default,,0,0,0,,It's an Atari, so White has to connect.
 Dialogue: 0,0:22:39.47,0:22:43.30,Default,,0,0,0,,Then Black moves here, and White loses its eyes.
 Dialogue: 0,0:22:44.14,0:22:48.78,Default,,0,0,0,,So, White has to protect at this point.
-Dialogue: 0,0:22:50.21,0:22:53.30,NoteArial_Igo,,0,0,0,,{\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(444,166)}{\alpha&HFF&\t(0,58,\alpha&H00&)}"{\alpha&HFF&\t(58,116,\alpha&H00&)}.{\alpha&HFF&\t(116,174,\alpha&H00&)}.{\alpha&HFF&\t(174,232,\alpha&H00&)}.{\alpha&HFF&\t(232,290,\alpha&H00&)} {\alpha&HFF&\t(290,348,\alpha&H00&)}I{\alpha&HFF&\t(348,406,\alpha&H00&)} {\alpha&HFF&\t(406,464,\alpha&H00&)}r{\alpha&HFF&\t(464,522,\alpha&H00&)}e{\alpha&HFF&\t(522,580,\alpha&H00&)}s{\alpha&HFF&\t(580,638,\alpha&H00&)}i{\alpha&HFF&\t(638,696,\alpha&H00&)}g{\alpha&HFF&\t(696,754,\alpha&H00&)}n{\alpha&HFF&\t(754,812,\alpha&H00&)}.{\alpha&HFF&\t(812,867,\alpha&H00&)}.{\alpha&HFF&\t(867,867,\alpha&H00&)}."
+Dialogue: 0,0:22:50.21,0:22:53.26,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}{\alpha&HFF&\t(0,58,\alpha&H00&)}"{\alpha&HFF&\t(58,116,\alpha&H00&)}.{\alpha&HFF&\t(116,174,\alpha&H00&)}.{\alpha&HFF&\t(174,232,\alpha&H00&)}.{\alpha&HFF&\t(232,290,\alpha&H00&)} I {\alpha&HFF&\t(290,348,\alpha&H00&)}r{\alpha&HFF&\t(348,406,\alpha&H00&)}e{\alpha&HFF&\t(406,464,\alpha&H00&)}s{\alpha&HFF&\t(464,522,\alpha&H00&)}i{\alpha&HFF&\t(522,580,\alpha&H00&)}g{\alpha&HFF&\t(580,638,\alpha&H00&)}n{\alpha&HFF&\t(638,696,\alpha&H00&)}.{\alpha&HFF&\t(696,754,\alpha&H00&)}.{\alpha&HFF&\t(754,812,\alpha&H00&)}.{\alpha&HFF&\t(812,870,\alpha&H00&)}"{\alpha&HFF&\t(870,928,\alpha&H00&)}
 Dialogue: 0,0:22:50.38,0:22:51.20,Default,,0,0,0,,I resign.
-Dialogue: 0,0:22:51.20,0:22:55.37,NoteArial_Igo,,0,0,0,,{\fs28\q2\1c&HFFFFFF&\fad(0,0)\fscx360\fscy280\t(0,490,1,\fscx98\fscy80)\3c&HCE111C&\4c&HCE111C&\bord1.5\shad0.5\move(320,321,320,348,0,490)}Yuuki {\3c&H50A40D&\4c&H50A40D&}wins by resignation after 213 moves{\i1}!!{\i0}
+Dialogue: 0,0:22:53.26,0:22:53.28,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"... I resign..
+Dialogue: 0,0:22:53.28,0:22:53.30,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"... I resign
+Dialogue: 0,0:22:53.30,0:22:53.31,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"... I resig
+Dialogue: 0,0:22:53.31,0:22:53.33,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"... I resi
+Dialogue: 0,0:22:53.33,0:22:53.35,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"... I res
+Dialogue: 0,0:22:53.35,0:22:53.36,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"... I re
+Dialogue: 0,0:22:53.36,0:22:53.38,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"... I r
+Dialogue: 0,0:22:53.38,0:22:53.40,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"... I
+Dialogue: 0,0:22:53.40,0:22:53.41,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"... I
+Dialogue: 0,0:22:53.41,0:22:53.43,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"...
+Dialogue: 0,0:22:53.43,0:22:53.45,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"..
+Dialogue: 0,0:22:53.45,0:22:53.46,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}".
+Dialogue: 0,0:22:53.46,0:22:53.48,NoteArial_Igo,,0,0,0,,{\an4\fs41.5\1c&HFFFFFF&\3c&H7000D7&\4c&H7000D7&\fscx99\fscy75\frz270\bord1.5\shad0.5\pos(428,47)}"
+Dialogue: 0,0:22:51.20,0:22:55.37,NoteArial_Igo,,0,0,0,,{\fs28\q2\1c&HFFFFFF&\fad(292,0)\fscx360\fscy280\t(0,490,1,\fscx98\fscy80)\3c&HCE111C&\4c&HCE111C&\bord1.5\shad0.5\move(320,321,320,348,0,490)}Yuuki {\3c&H50A40D&\4c&H50A40D&}wins by resignation after 213 moves{\i1}!!{\i0}
 Dialogue: 0,0:22:55.37,0:22:55.55,NoteArial_Igo,,0,0,0,,{\fs28\q2\1c&HFFFFFF&\fad(0,167)\fscx98\fscy80)\3c&HCE111C&\4c&HCE111C&\bord1.5\shad0.5\move(320,348,320,480)}Yuuki {\3c&H50A40D&\4c&H50A40D&}wins by resignation after 213 moves{\i1}!!{\i0}
 Dialogue: 0,0:22:53.91,0:22:56.13,Default,,0,0,0,,Yuuki-kun won by resignation.
 Dialogue: 0,0:22:55.80,0:22:55.87,NoteArial_Igo,,0,0,0,,{\fs30\1c&HFFFFFF&\fad(42,0)\3c&H4707DB&\4c&H4707DB&\fscx100\fscy100\bord1.5\shad0.5\move(424,295,379,295)}To be continued...
