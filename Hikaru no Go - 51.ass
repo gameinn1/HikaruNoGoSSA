@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 124
-Active Line: 147
-Video Position: 13556
+Scroll Position: 115
+Active Line: 119
+Video Position: 11561
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -210,8 +210,8 @@ Dialogue: 0,0:07:44.52,0:07:47.39,Sai,,0,0,0,,I went to all sorts of places with
 Dialogue: 0,0:07:47.88,0:07:53.27,Background,,0,0,0,,This is something that got stored\Nthere after Master Shuusaku signed it.
 Dialogue: 0,0:07:53.87,0:07:55.05,Background,,0,0,0,,Gokiso the pro!?
 Dialogue: 0,0:07:55.87,0:07:59.54,Sai,,0,0,0,,Signed? In Takamatsu? Torajirou?
-Dialogue: 0,0:07:59.54,0:08:00.96,ed64_romaji,,0,0,0,,{\frz270\blur2\fs35\t(1065,1440,1,\fs66.5)\1c&H09202F&\bord0\shad0\move(186,162,133,92,1065,1440)\b1}Honinbou Shuusaku{\b0}
-Dialogue: 0,0:08:00.96,0:08:02.80,ed64_romaji,,0,0,0,,{\frz270\blur2\fs66.5\t(0,646,1,\fs72)\1c&H09202F&\bord0\shad0\move(133,92,127,80,0,646)\b1}Honinbou Shuusaku{\b0}
+Dialogue: 0,0:07:59.54,0:08:00.96,ed64_romaji,,0,0,0,,{\frz270\blur2\fs35\t(1065,1440,1,\fs66.5)\1c&H09202F&\bord0\shad0\move(190,161,133,89,1065,1440)\b1}Honinbou Shuusaku{\b0}
+Dialogue: 0,0:08:00.96,0:08:02.80,ed64_romaji,,0,0,0,,{\frz270\blur2\fs66.5\t(0,646,1,\fs72)\1c&H09202F&\bord0\shad0\move(133,89,126,78,0,646)\b1}Honinbou Shuusaku{\b0}
 Dialogue: 0,0:08:03.25,0:08:05.99,Sai,,0,0,0,,Hikaru! That's not Torajirou's writing.
 Dialogue: 0,0:08:06.82,0:08:07.71,Thinking,,0,0,0,,Then...
 Dialogue: 0,0:08:08.05,0:08:08.84,Default,,0,0,0,,It's a fake!?
