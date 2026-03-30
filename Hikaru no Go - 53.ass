@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 53 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 53 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 318
-Active Line: 325
-Video Position: 32208
+Video Zoom Percent: 0.625000
+Scroll Position: 21
+Active Line: 41
+Video Position: 5985
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -106,7 +106,7 @@ Dialogue: 0,0:02:32.01,0:02:33.34,Default,,0,0,0,,That bastard...
 Dialogue: 0,0:02:36.21,0:02:39.34,Default,,0,0,0,,Oh, these are the pairings for the Ooteai matches.
 Dialogue: 0,0:02:40.53,0:02:42.83,Default,,0,0,0,,Shindou Hikaru... there it is.
 Dialogue: 0,0:02:43.14,0:02:45.40,Default,,0,0,0,,My first opponent is...
-Dialogue: 0,0:02:45.40,0:02:50.44,NoteArial,,0,0,0,,{\fs45\blur1\1c&H000000&\bord0\fscy80\frz8.5\move(504,142,175,142)}Touya Akira 2-dan
+Dialogue: 0,0:02:45.40,0:02:50.44,NoteArial,,0,0,0,,{\fs45\blur1\1c&H323035&\bord0\fscy80\frz8.5\move(504,142,175,142)}Touya Akira 2-dan
 Dialogue: 0,0:02:47.06,0:02:49.23,Background,,0,0,0,,Tou...ya...
 Dialogue: 0,0:02:51.31,0:02:54.58,Thinking,,0,0,0,,My first opponent is... Touya!
 Dialogue: 0,0:02:57.66,0:02:59.08,Default,,0,0,0,,Touya-kun isn't coming.
@@ -132,7 +132,7 @@ Dialogue: 0,0:03:53.15,0:03:55.15,Sai,,0,0,0,,he's all right, right?
 Dialogue: 0,0:03:55.47,0:03:57.99,Default,,0,0,0,,Yeah. He's still at the hospital though.
 Dialogue: 0,0:03:58.90,0:04:01.14,Sai,,0,0,0,,Let's go! Let's go check up on him!
 Dialogue: 0,0:04:02.35,0:04:03.64,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:04:07.64,0:04:10.65,NoteArial,,0,0,0,,{\4c&HFFFFFF&\bord1.5\shad2\move(320,46,320,71)\frz-4.5\fs40\t(\fs35)\fscx160\1a&HFF&\3c&H262ACB&}AISHINDOU HOSPITAL
+Dialogue: 0,0:04:07.64,0:04:10.65,NoteArial,,0,0,0,,{\fs60\fscy60\t(0,2985,1,\fs51.5\fscy62)\frz-4\4c&HFFFFFF&\bord1.5\shad1.5\1a&HFF&\3c&H262ACB&\fscy60\move(342,51,338,75,0,2985)}AISHINDOU HOSPITAL
 Dialogue: 0,0:04:08.85,0:04:09.98,Background,,0,0,0,,This must be it.
 Dialogue: 0,0:04:12.39,0:04:13.53,Default,,0,0,0,,Let's see...
 Dialogue: 0,0:04:13.53,0:04:16.15,Sai,,0,0,0,,Hurry up, Hikaru!
@@ -263,7 +263,7 @@ Dialogue: 0,0:11:24.12,0:11:26.41,Thinking,,0,0,0,,That's around the time when A
 Dialogue: 0,0:11:26.87,0:11:31.67,Thinking,,0,0,0,,Akira-kun stormed out of the store when he learned\Nthat Shindou was playing at an Internet Cafe...
 Dialogue: 0,0:11:33.11,0:11:37.18,Thinking,,0,0,0,,Did he think that Shindou was Sai?
 Dialogue: 0,0:11:38.47,0:11:44.18,Thinking,,0,0,0,,Or did he think there was some connection\Nbetween Sai and Shindou?
-Dialogue: 0,0:11:47.69,0:11:51.69,NoteArial,,0,0,0,,{\fs10\1c&H1B3096&\shad1\bord0\frz8\fscy140\frx15\fry350\pos(361.115,223.934)}AISHINDOU\NHOSPITAL
+Dialogue: 0,0:11:47.69,0:11:51.69,NoteArial,,0,0,0,,{\fs10\t(0,3979,1,\fs11)\1c&H1B3096&\shad1\bord0\frz8\fscy140\frx15\fry350\move(361,224,367,222)}AISHINDOU\NHOSPITAL
 Dialogue: 0,0:11:55.83,0:11:59.33,Default,,0,0,0,,Thank you for coming. Please, sit.
 Dialogue: 0,0:12:01.39,0:12:05.38,Default,,0,0,0,,Didn't I collapse on the day you\Nwere supposed to play Akira?
 Dialogue: 0,0:12:05.90,0:12:07.43,Default,,0,0,0,,Sorry for getting in the way.
