@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 363
-Active Line: 377
-Video Position: 33334
+Video Zoom Percent: 0.750000
+Scroll Position: 191
+Active Line: 198
+Video Position: 17604
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -266,7 +266,7 @@ Dialogue: 0,0:11:11.44,0:11:16.36,NoteArial,,0,0,0,,{\fs9\blur0\fad(1877,0)\1c&H
 Dialogue: 0,0:11:13.78,0:11:16.36,NoteArial,,0,0,0,,{\fs11\fscy60\blur0\fad(0,0)\1c&H000000&\bord0\shad0\move(-45,25,18,25)}Ookura Kichinarou\NAward Ceremony
 Dialogue: 0,0:11:20.87,0:11:22.24,Thinking,,0,0,0,,I'll catch up to Touya...
 Dialogue: 0,0:11:22.79,0:11:23.75,Thinking,,0,0,0,,I'll surpass him!
-Dialogue: 0,0:11:25.12,0:11:29.34,NoteArial,,0,0,0,,{\fs14.5\1c&H766A63&\3c&HEFE3DC&\bord2\shad0\frz270\pos(198,285)}New First Dan Briefing Room
+Dialogue: 0,0:11:25.12,0:11:29.34,NoteArial,,0,0,0,,{\1c&H766A63&\3c&HEFE3DC&\fs14.5\fscx100\fscy97\t(0,4194,1,\fs18\fscx100\fscy95)\bord1.5\shad0\fscy97\frz270\move(198,285,175,304)}New First Dan Briefing Room
 Dialogue: 0,0:11:26.42,0:11:28.27,Background,,0,0,0,,That's about all.
 Dialogue: 0,0:11:30.06,0:11:32.59,Default,,0,0,0,,That's all we have to say.
 Dialogue: 0,0:11:33.64,0:11:39.39,Background,,0,0,0,,Then please open your envelopes. We'll explain\Nwhat each thing inside is.
@@ -288,11 +288,114 @@ Dialogue: 0,0:12:00.32,0:12:01.26,Default,,0,0,0,,Towards the end.
 Dialogue: 0,0:12:01.87,0:12:05.72,Default,,0,0,0,,The person to the immediate right of your name is\Nyour opponent for the first match.
 Dialogue: 0,0:12:06.79,0:12:09.34,Default,,0,0,0,,Shindou Hikaru... there it is.
 Dialogue: 0,0:12:09.67,0:12:11.77,Default,,0,0,0,,My first opponent is...
-Comment: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\shad0\fscy80\frz4.5\move(227,213,-30,213)}Shindou Hikaru Shodan
-Comment: 0,0:12:11.75,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\shad0\fscy80\frz4.5\pos(546,188)}Touya Akira 2-dan
-Comment: 0,0:12:12.54,0:12:13.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H000000&\bord0\shad0\fscy80\frz4.5\pos(695,170)}Suzuki Ayuma
-Comment: 0,0:12:11.75,0:12:14.75,NoteArial,,0,0,0,,Need to animate above, either scroll or individually
-Dialogue: 0,0:12:16.47,0:12:21.51,NoteArial,,0,0,0,,{\fs45\blur1\1c&H000000&\bord0\fscy80\frz8.5\move(504,142,175,142)}Touya Akira 2-dan
+Dialogue: 0,0:12:11.75,0:12:11.79,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(227,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:11.79,0:12:11.84,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(225,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:11.84,0:12:11.88,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(223,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:11.88,0:12:11.92,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(220,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:11.92,0:12:11.96,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(217,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:11.96,0:12:12.00,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(213,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.00,0:12:12.04,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(207,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.04,0:12:12.09,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(202,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.09,0:12:12.13,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(195,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.13,0:12:12.17,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(188,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.17,0:12:12.21,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(181,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.21,0:12:12.25,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(174,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.25,0:12:12.29,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(166,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.29,0:12:12.34,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(157,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.34,0:12:12.38,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(148,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.38,0:12:12.42,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(139,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.42,0:12:12.46,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(130,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.46,0:12:12.50,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(120,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.50,0:12:12.54,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(110,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.54,0:12:12.59,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(98,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.59,0:12:12.63,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(87,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.63,0:12:12.67,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(77,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.67,0:12:12.71,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(67,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.71,0:12:12.75,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(57,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.75,0:12:12.80,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(47,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.80,0:12:12.84,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(37,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.84,0:12:12.88,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(29,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.88,0:12:12.92,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(20,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.92,0:12:12.96,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(12,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:12.96,0:12:13.00,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(4,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.00,0:12:13.05,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-4,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.05,0:12:13.09,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-12,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.09,0:12:13.13,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-19,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.13,0:12:13.17,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-26,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.17,0:12:13.21,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-32,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.21,0:12:13.25,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-37,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.25,0:12:13.30,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-43,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.30,0:12:13.34,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-46,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.34,0:12:13.38,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-49,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.38,0:12:13.42,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-50,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.42,0:12:13.46,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-51,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:13.46,0:12:13.96,NoteArial,,0,0,0,,{\fs21.5\blur0\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(-52,213)}Shindou Hikaru Shodan
+Dialogue: 0,0:12:11.75,0:12:11.79,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(546,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:11.79,0:12:11.84,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(544,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:11.84,0:12:11.88,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(542,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:11.88,0:12:11.92,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(539,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:11.92,0:12:11.96,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(536,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:11.96,0:12:12.00,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(532,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.00,0:12:12.04,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(526,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.04,0:12:12.09,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(521,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.09,0:12:12.13,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(514,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.13,0:12:12.17,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(507,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.17,0:12:12.21,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(500,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.21,0:12:12.25,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(493,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.25,0:12:12.29,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(485,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.29,0:12:12.34,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(476,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.34,0:12:12.38,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(467,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.38,0:12:12.42,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(458,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.42,0:12:12.46,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(449,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.46,0:12:12.50,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(439,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.50,0:12:12.54,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(429,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.54,0:12:12.59,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(417,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.59,0:12:12.63,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(406,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.63,0:12:12.67,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(396,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.67,0:12:12.71,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(386,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.71,0:12:12.75,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(376,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.75,0:12:12.80,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(366,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.80,0:12:12.84,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(356,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.84,0:12:12.88,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(348,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.88,0:12:12.92,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(339,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.92,0:12:12.96,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(331,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.96,0:12:13.00,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(323,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.00,0:12:13.05,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(315,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.05,0:12:13.09,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(307,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.09,0:12:13.13,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(300,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.13,0:12:13.17,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(293,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.17,0:12:13.21,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(287,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.21,0:12:13.25,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(282,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.25,0:12:13.30,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(276,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.30,0:12:13.34,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(273,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.34,0:12:13.38,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(271,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.38,0:12:13.42,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(270,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.42,0:12:13.46,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(269,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:13.46,0:12:13.96,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(269,188)}Touya Akira 2-dan
+Dialogue: 0,0:12:12.54,0:12:12.59,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(691,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.59,0:12:12.63,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(680,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.63,0:12:12.67,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(671,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.67,0:12:12.71,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(661,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.71,0:12:12.75,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(651,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.75,0:12:12.80,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(641,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.80,0:12:12.84,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(632,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.84,0:12:12.88,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(624,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.88,0:12:12.92,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(614,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.92,0:12:12.96,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(606,165)}Suzuki Ayuma
+Dialogue: 0,0:12:12.96,0:12:13.00,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(598,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.00,0:12:13.05,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(590,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.05,0:12:13.09,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(584,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.09,0:12:13.13,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(577,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.13,0:12:13.17,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(570,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.17,0:12:13.21,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(565,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.21,0:12:13.25,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(560,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.25,0:12:13.30,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(555,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.30,0:12:13.34,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(551,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.34,0:12:13.38,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(548,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.38,0:12:13.42,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(546,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.42,0:12:13.46,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(544,165)}Suzuki Ayuma
+Dialogue: 0,0:12:13.46,0:12:13.96,NoteArial,,0,0,0,,{\fs21.5\blur1\1c&H303037&\bord0\shad0\fscy80\frz4.5\pos(542,165)}Suzuki Ayuma
+Dialogue: 0,0:12:16.47,0:12:21.51,NoteArial,,0,0,0,,{\fs45\blur1\1c&H323035&\bord0\fscy80\frz8.5\move(504,142,175,142)}Touya Akira 2-dan
 Dialogue: 0,0:12:17.84,0:12:19.81,Thinking,,0,0,0,,Tou...ya...
 Dialogue: 0,0:12:27.90,0:12:31.11,Thinking,,0,0,0,,My first opponent is... Touya!
 Dialogue: 0,0:12:33.15,0:12:38.35,Background,,0,0,0,,We'll inform you by mail when your match is. Lower\Ndan matches are on Wednesdays...
