@@ -17,8 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 48 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 12
-Video Position: 3176
+Active Line: 14
+Video Position: 3174
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,7 +104,7 @@ Dialogue: 0,0:02:05.57,0:02:06.32,Sai,,0,0,0,,Hikaru...
 Dialogue: 0,0:02:07.52,0:02:08.52,Sai,,0,0,0,,It's just Hikaru.
 Dialogue: 0,0:02:08.82,0:02:14.78,NoteArial,,0,0,0,,{\fs15\t(1977,2937,1,\fs25)\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz21\move(462,173,536,8,2022,2937)}Ochi Kousuke (13)
 Dialogue: 0,0:02:08.82,0:02:14.78,NoteArial,,0,0,0,,{\fs15\t(1977,2937,1,\fs25)\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(352,402)}Shindou Hikaru (14)
-Dialogue: 0,0:02:08.82,0:02:14.78,NoteArial,,0,0,0,,{\fs15\t(1977,2937,1,\fs25)\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\move(525,324,634,270,1977,2982)}Waya Yoshitaka (15)
+Dialogue: 0,0:02:08.82,0:02:14.78,NoteArial,,0,0,0,,{\fs15\t(1977,2937,1,\fs25)\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\move(525,324,634,270,1977,2937)}Waya Yoshitaka (15)
 Dialogue: 0,0:02:09.48,0:02:11.53,Background,,0,0,0,,{\an8}That boy passed...
 Dialogue: 0,0:02:12.03,0:02:14.50,Background,,0,0,0,,{\an8}I see, his name is Shindou.
 Dialogue: 0,0:02:15.20,0:02:19.26,Default,,0,0,0,,He may be part of the new wave\Nthat Ogata was speaking of.
