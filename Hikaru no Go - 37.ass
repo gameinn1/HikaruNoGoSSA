@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 37 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 37 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 228
-Active Line: 235
-Video Position: 32286
+Video Zoom Percent: 1.000000
+Scroll Position: 95
+Active Line: 100
+Video Position: 13732
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -190,8 +190,8 @@ Dialogue: 0,0:08:57.79,0:09:00.79,Default,,0,0,0,,Oh yes, I should place the ord
 Dialogue: 0,0:09:04.94,0:09:10.34,Thinking,,0,0,0,,Hmm? Not even five minutes passed yet.
 Dialogue: 0,0:09:16.62,0:09:19.15,Default,,0,0,0,,Yes. Calm down first.
 Dialogue: 0,0:09:21.66,0:09:22.50,Default,,0,0,0,,Him too?
-Dialogue: 0,0:09:27.63,0:09:31.34,Note,,0,0,0,,{\fs23\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(455,132)}Japanese Go Research Center
-Dialogue: 0,0:09:32.77,0:09:35.31,Default,,0,0,0,,This doesn't happen in any normal match.
+Dialogue: 0,0:09:27.63,0:09:31.30,Note,,0,0,0,,{\fs23\t(1897,3649,1,\fs30)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(455,131,398,20,1897,3649)}Japanese Go Research Center
+Dialogue: 0,0:09:32.72,0:09:35.31,Default,,0,0,0,,This doesn't happen in any normal match.
 Dialogue: 0,0:09:36.21,0:09:39.19,Default,,0,0,0,,The pro exam really is...
 Dialogue: 0,0:09:40.18,0:09:41.11,Default,,0,0,0,,What's the matter?
 Dialogue: 0,0:09:41.75,0:09:46.87,Default,,0,0,0,,It's the first day, there's so much tension\Nin the air, I can't bear to stay here.
