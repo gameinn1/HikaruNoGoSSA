@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 39
-Active Line: 55
-Video Position: 7628
+Active Line: 47
+Video Position: 7659
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -151,8 +151,8 @@ Dialogue: 0,0:05:17.88,0:05:17.92,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\sha
 Dialogue: 0,0:05:17.92,0:05:17.96,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(617,378)}Japanese Go Institute
 Dialogue: 0,0:05:17.96,0:05:18.01,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(634,388)}Japanese Go Institute
 Dialogue: 0,0:05:18.01,0:05:18.05,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(651,399)}Japanese Go Institute
-Dialogue: 0,0:05:18.05,0:05:18.09,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(670,410)}Japanese Go Institute
-Dialogue: 0,0:05:18.09,0:05:18.13,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(690.294,422.933)}Japanese Go Institute
+Dialogue: 0,0:05:18.05,0:05:18.09,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(669,410)}Japanese Go Institute
+Dialogue: 0,0:05:18.09,0:05:18.13,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(688,422)}Japanese Go Institute
 Dialogue: 0,0:05:10.67,0:05:12.83,Thinking,,0,0,0,,So he's not here...
 Dialogue: 0,0:05:13.54,0:05:15.67,Thinking,,0,0,0,,Where the hell did you go?
 Dialogue: 0,0:05:15.92,0:05:18.05,Default,,0,0,0,,Ahh! Why did you disappear all of a sudden?
