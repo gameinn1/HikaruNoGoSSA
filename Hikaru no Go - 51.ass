@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 400
-Active Line: 407
-Video Position: 32605
+Scroll Position: 124
+Active Line: 147
+Video Position: 13556
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -210,8 +210,9 @@ Dialogue: 0,0:07:44.52,0:07:47.39,Sai,,0,0,0,,I went to all sorts of places with
 Dialogue: 0,0:07:47.88,0:07:53.27,Background,,0,0,0,,This is something that got stored\Nthere after Master Shuusaku signed it.
 Dialogue: 0,0:07:53.87,0:07:55.05,Background,,0,0,0,,Gokiso the pro!?
 Dialogue: 0,0:07:55.87,0:07:59.54,Sai,,0,0,0,,Signed? In Takamatsu? Torajirou?
-Dialogue: 0,0:07:59.54,0:08:00.63,ed64_romaji,,0,0,0,,{\frz270\fs35\blur2\1c&H09202F&\bord0\shad0\pos(186,162)}Honinbou Shuusaku
-Dialogue: 0,0:08:03.28,0:08:05.99,Sai,,0,0,0,,Hikaru! That's not Torajirou's writing.
+Dialogue: 0,0:07:59.54,0:08:00.96,ed64_romaji,,0,0,0,,{\frz270\blur2\fs35\t(1065,1440,1,\fs66.5)\1c&H09202F&\bord0\shad0\move(186,162,133,92,1065,1440)\b1}Honinbou Shuusaku{\b0}
+Dialogue: 0,0:08:00.96,0:08:02.80,ed64_romaji,,0,0,0,,{\frz270\blur2\fs66.5\t(0,646,1,\fs72)\1c&H09202F&\bord0\shad0\move(133,92,127,80,0,646)\b1}Honinbou Shuusaku{\b0}
+Dialogue: 0,0:08:03.25,0:08:05.99,Sai,,0,0,0,,Hikaru! That's not Torajirou's writing.
 Dialogue: 0,0:08:06.82,0:08:07.71,Thinking,,0,0,0,,Then...
 Dialogue: 0,0:08:08.05,0:08:08.84,Default,,0,0,0,,It's a fake!?
 Dialogue: 0,0:08:10.36,0:08:15.57,Default,,0,0,0,,You again!? It's the real thing! Go away!
@@ -231,13 +232,13 @@ Dialogue: 0,0:08:52.62,0:08:53.50,Default,,0,0,0,,What is it?
 Dialogue: 0,0:08:56.70,0:09:00.69,Default,,0,0,0,,Mr. Gokiso, your tutoring game is\Nabout to start, please come this way.
 Dialogue: 0,0:09:01.99,0:09:05.24,Default,,0,0,0,,Like anyone's going to pay\Nattention to what a kid says.
 Dialogue: 0,0:09:07.32,0:09:07.90,Default,,0,0,0,,Wh!?
-Dialogue: 0,0:09:09.32,0:09:18.83,ed64_romaji,,0,0,0,,{\fs26\blur1\1c&H052431&\bord0\frz283\move(236,221,125,221)}Honinbou Shuusaku
+Dialogue: 0,0:09:09.32,0:09:18.83,ed64_romaji,,0,0,0,,{\fs26\blur1\1c&H052431&\bord0\frz283\move(236,222,125,222)\b1}Honinbou Shuusaku{\b0}
 Dialogue: 0,0:09:10.75,0:09:13.80,Background,,0,0,0,,Fake... you can tell?
 Dialogue: 0,0:09:13.88,0:09:16.24,Background,,0,0,0,,Yup. They're both lying.
 Dialogue: 0,0:09:16.54,0:09:18.62,Background,,0,0,0,,Those other boards aren't Kaya either.
-Dialogue: 0,0:09:19.07,0:09:20.27,Default,,0,0,0,,I knew it.
+Dialogue: 0,0:09:19.04,0:09:20.27,Default,,0,0,0,,I knew it.
 Dialogue: 0,0:09:20.37,0:09:21.31,Default,,0,0,0,,What?
-Dialogue: 0,0:09:21.91,0:09:23.73,Default,,0,0,0,,I thought that might be the case.
+Dialogue: 0,0:09:21.87,0:09:23.73,Default,,0,0,0,,I thought that might be the case.
 Dialogue: 0,0:09:24.09,0:09:26.86,Default,,0,0,0,,That's not Kaya, that's new Kaya.
 Dialogue: 0,0:09:27.65,0:09:30.43,Default,,0,0,0,,Well, I don't know too much about it either,
 Dialogue: 0,0:09:31.13,0:09:34.71,Default,,0,0,0,,but the vendor who came until\Nlast year was a very nice person.
