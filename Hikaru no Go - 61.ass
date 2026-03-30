@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 298
-Active Line: 320
-Video Position: 34741
+Video Zoom Percent: 0.625000
+Scroll Position: 39
+Active Line: 55
+Video Position: 7628
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -142,6 +142,17 @@ Dialogue: 0,0:05:00.99,0:05:01.86,Default,,0,0,0,,Sai!
 Dialogue: 0,0:05:02.70,0:05:03.95,Default,,0,0,0,,Are you here?
 Dialogue: 0,0:05:05.20,0:05:05.91,Background,,0,0,0,,Sai!
 Dialogue: 0,0:05:06.12,0:05:17.67,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(551,336)}Japanese Go Institute
+Dialogue: 0,0:05:17.67,0:05:17.71,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(553,337)}Japanese Go Institute
+Dialogue: 0,0:05:17.71,0:05:17.76,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(558,340)}Japanese Go Institute
+Dialogue: 0,0:05:17.76,0:05:17.80,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(565,344)}Japanese Go Institute
+Dialogue: 0,0:05:17.80,0:05:17.84,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(577,351)}Japanese Go Institute
+Dialogue: 0,0:05:17.84,0:05:17.88,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(588,358)}Japanese Go Institute
+Dialogue: 0,0:05:17.88,0:05:17.92,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(602,368)}Japanese Go Institute
+Dialogue: 0,0:05:17.92,0:05:17.96,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(617,378)}Japanese Go Institute
+Dialogue: 0,0:05:17.96,0:05:18.01,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(634,388)}Japanese Go Institute
+Dialogue: 0,0:05:18.01,0:05:18.05,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(651,399)}Japanese Go Institute
+Dialogue: 0,0:05:18.05,0:05:18.09,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(670,410)}Japanese Go Institute
+Dialogue: 0,0:05:18.09,0:05:18.13,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(690.294,422.933)}Japanese Go Institute
 Dialogue: 0,0:05:10.67,0:05:12.83,Thinking,,0,0,0,,So he's not here...
 Dialogue: 0,0:05:13.54,0:05:15.67,Thinking,,0,0,0,,Where the hell did you go?
 Dialogue: 0,0:05:15.92,0:05:18.05,Default,,0,0,0,,Ahh! Why did you disappear all of a sudden?
