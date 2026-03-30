@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 53 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 53 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
+Video Zoom Percent: 0.875000
 Scroll Position: 318
 Active Line: 325
-Video Position: 32124
+Video Position: 32208
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -416,7 +416,7 @@ Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(41
 Dialogue: 0,0:22:10.67,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
-Dialogue: 0,0:22:12.32,0:22:17.66,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(0,334)\3c&H000000&\4c&H000000&\fscx99\fscy85\bord1\shad0.5\frz270\pos(631,340)}Black First\NWhite Dies
+Dialogue: 0,0:22:12.32,0:22:17.66,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(0,334)\3c&H000000&\4c&H000000&\fscx99\fscy85\bord1\shad0.5\frz270\pos(631,341)}Black First\NWhite Dies
 Dialogue: 0,0:22:12.76,0:22:12.97,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF00000&\4c&HF00000&\fscx100\fscy100\bord1\shad0.5\move(670,200,129,200)}Yuuki
 Dialogue: 0,0:22:12.97,0:22:17.66,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,334)\3c&HF00000&\4c&HF00000&\fscx100\fscy100\bord1\shad0.5\pos(129,200)}Yuuki
 Dialogue: 0,0:22:12.79,0:22:12.97,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H147AF3&\4c&H147AF3&\fscx100\fscy100\bord1\shad0.5\move(750,200,332,200)}Teacher Yukari
