@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 237
-Active Line: 256
-Video Position: 34709
+Scroll Position: 174
+Active Line: 189
+Video Position: 27117
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -280,7 +280,14 @@ Dialogue: 0,0:18:32.72,0:18:36.87,Default,,0,0,0,,Man, it was your fault for com
 Dialogue: 0,0:18:41.11,0:18:43.27,Default,,0,0,0,,Wasn't Shuusaku better, Sai?
 Dialogue: 0,0:18:43.98,0:18:47.75,Default,,0,0,0,,Unlike me, Shuusaku let\Nyou play all the games, right?
 Dialogue: 0,0:18:48.15,0:18:50.73,Default,,0,0,0,,Oh wait, you called him Torajirou, right?
-Dialogue: 0,0:18:49.73,0:18:50.73,NoteArial,,0,0,0,,{\fs15\bord0.5\an6\1c&H000000&\3c&HFFFFFF&\frz13\pos(245,205)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:49.73,0:18:50.73,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz13\pos(246,205)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:50.73,0:18:50.86,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz21\pos(235,197)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:50.86,0:18:50.98,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz33\pos(222,183)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:50.98,0:18:51.15,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz51\pos(183,181)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:51.15,0:18:51.23,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz52\pos(209,133)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:51.23,0:18:51.36,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz53\pos(235,82)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:51.36,0:18:51.49,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz53\pos(260,31)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:51.49,0:18:51.65,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz53\pos(311,-62)}The\NHint\Nto Tsumego
 Dialogue: 0,0:18:51.23,0:18:55.19,Thinking,,0,0,0,,I wonder why Torajirou didn't want to play.
 Dialogue: 0,0:18:56.64,0:18:58.46,Default,,0,0,0,,Didn't he want to become a Go player?
 Dialogue: 0,0:18:59.01,0:19:00.33,Default,,0,0,0,,What a boring guy.
