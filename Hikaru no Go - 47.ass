@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 342
-Active Line: 366
-Video Position: 33973
+Scroll Position: 243
+Active Line: 258
+Video Position: 24696
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -205,7 +205,7 @@ Dialogue: 0,0:07:50.32,0:07:52.71,Sai,,0,0,0,,not let me play anymore?
 Dialogue: 0,0:07:51.45,0:07:52.70,Default,,0,0,0,,{\pos(320,375)}That is true, but...
 Dialogue: 0,0:07:52.70,0:07:54.87,Default,,0,0,0,,{\pos(320,375)}Right!? Let's see who becomes 2-dan first!
 Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs37\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz349\pos(302,134)}The 48th Ouza Title Match
-Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs26\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz350\pos(219.645,295.933)}The 23rd graduating class of
+Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs26\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz350\pos(218,298)}The 23rd graduating class of
 Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs32\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz352\pos(374,377)}Koike Jr. High School, Reunion
 Dialogue: 0,0:08:07.50,0:08:10.64,Thinking,,0,0,0,,Ten minutes before the match starts...
 Dialogue: 0,0:08:23.27,0:08:25.57,Default,,0,0,0,,Good morning, Master Zama.
@@ -236,9 +236,9 @@ Dialogue: 0,0:10:05.79,0:10:07.96,Background,,0,0,0,,What is it, Master Kuwabara
 Dialogue: 0,0:10:09.00,0:10:10.76,Default,,0,0,0,,Is there an interesting article?
 Dialogue: 0,0:10:11.59,0:10:14.29,Default,,0,0,0,,The results of the pro exam are on this.
 Dialogue: 0,0:10:14.56,0:10:15.78,Default,,0,0,0,,Pro exam?
-Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz21\pos(461,174)}Ochi Kousuke (13)
-Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(352,402)}Shindou Hikaru (14)
-Dialogue: 0,0:10:15.97,0:10:18.01,NoteArial,,0,0,0,,{\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(524,324)}Waya Yoshitaka (15)
+Dialogue: 0,0:10:15.97,0:10:21.98,NoteArial,,0,0,0,,{\fs15\t(2022,2982,1,\fs25)\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz21\move(462,173,536,8,2022,2982)}Ochi Kousuke (13)
+Dialogue: 0,0:10:15.97,0:10:21.98,NoteArial,,0,0,0,,{\fs15\t(2022,2982,1,\fs25)\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(352,402)}Shindou Hikaru (14)
+Dialogue: 0,0:10:15.97,0:10:21.98,NoteArial,,0,0,0,,{\fs15\t(2022,2982,1,\fs25)\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\move(525,324,634,270,2022,2982)}Waya Yoshitaka (15)
 Dialogue: 0,0:10:16.80,0:10:19.03,Background,,0,0,0,,{\an8}That boy passed...
 Dialogue: 0,0:10:19.35,0:10:21.80,Background,,0,0,0,,{\an8}I see, his name is Shindou.
 Dialogue: 0,0:10:22.62,0:10:24.94,Default,,0,0,0,,Shindou? Who is that?
@@ -349,7 +349,7 @@ Dialogue: 0,0:16:40.52,0:16:42.04,Background,,0,0,0,,It was snowing that day.
 Dialogue: 0,0:16:45.82,0:16:47.21,Default,,0,0,0,,It's my turn now.
 Dialogue: 0,0:16:48.09,0:16:50.79,Default,,0,0,0,,I'm going to begin with this match.
 Dialogue: 0,0:16:53.37,0:16:54.57,Default,,0,0,0,,When the new year comes...
-Dialogue: 0,0:17:05.59,0:17:09.59,NoteArial,,0,0,0,,{\fs30\bord0\1c&H000000&\4c&HFFFFFF&\shad0.5\pos(377,67)\frx0\fry5}T\No\Nu\Ny\Na\N\NK\No\Nu\Ny\No\Nu
+Dialogue: 0,0:17:05.59,0:17:09.59,NoteArial,,0,0,0,,{\fs30\t(0,3980,1,\fs36)\bord0\1c&H000000&\4c&HFFFFFF&\shad0.5\move(377,67,383,40,0,3980)\frx0\fry5}T\No\Nu\Ny\Na\N\NK\No\Nu\Ny\No\Nu
 Dialogue: 0,0:17:06.25,0:17:09.35,Background,,0,0,0,,Sorry for interviewing you during New Years.
 Dialogue: 0,0:17:10.22,0:17:13.14,Background,,0,0,0,,But now that you have your fifth title, Meijin,
 Dialogue: 0,0:17:13.14,0:17:16.38,Background,,0,0,0,,you and Touya are both going to get busier.
