@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 441
-Active Line: 467
-Video Position: 34729
+Scroll Position: 196
+Active Line: 207
+Video Position: 13833
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -287,9 +287,17 @@ Dialogue: 0,0:09:22.09,0:09:25.12,Default,,0,0,0,,Well, I guess he could play\Ni
 Dialogue: 0,0:09:27.19,0:09:29.43,Default,,0,0,0,,It can't be him, though.
 Dialogue: 0,0:09:30.84,0:09:34.30,Default,,0,0,0,,He's in a match. Who is he playing?
 Dialogue: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,{\1c&HD8D8BD&\an7\bord0\shad0\pos(0,0)}{\p1}m 79 94 l 266 93 266 184 78 183{\p0}
-Dialogue: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(205,90)}BLACK
+Dialogue: 0,0:09:34.43,0:09:35.14,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(207,90)}BLACK
 Dialogue: 0,0:09:35.14,0:09:35.55,NoteArial,,0,0,0,,{\1c&HD8D8BD&\an7\bord0\shad0\move(10,0,-250,0}{\p1}m 48 91 l 234 92 235 184 48 183{\p0}
-Dialogue: 0,0:09:35.14,0:09:35.55,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\move(205,90,-155,90)}BLACK
+Dialogue: 0,0:09:35.14,0:09:35.18,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(177,90)}BLACK
+Dialogue: 0,0:09:35.18,0:09:35.22,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(148,90)}BLACK
+Dialogue: 0,0:09:35.22,0:09:35.26,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(115,90)}BLACK
+Dialogue: 0,0:09:35.26,0:09:35.30,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(84,90)}BLACK
+Dialogue: 0,0:09:35.30,0:09:35.35,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(22,90)}BLACK
+Dialogue: 0,0:09:35.35,0:09:35.39,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(-10,90)}BLACK
+Dialogue: 0,0:09:35.39,0:09:35.43,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(-41,90)}BLACK
+Dialogue: 0,0:09:35.43,0:09:35.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(-73,90)}BLACK
+Dialogue: 0,0:09:35.47,0:09:35.51,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(-103,90)}BLACK
 Dialogue: 1,0:09:35.39,0:09:35.43,NoteArial,1,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(725,90)}WHITE
 Dialogue: 0,0:09:35.39,0:09:35.43,NoteArial,1,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(725,90)}WHITE
 Dialogue: 1,0:09:35.43,0:09:35.47,NoteArial,2,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(693,90)}WHITE
