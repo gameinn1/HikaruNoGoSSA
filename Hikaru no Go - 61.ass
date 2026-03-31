@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
+Audio File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
+Video File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 39
-Active Line: 47
-Video Position: 7659
+Scroll Position: 270
+Active Line: 294
+Video Position: 29692
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -138,8 +138,8 @@ Dialogue: 0,0:04:36.21,0:04:39.76,Default,,0,0,0,,It's never happened before in 
 Dialogue: 0,0:04:50.10,0:04:51.27,Default,,0,0,0,,He's not here.
 Dialogue: 0,0:04:51.77,0:04:52.52,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:04:57.11,0:05:01.11,NoteArial,,0,0,0,,{\fad(292,292)}Yuugen (Room of Deep Contemplation) - Check out\Nthe background information shown in the ending.
-Dialogue: 0,0:05:00.99,0:05:01.86,Default,,0,0,0,,Sai!
-Dialogue: 0,0:05:02.70,0:05:03.95,Default,,0,0,0,,Are you here?
+Dialogue: 0,0:05:00.91,0:05:01.74,Default,,0,0,0,,Sai!
+Dialogue: 0,0:05:02.66,0:05:03.87,Default,,0,0,0,,Are you here?
 Dialogue: 0,0:05:05.20,0:05:05.91,Background,,0,0,0,,Sai!
 Dialogue: 0,0:05:06.12,0:05:17.67,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(551,336)}Japanese Go Institute
 Dialogue: 0,0:05:17.67,0:05:17.71,NoteArial,,0,0,0,,{\fs14\1c&H486984&\bord0\shad0\fscy120\frz338\pos(553,337)}Japanese Go Institute
@@ -168,12 +168,12 @@ Dialogue: 0,0:05:58.25,0:06:00.46,Thinking,,0,0,0,,We were playing Go together, 
 Dialogue: 0,0:06:01.42,0:06:03.93,Thinking,,0,0,0,,That was it... we do that all the time...
 Dialogue: 0,0:06:06.64,0:06:10.73,Thinking,,0,0,0,,Oh yeah... the stain had faded a little\Nthe last time we were here...
 Dialogue: 0,0:06:11.52,0:06:15.06,Thinking,,0,0,0,,He said back then that he was going to disappear soon!
-Dialogue: 0,0:06:16.73,0:06:18.69,Thinking,,0,0,0,,What did he mean by that?
-Dialogue: 0,0:06:18.94,0:06:22.45,Thinking,,0,0,0,,He couldn't... he couldn't have... really disappeared?
+Dialogue: 0,0:06:16.69,0:06:18.69,Thinking,,0,0,0,,What did he mean by that?
+Dialogue: 0,0:06:18.94,0:06:22.32,Thinking,,0,0,0,,He couldn't... he couldn't have... really disappeared?
 Dialogue: 0,0:06:23.36,0:06:24.74,Thinking,,0,0,0,,That's impossible!
 Dialogue: 0,0:06:24.99,0:06:27.81,Thinking,,0,0,0,,He wouldn't disappear without saying a word to me!
 Dialogue: 0,0:06:27.95,0:06:31.12,Thinking,,0,0,0,,Sai and I were always together!
-Dialogue: 0,0:06:36.00,0:06:38.88,Default,,0,0,0,,Hikaru, what are you up to?
+Dialogue: 0,0:06:35.96,0:06:38.88,Default,,0,0,0,,Hikaru, what are you up to?
 Dialogue: 0,0:06:39.34,0:06:42.30,Default,,0,0,0,,A ghost's going to haunt you\Nif you stay in there too long.
 Dialogue: 0,0:06:42.51,0:06:44.01,Default,,0,0,0,,I want one to haunt me!
 Dialogue: 0,0:06:44.47,0:06:45.26,Default,,0,0,0,,Huh?
@@ -196,25 +196,25 @@ Dialogue: 0,0:07:56.83,0:08:01.29,Default,,0,0,0,,It's never happened before, bu
 Dialogue: 0,0:08:04.00,0:08:06.55,Background,,0,0,0,,He was in a bad mood lately, too.
 Dialogue: 0,0:08:07.13,0:08:11.30,Background,,0,0,0,,He probably flew off somewhere\Nfor a change of pace...
 Dialogue: 0,0:08:15.10,0:08:17.48,Default,,0,0,0,,Did he... know how to fly?
-Dialogue: 0,0:08:20.23,0:08:22.02,Default,,0,0,0,,He must have learned how to!
-Dialogue: 0,0:08:22.06,0:08:23.98,Default,,0,0,0,,He just went somewhere for fun!
+Dialogue: 0,0:08:20.23,0:08:21.98,Default,,0,0,0,,He must have learned how to!
+Dialogue: 0,0:08:22.11,0:08:23.98,Default,,0,0,0,,He just went somewhere for fun!
 Dialogue: 0,0:08:24.23,0:08:26.49,Default,,0,0,0,,Man, where did he go?
 Dialogue: 0,0:08:32.83,0:08:33.99,Background,,0,0,0,,Hello?
 Dialogue: 0,0:08:35.16,0:08:36.08,Default,,0,0,0,,Oh, Hikaru?
 Dialogue: 0,0:08:36.45,0:08:39.08,Default,,0,0,0,,What's wrong with you? Why did you go home?
 Dialogue: 0,0:08:39.37,0:08:41.38,Default,,0,0,0,,You came all the way, you should\Nhave played a game!
-Dialogue: 0,0:08:42.92,0:08:43.50,Default,,0,0,0,,Huh?
+Dialogue: 0,0:08:42.88,0:08:43.42,Default,,0,0,0,,Huh?
 Dialogue: 0,0:08:43.96,0:08:44.88,Default,,0,0,0,,What?
 Dialogue: 0,0:08:44.88,0:08:47.34,Default,,0,0,0,,What kind of places do ghosts like?
-Dialogue: 0,0:08:47.47,0:08:49.55,Background,,0,0,0,,How am I supposed to know!?
+Dialogue: 0,0:08:47.51,0:08:49.51,Background,,0,0,0,,How am I supposed to know!?
 Dialogue: 0,0:08:50.38,0:08:53.35,Default,,0,0,0,,Come on, tell me!
 Dialogue: 0,0:08:54.43,0:08:56.35,Default,,0,0,0,,Why do you want to know?
 Dialogue: 0,0:08:56.68,0:08:58.48,Default,,0,0,0,,Like his own grave?
 Dialogue: 0,0:08:59.02,0:09:00.69,Default,,0,0,0,,Or places he has fond memories of?
 Dialogue: 0,0:09:02.40,0:09:05.11,Thinking,,0,0,0,,He doesn't have a grave... does he?
 Dialogue: 0,0:09:06.07,0:09:07.57,Thinking,,0,0,0,,A place he has fond memories of...
-Dialogue: 0,0:09:08.36,0:09:10.57,Default,,0,0,0,,Okay, thank a lot, I think I figured it out.
-Dialogue: 0,0:09:10.53,0:09:12.28,Background,,0,0,0,,Oh! Hey! Hikaru!
+Dialogue: 0,0:09:08.36,0:09:10.57,Default,,0,0,0,,Okay, thanks a lot, I think I figured it out.
+Dialogue: 0,0:09:10.57,0:09:12.28,Background,,0,0,0,,Oh! Hey! Hikaru!
 Dialogue: 0,0:09:14.12,0:09:16.49,Thinking,,0,0,0,,He wasn't in the shed where we first met...
 Dialogue: 0,0:09:17.79,0:09:20.62,Thinking,,0,0,0,,I guess it's not somewhere he has memories with me.
 Dialogue: 0,0:09:21.96,0:09:22.67,Default,,0,0,0,,Torajirou!
@@ -232,16 +232,16 @@ Dialogue: 0,0:10:01.58,0:10:03.11,Thinking,,0,0,0,,I'll find you no matter what.
 Dialogue: 0,0:10:03.58,0:10:07.21,Thinking,,0,0,0,,I won't let you just disappear all of a sudden!
 Dialogue: 0,0:10:07.67,0:10:09.38,Thinking,,0,0,0,,I won't, you hear me Sai!?
 Dialogue: 0,0:10:19.14,0:10:20.06,Background,,0,0,0,,But...
-Dialogue: 0,0:10:21.14,0:10:22.89,Default,,0,0,0,,Innoshima...
+Dialogue: 0,0:10:21.18,0:10:22.89,Default,,0,0,0,,Innoshima...
 Dialogue: 0,0:10:23.23,0:10:25.60,Default,,0,0,0,,Can I make it back today?
 Dialogue: 0,0:10:27.40,0:10:28.86,Default,,0,0,0,,Well... but...
 Dialogue: 0,0:10:29.48,0:10:31.24,Default,,0,0,0,,I may find some leads,
 Dialogue: 0,0:10:31.24,0:10:33.53,Default,,0,0,0,,as to where Sai went.
 Dialogue: 0,0:10:36.41,0:10:37.99,Default,,0,0,0,,Hey! Where are you going?
-Dialogue: 0,0:10:38.58,0:10:39.74,Default,,0,0,0,,Want a ride?
-Dialogue: 0,0:10:39.83,0:10:40.91,Default,,0,0,0,,Kawai-san!
+Dialogue: 0,0:10:38.53,0:10:39.74,Default,,0,0,0,,Want a ride?
+Dialogue: 0,0:10:39.87,0:10:40.91,Default,,0,0,0,,Kawai-san!
 Dialogue: 0,0:10:43.00,0:10:44.42,Background,,0,0,0,,Tokyo station?
-Dialogue: 0,0:10:44.67,0:10:46.75,Background,,0,0,0,,You're taking a trip somewhere?
+Dialogue: 0,0:10:44.62,0:10:46.71,Background,,0,0,0,,You're taking a trip somewhere?
 Dialogue: 0,0:10:47.59,0:10:52.17,Default,,0,0,0,,And, isn't Innoshima where Honinbou\NShuusaku was born?
 Dialogue: 0,0:10:52.88,0:10:56.01,Background,,0,0,0,,That would be fun... I wish I could go, too.
 Dialogue: 0,0:10:56.59,0:10:59.64,Background,,0,0,0,,I was really busy during Golden week this year...
@@ -250,18 +250,18 @@ Dialogue: 0,0:11:00.47,0:11:01.68,Default,,0,0,0,,Okay! That's it!
 Dialogue: 0,0:11:02.27,0:11:04.89,Default,,0,0,0,,I'm gonna drop this car off at the office.
 Dialogue: 0,0:11:05.27,0:11:06.65,Default,,0,0,0,,W-What?
 Dialogue: 0,0:11:07.35,0:11:09.77,Default,,0,0,0,,I said, I'll go with you.
-Dialogue: 0,0:11:18.78,0:11:22.24,Default,,0,0,0,,Man, Mount Fuji looks so beautiful today.
+Dialogue: 0,0:11:18.78,0:11:22.24,Default,,0,0,0,,Man, Mount Fuji looks beautiful today.
 Dialogue: 0,0:11:22.24,0:11:24.54,Default,,0,0,0,,Kawai-san could you keep your voice down?
-Dialogue: 0,0:11:27.00,0:11:31.63,Default,,0,0,0,,You idiot! You have to make the\Nmost out of vacation trips.
+Dialogue: 0,0:11:27.00,0:11:31.59,Default,,0,0,0,,You idiot! You have to make the\Nmost out of vacation trips.
 Dialogue: 0,0:11:31.59,0:11:33.67,Default,,0,0,0,,But you're just tagging along...
 Dialogue: 0,0:11:38.09,0:11:41.22,Default,,0,0,0,,We have to get on a bus to Innoshima from here.
-Dialogue: 0,0:11:41.18,0:11:44.14,Default,,0,0,0,,Oh! That bus! It says it's to Innoshima!
+Dialogue: 0,0:11:41.22,0:11:44.14,Default,,0,0,0,,Oh! That bus! It says it's to Innoshima!
 Dialogue: 0,0:11:44.81,0:11:46.85,Background,,0,0,0,,It's that bus! Hurry!
-Dialogue: 0,0:11:47.52,0:11:48.27,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:11:47.52,0:11:48.19,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:11:48.40,0:11:51.86,Default,,0,0,0,,H-Hey! Man... why do kids always have to run?
-Dialogue: 0,0:12:00.91,0:12:02.33,Background,,0,0,0,,We're crossing the sea?
-Dialogue: 0,0:12:02.28,0:12:05.58,Background,,0,0,0,,Of course! It's the ISLAND Innoshima, ISLAND.
-Dialogue: 0,0:12:05.79,0:12:08.90,Background,,0,0,0,,Don't worry, it's not supposed\Nto be that long of a trip.
+Dialogue: 0,0:12:00.95,0:12:02.28,Background,,0,0,0,,We're crossing the sea?
+Dialogue: 0,0:12:02.28,0:12:05.54,Background,,0,0,0,,Of course! It's the ISLAND Innoshima, ISLAND.
+Dialogue: 0,0:12:05.79,0:12:08.96,Background,,0,0,0,,Don't worry, it's not supposed\Nto be that long of a trip.
 Dialogue: 0,0:12:09.79,0:12:14.59,Background,,0,0,0,,It says the Shuusaku Memorial Museum is a 15\N minute walk away after we get off the bus.
 Dialogue: 0,0:12:15.01,0:12:17.01,Background,,0,0,0,,Shuusaku Memorial Museum?
 Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\1c&HF8F1EB&\an7\bord0\blur0\shad0\pos(0,0)}{\p1}m 215 72 l 451 72 451 103 215 104{\p0}
@@ -272,109 +272,110 @@ Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs32.5\1c&H000000&\fscx100
 Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs33.5\1c&H000000&\fscx100\fscy90\bord0\blur1\shad0\pos(419,145)}SHUUSAKU
 Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\an4\fs13.5\1c&H000000&\fscx100\fscy140\bord0\blur1\shad0\pos(107,287)}He was born in Gaikaichou of Innoshima in 1829 under the name Torajirou.\NBorn with a passion for Go, just like his mother. he became the top player\Nin the area by the time he was six. In 1841 he changed his name to Shuusaku,\Nrose by one dan in strength every year, and became 4-dan by the time he\Nwas 15. When Shuusaku became 20, he was decided to become the succesor\Nof the Honinbou family, and received the 6-dan title and married Honinbou\NJouwa's daughter Tachibana. In 1848 he entered the castle to play go, and\Nmade a never before seen record of 19 straight wins. But he died at the age\Nof 34 in the year 1862 when there was a Cholera epidemic in Edo.
 Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs18\1c&H000000&\blur1\fscx100\fscy75\bord0\shad0\pos(476,406)}Hiroshima\NPrefecture
-Dialogue: 0,0:12:17.22,0:12:21.04,Background,,0,0,0,,Yup, yup. It's the remains of the\Nhouse Shuusaku was born in.
+Dialogue: 0,0:12:17.26,0:12:21.04,Background,,0,0,0,,Yup, yup. It's the remains of the\Nhouse Shuusaku was born in.
 Dialogue: 0,0:12:21.22,0:12:23.60,Background,,0,0,0,,Isn't that the kind of place you wanted to go to?
 Dialogue: 0,0:12:24.01,0:12:33.97,bannersign,,0,0,0,,{\blur1.2\fscx101\fscy110\an4\fs26\frz271.8\move(316,114,316,-425,16,9943)\c&H9B66DA&}THE TOP {\fscx116}GO GO{\fsp2}D OF
 Dialogue: 0,0:12:24.01,0:12:34.02,bannersign,,0,0,0,,{\blur1.2\fscy110\an4\fs26\frz271.8\fscx125\fsp2\move(328,482,327.84,-60,0,0)\c&H9B66DA&}JAPAN
 Dialogue: 0,0:12:24.01,0:12:34.02,bannersign,,0,0,0,,{\blur1.2\fscx131\fscy90\fs32\an4\frz270\move(236,459,236,-81,16,9993)\c&H60504A&}HONINBOU SHUUSAKU
-Dialogue: 0,0:12:25.27,0:12:27.18,Thinking,,0,0,0,,A Memorial Museum...
+Dialogue: 0,0:12:25.22,0:12:27.02,Thinking,,0,0,0,,A Memorial Museum...
 Dialogue: 0,0:12:27.52,0:12:30.02,Thinking,,0,0,0,,Would Sai go to a place like that?
 Dialogue: 0,0:12:30.48,0:12:34.02,Thinking,,0,0,0,,I have a feeling that he wouldn't\Nbe very comfortable there...
-Dialogue: 0,0:12:34.73,0:12:36.31,Default,,0,0,0,,This is it! This is it!
-Dialogue: 0,0:12:36.28,0:12:39.03,Default,,0,0,0,,Are you as excited as I am?
-Dialogue: 0,0:12:39.82,0:12:41.62,Thinking,,0,0,0,,Sai! Are you here?
-Dialogue: 0,0:12:41.99,0:12:44.24,Default,,0,0,0,,They said the memorial museum\Nis towards the back.
+Dialogue: 0,0:12:34.73,0:12:36.24,Default,,0,0,0,,This is it! This is it!
+Dialogue: 0,0:12:36.24,0:12:39.03,Default,,0,0,0,,Are you as excited as I am?
+Dialogue: 0,0:12:39.82,0:12:41.57,Thinking,,0,0,0,,Sai! Are you here?
+Dialogue: 0,0:12:41.91,0:12:44.16,Default,,0,0,0,,They said the memorial museum\Nis towards the back.
+Dialogue: 0,0:12:45.04,0:12:49.75,NoteArial,,0,0,0,,{\fs17.5\blur0.5\1c&H6F6559&\4c&HFFFFFF&\fscx100\fscy190\bord0\shad1.5\pos(416,-19)}GRAVE\N\NOF THE\N\NHONINBOU
 Dialogue: 0,0:12:46.33,0:12:47.00,Default,,0,0,0,,Sai!
 Dialogue: 0,0:12:48.33,0:12:49.75,Thinking,,0,0,0,,Stop hiding!
-Dialogue: 0,0:12:51.33,0:12:52.50,Default,,0,0,0,,He's not here?
+Dialogue: 0,0:12:51.29,0:12:52.50,Default,,0,0,0,,He's not here?
 Dialogue: 0,0:12:53.50,0:12:54.46,Thinking,,0,0,0,,Sai?
-Dialogue: 0,0:12:58.97,0:13:01.72,Default,,0,0,0,,I guess he isn't here...
-Dialogue: 0,0:13:01.84,0:13:05.51,Background,,0,0,0,,Hey! What are you doing over there? It's this way!
-Dialogue: 0,0:13:06.68,0:13:08.60,Default,,0,0,0,,Were you praying or something?
-Dialogue: 0,0:13:14.40,0:13:15.36,Thinking,,0,0,0,,Sai...
+Dialogue: 0,0:12:58.97,0:13:01.68,Default,,0,0,0,,I guess he isn't here...
+Dialogue: 0,0:13:01.89,0:13:05.51,Background,,0,0,0,,Hey! What are you doing over there? It's this way!
+Dialogue: 0,0:13:06.72,0:13:08.60,Default,,0,0,0,,Were you praying or something?
+Dialogue: 0,0:13:14.36,0:13:15.36,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:13:29.46,0:13:31.50,Thinking,,0,0,0,,He's not here after all...
-Dialogue: 0,0:13:32.33,0:13:35.54,Background,,0,0,0,,Oh! Wow! They have Go boards, too!
-Dialogue: 0,0:13:40.22,0:13:43.34,Default,,0,0,0,,Is this... a Go board Torajirou used to play on?
-Dialogue: 0,0:13:43.80,0:13:45.10,Default,,0,0,0,,Torajirou?
-Dialogue: 0,0:13:45.05,0:13:47.10,Default,,0,0,0,,It's Master Shuusaku's childhood name.
+Dialogue: 0,0:13:32.33,0:13:35.50,Background,,0,0,0,,Oh! Wow! They have Go boards, too!
+Dialogue: 0,0:13:40.17,0:13:43.34,Default,,0,0,0,,Is this... a Go board Torajirou used to play on?
+Dialogue: 0,0:13:43.80,0:13:45.05,Default,,0,0,0,,Torajirou?
+Dialogue: 0,0:13:45.05,0:13:47.06,Default,,0,0,0,,It's Master Shuusaku's childhood name.
 Dialogue: 0,0:13:47.31,0:13:50.23,Default,,0,0,0,,Yes, this is the board he used when\Nhe played with his mother.
-Dialogue: 0,0:13:51.48,0:13:52.14,Thinking,,0,0,0,,Sai!
-Dialogue: 0,0:13:52.85,0:13:53.60,Thinking,,0,0,0,,Sai!
-Dialogue: 0,0:13:54.40,0:13:55.86,Thinking,,0,0,0,,Can you hear me?
-Dialogue: 0,0:13:58.03,0:13:59.05,Thinking,,0,0,0,,Sai!
-Dialogue: 0,0:14:04.03,0:14:07.20,Default,,0,0,0,,Master Shuusaku's grave is over there.
-Dialogue: 0,0:14:09.04,0:14:11.91,Default,,0,0,0,,Oh! Hey! You! Quit running already!
+Dialogue: 0,0:13:51.52,0:13:52.14,Thinking,,0,0,0,,Sai!
+Dialogue: 0,0:13:52.90,0:13:53.60,Thinking,,0,0,0,,Sai!
+Dialogue: 0,0:13:54.35,0:13:55.86,Thinking,,0,0,0,,Can you hear me?
+Dialogue: 0,0:13:57.98,0:13:59.03,Thinking,,0,0,0,,Sai!
+Dialogue: 0,0:14:03.99,0:14:07.12,Default,,0,0,0,,Master Shuusaku's grave is over there.
+Dialogue: 0,0:14:08.99,0:14:11.91,Default,,0,0,0,,Oh! Hey! You! Quit running already!
 Dialogue: 0,0:14:12.75,0:14:15.17,Default,,0,0,0,,Ahh... this is why I hate kids.
-Dialogue: 0,0:14:15.88,0:14:20.46,Default,,0,0,0,,You see, he's a pro player who\Njust became first dan this year.
-Dialogue: 0,0:14:20.51,0:14:21.92,Default,,0,0,0,,Wow, that's incredible.
-Dialogue: 0,0:14:22.38,0:14:27.20,Background,,0,0,0,,And he said he wanted to go to where Master\NShuusaku was born, so here we are.
-Dialogue: 0,0:14:27.55,0:14:30.06,Background,,0,0,0,,I brought him here.
-Dialogue: 0,0:14:31.31,0:14:32.02,Thinking,,0,0,0,,Sai!
-Dialogue: 0,0:14:33.48,0:14:37.40,Background,,0,0,0,,I'm sure Master Shuusaku would\Nbe happy to hear that.
-Dialogue: 0,0:14:34.35,0:14:34.90,Thinking,,0,0,0,,Sai!
-Dialogue: 0,0:14:36.77,0:14:37.44,Thinking,,0,0,0,,Sai?
+Dialogue: 0,0:14:15.79,0:14:20.34,Default,,0,0,0,,You see, he's a pro player who\Njust became first dan this year.
+Dialogue: 0,0:14:20.46,0:14:21.92,Default,,0,0,0,,Wow, that's incredible.
+Dialogue: 0,0:14:22.38,0:14:27.14,Background,,0,0,0,,And he said he wanted to go to where Master\NShuusaku was born, so here we are.
+Dialogue: 0,0:14:27.60,0:14:30.06,Background,,0,0,0,,I brought him here.
+Dialogue: 0,0:14:31.31,0:14:31.98,Thinking,,0,0,0,,Sai!
+Dialogue: 0,0:14:33.52,0:14:37.36,Background,,0,0,0,,I'm sure Master Shuusaku would\Nbe happy to hear that.
+Dialogue: 0,0:14:34.35,0:14:34.85,Thinking,,0,0,0,,Sai!
+Dialogue: 0,0:14:36.77,0:14:37.40,Thinking,,0,0,0,,Sai?
 Dialogue: 0,0:14:44.57,0:14:45.53,Thinking,,0,0,0,,This is it...
 Dialogue: 0,0:15:11.85,0:15:12.60,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:15:13.81,0:15:16.60,Thinking,,0,0,0,,Where did you go...
-Dialogue: 0,0:15:17.69,0:15:21.12,Thinking,,0,0,0,,I... have no idea what's going on anymore...
+Dialogue: 0,0:15:17.65,0:15:21.12,Thinking,,0,0,0,,I... have no idea what's going on anymore...
 Dialogue: 0,0:15:33.54,0:15:35.46,Thinking,,0,0,0,,There's no use in getting dejected...
-Dialogue: 0,0:15:36.12,0:15:37.58,Default,,0,0,0,,I've got to look for him.
+Dialogue: 0,0:15:36.12,0:15:37.58,Thinking,,0,0,0,,I've got to look for him.
 Dialogue: 0,0:15:53.56,0:15:56.98,Thinking,,0,0,0,,I guess he's not here after all...
 Dialogue: 0,0:15:58.19,0:16:00.48,Thinking,,0,0,0,,Where did you go?
 Dialogue: 0,0:16:04.78,0:16:06.90,Thinking,,0,0,0,,I came all this way looking for you...
 Dialogue: 0,0:16:07.95,0:16:10.82,Thinking,,0,0,0,,Hey, Sai! Please! Say something!
 Dialogue: 0,0:16:11.37,0:16:12.66,Thinking,,0,0,0,,You can hear me, right?
-Dialogue: 0,0:16:16.62,0:16:19.25,Background,,0,0,0,,You sure took a long time visiting the graves.
-Dialogue: 0,0:16:19.25,0:16:22.71,Background,,0,0,0,,I had no idea you looked up to Shuusaku so much.
-Dialogue: 0,0:16:22.71,0:16:24.00,Background,,0,0,0,,It's not like that.
-Dialogue: 0,0:16:24.00,0:16:25.84,Background,,0,0,0,,Don't deny it.
-Dialogue: 0,0:16:25.84,0:16:29.34,Background,,0,0,0,,I've already decided on where to go next for you.
-Dialogue: 0,0:16:29.34,0:16:30.14,Background,,0,0,0,,What?
+Dialogue: 0,0:16:16.62,0:16:19.21,Background,,0,0,0,,You sure took a long time visiting the graves.
+Dialogue: 0,0:16:19.21,0:16:22.71,Background,,0,0,0,,I had no idea you looked up to Shuusaku so much.
+Dialogue: 0,0:16:22.71,0:16:23.96,Background,,0,0,0,,It's not like that.
+Dialogue: 0,0:16:23.96,0:16:25.76,Background,,0,0,0,,Don't deny it.
+Dialogue: 0,0:16:25.76,0:16:29.30,Background,,0,0,0,,I've already decided on where to go next for you.
+Dialogue: 0,0:16:29.30,0:16:30.14,Background,,0,0,0,,What?
 Dialogue: 0,0:16:30.47,0:16:32.35,Background,,0,0,0,,Housenji temple in Takehara.
-Dialogue: 0,0:16:32.93,0:16:35.18,Background,,0,0,0,,The lady at the Memorial Museum told me about it.
+Dialogue: 0,0:16:32.89,0:16:35.18,Background,,0,0,0,,The lady at the Memorial Museum told me about it.
 Dialogue: 0,0:16:35.60,0:16:38.23,Background,,0,0,0,,She said Shuusaku played Go there.
-Dialogue: 0,0:16:42.69,0:16:45.65,Default,,0,0,0,,That was the Go board they used at the time,
-Dialogue: 0,0:16:45.61,0:16:47.57,Default,,0,0,0,,and these are the stones.
-Dialogue: 0,0:16:49.24,0:16:52.07,Default,,0,0,0,,I can't believe we actually get to see them like this.
+Dialogue: 0,0:16:42.69,0:16:45.61,Default,,0,0,0,,That was the Go board they used at the time,
+Dialogue: 0,0:16:45.61,0:16:47.53,Default,,0,0,0,,and these are the stones.
+Dialogue: 0,0:16:49.24,0:16:52.03,Default,,0,0,0,,I can't believe we actually get to see them like this.
 Dialogue: 0,0:16:56.91,0:17:03.04,Thinking,,0,0,0,,He came here with Torajirou a long time ago...
-Dialogue: 0,0:17:06.38,0:17:08.88,Default,,0,0,0,,It is important to preserve them,
-Dialogue: 0,0:17:09.17,0:17:13.72,Default,,0,0,0,,but I think it's also important to let the\Npeople who want to see it, see it.
+Dialogue: 0,0:17:06.34,0:17:08.84,Default,,0,0,0,,It is important to preserve them,
+Dialogue: 0,0:17:09.13,0:17:13.72,Default,,0,0,0,,but I think it's also important to let the\Npeople who want to see it, see it.
 Dialogue: 0,0:17:14.10,0:17:16.26,Default,,0,0,0,,Excuse me for a second.
-Dialogue: 0,0:17:18.31,0:17:21.98,Default,,0,0,0,,Ahh! The guys at the Go Salon\Nare going to be so jealous!
-Dialogue: 0,0:17:23.02,0:17:23.81,Thinking,,0,0,0,,Sai...
-Dialogue: 0,0:17:25.82,0:17:26.57,Default,,0,0,0,,Sai!
-Dialogue: 0,0:17:28.65,0:17:29.78,Thinking,,0,0,0,,He isn't here...
-Dialogue: 0,0:17:30.99,0:17:32.32,Thinking,,0,0,0,,Why, Sai?
+Dialogue: 0,0:17:18.27,0:17:21.90,Default,,0,0,0,,Ahh! The guys at the Go Salon\Nare going to be so jealous!
+Dialogue: 0,0:17:23.02,0:17:23.73,Thinking,,0,0,0,,Sai...
+Dialogue: 0,0:17:25.82,0:17:26.53,Thinking,,0,0,0,,Sai!
+Dialogue: 0,0:17:28.65,0:17:29.74,Thinking,,0,0,0,,He isn't here...
+Dialogue: 0,0:17:30.90,0:17:32.32,Thinking,,0,0,0,,Why, Sai?
 Dialogue: 0,0:17:33.12,0:17:37.20,Thinking,,0,0,0,,Didn't you want to come to where Torajirou was?
 Dialogue: 0,0:17:41.46,0:17:43.54,Default,,0,0,0,,Go home!? You've got to be kidding!
 Dialogue: 0,0:17:44.00,0:17:48.01,Default,,0,0,0,,Going to and back from Hiroshima to Tokyo\Nin a day!? And this late at night!?
 Dialogue: 0,0:17:48.30,0:17:52.22,Default,,0,0,0,,I'm going home! I told my mom\Nthat I'm only going out for a bit.
 Dialogue: 0,0:17:52.76,0:17:54.55,Default,,0,0,0,,And I have school tomorrow...
-Dialogue: 0,0:17:55.01,0:17:57.15,Default,,0,0,0,,Go home alone then!
-Dialogue: 0,0:17:57.10,0:17:59.31,Default,,0,0,0,,I'm going to sight see tomorrow, too!
-Dialogue: 0,0:17:59.64,0:18:01.39,Default,,0,0,0,,What!? There's more!?
+Dialogue: 0,0:17:55.01,0:17:57.10,Default,,0,0,0,,Go home alone then!
+Dialogue: 0,0:17:57.10,0:17:59.31,Default,,0,0,0,,I'm going sight seeing tomorrow, too!
+Dialogue: 0,0:17:59.64,0:18:01.35,Default,,0,0,0,,What!? There's more!?
 Dialogue: 0,0:18:01.44,0:18:05.40,Default,,0,0,0,,The guy at the last site told\Nme about two more places.
 Dialogue: 0,0:18:05.73,0:18:06.86,Default,,0,0,0,,I'll go!
-Dialogue: 0,0:18:08.03,0:18:10.36,Default,,0,0,0,,But... I don't have the money to stay overnight...
-Dialogue: 0,0:18:10.32,0:18:12.32,Default,,0,0,0,,Aw man... I'll lend it to you.
+Dialogue: 0,0:18:08.03,0:18:10.28,Default,,0,0,0,,But... I don't have the money to stay overnight...
+Dialogue: 0,0:18:10.28,0:18:12.32,Default,,0,0,0,,Aw man... I'll lend it to you.
 Dialogue: 0,0:18:12.65,0:18:14.53,Background,,0,0,0,,Wait! I've got to call home!
 Dialogue: 0,0:18:14.70,0:18:16.87,Background,,0,0,0,,Hey! The phones over here.
-Dialogue: 0,0:18:30.42,0:18:33.38,ed64_romaji,,0,0,0,,{\fs23\1c&H625B5E&\bord0\blur1\shad0\frz358\pos(408,173)}Okonomiyaki
-Dialogue: 0,0:18:39.06,0:18:41.39,Default,,0,0,0,,What's wrong? Eat up already.
-Dialogue: 0,0:18:43.31,0:18:46.10,Default,,0,0,0,,We visited both places this morning.
-Dialogue: 0,0:18:46.73,0:18:48.69,Default,,0,0,0,,You can't not be hungry.
-Dialogue: 0,0:18:51.49,0:18:55.32,Default,,0,0,0,,Fine, take your time eating lunch.
-Dialogue: 0,0:18:56.20,0:18:57.32,Default,,0,0,0,,Where are you going?
-Dialogue: 0,0:18:57.32,0:18:59.66,Default,,0,0,0,,Didn't you see the Go salon?
+Dialogue: 0,0:18:30.42,0:18:33.38,ed64_romaji,,0,0,0,,{\fs23\1c&H625B5E&\bord0\blur0.5\shad0\frz358\pos(408,173)}Okonomiyaki
+Dialogue: 0,0:18:39.01,0:18:41.31,Default,,0,0,0,,What's wrong? Eat up already.
+Dialogue: 0,0:18:43.31,0:18:46.06,Default,,0,0,0,,We visited both places this morning.
+Dialogue: 0,0:18:46.69,0:18:48.69,Default,,0,0,0,,You can't not be hungry.
+Dialogue: 0,0:18:51.49,0:18:55.28,Default,,0,0,0,,Fine, take your time eating lunch.
+Dialogue: 0,0:18:56.20,0:18:57.28,Default,,0,0,0,,Where are you going?
+Dialogue: 0,0:18:57.28,0:18:59.66,Default,,0,0,0,,Didn't you see the Go salon?
 Dialogue: 0,0:18:59.66,0:19:00.99,NoteArial,,0,0,0,,{\fs55\fscy45\1a&HFF&\3c&HFFFFFF&\3a&H95&\4c&HFFFFFF&\bord2\blur1\shad1\pos(322,317)}GO IGO CLUB
-Dialogue: 0,0:19:00.33,0:19:02.83,Background,,0,0,0,,I'll go play the guys over there for a bit.
+Dialogue: 0,0:19:00.29,0:19:02.75,Background,,0,0,0,,I'll go play the guys over there for a bit.
 Dialogue: 0,0:19:03.04,0:19:04.66,Default,,0,0,0,,I'll pay for the bill here.
 Dialogue: 0,0:19:05.34,0:19:07.38,Default,,0,0,0,,Come pick me up when you're done.
 Dialogue: 0,0:19:15.05,0:19:15.97,Default,,0,0,0,,Sai...
 Dialogue: 0,0:19:33.69,0:19:36.74,Thinking,,0,0,0,,He was nowhere to be found, after all...
 Dialogue: 0,0:19:37.57,0:19:39.99,Thinking,,0,0,0,,I haven't seen him today or yesterday...
-Dialogue: 0,0:19:43.20,0:19:45.04,Thinking,,0,0,0,,I guess I'll go back to Tokyo already,
-Dialogue: 0,0:19:45.59,0:19:47.29,Thinking,,0,0,0,,if he's not over here.
+Dialogue: 0,0:19:43.16,0:19:45.04,Thinking,,0,0,0,,I guess I'll go back to Tokyo already,
+Dialogue: 0,0:19:45.54,0:19:47.29,Thinking,,0,0,0,,if he's not over here.
 Dialogue: 0,0:19:52.84,0:19:53.84,Thinking,,0,0,0,,Yeah!
 Dialogue: 0,0:19:54.34,0:19:57.59,Thinking,,0,0,0,,He just might be back in my room when I get back!
 Dialogue: 0,0:19:59.76,0:20:01.35,Thinking,,0,0,0,,If I see Sai at home,
@@ -382,13 +383,13 @@ Dialogue: 0,0:20:01.98,0:20:05.60,Thinking,,0,0,0,,then, someday, we'll come bac
 Dialogue: 0,0:20:06.24,0:20:09.48,Thinking,,0,0,0,,I'm sure he'd be ecstatic if I took him around here.
 Dialogue: 0,0:20:11.73,0:20:13.69,NoteArial,,0,0,0,,{\fs55\fscy45\1a&HFF&\3c&HFFFFFF&\3a&H95&\4c&HFFFFFF&\bord2\blur1\shad1\pos(322,317)}GO IGO CLUB
 Dialogue: 0,0:20:14.61,0:20:18.45,Background,,0,0,0,,I feel bad for Kawai-san, but\NI'll drag him back to Tokyo.
-Dialogue: 0,0:20:19.99,0:20:21.03,Default,,0,0,0,,Kawai-san...
-Dialogue: 0,0:20:21.03,0:20:22.58,Background,,0,0,0,,What!?
-Dialogue: 0,0:20:23.87,0:20:26.87,Default,,0,0,0,,Cut the crap already.
-Dialogue: 0,0:20:26.87,0:20:30.08,Default,,0,0,0,,You're the one that suggested it.
-Dialogue: 0,0:20:30.38,0:20:31.46,Default,,0,0,0,,What!?
-Dialogue: 0,0:20:32.00,0:20:34.21,Default,,0,0,0,,You're the one that lost.
-Dialogue: 0,0:20:35.55,0:20:36.67,Background,,0,0,0,,Kawai-san...
+Dialogue: 0,0:20:19.99,0:20:20.99,Default,,0,0,0,,Kawai-san...
+Dialogue: 0,0:20:20.99,0:20:22.62,Background,,0,0,0,,What!?
+Dialogue: 0,0:20:23.87,0:20:26.83,Default,,0,0,0,,Cut the crap already.
+Dialogue: 0,0:20:26.83,0:20:30.08,Default,,0,0,0,,You're the one that suggested it.
+Dialogue: 0,0:20:30.33,0:20:31.42,Default,,0,0,0,,What!?
+Dialogue: 0,0:20:31.96,0:20:34.21,Default,,0,0,0,,You're the one that lost.
+Dialogue: 0,0:20:35.51,0:20:36.59,Background,,0,0,0,,Kawai-san...
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.1\t(50,162,1,\1a&H00&\4a&H50&)}e
