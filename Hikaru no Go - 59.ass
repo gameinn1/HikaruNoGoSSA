@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 275
-Active Line: 280
-Video Position: 32131
+Video Zoom Percent: 0.500000
+Scroll Position: 38
+Active Line: 43
+Video Position: 6533
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -134,7 +134,51 @@ Dialogue: 0,0:04:12.57,0:04:15.19,Default,,0,0,0,,You see, my wife's family is\N
 Dialogue: 0,0:04:15.19,0:04:15.69,Default,,0,0,0,,and...
 Dialogue: 0,0:04:16.94,0:04:21.32,Default,,0,0,0,,Really, you're such a selfish man, Touya Kouyou.
 Dialogue: 0,0:04:22.24,0:04:28.58,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.5\shad0.5\fs19\fad(1460,0)\pos(318,365)}Nagoya
-Dialogue: 0,0:04:28.58,0:04:29.62,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy60\frz17\i1\pos(282,250)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:28.58,0:04:29.62,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,248)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:29.62,0:04:29.67,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,247.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:29.67,0:04:29.71,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,246.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:29.71,0:04:29.75,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,245)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:29.75,0:04:29.79,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,243.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:29.79,0:04:29.83,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,241.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:29.83,0:04:29.87,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,238)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:29.87,0:04:29.92,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,236)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:29.92,0:04:29.96,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,232.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:29.96,0:04:30.00,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,228)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.00,0:04:30.04,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,223)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.04,0:04:30.08,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,219)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.08,0:04:30.12,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,213.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.12,0:04:30.17,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,207)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.17,0:04:30.21,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,202)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.21,0:04:30.25,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,196)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.25,0:04:30.29,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,189)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.29,0:04:30.33,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,181.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.33,0:04:30.37,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,175.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.37,0:04:30.42,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,167.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.42,0:04:30.46,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,161)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.46,0:04:30.50,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,153)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.50,0:04:30.54,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,145)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.54,0:04:30.58,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,135)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.58,0:04:30.63,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,127)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.63,0:04:30.67,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,118.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.67,0:04:30.71,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,110)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.71,0:04:30.75,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,100.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.75,0:04:30.79,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,91)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.79,0:04:30.83,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,82.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.83,0:04:30.88,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,72.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.88,0:04:30.92,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,64)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.92,0:04:30.96,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,54)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:30.96,0:04:31.00,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,44)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.00,0:04:31.04,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,35)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.04,0:04:31.08,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,25)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.08,0:04:31.13,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,16)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.13,0:04:31.17,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,6)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.17,0:04:31.21,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,-4)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.21,0:04:31.25,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,-12.5)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.25,0:04:31.29,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,-22)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.29,0:04:31.33,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,-32)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.33,0:04:31.38,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,-41)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.38,0:04:31.42,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,-52)\frx4\fry356}Central Japan Go Institute{\i0}
+Dialogue: 0,0:04:31.42,0:04:31.46,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,-62)\frx4\fry356}Central Japan Go Institute{\i0}
 Dialogue: 0,0:04:36.55,0:04:37.80,Default,,0,0,0,,Good morning.
 Dialogue: 0,0:04:38.47,0:04:40.80,Default,,0,0,0,,I'm Touya Akira. Where is the match hall?
 Dialogue: 0,0:04:41.26,0:04:42.76,Default,,0,0,0,,I'll show you there right now.
@@ -275,8 +319,9 @@ Dialogue: 0,0:15:05.22,0:15:08.30,Thinking,,0,0,0,,against my reckless attack, b
 Dialogue: 0,0:15:09.05,0:15:11.81,Thinking,,0,0,0,,He's retaliating instead of defending!
 Dialogue: 0,0:15:12.60,0:15:14.39,Sai,,0,0,0,,I had no idea he had grown so much...
 Dialogue: 0,0:15:36.62,0:15:37.58,Background,,0,0,0,,I resign.
-Dialogue: 0,0:15:38.13,0:15:38.21,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\\alpha&H40&\fscy130\frz5\pos(600,100)}Japanese Go
-Dialogue: 0,0:15:38.21,0:15:42.34,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\fscy130\\alpha&H40&\frz5\move(600,102,600,485)}Japanese Go
+Comment: 0,0:15:38.13,0:15:38.21,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\\alpha&H40&\fscy130\frz5\pos(600,100)}Japanese Go
+Comment: 0,0:15:38.21,0:15:42.34,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\fscy130\\alpha&H40&\frz5\move(600,102,600,485)}Japanese Go
+Dialogue: 0,0:15:38.13,0:15:42.75,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\\alpha&H40&\fscy130\frz5\move(600,100,600,520,57,4603)}Japanese Go
 Dialogue: 0,0:15:57.64,0:15:58.48,Default,,0,0,0,,I resign.
 Dialogue: 0,0:15:59.15,0:16:00.56,Default,,0,0,0,,Thank you for the game.
 Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0\frz25\pos(216,200)}Win by\NResignation
