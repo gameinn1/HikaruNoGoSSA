@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 37 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 37 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 95
-Active Line: 100
-Video Position: 13732
+Video Zoom Percent: 0.625000
+Scroll Position: 110
+Active Line: 139
+Video Position: 17949
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -227,10 +227,9 @@ Dialogue: 0,0:12:11.31,0:12:11.96,Default,,0,0,0,,Really?
 Dialogue: 0,0:12:12.27,0:12:15.16,Default,,0,0,0,,I'm doing really well right now. I can tell myself.
 Dialogue: 0,0:12:15.94,0:12:17.35,Default,,0,0,0,,I'm going to pass this year!
 Dialogue: 0,0:12:18.11,0:12:20.04,Default,,0,0,0,,Let's look at the pairings.
-Dialogue: 0,0:12:20.43,0:12:22.89,Note,,0,0,0,,{\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\move(192,16,259,89)}Pro Exam Pairings
-Dialogue: 0,0:12:22.89,0:12:23.89,Note,,0,0,0,,{\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(259,89)}Pro Exam Pairings
+Dialogue: 0,0:12:20.43,0:12:23.89,Note,,0,0,0,,{\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\move(192,16,256,89,0,2437)}Pro Exam Pairings
 Dialogue: 0,0:12:21.26,0:12:22.82,Background,,0,0,0,,I'm playing Shindou at...
-Dialogue: 0,0:12:24.43,0:12:27.71,Default,,0,0,0,,wow it's towards the end. The day before the last.
+Dialogue: 0,0:12:24.39,0:12:27.71,Default,,0,0,0,,wow it's towards the end. The day before the last.
 Dialogue: 0,0:12:28.60,0:12:31.11,Default,,0,0,0,,Isumi-san, I'll be playing you\Non the thirteenth match.
 Dialogue: 0,0:12:32.04,0:12:37.83,Default,,0,0,0,,I've got them right in a row. Shindou on the\Ntwelfth match, you on the thirteenth match.
 Dialogue: 0,0:12:39.96,0:12:44.00,Default,,0,0,0,,"You made your rival stronger... Are you stupid..."
