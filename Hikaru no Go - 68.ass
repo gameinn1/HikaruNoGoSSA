@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 235
-Active Line: 240
-Video Position: 33839
+Scroll Position: 169
+Active Line: 186
+Video Position: 24606
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -281,7 +281,7 @@ Dialogue: 0,0:16:34.06,0:16:34.72,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:16:38.48,0:16:39.69,Thinking,,0,0,0,,I'm only watching.
 Dialogue: 0,0:16:46.53,0:16:51.07,NoteArial,,0,0,0,,{\fs15.5\an4\1c&H554A47&\bord0\blur2\fad(209,0)\fscy200\shad0\frz3.5\pos(400,172)}IGO TOURNA-\NMENT HALL
 Dialogue: 0,0:16:54.95,0:16:59.46,NoteArial,,0,0,0,,{\3c&H2B4006&\bord1\shad0\alpha&H40&}The Sixth Annual Summer Go Tournament Match Hall
-Dialogue: 0,0:17:06.25,0:17:16.64,NoteArial,,0,0,0,,{\fs11\1c&H414043&\3c&HE6F6F6&\bord8\\fad(0,2669)\shad0\blur0\fscx99\fscy195\frz1\move(76,10,670,10)}The Sixth Annual North District Summer Junior High Go Tournament
+Dialogue: 0,0:17:06.25,0:17:16.64,NoteArial,,0,0,0,,{\fs11\1c&H414043&\3c&HE6F6F6&\bord4\fad(0,2669)\shad0\blur0\fscx99\fscy195\frz1\move(75,11,669,11,67,10369)}The Sixth Annual North District Summer Junior High Go Tournament
 Dialogue: 0,0:17:41.00,0:17:41.91,Thinking,,0,0,0,,It's Akari!
 Dialogue: 0,0:17:42.87,0:17:44.08,Thinking,,0,0,0,,She's sitting in the middle.
 Dialogue: 0,0:17:46.25,0:17:47.71,Thinking,,0,0,0,,So she's second board...
