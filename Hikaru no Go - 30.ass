@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 200
-Active Line: 214
-Video Position: 34675
+Scroll Position: 176
+Active Line: 180
+Video Position: 29161
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -270,10 +270,10 @@ Dialogue: 0,0:19:39.28,0:19:40.70,Thinking,,0,0,0,,Only three of us can become p
 Dialogue: 0,0:19:41.91,0:19:43.81,Thinking,,0,0,0,,I won't lose!
 Dialogue: 0,0:19:46.25,0:19:50.87,Thinking,,0,0,0,,Shindou... we can't all pass it together...
 Dialogue: 0,0:20:04.55,0:20:06.56,Default,,0,0,0,,It's finally time!
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(125,0,125,188)}K\Ny\Nu\N\NR\Na\Nn\Nk\Ne\Nd\N\NP\Nl\Na\Ny\Ne\Nr\Ns\N\ND\Na\Ny\N\N2nd\N\NF\Nl\No\No\Nr
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(227,0,227,188)}P\Nu\Nb\Nl\Ni\Nc\N\NM\Na\Nt\Nc\Nh\N\NR\No\No\Nm\N\N2nd\N\NF\Nl\No\No\Nr
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(328,0,328,188)}P\Nr\No\N\NE\Nx\Na\Nm\Ni\Nn\Na\Nt\Ni\No\Nn\N\N6th\NF\Nl\No\No\Nr
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(461,0,461,188)}T\No\Nd\Na\Ny\N'\Ns\N\NE\Nv\Ne\Nn\Nt\Ns
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(125,0,125,187)}K\Ny\Nu\N\NR\Na\Nn\Nk\Ne\Nd\N\NP\Nl\Na\Ny\Ne\Nr\Ns\N\ND\Na\Ny\N\N2nd\N\NF\Nl\No\No\Nr
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(227,0,227,187)}P\Nu\Nb\Nl\Ni\Nc\N\NM\Na\Nt\Nc\Nh\N\NR\No\No\Nm\N\N2nd\N\NF\Nl\No\No\Nr
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(328,0,328,187)}P\Nr\No\N\NE\Nx\Na\Nm\Ni\Nn\Na\Nt\Ni\No\Nn\N\N6th\NF\Nl\No\No\Nr
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(461,0,461,187)}T\No\Nd\Na\Ny\N'\Ns\N\NE\Nv\Ne\Nn\Nt\Ns
 Dialogue: 0,0:20:16.50,0:20:17.98,Default,,0,0,0,,I'm finally here...
 Dialogue: 0,0:20:18.38,0:20:21.61,Sai,,0,0,0,,You're finally here? Your journey starts here.
 Dialogue: 0,0:20:22.04,0:20:23.36,Default,,0,0,0,,I know!
