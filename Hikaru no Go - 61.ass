@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 215
-Active Line: 220
-Video Position: 21236
+Video Zoom Percent: 0.625000
+Scroll Position: 209
+Active Line: 222
+Video Position: 21861
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -317,6 +317,7 @@ Dialogue: 0,0:14:36.77,0:14:37.40,Thinking,,0,0,0,,Sai?
 Comment: 0,0:14:43.65,0:14:51.66,NoteArial,,0,0,0,,&H564855& &H2E2C30& and &H403E43& and 256 -74
 Dialogue: 0,0:14:43.65,0:14:51.66,NoteArial,,0,0,0,,{\fs21\blur1\1c&H403E43&\4c&HFFFFFF&\fscx100\fscy101\bord0\shad1.5\frz356.5\move(403,256,403,-74)}G\N{\fscy100)}R\N{\fscy99)}A\N{\fscy98)}V\N{\fscy97)}E\N\N\N{\fscy90)}O\N{\fscy90)}F\N\N\N{\fscy84)}S\N{\fscy81)}H\N{\fscy81)}U\N{\fscy81)}U\N{\fscy77)}S\N{\fscy77)}A\N{\fscy75)}K\N{\fscy74)}U
 Dialogue: 0,0:14:44.57,0:14:45.53,Thinking,,0,0,0,,This is it...
+Dialogue: 0,0:15:05.18,0:15:11.10,NoteArial_Igo,,0,0,0,,{\fs60\blur1\1c&H564855&\4c&HFFFFFF&\fscx95\fscy78.3\bord0\shad1.5\move(423,-16,423,-135)}S\N\NH\N\NU\N\NU\N\NS\N\NA\N\NK\N\NU\N\N'
 Dialogue: 0,0:15:11.85,0:15:12.60,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:15:13.81,0:15:16.60,Thinking,,0,0,0,,Where did you go...
 Dialogue: 0,0:15:17.65,0:15:21.12,Thinking,,0,0,0,,I... have no idea what's going on anymore...
