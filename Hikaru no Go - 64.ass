@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 285
-Active Line: 313
-Video Position: 34568
+Scroll Position: 276
+Active Line: 286
+Video Position: 29628
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -332,6 +332,11 @@ Dialogue: 0,0:20:18.24,0:20:23.49,Default,,0,0,0,,Those pictures of swimming fis
 Dialogue: 0,0:20:25.20,0:20:26.28,Default,,0,0,0,,This thing?
 Dialogue: 0,0:20:27.21,0:20:30.46,Default,,0,0,0,,Yup! It's beautiful, and its shape\Nis absolutely marvelous!
 Dialogue: 0,0:20:30.87,0:20:32.50,Default,,0,0,0,,It's a very rare work.
+Dialogue: 0,0:20:33.63,0:20:33.75,ed64_romaji,,0,0,0,,{\fs7.5\blur1\1c&H070708&\fscx100\fscy190\bord0\shad0\frz68\pos(276,341)}Sae Sushi
+Dialogue: 0,0:20:33.75,0:20:33.92,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx100\fscy107\bord0\shad0\frz99\pos(263,308)}Sae {\fscx105}Sushi
+Dialogue: 0,0:20:33.92,0:20:34.00,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx108\fscy120\bord0\shad0\frz107\pos(257,295)}Sae {\fscx121}Sushi
+Dialogue: 0,0:20:34.00,0:20:34.05,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx125\fscy135\bord0\shad0\frz114\pos(251,282)}Sae {\fscx132}Sushi
+Dialogue: 0,0:20:35.30,0:20:35.71,ed64_romaji,,0,0,0,,{\fs22\fad(0,209)\blur0\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
 Dialogue: 0,0:20:36.30,0:20:38.01,Default,,0,0,0,,Don't fuck with me!
 Dialogue: 0,0:22:07.77,0:22:11.02,Default,,0,0,0,,Happy New Year!
 Dialogue: 0,0:22:08.19,0:22:11.62,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&H1200EC&\4c&H1200EC&\shad0.5\bord1.5\fad(42,334)\pos(322,296)}Happy New Year
