@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
 Scroll Position: 213
-Active Line: 219
-Video Position: 24516
+Active Line: 218
+Video Position: 24482
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -306,7 +306,7 @@ Dialogue: 0,0:16:45.69,0:16:47.83,Thinking,,0,0,0,,He won't make a mistake.
 Dialogue: 0,0:16:49.42,0:16:53.68,Thinking,,0,0,0,,He probably sees the final board just like I do.
 Dialogue: 0,0:17:01.08,0:17:02.50,NoteArial,,0,0,0,,{\1c&HE5DBC4&\an7\bord0\shad0\pos(0,0)}{\p1}m 550 28 l 599 28 599 45 560 45 m 559 75 l 639 76 639 94 559 94 m 558 107 l 628 107 628 126 558 127 m 560 146 l 597 146 597 166 560 166 m 559 197 l 639 198 639 215 559 215 m 558 230 l 627 230 627 249 558 249 m 559 267 l 630 267 631 286 559 286 m 558 293 l 641 293 641 310 558 310 m 556 319 l 596 320 597 339 557 338 m 579 398 l 614 398 614 418 579 418 m 606 436 l 641 435 641 455 606 455{\p0}
 Dialogue: 0,0:17:02.50,0:17:04.59,NoteArial,,0,0,0,,{\1c&HE5DBC4&\an7\bord0\shad0\pos(0,0)\p1\iclip(m 555 143 l 571 143 571 346 555 346)}m 560 28 l 599 28 599 45 560 45 m 559 75 l 639 76 639 94 559 94 m 558 107 l 628 107 628 126 558 127 m 560 147 l 597 146 597 166 560 166 m 559 197 l 639 198 639 215 559 215 m 558 230 l 627 230 627 249 558 249 m 559 267 l 630 267 631 286 559 286 m 558 293 l 641 293 641 310 558 310 m 556 319 l 596 320 597 339 557 338 m 579 398 l 614 398 614 418 579 418 m 606 436 l 641 435 641 455 606 455{\p0}
-Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs14\blur1\bord0\shad0\fscx99\fscy110\pos(577,30)}WHITE
+Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs14\blur1\bord0\shad0\fscx99\fscy110\pos(579,30)}WHITE
 Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\bord0\shad0\fscx100\fscy110\pos(596,76)}Captured:
 Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\bord0\shad0\fscx100\fscy110\pos(606,107)}Rem.Time: 1
 Dialogue: 0,0:17:01.08,0:17:02.50,NoteArial,,0,0,0,,{\1c&H2E260E&\fs14\blur1\bord0\shad0\fscx99\fscy110\pos(581,150)}BLACK
