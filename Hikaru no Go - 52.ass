@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 191
-Active Line: 198
-Video Position: 17604
+Video Zoom Percent: 0.625000
+Scroll Position: 335
+Active Line: 347
+Video Position: 22214
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -438,54 +438,54 @@ Dialogue: 0,0:15:04.48,0:15:05.35,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:15:05.93,0:15:08.00,Default,,0,0,0,,It's probably because I know my opponent.
 Dialogue: 0,0:15:08.72,0:15:12.52,Default,,0,0,0,,I feel some pressure... but I don't feel nervous.
 Dialogue: 0,0:15:13.60,0:15:14.54,Default,,0,0,0,,Touya, right?
-Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,1,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(635,135,660,135)}Shinkai
-Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,1,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(635,220,660,220)}6
-Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,2,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(635,365,660,365)}Hoshino
-Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,2,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(635,441,660,441)}6
-Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,3,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(580,146,664,146)}Kobayashi
-Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,3,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(580,220,664,220)}5
-Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,4,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(582,353,664,353)}Sano
-Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,4,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(582,441,664,441)}5
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,5,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(520,129,610,129)}Isawa
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,5,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(520,220,610,220)}5
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,6,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(520,364,610,364)}Okajima
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,6,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(520,441,610,441)}5
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,7,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(465,124,555,124)}Kita
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,7,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(465,220,555,220)}4
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,8,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(465,361,555,361)}Ootake
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,8,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(465,441,555,441)}4
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,9,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(402,136,492,136)}Kiyama
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,9,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(402,220,492,220)}4
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,10,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(403,363,493,363)}Shibaki
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,10,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(403,441,493,441)}4
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,11,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(349,128,439,128)}Izumi
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,11,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(349,220,439,220)}3
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,12,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(351,359,441,359)}Asada
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,12,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(352,441,442,441)}3
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(293,130,383,130)}Butou
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(293,220,383,220)}4
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(293,367,383,367)}Edokawa
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(293,441,383,441)}4
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,14,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(235,136,325,136)}Shibata
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,14,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(235,220,325,220)}2
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,15,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(235,359,325,359)}Sasagi
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,15,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(235,441,325,441)}2
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,16,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(172,126,262,126)}Dairi
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,16,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(172,220,262,220)}3
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,17,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(172,363,262,363)}Ueyama
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,17,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(172,441,262,441)}2
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,18,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(118,157,208,157)}Yamada (Jun)
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,18,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(118,220,208,220)}1
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,19,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(118,365,208,365)}Shimura
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,19,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(118,441,208,441)}1
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,20,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(50,144,140,144)}Taniguchi
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,20,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(50,220,140,220)}2
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,21,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(50,357,140,357)}Okada
-Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,21,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(50,441,140,441)}2
-Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,22,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(5,141,82,141)}Chikafuji
-Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,22,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(5,220,82,220)}1
-Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,23,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(5,355,82,355)}Gotou
-Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,23,0,0,0,,{\fs16.5\1c&H000000&\fscy90\bord0\frz270\move(5,441,82,441)}1
+Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,1,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(635,135,660,135)}Shinkai
+Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,1,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(635,220,660,220)}6
+Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,2,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(635,365,660,365)}Hoshino
+Dialogue: 0,0:15:23.24,0:15:24.03,NoteArial,2,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(635,441,660,441)}6
+Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,3,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(580,146,664,146)}Kobayashi
+Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,3,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(580,220,664,220)}5
+Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,4,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(582,353,664,353)}Sano
+Dialogue: 0,0:15:23.24,0:15:25.90,NoteArial,4,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(582,441,664,441)}5
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,5,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(520,129,610,129)}Isawa
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,5,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(520,220,610,220)}5
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,6,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(520,364,610,364)}Okajima
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,6,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(520,441,610,441)}5
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,7,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(465,124,555,124)}Kita
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,7,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(465,220,555,220)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,8,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(465,361,555,361)}Ootake
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,8,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(465,441,555,441)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,9,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(402,136,492,136)}Kiyama
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,9,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(402,220,492,220)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,10,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(403,363,493,363)}Shibaki
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,10,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(403,441,493,441)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,11,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(349,128,439,128)}Izumi
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,11,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(349,220,439,220)}3
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,12,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(351,359,441,359)}Asada
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,12,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(352,441,442,441)}3
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(293,130,383,130)}Butou
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(293,220,383,220)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(293,367,383,367)}Edokawa
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,13,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(293,441,383,441)}4
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,14,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(235,136,325,136)}Shibata
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,14,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(235,220,325,220)}2
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,15,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(235,359,325,359)}Sasagi
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,15,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(235,441,325,441)}2
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,16,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(172,126,262,126)}Dairi
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,16,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(172,220,262,220)}3
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,17,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(172,363,262,363)}Ueyama
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,17,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(172,441,262,441)}2
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,18,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(118,157,208,157)}Yamada (Jun)
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,18,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(118,220,208,220)}1
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,19,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(118,365,208,365)}Shimura
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,19,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(118,441,208,441)}1
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,20,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(50,144,140,144)}Taniguchi
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,20,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(50,220,140,220)}2
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,21,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(50,357,140,357)}Okada
+Dialogue: 0,0:15:23.24,0:15:26.16,NoteArial,21,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(50,441,140,441)}2
+Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,22,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(5,141,82,141)}Chikafuji
+Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,22,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(5,220,82,220)}1
+Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,23,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(5,355,82,355)}Gotou
+Dialogue: 0,0:15:23.69,0:15:26.16,NoteArial,23,0,0,0,,{\fs16.5\blur0.8\1c&H000000&\shad0\fscy90\bord0\frz270\move(5,441,82,441)}1
 Dialogue: 0,0:15:26.78,0:15:29.04,Thinking,,0,0,0,,Neither Waya nor Ochi is here today.
 Dialogue: 0,0:15:32.33,0:15:34.42,Default,,0,0,0,,Shindou, what are you doing for lunch?
 Dialogue: 0,0:15:34.96,0:15:35.46,Default,,0,0,0,,Huh?

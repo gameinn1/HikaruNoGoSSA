@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 243
-Active Line: 258
-Video Position: 24696
+Scroll Position: 124
+Active Line: 140
+Video Position: 14284
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,7 +97,7 @@ Dialogue: 0,0:02:11.24,0:02:14.75,Thinking,,0,0,0,,If Shindou losses, he'll have
 Dialogue: 0,0:02:23.08,0:02:23.81,Default,,0,0,0,,It's over.
 Dialogue: 0,0:02:39.22,0:02:44.14,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Forty-Seventh Match
 Dialogue: 0,0:02:39.22,0:02:44.14,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}To the World of the Pros
-Dialogue: 0,0:02:44.14,0:02:47.86,NoteArial,,0,0,0,,{\fs40\fsp10\1c&H43E5FF&\3c&H0200CF&\frz16\pos(185,188)}NcDonalds
+Dialogue: 0,0:02:44.14,0:02:47.86,NoteArial,,0,0,0,,{\fs40\fsp10\1c&H43E5FF&\3c&H0200CF&\4c&H43E5FF&\shad1\frz16\pos(185,188)}NcDonalds
 Dialogue: 0,0:02:45.62,0:02:47.86,Background,,0,0,0,,Isumi-san quit the Kyuseikai!?
 Dialogue: 0,0:02:49.65,0:02:51.07,Default,,0,0,0,,That's not all.
 Dialogue: 0,0:02:51.57,0:02:52.99,Default,,0,0,0,,He's not an Insei anymore either.
@@ -204,9 +204,12 @@ Dialogue: 0,0:07:48.55,0:07:49.55,Sai,,0,0,0,,Will Hikaru...
 Dialogue: 0,0:07:50.32,0:07:52.71,Sai,,0,0,0,,not let me play anymore?
 Dialogue: 0,0:07:51.45,0:07:52.70,Default,,0,0,0,,{\pos(320,375)}That is true, but...
 Dialogue: 0,0:07:52.70,0:07:54.87,Default,,0,0,0,,{\pos(320,375)}Right!? Let's see who becomes 2-dan first!
-Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs37\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz349\pos(302,134)}The 48th Ouza Title Match
-Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs26\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz350\pos(218,298)}The 23rd graduating class of
-Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs32\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz352\pos(374,377)}Koike Jr. High School, Reunion
+Comment: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs37\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz349\pos(302,134)}The 48th Ouza Title Match
+Comment: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs26\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz350\pos(218,298)}The 23rd graduating class of
+Comment: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs32\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz352\pos(374,377)}Koike Jr. High School, Reunion
+Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs42\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz350\fscy95\pos(304,132)}{\fscx102}The 48th {\fscx88\fscy90}Ouza {\fscx84\fscy85}Title {\fscx74\fscy80}Match
+Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs26\1c&H000000&\3c&HFFFFFF&\bord1\fscx104\fscy100\shad0\frz350.5\pos(212,297)}The 23rd {\fscx94\fscy90}graduating {\fscx82}class {\fscx85}of
+Dialogue: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs32\1c&H000000&\3c&HFFFFFF&\bord1\shad0\fscx112\frz351.5\pos(368,377)}Koike Jr. {\fscx100}High {\fscx91}School, {\fscx84\fscy90}Reunion
 Dialogue: 0,0:08:07.50,0:08:10.64,Thinking,,0,0,0,,Ten minutes before the match starts...
 Dialogue: 0,0:08:23.27,0:08:25.57,Default,,0,0,0,,Good morning, Master Zama.
 Dialogue: 0,0:08:26.37,0:08:28.19,Default,,0,0,0,,Good morning.
