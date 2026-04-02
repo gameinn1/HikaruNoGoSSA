@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 276
+Video Zoom Percent: 0.750000
+Scroll Position: 279
 Active Line: 286
-Video Position: 29628
+Video Position: 29587
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -335,7 +335,38 @@ Dialogue: 0,0:20:30.87,0:20:32.50,Default,,0,0,0,,It's a very rare work.
 Dialogue: 0,0:20:33.63,0:20:33.75,ed64_romaji,,0,0,0,,{\fs7.5\blur1\1c&H070708&\fscx100\fscy190\bord0\shad0\frz68\pos(276,341)}Sae Sushi
 Dialogue: 0,0:20:33.75,0:20:33.92,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx100\fscy107\bord0\shad0\frz99\pos(263,308)}Sae {\fscx105}Sushi
 Dialogue: 0,0:20:33.92,0:20:34.00,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx108\fscy120\bord0\shad0\frz107\pos(257,295)}Sae {\fscx121}Sushi
+Comment: 0,0:20:34.00,0:20:34.05,ed64_romaji,,0,0,0,,251,282 start end 264,310
 Dialogue: 0,0:20:34.00,0:20:34.05,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx125\fscy135\bord0\shad0\frz114\pos(251,282)}Sae {\fscx132}Sushi
+Dialogue: 0,0:20:34.05,0:20:34.09,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx126\fscy136\bord0\shad0\frz114\pos(251,282.5)}Sae {\fscx133}Sushi
+Dialogue: 0,0:20:34.09,0:20:34.13,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx127\fscy137\bord0\shad0\frz113\pos(250.5,283)}Sae {\fscx134}Sushi
+Dialogue: 0,0:20:34.13,0:20:34.17,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx128\fscy138\bord0\shad0\frz113\pos(251,283.5)}Sae {\fscx135}Sushi
+Dialogue: 0,0:20:34.17,0:20:34.21,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx130\fscy140\bord0\shad0\frz112\pos(251,284.5)}Sae {\fscx136}Sushi
+Dialogue: 0,0:20:34.21,0:20:34.25,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx132\fscy142\bord0\shad0\frz112\pos(252,285.5)}Sae {\fscx138}Sushi
+Dialogue: 0,0:20:34.25,0:20:34.29,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx134\fscy144\bord0\shad0\frz111\pos(252,286.5)}Sae {\fscx140}Sushi
+Dialogue: 0,0:20:34.29,0:20:34.33,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx137\fscy147\bord0\shad0\frz110\pos(252.5,288.5)}Sae {\fscx142}Sushi
+Dialogue: 0,0:20:34.33,0:20:34.38,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx140\fscy150\bord0\shad0\frz109\pos(253,290.5)}Sae {\fscx145}Sushi
+Dialogue: 0,0:20:34.38,0:20:34.42,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx143\fscy153\bord0\shad0\frz108\pos(253,292)}Sae {\fscx147}Sushi
+Dialogue: 0,0:20:34.42,0:20:34.46,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx146\fscy156\bord0\shad0\frz107\pos(253.5,293)}Sae {\fscx150}Sushi
+Dialogue: 0,0:20:34.46,0:20:34.50,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx149\fscy159\bord0\shad0\frz106\pos(254.5,294.5)}Sae {\fscx152}Sushi
+Dialogue: 0,0:20:34.50,0:20:34.54,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx152\fscy162\bord0\shad0\frz105\pos(255,296.5)}Sae {\fscx155}Sushi
+Dialogue: 0,0:20:34.54,0:20:34.58,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx155\fscy165\bord0\shad0\frz104\pos(256,298)}Sae {\fscx157}Sushi
+Dialogue: 0,0:20:34.58,0:20:34.63,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx158\fscy168\bord0\shad0\frz103\pos(256.5,299.5)}Sae {\fscx160}Sushi
+Dialogue: 0,0:20:34.63,0:20:34.67,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx162\fscy172\bord0\shad0\frz102\pos(257.5,301)}Sae {\fscx163}Sushi
+Dialogue: 0,0:20:34.67,0:20:34.71,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx166\fscy176\bord0\shad0\frz101\pos(258.5,302)}Sae {\fscx166}Sushi
+Dialogue: 0,0:20:34.71,0:20:34.75,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx170\fscy180\bord0\shad0\frz100\pos(259,303.5)}Sae {\fscx169}Sushi
+Dialogue: 0,0:20:34.75,0:20:34.79,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx174\fscy184\bord0\shad0\frz99\pos(260,305)}Sae {\fscx172}Sushi
+Dialogue: 0,0:20:34.79,0:20:34.83,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx178\fscy188\bord0\shad0\frz98\pos(261,306.5)}Sae {\fscx176}Sushi
+Dialogue: 0,0:20:34.83,0:20:34.88,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx182\fscy192\bord0\shad0\frz97\pos(262,307.5)}Sae {\fscx179}Sushi
+Dialogue: 0,0:20:34.88,0:20:34.92,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx186\fscy196\bord0\shad0\frz96\pos(262.5,309)}Sae {\fscx183}Sushi
+Dialogue: 0,0:20:34.92,0:20:34.96,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx189\fscy199\bord0\shad0\frz95\pos(262.5,309)}Sae {\fscx186}Sushi
+Dialogue: 0,0:20:34.96,0:20:35.00,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx192\fscy202\bord0\shad0\frz94\pos(263.5,309.5)}Sae {\fscx189}Sushi
+Dialogue: 0,0:20:35.00,0:20:35.04,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx194\fscy204\bord0\shad0\frz93\pos(263.5,310)}Sae {\fscx192}Sushi
+Dialogue: 0,0:20:35.04,0:20:35.08,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx196\fscy206\bord0\shad0\frz92\pos(263.5,310)}Sae {\fscx194}Sushi
+Dialogue: 0,0:20:35.08,0:20:35.13,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx198\fscy208\bord0\shad0\frz91\pos(263.,309.5)}Sae {\fscx197}Sushi
+Dialogue: 0,0:20:35.13,0:20:35.17,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx199\fscy209\bord0\shad0\frz91\pos(264,310)}Sae {\fscx198}Sushi
+Dialogue: 0,0:20:35.17,0:20:35.21,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx199}Sushi
+Dialogue: 0,0:20:35.21,0:20:35.25,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
+Dialogue: 0,0:20:35.25,0:20:35.30,ed64_romaji,,0,0,0,,{\fs22\blur0\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
 Dialogue: 0,0:20:35.30,0:20:35.71,ed64_romaji,,0,0,0,,{\fs22\fad(0,209)\blur0\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
 Dialogue: 0,0:20:36.30,0:20:38.01,Default,,0,0,0,,Don't fuck with me!
 Dialogue: 0,0:22:07.77,0:22:11.02,Default,,0,0,0,,Happy New Year!
