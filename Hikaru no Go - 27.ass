@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 280
-Active Line: 293
-Video Position: 34823
+Video Zoom Percent: 0.500000
+Scroll Position: 107
+Active Line: 116
+Video Position: 15352
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -157,6 +157,7 @@ Dialogue: 0,0:06:08.87,0:06:11.10,Default,,0,0,0,,Then just this once!
 Dialogue: 0,0:06:12.64,0:06:14.47,Default,,0,0,0,,Just once won't matter!
 Dialogue: 0,0:06:15.29,0:06:17.93,Default,,0,0,0,,Get another Go board, I'll play you guys.
 Dialogue: 0,0:06:18.13,0:06:19.16,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:06:19.48,0:06:19.82,Sai,,0,0,0,,Wasabi.
 Dialogue: 0,0:06:30.15,0:06:31.41,Default,,0,0,0,,Really...
 Dialogue: 0,0:06:31.75,0:06:33.99,Default,,0,0,0,,You two place all the stones you want!
 Dialogue: 0,0:06:34.12,0:06:38.04,Default,,0,0,0,,You think that little of us!? I'm really\Ngoing to place all the stones I want!
@@ -200,13 +201,12 @@ Dialogue: 0,0:10:21.77,0:10:24.06,Default,,0,0,0,,Now Mitani-kun's never going t
 Dialogue: 0,0:10:24.51,0:10:27.02,Default,,0,0,0,,Clean up the stones already and go home!
 Dialogue: 0,0:10:27.08,0:10:29.91,Default,,0,0,0,,I'm sorry! I won't come anymore!
 Dialogue: 0,0:10:29.91,0:10:32.42,Default,,0,0,0,,I get it! Stop it!
-Dialogue: 0,0:10:36.37,0:10:38.00,Note,,0,0,0,,{\1c&H45EAE7&\an5\frz295\fs50\move(280,300,280,0)}Come on to the
-Dialogue: 0,0:10:36.37,0:10:38.00,Note,,0,0,0,,{\1c&H5E3A9F&\an5\frz288\fs50\move(350,177,350,-123)}Basketball club!!
-Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\an4\fs16\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(168.41,243.623)}W\NE\N\NT\NE\NA\NC\NH\N\NY\NO\NU\N\NH\NO\NW\N\NT\NO\N\NP\NL\NA\NY\N
+Dialogue: 0,0:10:36.37,0:10:38.28,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(298,452,298,25)\iclip(95,436,500,480)}Come on to the Basketball Club!!
+Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\an4\fs16\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(169,242)}W\NE\N\NT\NE\NA\NC\NH\N\NY\NO\NU\N\NH\NO\NW\N\NT\NO\N\NP\NL\NA\NY\N
 Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\an4\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(296,216)}M\NE\NM\NB\NE\NR\NS\N!!
-Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(413,57)}G\NO\N\NC\NL\NU\NB\N\NR\NE\NC\NR\NU\NI\NT\NI\NN\NG
-Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\an6\fs16\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(515,244}B\NE\NG\NI\NN\NN\NE\NR\NS\N\NA\NR\NE\N\NW\NE\NL\NC\NO\NM\NE
-Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\an2\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz0.5\pos(320,447)}We're at the Chemistry Lab afterschool.
+Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(416,56)}G\NO\N\NC\NL\NU\NB\N\NR\NE\NC\NR\NU\NI\NT\NI\NN\NG
+Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\an6\fs16\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(516,244}B\NE\NG\NI\NN\NN\NE\NR\NS\N\NA\NR\NE\N\NW\NE\NL\NC\NO\NM\NE
+Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\an2\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz0\pos(320,446)}We're at the Chemistry Lab afterschool.
 Dialogue: 0,0:10:43.58,0:10:45.81,Default,,0,0,0,,It was exactly a year ago wasn't it?
 Dialogue: 0,0:10:47.28,0:10:50.24,Default,,0,0,0,,When Shindou pulled me into the Go club.
 Dialogue: 0,0:10:53.98,0:10:55.75,Background,,0,0,0,,We put up a poster...

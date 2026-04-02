@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 176
-Active Line: 180
-Video Position: 29161
+Scroll Position: 15
+Active Line: 22
+Video Position: 4405
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,7 +112,7 @@ Dialogue: 0,0:02:46.85,0:02:48.89,Default,,0,0,0,,There was quite a commotion ov
 Dialogue: 0,0:02:49.72,0:02:51.38,Default,,0,0,0,,So Kadowaki is...
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,370,1,\fscx100)\blur0.8\pos(300,115)}The Thirtieth Match
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,370,1,\fscx100)\pos(325,365)}Ogata VS Honinbou
-Dialogue: 0,0:03:00.03,0:03:04.08,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fscx99\frz345\move(426,496,351,216)}Japanese Go Institute
+Dialogue: 0,0:03:00.03,0:03:04.08,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fscx99\frz345\move(427,494,352,214)}Japanese Go Institute
 Dialogue: 0,0:03:09.19,0:03:12.77,Default,,0,0,0,,Haven't been here since the\NMeijin match in college.
 Dialogue: 0,0:03:13.32,0:03:13.90,Default,,0,0,0,,Oh yeah...
 Dialogue: 0,0:03:16.62,0:03:21.47,Default,,0,0,0,,It's me. I'm at a place full of memories right now.
