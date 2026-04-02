@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 253
-Active Line: 257
-Video Position: 32157
+Scroll Position: 52
+Active Line: 65
+Video Position: 8559
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -156,8 +156,7 @@ Dialogue: 0,0:05:32.94,0:05:36.44,Background,,0,0,0,,Your room is 303, you're wi
 Dialogue: 0,0:05:37.86,0:05:39.40,Thinking,,0,0,0,,Master Ogata is here, too!?
 Dialogue: 0,0:05:39.61,0:05:41.28,Thinking,,0,0,0,,I should stay away from him.
 Dialogue: 0,0:05:42.07,0:05:44.57,Thinking,,0,0,0,,I wouldn't want him giving me trouble about Sai.
-Comment: 0,0:05:47.70,0:05:56.59,NoteArial,,0,0,0,,{\fs9.5\1c&H000000&\bord0\shad0\fscy90\frz5\pos(430.533,76.467)}Japanese Go Institute
-Comment: 0,0:05:47.70,0:05:56.59,NoteArial,,0,0,0,,{\fs11\1c&H000000&\bord0\shad0\fscy90\frz5\pos(507.333,69.267)}GO SEMINAR
+Dialogue: 0,0:05:47.70,0:05:56.59,NoteArial,,0,0,0,,{\1c&H000000&\fad(1835,0)\bord0\shad0\fscy75\frz5\fs9.5\t(0,8865,1,\fs12)\move(472,68,405,96,0,8865)}Japanese Go Institute {\fs11\fscy75\t(0,8865,1,\fs15)\fscy70}GO SEMINAR
 Dialogue: 0,0:05:49.87,0:05:53.04,Default,,0,0,0,,Master Ogata is a solid player\Nwho plays all kinds of styles,
 Dialogue: 0,0:05:53.62,0:05:56.17,Default,,0,0,0,,but his opponent Haruko-san is a forceful player.
 Dialogue: 0,0:05:58.00,0:06:01.42,Default,,0,0,0,,What? Master Ogata played here?
