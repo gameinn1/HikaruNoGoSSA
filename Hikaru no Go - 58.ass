@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
+Audio File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
+Video File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 353
-Active Line: 357
-Video Position: 32154
+Video Zoom Percent: 1.000000
+Scroll Position: 52
+Active Line: 54
+Video Position: 8426
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -144,8 +144,20 @@ Dialogue: 0,0:05:20.42,0:05:21.38,Default,,0,0,0,,That's unlike him.
 Dialogue: 0,0:05:22.02,0:05:23.22,Default,,0,0,0,,Unlike him?
 Dialogue: 0,0:05:46.20,0:05:48.70,Default,,0,0,0,,Master Touya... lost...
 Dialogue: 0,0:05:50.20,0:05:51.41,Sai,,0,0,0,,He lost?
-Comment: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12.5\1c&H000000&\bord0\shad0\fscy120\frz310\pos(428.609,195.311)}Ogata takes the Jyudan title
-Comment: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs11\1c&H000000&\bord0\shad0\fscy130\b0\frz299.7\pos(380.755,210.098)}In the fifth game of the 39th Jyu-\Ndan match where Ogata 9-dan\Nwas challenging Touya Kouyou\NJyudan (Meijin, Tengen, Ouza\Nand Kisei) started at 9am on the\N19th, and ended about 8:55pm.\NOgata won by resignation after\Nmove 231, and captured the ti-\Ntle with 3 wins and 2 losses.\NThis is the first title for Ogata,\Nand Touya Kouyou now has\Nfour titles left to defend.{\b1}
+Comment: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12.5\1c&H000000&\3c&HB0B5B2&\bord5\shad0\fscy120\frz311\i1\pos(424.809,198.011)}Ogata takes the Jyudan title{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12.5\fad(0,1460)\1c&H000000&\3c&HC3C7C4&\bord5\shad0\fscy120\frz311\i1\pos(430.504,196.707)}Ogata takes the Jyudan title{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(398.355,207.698)}In the fifth game of the 39th Jyu-{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(378.426,211.769)}dan match where Ogata 9-dan{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx99\fscy130\b0\frz311\i1\pos(363.924,221.269)}was challenging Touya Kouyou{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(343.926,225.769)}Jyudan (Meijin, Tengen, Ouza{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(329.426,236.769)}and Kisei) started at 9am on the{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(311.426,242.769)}19th, and ended about 8:55pm.{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(292.927,247.769)}Ogata won by resignation after{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(275.426,255.269)}move 231, and captured the ti-{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(254.426,258.769)}tle with 3 wins and 2 losses.{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx103\fscy130\b0\frz311\i1\pos(241.925,271.769)}This is the first title for Ogata,{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(220.426,274.269)}and Touya Kouyou now has{\i0}
+Dialogue: 0,0:05:51.41,0:05:55.13,NoteArial,,0,0,0,,{\fs12\fad(0,1460)\1c&H000000&\3c&HBBBEBB&\bord6\shad0\fscx98\fscy130\b0\frz311\i1\pos(194.926,273.269)}four titles left to defend.{\i0}
 Dialogue: 0,0:05:59.59,0:06:03.09,Default,,0,0,0,,With formulas like these, what\Nyou want to be solving for is...
 Dialogue: 0,0:06:03.09,0:06:04.63,Background,,0,0,0,,Listen up, this part is going to be on the test.
 Dialogue: 0,0:06:04.75,0:06:07.50,Thinking,,0,0,0,,Why did Master Touya lose?
@@ -450,8 +462,8 @@ Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fsc
 Dialogue: 1,0:22:12.62,0:22:14.51,Default,,0,0,0,,Let's cover 'Seki' today.
 Dialogue: 0,0:22:12.80,0:22:12.98,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(167,0)\3c&H157DF9&\4c&H157DF9&\fscx100\fscy100\bord2\shad0.5\move(201,450,201,350)}Teacher Yukari
 Dialogue: 0,0:22:12.98,0:22:16.60,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H157DF9&\4c&H157DF9&\fscx100\fscy100\bord2\shad0.5\pos(201,350)}Teacher Yukari
-Dialogue: 0,0:22:12.80,0:22:12.98,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(167,0)\3c&HFE1FF8&\4c&HFE1FF8&\fscx100\fscy100\bord2\shad0.5\move(453,450,453,350)}Mai
-Dialogue: 0,0:22:12.98,0:22:16.60,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HFE1FF8&\4c&HFE1FF8&\fscx100\fscy100\bord2\shad0.5\pos(453,350)}Mai
+Dialogue: 0,0:22:12.80,0:22:12.98,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(167,0)\3c&HFE1FF8&\4c&HFE1FF8&\fscx100\fscy100\bord2\shad0.5\move(454,450,454,350)}Mai
+Dialogue: 0,0:22:12.98,0:22:16.60,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HFE1FF8&\4c&HFE1FF8&\fscx100\fscy100\bord2\shad0.5\pos(454,350)}Mai
 Dialogue: 0,0:22:14.86,0:22:16.88,Default,,0,0,0,,Mai-chan, have you heard of Seki before?
 Dialogue: 0,0:22:17.08,0:22:18.08,Default,,0,0,0,,Nope!
 Dialogue: 0,0:22:18.27,0:22:22.93,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(417,501)\3c&H018A0A&\4c&H018A0A&\fscx99\fscy90\bord1.5\shad0.5\pos(320,356)}Seki... when neither side can capture the other
