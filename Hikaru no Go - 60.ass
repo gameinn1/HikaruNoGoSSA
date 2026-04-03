@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 61
-Active Line: 65
-Video Position: 8561
+Video Zoom Percent: 0.625000
+Scroll Position: 255
+Active Line: 274
+Video Position: 33357
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -365,6 +365,7 @@ Dialogue: 0,0:22:27.81,0:22:28.47,Background,,0,0,0,,Here!
 Dialogue: 0,0:22:28.65,0:22:30.73,Background,,0,0,0,,That's Atari, so I'll connect.
 Dialogue: 0,0:22:31.25,0:22:31.88,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:32.09,0:22:33.66,Background,,0,0,0,,Yup! That's right!
+Dialogue: 0,0:22:32.63,0:22:32.86,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22.5\alpha&H90&\1c&HFFFFFF&\fad(0,209)\fscx2000\t(0,230,1,\fscx100)\3c&H8900D5&\4c&H8900D5&\fscy100\bord1\shad0.5\pos(403,370)}Yay{\i1}!{\i0} Mai is absolutely right{\i1}!{\i0}
 Dialogue: 0,0:22:32.63,0:22:36.85,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22.5\1c&HFFFFFF&\fad(0,501)\fscx680\t(0,230,1,\fscx100)\3c&H8900D5&\4c&H8900D5&\fscy100\bord1\shad0.5\pos(403,370)}Yay{\i1}!{\i0} Mai is absolutely right{\i1}!{\i0}
 Dialogue: 0,0:22:34.02,0:22:37.24,Background,,0,0,0,,Now these four White stones can't get away.
 Dialogue: 0,0:22:37.68,0:22:40.43,Default,,0,0,0,,You were able to hurt White's territory a lot.
