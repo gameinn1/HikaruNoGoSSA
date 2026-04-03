@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
+Audio File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
+Video File: Hikaru no Go/Subs/[Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 183
-Active Line: 188
-Video Position: 18268
+Video Zoom Percent: 0.500000
+Scroll Position: 522
+Active Line: 533
+Video Position: 211
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,6 +92,7 @@ Style: op61_special,Pristina,76,&H0079C2E4,&H009F7D84,&H00151515,&HA2000000,0,0,
 Style: op61_english,Especial Kay,44,&H00D6DFE2,&H009F7D84,&H0025292E,&H8F000000,0,0,0,0,100,100,0,0,1,1.6,2.5,2,0,0,21,1
 Style: op61_kanji,MS Gothic,22,&H00FFFFFF,&H009B9B9B,&H00121212,&HA2000000,0,0,0,0,100,100,0.3,0,1,1,2.5,8,0,0,58,1
 Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0.333,0,1,0,1,7,56,56,14,1
+Style: 61Credits,Verdana,12,&H00BBBDC6,&H00FFFFFF,&H00000000,&H80000000,-1,-1,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -370,7 +371,7 @@ Dialogue: 0,0:18:08.03,0:18:10.28,Default,,0,0,0,,But... I don't have the money 
 Dialogue: 0,0:18:10.28,0:18:12.32,Default,,0,0,0,,Aw man... I'll lend it to you.
 Dialogue: 0,0:18:12.65,0:18:14.53,Background,,0,0,0,,Wait! I've got to call home!
 Dialogue: 0,0:18:14.70,0:18:16.87,Background,,0,0,0,,Hey! The phones over here.
-Dialogue: 0,0:18:30.42,0:18:33.38,ed64_romaji,,0,0,0,,{\fs23\1c&H625B5E&\bord0\blur0.5\shad0\frz358\pos(408,173)}Okonomiyaki
+Dialogue: 0,0:18:30.42,0:18:33.38,ed64_romaji,,0,0,0,,{\fs23\1c&H625B5E&\bord0\blur0.8\shad0\frz358\pos(408,173)}Okonomiyaki
 Dialogue: 0,0:18:39.01,0:18:41.31,Default,,0,0,0,,What's wrong? Eat up already.
 Dialogue: 0,0:18:43.31,0:18:46.06,Default,,0,0,0,,We visited both places this morning.
 Dialogue: 0,0:18:46.69,0:18:48.69,Default,,0,0,0,,You can't not be hungry.
@@ -598,35 +599,65 @@ Dialogue: 0,0:21:36.11,0:21:41.11,Ed4English,,0,0,0,,Let's laugh together again
 Dialogue: 0,0:21:41.25,0:21:49.04,Ed4English,,0,0,0,,the next time we meet
 Dialogue: 0,0:21:49.67,0:21:54.74,Ed4English,,0,0,0,,what kind of dreams
 Dialogue: 0,0:21:54.74,0:22:03.70,Ed4English,,0,0,0,,are we going to talk about then?
-Dialogue: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(64,228)}Original Creator
-Dialogue: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(160,228)}Yumi Hotta
-Dialogue: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(168.5,250)}Takeshi Obata
-Dialogue: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(58,272)}Technical Director
-Dialogue: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(244.5,272)}Yukari Umezawa {\fscx102}(Japanese Go Institute)
-Dialogue: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx102\fscy175\bord2.5\shad1\i1\pos(245.167,293.079)}(Shueisha Weekly Shounen Jump Series)
-Dialogue: 0,0:00:13.49,0:00:18.00,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(447,308.5)}Planning
-Dialogue: 0,0:00:13.49,0:00:18.00,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(494,346)}Keisuke Iwata
-Dialogue: 0,0:00:13.49,0:00:18.00,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(497.667,377.167)}Takashi Harada
-Dialogue: 0,0:00:13.49,0:00:18.00,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(491.833,408.667)}Yuuji Fugawa
-Dialogue: 0,0:00:18.16,0:00:22.50,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(356.667,272)}Animation Character Design
-Dialogue: 0,0:00:18.16,0:00:22.50,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(419.333,303.167)}Kanami Sekiguchi
-Dialogue: 0,0:00:18.16,0:00:22.50,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(403.5,334.667)}Miyuki Ueda
-Dialogue: 0,0:00:41.73,0:00:45.98,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(112.166,303.167)}Music Producer
-Dialogue: 0,0:00:41.73,0:00:45.98,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(312.5,303.167)}Takashi Nagasawa
-Dialogue: 0,0:00:41.73,0:00:45.98,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(85.334,334.667)}Music
-Dialogue: 0,0:00:41.73,0:00:45.98,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(299.333,334.667)}Kei Wakakusa
-Dialogue: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(410,236.5)}Opening Song
-Dialogue: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(425.333,261.833)}Karaoke     llbx
-Dialogue: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(404.667,338.5)}LYRICS
-Dialogue: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(482.167,338.5)}Nana Katase
-Dialogue: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(402.5,359.167)}MUSIC
-Dialogue: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(411,380.167)}ARRANGE
-Dialogue: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(491.833,369.833)}Seikou Nagaoka
-Dialogue: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(482.333,401.167)}Nana Katase
-Dialogue: 0,0:00:58.29,0:01:03.17,Default,,0,0,0,,{\fs12\fad(417,417)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(196.834,385)}Program Manager
-Dialogue: 0,0:00:58.29,0:01:03.17,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(324.5,384.667)}Tetsuya Watanabe
-Dialogue: 0,0:01:17.47,0:01:22.60,Default,,0,0,0,,{\fs12\fad(417,417)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(99,359.5)}Director
-Dialogue: 0,0:01:17.47,0:01:22.60,Default,,0,0,0,,{\fs12\fad(375,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(185.166,359.5)}Tetsuya Endou
+Comment: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,These are the original values that I matched to R-F on 61. 61Credits has been moved to match Blu-Ray better.
+Comment: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(64,230)}Original Creator
+Comment: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(160,230)}Yumi Hotta
+Comment: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(168,251)}Takeshi Obata
+Comment: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(58,272)}Technical Director
+Comment: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(245,272)}Yukari Umezawa {\fscx102}(Japanese Go Institute)
+Comment: 0,0:00:08.78,0:00:13.37,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx102\fscy175\bord2.5\shad1\i1\pos(245,293)}(Shueisha Weekly Shounen Jump Series)
+Comment: 0,0:00:13.49,0:00:18.00,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(447,308.5)}Planning
+Comment: 0,0:00:13.49,0:00:18.00,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(494,346)}Keisuke Iwata
+Comment: 0,0:00:13.49,0:00:18.00,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(497.5,377)}Takashi Harada
+Comment: 0,0:00:13.49,0:00:18.00,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(492,408.5)}Yuuji Fugawa
+Comment: 0,0:00:18.16,0:00:22.50,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(356.5,272)}Animation Character Design
+Comment: 0,0:00:18.16,0:00:22.50,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(419.5,303)}Kanami Sekiguchi
+Comment: 0,0:00:18.16,0:00:22.50,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(403.5,334.5)}Miyuki Ueda
+Comment: 0,0:00:41.73,0:00:45.98,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(112,303)}Music Producer
+Comment: 0,0:00:41.73,0:00:45.98,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(312.5,303)}Takashi Nagasawa
+Comment: 0,0:00:41.73,0:00:45.98,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(85.5,334.5)}Music
+Comment: 0,0:00:41.73,0:00:45.98,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(299.5,334.5)}Kei Wakakusa
+Comment: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(410,236.5)}Opening Song
+Comment: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(425.5,261.5)}Karaoke     llbx
+Comment: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(404.5,338.5)}LYRICS
+Comment: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(482,338.5)}Nana Katase
+Comment: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(402.5,359)}MUSIC
+Comment: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(411,380)}ARRANGE
+Comment: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(492,370)}Seikou Nagaoka
+Comment: 0,0:00:46.11,0:00:49.49,Default,,0,0,0,,{\fs12\fad(0,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(482.5,401)}Nana Katase
+Comment: 0,0:00:58.29,0:01:03.17,Default,,0,0,0,,{\fs12\fad(417,417)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(196,384.5)}Program Manager
+Comment: 0,0:00:58.29,0:01:03.17,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(324.5,384.5)}Tetsuya Watanabe
+Comment: 0,0:01:17.47,0:01:22.60,Default,,0,0,0,,{\fs12\fad(417,417)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(99,359.5)}Director
+Comment: 0,0:01:17.47,0:01:22.60,Default,,0,0,0,,{\fs12\fad(375,375)\1c&HBDBEC1&\fscx101\fscy175\bord2.5\shad1\i1\pos(185,359.5)}Tetsuya Endou
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(68,228)}Original Creator
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(164,228)}Yumi Hotta
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(172,249)}Takeshi Obata
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(62,270)}Technical Director
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx102\fscy175\pos(249,270)}Yukari Umezawa (Japanese Go Institute)
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx102\fscy175\pos(249,291)}(Shueisha Weekly Shounen Jump Series)
+Dialogue: 0,0:00:13.49,0:00:18.00,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(451,306.5)}Planning
+Dialogue: 0,0:00:13.49,0:00:18.00,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(498,344)}Keisuke Iwata
+Dialogue: 0,0:00:13.49,0:00:18.00,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(501.5,375)}Takashi Harada
+Dialogue: 0,0:00:13.49,0:00:18.00,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(496,406.5)}Yuuji Fugawa
+Dialogue: 0,0:00:18.16,0:00:22.50,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(360.5,270)}Animation Character Design
+Dialogue: 0,0:00:18.16,0:00:22.50,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(423.5,301)}Kanami Sekiguchi
+Dialogue: 0,0:00:18.16,0:00:22.50,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(407.5,332.5)}Miyuki Ueda
+Dialogue: 0,0:00:41.73,0:00:45.98,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(116,301)}Music Producer
+Dialogue: 0,0:00:41.73,0:00:45.98,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(316.5,301)}Takashi Nagasawa
+Dialogue: 0,0:00:41.73,0:00:45.98,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(89.5,332.5)}Music
+Dialogue: 0,0:00:41.73,0:00:45.98,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(303.5,332.5)}Kei Wakakusa
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(414,234.5)}Opening Song
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(429.5,259.5)}Karaoke     llbx
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(408.5,336.5)}LYRICS
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(486,336.5)}Nana Katase
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(406.5,357)}MUSIC
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(415,378)}ARRANGE
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(496,368)}Seikou Nagaoka
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(486.5,399)}Nana Katase
+Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(200,382.5)}Program Manager
+Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(328.5,382.5)}Tetsuya Watanabe
+Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(103,357.5)}Director
+Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(375,375)\fscx101\fscy175\pos(189,357.5)}Tetsuya Endou
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:37.14,0:02:40.14,Default,chptr,0,0,0,,{Sai is gone?}
 Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
