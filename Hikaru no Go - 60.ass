@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 255
-Active Line: 274
-Video Position: 33357
+Active Line: 279
+Video Position: 33920
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -370,7 +370,7 @@ Dialogue: 0,0:22:32.63,0:22:36.85,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22.5\1c&HFFFF
 Dialogue: 0,0:22:34.02,0:22:37.24,Background,,0,0,0,,Now these four White stones can't get away.
 Dialogue: 0,0:22:37.68,0:22:40.43,Default,,0,0,0,,You were able to hurt White's territory a lot.
 Dialogue: 0,0:22:40.62,0:22:43.05,Background,,0,0,0,,But had you connected here...
-Dialogue: 0,0:22:41.00,0:22:47.07,NoteArial_Igo,,0,0,0,,{\fs27\1c&HFFFFFF&\fad(1126,626)\fscx200\t(0,970,1,\fscx100)\3c&HFA20F6&\4c&HFA20F6&\fscy85\bord1\shad0.5\pos(320,352)}If you respond wrong...
+Dialogue: 0,0:22:41.00,0:22:47.07,NoteArial_Igo,,0,0,0,,{\an5\fs27\1c&HFFFFFF&\fad(1126,626)\fscx200\t(0,970,1,\fscx100)\3c&HFA20F6&\4c&HFA20F6&\fscy85\bord1\shad0.5\pos(320,363)}If you respond wrong...
 Dialogue: 0,0:22:43.60,0:22:47.17,Background,,0,0,0,,White would have responded here, and his\Nterritory would have been very large.
 Dialogue: 0,0:22:47.43,0:22:51.95,Background,,0,0,0,,The correct move for White would have\Nbeen to move here at this point.
 Dialogue: 0,0:22:49.96,0:22:50.21,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(250,0)\3c&HFA20F6&\4c&HFA20F6&\fscx100\fscy90\bord1\shad0.5\move(800,353,320,353)}White should have played here{\i1}!{\i0}
