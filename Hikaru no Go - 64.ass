@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 540
-Active Line: 548
-Video Position: 239
+Video Zoom Percent: 0.625000
+Scroll Position: 581
+Active Line: 601
+Video Position: 31202
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -628,6 +628,31 @@ Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy1
 Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy175\pos(327.5,382.5)}Tetsuya Watanabe
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(102,357.5)}Director
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(188,357.5)}Tetsuya Endou
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(100,306.9)}Hikaru Shindou
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(234.4,306.9)}Tomoko Kawakami
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(98.3,336.9)}Sai Fujiwarano
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(221.9,336.9)}Susumu Chiba
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(91.5,366.9)}Tetsuo Kaga
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(221,366.9)}Kantarou Itou
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(106,396.7)}Bousei Namakura
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(227.1,396.7)}Katsuhisa Houki
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(92.333,306.9)}Young Girl
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(235,306.9)}Chinami Nishimura
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(90,337)}Customer
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(226.2,337)}Eiji Yanagisawa
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(103,366.6)}Baseball Team
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(88,386.5)}Members
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(230.7,366.6)}Takuo Kawamura
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(221.9,396.5)}Yuuno Nakada
+Dialogue: 0,0:21:41.36,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy175\pos(107,199)}Ending Song
+Dialogue: 0,0:21:41.36,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy175\pos(131.066,224.167)}Karaoke: llbx
+Dialogue: 0,0:21:41.36,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(164,310.8)}LYRICS
+Dialogue: 0,0:21:41.36,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(169.5,335.3)}TUNE
+Dialogue: 0,0:21:41.36,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(133.2,360.3)}JAPANESE LYRICS
+Dialogue: 0,0:21:41.36,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(242.5,360.3)}YUUKO EBINE
+Dialogue: 0,0:21:41.36,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(159.2,385.5)}EDITING
+Dialogue: 0,0:21:41.36,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(236.8,385.5)}TATSUHIKO
+Dialogue: 0,0:21:41.36,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(168.8,410.4)}SONG
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:16.32,0:02:19.32,Default,chptr,0,0,0,,{Keichou Flowerpots}
 Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
