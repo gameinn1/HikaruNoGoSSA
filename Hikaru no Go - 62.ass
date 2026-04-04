@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 6
-Video Position: 2424
+Scroll Position: 454
+Active Line: 475
+Video Position: 29950
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -559,6 +560,22 @@ Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy1
 Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy175\pos(327.5,382.5)}Tetsuya Watanabe
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(102,357.5)}Director
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(188,357.5)}Tetsuya Endou
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(106,325)}Hikaru Shindou
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(235,325)}Tomoko Kawakami
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(92.5,355)}Kawai-San
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(215.5,355)}Kenichi Ono
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(106,385)}Hikarus mother
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(214.,385)}Yurika Hino
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(85.667,325)}Shuuhei
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(231.317,325)}Nobuyuki Hiyama
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(110.5,355)}Go Salon Cashier
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(220.5,355)}Shouto Kashii
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(101.5,385)}Office worker
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(220.5,385)}Junichi Endou
+Dialogue: 0,0:21:41.36,0:21:45.74,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy175\pos(107.5,184.5)}Ending Song
+Dialogue: 0,0:21:41.36,0:21:45.74,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy175\pos(147,209.5)}Karaoke: gabest11
+Dialogue: 0,0:21:41.36,0:21:45.74,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy200\pos(92.5,299)}LYRICS
+Dialogue: 0,0:21:41.36,0:21:45.74,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy200\pos(173.5,323)}MUSIC/ARRANGE: HARA KAZUHIRO
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:04.10,0:02:07.10,Default,chptr,0,0,0,,{The Top Player in Hiroshima}
 Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
