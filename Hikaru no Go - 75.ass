@@ -91,6 +91,7 @@ Style: op61_romaji,Polo,28.7,&H0074C7D6,&H009F7D84,&H00121823,&HA2000000,0,0,0,0
 Style: op61_special,Pristina,76,&H0079C2E4,&H009F7D84,&H00151515,&HA2000000,0,0,0,0,198,100,0,0,1,1,0,5,0,0,45,1
 Style: op61_english,Especial Kay,44,&H00D6DFE2,&H009F7D84,&H0025292E,&H8F000000,0,0,0,0,100,100,0,0,1,1.6,2.5,2,0,0,21,1
 Style: op61_kanji,MS Gothic,22,&H00FFFFFF,&H009B9B9B,&H00121212,&HA2000000,0,0,0,0,100,100,0.3,0,1,1,2.5,8,0,0,58,1
+Style: 61Credits,Verdana,12,&H00BBBDC6,&H00FFFFFF,&H00000000,&H80000000,-1,-1,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -714,6 +715,35 @@ Dialogue: 81,0:21:31.69,0:21:35.44,ed75_eng,,0,0,0,fx,But we're going to get ove
 Dialogue: 82,0:21:35.44,0:21:35.73,ed75_eng,,0,0,0,fx,{\fad(0,300)}But we're going to get over that
 Dialogue: 83,0:21:35.69,0:21:40.61,ed75_eng,,0,0,0,fx,heading higher than anyone else
 Dialogue: 84,0:21:40.61,0:21:40.90,ed75_eng,,0,0,0,fx,{\fad(0,300)}heading higher than anyone else
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(67,228)}Original Creator
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(163,228)}Yumi Hotta
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(171,249)}Takeshi Obata
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(61,270)}Technical Director
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx102\fscy175\pos(248,270)}Yukari Umezawa (Japanese Go Institute)
+Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx102\fscy175\pos(248,291)}(Shueisha Weekly Shounen Jump Series)
+Dialogue: 0,0:00:13.49,0:00:18.00,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(450,306.5)}Planning
+Dialogue: 0,0:00:13.49,0:00:18.00,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(497,344)}Keisuke Iwata
+Dialogue: 0,0:00:13.49,0:00:18.00,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(500.5,375)}Takashi Harada
+Dialogue: 0,0:00:13.49,0:00:18.00,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(495,406.5)}Yuuji Fugawa
+Dialogue: 0,0:00:18.16,0:00:22.50,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(359.5,270)}Animation Character Design
+Dialogue: 0,0:00:18.16,0:00:22.50,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(422.5,301)}Kanami Sekiguchi
+Dialogue: 0,0:00:18.16,0:00:22.50,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(406.5,332.5)}Miyuki Ueda
+Dialogue: 0,0:00:41.73,0:00:45.98,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy175\pos(115,301)}Music Producer
+Dialogue: 0,0:00:41.73,0:00:45.98,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy175\pos(315.5,301)}Takashi Nagasawa
+Dialogue: 0,0:00:41.73,0:00:45.98,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy175\pos(88.5,332.5)}Music
+Dialogue: 0,0:00:41.73,0:00:45.98,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy175\pos(302.5,332.5)}Kei Wakakusa
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(413,234.5)}Opening Song
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(428.5,259.5)}Karaoke     llbx
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(407.5,336.5)}LYRICS
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(485,336.5)}Nana Katase
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(405.5,357)}MUSIC
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(414,378)}ARRANGE
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(495,368)}Seikou Nagaoka
+Dialogue: 0,0:00:46.11,0:00:49.49,61Credits,,0,0,0,,{\fad(0,375)\fscx101\fscy175\pos(485.5,399)}Nana Katase
+Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy175\pos(199,382.5)}Program Manager
+Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy175\pos(327.5,382.5)}Tetsuya Watanabe
+Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(102,357.5)}Director
+Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(188,357.5)}Tetsuya Endou
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:29.96,0:02:32.96,Default,chptr,0,0,0,,{That Same Old Smile}
 Dialogue: 0,0:16:57.70,0:17:00.70,Default,chptr,0,0,0,,{Ending}
