@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 266
-Active Line: 288
-Video Position: 34476
+Video Zoom Percent: 0.750000
+Scroll Position: 471
+Active Line: 487
+Video Position: 29949
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -572,6 +572,30 @@ Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy1
 Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy175\pos(327.5,382.5)}Tetsuya Watanabe
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(102,357.5)}Director
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(188,357.5)}Tetsuya Endou
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(100,305)}Hikaru Shindou
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(235,305)}Tomoko Kawakami
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(89.5,334.5)}Akira Touya
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(229.5,334.5)}Sanae Kobayashi
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(95,364.5)}Akari Fujisaki
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(218,364.5)}Yumi Kakazu
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(101.5,394.2)}Yoshitaka Waya
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(217.5,394.2)}Reiko Takagi
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(112.5,424.1)}Shinoda Insei Instr.
+Dialogue: 0,0:20:43.26,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(220.5,424.1)}Naoki Bandou
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(92,304.8)}Kawai-san
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(215.317,304.8)}Kenichi Ono
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(106.5,334.5)}Ashiwara 4-dan
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(232,334.5)}Katsuyuki Konishi
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(83.5,364.4)}Kanako
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(197.5,364.4)}Yukiji
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(101,394.4)}Matsui Sensei
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(229.5,394.4)}Mitsuaki Hoshino
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(109,424.2)}Toshinori Honda
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(229,424.2)}Takahiro Sakurai
+Dialogue: 0,0:21:41.36,0:21:45.74,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy175\pos(107.5,184.5)}Ending Song
+Dialogue: 0,0:21:41.36,0:21:45.74,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy175\pos(147,209.5)}Karaoke: gabest11
+Dialogue: 0,0:21:41.36,0:21:45.74,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy200\pos(92.5,299)}LYRICS
+Dialogue: 0,0:21:41.36,0:21:45.74,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy200\pos(173.5,323)}MUSIC/ARRANGE: HARA KAZUHIRO
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:40.39,0:02:43.39,Default,chptr,0,0,0,,{I Won't Play Anymore}
 Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
