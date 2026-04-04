@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 341
+Scroll Position: 342
 Active Line: 350
-Video Position: 30412
+Video Position: 31179
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -446,7 +446,7 @@ Dialogue: 0,0:23:09.24,0:23:10.29,Thinking,,0,0,0,,Torajirou's...
 Dialogue: 0,0:23:10.87,0:23:12.37,Thinking,,0,0,0,,grave is in Tokyo!?
 Dialogue: 0,0:23:22.71,0:23:24.26,Default,,0,0,0,,Then let's play.
 Dialogue: 0,0:20:54.73,0:21:40.36,NoteArial,,0,0,0,mask,{\fad(524,524)\bord0\shad0\alpha&H40&\an7\p1\c&H000000&\pos(0,0)}m 0 120 l 640 120 640 374 0 374
-Dialogue: 1,0:20:54.73,0:21:40.45,NoteArial,,0,0,0,,{\fs18.5\fscx101\1c&HFFFFFF&\bord0\shad0\clip(m 0 126 l 640 126 640 366 0 366)\move(320,372,320,-169,400,45720)}Translator's Note by Loae666{\fs15\fscx100}\N\N\NYuugen (Room of Deep Contemplation)\NThe actual sign reads "Yuugen no Ma"\N\NThe symbol of beauty in Japanese literature has changed subtlely in the last\N1500 years. In the very early days of Japanese literature, when the first collections\Nof poetry like the Manyoshu and Kokinshu were published, the symbol of\Nbeauty was "Makoto". A representation of the world as it truly shows.\N\NDuring the Heian period, (the period of Japanese history that Sai is from) texts\Nlike Tales of Genji were published. At this point, what was valued in literature\Nwas "Miyabi", portraying the world as being beautiful and elegant.\N\NThen, immediately after the Heian period, we face the Genpei conflict in Japan,\Nwhere the Taira clan and Minamoto clan struggle for power of Japan. A classic\Ntext of the time is Tales of the Heike, what is valued is "Monono ahare".\N\NIn the relatively modern times, what has becomes valued is "Yuugen". A type\Nof deep spiritual mystery. A concept of contemplating about the deep mysteries\Nof the spiritual realm. That is why "Yuugen no Ma" (Room of Yuugen) is\Na very fitting title for the room where the top title matches are played.
+Dialogue: 1,0:20:54.73,0:21:40.45,NoteArial,,0,0,0,,{\fs18.5\fscx101\1c&HFFFFFF&\bord0\shad0\clip(m 0 126 l 640 126 640 366 0 366)\move(320,374,320,-179,400,45720)}Translator's Note by Loae666{\fs15\fscx100}\N\N\NYuugen (Room of Deep Contemplation)\NThe actual sign reads "Yuugen no Ma"\N\NThe symbol of beauty in Japanese literature has changed subtlely in the last\N1500 years. In the very early days of Japanese literature, when the first collections\Nof poetry like the Manyoshu and Kokinshu were published, the symbol of\Nbeauty was "Makoto". A representation of the world as it truly shows.\N\NDuring the Heian period, (the period of Japanese history that Sai is from) texts\Nlike Tales of Genji were published. At this point, what was valued in literature\Nwas "Miyabi", portraying the world as being beautiful and elegant.\N\NThen, immediately after the Heian period, we face the Genpei conflict in Japan,\Nwhere the Taira clan and Minamoto clan struggle for power of Japan. A classic\Ntext of the time is Tales of the Heike, what is valued is "Monono ahare".\N\NIn the relatively modern times, what has becomes valued is "Yuugen". A type\Nof deep spiritual mystery. A concept of contemplating about the deep mysteries\Nof the spiritual realm. That is why "Yuugen no Ma" (Room of Yuugen) is\Na very fitting title for the room where the top title matches are played.
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,238,640,244)}Real Fansubbers presents
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,220,640,232)}Real Fansubbers presents
 Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H2C00EE&\clip(0,220,640,230)}Real Fansubbers presents
