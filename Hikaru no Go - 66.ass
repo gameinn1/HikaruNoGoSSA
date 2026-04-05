@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 54
-Active Line: 58
-Video Position: 8484
+Video Zoom Percent: 0.312500
+Scroll Position: 471
+Active Line: 489
+Video Position: 29916
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -575,6 +575,37 @@ Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy1
 Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy175\pos(327.5,382.5)}Tetsuya Watanabe
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(102,357.5)}Director
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(188,357.5)}Tetsuya Endou
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(99.6,327.5)}Hikaru Shindou
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(234.7,327.5)}Tomoko Kawakami
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(98.3,357.6)}Sai Fujiwarano
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(221.5,357.6)}Susumu Chiba
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(89.7,387.5)}Akira Touya
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(229.3,387.3)}Sanae Kobayashi
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(96.3,326.2)}Kouyou Touya
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(220.6,326.2)}Eizou Tsuda
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(91.6,356.2)}Hideki Isobe
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(238.3,356.2)}Kumiko Watanabe
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(94.6,386)}Ichikawa-san
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(228.9,386)}Satsuki Yukino
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(108.3,415.8)}Hiroyuki Ashiwara
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(237.5,415.8)}Katsuyuki Konishi
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(111.5,326.3)}Company President
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(231.3,326.3)}Yoshiyuki Kaneko
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(83.3,356.5)}Customer
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(229.6,356.2)}Mitsuaki Hoshino
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(83.3,386.2)}Secretary
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(228.9,386.2)}Akeno Watanabe
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(79.8,416.2)}Children
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(231.6,416.2)}Tomo Shigematsu
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy175\pos(107,197)}Ending Song
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy175\pos(131.2,222.2)}Karaoke: llbx
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(164,308.8)}LYRICS
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(169.5,333.3)}TUNE
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(133.2,358.3)}JAPANESE LYRICS
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(242.5,358.3)}YUUKO EBINE
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(159.2,383.5)}EDITING
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(236.8,383.5)}TATSUHIKO
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(168.8,408.4)}SONG
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:54.65,0:02:57.65,Default,chptr,0,0,0,,{The Fated Encounter}
 Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
