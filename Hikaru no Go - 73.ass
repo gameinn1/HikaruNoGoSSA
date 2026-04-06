@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 216
-Active Line: 240
-Video Position: 34709
+Video Zoom Percent: 0.718750
+Scroll Position: 484
+Active Line: 508
+Video Position: 31201
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -568,6 +568,51 @@ Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy1
 Dialogue: 0,0:00:58.29,0:01:03.17,61Credits,,0,0,0,,{\fad(459,417)\fscx101\fscy175\pos(327.5,382.5)}Tetsuya Watanabe
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(102,357.5)}Director
 Dialogue: 0,0:01:17.47,0:01:22.60,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy175\pos(188,357.5)}Tetsuya Endou
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(99.6,268.2)}Hikaru Shindou
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(234.7,268.2)}Tomoko Kawakami
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(89.8,298)}Akira Touya
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(229.4,298)}Sanae Kobayashi
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(94.9,328)}Akari Fujisaki
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(217.9,328)}Yumi Kakazu
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(113.5,358)}Honinbou Kuwabara
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(221.2,358)}Rokurou Naya
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(101.4,387.9)}Waya Yoshitaka
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(217.4,387.9)}Reiko Takagi
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(94.7,417.4)}Kousuke Ochi
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(223.9,417.4)}Yoko Matsuoka
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(75,268.2)}Kurata 6-dan
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(224,268.2)}Mitsuo Iwata
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(107,298.1)}Shinoda Insei Instructor
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(226,298.1)}Naoki Bandou
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(56.7,328)}Amano
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(235,328)}Yoshito Ishinami
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(82.4,358)}Hikaru's Mother
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(219.7,358)}Yurika Hino
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(81.7,388)}Ashiwara 4-dan
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(237.4,388)}Katsuyuki Konishi
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(60.7,417.8)}Mashiba
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(235,417.8)}Hiroyuki Yoshino
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(100.8,268.1)}Morishita 9-dan
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(242.5,268.1)}Katsuhiro Kitagawa
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(104.4,298.1)}Shirokawa 7-dan
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(213.3,298.1)}Koji Yusa
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(84.3,328)}Furukawa
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(218.5,328)}Takao Ishii
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(90.1,358)}Saeki 4-dan
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(231.8,358)}Toshita Shimizu
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(83.3,388)}Sakamaki
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(225.6,388)}Shouto Kashii
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(97.5,417.8)}Record Keeper
+Dialogue: 0,0:20:52.19,0:20:56.53,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(237.5,417.8)}Tomo Shigematsu
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy175\pos(107,197)}Ending Song
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy175\pos(131.2,222.2)}Karaoke: llbx
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(164,308.8)}LYRICS
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(169.5,333.3)}TUNE
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(133.2,358.3)}JAPANESE LYRICS
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(242.5,358.3)}YUUKO EBINE
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(159.2,383.5)}EDITING
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(236.8,383.5)}TATSUHIKO
+Dialogue: 0,0:21:41.32,0:21:45.70,61Credits,,0,0,0,,{\fad(501,417)\fscx101\fscy210\pos(168.8,408.4)}SONG
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:41.68,0:02:44.68,Default,chptr,0,0,0,,{Shindou vs Touya}
 Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
