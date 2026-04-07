@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 207
-Active Line: 228
-Video Position: 34679
+Video Zoom Percent: 0.750000
+Scroll Position: 204
+Active Line: 226
+Video Position: 30055
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -270,34 +270,63 @@ Dialogue: 0,0:16:49.20,0:16:49.70,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:16:50.53,0:16:54.45,Default,,0,0,0,,Okay. I'm gonna finish up my game now.
 Dialogue: 0,0:17:21.23,0:17:22.02,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:17:22.85,0:17:29.11,Thinking,,0,0,0,,One day... I will play the divine move with you!
-Dialogue: 0,0:17:32.70,0:17:37.16,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(110,392)}Hikaru Shindou
-Dialogue: 0,0:17:32.70,0:17:37.16,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(267,392)}Tomoko Kawamichi
-Dialogue: 0,0:17:46.04,0:17:50.51,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(101,392)}Akira Touya
-Dialogue: 0,0:17:46.04,0:17:50.51,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(259,392)}Sanae Kobayashi
-Dialogue: 0,0:17:50.76,0:17:55.64,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(103,351)}Yoshitaka Waya
-Dialogue: 0,0:17:50.76,0:17:55.64,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(219,351)}Reiko Takagi
-Dialogue: 0,0:17:50.76,0:17:55.64,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(97,386)}Ichikawa-san
-Dialogue: 0,0:17:50.76,0:17:55.64,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(224,386)}Satsuki Yukino
-Dialogue: 0,0:17:50.76,0:17:55.64,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(104,420)}Hikaru's mother
-Dialogue: 0,0:17:50.76,0:17:55.64,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(215,420)}Yurika Hino
-Dialogue: 0,0:18:03.77,0:18:09.32,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(74,317)}Kume
-Dialogue: 0,0:18:03.77,0:18:09.32,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(231,317)}Mitsuaki Hoshino
-Dialogue: 0,0:18:03.77,0:18:09.32,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(85,352)}Kawasaki
-Dialogue: 0,0:18:03.77,0:18:09.32,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(232,352)}Takuo Kawamura
-Dialogue: 0,0:18:03.77,0:18:09.32,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(81,386)}[XXX 1]
-Dialogue: 0,0:18:03.77,0:18:09.32,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(224,386)}Tomoya Kawai
-Dialogue: 0,0:18:03.77,0:18:09.32,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(85,421)}Customer
-Dialogue: 0,0:18:03.77,0:18:09.32,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(221,421)}Mizuki Saitou
-Dialogue: 0,0:18:16.37,0:18:21.33,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(350,390)}Hikaru's father
-Dialogue: 0,0:18:16.37,0:18:21.33,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(487,390)}Susumu Chiba
-Dialogue: 0,0:18:31.26,0:18:35.72,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(98,380)}[XXX 2]
-Dialogue: 0,0:18:31.26,0:18:35.72,Default,,0,0,0,,{\fs12\fad(501,501)\1c&HBDBEC1&\fscy195\bord4\shad0.5\i1\pos(215,380)}[XXX 3]
-Dialogue: 0,0:20:53.52,0:20:57.99,Default,,0,0,0,,{\fs12\fad(501,0)\1c&HBDBEC1&\fscy170\bord4\shad0.5\i1\pos(296,216)}Ending Song
-Dialogue: 0,0:20:53.52,0:20:57.99,Default,,0,0,0,,{\fs12\fad(501,0)\1c&HBDBEC1&\fscy170\bord4\shad0.5\i1\pos(320,241)}Karaoke: llbx
-Dialogue: 0,0:20:53.52,0:20:57.99,Default,,0,0,0,,{\fs12\fad(501,0)\1c&HBDBEC1&\fscy205\bord4\shad0.5\i1\pos(284,336)}LYRICS
-Dialogue: 0,0:20:53.52,0:20:57.99,Default,,0,0,0,,{\fs12\fad(501,0)\1c&HBDBEC1&\fscy205\bord4\shad0.5\i1\pos(285,361)}MUSIC
-Dialogue: 0,0:20:53.52,0:20:57.99,Default,,0,0,0,,{\fs12\fad(501,0)\1c&HBDBEC1&\fscy205\bord4\shad0.5\i1\pos(280,386)}EDITING
-Dialogue: 0,0:20:53.52,0:20:57.99,Default,,0,0,0,,{\fs12\fad(501,0)\1c&HBDBEC1&\fscy205\bord4\shad0.5\i1\pos(348,386)}[XXX 5]
+Comment: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,There commented values are direct overlay from R-F to the nearest values I could get.
+Comment: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(109,394.5)}Hikaru Shindou
+Comment: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(266.3,394.5)}Tomoko Kawamichi
+Comment: 0,0:17:46.04,0:17:50.51,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(99.3,394.5)}Akira Touya
+Comment: 0,0:17:46.04,0:17:50.51,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(256.7,394.5)}Sanae Kobayashi
+Comment: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(101.3,353)}Yoshitaka Waya
+Comment: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(217.7,353)}Reiko Takagi
+Comment: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(94.7,388)}Ichikawa-san
+Comment: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(223.3,388)}Satsuki Yukino
+Comment: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(101.8,422.5)}Hikaru's mother
+Comment: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(214.2,422.5)}Yurika Hino
+Comment: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(72.6,319)}Kume
+Comment: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(229.7,319)}Mitsuaki Hoshino
+Comment: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(83.3,353.5)}Kawasaki
+Comment: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(230.3,353.5)}Takuo Kawamura
+Comment: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(78.5,388.2)}[XXX 1]
+Comment: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(222.6,388.2)}Tomoya Kawai
+Comment: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(83.6,422.8)}Customer
+Comment: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(218.9,422.8)}Mizuki Saitou
+Comment: 0,0:18:16.37,0:18:21.33,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(347.3,392.8)}Hikaru's father
+Comment: 0,0:18:16.37,0:18:21.33,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(485,392.8)}Susumu Chiba
+Comment: 0,0:18:31.26,0:18:35.72,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(96,382.4)}[XXX 2]
+Comment: 0,0:18:31.26,0:18:35.72,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(213,382.4)}[XXX 3]
+Comment: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy170\pos(294.7,217.7)}Ending Song
+Comment: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy170\pos(318.7,242.7)}Karaoke: llbx
+Comment: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy205\pos(280.3,338.3)}LYRICS
+Comment: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy205\pos(282,363.2)}MUSIC
+Comment: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy210\pos(276.2,388.3)}EDITING
+Comment: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy210\pos(344.6,388)}[XXX 5]
+Dialogue: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(112,391.5)}Hikaru Shindou
+Dialogue: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(269.3,391.5)}Tomoko Kawamichi
+Dialogue: 0,0:17:46.04,0:17:50.51,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(102.3,391.5)}Akira Touya
+Dialogue: 0,0:17:46.04,0:17:50.51,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(259.7,391.5)}Sanae Kobayashi
+Dialogue: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(104.3,350)}Yoshitaka Waya
+Dialogue: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(220.7,350)}Reiko Takagi
+Dialogue: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(97.7,385)}Ichikawa-san
+Dialogue: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(226.3,385)}Satsuki Yukino
+Dialogue: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(104.8,419.5)}Hikaru's mother
+Dialogue: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(217.2,419.5)}Yurika Hino
+Dialogue: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(75.6,316)}Kume
+Dialogue: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(232.7,316)}Mitsuaki Hoshino
+Dialogue: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(86.3,350.5)}Kawasaki
+Dialogue: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(233.3,350.5)}Takuo Kawamura
+Dialogue: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(81.5,385.2)}[XXX 1]
+Dialogue: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(225.6,385.2)}Tomoya Kawai
+Dialogue: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(86.6,419.8)}Customer
+Dialogue: 0,0:18:03.77,0:18:09.32,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(221.9,419.8)}Mizuki Saitou
+Dialogue: 0,0:18:16.37,0:18:21.33,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(350.3,389.8)}Hikaru's father
+Dialogue: 0,0:18:16.37,0:18:21.33,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(488,389.8)}Susumu Chiba
+Dialogue: 0,0:18:31.26,0:18:35.72,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(99,379.4)}[XXX 2]
+Dialogue: 0,0:18:31.26,0:18:35.72,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(216,379.4)}[XXX 3]
+Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy170\pos(297.7,214.7)}Ending Song
+Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy170\pos(321.7,239.7)}Karaoke: llbx
+Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy205\pos(283.3,335.3)}LYRICS
+Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy205\pos(285,360.2)}MUSIC
+Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy210\pos(279.2,385.3)}EDITING
+Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy210\pos(347.6,385)}[XXX 5]
 Dialogue: 0,0:19:00.91,0:19:03.54,NoteArial,,0,0,0,,{\fs19\1c&H464550&\4c&HFFFFFF&\bord0\blur0\shad1\frz357\fscy110\pos(85,139)}Morishita
 Dialogue: 0,0:19:07.04,0:19:09.13,NoteArial,,0,0,0,,{\c&H000000&\fs14\shad0\3c&HFFFFFF&\frz270\bord1.8\pos(485,302)}{\alpha&HFF&\t(0,18,\alpha&H00&)}W{\alpha&HFF&\t(18,37,\alpha&H00&)}a{\alpha&HFF&\t(37,55,\alpha&H00&)}y{\alpha&HFF&\t(55,74,\alpha&H00&)}a{\alpha&HFF&\t(74,92,\alpha&H00&)}-{\alpha&HFF&\t(92,111,\alpha&H00&)}k{\alpha&HFF&\t(111,129,\alpha&H00&)}u{\alpha&HFF&\t(129,148,\alpha&H00&)}n{\alpha&HFF&\t(148,166,\alpha&H00&)} {\alpha&HFF&\t(166,185,\alpha&H00&)}c{\alpha&HFF&\t(185,203,\alpha&H00&)}o{\alpha&HFF&\t(203,222,\alpha&H00&)}n{\alpha&HFF&\t(222,240,\alpha&H00&)}g{\alpha&HFF&\t(240,259,\alpha&H00&)}r{\alpha&HFF&\t(259,277,\alpha&H00&)}a{\alpha&HFF&\t(277,296,\alpha&H00&)}t{\alpha&HFF&\t(296,314,\alpha&H00&)}u{\alpha&HFF&\t(314,333,\alpha&H00&)}l{\alpha&HFF&\t(333,351,\alpha&H00&)}a{\alpha&HFF&\t(351,370,\alpha&H00&)}t{\alpha&HFF&\t(370,388,\alpha&H00&)}i{\alpha&HFF&\t(388,407,\alpha&H00&)}o{\alpha&HFF&\t(407,425,\alpha&H00&)}n{\alpha&HFF&\t(425,444,\alpha&H00&)}s{\alpha&HFF&\t(444,462,\alpha&H00&)} {\alpha&HFF&\t(462,481,\alpha&H00&)}o{\alpha&HFF&\t(481,500,\alpha&H00&)}n
 Dialogue: 0,0:19:07.04,0:19:09.13,NoteArial,,0,0,0,,{\c&H000000&\fs14\shad0\3c&HFFFFFF&\frz270\bord1.8\pos(471,307)}{\alpha&HFF&\t(0,17,\alpha&H00&)}y{\alpha&HFF&\t(17,34,\alpha&H00&)}o{\alpha&HFF&\t(34,51,\alpha&H00&)}u{\alpha&HFF&\t(51,68,\alpha&H00&)}r{\alpha&HFF&\t(68,86,\alpha&H00&)} {\alpha&HFF&\t(86,103,\alpha&H00&)}p{\alpha&HFF&\t(103,120,\alpha&H00&)}r{\alpha&HFF&\t(120,137,\alpha&H00&)}o{\alpha&HFF&\t(137,155,\alpha&H00&)}m{\alpha&HFF&\t(155,172,\alpha&H00&)}o{\alpha&HFF&\t(172,189,\alpha&H00&)}t{\alpha&HFF&\t(189,206,\alpha&H00&)}i{\alpha&HFF&\t(206,224,\alpha&H00&)}o{\alpha&HFF&\t(224,241,\alpha&H00&)}n{\alpha&HFF&\t(241,258,\alpha&H00&)} {\alpha&HFF&\t(258,275,\alpha&H00&)}t{\alpha&HFF&\t(275,293,\alpha&H00&)}o{\alpha&HFF&\t(293,310,\alpha&H00&)} {\alpha&HFF&\t(310,327,\alpha&H00&)}s{\alpha&HFF&\t(327,344,\alpha&H00&)}e{\alpha&HFF&\t(344,362,\alpha&H00&)}c{\alpha&HFF&\t(362,379,\alpha&H00&)}o{\alpha&HFF&\t(379,396,\alpha&H00&)}n{\alpha&HFF&\t(396,413,\alpha&H00&)}d{\alpha&HFF&\t(413,431,\alpha&H00&)} {\alpha&HFF&\t(431,448,\alpha&H00&)}d{\alpha&HFF&\t(448,465,\alpha&H00&)}a{\alpha&HFF&\t(465,482,\alpha&H00&)}n{\alpha&HFF&\t(482,500,\alpha&H00&)}!
