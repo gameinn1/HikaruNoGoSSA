@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 226
+Scroll Position: 220
 Active Line: 236
-Video Position: 27580
+Video Position: 27515
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -270,7 +270,7 @@ Dialogue: 0,0:16:49.20,0:16:49.70,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:16:50.53,0:16:54.45,Default,,0,0,0,,Okay. I'm gonna finish up my game now.
 Dialogue: 0,0:17:21.23,0:17:22.02,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:17:22.85,0:17:29.11,Thinking,,0,0,0,,One day... I will play the divine move with you!
-Comment: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,There commented values are direct overlay from R-F to the nearest values I could get.
+Comment: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,There commented values are direct overlay from R-F to the nearest values I could get. Actual subs have x moved 3 pixels to the right and up by 3 pixels on y to try and match Blu-Ray better.
 Comment: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(109,394.5)}Hikaru Shindou
 Comment: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(266.3,394.5)}Tomoko Kawamichi
 Comment: 0,0:17:46.04,0:17:50.51,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy195\pos(99.3,394.5)}Akira Touya
