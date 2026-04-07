@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 376
-Active Line: 387
-Video Position: 35073
+Video Zoom Percent: 0.625000
+Scroll Position: 179
+Active Line: 198
+Video Position: 16659
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -190,11 +190,11 @@ Dialogue: 0,0:09:27.15,0:09:29.40,Sai,,0,0,0,,I didn't do anything! Really!
 Dialogue: 0,0:09:30.45,0:09:31.67,Default,,0,0,0,,Hikaru are you okay?
 Dialogue: 0,0:09:31.80,0:09:32.50,Default,,0,0,0,,Shindou-kun!
 Dialogue: 0,0:09:34.29,0:09:35.46,Default,,0,0,0,,Shindou-kun are you okay?
-Dialogue: 0,0:09:35.66,0:09:36.39,Default,,0,0,0,,Do you want to go to the nurse's office?
-Dialogue: 0,0:09:36.87,0:09:37.90,Default,,0,0,0,,No, I'm okay now.
+Dialogue: 0,0:09:35.64,0:09:36.43,Default,,0,0,0,,Do you want to go to the nurse's office?
+Dialogue: 0,0:09:36.47,0:09:37.85,Default,,0,0,0,,No, I'm okay now.
 Dialogue: 0,0:09:38.57,0:09:41.06,Sai,,0,0,0,,The grief I felt from the\Nthought that I can't play Go,
 Dialogue: 0,0:09:41.37,0:09:43.30,Sai,,0,0,0,,simply encompassed your awareness...
-Dialogue: 0,0:09:43.68,0:09:47.88,Default,,0,0,0,,Your love of the game's held out for\Na thousand years? That's impressive.
+Dialogue: 0,0:09:43.65,0:09:47.88,Default,,0,0,0,,Your love of the game's held out for\Na thousand years? That's impressive.
 Dialogue: 0,0:09:49.35,0:09:52.96,Background,,0,0,0,,But I have my own plans for my life.
 Dialogue: 0,0:09:56.14,0:09:59.00,Default,,0,0,0,,Are you sure you can't move\Nonto someone other than me?
 Dialogue: 0,0:09:59.20,0:10:00.00,Sai,,0,0,0,,Probably not...
@@ -211,33 +211,33 @@ Dialogue: 0,0:10:28.23,0:10:29.58,Background,,0,0,0,,10 minutes remaining.
 Dialogue: 0,0:10:30.08,0:10:33.63,Background,,0,0,0,,If you're done already, you should check\Nover your answers again for mistakes.
 Dialogue: 0,0:10:35.20,0:10:36.10,Default,,0,0,0,,I can't do it.
 Dialogue: 0,0:10:36.45,0:10:39.38,Default,,0,0,0,,Sai do you know anything about\Nthe revolution of the Tempou?
-Dialogue: 0,0:10:39.70,0:10:40.58,Sai,,0,0,0,,Revolution of the Tempo?
+Dialogue: 0,0:10:39.70,0:10:40.58,Sai,,0,0,0,,Revolution of the Tempou?
 Dialogue: 0,0:10:40.83,0:10:42.91,Sai,,0,0,0,,The one that Roujyuu no Miizuno sama started?
 Dialogue: 0,0:10:44.26,0:10:45.10,Default,,0,0,0,,Yeah Yeah! That's the one.
-Dialogue: 0,0:10:45.16,0:10:49.70,Background,,0,0,0,,What a fond memory. We played\NGo once within the castle.
+Dialogue: 0,0:10:45.16,0:10:49.70,Sai,,0,0,0,,What a fond memory. We played\NGo once within the castle.
 Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs24\pos(171,88)}3) Tokugawa Ieyasu
 Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs24\pos(217,209)}5) Mizuno Roujyuu
 Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs24\pos(265,341)}7) Itou Hirobumi
 Dialogue: 0,0:10:49.76,0:10:51.00,Default,,0,0,0,,Do you know anything about Perry?
 Dialogue: 0,0:10:52.03,0:10:52.63,Sai,,0,0,0,,Perry?
 Dialogue: 0,0:10:53.10,0:10:55.60,Default,,0,0,0,,Perry!? You know? He lead\Na couple of warships here?
-Dialogue: 0,0:10:56.24,0:10:57.43,Sai,,0,0,0,,Oh! Commodore Perry!
-Dialogue: 0,0:10:57.72,0:10:58.47,Default,,0,0,0,,Yeah! That's the one!
+Dialogue: 0,0:10:56.18,0:10:57.55,Sai,,0,0,0,,Oh! Commodore Perry!
+Dialogue: 0,0:10:57.76,0:10:58.47,Default,,0,0,0,,Yeah! That's the one!
 Dialogue: 0,0:10:58.47,0:10:59.93,Default,,0,0,0,,Where did that Commodore Perry come to?
-Dialogue: 0,0:11:00.30,0:11:02.75,Sai,,0,0,0,,He came to Uraga. There was a\Nhuge commotion over that incident.
+Dialogue: 0,0:11:00.26,0:11:02.75,Sai,,0,0,0,,He came to Uraga. There was a\Nhuge commotion over that incident.
 Dialogue: 0,0:11:02.85,0:11:03.93,Default,,0,0,0,,Uraga...
 Dialogue: 0,0:11:04.80,0:11:05.40,Default,,0,0,0,,Sai
-Dialogue: 0,0:11:05.70,0:11:06.30,Default,,0,0,0,,Yes?
-Dialogue: 0,0:11:06.77,0:11:08.60,Default,,0,0,0,,You're pretty useful sometimes.
-Dialogue: 0,0:11:08.80,0:11:11.13,Default,,0,0,0,,Shindou-kun why are you talking to yourself?
-Dialogue: 0,0:11:11.59,0:11:12.70,Default,,0,0,0,,Are you done with the test?
-Dialogue: 0,0:11:12.98,0:11:13.98,Default,,0,0,0,,I'm almost done.
+Dialogue: 0,0:11:05.70,0:11:06.30,Sai,,0,0,0,,Yes?
+Dialogue: 0,0:11:06.73,0:11:08.60,Default,,0,0,0,,You're pretty useful sometimes.
+Dialogue: 0,0:11:08.77,0:11:11.13,Default,,0,0,0,,Shindou-kun why are you talking to yourself?
+Dialogue: 0,0:11:11.57,0:11:12.74,Default,,0,0,0,,Are you done with the test?
+Dialogue: 0,0:11:12.94,0:11:13.98,Default,,0,0,0,,I'm almost done.
 Dialogue: 0,0:11:14.25,0:11:14.95,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:11:19.05,0:11:22.10,Default,,0,0,0,,She passed through my body without an apology!
-Dialogue: 0,0:11:22.41,0:11:23.80,Default,,0,0,0,,How rude!
-Dialogue: 0,0:11:24.43,0:11:26.90,Default,,0,0,0,,Hikaru are all the women of this age...
-Dialogue: 0,0:11:27.53,0:11:31.45,Background,,0,0,0,,Okay, okay, just don't yell so loudly in my head.
-Dialogue: 0,0:11:31.66,0:11:34.77,Background,,0,0,0,,I'll take you somewhere where you\Ncan play Go as soon as this is over.
+Dialogue: 0,0:11:19.05,0:11:22.10,Sai,,0,0,0,,She passed through my body without an apology!
+Dialogue: 0,0:11:22.41,0:11:23.80,Sai,,0,0,0,,How rude!
+Dialogue: 0,0:11:24.43,0:11:26.90,Sai,,0,0,0,,Hikaru are all the women of this age...
+Dialogue: 0,0:11:27.46,0:11:31.30,Background,,0,0,0,,Okay, okay, just don't yell so loudly in my head.
+Dialogue: 0,0:11:31.63,0:11:34.47,Background,,0,0,0,,I'll take you somewhere where you\Ncan play Go as soon as this is over.
 Dialogue: 0,0:11:41.72,0:11:44.65,Sai,,0,0,0,,Wow! There are so many people here.
 Dialogue: 0,0:11:44.94,0:11:46.92,Default,,0,0,0,,This is Tokyo after all.
 Dialogue: 0,0:11:47.88,0:11:50.39,Sai,,0,0,0,,And, and... Where are we playing Go?
