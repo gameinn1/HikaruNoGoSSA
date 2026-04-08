@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 07 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 446
-Video Position: 34837
+Scroll Position: 218
+Active Line: 240
+Video Position: 22934
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -276,10 +277,10 @@ Dialogue: 0,0:15:39.86,0:15:41.86,Default,,0,0,0,,No! No! You can't do it!
 Dialogue: 0,0:15:42.20,0:15:44.50,Sai,,0,0,0,,Come on Hikaru, teach her!
 Dialogue: 0,0:15:44.77,0:15:45.77,Default,,0,0,0,,But...
 Dialogue: 0,0:15:45.90,0:15:48.34,Default,,0,0,0,,If you can do it, so can I!
-Dialogue: 0,0:15:48.87,0:15:49.87,Default,,0,0,0,,Right, Tsutsui-san?
-Dialogue: 0,0:15:50.33,0:15:50.93,Default,,0,0,0,,Yes.
-Dialogue: 0,0:15:51.30,0:15:56.10,Default,,0,0,0,,Fujiwaki-san why don't you join, I would not mind at all.
-Dialogue: 0,0:15:56.55,0:15:58.55,Default,,0,0,0,,So just teach me a little, Hikaru.
+Dialogue: 0,0:15:48.80,0:15:49.85,Default,,0,0,0,,Right, Tsutsui-san?
+Dialogue: 0,0:15:50.30,0:15:50.93,Default,,0,0,0,,Yes.
+Dialogue: 0,0:15:51.26,0:15:56.10,Default,,0,0,0,,Fujisaki-san why don't you join, I would not mind at all.
+Dialogue: 0,0:15:56.52,0:15:58.55,Default,,0,0,0,,So just teach me a little, Hikaru.
 Dialogue: 0,0:16:00.14,0:16:01.80,Background,,0,0,0,,Oh man...
 Dialogue: 0,0:16:02.59,0:16:04.51,Background,,0,0,0,,Look you're white.
 Dialogue: 0,0:16:05.91,0:16:10.32,Background,,0,0,0,,If black moves here, then\Nthis white stone is captured.
