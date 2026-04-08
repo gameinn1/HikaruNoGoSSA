@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 06 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 06 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 215
-Active Line: 225
-Video Position: 28208
+Video Zoom Percent: 0.750000
+Scroll Position: 145
+Active Line: 150
+Video Position: 17260
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +37,7 @@ Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
+Style: SignsEp4,Copperplate Gothic Bold,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -187,7 +187,8 @@ Dialogue: 0,0:11:30.21,0:11:31.11,Background,,0,0,0,,Touya-kun...
 Dialogue: 0,0:11:32.17,0:11:32.96,Background,,0,0,0,,Touya-kun!
 Dialogue: 0,0:11:32.96,0:11:34.42,Background,,0,0,0,,Y-Yes?
 Dialogue: 0,0:11:35.22,0:11:37.05,Default,,0,0,0,,Why don't we take a quick look at this?
-Dialogue: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,10,,{\fs26\an2}Third Annual North District Winter Junior High Go Tournament Hall.
+Dialogue: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(319.1,418.7)}Third Annual North District Winter
+Dialogue: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(319.1,446)}Junior High Go Tournament Hall.
 Dialogue: 0,0:11:44.52,0:11:46.52,Default,,0,0,0,,Seems like they're on the final match already.
 Dialogue: 0,0:11:51.51,0:11:55.40,Background,,0,0,0,,He's the person in charge of our Go Club, Mr.Yun
 Dialogue: 0,0:11:59.87,0:12:00.91,Thinking,,0,0,0,,{\1c&HC5FEC1&}Shindou!

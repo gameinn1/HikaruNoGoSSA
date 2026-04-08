@@ -19,7 +19,7 @@ Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 349
 Active Line: 365
-Video Position: 35238
+Video Position: 35281
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +37,7 @@ Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: SignsEp4,Copperplate Std 33 BC,27.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
+Style: SignsEp4,Copperplate Gothic Bold,26,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -152,11 +152,11 @@ Dialogue: 0,0:07:13.42,0:07:15.44,Default,,0,0,0,,Looks so good, I wanna have so
 Dialogue: 0,0:07:16.37,0:07:17.71,Sai,,0,0,0,,Hikaru, look over there!
 Dialogue: 0,0:07:19.05,0:07:19.55,Sai,,0,0,0,,Look!
 Dialogue: 0,0:07:19.96,0:07:21.20,Sai,,0,0,0,,They're playing Go!
-Dialogue: 0,0:07:19.63,0:07:22.30,SignsEp4,,0,0,0,,{\pos(519,3)}Tea Ceremony
-Dialogue: 0,0:07:19.63,0:07:22.30,SignsEp4,,0,0,0,,{\pos(376,293)}Go
-Dialogue: 0,0:07:22.77,0:07:23.77,Sai,,0,0,0,,Let's go!
-Dialogue: 0,0:07:23.87,0:07:25.28,Sai,,0,0,0,,Come on, {\alpha&HFF&\t(480,480,\alpha&H00&\4a&H80&)}come on, {\alpha&HFF&\t(950,950,\alpha&H00&\4a&H80&)}come on!
-Dialogue: 0,0:07:25.78,0:07:27.45,Default,,0,0,0,,Only for a little bit okay?
+Dialogue: 0,0:07:19.63,0:07:22.30,SignsEp4,,0,0,0,,{\pos(514.5,6)}Tea Ceremony
+Dialogue: 0,0:07:19.63,0:07:22.30,SignsEp4,,0,0,0,,{\pos(371.4,295.4)}Go
+Dialogue: 0,0:07:22.77,0:07:23.84,Sai,,0,0,0,,Let's go!
+Dialogue: 0,0:07:23.84,0:07:25.28,Sai,,0,0,0,,Come on, {\alpha&HFF&\t(480,480,\alpha&H00&\4a&H80&)}come on, {\alpha&HFF&\t(950,950,\alpha&H00&\4a&H80&)}come on!
+Dialogue: 0,0:07:25.76,0:07:27.45,Default,,0,0,0,,Only for a little bit okay?
 Dialogue: 0,0:07:28.32,0:07:30.22,Background,,0,0,0,,Here's a problem for a mid-kyu player.
 Dialogue: 0,0:07:28.32,0:07:33.68,Note,,0,0,0,,[note: Ranking in Go is determined with dan and kyu, the\Nstrongest player is 9 dan, then 8 dan, down to 1-dan, and\Nunder that is kyu, kyu starts at 1 kyu, and then down to 2 kyu,\Nand onwards. A mid-kyu player would be about 5~12 kyu]
 Dialogue: 0,0:07:30.65,0:07:32.34,Background,,0,0,0,,Please show the first 3 moves.
@@ -218,7 +218,7 @@ Dialogue: 0,0:09:44.02,0:09:45.58,Thinking,,0,0,0,,Touya Akira would...
 Dialogue: 0,0:09:46.79,0:09:47.63,Background,,0,0,0,,Okay...
 Dialogue: 0,0:09:47.99,0:09:49.35,Sai,,0,0,0,,Would you like to try on your own?
 Dialogue: 0,0:09:54.70,0:09:58.91,Note,,0,0,0,,[note: Hisha is a piece in Shogi, the Japanese\Nequivalent of Chess, and is basically a rook]
-Dialogue: 0,0:09:54.67,0:09:58.91,SignsEp4,,0,0,0,,{\fs35\pos(363,160)}Hisha
+Dialogue: 0,0:09:54.67,0:09:58.91,SignsEp4,,0,0,0,,{\fs32\pos(362.1,164)}Hisha
 Dialogue: 0,0:09:58.18,0:10:00.49,Default,,0,0,0,,The first move... here right?
 Dialogue: 0,0:10:01.51,0:10:02.58,Default,,0,0,0,,What do you think you're doing?!
 Dialogue: 0,0:10:03.45,0:10:04.89,Default,,0,0,0,,Igo's so stupid.
@@ -294,7 +294,7 @@ Dialogue: 0,0:13:49.14,0:13:52.60,Background,,0,0,0,,After all, you probably jus
 Dialogue: 0,0:13:53.97,0:13:55.73,Background,,0,0,0,,Tsutsui let him go!
 Dialogue: 0,0:13:56.65,0:13:58.45,Background,,0,0,0,,You think I'm a loser?
 Dialogue: 0,0:13:59.44,0:14:01.64,Default,,0,0,0,,I'll show you how strong I am!
-Dialogue: 0,0:14:01.78,0:14:02.65,SignsEp4,,0,0,0,,{\pos(315,223)}KING
+Dialogue: 0,0:14:01.78,0:14:02.65,SignsEp4,,0,0,0,,{\fs28\pos(318.2,225)}King
 Dialogue: 0,0:14:02.65,0:14:06.58,Note,,0,0,0,,{\pos(436,224)}King
 Dialogue: 0,0:14:03.60,0:14:06.57,Default,,0,0,0,,If I lose, I'll bow to you as king or whatever.
 Dialogue: 0,0:14:06.87,0:14:10.44,Background,,0,0,0,,But if you lose, go jump in an ice cold pool!
@@ -406,7 +406,8 @@ Dialogue: 0,0:23:01.87,0:23:05.88,Background,,0,0,0,,Tsutsui, the members for th
 Dialogue: 0,0:23:06.18,0:23:07.82,Sai,,0,0,0,,I think I understand now...
 Dialogue: 0,0:23:08.87,0:23:12.20,Sai,,0,0,0,,why I was drawn to Hikaru.
 Dialogue: 0,0:23:14.62,0:23:19.63,Note,,0,0,0,,[note from translator: I'll explain what a Joseki is in\Nthe next episode. Explanation omitted purposely.]
-Dialogue: 0,0:23:14.62,0:23:16.46,SignsEp4,,0,0,0,,{\fs26.5\shad1\fscy120\4c&HFFFFFF&\pos(460,356)}How to play\NJoseki correctly
+Dialogue: 0,0:23:14.62,0:23:16.46,SignsEp4,,0,0,0,,{\pos(456.5,361.5)}How to play
+Dialogue: 0,0:23:14.62,0:23:16.46,SignsEp4,,0,0,0,,{\pos(456,389)}Joseki correctly
 Dialogue: 0,0:23:22.73,0:23:25.22,Sai,,0,0,0,,Once you place the stone,\Nyou can't change its position,
 Dialogue: 0,0:23:25.29,0:23:26.76,Sai,,0,0,0,,and that is the importance of a move.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
