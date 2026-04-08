@@ -35,7 +35,7 @@
 
 Restoration of the original Hikaru No Go fansub in Substation Alpha (SSA) format, done by Elite-Fansubs [E-F] / Real Fansubbers [R-F].
 
-This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts-final.zip (compiled via fonts collector). Once extracted, right click and install them.
+This is an update to the project started by gabest11. See the table below for overall progress. The fonts are in fonts.zip (compiled via fonts collector). Once extracted, right click and install them.
 
 ## Intro/Progress
 
