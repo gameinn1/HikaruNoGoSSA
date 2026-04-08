@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 06 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 145
-Active Line: 150
-Video Position: 17260
+Scroll Position: 143
+Active Line: 149
+Video Position: 16741
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -187,8 +187,10 @@ Dialogue: 0,0:11:30.21,0:11:31.11,Background,,0,0,0,,Touya-kun...
 Dialogue: 0,0:11:32.17,0:11:32.96,Background,,0,0,0,,Touya-kun!
 Dialogue: 0,0:11:32.96,0:11:34.42,Background,,0,0,0,,Y-Yes?
 Dialogue: 0,0:11:35.22,0:11:37.05,Default,,0,0,0,,Why don't we take a quick look at this?
-Dialogue: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(319.1,418.7)}Third Annual North District Winter
-Dialogue: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(319.1,446)}Junior High Go Tournament Hall.
+Comment: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(319.1,418.7)}Third Annual North District Winter
+Dialogue: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(323,416.7)}Third Annual North District Winter
+Comment: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(319.1,446)}Junior High Go Tournament Hall.
+Dialogue: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(322,444)}Junior High Go Tournament Hall.
 Dialogue: 0,0:11:44.52,0:11:46.52,Default,,0,0,0,,Seems like they're on the final match already.
 Dialogue: 0,0:11:51.51,0:11:55.40,Background,,0,0,0,,He's the person in charge of our Go Club, Mr.Yun
 Dialogue: 0,0:11:59.87,0:12:00.91,Thinking,,0,0,0,,{\1c&HC5FEC1&}Shindou!

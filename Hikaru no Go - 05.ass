@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 229
-Active Line: 230
-Video Position: 19783
+Video Zoom Percent: 0.625000
+Scroll Position: 223
+Active Line: 242
+Video Position: 19799
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,14 +71,15 @@ Dialogue: 0,0:02:51.02,0:02:52.27,Default,,0,0,0,,Where did we get it again?
 Dialogue: 0,0:02:52.61,0:02:53.96,Default,,0,0,0,,The other side of the school grounds.
 Dialogue: 0,0:03:06.41,0:03:07.81,Default,,0,0,0,,This is delicious.
 Dialogue: 0,0:03:08.00,0:03:09.78,Default,,0,0,0,,You've got something on your face.
-Dialogue: 0,0:03:16.31,0:03:19.55,SignsEp4,,0,0,0,,{\fs26\pos(318.6,6)}Fortune Teller
-Dialogue: 0,0:03:16.86,0:03:18.49,Default,,0,0,0,,Wasn't that show hilarious?
-Dialogue: 0,0:03:18.62,0:03:19.47,Default,,0,0,0,,Yup
-Dialogue: 0,0:03:19.64,0:03:21.85,Default,,0,0,0,,But the punchline was a little inappropriate.
-Dialogue: 0,0:03:21.84,0:03:24.12,Default,,0,0,0,,Hey isn't that Shindou-kun?
-Dialogue: 0,0:03:24.52,0:03:26.50,Default,,0,0,0,,Oh... he did come after all.
-Dialogue: 0,0:03:27.80,0:03:28.94,Default,,0,0,0,,Well, we'll be going now.
-Dialogue: 0,0:03:29.03,0:03:30.20,Default,,0,0,0,,Right!
+Comment: 0,0:03:16.43,0:03:19.68,SignsEp4,,0,0,0,,{\fs26\pos(318.6,6)}Fortune Teller
+Dialogue: 0,0:03:16.43,0:03:19.68,SignsEp4,,0,0,0,,{\fs26\pos(318.6,4)}Fortune Teller
+Dialogue: 0,0:03:16.76,0:03:18.43,Default,,0,0,0,,Wasn't that show hilarious?
+Dialogue: 0,0:03:18.59,0:03:19.35,Default,,0,0,0,,Yup
+Dialogue: 0,0:03:19.51,0:03:21.81,Default,,0,0,0,,But the punchline was a little inappropriate.
+Dialogue: 0,0:03:21.81,0:03:24.12,Default,,0,0,0,,Hey isn't that Shindou-kun?
+Dialogue: 0,0:03:24.48,0:03:26.31,Default,,0,0,0,,Oh... he did come after all.
+Dialogue: 0,0:03:27.77,0:03:28.98,Default,,0,0,0,,Well, we'll be going now.
+Dialogue: 0,0:03:28.98,0:03:30.06,Default,,0,0,0,,Right!
 Dialogue: 0,0:03:30.48,0:03:31.40,Default,,0,0,0,,But!
 Dialogue: 0,0:03:31.12,0:03:32.98,Background,,0,0,0,,Say hi to Shindou-kun for me!
 Dialogue: 0,0:03:33.19,0:03:34.19,Default,,0,0,0,,Come on!
@@ -109,10 +110,14 @@ Dialogue: 0,0:04:43.60,0:04:46.13,Default,,0,0,0,,AHHH! An ice cold pool!
 Dialogue: 0,0:04:50.36,0:04:51.92,Default,,0,0,0,,W-why did you do that?
 Dialogue: 0,0:04:52.15,0:04:56.22,Default,,0,0,0,,Tsutsui, we have a team for the Go tournament.
 Dialogue: 0,0:04:57.32,0:05:00.14,Default,,0,0,0,,Myself, you, and this kid!
-Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\bord0\shad0\fs22.5\an6\pos(633,322.5)}Try
-Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\bord0\shad0\fs22.5\an6\pos(634.2,346.7)}out
-Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\bord0\shad0\fs22.5\an6\pos(632.9,369.6)}a
-Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\bord0\shad0\fs22.5\an6\pos(634.1,393.7)}Tsumego!
+Comment: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22.5\an6\pos(633,322.5)}Try
+Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22.5\an6\pos(633,320.5)}Try
+Comment: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22.5\an6\pos(634.2,346.7)}out
+Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22.5\an6\pos(634.2,344.7)}out
+Comment: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22.5\an6\pos(632.9,369.6)}a
+Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22.5\an6\pos(632.9,367.6)}a
+Comment: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22.5\an6\pos(634.1,393.7)}Tsumego!
+Dialogue: 0,0:05:01.07,0:05:04.29,SignsEp4,,0,0,0,,{\fs22.5\an6\pos(634.1,391.7)}Tsumego!
 Dialogue: 0,0:05:01.07,0:05:04.29,Note,,0,0,0,,{\fs40\1c&HFFFFFF&\3c&H000000&\pos(523,434)}Go
 Dialogue: 0,0:05:08.21,0:05:09.85,Background,,0,0,0,,We can't do that!
 Dialogue: 0,0:05:09.83,0:05:11.17,Background,,0,0,0,,You lost the game...
@@ -121,7 +126,8 @@ Dialogue: 0,0:05:14.32,0:05:16.27,Background,,0,0,0,,... when is that tournament
 Dialogue: 0,0:05:16.76,0:05:18.89,Background,,0,0,0,,This Sunday from 2PM.
 Dialogue: 0,0:05:19.17,0:05:19.97,Background,,0,0,0,,Where is it?
 Dialogue: 0,0:05:20.13,0:05:21.51,Background,,0,0,0,,Kaiou Junior High.
-Dialogue: 0,0:05:26.64,0:05:33.69,SignsEp4,,0,0,0,,{\fs30\pos(318.7,5)}Kaiou Private Junior High School
+Comment: 0,0:05:26.64,0:05:33.69,SignsEp4,,0,0,0,,{\fs30\pos(318.7,5)}Kaiou Private Junior High School
+Dialogue: 0,0:05:26.64,0:05:33.69,SignsEp4,,0,0,0,,{\fs30\pos(318.7,3)}Kaiou Private Junior High School
 Dialogue: 0,0:05:44.18,0:05:45.66,Note,,0,0,0,,{\fs27.5\pos(311,-1)}To Third Annual North District Junior High Winter
 Dialogue: 0,0:05:44.18,0:05:45.66,Note,,0,0,0,,{\fs27.5\pos(321,136)}Go Tournament Participants.
 Dialogue: 0,0:05:44.71,0:05:46.21,Background,,0,0,0,,Wow!
@@ -133,13 +139,18 @@ Dialogue: 0,0:05:48.79,0:05:55.80,Note,,0,0,0,,{\fs25\pos(319,5)}To Third Annual
 Dialogue: 0,0:05:56.12,0:05:57.30,Default,,0,0,0,,I think I'll get lost...
 Dialogue: 0,0:05:57.96,0:06:03.22,Default,,0,0,0,,Oh well, I'd never be able to come to\None of the top Junior High Schools in\Nthe nation without something like this.
 Dialogue: 0,0:06:07.09,0:06:08.92,Default,,0,0,0,,Wow, they're practicing even though it's Sunday.
-Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(551.8,223)}Igo Tournament
-Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(556.7,248.8)}Held
-Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(557.5,270)}Here
-Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(544,291.7)}<-----
+Comment: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(551.8,223)}Igo Tournament
+Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(553.8,221)}Igo Tournament
+Comment: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(556.7,248.8)}Held
+Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(558.7,246.8)}Held
+Comment: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(557.5,270)}Here
+Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(559.5,268)}Here
+Comment: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(544,291.7)}<-----
+Dialogue: 0,0:06:11.81,0:06:16.31,SignsEp4,,0,0,0,,{\fs20\pos(546,289.7)}<-----
 Dialogue: 0,0:06:13.03,0:06:14.72,Default,,0,0,0,,Oh.
 Dialogue: 0,0:06:15.71,0:06:16.32,Default,,0,0,0,,Here it is.
-Dialogue: 0,0:06:19.32,0:06:21.61,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(505.8,5)}Junior High Winter
+Comment: 0,0:06:19.32,0:06:21.61,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(505.8,5)}Junior High Winter
+Dialogue: 0,0:06:19.32,0:06:21.61,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(505.8,3)}Junior High Winter
 Dialogue: 0,0:06:21.12,0:06:22.57,Background,,0,0,0,,I guess I got here a little early.
 Dialogue: 0,0:06:22.91,0:06:24.74,Background,,0,0,0,,I don't see Tsutsui-san at all.
 Dialogue: 0,0:06:26.09,0:06:29.33,Default,,0,0,0,,Listen up, don't think that you can\Nplay better than you usually do.
@@ -271,7 +282,8 @@ Dialogue: 0,0:13:36.92,0:13:38.63,Default,,0,0,0,,You jerk...
 Dialogue: 0,0:13:38.85,0:13:39.76,Default,,0,0,0,,Fine!
 Dialogue: 0,0:13:39.76,0:13:41.63,Default,,0,0,0,,You can just stay back today!
 Dialogue: 0,0:13:42.58,0:13:44.43,Sai,,0,0,0,,You do what you want Hikaru.
-Dialogue: 0,0:13:45.10,0:13:45.80,SignsEp4,,0,0,0,,{\fs45\pos(320,215)}King
+Comment: 0,0:13:45.10,0:13:45.80,SignsEp4,,0,0,0,,{\fs45\pos(320,215)}King
+Dialogue: 0,0:13:45.10,0:13:45.80,SignsEp4,,0,0,0,,{\fs45\pos(320,213)}King
 Dialogue: 0,0:13:46.32,0:13:48.34,Default,,0,0,0,,Are you from the Shougi Club?
 Dialogue: 0,0:13:48.66,0:13:50.82,Default,,0,0,0,,Why is someone from the Shougi Club here?
 Dialogue: 0,0:13:52.18,0:13:53.87,Default,,0,0,0,,You didn't have enough members?
