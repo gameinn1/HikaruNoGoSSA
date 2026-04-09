@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 10 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 10
-Video Position: 2933
+Scroll Position: 277
+Active Line: 304
+Video Position: 33151
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -155,8 +156,8 @@ Dialogue: 0,0:07:55.25,0:07:56.29,Background,,0,0,0,,Are you going to play?
 Dialogue: 0,0:07:57.36,0:07:58.92,Default,,0,0,0,,500 yen for children.
 Dialogue: 0,0:08:01.09,0:08:02.39,Sai,,0,0,0,,Hikaru! Over there!
 Dialogue: 0,0:08:11.36,0:08:12.36,Thinking,,0,0,0,,Must be him...
-Dialogue: 0,0:08:30.93,0:08:33.61,Default,,0,0,0,,Hey! Shuu-san! Can you bring some tea over here!?
-Dialogue: 0,0:08:33.88,0:08:36.10,Background,,0,0,0,,I can hear you without yelling.
+Dialogue: 0,0:08:30.91,0:08:33.74,Default,,0,0,0,,Hey! Shuu-san! Can you bring some tea over here!?
+Dialogue: 0,0:08:33.78,0:08:36.16,Background,,0,0,0,,I can hear you without yelling.
 Dialogue: 0,0:08:41.26,0:08:43.30,Background,,0,0,0,,If you're going to watch, sit down.
 Dialogue: 0,0:08:43.60,0:08:44.95,Background,,0,0,0,,Here's some tea.
 Dialogue: 0,0:08:45.57,0:08:46.59,Default,,0,0,0,,Oh, thanks.
@@ -344,7 +345,7 @@ Dialogue: 0,0:22:22.00,0:22:23.67,Default,,0,0,0,,How can I place it well?
 Dialogue: 0,0:22:22.53,0:22:25.60,Note,,0,0,0,,{\move(820,325,-160,325)}In order to play the stone properly...
 Dialogue: 0,0:22:24.54,0:22:25.84,Default,,0,0,0,,Mai wants to know too!
 Dialogue: 0,0:22:26.32,0:22:31.79,Default,,0,0,0,,You sandwich it between your index and\Nmiddle fingers, and place it like this.
-Dialogue: 0,0:22:28.36,0:22:30.04,Note,,20,0,0,,{\an4}Sandwich\Nit\Nbetween\Nyour\Nindex\Nand\Nmidddle\Nfingers.
+Dialogue: 0,0:22:28.36,0:22:30.04,Note,,20,0,0,,{\an4}Sandwich\Nit\Nbetween\Nyour\Nindex\Nand\Nmiddle\Nfingers.
 Dialogue: 0,0:22:30.44,0:22:32.01,Note,,0,0,0,,{\fs24\pos(400,131)}P\Nl\Na\Ny\N\Ni\Nt\N!
 Dialogue: 0,0:22:40.52,0:22:42.60,Note,,0,0,118,,{\an2}hmm...
 Dialogue: 0,0:22:43.96,0:22:46.21,Note,,0,0,118,,{\an2}drop
