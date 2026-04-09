@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 12 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 251
-Active Line: 274
-Video Position: 28201
+Scroll Position: 106
+Active Line: 119
+Video Position: 12025
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -159,7 +159,7 @@ Dialogue: 0,0:08:13.16,0:08:16.93,Background,,0,0,0,,Touya, the tournament regis
 Dialogue: 0,0:08:17.03,0:08:17.89,Background,,0,0,0,,Take a look at it.
 Dialogue: 0,0:08:19.56,0:08:21.31,Default,,0,0,0,,Shindou is the third board!?
 Dialogue: 0,0:08:21.31,0:08:27.45,Background,,0,0,0,,Sometimes, they don't decide the boards\Nby strength for strategic purposes.
-Dialogue: 0,0:08:21.54,0:08:33.20,Note,,0,0,10,,{\fs20\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}The Fourth Summer North District Jr. High Go Tournament Registration Form\N\N{\fs20}To the Tournament Officials\N\NThis Jr. High School wishes to register for the Fourth Summer North\NDistrict Jr. High Go Tournament. In participating, we promise to follow\Nthe rules of the tournament, and not engage in any dishonest conduct.\NIn the case that we do engage in dishonest conduct, we will\Nnot object to any sort of consequences that you may give.\N\NJr.High: Haze Public Jr. High School\N\NThe participants are as follows\NName   Year\NFirst Mitani Yuuki First\NSecond Tsutsui Tomihiko Third\N Third Shindou Hikaru First Year\NAlternate ____________\NAlternate ____________
+Dialogue: 0,0:08:21.54,0:08:33.20,Note,,0,0,10,,{\fs20\bord1.5\shad1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}The Fourth Summer North District Jr. High Go Tournament Registration Form\N\N{\fs20}To the Tournament Officials\N\NThis Jr. High School wishes to register for the Fourth Summer North\NDistrict Jr. High Go Tournament. In participating, we promise to follow\Nthe rules of the tournament, and not engage in any dishonest conduct.\NIn the case that we do engage in dishonest conduct, we will\Nnot object to any sort of consequences that you may give.\N\NJr. High: Haze Public Jr. High School\N\NThe participants are as follows\NName   Year\NFirst Mitani Yuuki First\NSecond Tsutsui Tomihiko Third\N Third Shindou Hikaru First Year\NAlternate ____________\NAlternate ____________
 Dialogue: 0,0:08:27.93,0:08:33.20,Background,,0,0,0,,That Mitani is probably the weakest in the group.
 Dialogue: 0,0:08:34.04,0:08:36.41,Default,,0,0,0,,By throwing away the first board,
 Dialogue: 0,0:08:36.54,0:08:39.20,Default,,0,0,0,,they probably plan on\Ndefinitely taking the other two.
