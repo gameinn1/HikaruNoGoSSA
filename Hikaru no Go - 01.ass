@@ -19,7 +19,7 @@ Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 168
 Active Line: 184
-Video Position: 15874
+Video Position: 15771
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -222,9 +222,11 @@ Dialogue: 0,0:10:49.76,0:10:51.00,Default,,0,0,0,,Do you know anything about Per
 Dialogue: 0,0:10:52.03,0:10:52.63,Sai,,0,0,0,,Perry?
 Dialogue: 0,0:10:53.10,0:10:55.60,Default,,0,0,0,,Perry!? You know? He lead\Na couple of warships here?
 Dialogue: 0,0:10:56.18,0:10:57.55,Sai,,0,0,0,,Oh! Commodore Perry!
-Dialogue: 0,0:10:57.76,0:10:58.51,Default,,0,0,0,,Yeah! That's the one!
-Dialogue: 0,0:10:58.51,0:10:59.97,Default,,0,0,0,,Where did that Commodore Perry come to?
-Dialogue: 0,0:11:00.26,0:11:02.75,Sai,,0,0,0,,He came to Uraga. There was a\Nhuge commotion over that incident.
+Dialogue: 0,0:10:57.76,0:11:00.06,Default,,0,0,0,,Yeah! That's the one. Where did that Commodore Perry come to?
+Comment: 0,0:10:57.76,0:10:58.51,Default,,0,0,0,,If you want E-F timing then these two commented lines match pretty well.
+Comment: 0,0:10:57.76,0:10:58.51,Default,,0,0,0,,Yeah! That's the one!
+Comment: 0,0:10:58.51,0:10:59.97,Default,,0,0,0,,Where did that Commodore Perry come to?
+Dialogue: 0,0:11:00.22,0:11:02.75,Sai,,0,0,0,,He came to Uraga. There was a\Nhuge commotion over that incident.
 Dialogue: 0,0:11:02.85,0:11:03.93,Default,,0,0,0,,Uraga...
 Dialogue: 0,0:11:04.80,0:11:05.40,Default,,0,0,0,,Sai
 Dialogue: 0,0:11:05.70,0:11:06.30,Sai,,0,0,0,,Yes?
