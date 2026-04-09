@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 223
-Active Line: 242
-Video Position: 19799
+Video Zoom Percent: 0.500000
+Scroll Position: 115
+Active Line: 124
+Video Position: 9973
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -165,13 +165,33 @@ Dialogue: 0,0:06:46.44,0:06:48.85,Sai,,0,0,0,,What kind of a tournament are we i
 Dialogue: 0,0:06:49.21,0:06:51.39,Default,,0,0,0,,It's a team tournament for Junior Highs.
 Dialogue: 0,0:06:51.39,0:06:52.52,Sai,,0,0,0,,Oh!
 Dialogue: 0,0:06:52.82,0:06:55.93,Default,,0,0,0,,3 people per team, and the team\Nwith 2 wins are the winners.
-Comment: 0,0:06:55.94,0:07:04.95,Note,,0,0,0,,Needs changed to what E-F did
-Dialogue: 0,0:06:55.94,0:07:04.95,Note,,0,0,0,,| Hamachi | Tai | Iwana | Ayu | Sawara | Haze | Kawahagi |\N\NJunior High
+Comment: 0,0:06:55.94,0:07:04.95,Note,,0,0,0,,All x values moved to the right by 2 and y up by 2 pixels to match Blu-Ray better.
+Comment: 0,0:06:55.94,0:07:04.95,Note,,0,0,0,,If anybody wants it, third comment is what gabest11 subs had for the entire duration but I decided to match E-F since the TV broadcast and Blu-Ray are both 216 frames.
+Comment: 0,0:06:55.94,0:07:04.95,Note,,0,0,0,,| Hamachi | Tai | Iwana | Ayu | Sawara | Haze | Kawahagi |\N\NJunior High
+Dialogue: 0,0:06:55.94,0:06:57.48,Note,,0,0,0,,{\an4\pos(20.3,234.5)}Hamachi\NJunior\NHigh
+Dialogue: 0,0:06:55.94,0:06:57.48,Note,,0,0,0,,{\an4\pos(189.8,234.5)}Tai\NJunior\NHigh
+Dialogue: 0,0:06:55.94,0:06:57.48,Note,,0,0,0,,{\an6\pos(406.5,234.5)}Iwana\NJunior\NHigh
+Dialogue: 0,0:06:55.94,0:06:57.48,Note,,0,0,0,,{\an6\pos(572.3,234.5)}Ayu\NJunior\NHigh
+Dialogue: 0,0:06:57.48,0:06:59.23,Note,,0,0,0,,{\an4\pos(20.9,234.5)}Tai\NJunior\NHigh
+Dialogue: 0,0:06:57.48,0:06:59.23,Note,,0,0,0,,{\an4\pos(189.3,234.5)}Iwana\NJunior\NHigh
+Dialogue: 0,0:06:57.48,0:06:59.23,Note,,0,0,0,,{\an6\pos(405.9,234.5)}Ayu\NJunior\NHigh
+Dialogue: 0,0:06:57.48,0:06:59.23,Note,,0,0,0,,{\an6\pos(579.3,234.5)}Sawara\NJunior\NHigh
+Dialogue: 0,0:06:59.23,0:07:01.53,Note,,0,0,0,,{\an4\pos(20.8,234.5)}Iwana\NJunior\NHigh
+Dialogue: 0,0:06:59.23,0:07:01.53,Note,,0,0,0,,{\an4\pos(208.2,234.5)}Ayu\NJunior\NHigh
+Dialogue: 0,0:06:59.23,0:07:01.53,Note,,0,0,0,,{\an6\pos(422.1,234.5)}Sawara\NJunior\NHigh
+Dialogue: 0,0:06:59.23,0:07:01.53,Note,,0,0,0,,{\an6\pos(587.2,234.5)}Haze\NJunior\NHigh
+Dialogue: 0,0:07:01.53,0:07:04.95,Note,,0,0,0,,{\an4\pos(20.2,234.5)}Ayu\NJunior\NHigh
+Dialogue: 0,0:07:01.53,0:07:02.40,Note,,0,0,0,,{\an4\pos(208.2,234.5)}Sawara\NJunior\NHigh
+Dialogue: 0,0:07:01.53,0:07:02.40,Note,,0,0,0,,{\an6\pos(422,234.5)}Haze\NJunior\NHigh
+Dialogue: 0,0:07:01.53,0:07:02.40,Note,,0,0,0,,{\an6\pos(610.4,234.5)}Kawahagi\NJunior\NHigh
+Dialogue: 0,0:07:02.40,0:07:04.95,Note,,0,0,0,,{\an4\pos(189.5,234.5)}Sawara\NJunior\NHigh
+Dialogue: 0,0:07:02.40,0:07:04.95,Note,,0,0,0,,{\an6\pos(405.8,234.5)}Haze\NJunior\NHigh
+Dialogue: 0,0:07:02.40,0:07:04.95,Note,,0,0,0,,{\an6\pos(579.2,234.5)}Kawahagi\NJunior\NHigh
 Dialogue: 0,0:06:56.91,0:06:59.07,Background,,0,0,0,,8 male teams and 6 female teams,
 Dialogue: 0,0:06:59.29,0:07:00.64,Background,,0,0,0,,not too many.
 Dialogue: 0,0:07:00.99,0:07:02.42,Background,,0,0,0,,Where's Haze...
 Dialogue: 0,0:07:02.66,0:07:03.81,Background,,0,0,0,,Oh there it is.
-Dialogue: 0,0:07:05.37,0:07:08.95,Sai,,0,0,0,,How exciting. Oh, I want to play now...
+Dialogue: 0,0:07:05.32,0:07:08.95,Sai,,0,0,0,,How exciting. Oh, I want to play now...
 Dialogue: 0,0:07:09.08,0:07:11.09,Sai,,0,0,0,,Ah! My heart's pounding.
 Dialogue: 0,0:07:11.95,0:07:14.07,Background,,0,0,0,,Sai, you don't have to do anything today.
 Dialogue: 0,0:07:15.35,0:07:16.34,Default,,0,0,0,,I'll be playing.
