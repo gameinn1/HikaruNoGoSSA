@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 19 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 299
-Active Line: 318
-Video Position: 35530
+Scroll Position: 79
+Active Line: 109
+Video Position: 11298
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -150,7 +150,7 @@ Dialogue: 0,0:07:24.97,0:07:27.13,Sai,,0,0,0,,About a hundred years ago I was wi
 Dialogue: 0,0:07:28.53,0:07:31.35,Sai,,0,0,0,,Before that, I played within\Nthe Palace in the Capitol.
 Dialogue: 0,0:07:36.05,0:07:39.03,Sai,,0,0,0,,It's been a thousand years since then.
 Dialogue: 0,0:07:47.88,0:07:50.10,Sai,,0,0,0,,I am still before a Go board.
-Dialogue: 0,0:07:51.19,0:07:56.04,Sai,,0,0,0,,How long will God allow me to \Nontinue with my selfishness?
+Dialogue: 0,0:07:51.19,0:07:56.04,Sai,,0,0,0,,How long will God allow me to \Ncontinue with my selfishness?
 Dialogue: 0,0:07:57.97,0:07:59.39,Background,,0,0,0,,Oh no! Don't!
 Dialogue: 0,0:08:00.17,0:08:02.75,Default,,0,0,0,,All my stones are going to get captured!
 Dialogue: 0,0:08:02.96,0:08:11.04,Default,,0,0,0,,Yeah, so you should have gone\Nhere instead of here earlier.
