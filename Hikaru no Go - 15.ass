@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 169
-Active Line: 182
-Video Position: 19691
+Scroll Position: 98
+Active Line: 124
+Video Position: 14355
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -165,7 +165,7 @@ Dialogue: 0,0:09:40.88,0:09:41.72,Default,,0,0,0,,wanna try?
 Dialogue: 0,0:09:41.92,0:09:49.09,Default,,0,0,0,,Nah, not yet. But could you teach\Nme some more about operating it?
 Dialogue: 0,0:09:49.68,0:09:52.94,Background,,0,0,0,,You have to register first, right?
 Dialogue: 0,0:09:55.00,0:09:58.54,Background,,0,0,0,,Wanna start at loading this homepage first then?
-Dialogue: 0,0:09:58.70,0:10:01.04,Thinking,,0,0,0,,They can't tell your face, age, or real name!
+Dialogue: 0,0:09:58.66,0:10:01.04,Thinking,,0,0,0,,They can't tell your face, age, or real name!
 Dialogue: 0,0:09:59.03,0:10:02.44,Background,,0,0,0,,First enter in world igo net and try a search.
 Dialogue: 0,0:10:01.68,0:10:02.44,Thinking,,0,0,0,,This is it!
 Dialogue: 0,0:10:12.48,0:10:14.84,Background,,0,0,0,,Sorry for making you play someone so weak.
