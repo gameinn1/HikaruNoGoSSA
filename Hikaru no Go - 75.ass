@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 220
-Active Line: 236
-Video Position: 27515
+Scroll Position: 194
+Active Line: 205
+Video Position: 25287
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -300,7 +300,7 @@ Comment: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy205\
 Comment: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy210\pos(276.2,388.3)}EDITING
 Comment: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy210\pos(344.6,388)}[XXX 5]
 Dialogue: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy195\pos(112,391.5)}Hikaru Shindou
-Dialogue: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy195\pos(269.3,391.5)}Tomoko Kawamichi
+Dialogue: 0,0:17:32.70,0:17:37.16,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy195\pos(269.3,391.5)}Tomoko Kawakami
 Dialogue: 0,0:17:46.04,0:17:50.51,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy195\pos(102.3,391.5)}Akira Touya
 Dialogue: 0,0:17:46.04,0:17:50.51,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy195\pos(259.7,391.5)}Sanae Kobayashi
 Dialogue: 0,0:17:50.76,0:17:55.64,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy195\pos(104.3,350)}Yoshitaka Waya
