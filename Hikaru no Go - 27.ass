@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 107
-Active Line: 116
-Video Position: 15352
+Scroll Position: 140
+Active Line: 153
+Video Position: 19105
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -243,7 +243,7 @@ Dialogue: 0,0:13:03.88,0:13:04.63,Default,,0,0,0,,This again?
 Dialogue: 0,0:13:05.30,0:13:06.06,Default,,0,0,0,,Mitani-kun...
 Dialogue: 0,0:13:07.81,0:13:10.01,Default,,0,0,0,,Won't you play first board, Mitani-kun!?
 Dialogue: 0,0:13:12.26,0:13:16.31,Default,,0,0,0,,You there. The bell's rung,\Ngo back to your own class.
-Dialogue: 0,0:13:16.81,0:13:19.97,Default,,0,0,0,,Wait for me afterschool. I'll come again.
+Dialogue: 0,0:13:16.81,0:13:19.97,Default,,0,0,0,,Wait for me after school. I'll come again.
 Dialogue: 0,0:13:22.21,0:13:22.75,Default,,0,0,0,,Natsume!
 Dialogue: 0,0:13:24.15,0:13:24.93,Default,,0,0,0,,Don't bother.
 Dialogue: 0,0:13:25.74,0:13:26.79,Default,,0,0,0,,I'm not going back.

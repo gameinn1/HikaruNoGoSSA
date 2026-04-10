@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 10 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 277
-Active Line: 305
-Video Position: 33391
+Scroll Position: 68
+Active Line: 71
+Video Position: 7620
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,10 +112,10 @@ Dialogue: 0,0:04:55.06,0:04:58.53,Default,,0,0,0,,I hear there are former Insei 
 Dialogue: 0,0:04:59.56,0:05:03.87,Default,,0,0,0,,There are many who give up on becoming\Npro, and quit the Insei program.
 Dialogue: 0,0:05:06.70,0:05:08.70,Default,,0,0,0,,But, Touya isn't an Insei.
 Dialogue: 0,0:05:11.81,0:05:15.93,Default,,0,0,0,,In other words, to him, even an Insei is too weak.
-Dialogue: 0,0:05:16.42,0:05:17.61,Default,,0,0,0,,Even an Insei...
+Dialogue: 0,0:05:16.38,0:05:17.76,Default,,0,0,0,,Even an Insei...
 Dialogue: 0,0:05:20.31,0:05:23.30,Default,,0,0,0,,Oh! Glass stones chip easily so be careful.
 Dialogue: 0,0:05:24.76,0:05:27.78,Background,,0,0,0,,Well, there's no way Touya would join the Go club.
-Dialogue: 0,0:05:31.17,0:05:34.72,Thinking,,0,0,0,,Maybe it was a too farfetched a goal to beat Touya...
+Dialogue: 0,0:05:31.17,0:05:34.72,Thinking,,0,0,0,,Maybe it was too farfetched a goal to beat Touya...
 Dialogue: 0,0:05:35.61,0:05:36.26,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:05:37.20,0:05:39.02,Sai,,0,0,0,,Before Touya, first you have to....
 Dialogue: 0,0:05:39.81,0:05:45.39,Thinking,,0,0,0,,Yeah, first, I have to beat Kaiou's third board.
