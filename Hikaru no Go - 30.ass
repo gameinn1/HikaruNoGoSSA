@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 9
-Active Line: 19
-Video Position: 4177
+Scroll Position: 188
+Active Line: 196
+Video Position: 32250
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -283,7 +283,7 @@ Dialogue: 0,0:22:09.79,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3
 Dialogue: 0,0:22:10.25,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(298,355)}Go
 Dialogue: 0,0:22:10.66,0:22:12.32,Note,,0,0,0,,{\fs58\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(471,355)}Igo!
 Dialogue: 0,0:22:10.79,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(247.625,171.25)}Umezawa Yukari's
-Dialogue: 0,0:22:12.59,0:22:17.17,Default,,0,0,0,,The "Igo Asia Cup in Okinawa" was\Nheld between March 22nd and 23rd.
+Dialogue: 0,0:22:12.59,0:22:17.17,Default,,0,0,0,,"The Igo Asia Cup in Okinawa" was\Nheld on March 22nd and 23rd.
 Dialogue: 0,0:22:12.87,0:22:14.43,Note,,0,0,0,,{\fs27.5\1c&H0576FD&\bord2\shad0\pos(322,358)}Teacher Yukari
 Dialogue: 0,0:22:14.43,0:22:17.46,Note,,0,0,0,,{\fs22.5\fsp4.4\1c&HF40202&\bord2\shad0\pos(221,18)}March 22nd~23rd 2002
 Dialogue: 0,0:22:14.43,0:22:17.46,Note,,0,0,0,,{\fs39\1c&HF40202&\bord2\fscy90\shad0\pos(358,287)}[Igo Asia Cup in Okinawa]
