@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 146
-Active Line: 157
-Video Position: 23954
+Video Zoom Percent: 0.750000
+Scroll Position: 138
+Active Line: 155
+Video Position: 22053
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -116,16 +116,31 @@ Dialogue: 0,0:10:28.47,0:10:30.28,Sai,,0,0,0,,And Hikaru, you too.
 Dialogue: 0,0:10:31.21,0:10:31.91,Default,,0,0,0,,Me too?
 Dialogue: 0,0:10:32.55,0:10:35.87,Sai,,0,0,0,,You watched dozens of my matches.
 Dialogue: 0,0:10:38.84,0:10:43.41,Sai,,0,0,0,,The two of us seem to have grown\Nconsiderably within the past month.
-Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,510,0,50,,{\an7\fs23}White
-Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,444,1,115,,{\an7\fs23}Captured: 1 stone
-Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,510,0,220,,{\an7\fs23}Black
-Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,444,1,287,,{\an7\fs23}Captured: 0 stones
-Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,444,1,361,,{\an7\fs23}Match information
-Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,442,0,412,,{\an7\fs18}komi
-Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,0,13,412,,{\an9\fs18}moku
-Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,442,0,447,,{\an7\fs18}move
-Dialogue: 0,0:10:43.62,0:10:47.59,Computer,,0,1,445,,{\an9\fs18}white
-Dialogue: 0,0:10:44.48,0:10:46.85,Background,,0,0,0,,I see, Sai...
+Comment: 0,0:10:43.62,0:10:47.59,Computer,,510,0,50,,{\an7\fs23}White
+Comment: 0,0:10:43.62,0:10:47.59,Computer,,444,1,115,,{\an7\fs23}Captured: 1 stone
+Comment: 0,0:10:43.62,0:10:47.59,Computer,,510,0,220,,{\an7\fs23}Black
+Comment: 0,0:10:43.62,0:10:47.59,Computer,,444,1,287,,{\an7\fs23}Captured: 0 stones
+Comment: 0,0:10:43.62,0:10:47.59,Computer,,444,1,361,,{\an7\fs23}Match information
+Comment: 0,0:10:43.62,0:10:47.59,Computer,,442,0,412,,{\an7\fs18}komi
+Comment: 0,0:10:43.62,0:10:47.59,Computer,,0,13,412,,{\an9\fs18}moku
+Comment: 0,0:10:43.62,0:10:47.59,Computer,,442,0,447,,{\an7\fs18}move
+Comment: 0,0:10:43.62,0:10:47.59,Computer,,0,1,445,,{\an9\fs18}white
+Comment: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,Overlay values. Have moved 1 pixel to the right on x and y up by 1 pixel to match Blu-Ray better.
+Comment: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(387.7,80.8)}White
+Comment: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(337.2,172)}Captured: 1 stone
+Comment: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(389.3,241.2)}Black
+Comment: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(333.6,332.2)}Captured: 0 stones
+Comment: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(330.5,400.3)}Match information
+Comment: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(343.4,424.5)}Komi: 5.5 moku
+Comment: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(339.2,447.8)}Move: 132 White
+Dialogue: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(388.7,79.8)}White
+Dialogue: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(338.2,171)}Captured: 1 stone
+Dialogue: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(390.3,240.2)}Black
+Dialogue: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(334.6,331.2)}Captured: 0 stones
+Dialogue: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(331.5,399.3)}Match information
+Dialogue: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(344.4,423.5)}Komi: 5.5 moku
+Dialogue: 0,0:10:43.62,0:10:47.59,NoteTimes,,0,0,0,,{\fs22.5\pos(340.2,446.8)}Move: 132 White
+Dialogue: 0,0:10:44.46,0:10:46.85,Background,,0,0,0,,{\pos(83.9,457.7)}I see, Sai...
 Dialogue: 0,0:10:48.52,0:10:51.02,Default,,0,0,0,,He defeated Touya Akira easily...
 Dialogue: 0,0:10:52.30,0:10:54.30,Default,,0,0,0,,I wonder if even I'm a match...
 Dialogue: 0,0:10:55.89,0:10:57.43,Background,,0,0,0,,I can't believe that he's an Amateur.
@@ -179,7 +194,10 @@ Dialogue: 0,0:14:29.73,0:14:30.48,Thinking,,0,0,0,,{\1c&HC5FEC1&}Is it you!?
 Dialogue: 0,0:14:53.72,0:14:54.47,Thinking,,0,0,0,,{\1c&HC5FEC1&}Shindou!
 Dialogue: 0,0:14:55.67,0:14:56.92,Thinking,,0,0,0,,Are you Sai!?
 Dialogue: 0,0:15:16.98,0:15:18.55,Default,,0,0,0,,T-Touya...
-Dialogue: 0,0:15:19.77,0:15:23.57,Note,,0,0,1,,{\fs40\bord1.5\b0\fsp2\3c&H816778H}{\1c&H9e75e0H}Go! Go! {\1c&Hbc7898H}Stupid Eggplant {\1c&Ha7d3ffH}Boy!
+Comment: 0,0:15:19.77,0:15:23.57,Note,,0,0,1,,gabest11 version commented out. I wanted to include this but matching E-F is more important.
+Comment: 0,0:15:19.77,0:15:23.57,Note,,0,0,1,,{\fs40\bord1.5\b0\fsp2\3c&H816778H}{\1c&H9e75e0H}Go! Go! {\1c&Hbc7898H}Stupid Eggplant {\1c&Ha7d3ffH}Boy!
+Comment: 0,0:15:19.77,0:15:23.57,NoteTimes,,0,0,0,,Direct overlay: {\fs32.5\pos(320,5)}Go! Go! Stupid Eggplant Boy!
+Dialogue: 0,0:15:19.77,0:15:23.57,NoteTimes,,0,0,0,,{\fs32.5\pos(321,4)}Go! Go! Stupid Eggplant Boy!
 Dialogue: 0,0:15:26.87,0:15:27.47,Default,,0,0,0,,This is?
 Dialogue: 0,0:15:28.72,0:15:31.92,Default,,0,0,0,,It's a webcomic! What is it all of a sudden!?
 Dialogue: 0,0:15:36.37,0:15:37.42,Default,,0,0,0,,A friend?
