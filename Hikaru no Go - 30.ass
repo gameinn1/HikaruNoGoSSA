@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 15
-Active Line: 22
-Video Position: 4405
+Scroll Position: 9
+Active Line: 19
+Video Position: 4177
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -106,10 +106,10 @@ Dialogue: 0,0:02:22.54,0:02:24.00,Default,,0,0,0,,The answer will come to you so
 Dialogue: 0,0:02:25.33,0:02:26.46,Default,,0,0,0,,In another two months...
 Dialogue: 0,0:02:27.53,0:02:28.32,Default,,0,0,0,,The pro exams...
 Dialogue: 0,0:02:28.83,0:02:35.66,Default,,0,0,0,,Yes. He's now walking the path that\Nyou went through a year ago.
-Dialogue: 0,0:02:36.18,0:02:44.00,Default,,0,0,0,,Isn't Kadowaki the guy that got the three\Ntitles Student Meijin, Student Honinbou, and Student Jyukketsu? That Kadowaki?
+Dialogue: 0,0:02:36.18,0:02:44.00,Default,,0,0,0,,Isn't Kadowaki the guy that got the three\Ntitles Student Meijin, Student Honinbou,\Nand Student Jyukketsu? That Kadowaki?
 Dialogue: 0,0:02:44.69,0:02:46.41,Default,,0,0,0,,I can't believe you know that Isumi-san.
-Dialogue: 0,0:02:46.85,0:02:48.89,Default,,0,0,0,,There was quite a commotion over him.
-Dialogue: 0,0:02:49.72,0:02:51.38,Default,,0,0,0,,So Kadowaki is...
+Dialogue: 0,0:02:46.81,0:02:48.86,Default,,0,0,0,,There was quite a commotion over him.
+Dialogue: 0,0:02:49.69,0:02:51.38,Default,,0,0,0,,So Kadowaki is...
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,370,1,\fscx100)\blur0.8\pos(300,115)}The Thirtieth Match
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,370,1,\fscx100)\pos(325,365)}Ogata VS Honinbou
 Dialogue: 0,0:03:00.03,0:03:04.08,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fscx99\frz345\move(427,494,352,214)}Japanese Go Institute
