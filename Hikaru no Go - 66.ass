@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.312500
-Scroll Position: 471
-Active Line: 489
-Video Position: 29916
+Video Zoom Percent: 0.625000
+Scroll Position: 38
+Active Line: 46
+Video Position: 7532
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -138,11 +138,11 @@ Dialogue: 0,0:04:45.55,0:04:47.72,Default,,0,0,0,,See? I'm right.
 Dialogue: 0,0:04:48.20,0:04:50.67,Default,,0,0,0,,Bored? What do you mean?
 Dialogue: 0,0:04:51.06,0:04:56.94,Default,,0,0,0,,Well, there's no one around Akira's\Nage that can become his rival in Go.
 Dialogue: 0,0:04:57.65,0:05:00.82,Background,,0,0,0,,I'm sure that's really boring.
-Dialogue: 0,0:05:01.21,0:05:04.24,Default,,0,0,0,,There are alot of guys like that\Nfor me, so it's a lot of fun.
-Dialogue: 0,0:05:04.32,0:05:06.41,Default,,0,0,0,,That's impossible.
-Dialogue: 0,0:05:06.54,0:05:09.96,Default,,0,0,0,,There can't be anyone Akira-Kun's\Nage who can be his rival.
-Dialogue: 0,0:05:10.74,0:05:13.46,Default,,0,0,0,,I don't really... want... a rival.
-Dialogue: 0,0:05:14.09,0:05:18.23,Default,,0,0,0,,I'll make Ogata-san or my\Nfather my rival some day.
+Dialogue: 0,0:05:01.41,0:05:04.24,Default,,0,0,0,,There are a lot of guys like that\Nfor me, so it's a lot of fun.
+Dialogue: 0,0:05:04.49,0:05:06.33,Default,,0,0,0,,That's impossible.
+Dialogue: 0,0:05:06.74,0:05:09.96,Background,,0,0,0,,There can't be anyone Akira-Kun's\Nage who can be his rival.
+Dialogue: 0,0:05:10.79,0:05:13.46,Default,,0,0,0,,I don't really... want... a rival.
+Dialogue: 0,0:05:14.13,0:05:18.23,Default,,0,0,0,,I'll make Ogata-san or my\Nfather my rival some day.
 Dialogue: 0,0:05:18.89,0:05:20.12,Default,,0,0,0,,What about me, Akira?
 Dialogue: 0,0:05:21.44,0:05:23.18,Default,,0,0,0,,Ashiwara-san, you're a friend.
 Dialogue: 0,0:05:23.53,0:05:24.43,Default,,0,0,0,,Why, you!

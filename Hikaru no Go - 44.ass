@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 44 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 248
-Active Line: 256
-Video Position: 34694
+Active Line: 1
+Video Position: 2597
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,7 +91,7 @@ Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:44.04,0:01:45.03,Default,,0,0,0,,What's wrong, Sai?
-Dialogue: 0,0:01:46.54,0:01:50.07,Sai,,0,0,0,,Hikaru, your movs here look\Nlike something I might play.
+Dialogue: 0,0:01:46.54,0:01:50.07,Sai,,0,0,0,,Hikaru, your moves here look\Nlike something I might play.
 Dialogue: 0,0:01:51.69,0:01:52.56,Default,,0,0,0,,You can tell?
 Dialogue: 0,0:01:53.13,0:01:56.37,Default,,0,0,0,,I played there after thinking\Nabout what you might do.
 Dialogue: 0,0:01:58.61,0:02:00.11,Default,,0,0,0,,My match against Waya,

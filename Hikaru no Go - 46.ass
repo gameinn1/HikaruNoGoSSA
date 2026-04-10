@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 297
-Active Line: 314
-Video Position: 34706
+Active Line: 324
+Video Position: 35428
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -415,7 +415,7 @@ Dialogue: 0,0:23:04.32,0:23:05.02,Sai,,0,0,0,,'Me'...
 Dialogue: 0,0:23:05.36,0:23:06.97,Background,,0,0,0,,I am connected!
 Dialogue: 0,0:23:07.25,0:23:09.30,Background,,0,0,0,,To Touya, and to Touya's dad...
 Dialogue: 0,0:23:09.97,0:23:11.88,Sai,,0,0,0,,Hikaru... I...
-Dialogue: 0,0:23:22.56,0:23:25.93,Sai,,0,0,0,,Is Hukaru not going to let me play any more?
+Dialogue: 0,0:23:22.56,0:23:25.93,Sai,,0,0,0,,Is Hikaru not going to let me play any more?
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --

@@ -16,10 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 480
-Active Line: 490
-Video Position: 30149
+Video Zoom Percent: 0.625000
+Active Line: 3
+Video Position: 2858
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -99,7 +98,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:47.47,0:01:50.09,Thinking,,0,0,0,,I played against him in the Wakajishisen last year.
 Dialogue: 0,0:01:51.08,0:01:53.71,Thinking,,0,0,0,,He scared me during the game with a few good moves,
 Dialogue: 0,0:01:54.44,0:01:58.20,Thinking,,0,0,0,,but he was bad at Yose and I\Nwon by six and a half moku.
-Dialogue: 0,0:01:59.20,0:02:04.69,Thinking,,0,0,0,,But, Touya presistently asked me about how he played.
+Dialogue: 0,0:01:59.20,0:02:04.69,Thinking,,0,0,0,,But, Touya persistently asked me about how he played.
 Dialogue: 0,0:02:06.16,0:02:09.94,Thinking,,0,0,0,,I was pissed off back then because he\Nkept asking about the guy who lost,
 Dialogue: 0,0:02:11.03,0:02:14.52,Thinking,,0,0,0,,But I guess Touya really did think of him as a rival.
 Dialogue: 0,0:02:15.49,0:02:16.19,Thinking,,0,0,0,,Okay.

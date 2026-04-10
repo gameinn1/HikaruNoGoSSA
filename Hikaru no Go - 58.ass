@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 52
-Active Line: 54
-Video Position: 8426
+Scroll Position: 324
+Active Line: 330
+Video Position: 28521
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -421,7 +421,7 @@ Dialogue: 0,0:19:40.58,0:19:41.33,Default,,0,0,0,,Here.
 Dialogue: 0,0:19:42.49,0:19:46.00,Default,,0,0,0,,Huh? Weren't you going to give him\Nan autograph only if he won?
 Dialogue: 0,0:19:46.62,0:19:47.96,Thinking,,0,0,0,,I don't want it...
 Dialogue: 0,0:19:48.58,0:19:49.88,Default,,0,0,0,,Huh? What is this?
-Dialogue: 0,0:19:49.54,0:19:51.59,ed64_romaji,,0,0,0,,{\fs42\1c&H0B0909&\shad0\bord0\blur0\frz4\pos(364,259)\b1}Kura{\b0}
+Dialogue: 0,0:19:49.54,0:19:51.59,ed64_romaji,,0,0,0,,{\fs42\1c&H0B0909&\shad0\bord0\blur0.8\frz4\pos(364,259)\b1}Kura{\b0}
 Dialogue: 0,0:19:50.25,0:19:51.38,Background,,0,0,0,,It's just 'Kura'?
 Dialogue: 0,0:19:52.84,0:19:56.59,Default,,0,0,0,,I'll sign the rest of it when you\Nbeat me in a formal match.
 Dialogue: 0,0:19:57.76,0:19:58.90,Default,,0,0,0,,Kurata-san...

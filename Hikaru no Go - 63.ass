@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 471
-Active Line: 487
-Video Position: 29949
+Scroll Position: 178
+Active Line: 200
+Video Position: 23348
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -295,7 +295,7 @@ Dialogue: 0,0:16:01.64,0:16:04.06,Default,,0,0,0,,Iijima-kun already quit being 
 Dialogue: 0,0:16:04.65,0:16:07.15,Default,,0,0,0,,Maybe I'm at my limit now, too.
 Dialogue: 0,0:16:10.86,0:16:11.95,Default,,0,0,0,,Oh yeah!
 Dialogue: 0,0:16:12.24,0:16:13.32,Default,,0,0,0,,Waya, have you heard?
-Dialogue: 0,0:16:13.78,0:16:19.21,Default,,0,0,0,,Afew pros from the Kyuseikai went to China to\Nstudy and to promote international relations.
+Dialogue: 0,0:16:13.78,0:16:19.21,Default,,0,0,0,,A few pros from the Kyuseikai went to China to\Nstudy and to promote international relations.
 Dialogue: 0,0:16:20.79,0:16:21.62,Default,,0,0,0,,And?
 Dialogue: 0,0:16:22.12,0:16:25.04,Default,,0,0,0,,I heard that Isumi-kun went with them.
 Dialogue: 0,0:16:25.55,0:16:26.59,Default,,0,0,0,,He did!?
@@ -586,7 +586,7 @@ Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy1
 Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(215.317,304.8)}Kenichi Ono
 Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(106.5,334.5)}Ashiwara 4-dan
 Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(232,334.5)}Katsuyuki Konishi
-Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(83.5,364.4)}Kanako
+Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(83.5,364.4)}Kaneko
 Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(197.5,364.4)}Yukiji
 Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(101,394.4)}Matsui Sensei
 Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(417,417)\fscx101\fscy170\pos(229.5,394.4)}Mitsuaki Hoshino

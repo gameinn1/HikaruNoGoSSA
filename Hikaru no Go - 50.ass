@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 295
-Active Line: 317
-Video Position: 33372
+Scroll Position: 307
+Active Line: 334
+Video Position: 34870
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -425,7 +425,7 @@ Dialogue: 0,0:22:51.96,0:22:52.05,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad
 Dialogue: 0,0:22:52.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H09B30F&\4c&HFFFFFF&\fscx100\fscy100\bord1\shad1\pos(320,298)}The key to "Yose" is to play the Sente spots first{\i1}!!{\i0}
 Dialogue: 0,0:22:51.96,0:22:52.05,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(83,0)\3c&H2008F3&\4c&HFFFFFF&\fscx100\fscy100\bord1\shad1\move(345,349,345,397)}To be continued...
 Dialogue: 0,0:22:52.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H2008F3&\4c&HFFFFFF&\fscx100\fscy100\bord1\shad1\pos(345,397)}To be continued...
-Dialogue: 0,0:22:59.27,0:23:02.58,Sai,,0,0,0,,How dare you slander\NTorajurou's name with a fake signature!
+Dialogue: 0,0:22:59.27,0:23:02.58,Sai,,0,0,0,,How dare you slander\NTorajirou's name with a fake signature!
 Dialogue: 0,0:23:03.28,0:23:07.25,Background,,0,0,0,,You said all that, why don't you try?
 Dialogue: 0,0:23:08.24,0:23:12.37,Background,,0,0,0,,It's impossible to turn a game around\Nonce you're at a disadvantage to a pro.
 Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,410)}Atsu{\alpha&HFF&}shi

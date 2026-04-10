@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 255
-Active Line: 279
-Video Position: 33920
+Scroll Position: 205
+Active Line: 232
+Video Position: 28099
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -323,7 +323,7 @@ Dialogue: 0,0:19:19.55,0:19:20.81,Sai,,0,0,0,,Hey, Hikaru?
 Dialogue: 0,0:19:22.14,0:19:22.85,Sai,,0,0,0,,Huh?
 Dialogue: 0,0:19:24.31,0:19:26.27,Sai,,0,0,0,,Can you hear my voice?
 Dialogue: 0,0:19:29.31,0:19:30.15,Sai,,0,0,0,,Hikaru...
-Dialogue: 0,0:19:31.94,0:19:33.11,Sai,,0,0,0,,I was fu...
+Dialogue: 0,0:19:31.94,0:19:33.11,Sai,,0,0,0,,It was fu...
 Dialogue: 0,0:19:44.66,0:19:45.37,Default,,0,0,0,,Hey!
 Dialogue: 0,0:19:45.79,0:19:47.25,Default,,0,0,0,,It's your turn.
 Dialogue: 0,0:19:51.13,0:19:53.09,Default,,0,0,0,,I said it's your turn.
