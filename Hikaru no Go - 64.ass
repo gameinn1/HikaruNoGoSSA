@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 570
-Active Line: 577
-Video Position: 29808
+Scroll Position: 324
+Active Line: 345
+Video Position: 34818
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -372,21 +372,21 @@ Dialogue: 0,0:22:11.12,0:22:12.42,Default,,0,0,0,,It's January fifth!
 Dialogue: 0,0:22:11.91,0:22:12.09,NoteArial_Igo,,0,0,0,,{\fs22.5\bord1.5\fad(125,0)\shad0.5\move(325,481,325,352)}{\3c&H3C21F0&\4c&H3C21F0&}January 5th {\3c&H019F0A&\4c&H019F0A&}is the Day of Igo
 Dialogue: 0,0:22:11.91,0:22:12.09,NoteArial_Igo,,0,0,0,,{\fs22.5\bord1.5\fad(125,0)\3c&HF50001&\4c&HF50001&\shad0.5\move(105,481,105,280)}Yuuki
 Dialogue: 0,0:22:11.91,0:22:12.09,NoteArial_Igo,,0,0,0,,{\fs22.5\fad(125,0)\3c&HFF19FA&\4c&HFF19FA&\bord1.5\shad0.5\move(549,481,549,280)}Mai
-Dialogue: 0,0:22:12.09,0:22:16.33,NoteArial_Igo,,0,0,0,,{\fs22.5\fad(0,459)\3c&HF50001&\4c&HF50001&\bord1.5\shad0.5\pos(105,280)}Yuuki
-Dialogue: 0,0:22:12.09,0:22:16.33,NoteArial_Igo,,0,0,0,,{\fs22.5\fad(0,459)\3c&HFF19FA&\4c&HFF19FA&\bord1.5\shad0.5\pos(549,280)}Mai
-Dialogue: 0,0:22:12.09,0:22:16.33,NoteArial_Igo,,0,0,0,,{\fs22.5\bord1.5\shad0.5\fad(0,459)\pos(325,352)}{\3c&H3C21F0&\4c3c&H3C21F0&}January 5th {\3c&H019F0A&\4c&H019F0A&}is the Day of Igo
+Dialogue: 0,0:22:12.09,0:22:16.33,NoteArial_Igo,,0,0,0,,{\fs22.5\fad(0,501)\3c&HF50001&\4c&HF50001&\bord1.5\shad0.5\pos(105,280)}Yuuki
+Dialogue: 0,0:22:12.09,0:22:16.33,NoteArial_Igo,,0,0,0,,{\fs22.5\fad(0,501)\3c&HFF19FA&\4c&HFF19FA&\bord1.5\shad0.5\pos(549,280)}Mai
+Dialogue: 0,0:22:12.09,0:22:16.33,NoteArial_Igo,,0,0,0,,{\fs22.5\bord1.5\shad0.5\fad(0,501)\pos(325,352)}{\3c&H3C21F0&\4c3c&H3C21F0&}January 5th {\3c&H019F0A&\4c&H019F0A&}is the Day of Igo
 Dialogue: 0,0:22:12.42,0:22:13.34,Default,,0,0,0,,The day of Go!
 Dialogue: 0,0:22:13.56,0:22:18.03,Default,,0,0,0,,Yup! So we're here at the Go Institute where\Nthe Uchizome ceremony is taking place.
-Dialogue: 0,0:22:19.11,0:22:22.83,NoteArial_Igo,,0,0,0,,{\fs21\fscy80\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(417,0)\pos(121,31)}Japanese Go\NInstitute
-Dialogue: 0,0:22:19.11,0:22:22.83,NoteArial_Igo,,0,0,0,,{\fs24\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(417,0)\pos(324,348)}2003 Uchizome Ceremony
+Dialogue: 0,0:22:19.11,0:22:22.83,NoteArial_Igo,,0,0,0,,{\fs21\fscy80\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(501,0)\pos(121,31)}Japanese Go\NInstitute
+Dialogue: 0,0:22:19.11,0:22:22.83,NoteArial_Igo,,0,0,0,,{\fs24\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(501,0)\pos(324,348)}2003 Uchizome Ceremony
 Dialogue: 0,0:22:25.15,0:22:25.44,NoteArial_Igo,,0,0,0,,{\fs22.5\fad(167,0)\3c&H046805&\4c&H046805&\bord1.5\shad0.5\move(927,290,341,290)}Uchizome happened after the New Year's greetings and the
-Dialogue: 0,0:22:25.44,0:22:30.68,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(0,459)\pos(341,290)}Uchizome happened after the New Year's greetings and the
+Dialogue: 0,0:22:25.44,0:22:30.68,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(0,501)\pos(341,290)}Uchizome happened after the New Year's greetings and the
 Dialogue: 0,0:22:25.15,0:22:25.44,NoteArial_Igo,,0,0,0,,{\fs23.5\fad(167,0)\3c&H046805&\4c&H046805&\bord1.5\shad0.5\move(865,360,283,360)}presentation of the Go Popularization Award
-Dialogue: 0,0:22:25.44,0:22:30.68,NoteArial_Igo,,0,0,0,,{\fs23.5\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(0,459)\pos(283,360)}presentation of the Go Popularization Award
+Dialogue: 0,0:22:25.44,0:22:30.68,NoteArial_Igo,,0,0,0,,{\fs23.5\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(0,501)\pos(283,360)}presentation of the Go Popularization Award
 Dialogue: 0,0:22:31.96,0:22:32.24,NoteArial_Igo,,0,0,0,,{\fs23.5\fad(167,0)\3c&H046805&\4c&H046805&\bord1.5\shad0.5\move(899,289,315,289)}A Pro and an Amateur take turns during Uchizome,
-Dialogue: 0,0:22:32.24,0:22:36.88,NoteArial_Igo,,0,0,0,,{\fs23.5\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(0,459)\pos(315,289)}A Pro and an Amateur take turns during Uchizome,
+Dialogue: 0,0:22:32.24,0:22:36.88,NoteArial_Igo,,0,0,0,,{\fs23.5\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(0,501)\pos(315,289)}A Pro and an Amateur take turns during Uchizome,
 Dialogue: 0,0:22:31.96,0:22:32.24,NoteArial_Igo,,0,0,0,,{\fs24.5\fad(167,0)\3c&H046805&\4c&H046805&\bord1.5\shad0.5\move(812,360,228,360)}with everyone making one move
-Dialogue: 0,0:22:32.24,0:22:36.88,NoteArial_Igo,,0,0,0,,{\fs24.5\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(0,459)\pos(228,360)}with everyone making one move
+Dialogue: 0,0:22:32.24,0:22:36.88,NoteArial_Igo,,0,0,0,,{\fs24.5\3c&H046805&\4c&H046805&\bord1.5\shad0.5\fad(0,501)\pos(228,360)}with everyone making one move
 Dialogue: 0,0:22:37.82,0:22:38.08,NoteArial_Igo,,0,0,0,,{\fs25\bord1.5\shad0.5\fscy95\fad(209,0)\move(912,359,320,359)}{\3c&HFC0BF4&\4c&HFC0BF4&}Mai {\3c&H006003&\4c&H006003&}and {\3c&HEE0000&\4c&HEE0000&}Yuuki {\3c&H006003&\4c&H006003&}were allowed to participate as well
 Dialogue: 0,0:22:38.08,0:22:44.12,NoteArial_Igo,,0,0,0,,{\fs25\bord1.5\shad0.5\fscy95\fad(0,459)\pos(320,359)}{\3c&HFC0BF4&\4c&HFC0BF4&}Mai {\3c&H006003&\4c&H006003&}and {\3c&HEE0000&\4c&HEE0000&}Yuuki {\3c&H006003&\4c&H006003&}were allowed to participate as well
 Dialogue: 0,0:22:47.49,0:22:50.24,Default,,0,0,0,,I was so nervous my mind was blank.
