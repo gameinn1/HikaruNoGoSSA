@@ -23,10 +23,6 @@ Video Position: 29808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Op3Kanji,MS Gothic,24,&H00EAECEE,&H00919294,&H00000000,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,20,1
-Style: Op3Romaji,Polo,28,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,8,30,30,55,1
-Style: Op3Romaji2,Pristina,70,&H0096D7D7,&H00919294,&H00001827,&HC0000000,0,0,0,0,180,100,0,0,1,1,0,8,30,30,55,1
-Style: Op3English,Especial Kay,42,&H00DAE3E3,&H0080FFFF,&H00282828,&HC0000000,0,0,0,0,100,100,0,0,1,1.5,3,2,20,20,20,1
 Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,0,0,20,1
