@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 19 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 79
-Active Line: 109
-Video Position: 11298
+Scroll Position: 292
+Active Line: 319
+Video Position: 727
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -360,7 +360,7 @@ Dialogue: 0,0:23:00.78,0:23:02.95,Default,,0,0,0,,Your real strength.
 Dialogue: 0,0:23:04.22,0:23:08.16,Default,,0,0,0,,You can't possibly catch up to him\Nunless you chase after him frantically.
 Dialogue: 0,0:23:08.55,0:23:12.20,Default,,0,0,0,,Touya has already passed the pro exam.
 Dialogue: 0,0:23:22.77,0:23:26.38,Default,,0,0,0,,I thought Inseis couldn't go\Nto Amateur competitions.
-Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
+Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2.5\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:16.98,0:00:20.71,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える

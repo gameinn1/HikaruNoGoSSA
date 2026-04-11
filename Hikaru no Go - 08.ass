@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 08 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 1
-Video Position: 109
+Scroll Position: 216
+Active Line: 223
+Video Position: 31969
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,7 +48,7 @@ Dialogue: 0,0:01:46.34,0:01:49.80,Thinking,,0,0,0,,I'll make you wait... until I
 Dialogue: 0,0:01:50.55,0:01:52.41,Thinking,,0,0,0,,There's no reason for you to fear me.
 Dialogue: 0,0:01:53.56,0:01:55.40,Thinking,,0,0,0,,I should be the one fearing you.
 Dialogue: 0,0:01:56.38,0:02:00.79,Thinking,,0,0,0,,Shindou Hikaru... if that's what\Nyou intend to do... I will...
-Dialogue: 0,0:02:02.14,0:02:07.11,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(255,115)}The Eight Match
+Dialogue: 0,0:02:02.14,0:02:07.11,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(267,115)}The Eighth Match
 Dialogue: 0,0:02:02.14,0:02:07.11,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Scheme in the Rain
 Dialogue: 0,0:02:11.74,0:02:16.37,NoteArialEF,,0,0,20,,{\an2}Igo made Fun\NKey to Solving Tsumego 3\NKey to Solving Tsumego 2\NKey to Solving Tsumego 1\NEntrance into Knowledge of Go\NCollection of Tsumego Chosen by Touya Meijin\NA Hundred Selected Tsumego\NLearning Joseki: A Hundred Tesuji\NStarting Go\NTesuji from Real Matches\NNew Opening Methods\NImmediately Useful Joseki\NIgo Cultural Magazine\NThe World of Igo\NIgo Encyclopedia Second Volume\NSilver Matches of Go
 Dialogue: 0,0:02:15.51,0:02:17.40,Default,,0,0,0,,Oh there it is. Is this it?
@@ -262,7 +263,7 @@ Dialogue: 0,0:19:50.49,0:19:51.59,Default,,0,0,0,,...That's good...
 Dialogue: 0,0:20:08.89,0:20:09.49,Default,,0,0,0,,Here.
 Dialogue: 0,0:20:12.70,0:20:19.30,Background,,0,0,0,,Anyways... no matter what we do...\Nwe'll win against Touya Akira...
 Dialogue: 0,0:20:22.48,0:20:26.48,Background,,0,0,0,,We'll shatter his pride...
-Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.77,0:22:14.99,NoteArialEF,,0,0,165,,{\an2}How to decide win loss at Go.
 Dialogue: 0,0:22:12.77,0:22:14.99,NoteArialEF,,200,0,0,,{\an2}Continued from last week.
@@ -292,7 +293,7 @@ Dialogue: 0,0:23:06.45,0:23:10.45,Default,,0,0,0,,So you're saying if I'm the be
 Dialogue: 0,0:23:11.19,0:23:12.33,Default,,0,0,0,,Go ahead and move!
 Dialogue: 0,0:23:22.59,0:23:25.68,Default,,0,0,0,,With this, Touya will lose in 5 minutes!
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
-Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
+Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:16.98,0:00:20.71,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える
 Dialogue: 0,0:00:20.85,0:00:26.73,Op1Kanji,,0,0,0,,{\kf33}だから{\kf151}迷い{\kf25}{\kf58}ながら{\kf17}も{\kf37}共{\kf36}に{\kf75}生きて{\kf78}いこう{\kf78}よ

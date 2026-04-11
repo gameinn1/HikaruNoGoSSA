@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 17 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 267
-Active Line: 279
-Video Position: 27979
+Scroll Position: 284
+Active Line: 288
+Video Position: 31969
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,7 +329,7 @@ Dialogue: 0,0:19:41.20,0:19:42.79,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:20:05.77,0:20:08.60,Default,,0,0,0,,Good morning Shindou-kun!\NIt sure is raining hard today.
 Dialogue: 0,0:20:08.65,0:20:12.23,Default,,0,0,0,,Sorry, I've gotta hurry.
 Dialogue: 0,0:20:28.10,0:20:29.96,Default,,0,0,0,,Okay let's go!
-Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
+Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2\shad1}Umezawa Yukari's\NGo Go Igo!
 Dialogue: 0,0:22:09.74,0:22:12.32,Background,,0,0,0,,Go! Go! Igo!
 Dialogue: 0,0:22:12.34,0:22:14.39,NoteArialEF,,0,0,0,,{\1c&HFFFFFF&\3c&H177AF4&\bord3\b0\pos(320,327)}Teacher Yukari{\b1}
 Dialogue: 0,0:22:12.77,0:22:15.03,Default,,0,0,0,,Today, we continue our discussion on eyes.
@@ -358,7 +358,7 @@ Dialogue: 0,0:23:09.40,0:23:12.29,Default,,0,0,0,,With this move, I'll force him
 Dialogue: 0,0:23:23.18,0:23:24.88,Default,,0,0,0,,Come on tell me...
 Dialogue: 0,0:23:25.11,0:23:26.43,Default,,0,0,0,,Who are you!?
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2\shad1)}Elite-Fansubs presents
-Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
+Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:16.98,0:00:20.71,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える
 Dialogue: 0,0:00:20.85,0:00:26.73,Op1Kanji,,0,0,0,,{\kf33}だから{\kf151}迷い{\kf25}{\kf58}ながら{\kf17}も{\kf37}共{\kf36}に{\kf75}生きて{\kf78}いこう{\kf78}よ
