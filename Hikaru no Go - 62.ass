@@ -17,16 +17,16 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 17
-Active Line: 44
-Video Position: 5495
+Scroll Position: 29
+Active Line: 57
+Video Position: 6674
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Ed4Kanji,MS Gothic,22,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed4Romaji,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H0027081C,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
@@ -102,7 +102,7 @@ Dialogue: 0,0:04:17.82,0:04:19.28,Default,,0,0,0,,That kid?
 Dialogue: 0,0:04:19.53,0:04:22.37,Default,,0,0,0,,He doesn't look like a pro. He's\Nthe same age as my grandson.
 Dialogue: 0,0:04:22.78,0:04:25.54,Default,,0,0,0,,How can you be so confident when\Nyou know that he's a pro!?
 Dialogue: 0,0:04:26.33,0:04:32.38,Default,,0,0,0,,I saw him on Weekly Go. His new first dan\Ngame against Touya Kouyou was horrible.
-Dialogue: 0,0:04:34.42,0:04:37.34,Default,,0,0,0,,A pro shouldn't disappoint us amateurs like that.
+Dialogue: 0,0:04:34.38,0:04:37.30,Default,,0,0,0,,A pro shouldn't disappoint us amateurs like that.
 Dialogue: 0,0:04:39.68,0:04:41.09,Default,,0,0,0,,Who are you, mister?
 Dialogue: 0,0:04:41.59,0:04:46.43,Default,,0,0,0,,He's the man who is going to represent Japan at\Nthe next International Amateur Tournament.
 Dialogue: 0,0:04:47.02,0:04:49.23,Default,,0,0,0,,Shuuhei is the number one amateur player.
