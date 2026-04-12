@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 3
-Video Position: 2461
+Scroll Position: 213
+Active Line: 238
+Video Position: 18815
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -95,8 +96,8 @@ Dialogue: 0,0:04:03.81,0:04:04.64,Sai,,0,0,0,,I...
 Dialogue: 0,0:04:07.23,0:04:09.19,Sai,,0,0,0,,I will now, once again...
 Dialogue: 0,0:04:10.50,0:04:11.77,Sai,,0,0,0,,return to the living world.
 Dialogue: 0,0:04:25.42,0:04:26.08,Background,,0,0,0,,What's wrong?
-Dialogue: 0,0:04:26.33,0:04:28.04,Background,,0,0,0,,Hikaru!{\alpha&HFF&\t(1000,1000,\alpha&H00&\4a&H80&)} Hikaru!
-Dialogue: 0,0:04:28.29,0:04:30.46,Background,,0,0,0,,Grandpa! Something's wrong with Hikaru!
+Dialogue: 0,0:04:26.33,0:04:28.00,Background,,0,0,0,,Hikaru!{\alpha&HFF&\t(979,979,\alpha&H00&\4a&H80&)} Hikaru!
+Dialogue: 0,0:04:28.25,0:04:30.33,Background,,0,0,0,,Grandpa! Something's wrong with Hikaru!
 Dialogue: 0,0:04:31.88,0:04:33.04,Background,,0,0,0,,Who are you?
 Dialogue: 0,0:04:33.67,0:04:34.71,Sai,,0,0,0,,Fujiwarano Sai
 Dialogue: 0,0:04:35.25,0:04:35.96,Background,,0,0,0,,Sai?...
@@ -152,20 +153,20 @@ Dialogue: 0,0:07:41.49,0:07:44.72,Default,,0,0,0,,The blood on the Go board must
 Dialogue: 0,0:07:45.16,0:07:50.42,Default,,0,0,0,,And you possessed me, because\Nyou wish to play more Go?
 Dialogue: 0,0:07:51.89,0:07:52.39,Sai,,0,0,0,,Yes...
 Dialogue: 0,0:07:53.87,0:08:01.00,Sai,,0,0,0,,because I still have not obtained\Nthe hand of the god yet!
-Dialogue: 0,0:08:12.66,0:08:13.36,Background,,0,0,0,,Hikaru!
-Dialogue: 0,0:08:14.00,0:08:15.80,Background,,0,0,0,,I heard you rode in an ambulance?!
-Dialogue: 0,0:08:16.56,0:08:18.10,Default,,0,0,0,,Huh? Yeah...
+Dialogue: 0,0:08:12.64,0:08:13.31,Background,,0,0,0,,Hikaru!
+Dialogue: 0,0:08:13.97,0:08:15.80,Background,,0,0,0,,I heard you rode in an ambulance?!
+Dialogue: 0,0:08:16.60,0:08:18.10,Default,,0,0,0,,Huh? Yeah...
 Dialogue: 0,0:08:18.66,0:08:19.44,Background,,0,0,0,,Hikaru?
 Dialogue: 0,0:08:23.86,0:08:24.53,Default,,0,0,0,,Hikaru?
 Dialogue: 0,0:08:24.98,0:08:25.99,Default,,0,0,0,,Are you really okay?
-Dialogue: 0,0:08:26.51,0:08:27.84,Default,,0,0,0,,What happened yesterday?
+Dialogue: 0,0:08:26.49,0:08:27.78,Default,,0,0,0,,What happened yesterday?
 Dialogue: 0,0:08:28.05,0:08:31.00,Background,,0,0,0,,Well, I don't remember all too clearly myself,
-Dialogue: 0,0:08:31.32,0:08:33.10,Background,,0,0,0,,when I came to, it was today already.
-Dialogue: 0,0:08:33.44,0:08:35.00,Background,,0,0,0,,Please pass the test back.
-Dialogue: 0,0:08:36.99,0:08:38.50,Background,,0,0,0,,Okay you may begin now.
+Dialogue: 0,0:08:31.28,0:08:33.20,Background,,0,0,0,,when I came to, it was today already.
+Dialogue: 0,0:08:33.37,0:08:35.00,Background,,0,0,0,,Please pass the test back.
+Dialogue: 0,0:08:36.95,0:08:38.50,Background,,0,0,0,,Okay you may begin now.
 Dialogue: 0,0:08:42.42,0:08:45.46,Note,,0,0,5,,{\fs16}Fill in the blanks in the following passage with the appropriate code from the word bank.\N\NThis year, the new government reset the year to _____. Declaring Tokyo as the ______, they\Ndecided upon the capital of the nation. In the rural areas, the ongoing _____ was stopped and\N_____ was started. The _____ that the government started. This is called _____. The feudal\Nsystem was destroyed, and people gained the freedom of movement, this is called _____.\N\NThen in 1868 the Government declared a new direction of governing and\Ngave power to the people, this is called _____. The fifteenth generation general\N_____ returned the governing of the nation to _____. This is called _____.\N\NRead the following passages and choose the correct one. Circle the blank. _____\NRevolutionizing the school system, the program giving all children the right to go to elementary\N and middle school _____ Newspapers and Magazines were allowed, but Christianity was\N forbidden _____ The sea was filled to increase land area, and industry and residence was\Ndeveloped. _____ Through Healthcare, the populace was treated for disease _____ In order to\Ncreate a greater army, military factories were created, and industry was promoted. _____ In\Norder to get enough taxes, the feudal lords were demanded to pay taxes for the land.\N\NA) Emperor B) Tokugawa Government C) Daimei D) Rural areas E) Feudal Government F)\NSanpou G) Taisei Henkyaku H) General I) Chigoto J) Freedom of the Rural Areas K) Meiji\NL) Taishin M) ID O) Raku P) Go Q) Haimatsu Shobun R) Everyone is equal S) The 5 declarations
-Dialogue: 0,0:08:43.21,0:08:45.46,Sai,,0,0,0,,Oh history problems I see...
-Dialogue: 0,0:08:45.84,0:08:47.30,Default,,0,0,0,,You!
+Dialogue: 0,0:08:43.21,0:08:45.46,Sai,,0,0,5,,Oh history problems I see...
+Dialogue: 0,0:08:45.84,0:08:47.26,Default,,0,0,0,,You!
 Dialogue: 0,0:08:48.93,0:08:49.83,Default,,0,0,0,,What is it?
 Dialogue: 0,0:08:50.51,0:08:51.01,Default,,0,0,0,,Umm...
 Dialogue: 0,0:08:51.18,0:08:51.76,Default,,0,0,0,,No...
@@ -256,14 +257,14 @@ Dialogue: 0,0:12:05.70,0:12:06.16,Default,,0,0,0,,Okay.
 Dialogue: 0,0:12:08.93,0:12:10.83,Background,,0,0,0,,Oh wow, it's filled with old people.
 Dialogue: 0,0:12:11.66,0:12:13.90,Background,,0,0,0,,Is this your first time here?
 Dialogue: 0,0:12:14.19,0:12:16.24,Default,,0,0,0,,Yeah, it's my first time.
-Dialogue: 0,0:12:17.04,0:12:18.14,Default,,0,0,0,,Can anyone play here?
-Dialogue: 0,0:12:18.41,0:12:19.24,Default,,0,0,0,,Of course.
-Dialogue: 0,0:12:19.38,0:12:21.89,Default,,0,0,0,,Okay, write your name here.
-Dialogue: 0,0:12:22.14,0:12:23.26,Default,,0,0,0,,How strong are you?
-Dialogue: 0,0:12:23.97,0:12:27.14,Default,,0,0,0,,My strength? I'm... not sure.
-Dialogue: 0,0:12:27.21,0:12:27.64,Background,,0,0,0,,What?
-Dialogue: 0,0:12:27.81,0:12:31.03,Background,,0,0,0,,I've never played anyone, although\NI'm pretty sure I'm decently strong.
-Dialogue: 0,0:12:32.08,0:12:34.60,Background,,0,0,0,,Oh there is kid! Can I play him?
+Dialogue: 0,0:12:17.01,0:12:18.18,Default,,0,0,0,,Can anyone play here?
+Dialogue: 0,0:12:18.38,0:12:19.22,Default,,0,0,0,,Of course.
+Dialogue: 0,0:12:19.34,0:12:21.89,Default,,0,0,0,,Okay, write your name here.
+Dialogue: 0,0:12:22.14,0:12:23.22,Background,,0,0,0,,How strong are you?
+Dialogue: 0,0:12:23.93,0:12:27.10,Background,,0,0,0,,My strength? I'm... not sure.
+Dialogue: 0,0:12:27.18,0:12:27.60,Background,,0,0,0,,What?
+Dialogue: 0,0:12:27.77,0:12:30.98,Background,,0,0,0,,I've never played anyone, although\NI'm pretty sure I'm decently strong.
+Dialogue: 0,0:12:32.02,0:12:34.57,Background,,0,0,0,,Oh there is a kid! Can I play him?
 Dialogue: 0,0:12:35.03,0:12:35.40,Default,,0,0,0,,Ahh...
 Dialogue: 0,0:12:35.53,0:12:37.00,Default,,0,0,0,,Yeah... but he's...
 Dialogue: 0,0:12:45.58,0:12:47.16,Default,,0,0,0,,Are you looking for someone to play?
@@ -272,11 +273,11 @@ Dialogue: 0,0:12:48.25,0:12:49.62,Default,,0,0,0,,Sure, I'll play you.
 Dialogue: 0,0:12:49.92,0:12:51.50,Default,,0,0,0,,But he's...
 Dialogue: 0,0:12:52.50,0:12:53.29,Default,,0,0,0,,Let's go to the back.
 Dialogue: 0,0:12:53.63,0:12:54.00,Default,,0,0,0,,Sure!
-Dialogue: 0,0:12:54.52,0:12:55.63,Default,,0,0,0,,Hold it for a sec.
-Dialogue: 0,0:12:55.63,0:12:57.00,Default,,0,0,0,,If you're a kid it'll be 500 yen.
-Dialogue: 0,0:12:57.01,0:12:58.63,Default,,0,0,0,,What?! I have to pay?!
+Dialogue: 0,0:12:54.46,0:12:55.59,Default,,0,0,0,,Hold it for a sec.
+Dialogue: 0,0:12:55.59,0:12:56.96,Default,,0,0,0,,If you're a kid it'll be 500 yen.
+Dialogue: 0,0:12:56.96,0:12:58.59,Default,,0,0,0,,What?! I have to pay?!
 Dialogue: 0,0:12:59.22,0:13:02.80,Default,,0,0,0,,It's his first time here, can you cut him some slack?
-Dialogue: 0,0:13:04.75,0:13:06.30,Default,,0,0,0,,If you say so Akira-kun!
+Dialogue: 0,0:13:04.72,0:13:06.30,Default,,0,0,0,,If you say so Akira-kun!
 Dialogue: 0,0:13:13.04,0:13:15.21,Default,,0,0,0,,I'm Touya Akira, what's your name?
 Dialogue: 0,0:13:15.71,0:13:17.60,Default,,0,0,0,,I'm Shindou Hikaru, 6th grade
 Dialogue: 0,0:13:17.95,0:13:19.10,Default,,0,0,0,,I'm in the 6th grade too!
