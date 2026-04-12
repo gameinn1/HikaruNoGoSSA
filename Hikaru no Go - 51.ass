@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 115
-Active Line: 119
-Video Position: 11561
+Scroll Position: 36
+Active Line: 54
+Video Position: 6533
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,8 +52,8 @@ Dialogue: 0,0:02:04.29,0:02:07.04,Background,,0,0,0,,They're not all playing gam
 Dialogue: 0,0:02:07.37,0:02:09.23,Background,,0,0,0,,There are tutoring games and lectures, too!
 Dialogue: 0,0:02:09.57,0:02:13.19,Default,,0,0,0,,But... wow, there are a lot of people here.
 Dialogue: 0,0:02:15.03,0:02:17.33,Sai,,0,0,0,,Hikaru, Hikaru! Over there!
-Dialogue: 0,0:02:17.74,0:02:18.24,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\blur1\bord0\fscy80\frz359\shad0\pos(75,106)}{\alpha&HFF&}Net {\alpha&H00&}Go Corner
-Dialogue: 0,0:02:18.24,0:02:20.75,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\blur1\bord0\shad0\fscy80\frz359\pos(75,106)}Net Go Corner
+Dialogue: 0,0:02:17.74,0:02:18.24,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\blur0.8\bord0\fscy80\frz359\shad0\pos(75,106)}{\alpha&HFF&}Net {\alpha&H00&}Go Corner
+Dialogue: 0,0:02:18.24,0:02:20.75,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\blur.8\bord0\shad0\fscy80\frz359\pos(75,106)}Net Go Corner
 Dialogue: 0,0:02:21.84,0:02:26.76,Thinking,,0,0,0,,I guess this'll cheer Sai up a bit. I'm glad we came.
 Dialogue: 0,0:02:29.02,0:02:31.55,Memory,,0,0,0,,I wanted to play you with no handicap.
 Dialogue: 0,0:02:38.43,0:02:41.01,Memory,,0,0,0,,Next time, let us play an even game.
@@ -99,7 +99,7 @@ Dialogue: 0,0:04:18.46,0:04:21.81,Default,,0,0,0,,You seem like you're better at
 Dialogue: 0,0:04:21.93,0:04:25.12,Default,,0,0,0,,You've got to be kidding, I'm a pro.
 Dialogue: 0,0:04:25.80,0:04:30.62,Default,,0,0,0,,Remember, I'm the reason\Nyou got into this convention.
 Dialogue: 0,0:04:30.62,0:04:32.46,Default,,0,0,0,,Work hard at getting their money.
-Dialogue: 0,0:04:32.46,0:04:35.42,NoteArial,,0,0,0,,{\blur1\fs25\1c&H000000&\fscy140\bord0\shad0\frz348\pos(333,166)}FREE PLAY AREA
+Dialogue: 0,0:04:32.46,0:04:35.42,NoteArial,,0,0,0,,{\blur2\fs25\1c&H000000&\fscy140\bord0\shad0\frz348\pos(333,166)}FREE PLAY AREA
 Dialogue: 0,0:04:34.05,0:04:34.75,Sai,,0,0,0,,Oh.
 Dialogue: 0,0:04:35.06,0:04:38.63,Sai,,0,0,0,,That large cluster is about to get taken. It's in atari.
 Dialogue: 0,0:04:39.81,0:04:44.08,Thinking,,0,0,0,,You're right. This is no time to\Nbe thinking, he's got to protect it.

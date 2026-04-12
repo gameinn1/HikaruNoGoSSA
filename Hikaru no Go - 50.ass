@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 307
-Active Line: 334
-Video Position: 34870
+Video Zoom Percent: 0.656250
+Scroll Position: 123
+Active Line: 129
+Video Position: 14691
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -173,13 +173,25 @@ Dialogue: 0,0:10:02.68,0:10:05.80,Background,,0,0,0,,Fine, I guess it would be\N
 Dialogue: 0,0:10:08.69,0:10:09.65,Sai,,0,0,0,,And!? And!?
 Dialogue: 0,0:10:09.89,0:10:11.34,Sai,,0,0,0,,Where are we playing?
 Dialogue: 0,0:10:11.59,0:10:12.72,Background,,0,0,0,,In a Go Salon.
-Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs13\an6\bord0\fscy150\1c&H000000&\pos(197,62)}Domestic and international\Ntravel
-Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs23\an6\fscx120\bord0\1c&H000000&\pos(197,105)}Sky Blue\NTravel
-Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs13\an6\bord0\fscy150\1c&H000000&\pos(197,136)}Tours of various locales -- Rental
-Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs32\an6\fscx120\fscy90\bord0\1c&H000000&\pos(197,249)}Go\NSalon
-Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs14\an6\bord0\fscy150\fscx115\1c&H000000&\pos(197,310)}Weekdays\N1PM~10PM\NWeekends 12PM~9PM
-Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs19\an6\fscy110\bord0\1c&H000000&\pos(197,425)}Hair\NStudio
-Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs35\an6\bord0\fscx150\fscy70\1c&H000000&\pos(197,457)}JOY
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,Overlay values. Moved x left by 3 to match Blu-Ray better. Kept y the same as they aren't that far off.
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs13\an6\bord0\fscy160\1c&H000000&\pos(200,62.3)}Domestic and international\Ntravel
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs23\an6\fscx120\fscy90\bord0\1c&H000000&\pos(200,93.8)}Sky Blue
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs23\an6\fscx120\fscy90\bord0\1c&H000000&\pos(200,114.8)}Travel
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs13\an6\bord0\fscy160\1c&H000000&\pos(200,136)}Tours of various locales -- Rental
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs32\an6\fscx120\fscy90\bord0\1c&H000000&\pos(200,250)}Go\NSalon
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs14\an6\bord0\fscy150\fscx115\1c&H000000&\pos(200,310.5)}Weekdays\N1PM~10PM\NWeekends 12PM~9PM
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs19.5\an6\fscy105\bord0\1c&H000000&\pos(200,415)}Hair
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs19.5\an6\fscy105\bord0\1c&H000000&\pos(200,436)}Studio
+Comment: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs35\an6\bord0\fscx150\fscy68\1c&H000000&\pos(200,458.2)}JOY
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs13\an6\bord0\fscy160\1c&H000000&\pos(197,62.3)}Domestic and international\Ntravel
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs23\an6\fscx120\fscy90\bord0\1c&H000000&\pos(197,93.8)}Sky Blue
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs23\an6\fscx120\fscy90\bord0\1c&H000000&\pos(197,114.8)}Travel
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs13\an6\bord0\fscy160\1c&H000000&\pos(197,136)}Tours of various locales -- Rental
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs32\an6\fscx120\fscy90\bord0\1c&H000000&\pos(197,250)}Go\NSalon
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs14\an6\bord0\fscy150\fscx115\1c&H000000&\pos(197,310.5)}Weekdays\N1PM~10PM\NWeekends 12PM~9PM
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs19.5\an6\fscy105\bord0\1c&H000000&\pos(197,415)}Hair
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs19.5\an6\fscy105\bord0\1c&H000000&\pos(197,436)}Studio
+Dialogue: 0,0:10:12.72,0:10:15.68,NoteArial,,0,0,0,,{\fs35\an6\bord0\fscx150\fscy68\1c&H000000&\pos(197,458.2)}JOY
 Dialogue: 0,0:10:17.61,0:10:19.63,Background,,0,0,0,,Wow, it's filled with old men.
 Dialogue: 0,0:10:20.81,0:10:22.28,Background,,0,0,0,,Oh there's another kid.
 Dialogue: 0,0:10:22.36,0:10:23.43,Default,,0,0,0,,Can I play him?
