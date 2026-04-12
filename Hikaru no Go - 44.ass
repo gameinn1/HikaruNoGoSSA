@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 240
-Active Line: 256
-Video Position: 34728
+Active Line: 255
+Video Position: 34681
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -300,6 +300,9 @@ Dialogue: 0,0:22:42.82,0:22:47.36,Default,,0,0,0,,I hope the children who watch 
 Dialogue: 0,0:22:46.57,0:22:49.89,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\q2\fad(375,417)\fsp70\t(0,209,1,\fsp1)\3c&H048E09&\4c&H048E09&\bord0.5\shad0.5\pos(320,349)}Senshi is 5 dan at the age of six!!
 Dialogue: 0,0:22:47.88,0:22:49.69,Default,,0,0,0,,The dream will spread.
 Dialogue: 0,0:22:50.95,0:22:54.80,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(167,501)\3c&HD80001&\4c&HD80001&\bord0.5\shad0.5\pos(320,344)}[Go Go Igo] will be broadcast too!!
+Comment: 0,0:22:54.98,0:22:55.20,Note,,0,0,0,,Old values I had. Also changed from shad1.
+Comment: 0,0:22:54.98,0:22:55.20,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(209,0)\3c&H1200DE&\4c&H1200DE&\bord1.5\shad0.5\i1\move(357,-60,357,425)}To be Continued...{\i0}
+Comment: 0,0:22:55.20,0:22:57.37,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(0,0)\3c&H1200DE&\4c&H1200DE&\bord1.5\shad0.5\i1\pos(357,425)}To be Continued...{\i0}
 Dialogue: 0,0:22:54.98,0:22:55.22,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(209,0)\3c&H1200DE&\4c&H1200DE&\bord1.5\shad0.5\i1\move(357,-90,357,425)}To be Continued...{\i0}
 Dialogue: 0,0:22:55.22,0:22:57.37,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(0,0)\3c&H1200DE&\4c&H1200DE&\bord1.5\shad0.5\i1\pos(357,425)}To be Continued...{\i0}
 Dialogue: 0,0:22:59.86,0:23:01.96,Default,,0,0,0,,I have Touya standing behind me!
