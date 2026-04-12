@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 213
-Active Line: 238
-Video Position: 18815
+Scroll Position: 195
+Active Line: 207
+Video Position: 17236
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -242,10 +242,10 @@ Dialogue: 0,0:11:27.46,0:11:31.30,Background,,0,0,0,,Okay, okay, just don't yell
 Dialogue: 0,0:11:31.63,0:11:34.47,Background,,0,0,0,,I'll take you somewhere where you\Ncan play Go as soon as this is over.
 Dialogue: 0,0:11:41.72,0:11:44.65,Sai,,0,0,0,,Wow! There are so many people here.
 Dialogue: 0,0:11:44.94,0:11:46.92,Default,,0,0,0,,This is Tokyo after all.
-Dialogue: 0,0:11:47.88,0:11:50.39,Sai,,0,0,0,,And, and... Where are we playing Go?
-Dialogue: 0,0:11:50.80,0:11:51.60,Background,,0,0,0,,A Go Salon.
+Dialogue: 0,0:11:47.85,0:11:50.39,Sai,,0,0,0,,And, and... Where are we playing Go?
+Dialogue: 0,0:11:50.77,0:11:51.57,Background,,0,0,0,,A Go Salon.
 Dialogue: 0,0:11:52.67,0:11:54.82,Background,,0,0,0,,My grandpa goes there every now and then.
-Dialogue: 0,0:11:55.06,0:11:58.32,Background,,0,0,0,,It's a place where all the old folks\Nfrom the neighborhood go to play Go.
+Dialogue: 0,0:11:55.03,0:11:58.32,Background,,0,0,0,,It's a place where all the old folks\Nfrom the neighborhood go to play Go.
 Dialogue: 0,0:11:58.88,0:12:02.07,Sai,,0,0,0,,No matter what period it is,\Nthere are always Go lovers!
 Dialogue: 0,0:12:02.16,0:12:05.12,Note,,0,0,0,,{\pos(321,110)}Intranational and international travel
 Dialogue: 0,0:12:02.16,0:12:05.12,Note,,0,0,0,,{\pos(326,154)}Sky Blue Travel
