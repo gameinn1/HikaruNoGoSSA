@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 81
-Active Line: 97
-Video Position: 10065
+Scroll Position: 17
+Active Line: 44
+Video Position: 5495
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,8 +88,8 @@ Dialogue: 0,0:03:33.40,0:03:37.11,Default,,0,0,0,,Give it up, you couldn't even 
 Dialogue: 0,0:03:37.53,0:03:38.53,Default,,0,0,0,,Kawai-san!
 Dialogue: 0,0:03:40.53,0:03:43.70,Default,,0,0,0,,What do you think you're doing? I'm going to\Ndrag you home if you're just going to fight.
 Dialogue: 0,0:03:43.95,0:03:47.00,Default,,0,0,0,,Wait a minute, I'm playing one more game.
-Dialogue: 0,0:03:47.54,0:03:48.67,Default,,0,0,0,,Isn't he...?
-Dialogue: 0,0:03:49.21,0:03:51.38,Background,,0,0,0,,Put your stones away already.
+Dialogue: 0,0:03:47.37,0:03:48.50,Thinking,,0,0,0,,Isn't he...?
+Dialogue: 0,0:03:49.17,0:03:51.38,Background,,0,0,0,,Put your stones away already.
 Dialogue: 0,0:03:51.84,0:03:53.00,Default,,0,0,0,,I'm done with you.
 Dialogue: 0,0:03:54.01,0:03:54.92,Default,,0,0,0,,What did you say!?
 Dialogue: 0,0:03:54.96,0:03:57.18,Default,,0,0,0,,You there. Wanna play me?
