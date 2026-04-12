@@ -19,7 +19,7 @@ Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 280
 Active Line: 285
-Video Position: 33423
+Video Position: 33616
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,28 +329,28 @@ Dialogue: 0,0:22:27.14,0:22:31.01,NoteArial_Igo,,0,0,0,,{\fs19.5\1c&HFFFFFF&\fad
 Dialogue: 0,0:22:27.14,0:22:31.01,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(334,375)\3c&HF30000&\4c&HF30000&\fscx100\fscy95\bord1\shad0.5\pos(315,339)}"An Igo Meijin Match for Kids"
 Dialogue: 0,0:22:28.89,0:22:31.93,Background,,0,0,0,,that everyone in the audience is from\Ngrade school and junior high school.
 Dialogue: 0,0:22:33.07,0:22:38.45,Background,,0,0,0,,Other than the Meijin and Honinbou, there are titles\Nlike Kisei and Ouza, for a total of 17 titles.
-Dialogue: 0,0:22:34.00,0:22:35.05,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Kisei
-Dialogue: 0,0:22:34.45,0:22:35.50,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Meijin
-Dialogue: 0,0:22:34.90,0:22:35.95,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Honinbou
-Dialogue: 0,0:22:35.35,0:22:36.40,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Jyudan
-Dialogue: 0,0:22:35.80,0:22:36.85,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Tengen
-Dialogue: 0,0:22:36.25,0:22:37.30,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Ouza
-Dialogue: 0,0:22:36.70,0:22:37.75,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,356,407,356,0,150)}World Competitor Rights
-Dialogue: 0,0:22:37.15,0:22:38.20,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Gosei
-Dialogue: 0,0:22:37.60,0:22:38.65,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}NEC
-Dialogue: 0,0:22:38.05,0:22:39.10,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Kakusei
-Dialogue: 0,0:22:38.50,0:22:39.55,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,150)}All Japan Fast Go Champion
-Dialogue: 0,0:22:38.95,0:22:40.00,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}NEC Shunei
-Dialogue: 0,0:22:39.40,0:22:40.45,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,150)}Top New Player
-Dialogue: 0,0:22:39.85,0:22:40.90,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,150)}NHK Tournament
-Dialogue: 0,0:22:40.30,0:22:41.35,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,150)}Fast Go Competitor Rights
-Dialogue: 0,0:22:40.75,0:22:41.80,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Ryusei
-Dialogue: 0,0:22:41.20,0:22:42.25,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,150)}Shinei
-Dialogue: 0,0:22:41.65,0:22:42.70,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,150)}Women's Honinbou
-Dialogue: 0,0:22:42.10,0:22:43.15,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,150)}Women's Meijin
-Dialogue: 0,0:22:42.55,0:22:43.60,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,150)}Women's Kakusei
-Dialogue: 0,0:22:43.00,0:22:44.06,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,150)}Women's Kisei
-Dialogue: 0,0:22:43.45,0:22:44.49,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,150)}Top Woman Player
+Dialogue: 0,0:22:34.00,0:22:35.05,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Kisei
+Dialogue: 0,0:22:34.45,0:22:35.50,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Meijin
+Dialogue: 0,0:22:34.90,0:22:35.95,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Honinbou
+Dialogue: 0,0:22:35.35,0:22:36.40,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Jyudan
+Dialogue: 0,0:22:35.80,0:22:36.85,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Tengen
+Dialogue: 0,0:22:36.25,0:22:37.30,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Ouza
+Dialogue: 0,0:22:36.70,0:22:37.75,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,356,407,356,0,236)}World Competitor Rights
+Dialogue: 0,0:22:37.15,0:22:38.20,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Gosei
+Dialogue: 0,0:22:37.60,0:22:38.65,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}NEC
+Dialogue: 0,0:22:38.05,0:22:39.10,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Kakusei
+Dialogue: 0,0:22:38.50,0:22:39.55,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,236)}All Japan Fast Go Champion
+Dialogue: 0,0:22:38.95,0:22:40.00,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}NEC Shunei
+Dialogue: 0,0:22:39.40,0:22:40.45,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,236)}Top New Player
+Dialogue: 0,0:22:39.85,0:22:40.90,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,236)}NHK Tournament
+Dialogue: 0,0:22:40.30,0:22:41.35,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,236)}Fast Go Competitor Rights
+Dialogue: 0,0:22:40.75,0:22:41.80,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Ryusei
+Dialogue: 0,0:22:41.20,0:22:42.25,NoteArial_Igo,,0,0,0,,{\fs45\1c&HFFFFFF&\fad(42,501)\3c&H4D002B&\4c&H4D002B&\fscx98\fscy90\bord2\shad0.5\move(125,350,407,350,0,236)}Shinei
+Dialogue: 0,0:22:41.65,0:22:42.70,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,236)}Women's Honinbou
+Dialogue: 0,0:22:42.10,0:22:43.15,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,236)}Women's Meijin
+Dialogue: 0,0:22:42.55,0:22:43.60,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,236)}Women's Kakusei
+Dialogue: 0,0:22:43.00,0:22:44.06,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,236)}Women's Kisei
+Dialogue: 0,0:22:43.45,0:22:44.49,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(42,501)\3c&HC600BD&\4c&HC600BD&\fscx100\fscy120\bord2\shad0.5\move(125,355,407,355,0,236)}Top Woman Player
 Dialogue: 0,0:22:38.70,0:22:41.59,Background,,0,0,0,,Combined with the women's\Ntitles, there are a total of 22.
 Dialogue: 0,0:22:42.95,0:22:46.64,Background,,0,0,0,,Getting a title is a major goal of any pro player.
 Dialogue: 0,0:22:48.28,0:22:50.36,Default,,0,0,0,,I hope one of the kids watching today
