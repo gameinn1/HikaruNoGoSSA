@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 454
-Active Line: 475
-Video Position: 29950
+Scroll Position: 81
+Active Line: 97
+Video Position: 10065
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,7 +68,7 @@ Dialogue: 0,0:02:22.37,0:02:24.08,Default,,0,0,0,,K-Kawai-san...
 Dialogue: 0,0:02:28.63,0:02:32.05,Default,,0,0,0,,What's with that attitude!? I'm not done yet!
 Dialogue: 0,0:02:35.30,0:02:41.64,Default,,0,0,0,,You spread your palm out like this.\NDoesn't that mean 50,000?
 Dialogue: 0,0:02:41.85,0:02:45.02,Default,,0,0,0,,You've got to be kidding! It means 5,000!
-Dialogue: 0,0:02:45.65,0:02:49.57,Default,,0,0,0,,Then make that clear from the start. It's too late, you idiot.
+Dialogue: 0,0:02:45.65,0:02:49.57,Default,,0,0,0,,Then make that clear from the\Nstart. It's too late, you idiot.
 Dialogue: 0,0:02:49.69,0:02:52.53,Background,,0,0,0,,You bastard! You called me an idiot again!
 Dialogue: 0,0:02:52.94,0:02:54.07,Default,,0,0,0,,Kawai-san!
 Dialogue: 0,0:02:54.24,0:02:57.03,Default,,0,0,0,,Hey, do you know that guy with the sunglasses?
@@ -76,7 +76,7 @@ Dialogue: 0,0:02:57.12,0:02:58.32,Default,,0,0,0,,Y-Yes.
 Dialogue: 0,0:02:58.66,0:03:04.08,NoteArial,,0,0,0,,{\fad(334,334)}The Giants and Curbs are rival baseball teams in Japan.
 Dialogue: 0,0:02:58.66,0:03:04.08,Default,,0,0,0,,Tell him later to hide the fact\Nthat he's a Giants fan here.
 Dialogue: 0,0:03:05.16,0:03:09.67,Default,,0,0,0,,After all, this is the land of the Hiroshima Curbs.
-Dialogue: 0,0:03:10.04,0:03:13.42,Default,,0,0,0,,Well Shuuhei was the one that got them on the topic of baseball.
+Dialogue: 0,0:03:10.04,0:03:13.42,Default,,0,0,0,,Well Shuuhei was the one that got\Nthem on the topic of baseball.
 Dialogue: 0,0:03:13.51,0:03:14.51,Default,,0,0,0,,Baseball!?
 Dialogue: 0,0:03:14.72,0:03:19.64,Default,,0,0,0,,He insulted the Curbs. I don't blame\NShuuhei for messing with him.
 Dialogue: 0,0:03:20.10,0:03:21.43,Default,,0,0,0,,Kawai-san, why?
@@ -86,15 +86,15 @@ Dialogue: 0,0:03:27.44,0:03:29.94,Default,,0,0,0,,Go lesson!? Fuck off!
 Dialogue: 0,0:03:29.98,0:03:33.15,Default,,0,0,0,,Play me again. I'll win this time and even the score.
 Dialogue: 0,0:03:33.40,0:03:37.11,Default,,0,0,0,,Give it up, you couldn't even tell how strong I was.
 Dialogue: 0,0:03:37.53,0:03:38.53,Default,,0,0,0,,Kawai-san!
-Dialogue: 0,0:03:40.53,0:03:43.70,Default,,0,0,0,,What do you think you're doing? I'm going to drag you home if you're just going to fight.
+Dialogue: 0,0:03:40.53,0:03:43.70,Default,,0,0,0,,What do you think you're doing? I'm going to\Ndrag you home if you're just going to fight.
 Dialogue: 0,0:03:43.95,0:03:47.00,Default,,0,0,0,,Wait a minute, I'm playing one more game.
 Dialogue: 0,0:03:47.54,0:03:48.67,Default,,0,0,0,,Isn't he...?
 Dialogue: 0,0:03:49.21,0:03:51.38,Background,,0,0,0,,Put your stones away already.
 Dialogue: 0,0:03:51.84,0:03:53.00,Default,,0,0,0,,I'm done with you.
 Dialogue: 0,0:03:54.01,0:03:54.92,Default,,0,0,0,,What did you say!?
 Dialogue: 0,0:03:54.96,0:03:57.18,Default,,0,0,0,,You there. Wanna play me?
-Dialogue: 0,0:03:58.22,0:04:03.60,Default,,0,0,0,,I'll forget about the money from the last game if you beat me.
-Dialogue: 0,0:04:05.02,0:04:07.56,Background,,0,0,0,,Do you know who you're talking to?
+Dialogue: 0,0:03:58.22,0:04:03.60,Default,,0,0,0,,I'll forget about the money from\Nthe last game if you beat me.
+Dialogue: 0,0:04:04.97,0:04:07.56,Background,,0,0,0,,Do you know who you're talking to?
 Dialogue: 0,0:04:07.89,0:04:12.11,Default,,0,0,0,,He may look like just a kid, but he's...
 Dialogue: 0,0:04:12.19,0:04:14.86,Default,,0,0,0,,I know. He's Shindou, a pro.
 Dialogue: 0,0:04:15.86,0:04:17.36,Default,,0,0,0,,What? A pro?
@@ -141,7 +141,7 @@ Dialogue: 0,0:06:30.33,0:06:34.25,Default,,0,0,0,,His students made a grave in t
 Dialogue: 0,0:06:34.46,0:06:35.42,Default,,0,0,0,,Didn't you know that?
 Dialogue: 0,0:06:41.55,0:06:46.34,Thinking,,0,0,0,,There's a grave for Shuusaku...\Nfor Torajirou... in Tokyo...
 Dialogue: 0,0:06:48.05,0:06:49.22,Default,,0,0,0,,Where in Tokyo!?
-Dialogue: 0,0:06:49.43,0:06:53.23,Default,,0,0,0,,Who cares about that! You just need\Nto pay attention to the game!
+Dialogue: 0,0:06:49.39,0:06:53.23,Default,,0,0,0,,Who cares about that! You just need\Nto pay attention to the game!
 Dialogue: 0,0:06:53.56,0:06:57.06,Default,,0,0,0,,Exactly, if you don't want to embarrass yourself.
 Dialogue: 0,0:07:03.53,0:07:05.45,Thinking,,0,0,0,,Torajirou's grave in Tokyo...
 Dialogue: 0,0:07:06.32,0:07:06.99,Thinking,,0,0,0,,That's it!
