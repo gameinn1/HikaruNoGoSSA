@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 13
-Active Line: 27
-Video Position: 4533
+Scroll Position: 167
+Active Line: 189
+Video Position: 16062
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -213,14 +213,14 @@ Dialogue: 0,0:10:35.20,0:10:36.10,Default,,0,0,0,,I can't do it.
 Dialogue: 0,0:10:36.45,0:10:39.38,Default,,0,0,0,,Sai do you know anything about\Nthe revolution of the Tempou?
 Dialogue: 0,0:10:39.70,0:10:40.58,Sai,,0,0,0,,Revolution of the Tempou?
 Dialogue: 0,0:10:40.83,0:10:42.91,Sai,,0,0,0,,The one that Roujyuu no Miizuno sama started?
-Dialogue: 0,0:10:44.26,0:10:45.10,Default,,0,0,0,,Yeah Yeah! That's the one.
-Dialogue: 0,0:10:45.16,0:10:49.70,Sai,,0,0,0,,What a fond memory. We played\NGo once within the castle.
+Dialogue: 0,0:10:43.87,0:10:44.96,Default,,0,0,0,,Yeah Yeah! That's the one.
+Dialogue: 0,0:10:45.12,0:10:49.67,Sai,,0,0,0,,What a fond memory. We played\NGo once within the castle.
 Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs24\pos(171,88)}3) Tokugawa Ieyasu
 Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs24\pos(217,209)}5) Mizuno Roujyuu
 Dialogue: 0,0:10:48.96,0:10:51.46,Note,,0,0,0,,{\fs24\pos(265,341)}7) Itou Hirobumi
-Dialogue: 0,0:10:49.76,0:10:51.00,Default,,0,0,0,,Do you know anything about Perry?
-Dialogue: 0,0:10:52.03,0:10:52.63,Sai,,0,0,0,,Perry?
-Dialogue: 0,0:10:53.10,0:10:55.60,Default,,0,0,0,,Perry!? You know? He lead\Na couple of warships here?
+Dialogue: 0,0:10:49.71,0:10:51.01,Background,,0,0,0,,Do you know anything about Perry?
+Dialogue: 0,0:10:51.92,0:10:52.63,Sai,,0,0,0,,Perry?
+Dialogue: 0,0:10:53.10,0:10:55.63,Default,,0,0,0,,Perry?! You know? He lead\Na couple of warships here?
 Dialogue: 0,0:10:56.18,0:10:57.55,Sai,,0,0,0,,Oh! Commodore Perry!
 Dialogue: 0,0:10:57.76,0:11:00.06,Default,,0,0,0,,Yeah! That's the one. Where did that Commodore Perry come to?
 Comment: 0,0:10:57.76,0:10:58.51,Default,,0,0,0,,If you want E-F timing then these two commented lines match pretty well.
@@ -228,8 +228,8 @@ Comment: 0,0:10:57.76,0:10:58.51,Default,,0,0,0,,Yeah! That's the one!
 Comment: 0,0:10:58.51,0:10:59.97,Default,,0,0,0,,Where did that Commodore Perry come to?
 Dialogue: 0,0:11:00.22,0:11:02.75,Sai,,0,0,0,,He came to Uraga. There was a\Nhuge commotion over that incident.
 Dialogue: 0,0:11:02.85,0:11:03.93,Default,,0,0,0,,Uraga...
-Dialogue: 0,0:11:04.80,0:11:05.40,Default,,0,0,0,,Sai
-Dialogue: 0,0:11:05.70,0:11:06.30,Sai,,0,0,0,,Yes?
+Dialogue: 0,0:11:04.80,0:11:05.27,Default,,0,0,0,,Sai
+Dialogue: 0,0:11:05.70,0:11:06.10,Sai,,0,0,0,,Yes?
 Dialogue: 0,0:11:06.73,0:11:08.60,Default,,0,0,0,,You're pretty useful sometimes.
 Dialogue: 0,0:11:08.77,0:11:11.13,Default,,0,0,0,,Shindou-kun why are you talking to yourself?
 Dialogue: 0,0:11:11.57,0:11:12.74,Default,,0,0,0,,Are you done with the test?
