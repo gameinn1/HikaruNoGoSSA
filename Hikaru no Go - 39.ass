@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 39 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 291
-Active Line: 317
-Video Position: 34699
+Scroll Position: 80
+Active Line: 102
+Video Position: 15821
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -124,31 +124,31 @@ Dialogue: 0,0:09:57.03,0:09:59.16,Default,,0,0,0,,They're all facing their criti
 Dialogue: 0,0:09:59.82,0:10:01.72,Default,,0,0,0,,I'm gonna go get some fresh air.
 Dialogue: 0,0:10:02.08,0:10:03.81,Default,,0,0,0,,It's already hot outside today.
 Dialogue: 0,0:10:04.18,0:10:06.37,Default,,0,0,0,,You sound like an old man Isumi-san.
-Dialogue: 0,0:10:11.05,0:10:12.15,Background,,0,0,0,,One, {\alpha&HFF&\t(650,650,\alpha&H00&\4a&H80&)}two!
-Dialogue: 0,0:10:12.42,0:10:13.62,Background,,0,0,0,,One, {\alpha&HFF&\t(700,700,\alpha&H00&\4a&H80&)}two!
-Dialogue: 0,0:10:13.98,0:10:15.10,Default,,0,0,0,,One, {\alpha&HFF&\t(650,650,\alpha&H00&\4a&H80&)}two!
-Dialogue: 0,0:10:15.48,0:10:16.64,Default,,0,0,0,,One, {\alpha&HFF&\t(680,680,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:11.05,0:10:12.15,Background,,0,0,0,,One, {\alpha&HFF&\t(644,644,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:12.42,0:10:13.62,Background,,0,0,0,,One, {\alpha&HFF&\t(734,734,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:13.98,0:10:15.10,Default,,0,0,0,,One, {\alpha&HFF&\t(676,676,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:15.48,0:10:16.64,Default,,0,0,0,,One, {\alpha&HFF&\t(677,677,\alpha&H00&\4a&H80&)}two!
 Dialogue: 0,0:10:16.66,0:10:17.46,Thinking,,0,0,0,,{\1c&HC5FEC1&}Shindou...
-Dialogue: 0,0:10:17.72,0:10:18.82,Sai,,0,0,0,,One, {\alpha&HFF&\t(600,600,\alpha&H00&\4a&H80&)}two!
-Dialogue: 0,0:10:18.97,0:10:20.11,Sai,,0,0,0,,One, {\alpha&HFF&\t(600,600,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:17.72,0:10:18.82,Sai,,0,0,0,,One, {\alpha&HFF&\t(564,564,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:18.97,0:10:20.11,Sai,,0,0,0,,One, {\alpha&HFF&\t(649,649,\alpha&H00&\4a&H80&)}two!
 Dialogue: 0,0:10:20.43,0:10:22.98,Sai,,0,0,0,,Okay, now stick your arms out forward!
 Dialogue: 0,0:10:22.98,0:10:23.64,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:10:24.27,0:10:25.32,Background,,0,0,0,,One, {\alpha&HFF&\t(650,650,\alpha&H00&\4a&H80&)}two!
-Dialogue: 0,0:10:25.66,0:10:26.61,Background,,0,0,0,,One, {\alpha&HFF&\t(650,650,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:24.27,0:10:25.32,Background,,0,0,0,,One, {\alpha&HFF&\t(646,646,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:25.66,0:10:26.61,Background,,0,0,0,,One, {\alpha&HFF&\t(632,632,\alpha&H00&\4a&H80&)}two!
 Dialogue: 0,0:10:27.19,0:10:29.53,Thinking,,0,0,0,,Hey, Sai I've had enough.
 Dialogue: 0,0:10:29.61,0:10:33.61,Sai,,0,0,0,,No! You have to do some stretching\Nand clear your mind.
 Dialogue: 0,0:10:33.99,0:10:36.23,Background,,0,0,0,,I can't win against you.
 Dialogue: 0,0:10:36.63,0:10:40.33,Thinking,,0,0,0,,I can't win? He's giving up already?
 Dialogue: 0,0:10:40.96,0:10:43.10,Thinking,,0,0,0,,I guess Isumi-san is going to win after all.
 Dialogue: 0,0:10:43.71,0:10:46.63,Sai,,0,0,0,,Okay! Hikaru say it out loud energetically!
-Dialogue: 0,0:10:46.87,0:10:48.21,Sai,,0,0,0,,One, {\alpha&HFF&\t(700,700,\alpha&H00&\4a&H80&)}two!
-Dialogue: 0,0:10:48.34,0:10:49.62,Sai,,0,0,0,,One, {\alpha&HFF&\t(700,700,\alpha&H00&\4a&H80&)}two!
-Dialogue: 0,0:10:49.84,0:10:55.68,Default,,0,0,0,,One, {\alpha&HFF&\t(730,730,\alpha&H00&\4a&H80&)}two, {\alpha&HFF&\t(1460,1460,\alpha&H00&\4a&H80&)}three, {\alpha&HFF&\t(2190,2190,\alpha&H00&\4a&H80&)}four, {\alpha&HFF&\t(2920,2920,\alpha&H00&\4a&H80&)}five, {\alpha&HFF&\t(3650,3650,\alpha&H00&\4a&H80&)}six, {\alpha&HFF&\t(4380,4380,\alpha&H00&\4a&H80&)}{\1c&HC5FEC1&}seven, {\alpha&HFF&\t(5110,5110,\alpha&H00&\4a&H80&)}eight!
-Dialogue: 0,0:10:54.47,0:10:56.78,Thinking,,0,0,0,,{\pos(320,430)}I'll be playing Isumi-san tomorrow.
-Dialogue: 0,0:10:55.84,0:11:01.43,Default,,0,0,0,,{\1c&HC5FEC1&}One, {\alpha&HFF&\t(730,730,\alpha&H00&\4a&H80&)}two, {\alpha&HFF&\t(1460,1460,\alpha&H00&\4a&H80&)}three, {\alpha&HFF&\t(2190,2190,\alpha&H00&\4a&H80&)}four, {\alpha&HFF&\t(2920,2920,\alpha&H00&\4a&H80&)}five, {\alpha&HFF&\t(3650,3650,\alpha&H00&\4a&H80&)}six, {\alpha&HFF&\t(4380,4380,\alpha&H00&\4a&H80&)}seven, {\alpha&HFF&\t(5110,5110,\alpha&H00&\4a&H80&)}eight!
-Dialogue: 0,0:10:57.74,0:11:00.92,Thinking,,0,0,0,,{\pos(320,430}But I have to win my match today before that.
-Dialogue: 0,0:11:01.52,0:11:07.23,Default,,0,0,0,,One, {\alpha&HFF&\t(730,730,\alpha&H00&\4a&H80&)}two, {\alpha&HFF&\t(1460,1460,\alpha&H00&\4a&H80&)}three, {\alpha&HFF&\t(2190,2190,\alpha&H00&\4a&H80&)}four, {\alpha&HFF&\t(2920,2920,\alpha&H00&\4a&H80&)}five, {\alpha&HFF&\t(3650,3650,\alpha&H00&\4a&H80&)}six, {\alpha&HFF&\t(4380,4380,\alpha&H00&\4a&H80&)}seven, {\alpha&HFF&\t(5110,5110,\alpha&H00&\4a&H80&)}{\1c&HC5FEC1&}eight!
-Dialogue: 0,0:11:06.29,0:11:08.93,Default,,0,0,0,,{\pos(320,430}One, {\alpha&HFF&\t(675,675,\alpha&H00&\4a&H80&)}two... {\alpha&HFF&\t(1375,1375,\alpha&H00&\4a&H80&)}three, {\alpha&HFF&\t(2030,2030,\alpha&H00&\4a&H80&)}four.
+Dialogue: 0,0:10:46.87,0:10:48.21,Sai,,0,0,0,,One, {\alpha&HFF&\t(735,735,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:48.34,0:10:49.62,Sai,,0,0,0,,One, {\alpha&HFF&\t(725,725,\alpha&H00&\4a&H80&)}two!
+Dialogue: 0,0:10:49.84,0:10:55.68,Default,,0,0,0,,One, {\alpha&HFF&\t(768,768,\alpha&H00&\4a&H80&)}two, {\alpha&HFF&\t(1477,1477,\alpha&H00&\4a&H80&)}three, {\alpha&HFF&\t(2228,2228,\alpha&H00&\4a&H80&)}four, {\alpha&HFF&\t(3021,3021,\alpha&H00&\4a&H80&)}five, {\alpha&HFF&\t(3771,3771,\alpha&H00&\4a&H80&)}six, {\alpha&HFF&\t(4480,4480,\alpha&H00&\4a&H80&)}{\1c&HC5FEC1&}seven, {\alpha&HFF&\t(5189,5189,\alpha&H00&\4a&H80&)}eight!
+Dialogue: 0,0:10:54.43,0:10:56.97,Thinking,,0,0,0,,{\pos(320,430)}I'll be playing Isumi-san tomorrow.
+Dialogue: 0,0:10:55.84,0:11:01.43,Default,,0,0,0,,{\1c&HC5FEC1&}One, {\alpha&HFF&\t(691,691,\alpha&H00&\4a&H80&)}two, {\alpha&HFF&\t(1442,1442,\alpha&H00&\4a&H80&)}three, {\alpha&HFF&\t(2109,2109,\alpha&H00&\4a&H80&)}four, {\alpha&HFF&\t(2901,2901,\alpha&H00&\4a&H80&)}five, {\alpha&HFF&\t(3610,3610,\alpha&H00&\4a&H80&)}six, {\alpha&HFF&\t(4236,4236,\alpha&H00&\4a&H80&)}seven, {\alpha&HFF&\t(4987,4987,\alpha&H00&\4a&H80&)}eight!
+Dialogue: 0,0:10:57.74,0:11:00.97,Thinking,,0,0,0,,{\pos(320,430}But I have to win my match today before that.
+Dialogue: 0,0:11:01.52,0:11:07.23,Default,,0,0,0,,One, {\alpha&HFF&\t(725,725,\alpha&H00&\4a&H80&)}two, {\alpha&HFF&\t(1434,1434,\alpha&H00&\4a&H80&)}three, {\alpha&HFF&\t(2143,2143,\alpha&H00&\4a&H80&)}four, {\alpha&HFF&\t(2894,2894,\alpha&H00&\4a&H80&)}five, {\alpha&HFF&\t(3686,3686,\alpha&H00&\4a&H80&)}six, {\alpha&HFF&\t(4354,4354,\alpha&H00&\4a&H80&)}seven, {\alpha&HFF&\t(5146,5146,\alpha&H00&\4a&H80&)}{\1c&HC5FEC1&}eight!
+Dialogue: 0,0:11:06.29,0:11:08.93,Default,,0,0,0,,{\pos(320,430}One, {\alpha&HFF&\t(710,710,\alpha&H00&\4a&H80&)}two... {\alpha&HFF&\t(1377,1377,\alpha&H00&\4a&H80&)}three, {\alpha&HFF&\t(2086,2086,\alpha&H00&\4a&H80&)}four.
 Dialogue: 0,0:11:14.06,0:11:16.92,Default,,0,0,0,,Isumi-san, I took a look at your match clock.
 Dialogue: 0,0:11:17.66,0:11:19.61,Default,,0,0,0,,You seem to be playing very cautiously.
 Dialogue: 0,0:11:20.37,0:11:23.87,Default,,0,0,0,,What's so strange about playing cautiously\Nagainst Shindou? He only has one loss.
