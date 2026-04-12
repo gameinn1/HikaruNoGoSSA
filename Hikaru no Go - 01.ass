@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 195
-Active Line: 207
-Video Position: 17236
+Scroll Position: 13
+Active Line: 27
+Video Position: 4533
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,9 +63,9 @@ Dialogue: 0,0:02:47.94,0:02:55.99,Note,,0,0,5,,[note: Gomoku narabe is a simple 
 Dialogue: 0,0:02:51.42,0:02:52.99,Default,,0,0,0,,It looks really old.
 Dialogue: 0,0:02:53.84,0:02:56.00,Background,,0,0,0,,Maybe grandpa used it when he was young.
 Dialogue: 0,0:02:56.61,0:02:58.55,Background,,0,0,0,,Maybe I can get quite the pretty penny for this.
-Dialogue: 0,0:02:59.45,0:03:01.04,Default,,0,0,0,,Are you sure this is okay?
-Dialogue: 0,0:03:01.09,0:03:02.20,Default,,0,0,0,,It's fine, it's fine.
-Dialogue: 0,0:03:02.36,0:03:04.29,Default,,0,0,0,,I'm sure Grandpa doesn't even know it's here.
+Dialogue: 0,0:02:59.41,0:03:00.99,Default,,0,0,0,,Are you sure this is okay?
+Dialogue: 0,0:03:01.04,0:03:02.16,Default,,0,0,0,,It's fine, it's fine.
+Dialogue: 0,0:03:02.33,0:03:04.25,Default,,0,0,0,,I'm sure Grandpa doesn't even know it's here.
 Dialogue: 0,0:03:04.71,0:03:07.33,Default,,0,0,0,,And if I wipe the dust off of this...
 Dialogue: 0,0:03:10.25,0:03:13.13,Default,,0,0,0,,But why isn't this stain coming off?
 Dialogue: 0,0:03:13.21,0:03:13.76,Default,,0,0,0,,Huh?
