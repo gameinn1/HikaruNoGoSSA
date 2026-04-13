@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 42 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 326
-Active Line: 332
-Video Position: 34796
+Scroll Position: 314
+Active Line: 317
+Video Position: 32886
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,7 +361,7 @@ Dialogue: 0,0:22:20.13,0:22:20.15,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDA0
 Dialogue: 0,0:22:20.15,0:22:20.16,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HDA0000&\4c&HDA0000&\bord2\shad1\pos(-8,320)}Yuuki
 Dialogue: 0,0:22:21.27,0:22:22.75,Default,,0,0,0,,Take a look at the Go board.
 Dialogue: 0,0:22:22.97,0:22:25.04,Default,,0,0,0,,This is a tsumego where white\Ndies if black goes first.
-Dialogue: 0,0:22:25.04,0:22:28.52,Default,,0,0,0,,The key is a maxim the states, "The\Ncenter is key with a mirror image."
+Dialogue: 0,0:22:25.04,0:22:28.52,Default,,0,0,0,,The key is a maxim that states, "The\Ncenter is key with a mirror image."
 Dialogue: 0,0:22:25.10,0:22:28.42,Default,,0,0,0,,{\1c&HFFFFFF&\fad(417,417)\3c&H0D9117&\4c&H0D9117&\bord2\shad1\pos(110,335)}The maxim
 Dialogue: 0,0:22:25.10,0:22:28.42,Default,,0,0,0,,{\1c&HFFFFFF&\fad(417,417)\3c&HDB00D4&\4c&HDB00D4&\bord2\shad1\pos(320,385)}"The center is key with a mirror image" {\3c&H0D9117&\4c&H0D9117&}is the key!
 Dialogue: 0,0:22:28.66,0:22:29.80,Default,,0,0,0,,Want to try it Yuuki-kun?
