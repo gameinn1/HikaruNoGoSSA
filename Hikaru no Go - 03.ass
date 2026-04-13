@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 2
-Video Position: 225
+Scroll Position: 66
+Active Line: 77
+Video Position: 7817
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,9 +115,9 @@ Dialogue: 0,0:05:09.21,0:05:10.54,Default,,0,0,0,,I will become a pro.
 Dialogue: 0,0:05:11.06,0:05:11.80,Default,,0,0,0,,Someday I will.
 Dialogue: 0,0:05:12.16,0:05:16.17,Default,,0,0,0,,If you think you can become a pro\Nand take a title or two effortlessly,
 Dialogue: 0,0:05:16.56,0:05:19.15,Default,,0,0,0,,then you can't afford to lose to me here and now.
-Dialogue: 0,0:05:21.56,0:05:22.70,Default,,0,0,0,,Let's play a match now!
-Dialogue: 0,0:05:24.30,0:05:25.71,Thinking,,0,0,0,,Sai, what should I do?
-Dialogue: 0,0:05:26.01,0:05:26.71,Sai,,0,0,0,,Fine.
+Dialogue: 0,0:05:21.51,0:05:22.70,Default,,0,0,0,,Let's play a match now!
+Dialogue: 0,0:05:24.26,0:05:25.71,Thinking,,0,0,0,,Sai, what should I do?
+Dialogue: 0,0:05:25.97,0:05:26.64,Sai,,0,0,0,,Fine
 Dialogue: 0,0:05:27.50,0:05:32.02,Background,,0,0,0,,If I'm going to obtain the Hand of God...
 Dialogue: 0,0:05:32.68,0:05:34.71,Background,,0,0,0,,I can't afford to lose this game.
 Dialogue: 0,0:05:35.56,0:05:38.18,Thinking,,0,0,0,,Hikaru is not a beginner...
