@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 3
-Video Position: 2858
+Scroll Position: 57
+Active Line: 70
+Video Position: 9978
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,9 +116,9 @@ Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,2,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\
 Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,3,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(136,371,533,371,61,3564)}3rd Floor
 Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,4,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(80,371,477,371,61,3564)}2nd Floor
 Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,5,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(23,371,420,371,61,3564)}2nd Floor
-Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HE3C7BC&\q2\shad0\bord0\blur0\fscx99\fscy75\frz270\move(610,441,610,51)}Basics of Go Course    3rd Floor
-Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HEED2C6&\q2\shad0\bord0\blur0\fscx99\fscy75\frz270\move(453,439,453,51)}Katsuragi Classroom   3rd Floor
-Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HEAE0DD&\q2\shad0\bord0\blur0\fscx99\fscy75\frz270\move(286,436,286,52)}Pro examination           6th Floor
+Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HE3C7BC&\q2\shad0\bord0\blur0.8\fscx99\fscy75\frz270\move(610,441,610,51)}Basics of Go Course    3rd Floor
+Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HEED2C6&\q2\shad0\bord0\blur0.8\fscx99\fscy75\frz270\move(453,439,453,51)}Katsuragi Classroom   3rd Floor
+Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HEAE0DD&\q2\shad0\bord0\blur0.8\fscx99\fscy75\frz270\move(286,436,286,52)}Pro examination           6th Floor
 Dialogue: 0,0:07:52.28,0:07:53.99,Default,,0,0,0,,Please start your clocks
 Dialogue: 0,0:07:54.50,0:07:56.02,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:07:59.08,0:08:00.18,Background,,0,0,0,,Mr. Shinoda.
@@ -141,16 +142,16 @@ Dialogue: 0,0:10:40.74,0:10:41.54,Thinking,,0,0,0,,Oh no...
 Dialogue: 0,0:10:42.91,0:10:45.08,Thinking,,0,0,0,,I didn't expect him to strike back then.
 Dialogue: 0,0:10:58.76,0:11:02.89,Thinking,,0,0,0,,It's over if I let Black eliminate\Nall of my Aji with one Tsuke.
 Dialogue: 0,0:11:05.68,0:11:09.40,Thinking,,0,0,0,,Now black has nothing to worry about, the\Ngame's going to become one-sided...
-Dialogue: 0,0:11:19.58,0:11:21.91,Ed5Romaji,,0,0,0,,{\1c&H0700D6&\blur1\frz270\fs38\bord0\pos(390,31)}By Resignation
-Dialogue: 0,0:11:19.58,0:11:21.91,NoteArial,,0,0,0,,{\1c&H000000&\fs32\blur1\fscy95\shad0\bord0\pos(327,420)}{\i1}Shindou{\i0}
-Dialogue: 0,0:11:19.58,0:11:21.91,NoteArial,,0,0,0,,{\1c&H000000&\fs32\blur1\fscy95\shad0\bord0\pos(508,420)}{\i1}Tsujioka{\i0}
+Dialogue: 0,0:11:19.58,0:11:21.91,Ed5Romaji,,0,0,0,,{\1c&H0700D6&\blur0.8\frz270\fs38\bord0\pos(390,31)}By Resignation
+Dialogue: 0,0:11:19.58,0:11:21.91,NoteArial,,0,0,0,,{\1c&H000000&\fs32\blur0.8\fscy95\shad0\bord0\pos(327,420)}{\i1}Shindou{\i0}
+Dialogue: 0,0:11:19.58,0:11:21.91,NoteArial,,0,0,0,,{\1c&H000000&\fs32\blur0.8\fscy95\shad0\bord0\pos(508,420)}{\i1}Tsujioka{\i0}
 Dialogue: 0,0:11:23.16,0:11:24.00,Default,,0,0,0,,Bye.
 Dialogue: 0,0:11:24.37,0:11:25.21,Default,,0,0,0,,Oh, good-bye.
 Dialogue: 0,0:11:26.69,0:11:30.80,Thinking,,0,0,0,,He won against not only Murakami-kun,\Nbut Tsujioka-kun as well...
 Dialogue: 0,0:11:33.00,0:11:35.34,Thinking,,0,0,0,,Is the new wave really coming?
 Dialogue: 0,0:11:36.26,0:11:39.35,Thinking,,0,0,0,,Is Shindou-Kun's strength the real thing?
-Dialogue: 0,0:11:40.97,0:11:46.64,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1\fs21\fscx101\fad(626,626)\pos(320,431)}Second match of the Second preliminaries for the Ouza Match
-Dialogue: 0,0:11:50.15,0:11:54.61,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1\fs21\fscx101\fad(626,626)\pos(320,431)}Touya Akira 3-dan
+Dialogue: 0,0:11:40.97,0:11:46.64,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1\fs21\fscx101\fad(584,584)\pos(320,431)}Second match of the Second preliminaries for the Ouza Match
+Dialogue: 0,0:11:50.15,0:11:54.61,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1\fs21\fscx101\fad(584,584)\pos(320,431)}Touya Akira 3-dan
 Dialogue: 0,0:12:00.82,0:12:06.12,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1\fs21\fscx101\fad(501,626)\pos(320,431)}Matsunaga Toshiyuki 6-dan
 Dialogue: 0,0:12:06.50,0:12:07.71,Default,,0,0,0,,I resign.
 Dialogue: 0,0:12:08.79,0:12:12.84,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1\fs21\fscx101\fad(542,584)\pos(320,431)}First round of the second preliminaries for the Tengen match

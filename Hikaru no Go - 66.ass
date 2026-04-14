@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 52
-Active Line: 58
-Video Position: 8421
+Scroll Position: 101
+Active Line: 107
+Video Position: 13675
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -154,9 +154,9 @@ Dialogue: 0,0:09:06.53,0:09:09.03,Default,,0,0,0,,Yes? Oh, Mom.
 Dialogue: 0,0:09:09.99,0:09:13.08,Default,,0,0,0,,Yeah, I know. Cram school, right?
 Dialogue: 0,0:09:13.99,0:09:16.61,Background,,0,0,0,,Oh, don't forget to tell dad about the money.
 Dialogue: 0,0:09:17.33,0:09:20.04,Background,,0,0,0,,Yeah, I just played him.
-Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&H777E4D&\bord0\shad0\fscy260\frz351\move(475,101,475,136)}IGO SALON
-Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\alpha&H60&\bord0\shad0\fscy130\frz9\frx6\fry350\move(153,260,153,295)}WEEKDAYS
-Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\\alpha&H60&\bord0\shad0\fscy130\frz9\frx6\fry350\move(159,310,159,345)}SATURDAYS
+Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&H777E4D&\bord0\blur0.8\shad0\fscy260\frz351\move(475,101,475,136)}IGO SALON
+Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\alpha&H60&\bord0\blur0.8\shad0\fscy130\frz9\frx6\fry350\move(153,260,153,295)}WEEKDAYS
+Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\\alpha&H60&\bord0\blur0.8\shad0\fscy130\frz9\frx6\fry350\move(159,310,159,345)}SATURDAYS
 Dialogue: 0,0:09:39.10,0:09:39.98,Default,,0,0,0,,Welcome.
 Dialogue: 0,0:09:44.81,0:09:45.31,Default,,0,0,0,,Huh?
 Dialogue: 0,0:09:46.23,0:09:47.16,Default,,0,0,0,,Hey, you!

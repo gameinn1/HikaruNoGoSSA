@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.656250
-Scroll Position: 123
-Active Line: 129
-Video Position: 14691
+Scroll Position: 341
+Active Line: 349
+Video Position: 35147
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -393,22 +393,22 @@ Dialogue: 0,0:22:52.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad
 Dialogue: 0,0:22:59.27,0:23:02.58,Sai,,0,0,0,,How dare you slander\NTorajirou's name with a fake signature!
 Dialogue: 0,0:23:03.28,0:23:07.25,Background,,0,0,0,,You said all that, why don't you try?
 Dialogue: 0,0:23:08.24,0:23:12.37,Background,,0,0,0,,It's impossible to turn a game around\Nonce you're at a disadvantage to a pro.
-Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,410)}Atsu{\alpha&HFF&}shi
-Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,370)}Atsushi
-Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,337)}Atsushi
-Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,326)}Atsushi
-Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,365)}Kurata
-Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,322)}Kurata
-Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,295)}Kurata
-Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,283)}Kurata
-Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz248\pos(490,405)}Meiji{\alpha&HFF&}n
-Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz248\pos(490,362)}Meijin
-Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz248\pos(490,334)}Meijin
-Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz248\pos(490,323)}Meijin
-Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\shad0\fscy80\frz241\pos(528,428)}Most o{\alpha&HFF&}f the way
-Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\shad0\fscy80\frz241\pos(528,384)}Most of the w{\alpha&HFF&}ay
-Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\shad0\fscy80\frz241\pos(528,355)}Most of the way
-Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\shad0\fscy80\frz241\pos(528,345)}Most of the way
+Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz286\pos(233,410)}Atsu{\alpha&HFF&}shi
+Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz286\pos(233,370)}Atsushi
+Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz286\pos(233,337)}Atsushi
+Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz286\pos(233,326)}Atsushi
+Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,365)}Kurata
+Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,322)}Kurata
+Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,295)}Kurata
+Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,283)}Kurata
+Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz248\pos(490,405)}Meiji{\alpha&HFF&}n
+Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz248\pos(490,362)}Meijin
+Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz248\pos(490,334)}Meijin
+Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz248\pos(490,323)}Meijin
+Dialogue: 0,0:23:10.83,0:23:10.95,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz241\pos(528,428)}Most o{\alpha&HFF&}f the way
+Dialogue: 0,0:23:10.95,0:23:10.99,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz241\pos(528,384)}Most of the w{\alpha&HFF&}ay
+Dialogue: 0,0:23:10.99,0:23:11.12,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz241\pos(528,355)}Most of the way
+Dialogue: 0,0:23:11.12,0:23:12.37,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz241\pos(528,345)}Most of the way
 Dialogue: 0,0:23:22.76,0:23:25.56,Sai,,0,0,0,,14-4, approach by one space.
 Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents

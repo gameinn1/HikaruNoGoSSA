@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 36
-Active Line: 54
-Video Position: 6533
+Scroll Position: 360
+Active Line: 359
+Video Position: 27778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,7 +53,7 @@ Dialogue: 0,0:02:07.37,0:02:09.23,Background,,0,0,0,,There are tutoring games an
 Dialogue: 0,0:02:09.57,0:02:13.19,Default,,0,0,0,,But... wow, there are a lot of people here.
 Dialogue: 0,0:02:15.03,0:02:17.33,Sai,,0,0,0,,Hikaru, Hikaru! Over there!
 Dialogue: 0,0:02:17.74,0:02:18.24,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\blur0.8\bord0\fscy80\frz359\shad0\pos(75,106)}{\alpha&HFF&}Net {\alpha&H00&}Go Corner
-Dialogue: 0,0:02:18.24,0:02:20.75,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\blur.8\bord0\shad0\fscy80\frz359\pos(75,106)}Net Go Corner
+Dialogue: 0,0:02:18.24,0:02:20.75,NoteArial,,0,0,0,,{\an4\fs17\1c&H000000&\blur0.8\bord0\shad0\fscy80\frz359\pos(75,106)}Net Go Corner
 Dialogue: 0,0:02:21.84,0:02:26.76,Thinking,,0,0,0,,I guess this'll cheer Sai up a bit. I'm glad we came.
 Dialogue: 0,0:02:29.02,0:02:31.55,Memory,,0,0,0,,I wanted to play you with no handicap.
 Dialogue: 0,0:02:38.43,0:02:41.01,Memory,,0,0,0,,Next time, let us play an even game.
@@ -69,7 +69,7 @@ Dialogue: 0,0:03:20.43,0:03:21.96,Sai,,0,0,0,,I'm the one that's at fault.
 Dialogue: 0,0:03:23.14,0:03:24.48,Sai,,0,0,0,,I won't...
 Dialogue: 0,0:03:25.33,0:03:27.10,Sai,,0,0,0,,I won't ask him to play someone else...
 Dialogue: 0,0:03:27.94,0:03:29.26,Sai,,0,0,0,,too often.
-Dialogue: 0,0:03:30.27,0:03:31.82,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\frz345\pos(422,241)}Vendor's Corner
+Dialogue: 0,0:03:30.27,0:03:31.82,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz345\pos(422,241)}Vendor's Corner
 Dialogue: 0,0:03:32.46,0:03:34.20,Background,,0,0,0,,That'll be 1,500 yen.
 Dialogue: 0,0:03:34.86,0:03:36.72,Default,,0,0,0,,Thank you very much.
 Dialogue: 0,0:03:37.45,0:03:41.82,Background,,0,0,0,,You've got to stop selling those cheap\Nfans, and start selling the expensive Go boards.
@@ -80,20 +80,20 @@ Dialogue: 0,0:03:51.54,0:03:55.42,Background,,0,0,0,,This one! The Kaya Go board
 Dialogue: 0,0:03:55.76,0:04:02.33,Background,,0,0,0,,This is Kaya? Well I guess you can fool most\Npeople with it. But it's probably only worth 80,000.
 Dialogue: 0,0:04:03.38,0:04:04.53,Default,,0,0,0,,Sir!
 Dialogue: 0,0:04:06.16,0:04:10.40,Default,,0,0,0,,Just hand the pen over. You\Ncan't just put 'special' on it.
-Dialogue: 0,0:04:13.86,0:04:13.98,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\frz6\pos(261,22)}Kaya Go Board
-Dialogue: 0,0:04:13.86,0:04:13.98,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\shad0\fs17.5\frz6\pos(171,45)}S\NP\NE\NC\NI\NA\NL
-Dialogue: 0,0:04:13.98,0:04:14.03,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\frz6\pos(271,47)}Kaya Go Board
-Dialogue: 0,0:04:13.98,0:04:14.03,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\shad0\fs17.5\frz6\pos(182,70)}S\NP\NE\NC\NI\NA\NL
-Dialogue: 0,0:04:14.03,0:04:14.15,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\frz6\pos(283,75)}Kaya Go Board
-Dialogue: 0,0:04:14.03,0:04:14.15,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\shad0\fs17.5\frz6\pos(195,99)}S\NP\NE\NC\NI\NA\NL
-Dialogue: 0,0:04:14.15,0:04:14.19,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\frz6\pos(294,102)}Kaya Go Board
-Dialogue: 0,0:04:14.15,0:04:14.19,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\shad0\fs17.5\frz6\pos(206,125)}S\NP\NE\NC\NI\NA\NL
-Dialogue: 0,0:04:14.19,0:04:14.32,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\frz6\pos(304,125)}Kaya Go Board
-Dialogue: 0,0:04:14.19,0:04:14.32,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\shad0\fs17.5\frz6\pos(217,149)}S\NP\NE\NC\NI\NA\NL
-Dialogue: 0,0:04:14.32,0:04:14.36,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\frz6\pos(312,143)}Kaya Go Board
-Dialogue: 0,0:04:14.32,0:04:14.36,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\shad0\fs17.5\frz6\pos(224,167)}S\NP\NE\NC\NI\NA\NL
-Dialogue: 0,0:04:14.36,0:04:17.11,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\frz6\pos(316,152)}Kaya Go Board
-Dialogue: 0,0:04:14.36,0:04:17.11,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\shad0\fs17.5\frz6\pos(228,175)}S\NP\NE\NC\NI\NA\NL
+Dialogue: 0,0:04:13.86,0:04:13.98,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz6\pos(261,22)}Kaya Go Board
+Dialogue: 0,0:04:13.86,0:04:13.98,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\blur0.8\shad0\fs17.5\frz6\pos(171,45)}S\NP\NE\NC\NI\NA\NL
+Dialogue: 0,0:04:13.98,0:04:14.03,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz6\pos(271,47)}Kaya Go Board
+Dialogue: 0,0:04:13.98,0:04:14.03,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\blur0.8\shad0\fs17.5\frz6\pos(182,70)}S\NP\NE\NC\NI\NA\NL
+Dialogue: 0,0:04:14.03,0:04:14.15,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz6\pos(283,75)}Kaya Go Board
+Dialogue: 0,0:04:14.03,0:04:14.15,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\blur0.8\shad0\fs17.5\frz6\pos(195,99)}S\NP\NE\NC\NI\NA\NL
+Dialogue: 0,0:04:14.15,0:04:14.19,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz6\pos(294,102)}Kaya Go Board
+Dialogue: 0,0:04:14.15,0:04:14.19,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\blur0.8\shad0\fs17.5\frz6\pos(206,125)}S\NP\NE\NC\NI\NA\NL
+Dialogue: 0,0:04:14.19,0:04:14.32,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz6\pos(304,125)}Kaya Go Board
+Dialogue: 0,0:04:14.19,0:04:14.32,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\blur0.8\shad0\fs17.5\frz6\pos(217,149)}S\NP\NE\NC\NI\NA\NL
+Dialogue: 0,0:04:14.32,0:04:14.36,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz6\pos(312,143)}Kaya Go Board
+Dialogue: 0,0:04:14.32,0:04:14.36,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\blur0.8\shad0\fs17.5\frz6\pos(224,167)}S\NP\NE\NC\NI\NA\NL
+Dialogue: 0,0:04:14.36,0:04:17.11,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz6\pos(316,152)}Kaya Go Board
+Dialogue: 0,0:04:14.36,0:04:17.11,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\blur0.8\shad0\fs17.5\frz6\pos(228,175)}S\NP\NE\NC\NI\NA\NL
 Dialogue: 0,0:04:14.69,0:04:17.11,Background,,0,0,0,,This is much more useful.
 Dialogue: 0,0:04:18.46,0:04:21.81,Default,,0,0,0,,You seem like you're better at business than Go.
 Dialogue: 0,0:04:21.93,0:04:25.12,Default,,0,0,0,,You've got to be kidding, I'm a pro.
@@ -118,8 +118,8 @@ Dialogue: 0,0:05:27.28,0:05:31.53,Default,,0,0,0,,I'm sure you'd improve\Nquicke
 Dialogue: 0,0:05:31.90,0:05:34.68,Default,,0,0,0,,Oh, they're just selling boards and stuff.
 Dialogue: 0,0:05:34.87,0:05:36.70,Sai,,0,0,0,,What were you expecting?
 Dialogue: 0,0:05:37.16,0:05:40.05,Background,,0,0,0,,There's a special on this one today, just 25,000!
-Dialogue: 0,0:05:40.19,0:05:46.16,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\frz6\pos(316,152)}Kaya Go Board
-Dialogue: 0,0:05:40.19,0:05:46.16,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\shad0\fs17.5\frz6\pos(228,175)}S\NP\NE\NC\NI\NA\NL
+Dialogue: 0,0:05:40.19,0:05:46.16,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz6\pos(316,152)}Kaya Go Board
+Dialogue: 0,0:05:40.19,0:05:46.16,NoteArial,,0,0,0,,{\1c&H2407CE&\bord0\blur0.8\shad0\fs17.5\frz6\pos(228,175)}S\NP\NE\NC\NI\NA\NL
 Dialogue: 0,0:05:40.26,0:05:42.90,Background,,0,0,0,,That one's on special for just 200,000!
 Dialogue: 0,0:05:43.05,0:05:46.16,Background,,0,0,0,,It's made out of the best\Ndomestic grown Kaya there is!
 Dialogue: 0,0:05:46.50,0:05:48.51,Sai,,0,0,0,,Kaya!? This is Kaya!?
@@ -214,7 +214,7 @@ Dialogue: 0,0:10:25.28,0:10:26.74,Default,,0,0,0,,Wanna go watch another game?
 Dialogue: 0,0:10:27.27,0:10:30.90,Default,,0,0,0,,Oh, he's angry. He's angry.
 Dialogue: 0,0:10:31.63,0:10:32.44,Default,,0,0,0,,Sai?
 Dialogue: 0,0:10:33.33,0:10:35.02,Sai,,0,0,0,,Hikaru, over there.
-Dialogue: 0,0:10:35.91,0:10:43.33,NoteArial,,0,0,0,,{\fs14.5\1c&H000000&\bord0\shad0\fscy80\frz359\pos(288.,154)}Tutor Go Corner
+Dialogue: 0,0:10:35.91,0:10:43.33,NoteArial,,0,0,0,,{\fs14.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz359\pos(288.,154)}Tutor Go Corner
 Dialogue: 0,0:10:36.12,0:10:38.77,Sai,,0,0,0,,The man from earlier is playing a tutoring game.
 Dialogue: 0,0:10:39.12,0:10:42.95,Background,,0,0,0,,Oh, he's playing the person who\Nran away without buying the board!
 Dialogue: 0,0:10:43.48,0:10:46.82,Default,,0,0,0,,Look, look. You're falling apart everywhere.
@@ -259,27 +259,27 @@ Dialogue: 0,0:12:51.87,0:12:53.92,Default,,0,0,0,,Yeah, I'd like a title.
 Dialogue: 0,0:12:54.11,0:12:55.75,Default,,0,0,0,,Meijin might be nice.
 Dialogue: 0,0:12:56.21,0:12:57.43,Default,,0,0,0,,Might as well write it.
 Dialogue: 0,0:12:57.43,0:12:58.76,Default,,0,0,0,,Meijin, most of the way.
-Dialogue: 0,0:12:59.05,0:12:59.09,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,470)}Atsushi
-Dialogue: 0,0:12:59.09,0:12:59.22,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,410)}Atsushi
-Dialogue: 0,0:12:59.22,0:12:59.26,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,370)}Atsushi
-Dialogue: 0,0:12:59.26,0:12:59.38,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,337)}Atsushi
-Dialogue: 0,0:12:59.38,0:13:03.76,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz286\pos(233,326)}Atsushi
-Dialogue: 0,0:12:58.92,0:12:59.05,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,475)}Kurata
-Dialogue: 0,0:12:59.05,0:12:59.09,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,417)}Kurata
-Dialogue: 0,0:12:59.09,0:12:59.22,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,365)}Kurata
-Dialogue: 0,0:12:59.22,0:12:59.26,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,322)}Kurata
-Dialogue: 0,0:12:59.26,0:12:59.38,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,295)}Kurata
-Dialogue: 0,0:12:59.38,0:13:03.76,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz263\pos(371,283)}Kurata
-Dialogue: 0,0:12:59.05,0:12:59.09,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz248\pos(490,460)}Meijin
-Dialogue: 0,0:12:59.09,0:12:59.22,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz248\pos(490,405)}Meijin
-Dialogue: 0,0:12:59.22,0:12:59.26,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz248\pos(490,362)}Meijin
-Dialogue: 0,0:12:59.26,0:12:59.38,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz248\pos(490,334)}Meijin
-Dialogue: 0,0:12:59.38,0:13:03.76,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\shad0\fscy80\frz248\pos(490,323)}Meijin
-Dialogue: 0,0:12:59.05,0:12:59.09,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\shad0\fscy80\frz241\pos(528,480)}Most of the way
-Dialogue: 0,0:12:59.09,0:12:59.22,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\shad0\fscy80\frz241\pos(528,428)}Most of the way
-Dialogue: 0,0:12:59.22,0:12:59.26,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\shad0\fscy80\frz241\pos(528,384)}Most of the way
-Dialogue: 0,0:12:59.26,0:12:59.38,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\shad0\fscy80\frz241\pos(528,355)}Most of the way
-Dialogue: 0,0:12:59.38,0:13:03.76,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\shad0\fscy80\frz241\pos(528,345)}Most of the way
+Dialogue: 0,0:12:59.05,0:12:59.09,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz286\pos(233,470)}Atsushi
+Dialogue: 0,0:12:59.09,0:12:59.22,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz286\pos(233,410)}Atsushi
+Dialogue: 0,0:12:59.22,0:12:59.26,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz286\pos(233,370)}Atsushi
+Dialogue: 0,0:12:59.26,0:12:59.38,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz286\pos(233,337)}Atsushi
+Dialogue: 0,0:12:59.38,0:13:03.76,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz286\pos(233,326)}Atsushi
+Dialogue: 0,0:12:58.92,0:12:59.05,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,475)}Kurata
+Dialogue: 0,0:12:59.05,0:12:59.09,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,417)}Kurata
+Dialogue: 0,0:12:59.09,0:12:59.22,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,365)}Kurata
+Dialogue: 0,0:12:59.22,0:12:59.26,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,322)}Kurata
+Dialogue: 0,0:12:59.26,0:12:59.38,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,295)}Kurata
+Dialogue: 0,0:12:59.38,0:13:03.76,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz263\pos(371,283)}Kurata
+Dialogue: 0,0:12:59.05,0:12:59.09,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz248\pos(490,460)}Meijin
+Dialogue: 0,0:12:59.09,0:12:59.22,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz248\pos(490,405)}Meijin
+Dialogue: 0,0:12:59.22,0:12:59.26,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz248\pos(490,362)}Meijin
+Dialogue: 0,0:12:59.26,0:12:59.38,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz248\pos(490,334)}Meijin
+Dialogue: 0,0:12:59.38,0:13:03.76,NoteArial,,0,0,0,,{\fs24\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz248\pos(490,323)}Meijin
+Dialogue: 0,0:12:59.05,0:12:59.09,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz241\pos(528,480)}Most of the way
+Dialogue: 0,0:12:59.09,0:12:59.22,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz241\pos(528,428)}Most of the way
+Dialogue: 0,0:12:59.22,0:12:59.26,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz241\pos(528,384)}Most of the way
+Dialogue: 0,0:12:59.26,0:12:59.38,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz241\pos(528,355)}Most of the way
+Dialogue: 0,0:12:59.38,0:13:03.76,NoteArial,,0,0,0,,{\fs17.5\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz241\pos(528,345)}Most of the way
 Dialogue: 0,0:13:01.09,0:13:03.76,Background,,0,0,0,,Can't show this to Touya Meijin.
 Dialogue: 0,0:13:04.14,0:13:06.31,Default,,0,0,0,,Sir, may I have an autograph, too?
 Dialogue: 0,0:13:06.77,0:13:08.73,Default,,0,0,0,,Okay, let's do Kisei for this one.
@@ -372,12 +372,12 @@ Dialogue: 0,0:17:35.08,0:17:37.50,Default,,0,0,0,,Because you said so, huh?
 Dialogue: 0,0:17:40.41,0:17:44.50,Background,,0,0,0,,Just so that you know, don't be\Ntoo proud of beating Mr. Gokiso.
 Dialogue: 0,0:17:44.75,0:17:50.55,Default,,0,0,0,,It would be incredible if you beat\Nme, but he's a pro who's over the hill.
 Dialogue: 0,0:17:51.86,0:17:53.99,Sai,,0,0,0,,Who is he?
-Dialogue: 0,0:17:55.01,0:18:03.73,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\fscy80\frz4\pos(453,105)}Register
+Dialogue: 0,0:17:55.01,0:18:03.73,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz4\pos(453,105)}Register
 Dialogue: 0,0:17:54.30,0:17:56.18,Default,,0,0,0,,Umm, who are you?
 Dialogue: 0,0:17:56.85,0:17:58.78,Default,,0,0,0,,What!? You don't know me!?
 Dialogue: 0,0:17:58.95,0:18:03.73,Default,,0,0,0,,I'm Kurata! The pro player, Kurata!\NMost of the way Meijin or Honinbou!
 Dialogue: 0,0:18:04.57,0:18:06.94,Default,,0,0,0,,You're that strong, Mr. Kurata?
-Dialogue: 0,0:18:06.94,0:18:09.03,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\fscy80\frz4\pos(453,105)}Register
+Dialogue: 0,0:18:06.94,0:18:09.03,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\fscy80\frz4\pos(453,105)}Register
 Dialogue: 0,0:18:09.74,0:18:14.28,Default,,0,0,0,,Yeah. But it's not that hard\Nto beat the people above you.
 Dialogue: 0,0:18:16.70,0:18:18.91,Default,,0,0,0,,Everyone above me is desperate.
 Dialogue: 0,0:18:19.08,0:18:21.16,Default,,0,0,0,,Touya Meijin is at his peak right now.
@@ -393,19 +393,19 @@ Dialogue: 0,0:19:02.91,0:19:04.96,Sai,,0,0,0,,He's really confident, isn't he?
 Dialogue: 0,0:19:05.02,0:19:06.52,Default,,0,0,0,,What was your name again?
 Dialogue: 0,0:19:06.52,0:19:08.67,Default,,0,0,0,,It's Shindou, Shindou Hikaru.
 Dialogue: 0,0:19:09.88,0:19:12.42,Default,,0,0,0,,Not many people don't know me.
-Dialogue: 0,0:19:12.42,0:19:16.13,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\shad0\fscy80\pos(288,56)}Register
+Dialogue: 0,0:19:12.42,0:19:16.13,NoteArial,,0,0,0,,{\fs22\1c&H000000&\bord0\blur0.8\shad0\fscy80\pos(288,56)}Register
 Dialogue: 0,0:19:12.84,0:19:14.67,Background,,0,0,0,,Hey, can I have that fan?
 Dialogue: 1,0:19:18.39,0:19:20.10,Background,,0,0,0,,You want it right, here you can have it.
-Dialogue: 0,0:19:18.22,0:19:18.26,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(647,485)}Kurata Atsushi
-Dialogue: 0,0:19:18.26,0:19:18.30,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(611,464)}Kurata Atsushi
-Dialogue: 0,0:19:18.30,0:19:18.35,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(584,450)}Kurata Atsushi
-Dialogue: 0,0:19:18.35,0:19:18.39,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(553,432)}Kurata Atsushi
-Dialogue: 0,0:19:18.39,0:19:18.43,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(525,417)}Kurata Atsushi
-Dialogue: 0,0:19:18.43,0:19:18.47,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(500,402)}Kurata Atsushi
-Dialogue: 0,0:19:18.47,0:19:18.51,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(479,390)}Kurata Atsushi
-Dialogue: 0,0:19:18.51,0:19:18.55,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(462,380)}Kurata Atsushi
-Dialogue: 0,0:19:18.55,0:19:18.60,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(451,375)}Kurata Atsushi
-Dialogue: 0,0:19:18.60,0:19:20.10,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(447,372)}Kurata Atsushi
+Dialogue: 0,0:19:18.22,0:19:18.26,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(647,485)}Kurata Atsushi
+Dialogue: 0,0:19:18.26,0:19:18.30,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(611,464)}Kurata Atsushi
+Dialogue: 0,0:19:18.30,0:19:18.35,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(584,450)}Kurata Atsushi
+Dialogue: 0,0:19:18.35,0:19:18.39,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(553,432)}Kurata Atsushi
+Dialogue: 0,0:19:18.39,0:19:18.43,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(525,417)}Kurata Atsushi
+Dialogue: 0,0:19:18.43,0:19:18.47,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(500,402)}Kurata Atsushi
+Dialogue: 0,0:19:18.47,0:19:18.51,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(479,390)}Kurata Atsushi
+Dialogue: 0,0:19:18.51,0:19:18.55,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(462,380)}Kurata Atsushi
+Dialogue: 0,0:19:18.55,0:19:18.60,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(451,375)}Kurata Atsushi
+Dialogue: 0,0:19:18.60,0:19:20.10,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(447,372)}Kurata Atsushi
 Dialogue: 0,0:19:20.39,0:19:22.60,Default,,0,0,0,,Sir, that's store merchandise, so...
 Dialogue: 0,0:19:22.89,0:19:24.23,Default,,0,0,0,,umm... could you pay?
 Dialogue: 0,0:19:24.39,0:19:26.10,Default,,0,0,0,,Don't you want it? You can have it.
@@ -414,8 +414,8 @@ Dialogue: 0,0:19:28.19,0:19:29.44,Default,,0,0,0,,No.
 Dialogue: 0,0:19:29.90,0:19:30.86,Default,,0,0,0,,You don't want it!?
 Dialogue: 0,0:19:31.02,0:19:34.53,Default,,0,0,0,,You've got to be kidding. But\Neveryone wants it. Why not?
 Dialogue: 0,0:19:34.90,0:19:38.84,Default,,0,0,0,,I'm a pro already, so...!
-Dialogue: 0,0:19:41.08,0:19:42.79,NoteArial,,0,0,0,,{\fs22.5\1c&H000000&\bord0\shad0\frz316\pos(84,348)}Shindou Hikaru
-Dialogue: 0,0:19:41.08,0:19:42.79,NoteArial,,0,0,0,,{\fs22.5\1c&H000000&\3c&HB5B2B5&\bord2\shad0\frz266\pos(356,270)}Kurata Atsushi
+Dialogue: 0,0:19:41.08,0:19:42.79,NoteArial,,0,0,0,,{\fs22.5\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(84,348)}Shindou Hikaru
+Dialogue: 0,0:19:41.08,0:19:42.79,NoteArial,,0,0,0,,{\fs22.5\1c&H000000&\3c&HB5B2B5&\bord2\blur0.8\shad0\frz266\pos(356,270)}Kurata Atsushi
 Dialogue: 0,0:19:43.04,0:19:45.91,Default,,0,0,0,,Ahhh! You ruined my autograph!
 Dialogue: 0,0:19:46.00,0:19:47.00,Default,,0,0,0,,Idiot! Idiot! Idiot!
 Dialogue: 0,0:19:47.17,0:19:49.79,Default,,0,0,0,,How can you write such\Nugly letters next to my name!?

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 194
-Active Line: 205
-Video Position: 25287
+Scroll Position: 215
+Active Line: 232
+Video Position: 27355
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -276,7 +276,7 @@ Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy205
 Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy205\pos(285,360.2)}MUSIC
 Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy210\pos(279.2,385.3)}EDITING
 Dialogue: 0,0:20:53.52,0:20:57.99,61Credits,,0,0,0,,{\fad(501,0)\fscx101\fscy210\pos(347.6,385)}[XXX 5]
-Dialogue: 0,0:19:00.91,0:19:03.54,NoteArial,,0,0,0,,{\fs19\1c&H464550&\4c&HFFFFFF&\bord0\blur0\shad1\frz357\fscy110\pos(85,139)}Morishita
+Dialogue: 0,0:19:00.91,0:19:03.54,NoteArial,,0,0,0,,{\fs19\1c&H464550&\4c&HFFFFFF&\bord0\blur0.8\shad1\frz357\fscy110\pos(85,139)}Morishita
 Comment: 0,0:19:07.04,0:19:07.13,NoteArial,,0,0,0,,These two commented lines are old which I had when I first did the sign. Pure fade in rather than box method and slightly changed.
 Comment: 0,0:19:07.04,0:19:07.13,NoteArial,,0,0,0,,{\c&H000000&\fs14\shad0\3c&HFFFFFF&\frz270\bord1.8\pos(485,302)}{\alpha&HFF&\t(0,18,\alpha&H00&)}W{\alpha&HFF&\t(18,37,\alpha&H00&)}a{\alpha&HFF&\t(37,55,\alpha&H00&)}y{\alpha&HFF&\t(55,74,\alpha&H00&)}a{\alpha&HFF&\t(74,92,\alpha&H00&)}-{\alpha&HFF&\t(92,111,\alpha&H00&)}k{\alpha&HFF&\t(111,129,\alpha&H00&)}u{\alpha&HFF&\t(129,148,\alpha&H00&)}n{\alpha&HFF&\t(148,166,\alpha&H00&)} {\alpha&HFF&\t(166,185,\alpha&H00&)}c{\alpha&HFF&\t(185,203,\alpha&H00&)}o{\alpha&HFF&\t(203,222,\alpha&H00&)}n{\alpha&HFF&\t(222,240,\alpha&H00&)}g{\alpha&HFF&\t(240,259,\alpha&H00&)}r{\alpha&HFF&\t(259,277,\alpha&H00&)}a{\alpha&HFF&\t(277,296,\alpha&H00&)}t{\alpha&HFF&\t(296,314,\alpha&H00&)}u{\alpha&HFF&\t(314,333,\alpha&H00&)}l{\alpha&HFF&\t(333,351,\alpha&H00&)}a{\alpha&HFF&\t(351,370,\alpha&H00&)}t{\alpha&HFF&\t(370,388,\alpha&H00&)}i{\alpha&HFF&\t(388,407,\alpha&H00&)}o{\alpha&HFF&\t(407,425,\alpha&H00&)}n{\alpha&HFF&\t(425,444,\alpha&H00&)}s{\alpha&HFF&\t(444,462,\alpha&H00&)} {\alpha&HFF&\t(462,481,\alpha&H00&)}o{\alpha&HFF&\t(481,500,\alpha&H00&)}n
 Comment: 0,0:19:07.04,0:19:07.13,NoteArial,,0,0,0,,{\c&H000000&\fs14\shad0\3c&HFFFFFF&\frz270\bord1.8\pos(471,307)}{\alpha&HFF&\t(0,17,\alpha&H00&)}y{\alpha&HFF&\t(17,34,\alpha&H00&)}o{\alpha&HFF&\t(34,51,\alpha&H00&)}u{\alpha&HFF&\t(51,68,\alpha&H00&)}r{\alpha&HFF&\t(68,86,\alpha&H00&)} {\alpha&HFF&\t(86,103,\alpha&H00&)}p{\alpha&HFF&\t(103,120,\alpha&H00&)}r{\alpha&HFF&\t(120,137,\alpha&H00&)}o{\alpha&HFF&\t(137,155,\alpha&H00&)}m{\alpha&HFF&\t(155,172,\alpha&H00&)}o{\alpha&HFF&\t(172,189,\alpha&H00&)}t{\alpha&HFF&\t(189,206,\alpha&H00&)}i{\alpha&HFF&\t(206,224,\alpha&H00&)}o{\alpha&HFF&\t(224,241,\alpha&H00&)}n{\alpha&HFF&\t(241,258,\alpha&H00&)} {\alpha&HFF&\t(258,275,\alpha&H00&)}t{\alpha&HFF&\t(275,293,\alpha&H00&)}o{\alpha&HFF&\t(293,310,\alpha&H00&)} {\alpha&HFF&\t(310,327,\alpha&H00&)}s{\alpha&HFF&\t(327,344,\alpha&H00&)}e{\alpha&HFF&\t(344,362,\alpha&H00&)}c{\alpha&HFF&\t(362,379,\alpha&H00&)}o{\alpha&HFF&\t(379,396,\alpha&H00&)}n{\alpha&HFF&\t(396,413,\alpha&H00&)}d{\alpha&HFF&\t(413,431,\alpha&H00&)} {\alpha&HFF&\t(431,448,\alpha&H00&)}d{\alpha&HFF&\t(448,465,\alpha&H00&)}a{\alpha&HFF&\t(465,482,\alpha&H00&)}n{\alpha&HFF&\t(482,500,\alpha&H00&)}!

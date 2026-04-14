@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 71 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 478
-Active Line: 496
-Video Position: 30056
+Scroll Position: 175
+Active Line: 186
+Video Position: 29389
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -225,15 +225,15 @@ Dialogue: 0,0:19:54.63,0:19:59.43,Thinking,,0,0,0,,Only I can measure Shindou's 
 Dialogue: 0,0:20:01.68,0:20:05.89,Thinking,,0,0,0,,I knew it the moment he appeared\Nin front of me that night.
 Dialogue: 0,0:20:10.52,0:20:15.11,Thinking,,0,0,0,,Oh yes, I received the pairings for the first round\Nof the first preliminaries of the Meijin match.
 Dialogue: 0,0:20:15.82,0:20:18.66,Thinking,,0,0,0,,Touya-kun's opponent for the first round was...
-Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs24\blur1\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(639,327,693,390,103,2980)}Honda Tadao 2-dan{\i0}
-Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs24.5\blur1\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(557,297,611,360,103,2980)}Fujiki Mina First dan{\i0}
-Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs25.5\blur1\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(464,268,518,331,103,2980)}Nishizaki Shou 3-dan{\i0}
-Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs26\blur1\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(364,218,418,281,103,2980)}Katou Yuuta 2-dan{\i0}
-Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs27\blur1\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(245,170,299,233,103,2980)}Touya Akira 3-dan{\i0}
-Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs28\blur1\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(134,170,188,233,103,2980)}Shindou Hikaru First dan{\i0}
+Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs24\blur0.8\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(639,327,693,390,103,2980)}Honda Tadao 2-dan{\i0}
+Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs24.5\blur0.8\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(557,297,611,360,103,2980)}Fujiki Mina First dan{\i0}
+Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs25.5\blur0.8\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(464,268,518,331,103,2980)}Nishizaki Shou 3-dan{\i0}
+Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs26\blur0.8\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(364,218,418,281,103,2980)}Katou Yuuta 2-dan{\i0}
+Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs27\blur0.8\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(245,170,299,233,103,2980)}Touya Akira 3-dan{\i0}
+Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs28\blur0.8\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(134,170,188,233,103,2980)}Shindou Hikaru First dan{\i0}
 Dialogue: 0,0:20:22.08,0:20:22.95,Thinking,,0,0,0,,I just need to wait.
-Dialogue: 0,0:20:25.75,0:20:31.21,NoteArial,,0,0,0,,{\fs72\1c&H0B070D&\bord0\shad0\blur1\frz270\fscy62\move(576,492,576,-85)}Touya Akira 3-dan
-Dialogue: 0,0:20:25.75,0:20:31.21,NoteArial,,0,0,0,,{\fs72\q2\1c&H0B070D&\bord0\shad0\blur1\frz270\fscy62\move(300,595,300,18)}Shindou Hikaru First dan
+Dialogue: 0,0:20:25.75,0:20:31.21,NoteArial,,0,0,0,,{\fs72\1c&H0B070D&\bord0\shad0\blur0.8\frz270\fscy62\move(576,492,576,-85)}Touya Akira 3-dan
+Dialogue: 0,0:20:25.75,0:20:31.21,NoteArial,,0,0,0,,{\fs72\q2\1c&H0B070D&\bord0\shad0\blur0.8\frz270\fscy62\move(300,595,300,18)}Shindou Hikaru First dan
 Dialogue: 0,0:20:34.50,0:20:39.43,Thinking,,0,0,0,,They've already prepared a match between us.
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m

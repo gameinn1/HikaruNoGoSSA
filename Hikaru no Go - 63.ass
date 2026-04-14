@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 259
-Active Line: 284
-Video Position: 34394
+Scroll Position: 40
+Active Line: 56
+Video Position: 6963
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -95,14 +95,14 @@ Dialogue: 0,0:04:43.01,0:04:44.68,Default,,0,0,0,,Ahh! What are you doing!?
 Dialogue: 0,0:04:44.68,0:04:45.59,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:04:46.47,0:04:49.05,Default,,0,0,0,,Be careful. Those are important.
 Dialogue: 0,0:04:49.10,0:04:49.93,Default,,0,0,0,,Okay.
-Dialogue: 0,0:04:50.10,0:04:50.19,bannersign,,0,0,0,,{\fs35\1c&H100900&\fscy50\blur0\frz50\pos(223,45)}SHUUSAKU KIFU
-Dialogue: 0,0:04:50.19,0:04:50.27,bannersign,,0,0,0,,{\fs35\1c&H100900&\fscy50\blur0\frz50\pos(223,164)}SHUUSAKU KIFU
-Dialogue: 0,0:04:50.27,0:04:50.39,bannersign,,0,0,0,,{\fs35\1c&H100900&\fscy50\blur0\frz50\pos(223,249)}SHUUSAKU KIFU
-Dialogue: 0,0:04:50.39,0:04:53.48,bannersign,,0,0,0,,{\fs35\1c&H100900&\fscy50\blur0\frz50\pos(223,284)}SHUUSAKU KIFU
-Dialogue: 0,0:04:50.10,0:04:50.19,bannersign,,0,0,0,,{\fs14\1c&H100900&\fscy80\blur0\frz57\pos(184,-43)}GO IN THE PALACE
-Dialogue: 0,0:04:50.19,0:04:50.27,bannersign,,0,0,0,,{\fs14\1c&H100900&\fscy80\blur0\frz57\pos(184,75)}GO IN THE PALACE
-Dialogue: 0,0:04:50.27,0:04:50.39,bannersign,,0,0,0,,{\fs14\1c&H100900&\fscy80\blur0\frz57\pos(184,161)}GO IN THE PALACE
-Dialogue: 0,0:04:50.39,0:04:53.48,bannersign,,0,0,0,,{\fs14\1c&H100900&\fscy80\blur0\frz57\pos(184,194)}GO IN THE PALACE
+Dialogue: 0,0:04:50.10,0:04:50.19,bannersign,,0,0,0,,{\fs35\1c&H100900&\fscy50\blur0.8\frz50\pos(223,45)}SHUUSAKU KIFU
+Dialogue: 0,0:04:50.19,0:04:50.27,bannersign,,0,0,0,,{\fs35\1c&H100900&\fscy50\blur0.8\frz50\pos(223,164)}SHUUSAKU KIFU
+Dialogue: 0,0:04:50.27,0:04:50.39,bannersign,,0,0,0,,{\fs35\1c&H100900&\fscy50\blur0.8\frz50\pos(223,249)}SHUUSAKU KIFU
+Dialogue: 0,0:04:50.39,0:04:53.48,bannersign,,0,0,0,,{\fs35\1c&H100900&\fscy50\blur0.8\frz50\pos(223,284)}SHUUSAKU KIFU
+Dialogue: 0,0:04:50.10,0:04:50.19,bannersign,,0,0,0,,{\fs14\1c&H100900&\fscy80\blur0.8\frz57\pos(184,-43)}GO IN THE PALACE
+Dialogue: 0,0:04:50.19,0:04:50.27,bannersign,,0,0,0,,{\fs14\1c&H100900&\fscy80\blur0.8\frz57\pos(184,75)}GO IN THE PALACE
+Dialogue: 0,0:04:50.27,0:04:50.39,bannersign,,0,0,0,,{\fs14\1c&H100900&\fscy80\blur0.8\frz57\pos(184,161)}GO IN THE PALACE
+Dialogue: 0,0:04:50.39,0:04:53.48,bannersign,,0,0,0,,{\fs14\1c&H100900&\fscy80\blur0.8\frz57\pos(184,194)}GO IN THE PALACE
 Dialogue: 0,0:04:50.56,0:04:51.52,Background,,0,0,0,,I'll leave them here.
 Dialogue: 0,0:04:51.81,0:04:52.60,Background,,0,0,0,,Okay.
 Dialogue: 0,0:04:53.68,0:04:56.65,Default,,0,0,0,,I'll be going now. Come get me when you're done.

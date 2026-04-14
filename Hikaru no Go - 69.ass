@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 69 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 487
-Active Line: 508
-Video Position: 30023
+Scroll Position: 115
+Active Line: 123
+Video Position: 16497
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -173,7 +173,7 @@ Dialogue: 0,0:10:32.03,0:10:35.45,Default,,0,0,0,,It seemed like he was searchin
 Dialogue: 0,0:10:36.66,0:10:37.83,Default,,0,0,0,,Searching for something?
 Dialogue: 0,0:11:15.53,0:11:16.28,Thinking,,0,0,0,,Shindou.
 Dialogue: 0,0:11:24.12,0:11:26.97,Thinking,,0,0,0,,Why aren't you playing, Shindou?
-Dialogue: 0,0:11:28.04,0:11:29.84,Ed5English,,0,0,0,,{\fs35\blur0\1c&H090707&\shad0\bord0\b1\pos(203,295)}Shindou{\b0}
+Dialogue: 0,0:11:28.04,0:11:29.84,Ed5English,,0,0,0,,{\fs35\blur0.8\1c&H090707&\shad0\bord0\b1\pos(203,295)}Shindou{\b0}
 Dialogue: 0,0:11:33.17,0:11:34.47,Thinking,,0,0,0,,I'm going to make you tell me.
 Dialogue: 0,0:11:41.60,0:11:44.35,Background,,0,0,0,,I'm sorry for coming without calling.
 Dialogue: 0,0:11:44.73,0:11:47.65,Default,,0,0,0,,He should be home from school soon.

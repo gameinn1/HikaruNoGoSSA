@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 196
-Active Line: 207
-Video Position: 13833
+Scroll Position: 389
+Active Line: 414
+Video Position: 27751
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -455,10 +455,10 @@ Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs1
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,270)}GAME INFO
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,290)}Komi: 5.5 Moku
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,316)}Move:
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(612,316)}Auto
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(612,316)}Auto
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(522,393)}Chat
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(587,393)}Chat-Win
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur0\fscx100\fscy115\pos(530,428)}Stop Observing
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(587,393)}Chat-Win
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(530,428)}Stop Observing
 Dialogue: 0,0:19:18.89,0:19:19.64,Background,,0,0,0,,Is this it?
 Dialogue: 0,0:19:21.14,0:19:24.94,Default,,0,0,0,,Wow, this is incredible. What's going\Non with white on the top side?
 Dialogue: 0,0:19:25.60,0:19:27.68,Default,,0,0,0,,The lower left looks interesting, too.

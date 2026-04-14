@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 324
-Active Line: 330
-Video Position: 28521
+Scroll Position: 197
+Active Line: 202
+Video Position: 17879
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -223,16 +223,16 @@ Dialogue: 0,0:11:28.21,0:11:31.96,Thinking,,0,0,0,,I wonder if he's bitter about
 Dialogue: 0,0:11:33.51,0:11:34.56,Thinking,,0,0,0,,Well then...
 Dialogue: 0,0:11:36.09,0:11:39.10,Background,,0,0,0,,I want Kurata-san's autograph!
 Dialogue: 0,0:11:40.68,0:11:43.77,Default,,0,0,0,,Kurata-san, will you give me your autograph\Nas a reward if I beat you?
-Dialogue: 0,0:11:45.02,0:11:45.06,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(647,485)}Kurata Atsushi
-Dialogue: 0,0:11:45.06,0:11:45.10,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(611,464)}Kurata Atsushi
-Dialogue: 0,0:11:45.10,0:11:45.14,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(584,450)}Kurata Atsushi
-Dialogue: 0,0:11:45.14,0:11:45.18,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(553,432)}Kurata Atsushi
-Dialogue: 0,0:11:45.18,0:11:45.23,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(525,417)}Kurata Atsushi
-Dialogue: 0,0:11:45.23,0:11:45.27,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(500,402)}Kurata Atsushi
-Dialogue: 0,0:11:45.27,0:11:45.31,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(479,390)}Kurata Atsushi
-Dialogue: 0,0:11:45.31,0:11:45.35,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(462,380)}Kurata Atsushi
-Dialogue: 0,0:11:45.35,0:11:45.39,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\frz316\pos(451,375)}Kurata Atsushi
-Dialogue: 0,0:11:45.39,0:11:46.02,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\shad0\fad(0,584)\frz316\pos(447,372)}Kurata Atsushi
+Dialogue: 0,0:11:45.02,0:11:45.06,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(647,485)}Kurata Atsushi
+Dialogue: 0,0:11:45.06,0:11:45.10,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(611,464)}Kurata Atsushi
+Dialogue: 0,0:11:45.10,0:11:45.14,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(584,450)}Kurata Atsushi
+Dialogue: 0,0:11:45.14,0:11:45.18,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(553,432)}Kurata Atsushi
+Dialogue: 0,0:11:45.18,0:11:45.23,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(525,417)}Kurata Atsushi
+Dialogue: 0,0:11:45.23,0:11:45.27,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(500,402)}Kurata Atsushi
+Dialogue: 0,0:11:45.27,0:11:45.31,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(479,390)}Kurata Atsushi
+Dialogue: 0,0:11:45.31,0:11:45.35,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(462,380)}Kurata Atsushi
+Dialogue: 0,0:11:45.35,0:11:45.39,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\frz316\pos(451,375)}Kurata Atsushi
+Dialogue: 0,0:11:45.39,0:11:46.02,NoteArial,,0,0,0,,{\fs19\1c&H000000&\bord0\blur0.8\shad0\fad(0,584)\frz316\pos(447,372)}Kurata Atsushi
 Dialogue: 0,0:11:46.52,0:11:49.69,Background,,0,0,0,,Well, I doubt someone like me could win,
 Dialogue: 0,0:11:50.02,0:11:53.15,Default,,0,0,0,,but I can't ask for Kurata-san's autograph for free!
 Dialogue: 0,0:11:53.78,0:11:56.32,Default,,0,0,0,,It's something I have to work hard for.
@@ -244,9 +244,9 @@ Dialogue: 0,0:12:14.80,0:12:15.84,Default,,0,0,0,,Score!
 Dialogue: 0,0:12:16.05,0:12:17.93,Default,,0,0,0,,He's really easy to manipulate!
 Dialogue: 0,0:12:18.51,0:12:19.59,Thinking,,0,0,0,,Okay!
 Dialogue: 0,0:12:20.01,0:12:24.74,Thinking,,0,0,0,,We'll test my strength out, by seeing how\Nwell I can play against Kurata-san!
-Dialogue: 0,0:12:25.68,0:12:31.69,NoteArial,,0,0,0,,{\1c&HF9ECE5&\alpha&H80&\fs55\bord0\shad0\fscx155\fscy90\move(280,272,82,272)}GO
-Dialogue: 0,0:12:25.68,0:12:31.69,NoteArial,,0,0,0,,{\1c&HF9ECE5&\alpha&H80&\fs18.5\bord0\shad0\fscx100\fscy70\move(570,298,372,298)}Beginners
-Dialogue: 0,0:12:25.68,0:12:31.69,NoteArial,,0,0,0,,{\1c&HF9ECE5&\alpha&H80&\fs20.5\bord0\shad0\fscx100\fscy70\move(569,310,371,310)}Welcome
+Dialogue: 0,0:12:25.68,0:12:31.69,NoteArial,,0,0,0,,{\1c&HF9ECE5&\alpha&H80&\fs55\bord0\blur0.8\shad0\fscx155\fscy90\move(280,272,82,272)}GO
+Dialogue: 0,0:12:25.68,0:12:31.69,NoteArial,,0,0,0,,{\1c&HF9ECE5&\alpha&H80&\fs18.5\bord0\blur0.8\shad0\fscx100\fscy70\move(570,298,372,298)}Beginners
+Dialogue: 0,0:12:25.68,0:12:31.69,NoteArial,,0,0,0,,{\1c&HF9ECE5&\alpha&H80&\fs20.5\bord0\blur0.8\shad0\fscx100\fscy70\move(569,310,371,310)}Welcome
 Dialogue: 0,0:12:26.98,0:12:28.94,Background,,0,0,0,,You pay the entrance fee, okay?
 Dialogue: 0,0:12:29.40,0:12:30.22,Background,,0,0,0,,For both of us.
 Dialogue: 0,0:12:31.06,0:12:31.69,Background,,0,0,0,,Okay.

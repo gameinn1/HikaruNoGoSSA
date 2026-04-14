@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 213
-Active Line: 218
-Video Position: 24482
+Scroll Position: 90
+Active Line: 109
+Video Position: 14421
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +64,7 @@ Dialogue: 0,0:04:03.46,0:04:05.16,Thinking,,0,0,0,,This time...
 Dialogue: 0,0:04:06.93,0:04:09.28,Default,,0,0,0,,Maybe I'll stop by the hospital on my way home,
 Dialogue: 0,0:04:09.54,0:04:12.81,Default,,0,0,0,,and check up on my opponent\Nfor the Jyudan match.
 Dialogue: 0,0:04:16.03,0:04:19.36,NoteArial,,0,0,0,,{\fs11\1c&H4B2E9F&\shad1\bord0\frz7\fscy140\move(368,490,368,218)\frx12\fry345}AISHINDOU\NHOSPITAL
-Dialogue: 0,0:04:21.99,0:04:23.62,NoteArial,,0,0,0,,{\fs27.5\1c&H4A2D34&\bord0\pos(342,116)}N\NO\N\N\NV\NI\NS\NI\NT\NO\NR\NS
+Dialogue: 0,0:04:21.99,0:04:23.62,NoteArial,,0,0,0,,{\fs27.5\blur0.8\1c&H4A2D34&\bord0\pos(342,116)}N\NO\N\N\NV\NI\NS\NI\NT\NO\NR\NS
 Dialogue: 0,0:04:24.62,0:04:25.91,Default,,0,0,0,,No visitors!?
 Dialogue: 0,0:04:29.37,0:04:30.25,Background,,0,0,0,,Excuse me!
 Dialogue: 0,0:04:31.52,0:04:33.88,Default,,0,0,0,,Did something happen to Master Touya?
@@ -153,7 +153,7 @@ Dialogue: 0,0:09:45.40,0:09:48.57,Thinking,,0,0,0,,who was around during the fou
 Dialogue: 0,0:09:49.46,0:09:50.29,Thinking,,0,0,0,,Or...
 Dialogue: 0,0:09:50.44,0:09:52.78,Thinking,,0,0,0,,someone who came to see him at the hospital...
 Dialogue: 0,0:09:56.41,0:09:58.99,Thinking,,0,0,0,,No. Shindou is not Sai.
-Dialogue: 0,0:09:59.41,0:10:01.62,NoteArial,,0,0,0,,{\q2\fs55\fad(417,0)\1c&H2F2E2C&\bord0\blur1\shad0\fscy50\move(355,213,210,213)}The 9th Annual Wakajishisen
+Dialogue: 0,0:09:59.41,0:10:01.62,NoteArial,,0,0,0,,{\q2\fs55\fad(417,0)\1c&H2F2E2C&\bord0\blur2\shad0\fscy50\move(355,213,210,213)}The 9th Annual Wakajishisen
 Dialogue: 0,0:10:00.87,0:10:04.37,Thinking,,0,0,0,,His game during the Wakajishisen was not\Na game that Sai would have played.
 Dialogue: 0,0:10:05.39,0:10:07.01,Thinking,,0,0,0,,Besides, if he was Sai,
 Dialogue: 0,0:10:07.28,0:10:10.00,Thinking,,0,0,0,,he would have become well-known\Neven when he was an Insei.

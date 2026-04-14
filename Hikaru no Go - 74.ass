@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.718750
-Scroll Position: 439
-Active Line: 472
-Video Position: 31201
+Scroll Position: 54
+Active Line: 59
+Video Position: 11453
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,10 +107,10 @@ Dialogue: 0,0:07:50.83,0:07:52.66,Default,,0,0,0,,Oh, yes. Thank you.
 Dialogue: 0,0:07:53.66,0:07:54.79,Background,,0,0,0,,Yes, good work.
 Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\1c&HF2FEFF&\an7\bord0\shad0\pos(0,0)}{\p1}m 455 0 l 646 354 646 419 583 451 340 0{\p0}
 Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\1c&HF2FEFF&\an7\bord0\shad0\pos(0,0)}{\p1}m 370 108 l 569 481 521 481 332 127{\p0}
-Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs30.5\1c&H010101&\4c&H010101&\bord5\blur1\shad0\fscy200\frz298\pos(537,198)}A NEW STAR APPEARS IN KOREA
-Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs30.5\1c&H010101&\3c&HF2FEFF&\bord3\blur1\shad0\fscy200\frz298\pos(537,198)}A NEW STAR APPEARS IN KOREA
-Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs24\1c&H010101&\bord0\blur1\shad0\fscy130\frz298\pos(413,200)}Hong Su-Young (14)
-Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs24\1c&H010101&\bord0\blur1\shad0\fscy130\frz298\pos(522,406)}Kim Kang II 9-dan
+Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs30.5\1c&H010101&\4c&H010101&\bord5\blur0.8\shad0\fscy200\frz298\pos(537,198)}A NEW STAR APPEARS IN KOREA
+Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs30.5\1c&H010101&\3c&HF2FEFF&\bord3\blur0.8\shad0\fscy200\frz298\pos(537,198)}A NEW STAR APPEARS IN KOREA
+Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs24\1c&H010101&\bord0\blur0.8\shad0\fscy130\frz298\pos(413,200)}Hong Su-Young (14)
+Dialogue: 0,0:07:57.67,0:08:01.92,NoteArial,,0,0,0,,{\fs24\1c&H010101&\bord0\blur0.8\shad0\fscy130\frz298\pos(522,406)}Kim Kang II 9-dan
 Dialogue: 0,0:07:58.25,0:08:01.67,Background,,0,0,0,,How do you pronounce this Korean child's name?
 Dialogue: 0,0:08:03.13,0:08:07.43,Default,,0,0,0,,It's "kou" from "kouzui" (kouzui is\Nflood) so would it be Hong? Hong...
 Dialogue: 0,0:08:08.05,0:08:13.43,Default,,0,0,0,,The child who beat Kim Kang Il? It's Su-Young.\NHis name is Hong Su-Young.
