@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 167
-Active Line: 189
-Video Position: 16062
+Scroll Position: 255
+Active Line: 275
+Video Position: 22672
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -298,12 +298,12 @@ Dialogue: 0,0:14:11.54,0:14:13.04,Default,,0,0,0,,are you that happy?
 Dialogue: 0,0:14:13.96,0:14:15.80,Background,,0,0,0,,It's been more than a hundred years...
 Dialogue: 0,0:14:21.71,0:14:23.60,Sai,,0,0,0,,Hikaru, I'm going to start.
 Dialogue: 0,0:14:23.99,0:14:25.00,Default,,0,0,0,,Okay!
-Dialogue: 0,0:14:25.40,0:14:27.84,Sai,,0,0,0,,17-4, Upper Right Corner, komoku!
+Dialogue: 0,0:14:25.40,0:14:27.84,Sai,,0,0,0,,17-4 Upper Right Corner -komoku!
 Dialogue: 0,0:14:28.80,0:14:29.93,Background,,0,0,0,,17-...
-Dialogue: 0,0:14:30.48,0:14:32.73,Background,,0,0,0,,1, {\alpha&HFF&\t(450,450,\alpha&H00&\4a&H80&)}2, {\alpha&HFF&\t(1200,1200,\alpha&H00&\4a&H80&)}3, {\alpha&HFF&\t(2000,2000,\alpha&H00&\4a&H80&)}4...
+Dialogue: 0,0:14:30.48,0:14:32.73,Background,,0,0,0,,1, {\alpha&HFF&\t(473,473,\alpha&H00&\4a&H80&)}2, {\alpha&HFF&\t(1224,1224,\alpha&H00&\4a&H80&)}3, {\alpha&HFF&\t(1975,1975,\alpha&H00&\4a&H80&)}4...
 Dialogue: 0,0:14:34.44,0:14:34.81,Default,,0,0,0,,Wow...
 Dialogue: 0,0:14:35.68,0:14:37.52,Thinking,,0,0,0,,That's the way a beginner holds a stone...
-Dialogue: 0,0:14:43.76,0:14:46.70,Sai,,0,0,0,,16-17, Lower Right Corner, komoku!
+Dialogue: 0,0:14:43.76,0:14:46.70,Sai,,0,0,0,,16-17 Lower Right Corner -komoku!
 Dialogue: 0,0:14:47.10,0:14:49.14,Default,,0,0,0,,16-17...
 Dialogue: 0,0:14:49.42,0:14:50.00,Default,,0,0,0,,Here it is.
 Dialogue: 0,0:14:53.83,0:14:55.00,Sai,,0,0,0,,3-16
@@ -314,10 +314,10 @@ Dialogue: 0,0:15:06.55,0:15:09.14,Note,,0,0,5,,Kosumi is a standard response to 
 Dialogue: 0,0:15:06.55,0:15:07.18,Default,,0,0,0,,Kosumi?
 Dialogue: 0,0:15:10.87,0:15:11.80,Sai,,0,0,0,,14-4
 Dialogue: 0,0:15:12.35,0:15:13.92,Default,,0,0,0,,14-4...
-Dialogue: 0,0:15:34.58,0:15:36.44,Thinking,,0,0,0,,He holds the stone like a beginner,
+Dialogue: 0,0:15:34.54,0:15:36.50,Thinking,,0,0,0,,He holds the stone like a beginner,
 Dialogue: 0,0:15:37.47,0:15:39.10,Thinking,,0,0,0,,but he plays well.
-Dialogue: 0,0:15:39.76,0:15:41.40,Thinking,,0,0,0,,No wonder he claims to be strong.
-Dialogue: 0,0:15:42.04,0:15:43.43,Default,,0,0,0,,What's wrong? It's your turn.
+Dialogue: 0,0:15:39.71,0:15:41.46,Thinking,,0,0,0,,No wonder he claims to be strong.
+Dialogue: 0,0:15:42.00,0:15:43.43,Default,,0,0,0,,What's wrong? It's your turn.
 Dialogue: 0,0:15:44.02,0:15:45.02,Default,,0,0,0,,Oh, sorry.
 Dialogue: 0,0:15:54.89,0:15:57.52,Thinking,,0,0,0,,But... his joseki is old...
 Dialogue: 0,0:15:54.89,0:15:57.52,Note,,0,0,5,,Joseki: A set pattern of moves that brings benefit to both sides.
