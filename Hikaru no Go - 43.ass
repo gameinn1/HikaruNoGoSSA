@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 43 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 225
-Active Line: 226
-Video Position: 32464
+Scroll Position: 67
+Active Line: 85
+Video Position: 12681
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,7 +128,7 @@ Dialogue: 0,0:08:40.96,0:08:42.17,Memory,,0,0,0,,Really...
 Dialogue: 0,0:08:42.73,0:08:45.76,Memory,,0,0,0,,'I accidentally chimed in' doesn't settle this.
 Dialogue: 0,0:08:45.76,0:08:46.60,Memory,,0,0,0,,Sorry...
 Dialogue: 0,0:08:47.26,0:08:48.56,Thinking,,0,0,0,,Him!?
-Dialogue: 0,0:08:48.91,0:08:51.22,Thinking,,0,0,0,,I-I already apologized for that!
+Dialogue: 0,0:08:48.88,0:08:51.18,Thinking,,0,0,0,,I-I already apologized for that!
 Dialogue: 0,0:08:51.43,0:08:55.39,Thinking,,0,0,0,,Besides, Sai, you're the one that said\Nthat 1-2 was critical. Not me.
 Dialogue: 0,0:08:55.39,0:08:57.53,Sai,,0,0,0,,But you're the one that said it out loud!
 Dialogue: 0,0:08:58.23,0:09:01.15,Default,,0,0,0,,I knew back then that you were exceptional.
