@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 183
-Active Line: 198
-Video Position: 28194
+Video Zoom Percent: 1.000000
+Scroll Position: 52
+Active Line: 58
+Video Position: 8421
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -106,7 +106,7 @@ Dialogue: 0,0:05:33.98,0:05:36.23,Thinking,,0,0,0,,I'm just dissatisfied...
 Dialogue: 0,0:05:37.48,0:05:39.94,Thinking,,0,0,0,,with becoming a pro right now.
 Dialogue: 0,0:05:41.45,0:05:42.86,Thinking,,0,0,0,,Maybe I do need someone else...
 Dialogue: 0,0:05:43.61,0:05:46.33,Thinking,,0,0,0,,just like Ashiwara-san says.
-Dialogue: 0,0:05:47.99,0:05:51.21,NoteArial,,0,0,0,,{\fs32\1c&H0E7E90&\fscy70\bord0\shad1\blur0\frx4\fry0\move(322,279,322,461)}HAGINO INCORPORATED
+Dialogue: 0,0:05:47.99,0:05:51.21,NoteArial,,0,0,0,,{\fs32\1c&H0E7E90&\fscy70\bord0\shad1\blur0.8\frx4\fry0\move(322,279,322,461)}HAGINO INCORPORATED
 Dialogue: 0,0:05:51.21,0:05:53.46,NoteArial,,0,0,0,,{\fs18\t(0,2226,1,\fs19)\1c&H0E7E90&\fscx101\fscy140\bord0\shad1\blur0\move(315,34,315,54)}Company President's Office
 Dialogue: 0,0:06:11.18,0:06:12.23,Default,,0,0,0,,This is the end.
 Dialogue: 0,0:06:13.19,0:06:17.82,Default,,0,0,0,,I can't beat you... excuse me, I can't beat\Nyou, Master, even with four stones.
