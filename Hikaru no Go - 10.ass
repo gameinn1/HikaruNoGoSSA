@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 10 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 75
-Active Line: 100
-Video Position: 10173
+Scroll Position: 69
+Active Line: 86
+Video Position: 8885
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +37,7 @@ Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArialEF,Arial,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: NoteTimes,Times New Roman,43,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -127,8 +127,9 @@ Dialogue: 0,0:05:54.53,0:05:55.60,Default,,0,0,0,,Oh, nothing.
 Dialogue: 0,0:05:59.22,0:06:01.50,Default,,0,0,0,,Good point about Tsutsui-san...
 Dialogue: 0,0:06:01.77,0:06:05.44,Default,,0,0,0,,but before that, we have to find a third member.
 Dialogue: 0,0:06:05.96,0:06:07.53,Default,,0,0,0,,What will I do...
-Dialogue: 0,0:06:10.56,0:06:15.02,NoteArialEF,,0,0,0,,{\fnTimes New Roman\fs43\fscy80\1c&HFFFFFF&\3c&H3433EB&\bord2.5\pos(282,72)}Chinese Noodles
-Dialogue: 0,0:06:11.08,0:06:12.87,Default,,0,0,0,,but, let's eat some Ramen first.
+Comment: 0,0:06:10.56,0:06:15.02,NoteTimes,,0,0,0,,Didn't apply shad1 here as it was really hard to see if they had a shadow or not.
+Dialogue: 0,0:06:10.56,0:06:15.02,NoteTimes,,0,0,0,,{\fs43\fscy80\1c&HFFFFFF&\3c&H3433EB&\bord2.5\pos(282,72)}Chinese Noodles
+Dialogue: 0,0:06:11.06,0:06:12.98,Default,,0,0,0,,but, let's eat some Ramen first.
 Dialogue: 0,0:06:21.81,0:06:23.84,Sai,,0,0,0,,You really like Ramen don't you Hikaru?
 Dialogue: 0,0:06:24.43,0:06:27.36,Default,,0,0,0,,I think it's the greatest food in the world.
 Dialogue: 0,0:06:30.90,0:06:32.41,Default,,0,0,0,,Hey go make a delivery.
@@ -141,7 +142,7 @@ Dialogue: 0,0:06:46.92,0:06:50.61,Sai,,0,0,0,,But I haven't played at all lately
 Dialogue: 0,0:06:51.61,0:06:56.61,Background,,0,0,0,,Speaking of, there's a really good\NJunior High kid at the Go salon.
 Dialogue: 0,0:06:58.46,0:07:02.60,Default,,0,0,0,,I played him once, but I didn't stand a chance.
 Dialogue: 0,0:07:04.37,0:07:05.49,Background,,0,0,0,,Thanks for the food!
-Dialogue: 0,0:07:04.28,0:07:10.24,NoteArialEF,,0,0,0,,{\fnTimes New Roman\fs43\fscy80\1c&HFFFFFF&\3c&H3433EB&\bord2.5\pos(282,72)}Chinese Noodles
+Dialogue: 0,0:07:04.28,0:07:10.24,NoteTimes,,0,0,0,,{\fs43\fscy80\1c&HFFFFFF&\3c&H3433EB&\bord2.5\pos(282,72)}Chinese Noodles
 Dialogue: 0,0:07:08.71,0:07:10.43,Default,,0,0,0,,A strong Junior High kid?
 Dialogue: 0,0:07:10.61,0:07:12.48,Sai,,0,0,0,,Hikaru! Hurry! Hurry!
 Dialogue: 0,0:07:12.97,0:07:14.38,Default,,0,0,0,,Who is it?
