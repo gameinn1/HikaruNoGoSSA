@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Active Line: 11
-Video Position: 3791
+Scroll Position: 96
+Active Line: 110
+Video Position: 10549
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,12 +29,12 @@ Style: Op1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,
 Style: Ed1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
 Style: Ed1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,15,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
+Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,15,1
+Style: Thinking,Verdana,26,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
+Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
+Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: SignsEp4,Copperplate Gothic Bold,26,&H00000000,&H00FFFFFF,&H00FFFFFF,&H80FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,10,1
@@ -156,7 +157,7 @@ Dialogue: 0,0:07:19.67,0:07:22.30,SignsEp4,,0,0,0,,{\pos(516.5,4)}Tea Ceremony
 Comment: 0,0:07:19.67,0:07:22.30,SignsEp4,,0,0,0,,{\pos(371.4,295.4)}Go
 Dialogue: 0,0:07:19.67,0:07:22.30,SignsEp4,,0,0,0,,{\pos(373.4,293.4)}Go
 Dialogue: 0,0:07:22.77,0:07:23.84,Sai,,0,0,0,,Let's go!
-Dialogue: 0,0:07:23.84,0:07:25.28,Sai,,0,0,0,,Come on, {\alpha&HFF&\t(480,480,\alpha&H00&\4a&H80&)}come on, {\alpha&HFF&\t(950,950,\alpha&H00&\4a&H80&)}come on!
+Dialogue: 0,0:07:23.84,0:07:25.28,Sai,,0,0,0,,Come on, {\alpha&HFF&\t(479,479,\alpha&H00&\4a&H80&)}come on, {\alpha&HFF&\t(938,938,\alpha&H00&\4a&H80&)}come on!
 Dialogue: 0,0:07:25.76,0:07:27.45,Default,,0,0,0,,Only for a little bit okay?
 Dialogue: 0,0:07:28.32,0:07:30.22,Background,,0,0,0,,Here's a problem for a mid-kyu player.
 Dialogue: 0,0:07:28.32,0:07:33.68,Note,,0,0,0,,[note: Ranking in Go is determined with dan and kyu, the\Nstrongest player is 9 dan, then 8 dan, down to 1-dan, and\Nunder that is kyu, kyu starts at 1 kyu, and then down to 2 kyu,\Nand onwards. A mid-kyu player would be about 5~12 kyu]

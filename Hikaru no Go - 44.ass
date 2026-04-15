@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 44 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 240
-Active Line: 255
-Video Position: 34681
+Active Line: 14
+Video Position: 3741
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,19 +28,19 @@ Style: Op2English2,Pristina,40,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0
 Style: Ed3Kanji,MS Gothic,30,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed3Romaji2,Pristina,40,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed3English2,Pristina,40,&H0089D6F3,&H0080FFFF,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
+Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
+Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,0,0,15,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
-Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,0,0,20,1
+Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
+Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0.333,0,1,0,1,7,56,56,14,1
+Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0,0,1,0,1,7,56,56,14,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -59,7 +58,7 @@ Dialogue: 0,0:02:16.28,0:02:20.71,Thinking,,0,0,0,,If I turn this area, under wh
 Dialogue: 0,0:02:22.26,0:02:24.46,Thinking,,0,0,0,,{\1c&HC5FEC1&}If this black lives, you win.
 Dialogue: 0,0:02:29.46,0:02:34.38,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(335,115)}The Forty-Fourth Match
 Dialogue: 0,0:02:29.46,0:02:34.38,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}A Desperate Life
-Dialogue: 0,0:02:34.63,0:02:40.10,NoteArial,,0,0,0,,{\fs25\bord1\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,667)\shad1\pos(325,360)}The Twenty-Sixth Match of the Pro Exam Finals
+Dialogue: 0,0:02:34.63,0:02:40.10,NoteArial,,0,0,0,,{\fs25\bord1.25\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,667)\shad1\pos(325,360)}The Twenty-Sixth Match of the Pro Exam Finals
 Dialogue: 0,0:02:51.31,0:02:53.89,Memory,,0,0,0,,Become... a pro!
 Dialogue: 0,0:02:55.36,0:02:56.09,Thinking,,0,0,0,,I can win.
 Dialogue: 0,0:02:56.59,0:02:58.85,Thinking,,0,0,0,,So long as I don't move too quickly and make a mistake.
@@ -197,7 +196,8 @@ Dialogue: 0,0:16:09.53,0:16:12.78,Default,,0,0,0,,who is just now on the rise wa
 Dialogue: 0,0:16:13.42,0:16:16.32,Default,,0,0,0,,What a wonderful prize that is.
 Dialogue: 0,0:16:17.01,0:16:19.20,Default,,0,0,0,,Work hard, Kousuke!
 Dialogue: 0,0:16:24.35,0:16:26.35,Thinking,,0,0,0,,Shindou... let's play!
-Dialogue: 0,0:16:29.84,0:16:33.81,NoteArial,,0,0,0,,{\fs25\bord1.5\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,0)\shad1\pos(325,360)}The Final Match of the Pro Exam Finals
+Comment: 0,0:16:29.84,0:16:33.81,NoteArial,,0,0,0,,First change to bord1.25
+Dialogue: 0,0:16:29.84,0:16:33.81,NoteArial,,0,0,0,,{\fs25\bord1.25\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,0)\shad1\pos(325,360)}The Final Match of the Pro Exam Finals
 Dialogue: 0,0:16:34.73,0:16:38.70,Default,,0,0,0,,I feel sorry for Waya, but...\NFuku has the advantage.
 Dialogue: 0,0:16:39.27,0:16:40.28,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:16:41.43,0:16:45.90,Default,,0,0,0,,Not only is Waya weak against Fuku,\Nbut he's under a lot of pressure, too.
