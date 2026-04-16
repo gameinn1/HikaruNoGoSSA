@@ -315,7 +315,7 @@ Dialogue: 1,0:00:21.33,0:00:28.05,intro_credit,,0,0,0,,{\fad(233,2942)\c&HE0E1E5
 Dialogue: 0,0:00:19.62,0:00:20.04,special_title,,0,0,0,,{\fad(189,0)\bord2\fs87\3c&HFFFFFF&\c&H2B00E8&\move(325,512,325,382,22,189)}Hikaru
 Dialogue: 0,0:00:20.04,0:00:21.63,special_title,,0,0,0,,{\bord2\fs87\3c&HFFFFFF&\c&H2B00E8&\move(325,382,233,382,1309,1521)}Hikaru
 Dialogue: 0,0:00:21.46,0:00:21.63,special_title,,0,0,0,,{\bord2\fs87\3c&HFFFFFF&\c&H2B00E8&\move(522.31,479.67,453.65,382.4,18,146)}no Go
-Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2942)\bord13\fs87.5\pos(320,382)\3c&HFFFFFF&\c&HFFFFFF&\t(30,434,1,\bord3\c&H2B00E8&)}Hikaru no Go
+Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2942)\bord12\fs87.5\pos(320,382)\3c&HFFFFFF&\c&HFFFFFF&\t(30,434,1,\bord3\c&H2B00E8&)}Hikaru no Go
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
