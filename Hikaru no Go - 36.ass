@@ -37,7 +37,7 @@ Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,10
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
 Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0,0,1,0,1,7,56,56,14,1
 
 [Events]
@@ -250,12 +250,12 @@ Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H00
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Elite-Fansubs
 Dialogue: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents
 Dialogue: 0,0:00:19.37,0:00:19.79,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Presents
-Dialogue: 0,0:00:21.38,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2942)\c&HE0E1E5&\3c&H000000&\pos(325,119)\t(230,231,\bord20\3c&HFFFFFF&)\t(230,690,\3c&H000000&\bord2)}Elite-Fansubs
-Dialogue: 1,0:00:21.38,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2942)\c&HE0E1E5&\3c&H000000&\pos(325,144)\t(230,231,\bord20\3c&HFFFFFF&)\t(230,690,\3c&H000000&\bord2)}Presents
+Dialogue: 0,0:00:21.33,0:00:28.05,intro_credit,,0,0,0,,{\fad(233,2942)\c&HE0E1E5&\3c&H000000&\pos(325,119)\t(275,276,\bord20\3c&HFFFFFF&)\t(317,734,\3c&H000000&\bord2)}Elite-Fansubs
+Dialogue: 1,0:00:21.33,0:00:28.05,intro_credit,,0,0,0,,{\fad(233,2942)\c&HE0E1E5&\3c&H000000&\pos(325,144)\t(275,276,\bord20\3c&HFFFFFF&)\t(317,734,\3c&H000000&\bord2)}Presents
 Dialogue: 0,0:00:19.62,0:00:20.04,special_title,,0,0,0,,{\fad(189,0)\bord3\fs87\3c&HFFFFFF&\c&H2B00E8&\move(325,512,325,382,22,189)}Hikaru
 Dialogue: 0,0:00:20.04,0:00:21.63,special_title,,0,0,0,,{\bord3\fs87\3c&HFFFFFF&\c&H2B00E8&\move(325,382,233,382,1309,1521)}Hikaru
 Dialogue: 0,0:00:21.46,0:00:21.63,special_title,,0,0,0,,{\bord3\fs87\3c&HFFFFFF&\c&H2B00E8&\move(522.31,479.67,453.65,382.4,18,146)}no Go
-Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2942)\bord19\fs87.5\pos(320,382)\3c&HFFFFFF&\c&HFFFFFF&\t(30,482,1,\bord5\c&H2B00E8&)}Hikaru no Go
+Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2942)\bord19\fs87.5\pos(320,382)\3c&HFFFFFF&\c&HFFFFFF&\t(30,434,1,\bord5\c&H2B00E8&)}Hikaru no Go
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
