@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 21 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 1
-Video Position: 109
+Scroll Position: 236
+Active Line: 245
+Video Position: 32328
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -283,10 +284,10 @@ Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\pos(242,240)}Umezawa Yukari's
 Dialogue: 0,0:22:10.89,0:22:12.32,Note,,0,0,0,,{\fs45\bord2\shad0\i1\pos(256,328)}{\1c&H0E00DA&}Go  Go  {\1c&HFFFFFF&}Igo!{\i0}
 Dialogue: 0,0:22:12.76,0:22:15.51,Default,,0,0,0,,Let's play a game today between the two of you!
 Dialogue: 0,0:22:12.89,0:22:13.77,Note,,0,0,0,,{\1c&H369DE8&\shad0\pos(320,336)}Teacher Yukari
-Dialogue: 0,0:22:14.39,0:22:16.11,Note,,0,0,0,,{\1c&HFE2234&\shad0\pos(113.647,281.15)}Yuuki
-Dialogue: 0,0:22:14.39,0:22:16.11,Note,,0,0,0,,{\1c&H369DE8&\shad0\pos(316.291,199.7)}Teacher Yukari
-Dialogue: 0,0:22:14.39,0:22:16.11,Note,,0,0,0,,{\1c&H6800C2&\shad0\pos(527.441,259.433)}Mai
-Dialogue: 0,0:22:15.04,0:22:16.09,Note,,0,0,0,,{\pos(320,345}Let's play a game today on the 9x9 board!
+Dialogue: 0,0:22:14.39,0:22:16.11,Note,,0,0,0,,{\1c&HFE2234&\shad0\pos(109,279)}Yuuki
+Dialogue: 0,0:22:14.39,0:22:16.11,Note,,0,0,0,,{\1c&H369DE8&\shad0\pos(320,195)}Teacher Yukari
+Dialogue: 0,0:22:14.39,0:22:16.11,Note,,0,0,0,,{\1c&H6800C2&\shad0\pos(535,257)}Mai
+Dialogue: 0,0:22:15.06,0:22:16.11,Note,,0,0,0,,{\pos(320,345}Let's play a game today on the 9x9 board!
 Dialogue: 0,0:22:16.66,0:22:18.56,Default,,0,0,0,,Good luck!
 Dialogue: 0,0:22:17.50,0:22:19.58,Note,,0,0,0,,{\pos(320,320)}Even match, Yuuki has black. Game\Nstarts with a komi of five and a half moku.
 Dialogue: 0,0:22:25.87,0:22:27.63,Default,,0,0,0,,You're both concentrating so hard.
