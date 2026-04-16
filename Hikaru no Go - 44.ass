@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 44 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 167
-Active Line: 173
-Video Position: 25444
+Scroll Position: 76
+Active Line: 88
+Video Position: 15984
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -132,7 +132,8 @@ Dialogue: 0,0:10:42.29,0:10:43.43,Memory,,0,0,0,,You WILL pass!
 Dialogue: 0,0:10:44.36,0:10:46.30,Memory,,0,0,0,,Have faith in yourself, Waya.
 Dialogue: 0,0:10:47.34,0:10:49.54,Memory,,0,0,0,,Become a pro!
 Dialogue: 0,0:10:51.92,0:10:52.70,Thinking,,0,0,0,,{\1c&HC5FEC1&}Master!
-Dialogue: 0,0:11:06.65,0:11:10.65,NoteArial,,0,0,0,,{\fs18.5\bord0.5\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\shad1\frz348\move(300,120,298,114)}Japanese Go Research Center
+Comment: 0,0:11:06.65,0:11:10.65,NoteArial,,0,0,0,,This was old but I think making font slightly increase is better: {\fs18.5\bord0.5\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\shad1\frz348\move(300,120,298,114)}Japanese Go Research Center
+Dialogue: 0,0:11:06.65,0:11:10.65,NoteArial,,0,0,0,,{\fs18.5\t(0,3978,1,\fs19.5)\bord0.5\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\shad1\frz348\move(300,120,298,114)}Japanese Go Research Center
 Dialogue: 0,0:11:37.28,0:11:38.13,Default,,0,0,0,,I resign.
 Dialogue: 0,0:11:44.64,0:11:45.59,Sai,,0,0,0,,Hikaru has...
 Dialogue: 0,0:11:46.77,0:11:49.13,Sai,,0,0,0,,completely surpassed Waya with this match.
