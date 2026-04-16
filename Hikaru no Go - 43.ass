@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 43 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 67
-Active Line: 85
-Video Position: 12681
+Scroll Position: 160
+Active Line: 184
+Video Position: 27191
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -225,7 +225,7 @@ Dialogue: 0,0:18:22.28,0:18:24.08,Default,,0,0,0,,You're a good student.
 Dialogue: 0,0:18:25.02,0:18:28.08,Default,,0,0,0,,You're obedient and earnest, despite your age.
 Dialogue: 0,0:18:29.63,0:18:32.05,Default,,0,0,0,,But don't expect to be babied just because of that!
 Dialogue: 0,0:18:42.27,0:18:43.95,Thinking,,0,0,0,,If black goes there, I'll extend.
-Dialogue: 0,0:18:44.81,0:18:47.68,Thinking,,0,0,0,,No... it would be better if I just do a sagari.
+Dialogue: 0,0:18:44.77,0:18:47.68,Thinking,,0,0,0,,No... it would be better if I just do a sagari.
 Dialogue: 0,0:18:48.86,0:18:51.04,Thinking,,0,0,0,,Okay! He can't do anything there.
 Dialogue: 0,0:18:54.07,0:18:56.07,Background,,0,0,0,,I've had a few students.
 Dialogue: 0,0:18:58.05,0:19:00.05,Default,,0,0,0,,There were a few who couldn't become pros.
