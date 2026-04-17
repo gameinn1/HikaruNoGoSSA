@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 319
-Active Line: 343
-Video Position: 29096
+Video Zoom Percent: 1.000000
+Scroll Position: 366
+Active Line: 370
+Video Position: 32167
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -414,8 +414,8 @@ Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fsc
 Dialogue: 0,0:22:13.02,0:22:15.29,Default,,0,0,0,,Hey, Mai-chan, do you remember what Komi is?
 Dialogue: 0,0:22:12.79,0:22:13.04,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H187BF8&\4c&H187BF8&\fscx100\fscy100\bord1\shad0.5\move(10,296,183,296)}Teacher Yukari
 Dialogue: 0,0:22:13.04,0:22:16.76,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H187BF8&\4c&H187BF8&\fscx100\fscy100\bord1\shad0.5\pos(183,296)}Teacher Yukari
-Dialogue: 0,0:22:12.79,0:22:13.04,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&HFF21F5&\4c&HFF21F5&\fscx100\fscy100\bord1\shad0.5\move(650,296,435,296)}Mai
-Dialogue: 0,0:22:13.04,0:22:16.76,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HFF21F5&\4c&HFF21F5&\fscx100\fscy100\bord1\shad0.5\pos(435,296)}Mai
+Dialogue: 0,0:22:12.79,0:22:13.04,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&HFF21F5&\4c&HFF21F5&\fscx100\fscy100\bord1\shad0.5\move(650,296,436,296)}Mai
+Dialogue: 0,0:22:13.04,0:22:16.76,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&HFF21F5&\4c&HFF21F5&\fscx100\fscy100\bord1\shad0.5\pos(436,296)}Mai
 Dialogue: 0,0:22:15.40,0:22:16.30,Default,,0,0,0,,Yup!
 Dialogue: 0,0:22:16.54,0:22:19.18,Default,,0,0,0,,Well Komi just changed from five and a half moku
 Dialogue: 0,0:22:16.99,0:22:17.25,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(209,0)\3c&H038D07&\4c&H038D07&\fscx100\fscy100\bord1\shad0.5\move(800,296,308,296)}"Komi",                           the Handicap given to Black,
@@ -470,7 +470,7 @@ Dialogue: 0,0:00:19.71,0:00:20.00,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\
 Dialogue: 0,0:00:19.67,0:00:19.79,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(219,488,219,403.99,24,108)\c&H2C00E9&}Hikaru
 Dialogue: 0,0:00:19.79,0:00:20.00,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
 Dialogue: 0,0:00:20.00,0:00:21.63,special_title,,0,0,0,,{\bord2\fs86\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2900)\bord12\fs86\3c&HFFFFFF&\pos(319,382)\c&HFFFFFF&\t(25,480,\bord3\c&H2C00E9&)}Hikaru{\fscx112} {\fscx100}no Go
+Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2900)\bord12\fs86\3c&HFFFFFF&\pos(319,382)\c&HFFFFFF&\t(25,434,\bord3\c&H2C00E9&)}Hikaru{\fscx112} {\fscx100}no Go
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　

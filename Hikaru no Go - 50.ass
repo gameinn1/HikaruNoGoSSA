@@ -423,7 +423,7 @@ Dialogue: 0,0:00:19.71,0:00:20.00,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\
 Dialogue: 0,0:00:19.67,0:00:19.79,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(219,488,219,403.99,24,108)\c&H2C00E9&}Hikaru
 Dialogue: 0,0:00:19.79,0:00:20.00,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
 Dialogue: 0,0:00:20.00,0:00:21.63,special_title,,0,0,0,,{\bord2\fs86\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2900)\bord12\fs86\3c&HFFFFFF&\pos(319,382)\c&HFFFFFF&\t(25,480,\bord3\c&H2C00E9&)}Hikaru{\fscx112} {\fscx100}no Go
+Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2900)\bord12\fs86\3c&HFFFFFF&\pos(319,382)\c&HFFFFFF&\t(25,434,\bord3\c&H2C00E9&)}Hikaru{\fscx112} {\fscx100}no Go
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　

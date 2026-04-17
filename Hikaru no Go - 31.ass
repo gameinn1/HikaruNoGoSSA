@@ -377,6 +377,17 @@ Dialogue: 0,0:22:59.49,0:23:01.76,Default,,0,0,0,,Shut up! I'm trying to think r
 Dialogue: 0,0:23:03.16,0:23:07.85,Sai,,0,0,0,,Play normally... that becomes harder\Nas you become more desperate.
 Dialogue: 0,0:23:09.37,0:23:11.87,Default,,0,0,0,,We might play each other tomorrow.
 Dialogue: 0,0:23:23.71,0:23:24.77,Default,,0,0,0,,I resign...
+Comment: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,These are untouched llbx values.
+Comment: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Elite-Fansubs
+Comment: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Elite-Fansubs
+Comment: 0,0:00:17.87,0:00:19.37,intro_credit,,0,0,0,,{\fad(188,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,11.23,325,144,21,188)}Presents
+Comment: 0,0:00:19.37,0:00:19.79,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Presents
+Comment: 0,0:00:21.38,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2942)\c&HE0E1E5&\3c&H000000&\pos(325,119)\t(230,231,\bord20\3c&HFFFFFF&)\t(230,690,\3c&H000000&\bord2)}Elite-Fansubs
+Comment: 1,0:00:21.38,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2942)\c&HE0E1E5&\3c&H000000&\pos(325,144)\t(230,231,\bord20\3c&HFFFFFF&)\t(230,690,\3c&H000000&\bord2)}Presents
+Comment: 0,0:00:19.62,0:00:20.04,special_title,,0,0,0,,{\fad(189,0)\bord3\fs87\3c&HFFFFFF&\c&H2B00E8&\move(325,512,325,382,22,189)}Hikaru
+Comment: 0,0:00:20.04,0:00:21.63,special_title,,0,0,0,,{\bord3\fs87\3c&HFFFFFF&\c&H2B00E8&\move(325,382,233,382,1309,1521)}Hikaru
+Comment: 0,0:00:21.46,0:00:21.63,special_title,,0,0,0,,{\bord3\fs87\3c&HFFFFFF&\c&H2B00E8&\move(522.31,479.67,453.65,382.4,18,146)}no Go
+Comment: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2942)\bord19\fs87.5\pos(320,382)\3c&HFFFFFF&\c&HFFFFFF&\t(30,482,1,\bord5\c&H2B00E8&)}Hikaru no Go
 Comment: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,Things done: intro_credit set to bord3 to handle lines 341/342 being bord3 before switching to bord2. Lines 341/342 start 1 frame earlier as you could barely see the fade in on 31. Also applied fade in to those lines. "Hikaru no Go" (line 346) ended the animation slightly after Elite-Fansubs so I synced that up to end when the "light" of the main logo settled.
 Dialogue: 0,0:00:16.12,0:00:17.62,intro_credit,,0,0,0,,{\fad(144,0)\bord3\3c&H000000&\c&HE0E1E5&\move(325,21,325,144,19,135)}Elite-Fansubs
 Dialogue: 0,0:00:17.62,0:00:18.04,intro_credit,,0,0,0,,{\fad(0,420)\bord3\3c&H000000&\c&HE0E1E5&\move(325,144,325,70.28,19,396)}Elite-Fansubs

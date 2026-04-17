@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 330
-Active Line: 335
-Video Position: 20885
+Video Zoom Percent: 0.625000
+Scroll Position: 493
+Active Line: 515
+Video Position: 519
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -546,20 +546,20 @@ Dialogue: 0,0:23:05.74,0:23:09.24,Default,,0,0,0,,He's eager to play against you
 Dialogue: 0,0:23:09.78,0:23:11.20,Default,,0,0,0,,His name is...
 Dialogue: 0,0:23:11.41,0:23:12.33,Background,,0,0,0,,Sai!
 Dialogue: 0,0:23:22.55,0:23:26.30,Default,,0,0,0,,Fine. If I lose, I will retire.
-Dialogue: 0,0:00:15.95,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
-Dialogue: 0,0:00:17.66,0:00:28.05,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
-Dialogue: 0,0:00:18.00,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --
-Dialogue: 0,0:00:17.83,0:00:18.08,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,452,324,150,19,208)}----- ----- ---- --- -- --
-Dialogue: 0,0:00:15.91,0:00:16.25,intro_credit,,0,0,0,,{\fs28\blur0.6\an1\bord0\fsp-2\c&H000000&\fscx60\move(552,137,-27.67,137,20,312)}------- -------- -- -- --- - --- --- ---- ---- ---
-Dialogue: 0,0:00:15.91,0:00:16.25,intro_credit,,0,0,0,,{\fs28\blur0.6\an1\bord0\fsp-2\c&H000000&\fscx60\move(-96,137,484.29,137,20,312)}------- -------- -- -- --- - --- --- ---- ---- ---
-Dialogue: 0,0:00:19.37,0:00:19.79,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\pos(219,382)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.37,0:00:19.79,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(219,85,219,381.51,22,320)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.58,0:00:20.00,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(-71,382,215.61,382,21,308)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.71,0:00:20.00,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(482,382,216,382,16,283)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.67,0:00:19.79,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(219,488,219,403.99,24,108)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.79,0:00:20.00,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:20.00,0:00:21.63,special_title,,0,0,0,,{\bord2\fs86\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2900)\bord12\fs86\3c&HFFFFFF&\pos(319,382)\c&HFFFFFF&\t(25,480,\bord3\c&H2C00E9&)}Hikaru{\fscx112} {\fscx100}no Go
+Dialogue: 0,0:00:15.91,0:00:28.01,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
+Dialogue: 0,0:00:17.62,0:00:28.01,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
+Dialogue: 0,0:00:17.96,0:00:18.04,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --
+Dialogue: 0,0:00:17.79,0:00:18.04,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,452,324,150,19,208)}----- ----- ---- --- -- --
+Dialogue: 0,0:00:15.87,0:00:16.20,intro_credit,,0,0,0,,{\fs28\blur0.6\an1\bord0\fsp-2\c&H000000&\fscx60\move(552,137,-27.67,137,20,312)}------- -------- -- -- --- - --- --- ---- ---- ---
+Dialogue: 0,0:00:15.87,0:00:16.20,intro_credit,,0,0,0,,{\fs28\blur0.6\an1\bord0\fsp-2\c&H000000&\fscx60\move(-96,137,484.29,137,20,312)}------- -------- -- -- --- - --- --- ---- ---- ---
+Dialogue: 0,0:00:19.33,0:00:19.75,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\pos(219,382)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.33,0:00:19.75,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(219,85,219,381.51,22,320)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.54,0:00:19.96,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(-71,382,215.61,382,21,308)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.67,0:00:19.96,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(482,382,216,382,16,283)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.62,0:00:19.75,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(219,488,219,403.99,24,108)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.75,0:00:19.96,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.96,0:00:21.58,special_title,,0,0,0,,{\bord2\fs86\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:21.58,0:00:28.01,special_title,,0,0,0,,{\fad(0,2900)\bord12\fs86\3c&HFFFFFF&\pos(319,382)\c&HFFFFFF&\t(25,434,\bord3\c&H2C00E9&)}Hikaru{\fscx112} {\fscx100}no Go
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
