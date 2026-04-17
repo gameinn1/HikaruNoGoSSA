@@ -39,7 +39,7 @@ This is an update to the project started by gabest11. See the table below for ov
 
 ## Intro/Progress
 
-### Currently about ~99.7% complete
+### Currently about ~99.8% complete
 
 I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were some problems. Most of the time they did not assign styles/missed notes so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see Everything yet to do pdf page 2/3 for old examples). The ending Igo and next episode previews were also different compared to E-F/R-F.
 
