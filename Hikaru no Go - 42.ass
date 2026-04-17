@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 42 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 42 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 314
-Active Line: 317
-Video Position: 32886
+Video Zoom Percent: 0.625000
+Scroll Position: 263
+Active Line: 277
+Video Position: 29942
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -318,10 +318,10 @@ Dialogue: 0,0:20:15.86,0:20:17.51,Memory,,0,0,0,,It was a good game, Shindou.
 Dialogue: 0,0:20:18.06,0:20:19.73,Memory,,0,0,0,,The opening was fun.
 Dialogue: 0,0:20:21.66,0:20:23.39,Memory,,0,0,0,,You might get good!
 Dialogue: 0,0:20:24.14,0:20:25.48,Memory,,0,0,0,,As good as Sai one day...
-Dialogue: 0,0:20:30.34,0:20:34.05,Default,,0,0,0,,I think I started working harder\Nthanks to what he said.
+Dialogue: 0,0:20:30.34,0:20:33.96,Default,,0,0,0,,I think I started working harder\Nthanks to what he said.
 Dialogue: 0,0:20:35.35,0:20:36.18,Sai,,0,0,0,,You're right.
 Dialogue: 0,0:20:36.64,0:20:37.30,Default,,0,0,0,,I'll win...
-Dialogue: 0,0:20:38.63,0:20:40.83,Default,,0,0,0,,I'm going to win!
+Dialogue: 0,0:20:38.59,0:20:40.76,Default,,0,0,0,,I'm going to win!
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.1\t(50,162,1,\1a&H00&\4a&H50&)}e
