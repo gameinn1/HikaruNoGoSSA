@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 389
-Active Line: 414
-Video Position: 27751
+Scroll Position: 427
+Active Line: 440
+Video Position: 29748
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,7 +44,7 @@ Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.76,0:01:46.09,Background,,0,0,0,,Or is Internet Go mere fun\Nand games for Touya-san?
+Dialogue: 0,0:01:42.71,0:01:45.96,Background,,0,0,0,,Or is Internet Go mere fun\Nand games for Touya-san?
 Dialogue: 0,0:01:46.92,0:01:48.08,Default,,0,0,0,,Yes it is,
 Dialogue: 0,0:01:48.72,0:01:52.34,Default,,0,0,0,,but there are games that I can't lose.
 Dialogue: 0,0:01:53.19,0:01:58.43,Sai,,0,0,0,,I knew that he would walk the same path\Nas I do, ever since I first met him.
@@ -484,7 +484,7 @@ Dialogue: 0,0:20:25.08,0:20:26.12,Thinking,,0,0,0,,This is...
 Dialogue: 0,0:20:31.12,0:20:32.13,Thinking,,0,0,0,,This is Sai!
 Dialogue: 0,0:20:32.69,0:20:33.84,Thinking,,0,0,0,,It's Sai!
 Dialogue: 0,0:20:37.22,0:20:38.34,Thinking,,0,0,0,,My father is...
-Dialogue: 0,0:20:38.84,0:20:40.18,Thinking,,0,0,0,,playing Sai!
+Dialogue: 0,0:20:38.80,0:20:40.14,Thinking,,0,0,0,,playing Sai!
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.1\t(50,162,1,\1a&H00&\4a&H50&)}e
