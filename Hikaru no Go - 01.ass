@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 249
-Active Line: 253
-Video Position: 20014
+Scroll Position: 76
+Active Line: 101
+Video Position: 10113
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,10 +137,10 @@ Dialogue: 0,0:06:26.16,0:06:29.33,Memory,,0,0,0,,Without my livelihood, I had no
 Dialogue: 0,0:06:30.16,0:06:32.25,Memory,,0,0,0,,Two days later...
 Dialogue: 0,0:06:32.88,0:06:34.62,Memory,,0,0,0,,I drowned myself.
 Dialogue: 0,0:06:42.05,0:06:46.14,Memory,,0,0,0,,I still wanted to play Go, I\Nwanted to play much more.
-Dialogue: 0,0:06:48.18,0:06:51.08,Memory,,0,0,0,,Unable to seek solace, my\Nspirit possessed a Go board,
-Dialogue: 0,0:06:48.10,0:07:01.69,Note,,0,0,5,,[note: There is a small ocean south of Honshuu,\NJapan called the Setonaikai. He is referring to\Nthat ocean and an island within that ocean there]
-Dialogue: 0,0:06:51.93,0:06:55.14,Memory,,0,0,0,,and after a great length of time,
-Dialogue: 0,0:06:55.69,0:07:01.73,Memory,,0,0,0,,I heard the voice of a boy on an island within the sea of Seto.
+Dialogue: 0,0:06:48.14,0:06:51.06,Memory,,0,0,0,,Unable to seek solace, my\Nspirit possessed a Go board,
+Dialogue: 0,0:06:48.14,0:07:01.73,Note,,0,0,5,,[note: There is a small ocean south of Honshuu,\NJapan called the Setonaikai. He is referring to\Nthat ocean and an island within that ocean there]
+Dialogue: 0,0:06:51.89,0:06:55.10,Memory,,0,0,0,,and after a great length of time,
+Dialogue: 0,0:06:55.73,0:07:01.78,Memory,,0,0,0,,I heard the voice of a boy on an island within the sea of Seto.
 Dialogue: 0,0:07:03.69,0:07:05.86,Memory,,0,0,0,,His name was Tora-jirou.
 Dialogue: 0,0:07:08.16,0:07:12.90,Memory,,0,0,0,,If you can see the tears of grief that I shed...
 Dialogue: 0,0:07:13.70,0:07:17.63,Memory,,0,0,0,,please allow me to inhabit a corner of your heart.
@@ -330,9 +330,9 @@ Dialogue: 0,0:17:04.66,0:17:07.70,Sai,,0,0,0,,That white stone is yours. Take it
 Dialogue: 0,0:17:08.01,0:17:08.55,Default,,0,0,0,,Huh?
 Dialogue: 0,0:17:09.34,0:17:09.88,Background,,0,0,0,,This?
 Dialogue: 0,0:17:10.13,0:17:10.51,Sai,,0,0,0,,Yes.
-Dialogue: 0,0:17:19.05,0:17:20.28,Sai,,0,0,0,,19-15
-Dialogue: 0,0:17:24.76,0:17:26.10,Background,,0,0,0,,Is that okay? He took that stone.
-Dialogue: 0,0:17:26.76,0:17:28.00,Sai,,0,0,0,,18-4
+Dialogue: 0,0:17:19.02,0:17:20.31,Sai,,0,0,0,,19-15
+Dialogue: 0,0:17:24.65,0:17:26.10,Background,,0,0,0,,Is that okay? He took that stone.
+Dialogue: 0,0:17:26.69,0:17:28.03,Sai,,0,0,0,,18-14
 Dialogue: 0,0:17:30.71,0:17:31.94,Background,,0,0,0,,I can take this right?
 Dialogue: 0,0:17:32.25,0:17:32.65,Sai,,0,0,0,,Yes.
 Dialogue: 0,0:17:37.24,0:17:38.14,Background,,0,0,0,,What happened?
@@ -352,12 +352,12 @@ Dialogue: 0,0:18:21.50,0:18:22.30,Sai,,0,0,0,,4-13
 Dialogue: 0,0:18:29.04,0:18:30.10,Sai,,0,0,0,,8-5
 Dialogue: 0,0:18:31.24,0:18:32.47,Default,,0,0,0,,8-5...
 Dialogue: 0,0:18:32.71,0:18:33.61,Default,,0,0,0,,There it is.
-Dialogue: 0,0:18:36.70,0:18:37.30,Background,,0,0,0,,This...
-Dialogue: 0,0:18:38.39,0:18:40.39,Background,,0,0,0,,This is not the best move...
-Dialogue: 0,0:18:42.58,0:18:44.83,Default,,0,0,0,,or the strongest move...
-Dialogue: 0,0:18:46.48,0:18:49.80,Background,,0,0,0,,he's testing me to see how I would respond...
-Dialogue: 0,0:18:50.86,0:18:52.69,Default,,0,0,0,,he's measuring my strength...
-Dialogue: 0,0:18:53.46,0:18:55.70,Default,,0,0,0,,from a far higher position...
+Dialogue: 0,0:18:36.60,0:18:37.43,Background,,0,0,0,,This...
+Dialogue: 0,0:18:38.26,0:18:40.35,Background,,0,0,0,,This is not the best move...
+Dialogue: 0,0:18:42.58,0:18:44.77,Default,,0,0,0,,or the strongest move...
+Dialogue: 0,0:18:46.40,0:18:49.73,Background,,0,0,0,,he's testing me to see how I would respond...
+Dialogue: 0,0:18:50.73,0:18:52.49,Default,,0,0,0,,he's measuring my strength...
+Dialogue: 0,0:18:53.40,0:18:55.78,Default,,0,0,0,,from a far higher position...
 Dialogue: 0,0:18:59.26,0:19:00.01,Default,,0,0,0,,Cya later.
 Dialogue: 0,0:19:00.32,0:19:01.84,Default,,0,0,0,,Thanks!
 Dialogue: 0,0:19:02.13,0:19:03.44,Default,,0,0,0,,Oh your game's over.
@@ -374,21 +374,21 @@ Dialogue: 0,0:19:26.15,0:19:26.95,Default,,0,0,0,,Come again!
 Dialogue: 0,0:19:29.31,0:19:32.33,Default,,0,0,0,,It was 50 years to early for him\Nto go up against Akira, I guess.
 Dialogue: 0,0:19:32.94,0:19:34.00,Background,,0,0,0,,What?! You lost?!
 Dialogue: 0,0:19:34.19,0:19:35.34,Background,,0,0,0,,That can't be!
-Dialogue: 0,0:19:35.77,0:19:37.40,Background,,0,0,0,,Akira-kun lost?!
+Dialogue: 0,0:19:35.74,0:19:37.28,Background,,0,0,0,,Akira-kun lost?!
 Dialogue: 0,0:19:37.66,0:19:40.20,Background,,0,0,0,,But Akira-kun is just as strong as a pro though!
 Dialogue: 0,0:19:40.54,0:19:41.80,Background,,0,0,0,,You gave him a handicap right?
 Dialogue: 0,0:19:41.83,0:19:42.91,Background,,0,0,0,,What handicap did you give him?
-Dialogue: 0,0:19:42.83,0:19:48.83,Note,,0,0,5,,[note: Unlike with Chess, with go, black makes the first move.\NSince black is considered to have an advantage because of\Nthis, 5.5 moku is taken away from Black's final score, this 5.5\Nmoku is called komi. A moku is one intersection on the board.]
+Dialogue: 0,0:19:42.79,0:19:48.79,Note,,0,0,5,,[note: Unlike with Chess, with go, black makes the first move.\NSince black is considered to have an advantage because of\Nthis, 5.5 moku is taken away from Black's final score, this 5.5\Nmoku is called komi. A moku is one intersection on the board.]
 Dialogue: 0,0:19:42.91,0:19:44.12,Background,,0,0,0,,The other boy played black, and moved first.
 Dialogue: 0,0:19:44.12,0:19:45.08,Background,,0,0,0,,What was the result?
 Dialogue: 0,0:19:45.08,0:19:45.87,Background,,0,0,0,,He lost by 2 moku.
 Dialogue: 0,0:19:45.87,0:19:48.79,Background,,0,0,0,,If it's only 2 moku, he wins after taking away komi.
-Dialogue: 0,0:19:48.83,0:19:53.17,Note,,0,0,5,,Moku = one empty intersection on a Go board.\NKomi = 5.5 moku handicap that white receives\Nfor letting black play first.
+Dialogue: 0,0:19:48.79,0:19:53.13,Note,,0,0,5,,Moku = one empty intersection on a Go board.\NKomi = 5.5 moku handicap that white receives\Nfor letting black play first.
 Dialogue: 0,0:19:48.79,0:19:51.80,Default,,0,0,0,,It's not a matter of 2, 3 moku.
-Dialogue: 0,0:19:53.17,0:19:55.09,Background,,0,0,0,,H-hold on a second.
-Dialogue: 0,0:19:56.14,0:19:58.43,Default,,0,0,0,,Akira-kun did you really lose?
-Dialogue: 0,0:20:02.27,0:20:03.20,Background,,0,0,0,,Unbelievable...
-Dialogue: 0,0:20:04.08,0:20:08.00,Background,,0,0,0,,but he's never played anyone before.
+Dialogue: 0,0:19:53.13,0:19:55.05,Background,,0,0,0,,H-hold on a second.
+Dialogue: 0,0:19:56.09,0:19:58.43,Default,,0,0,0,,Akira-kun did you really lose?
+Dialogue: 0,0:20:02.18,0:20:03.20,Background,,0,0,0,,Unbelievable...
+Dialogue: 0,0:20:04.02,0:20:07.98,Background,,0,0,0,,but he's never played anyone before.
 Dialogue: 0,0:20:09.75,0:20:10.45,Default,,0,0,0,,Never...
 Dialogue: 0,0:20:10.96,0:20:11.96,Default,,0,0,0,,played...
 Dialogue: 0,0:20:12.75,0:20:13.65,Default,,0,0,0,,anyone...
