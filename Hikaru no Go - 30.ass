@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Active Line: 2
-Video Position: 225
+Video Zoom Percent: 0.875000
+Scroll Position: 177
+Active Line: 183
+Video Position: 29024
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,14 +64,14 @@ Dialogue: 0,0:02:49.69,0:02:51.38,Default,,0,0,0,,So Kadowaki is...
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,370,1,\fscx100)\blur0.8\pos(300,115)}The Thirtieth Match
 Dialogue: 0,0:02:52.07,0:02:57.07,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,370,1,\fscx100)\pos(325,365)}Ogata VS Honinbou
 Dialogue: 0,0:03:00.03,0:03:04.08,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\fscx99\frz345\move(427,494,352,214)}Japanese Go Institute
-Dialogue: 0,0:03:09.19,0:03:12.77,Default,,0,0,0,,Haven't been here since the\NMeijin match in college.
-Dialogue: 0,0:03:13.32,0:03:13.90,Default,,0,0,0,,Oh yeah...
-Dialogue: 0,0:03:16.62,0:03:21.47,Default,,0,0,0,,It's me. I'm at a place full of memories right now.
-Dialogue: 0,0:03:21.99,0:03:24.91,Default,,0,0,0,,The team match, we lost it thanks to you didn't we?
-Dialogue: 0,0:03:26.10,0:03:29.10,Default,,0,0,0,,I told you! I'm taking the pro exam.
+Dialogue: 0,0:03:09.17,0:03:12.77,Default,,0,0,0,,Haven't been here since the\NMeijin match in college.
+Dialogue: 0,0:03:13.30,0:03:13.90,Default,,0,0,0,,Oh yeah...
+Dialogue: 0,0:03:16.55,0:03:21.39,Default,,0,0,0,,It's me. I'm at a place full of memories right now.
+Dialogue: 0,0:03:21.93,0:03:24.77,Default,,0,0,0,,The team match, we lost it thanks to you didn't we?
+Dialogue: 0,0:03:26.06,0:03:29.10,Default,,0,0,0,,I told you! I'm taking the pro exam.
 Dialogue: 0,0:03:29.66,0:03:32.90,Default,,0,0,0,,Yes really. I have all the paperwork.
-Dialogue: 0,0:03:33.43,0:03:39.78,Default,,0,0,0,,Yeah! I'll be a pro player next year. If you want an\Nautograph, ask now while you still have a chance.
-Dialogue: 0,0:03:40.89,0:03:41.43,Default,,0,0,0,,Later.
+Dialogue: 0,0:03:33.36,0:03:39.70,Default,,0,0,0,,Yeah! I'll be a pro player next year. If you want an\Nautograph, ask now while you still have the chance.
+Dialogue: 0,0:03:40.83,0:03:41.43,Default,,0,0,0,,Later.
 Dialogue: 0,0:03:42.95,0:03:44.70,Background,,0,0,0,,Kadowaki's probably going to be tough.
 Dialogue: 0,0:03:46.11,0:03:48.22,Default,,0,0,0,,But is he really taking the pro exams?
 Dialogue: 0,0:03:48.72,0:03:50.66,Default,,0,0,0,,I heard on the net he might.
@@ -220,15 +221,15 @@ Dialogue: 0,0:19:39.28,0:19:40.70,Thinking,,0,0,0,,Only three of us can become p
 Dialogue: 0,0:19:41.91,0:19:43.81,Thinking,,0,0,0,,I won't lose!
 Dialogue: 0,0:19:46.25,0:19:50.87,Thinking,,0,0,0,,Shindou... we can't all pass it together...
 Dialogue: 0,0:20:04.55,0:20:06.56,Default,,0,0,0,,It's finally time!
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(125,0,125,187)}K\Ny\Nu\N\NR\Na\Nn\Nk\Ne\Nd\N\NP\Nl\Na\Ny\Ne\Nr\Ns\N\ND\Na\Ny\N\N2nd\N\NF\Nl\No\No\Nr
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(227,0,227,187)}P\Nu\Nb\Nl\Ni\Nc\N\NM\Na\Nt\Nc\Nh\N\NR\No\No\Nm\N\N2nd\N\NF\Nl\No\No\Nr
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(328,0,328,187)}P\Nr\No\N\NE\Nx\Na\Nm\Ni\Nn\Na\Nt\Ni\No\Nn\N\N6th\NF\Nl\No\No\Nr
-Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(461,0,461,187)}T\No\Nd\Na\Ny\N'\Ns\N\NE\Nv\Ne\Nn\Nt\Ns
-Dialogue: 0,0:20:16.50,0:20:17.98,Default,,0,0,0,,I'm finally here...
-Dialogue: 0,0:20:18.38,0:20:21.61,Sai,,0,0,0,,You're finally here? Your journey starts here.
-Dialogue: 0,0:20:22.04,0:20:23.36,Default,,0,0,0,,I know!
-Dialogue: 0,0:20:24.09,0:20:27.44,Default,,0,0,0,,But... I really am here...
-Dialogue: 0,0:20:28.59,0:20:31.81,Thinking,,0,0,0,,The first day of the Pro Exam Preliminaries!
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(125,-1,125,187)}K\Ny\Nu\N\NR\Na\Nn\Nk\Ne\Nd\N\NP\Nl\Na\Ny\Ne\Nr\Ns\N\ND\Na\Ny\N\N2nd\N\NF\Nl\No\No\Nr
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(227,-1,227,187)}P\Nu\Nb\Nl\Ni\Nc\N\NM\Na\Nt\Nc\Nh\N\NR\No\No\Nm\N\N2nd\N\NF\Nl\No\No\Nr
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(328,-1,328,187)}P\Nr\No\N\NE\Nx\Na\Nm\Ni\Nn\Na\Nt\Ni\No\Nn\N\N6th\NF\Nl\No\No\Nr
+Dialogue: 0,0:20:10.52,0:20:15.99,Note,,0,0,0,,{\fs17.5\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(461,-1,461,187)}T\No\Nd\Na\Ny\N'\Ns\N\NE\Nv\Ne\Nn\Nt\Ns
+Dialogue: 0,0:20:16.40,0:20:17.82,Default,,0,0,0,,I'm finally here...
+Dialogue: 0,0:20:18.32,0:20:21.53,Sai,,0,0,0,,You're finally here? Your journey starts here.
+Dialogue: 0,0:20:21.99,0:20:23.24,Default,,0,0,0,,I know!
+Dialogue: 0,0:20:23.99,0:20:27.16,Default,,0,0,0,,But... I really am here...
+Dialogue: 0,0:20:28.54,0:20:31.63,Thinking,,0,0,0,,The first day of the Pro Exam Preliminaries!
 Dialogue: 0,0:22:09.79,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(172,355)}Go
 Dialogue: 0,0:22:10.25,0:22:12.32,NoteArialEF,,0,0,0,,{\fs58\bord3\1c&H0E00DC&\3c&H3AFF00&\4c&HFFFFFF&\shad0\pos(298,355)}Go
 Dialogue: 0,0:22:10.66,0:22:12.32,Note,,0,0,0,,{\fs58\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(471,355)}Igo!
