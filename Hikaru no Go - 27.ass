@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
+Video Zoom Percent: 0.625000
 Scroll Position: 102
-Active Line: 116
-Video Position: 15376
+Active Line: 111
+Video Position: 15305
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -152,7 +152,7 @@ Dialogue: 0,0:10:21.77,0:10:24.06,Default,,0,0,0,,Now Mitani-kun's never going t
 Dialogue: 0,0:10:24.51,0:10:27.02,Default,,0,0,0,,Clean up the stones already and go home!
 Dialogue: 0,0:10:27.08,0:10:29.91,Default,,0,0,0,,I'm sorry! I won't come anymore!
 Dialogue: 0,0:10:29.91,0:10:32.42,Default,,0,0,0,,I get it! Stop it!
-Dialogue: 0,0:10:36.37,0:10:38.28,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(298,452,298,25)\iclip(95,436,500,480)}Come on to the Basketball Club!!
+Dialogue: 0,0:10:36.37,0:10:38.37,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\move(298,451,298,19)\iclip(95,436,500,480)}Come on to the Basketball Club!!
 Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\an4\fs16\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(169,242)}W\NE\N\NT\NE\NA\NC\NH\N\NY\NO\NU\N\NH\NO\NW\N\NT\NO\N\NP\NL\NA\NY\N
 Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\an4\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(296,216)}M\NE\NM\NB\NE\NR\NS\N!!
 Dialogue: 0,0:10:40.29,0:10:42.33,Note,,0,0,0,,{\fs19\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(416,56)}G\NO\N\NC\NL\NU\NB\N\NR\NE\NC\NR\NU\NI\NT\NI\NN\NG
