@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 493
-Active Line: 515
-Video Position: 519
+Scroll Position: 553
+Active Line: 564
+Video Position: 29783
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -560,22 +560,6 @@ Dialogue: 0,0:00:19.62,0:00:19.75,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\
 Dialogue: 0,0:00:19.75,0:00:19.96,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
 Dialogue: 0,0:00:19.96,0:00:21.58,special_title,,0,0,0,,{\bord2\fs86\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
 Dialogue: 0,0:00:21.58,0:00:28.01,special_title,,0,0,0,,{\fad(0,2900)\bord12\fs86\3c&HFFFFFF&\pos(319,382)\c&HFFFFFF&\t(25,434,\bord3\c&H2C00E9&)}Hikaru{\fscx112} {\fscx100}no Go
-Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
-Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
-Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
-Dialogue: 0,0:00:23.41,0:00:26.96,Op2Kanji,,0,0,0,,{\kf45}僕{\kf37}達{\kf78}は{\kf39}この{\kf67}時代{\kf89}に
-Dialogue: 0,0:00:26.96,0:00:30.46,Op2Kanji,,0,0,0,,{\kf45}どれ{\kf42}だけ{\kf37}の{\kf78}夢{\kf148}抱えて
-Dialogue: 0,0:00:30.57,0:00:33.81,Op2Kanji,,0,0,0,,{\kf49}涙{\kf89}して{\kf75}迷い{\kf111}ながら
-Dialogue: 0,0:00:33.81,0:00:37.28,Op2Kanji,,0,0,0,,{\kf50}それ{\kf22}に{\kf65}賭けて{\kf68}みてる{\kf142}の
-Dialogue: 0,0:00:37.56,0:00:44.64,Op2Kanji,,0,0,0,,{\kf93}僕{\kf128}は {\kf44}それ{\kf45}でも {\kf113}人{\kf23}に{\kf155}ひけとらぬ{\kf50}よう{\kf57}な
-Dialogue: 0,0:00:44.74,0:00:53.64,Op2Kanji,,0,0,0,,{\kf67}決{\kf88}め手{\kf21}{\kf65}見{\kf97}つけ{\kf20}{\kf85}夢{\kf67}を{\kf22}手{\kf17}に{\kf52}する{\kf22}だ{\kf267}ろう
-Dialogue: 0,0:00:53.64,0:00:57.19,Op2Kanji,,0,0,0,,{\kf81}この{\kf64}瞳{\kf70}君{\kf29}の{\kf22}瞳{\kf89}に
-Dialogue: 0,0:00:57.19,0:01:00.72,Op2Kanji,,0,0,0,,{\kf154}映る{\kf63}どんな{\kf46}モノ{\kf90}も
-Dialogue: 0,0:01:00.72,0:01:07.86,Op2Kanji,,0,0,0,,{\kf151}見極{\kf47}めて{\kf53}見せる{\kf99}よ {\kf185}真実{\kf179}だけ
-Dialogue: 0,0:01:07.86,0:01:11.23,Op2Kanji,,0,0,0,,{\kf150}たとえ{\kf114}現実{\kf73}が
-Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋もれそう{\kf111}でも
-Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
-Dialogue: 0,0:01:18.55,0:01:23.87,Op2Kanji,,0,0,0,,{\kf83}僕{\kf42}じゃ{\kf46}な{\kf361}い
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Romaji2,,0,0,0,,{\kf81}kono {\kf69}me {\kf71}kimi {\kf23}no {\kf22}me {\kf72}ni
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2Romaji2,,0,0,0,,{\kf7}{\kf82}utsu{\kf68}ru {\kf68}donna {\kf43}mono {\kf82}mo
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2Romaji2,,0,0,0,,{\kf12}{\kf85}miki{\kf66}wa{\kf47}mete {\kf55}miseru {\kf97}yo {\kf46}shi{\kf46}n{\kf36}ji{\kf51}tsu {\kf231}wo
@@ -592,6 +576,22 @@ Dialogue: 0,0:01:07.86,0:01:11.23,Op2Romaji2,,0,0,0,,{\kf150}tatoe {\kf114}genji
 Dialogue: 0,0:01:11.44,0:01:14.94,Op2Romaji2,,0,0,0,,{\kf149}kitsuku {\kf90}umoresou {\kf111}demo
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Romaji2,,0,0,0,,{\kf148}konna {\kf47}basho {\kf19}de {\kf128}owaru
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Romaji2,,0,0,0,,{\kf83}boku {\kf42}ja{\kf46}na{\kf361}i
+Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
+Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
+Dialogue: 0,0:00:23.41,0:00:26.96,Op2Kanji,,0,0,0,,{\kf45}僕{\kf37}達{\kf78}は{\kf39}この{\kf67}時代{\kf89}に
+Dialogue: 0,0:00:26.96,0:00:30.46,Op2Kanji,,0,0,0,,{\kf45}どれ{\kf42}だけ{\kf37}の{\kf78}夢{\kf148}抱えて
+Dialogue: 0,0:00:30.57,0:00:33.81,Op2Kanji,,0,0,0,,{\kf49}涙{\kf89}して{\kf75}迷い{\kf111}ながら
+Dialogue: 0,0:00:33.81,0:00:37.28,Op2Kanji,,0,0,0,,{\kf50}それ{\kf22}に{\kf65}賭けて{\kf68}みてる{\kf142}の
+Dialogue: 0,0:00:37.56,0:00:44.64,Op2Kanji,,0,0,0,,{\kf93}僕{\kf128}は {\kf44}それ{\kf45}でも {\kf113}人{\kf23}に{\kf155}ひけとらぬ{\kf50}よう{\kf57}な
+Dialogue: 0,0:00:44.74,0:00:53.64,Op2Kanji,,0,0,0,,{\kf67}決{\kf88}め手{\kf21}{\kf65}見{\kf97}つけ{\kf20}{\kf85}夢{\kf67}を{\kf22}手{\kf17}に{\kf52}する{\kf22}だ{\kf267}ろう
+Dialogue: 0,0:00:53.64,0:00:57.19,Op2Kanji,,0,0,0,,{\kf81}この{\kf64}瞳{\kf70}君{\kf29}の{\kf22}瞳{\kf89}に
+Dialogue: 0,0:00:57.19,0:01:00.72,Op2Kanji,,0,0,0,,{\kf154}映る{\kf63}どんな{\kf46}モノ{\kf90}も
+Dialogue: 0,0:01:00.72,0:01:07.86,Op2Kanji,,0,0,0,,{\kf151}見極{\kf47}めて{\kf53}見せる{\kf99}よ {\kf185}真実{\kf179}だけ
+Dialogue: 0,0:01:07.86,0:01:11.23,Op2Kanji,,0,0,0,,{\kf150}たとえ{\kf114}現実{\kf73}が
+Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋もれそう{\kf111}でも
+Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
+Dialogue: 0,0:01:18.55,0:01:23.87,Op2Kanji,,0,0,0,,{\kf83}僕{\kf42}じゃ{\kf46}な{\kf361}い
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2English2,,0,0,0,,On this eye, this eye on yours,
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear,
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2English2,,0,0,0,,I will tell apart the truth.
@@ -608,18 +608,6 @@ Dialogue: 0,0:01:07.86,0:01:11.23,Op2English2,,0,0,0,,Even if the truth is
 Dialogue: 0,0:01:11.44,0:01:14.94,Op2English2,,0,0,0,,so harsh it's suffocating.
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2English2,,0,0,0,,I'm not going to end
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2English2,,0,0,0,,in a place like this.
-Dialogue: 0,0:20:42.18,0:20:52.81,Ed4Kanji,,0,0,0,,{\kf62}つ{\kf79}ら{\kf101}い{\kf116}想い出{\kf38}と{\kf83}か{\kf66}{\kf68}い{\kf62}く{\kf107}つ{\kf80}あった{\kf38}の{\kf18}か{\kf115}な？{\kf29}
-Dialogue: 0,0:20:53.02,0:20:57.94,Ed4Kanji,,0,0,0,,{\kf66}ど{\kf68}ん{\kf102}な{\kf110}楽しい{\kf40}日{\kf107}を
-Dialogue: 0,0:20:58.07,0:21:03.66,Ed4Kanji,,0,0,0,,{\kf36}これ{\kf56}から{\kf45}は{\kf91}大切{\kf37}に{\kf41}して{\kf45}いく{\kf34}の{\kf19}か{\kf127}な？{\kf29}
-Dialogue: 0,0:21:03.78,0:21:14.29,Ed4Kanji,,0,0,0,,{\kf135}近{\kf100}く{\kf36}の{\kf119}公園{\kf99}で{\kf55}{\kf130}集{\kf133}ま{\kf31}った{\kf18}ね{\kf60}いつ{\kf137}も
-Dialogue: 0,0:21:14.54,0:21:19.30,Ed4Kanji,,0,0,0,,{\kf57}夜中{\kf49}まで{\kf66}大きな{\kf35}声{\kf47}出して{\kf123}笑ってた{\kf99}ね
-Dialogue: 0,0:21:19.30,0:21:24.60,Ed4Kanji,,0,0,0,,{\kf36}ず{\kf172}っと{\kf56}{\kf40}ず{\kf225}っと
-Dialogue: 0,0:21:25.72,0:21:31.02,Ed4Kanji,,0,0,0,,{\kf99}同じ{\kf53}時代{\kf28}を{\kf61}今{\kf25}{\kf66}生き{\kf68}てる{\kf67}奇跡{\kf63}が
-Dialogue: 0,0:21:31.02,0:21:35.65,Ed4Kanji,,0,0,0,,{\kf41}す{\kf67}ごく{\kf55}うれ{\kf76}しい{\kf72}から{\kf150}ね
-Dialogue: 0,0:21:36.07,0:21:41.07,Ed4Kanji,,0,0,0,,{\kf97}次{\kf113}あう{\kf31}{\kf36}日{\kf35}も{\kf83}きっと{\kf105}ねぇ
-Dialogue: 0,0:21:41.20,0:21:49.00,Ed4Kanji,,0,0,0,,{\kf23}一{\kf146}緒{\kf67}に{\kf69}笑{\kf100}って{\kf34}い{\kf128}よう{\kf212}よ
-Dialogue: 0,0:21:49.62,0:21:54.71,Ed4Kanji,,0,0,0,,{\kf120}今度{\kf85}は{\kf31}{\kf93}どんな{\kf58}夢{\kf120}を
-Dialogue: 0,0:21:54.71,0:22:03.68,Ed4Kanji,,0,0,0,,{\kf168}一緒{\kf66}に{\kf69}語り{\kf101}あ{\kf35}う{\kf95}の{\kf33}か{\kf240}な？{\kf89}
 Dialogue: 0,0:20:42.18,0:20:52.81,Ed4Romaji,,0,0,0,,{\kf62}tsu{\kf79}ra{\kf101}i {\kf116}omoide {\kf38}to{\kf83}ka{\kf66} {\kf68}i{\kf62}ku{\kf107}tsu {\kf80}atta {\kf38}no {\kf18}ka{\kf115}na?{\kf29}
 Dialogue: 0,0:20:53.02,0:20:57.94,Ed4Romaji,,0,0,0,,{\kf66}do{\kf68}n{\kf102}na {\kf110}tanoshii {\kf40}hi {\kf107}wo
 Dialogue: 0,0:20:58.07,0:21:03.66,Ed4Romaji,,0,0,0,,{\kf36}kore {\kf56}kara {\kf45}wa {\kf91}taisetsu {\kf37}ni {\kf41}shite {\kf45}iku {\kf34}no {\kf19}ka{\kf127}na?{\kf29}
@@ -632,6 +620,18 @@ Dialogue: 0,0:21:36.07,0:21:41.07,Ed4Romaji,,0,0,0,,{\kf97}tsugi {\kf113}au{\kf3
 Dialogue: 0,0:21:41.20,0:21:49.00,Ed4Romaji,,0,0,0,,{\kf23}i{\kf146}ssho {\kf67}ni {\kf69}wara{\kf100}tte {\kf34}i{\kf128}you {\kf212}yo
 Dialogue: 0,0:21:49.62,0:21:54.71,Ed4Romaji,,0,0,0,,{\kf120}kondo {\kf85}wa{\kf31} {\kf93}donna {\kf58}yume {\kf120}wo
 Dialogue: 0,0:21:54.71,0:22:03.68,Ed4Romaji,,0,0,0,,{\kf168}issho {\kf66}ni {\kf69}katari{\kf101}a{\kf35}u {\kf95}no {\kf33}ka{\kf240}na?{\kf89}
+Dialogue: 0,0:20:42.18,0:20:52.81,Ed4Kanji,,0,0,0,,{\kf62}つ{\kf79}ら{\kf101}い{\kf116}想い出{\kf38}と{\kf83}か{\kf66}{\kf68}い{\kf62}く{\kf107}つ{\kf80}あった{\kf38}の{\kf18}か{\kf115}な？{\kf29}
+Dialogue: 0,0:20:53.02,0:20:57.94,Ed4Kanji,,0,0,0,,{\kf66}ど{\kf68}ん{\kf102}な{\kf110}楽しい{\kf40}日{\kf107}を
+Dialogue: 0,0:20:58.07,0:21:03.66,Ed4Kanji,,0,0,0,,{\kf36}これ{\kf56}から{\kf45}は{\kf91}大切{\kf37}に{\kf41}して{\kf45}いく{\kf34}の{\kf19}か{\kf127}な？{\kf29}
+Dialogue: 0,0:21:03.78,0:21:14.29,Ed4Kanji,,0,0,0,,{\kf135}近{\kf100}く{\kf36}の{\kf119}公園{\kf99}で{\kf55}{\kf130}集{\kf133}ま{\kf31}った{\kf18}ね{\kf60}いつ{\kf137}も
+Dialogue: 0,0:21:14.54,0:21:19.30,Ed4Kanji,,0,0,0,,{\kf57}夜中{\kf49}まで{\kf66}大きな{\kf35}声{\kf47}出して{\kf123}笑ってた{\kf99}ね
+Dialogue: 0,0:21:19.30,0:21:24.60,Ed4Kanji,,0,0,0,,{\kf36}ず{\kf172}っと{\kf56}{\kf40}ず{\kf225}っと
+Dialogue: 0,0:21:25.72,0:21:31.02,Ed4Kanji,,0,0,0,,{\kf99}同じ{\kf53}時代{\kf28}を{\kf61}今{\kf25}{\kf66}生き{\kf68}てる{\kf67}奇跡{\kf63}が
+Dialogue: 0,0:21:31.02,0:21:35.65,Ed4Kanji,,0,0,0,,{\kf41}す{\kf67}ごく{\kf55}うれ{\kf76}しい{\kf72}から{\kf150}ね
+Dialogue: 0,0:21:36.07,0:21:41.07,Ed4Kanji,,0,0,0,,{\kf97}次{\kf113}あう{\kf31}{\kf36}日{\kf35}も{\kf83}きっと{\kf105}ねぇ
+Dialogue: 0,0:21:41.20,0:21:49.00,Ed4Kanji,,0,0,0,,{\kf23}一{\kf146}緒{\kf67}に{\kf69}笑{\kf100}って{\kf34}い{\kf128}よう{\kf212}よ
+Dialogue: 0,0:21:49.62,0:21:54.71,Ed4Kanji,,0,0,0,,{\kf120}今度{\kf85}は{\kf31}{\kf93}どんな{\kf58}夢{\kf120}を
+Dialogue: 0,0:21:54.71,0:22:03.68,Ed4Kanji,,0,0,0,,{\kf168}一緒{\kf66}に{\kf69}語り{\kf101}あ{\kf35}う{\kf95}の{\kf33}か{\kf240}な？{\kf89}
 Dialogue: 0,0:20:42.18,0:20:52.81,Ed4English,,0,0,0,,How many sad memories did we have?
 Dialogue: 0,0:20:53.02,0:20:57.94,Ed4English,,0,0,0,,What kind of happy days are we going to
 Dialogue: 0,0:20:58.07,0:21:03.66,Ed4English,,0,0,0,,hold onto preciously from now on?
