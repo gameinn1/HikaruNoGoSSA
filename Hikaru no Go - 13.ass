@@ -23,9 +23,9 @@ Video Position: 30292
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Op1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
-Style: Op1Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op1English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
+Style: Op1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,30,30,20,128
+Style: Op1Romaji,MS Gothic,30,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,30,30,20,1
+Style: Op1English,Courier New,30,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,30,30,20,1
 Style: Ed2Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
 Style: Ed2Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed2English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1

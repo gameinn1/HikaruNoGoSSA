@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 48 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 354
-Active Line: 379
-Video Position: 1884
+Scroll Position: 342
+Active Line: 359
+Video Position: 1456
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -394,16 +394,16 @@ Dialogue: 0,0:01:15.02,0:01:18.44,Op2Romaji2,,0,0,0,,{\kf148}konna {\kf47}basho 
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Romaji2,,0,0,0,,{\kf83}boku {\kf42}ja{\kf46}na{\kf361}i
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
-Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
+Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ{\kf179}真実{\kf231}を　
 Dialogue: 0,0:00:23.41,0:00:26.96,Op2Kanji,,0,0,0,,{\kf45}僕{\kf37}達{\kf78}は{\kf39}この{\kf67}時代{\kf89}に
 Dialogue: 0,0:00:26.96,0:00:30.46,Op2Kanji,,0,0,0,,{\kf45}どれ{\kf42}だけ{\kf37}の{\kf78}夢{\kf148}抱えて
 Dialogue: 0,0:00:30.57,0:00:33.81,Op2Kanji,,0,0,0,,{\kf49}涙{\kf89}して{\kf75}迷い{\kf111}ながら
 Dialogue: 0,0:00:33.81,0:00:37.28,Op2Kanji,,0,0,0,,{\kf50}それ{\kf22}に{\kf65}賭けて{\kf68}みてる{\kf142}の
-Dialogue: 0,0:00:37.56,0:00:44.64,Op2Kanji,,0,0,0,,{\kf93}僕{\kf128}は {\kf44}それ{\kf45}でも {\kf113}人{\kf23}に{\kf155}ひけとらぬ{\kf50}よう{\kf57}な
+Dialogue: 0,0:00:37.56,0:00:44.64,Op2Kanji,,0,0,0,,{\kf93}僕{\kf128}は{\kf44}それ{\kf45}でも{\kf113}人{\kf23}に{\kf155}ひけとらぬ{\kf50}よう{\kf57}な
 Dialogue: 0,0:00:44.74,0:00:53.64,Op2Kanji,,0,0,0,,{\kf67}決{\kf88}め手{\kf21}{\kf65}見{\kf97}つけ{\kf20}{\kf85}夢{\kf67}を{\kf22}手{\kf17}に{\kf52}する{\kf22}だ{\kf267}ろう
 Dialogue: 0,0:00:53.64,0:00:57.19,Op2Kanji,,0,0,0,,{\kf81}この{\kf64}瞳{\kf70}君{\kf29}の{\kf22}瞳{\kf89}に
 Dialogue: 0,0:00:57.19,0:01:00.72,Op2Kanji,,0,0,0,,{\kf154}映る{\kf63}どんな{\kf46}モノ{\kf90}も
-Dialogue: 0,0:01:00.72,0:01:07.86,Op2Kanji,,0,0,0,,{\kf151}見極{\kf47}めて{\kf53}見せる{\kf99}よ {\kf185}真実{\kf179}だけ
+Dialogue: 0,0:01:00.72,0:01:07.86,Op2Kanji,,0,0,0,,{\kf151}見極{\kf47}めて{\kf53}見せる{\kf99}よ{\kf185}真実{\kf179}だけ
 Dialogue: 0,0:01:07.86,0:01:11.23,Op2Kanji,,0,0,0,,{\kf150}たとえ{\kf114}現実{\kf73}が
 Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋もれそう{\kf111}でも
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
