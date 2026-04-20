@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 354
-Active Line: 358
-Video Position: 29784
+Scroll Position: 309
+Active Line: 332
+Video Position: 2173
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -348,31 +348,31 @@ Dialogue: 0,0:23:10.16,0:23:12.20,Sai,,0,0,0,,he doesn't seem like someone\Nyou 
 Dialogue: 0,0:23:22.88,0:23:26.51,Default,,0,0,0,,Hey, don't get too elated.
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2.5\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
-Dialogue: 0,0:00:13.00,0:00:16.71,Op1Romaji,,0,0,0,,{\kf20}Kimi {\kf45}ga {\kf106}ima{\kf23} {\kf25}boku {\kf31}wo {\kf56}sasae{\kf65}te
-Dialogue: 0,0:00:16.98,0:00:20.71,Op1Romaji,,0,0,0,,{\kf22}boku {\kf42}ga {\kf57}i{\kf61}ma{\kf14} {\kf24}kimi {\kf32}wo {\kf43}sasa{\kf78}eru
+Dialogue: 0,0:00:13.00,0:00:16.71,Op1Romaji,,0,0,0,,{\kf20}Kimi {\kf45}ga {\kf106}ima{\kf23} {\kf25}boku {\kf31}wo {\kf56}sasae{\kf65}te!
+Dialogue: 0,0:00:16.98,0:00:20.71,Op1Romaji,,0,0,0,,{\kf22}Boku {\kf42}ga {\kf57}i{\kf61}ma{\kf14} {\kf24}kimi {\kf32}wo {\kf43}sasa{\kf78}eru!
 Dialogue: 0,0:00:20.85,0:00:26.73,Op1Romaji,,0,0,0,,{\kf33}Dakara {\kf151}Mayoi{\kf25} {\kf58}nagara {\kf17}mo {\kf37}tomo {\kf36}ni {\kf75}ikite {\kf78}ikou {\kf78}yo
-Dialogue: 0,0:00:26.94,0:00:29.41,Op1Romaji,,0,0,0,,{\kf51}Mirai {\kf13}e {\kf183}to...
+Dialogue: 0,0:00:26.94,0:00:29.41,Op1Romaji,,0,0,0,,{\kf51}mirai {\kf13}e {\kf183}to...
 Dialogue: 0,0:00:36.95,0:00:40.67,Op1Romaji,,0,0,0,,{\kf36}Nakama {\kf23}to {\kf54}tawamau{\kf81}re {\kf78}sorenaride {\kf100}itemo
 Dialogue: 0,0:00:40.96,0:00:44.77,Op1Romaji,,0,0,0,,{\kf23}mono {\kf38}tari {\kf11}na {\kf23}sa {\kf15}wo {\kf101}kanjite {\kf170}shimau
 Dialogue: 0,0:00:44.89,0:00:46.70,Op1Romaji,,0,0,0,,{\kf43}Sameta {\kf13}me {\kf11}de {\kf54}mirare{\kf60}te
 Dialogue: 0,0:00:46.99,0:00:51.90,Op1Romaji,,0,0,0,,{\kf55}Kawaita {\kf65}jidai {\kf24}no {\kf54}kaze {\kf23}ni {\kf98}fuka{\kf70}rete{\kf102}iru
 Dialogue: 0,0:00:52.38,0:00:56.60,Op1Romaji,,0,0,0,,{\kf78}Fuan {\kf54}na,{\kf51} {\kf73}kokoro {\kf48}to {\kf103}yuuki {\kf15}ga
 Dialogue: 0,0:00:56.60,0:01:00.25,Op1Romaji,,0,0,0,,{\kf109}senaka {\kf75}awase {\kf26}ni {\kf72}na{\kf83}tteiru
-Dialogue: 0,0:01:00.94,0:01:08.94,Op1Romaji,,0,0,0,,{\kf100}dakedo {\kf76}ima {\kf75}nara {\kf49}yume {\kf50}wo, {\kf50}kono {\kf50}te {\kf25}de {\kf101}kanaete {\kf13}mi{\kf61}se{\kf21}ru {\kf129}yo
+Dialogue: 0,0:01:00.94,0:01:08.94,Op1Romaji,,0,0,0,,{\kf100}dakedo {\kf76}ima {\kf75}nara {\kf49}yume {\kf50}wo, {\kf50}kono\N{\kf50}te {\kf25}de {\kf101}kanaete {\kf13}mi{\kf61}se{\kf21}ru {\kf129}yo
 Dialogue: 0,0:01:10.99,0:01:14.71,Op1Romaji,,0,0,0,,{\kf64}Kizutsu{\kf101}ite{\kf32} {\kf59}koware {\kf15}sou {\kf22}na {\kf14}hi {\kf65}mo
-Dialogue: 0,0:01:14.95,0:01:18.69,Op1Romaji,,0,0,0,,{\kf64}Namida{\kf111}shite{\kf25} {\kf96}komaraseru {\kf15}hi {\kf63}mo
-Dialogue: 0,0:01:18.94,0:01:22.42,Op1Romaji,,0,0,0,,{\kf26}aru {\kf149}keredo{\kf26} {\kf61}bokura {\kf9}wa {\kf41}sore {\kf36}wo
+Dialogue: 0,0:01:14.95,0:01:18.69,Op1Romaji,,0,0,0,,{\kf64}namida {\kf111}shite{\kf25} {\kf96}komaraseru {\kf15}hi {\kf63}mo
+Dialogue: 0,0:01:18.94,0:01:22.42,Op1Romaji,,0,0,0,,{\kf26}aru {\kf149}keredo,{\kf26} {\kf61}bokura {\kf9}wa {\kf41}sore {\kf36}wo
 Dialogue: 0,0:01:22.42,0:01:27.94,Op1Romaji,,0,0,0,,{\kf77}koete {\kf151}ikunda{\kf25} {\kf46}dare {\kf226}yori...{\kf27}
 Dialogue: 0,0:01:27.94,0:01:29.66,Op1Romaji,,0,0,0,,{\kf25}ue {\kf25}wo {\kf24}me{\kf40}zashi{\kf58}te!
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Kanji,,0,0,0,,{\kf20}君{\kf45}が{\kf106}今{\kf23}{\kf25}僕{\kf31}を{\kf56}支え{\kf65}て
 Dialogue: 0,0:00:16.98,0:00:20.71,Op1Kanji,,0,0,0,,{\kf22}僕{\kf42}が{\kf118}今{\kf14}{\kf24}君{\kf32}を{\kf43}支{\kf78}える
 Dialogue: 0,0:00:20.85,0:00:26.73,Op1Kanji,,0,0,0,,{\kf33}だから{\kf151}迷い{\kf25}{\kf58}ながら{\kf17}も{\kf37}共{\kf36}に{\kf75}生きて{\kf78}いこう{\kf78}よ
 Dialogue: 0,0:00:26.94,0:00:29.41,Op1Kanji,,0,0,0,,{\kf51}未来{\kf13}へ{\kf183}と
-Dialogue: 0,0:00:36.95,0:00:40.67,Op1Kanji,,0,0,0,,{\kf36}仲間{\kf23}と{\kf54}戯{\kf81}れ　{\kf78}それなりで{\kf100}居ても
+Dialogue: 0,0:00:36.95,0:00:40.67,Op1Kanji,,0,0,0,,{\kf36}仲間{\kf23}と{\kf54}戯{\kf81}れ{\kf78}それなりで{\kf100}居ても
 Dialogue: 0,0:00:40.96,0:00:44.77,Op1Kanji,,0,0,0,,{\kf23}もの{\kf38}足り{\kf11}な{\kf23}さ{\kf15}を{\kf101}感じて{\kf170}しまう
 Dialogue: 0,0:00:44.89,0:00:46.70,Op1Kanji,,0,0,0,,{\kf43}冷めた{\kf13}目{\kf11}で{\kf54}見られ{\kf60}て
 Dialogue: 0,0:00:46.99,0:00:51.90,Op1Kanji,,0,0,0,,{\kf55}乾いた{\kf65}時代{\kf24}の{\kf54}風{\kf23}に{\kf98}吹か{\kf70}れて{\kf102}いる
-Dialogue: 0,0:00:52.38,0:00:56.60,Op1Kanji,,0,0,0,,{\kf78}不安{\kf54}な{\kf51} {\kf73}心{\kf48}と{\kf103}勇気{\kf15}が
+Dialogue: 0,0:00:52.38,0:00:56.60,Op1Kanji,,0,0,0,,{\kf78}不安{\kf54}な{\kf51}{\kf73}心{\kf48}と{\kf103}勇気{\kf15}が
 Dialogue: 0,0:00:56.60,0:01:00.25,Op1Kanji,,0,0,0,,{\kf109}背中{\kf75}合わせ{\kf26}に{\kf72}な{\kf83}っている
 Dialogue: 0,0:01:00.94,0:01:08.94,Op1Kanji,,0,0,0,,{\kf100}だけど{\kf76}今{\kf75}なら{\kf49}夢{\kf50}を{\kf50}この{\kf50}手{\kf25}で{\kf101}叶えて{\kf13}み{\kf61}せ{\kf21}る{\kf129}よ
 Dialogue: 0,0:01:10.99,0:01:14.71,Op1Kanji,,0,0,0,,{\kf64}傷つ{\kf101}いて{\kf32}{\kf59}壊れ{\kf15}そう{\kf22}な{\kf14}日{\kf65}も
@@ -383,13 +383,13 @@ Dialogue: 0,0:01:27.94,0:01:29.66,Op1Kanji,,0,0,0,,{\kf25}上{\kf25}を{\kf24}�
 Dialogue: 0,0:00:13.00,0:00:14.87,Op1English,,0,0,0,,Now you are,
 Dialogue: 0,0:00:14.87,0:00:16.71,Op1English,,0,0,0,,holding me up strong!
 Dialogue: 0,0:00:16.98,0:00:18.87,Op1English,,0,0,0,,Now I am,
-Dialogue: 0,0:00:18.87,0:00:20.71,Op1English,,0,0,0,,holding you up as well!
-Dialogue: 0,0:00:20.85,0:00:26.73,Op1English,,0,0,0,,So let us now, while wandering live together
+Dialogue: 0,0:00:18.87,0:00:20.71,Op1English,,0,0,0,,holding you as well!
+Dialogue: 0,0:00:20.85,0:00:26.73,Op1English,,0,0,0,,So let us now while wandering,\Nlive together
 Dialogue: 0,0:00:26.94,0:00:29.41,Op1English,,0,0,0,,towards the future
 Dialogue: 0,0:00:36.95,0:00:40.67,Op1English,,0,0,0,,Even when I'm capricing with my friends,
 Dialogue: 0,0:00:40.96,0:00:44.77,Op1English,,0,0,0,,I feel an emptiness in my heart.
 Dialogue: 0,0:00:44.89,0:00:46.70,Op1English,,0,0,0,,Looked at with cold eyes,
-Dialogue: 0,0:00:46.99,0:00:51.90,Op1English,,0,0,0,,I'm blown by the wind of a dry age
+Dialogue: 0,0:00:46.99,0:00:51.90,Op1English,,0,0,0,,I'm blown by the winds of a dry age
 Dialogue: 0,0:00:52.38,0:00:56.60,Op1English,,0,0,0,,Feelings of doubt and courage
 Dialogue: 0,0:00:56.60,0:01:00.25,Op1English,,0,0,0,,are back to back
 Dialogue: 0,0:01:00.94,0:01:08.94,Op1English,,0,0,0,,but I'll make these dreams come true now with my own hands.
