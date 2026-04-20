@@ -16,16 +16,16 @@ Audio File: [Moozzi2] Hikaru no Go - 40 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 40 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 282
-Active Line: 287
-Video Position: 29941
+Video Zoom Percent: 0.625000
+Scroll Position: 228
+Active Line: 239
+Video Position: 8
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Op2Kanji,MS Gothic,22,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2Romaji2,Pristina,40,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English2,Pristina,40,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
+Style: Op2Kanji,MS Gothic,22.5,&H00EAECEE,&H00919294,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: Op2Romaji2,Pristina,44,&H00EAECEE,&H00919294,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: Op2English2,Pristina,44,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,20,1
 Style: Ed3Kanji,MS Gothic,30,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed3Romaji2,Pristina,40,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed3English2,Pristina,40,&H0089D6F3,&H0080FFFF,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
@@ -281,6 +281,7 @@ Dialogue: 0,0:00:19.62,0:00:20.04,special_title,,0,0,0,,{\fad(189,0)\bord3\fs87\
 Dialogue: 0,0:00:20.04,0:00:21.63,special_title,,0,0,0,,{\bord3\fs87\3c&HFFFFFF&\c&H2B00E8&\move(325,382,233,382,1309,1521)}Hikaru
 Dialogue: 0,0:00:21.46,0:00:21.63,special_title,,0,0,0,,{\bord3\fs87\3c&HFFFFFF&\c&H2B00E8&\move(522.31,479.67,453.65,382.4,18,146)}no Go
 Dialogue: 0,0:00:21.63,0:00:28.05,special_title,,0,0,0,,{\fad(0,2942)\bord19\fs87.5\pos(320,382)\3c&HFFFFFF&\c&HFFFFFF&\t(30,434,1,\bord5\c&H2B00E8&)}Hikaru no Go
+Comment: 0,0:00:00.32,0:00:03.70,Op2Romaji2,,0,0,0,,Pretty sure this episode is bolded but every other isn't (update: also 53 and 58).
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Romaji2,,0,0,0,,{\kf81}kono {\kf69}me {\kf71}kimi {\kf23}no {\kf22}me {\kf72}ni
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2Romaji2,,0,0,0,,{\kf7}{\kf82}utsu{\kf68}ru {\kf68}donna {\kf43}mono {\kf82}mo
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2Romaji2,,0,0,0,,{\kf12}{\kf85}miki{\kf66}wa{\kf47}mete {\kf55}miseru {\kf97}yo {\kf46}shi{\kf46}n{\kf36}ji{\kf51}tsu {\kf231}wo
@@ -314,15 +315,15 @@ Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋�
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Kanji,,0,0,0,,{\kf83}僕{\kf42}じゃ{\kf46}な{\kf361}い
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2English2,,0,0,0,,On this eye, this eye on yours,
-Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear,
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear.
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2English2,,0,0,0,,I will tell apart the truth.
 Dialogue: 0,0:00:23.41,0:00:26.96,Op2English2,,0,0,0,,We had so many dreams
-Dialogue: 0,0:00:26.96,0:00:30.46,Op2English2,,0,0,0,,In this time we live in.
+Dialogue: 0,0:00:26.96,0:00:30.46,Op2English2,,0,0,0,,in this time we live in.
 Dialogue: 0,0:00:30.57,0:00:33.81,Op2English2,,0,0,0,,We stare at it and run towards it,
 Dialogue: 0,0:00:33.81,0:00:37.28,Op2English2,,0,0,0,,even as we wander about crying.
 Dialogue: 0,0:00:37.56,0:00:44.64,Op2English2,,0,0,0,,Even then, I will find a deciding move.
-Dialogue: 0,0:00:44.74,0:00:53.64,Op2English2,,0,0,0,,just as good as anyone else's, and take hold of my dreams.
-Dialogue: 0,0:00:53.64,0:00:57.19,Op2English2,,0,0,0,,On this eye, this eye on yours,
+Dialogue: 0,0:00:44.74,0:00:53.64,Op2English2,,0,0,0,,just as good as anyone else's, and\Ntake ahold of my dreams.
+Dialogue: 0,0:00:53.64,0:00:57.19,Op2English2,,0,0,0,,On this eye, this eye of yours,
 Dialogue: 0,0:00:57.19,0:01:00.72,Op2English2,,0,0,0,,everything will appear.
 Dialogue: 0,0:01:00.72,0:01:07.86,Op2English2,,0,0,0,,I'll tell apart, just the truth.
 Dialogue: 0,0:01:07.86,0:01:11.23,Op2English2,,0,0,0,,Even if the truth is

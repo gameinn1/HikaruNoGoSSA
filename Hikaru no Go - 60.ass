@@ -17,15 +17,15 @@ Video File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 357
-Active Line: 378
-Video Position: 30828
+Scroll Position: 336
+Active Line: 354
+Video Position: 1372
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Op2Kanji,MS Gothic,22,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2Romaji2,Pristina,40,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English2,Pristina,40,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
+Style: Op2Kanji,MS Gothic,22.5,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,8,30,30,20,1
+Style: Op2Romaji2,Pristina,44,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,8,30,30,20,1
+Style: Op2English2,Pristina,44,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,2,0,0,20,1
 Style: Ed4Kanji,MS Gothic,22,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed4Romaji,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
@@ -389,15 +389,15 @@ Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋�
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Kanji,,0,0,0,,{\kf83}僕{\kf42}じゃ{\kf46}な{\kf361}い
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2English2,,0,0,0,,On this eye, this eye on yours,
-Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear,
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear.
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2English2,,0,0,0,,I will tell apart the truth.
-Dialogue: 0,0:00:23.41,0:00:26.96,Op2English2,,0,0,0,,We had so many dreams
-Dialogue: 0,0:00:26.96,0:00:30.46,Op2English2,,0,0,0,,In this time we live in.
-Dialogue: 0,0:00:30.57,0:00:33.81,Op2English2,,0,0,0,,We stare at it and run towards it,
-Dialogue: 0,0:00:33.81,0:00:37.28,Op2English2,,0,0,0,,even as we wander about crying.
-Dialogue: 0,0:00:37.56,0:00:44.64,Op2English2,,0,0,0,,Even then, I will find a deciding move.
+Dialogue: 0,0:00:23.41,0:00:26.96,Op2English2,,0,0,0,,How many dreams did we carry with us,
+Dialogue: 0,0:00:26.96,0:00:30.46,Op2English2,,0,0,0,,through this day and age?
+Dialogue: 0,0:00:30.57,0:00:33.81,Op2English2,,0,0,0,,We gave them all a try, even as we cried
+Dialogue: 0,0:00:33.81,0:00:37.28,Op2English2,,0,0,0,,wandering around so very lost.
+Dialogue: 0,0:00:37.56,0:00:44.64,Op2English2,,0,0,0,,Even then, I will find a deciding move,
 Dialogue: 0,0:00:44.74,0:00:53.64,Op2English2,,0,0,0,,just as good as anyone else's, and take hold of my dreams.
-Dialogue: 0,0:00:53.64,0:00:57.19,Op2English2,,0,0,0,,On this eye, this eye on yours,
+Dialogue: 0,0:00:53.64,0:00:57.19,Op2English2,,0,0,0,,On this eye, this eye of yours,
 Dialogue: 0,0:00:57.19,0:01:00.72,Op2English2,,0,0,0,,everything will appear.
 Dialogue: 0,0:01:00.72,0:01:07.86,Op2English2,,0,0,0,,I'll tell apart, just the truth.
 Dialogue: 0,0:01:07.86,0:01:11.23,Op2English2,,0,0,0,,Even if the truth is

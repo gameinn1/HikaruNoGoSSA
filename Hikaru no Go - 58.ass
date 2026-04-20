@@ -16,16 +16,16 @@ Audio File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 464
-Active Line: 486
-Video Position: 30301
+Video Zoom Percent: 0.625000
+Scroll Position: 431
+Active Line: 439
+Video Position: 1799
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Op2Kanji,MS Gothic,22,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2Romaji2,Pristina,40,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English2,Pristina,40,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
+Style: Op2Kanji,MS Gothic,22.5,&H00EAECEE,&H00919294,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: Op2Romaji2,Pristina,44,&H00EAECEE,&H00919294,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: Op2English2,Pristina,44,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,20,1
 Style: Ed4Kanji,MS Gothic,22,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed4Romaji,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
@@ -39,7 +39,7 @@ Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,1
 Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
 Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0,0,1,0,1,7,56,56,14,1
 
 [Events]
@@ -453,20 +453,22 @@ Dialogue: 0,0:23:06.06,0:23:06.86,Default,,0,0,0,,Why!?
 Dialogue: 0,0:23:07.25,0:23:08.92,Default,,0,0,0,,No fair! It's too early!
 Dialogue: 0,0:23:09.07,0:23:12.33,Default,,0,0,0,,I haven't taken a title from Touya Meijin yet!
 Dialogue: 0,0:23:22.59,0:23:26.76,Background,,0,0,0,,What a self-centered man you are, Touya Kouyou.
+Comment: 0,0:00:15.91,0:00:28.01,intro_credit,,0,0,0,,This also set to bord3 in style
 Dialogue: 0,0:00:15.91,0:00:28.01,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\pos(325,125)\t(0,140,1,\alpha&HE0&)\t(140,141,1,\alpha&H00&)}Real-Fansubbers
 Dialogue: 0,0:00:17.62,0:00:28.01,intro_credit,,0,0,0,,{\fad(0,2900)\c&HE0E1E5&\3c&H000000&\alpha&HFF&\t(0,400,1,\alpha&H80&)\t(430,431,1,\alpha&H00&)\pos(325,150)}Presents
 Dialogue: 0,0:00:17.96,0:00:18.04,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,71,324,120,16,58)}----- ---- ---- --- - - --
 Dialogue: 0,0:00:17.79,0:00:18.04,intro_credit,,0,0,0,,{\fs28\blur0.6\an5\bord0\fsp-2\c&H000000&\fscx60\move(324,452,324,150,19,208)}----- ----- ---- --- -- --
 Dialogue: 0,0:00:15.87,0:00:16.20,intro_credit,,0,0,0,,{\fs28\blur0.6\an1\bord0\fsp-2\c&H000000&\fscx60\move(552,137,-27.67,137,20,312)}------- -------- -- -- --- - --- --- ---- ---- ---
 Dialogue: 0,0:00:15.87,0:00:16.20,intro_credit,,0,0,0,,{\fs28\blur0.6\an1\bord0\fsp-2\c&H000000&\fscx60\move(-96,137,484.29,137,20,312)}------- -------- -- -- --- - --- --- ---- ---- ---
-Dialogue: 0,0:00:19.33,0:00:19.75,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\pos(219,382)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.33,0:00:19.75,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(219,85,219,381.51,22,320)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.54,0:00:19.96,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(-71,382,215.61,382,21,308)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.67,0:00:19.96,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(482,382,216,382,16,283)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.62,0:00:19.75,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\move(219,488,219,403.99,24,108)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.75,0:00:19.96,special_title,,0,0,0,,{\bord2\fs86\alpha&H80&\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:19.96,0:00:21.58,special_title,,0,0,0,,{\bord2\fs86\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
-Dialogue: 0,0:00:21.58,0:00:28.01,special_title,,0,0,0,,{\fad(0,2900)\bord12\fs86\3c&HFFFFFF&\pos(319,382)\c&HFFFFFF&\t(25,434,\bord3\c&H2C00E9&)}Hikaru{\fscx112} {\fscx100}no Go
+Dialogue: 0,0:00:19.33,0:00:19.75,special_title,,0,0,0,,{\bord3\fs86\alpha&H80&\3c&HFFFFFF&\pos(219,382)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.33,0:00:19.75,special_title,,0,0,0,,{\bord3\fs86\alpha&H80&\3c&HFFFFFF&\move(219,85,219,381.51,22,320)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.54,0:00:19.96,special_title,,0,0,0,,{\bord3\fs86\alpha&H80&\3c&HFFFFFF&\move(-71,382,215.61,382,21,308)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.67,0:00:19.96,special_title,,0,0,0,,{\bord3\fs86\alpha&H80&\3c&HFFFFFF&\move(482,382,216,382,16,283)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.62,0:00:19.75,special_title,,0,0,0,,{\bord3\fs86\alpha&H80&\3c&HFFFFFF&\move(219,488,219,403.99,24,108)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.75,0:00:19.96,special_title,,0,0,0,,{\bord3\fs86\alpha&H80&\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
+Dialogue: 0,0:00:19.96,0:00:21.58,special_title,,0,0,0,,{\bord3\fs86\3c&HFFFFFF&\pos(216,382)\c&H2C00E9&}Hikaru
+Comment: 0,0:00:21.58,0:00:28.01,special_title,,0,0,0,,Changed this to bord19 and bord5
+Dialogue: 0,0:00:21.58,0:00:28.01,special_title,,0,0,0,,{\fad(0,2900)\bord19\fs86\3c&HFFFFFF&\pos(319,382)\c&HFFFFFF&\t(25,434,\bord5\c&H2C00E9&)}Hikaru{\fscx112} {\fscx100}no Go
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Romaji2,,0,0,0,,{\kf81}kono {\kf69}me {\kf71}kimi {\kf23}no {\kf22}me {\kf72}ni
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2Romaji2,,0,0,0,,{\kf7}{\kf82}utsu{\kf68}ru {\kf68}donna {\kf43}mono {\kf82}mo
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2Romaji2,,0,0,0,,{\kf12}{\kf85}miki{\kf66}wa{\kf47}mete {\kf55}miseru {\kf97}yo {\kf46}shi{\kf46}n{\kf36}ji{\kf51}tsu {\kf231}wo
@@ -500,13 +502,13 @@ Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋�
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Kanji,,0,0,0,,{\kf83}僕{\kf42}じゃ{\kf46}な{\kf361}い
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2English2,,0,0,0,,On this eye, this eye on yours,
-Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear,
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear.
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2English2,,0,0,0,,I will tell apart the truth.
-Dialogue: 0,0:00:23.41,0:00:26.96,Op2English2,,0,0,0,,We had so many dreams
-Dialogue: 0,0:00:26.96,0:00:30.46,Op2English2,,0,0,0,,In this time we live in.
-Dialogue: 0,0:00:30.57,0:00:33.81,Op2English2,,0,0,0,,We stare at it and run towards it,
-Dialogue: 0,0:00:33.81,0:00:37.28,Op2English2,,0,0,0,,even as we wander about crying.
-Dialogue: 0,0:00:37.56,0:00:44.64,Op2English2,,0,0,0,,Even then, I will find a deciding move.
+Dialogue: 0,0:00:23.41,0:00:26.96,Op2English2,,0,0,0,,How many dreams did we carry with us,
+Dialogue: 0,0:00:26.96,0:00:30.46,Op2English2,,0,0,0,,through this day and age?
+Dialogue: 0,0:00:30.57,0:00:33.81,Op2English2,,0,0,0,,We gave them all a try, even as we cried
+Dialogue: 0,0:00:33.81,0:00:37.28,Op2English2,,0,0,0,,wandering around so very lost.
+Dialogue: 0,0:00:37.56,0:00:44.64,Op2English2,,0,0,0,,Even then, I will find a deciding move,
 Dialogue: 0,0:00:44.74,0:00:53.64,Op2English2,,0,0,0,,just as good as anyone else's, and take hold of my dreams.
 Dialogue: 0,0:00:53.64,0:00:57.19,Op2English2,,0,0,0,,On this eye, this eye on yours,
 Dialogue: 0,0:00:57.19,0:01:00.72,Op2English2,,0,0,0,,everything will appear.

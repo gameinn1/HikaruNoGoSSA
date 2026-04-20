@@ -17,15 +17,15 @@ Video File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 397
-Active Line: 405
-Video Position: 29784
+Scroll Position: 383
+Active Line: 403
+Video Position: 1799
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Op2Kanji,MS Gothic,22,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2Romaji,Wordy Diva,36,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Op2English,Wordy Diva,36,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
+Style: Op2Kanji,MS Gothic,22.5,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: Op2Romaji,Wordy Diva,37.5,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: Op2English,Wordy Diva,37.5,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,30,30,20,1
 Style: Ed3Kanji,MS Gothic,30,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed3Romaji,Palatino Linotype,34,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
 Style: Ed3English,Palatino Linotype,34,&H00A7C6FA,&H0080FFFF,&H00082E51,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
@@ -432,21 +432,21 @@ Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋�
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Kanji,,0,0,0,,{\kf83}僕{\kf42}じゃ{\kf46}な{\kf361}い
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2English,,0,0,0,,On this eye, this eye on yours,
-Dialogue: 0,0:00:03.83,0:00:07.33,Op2English,,0,0,0,,everything will appear,
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2English,,0,0,0,,everything will appear.
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2English,,0,0,0,,I will tell apart the truth.
 Dialogue: 0,0:00:23.41,0:00:26.96,Op2English,,0,0,0,,We had so many dreams
-Dialogue: 0,0:00:26.96,0:00:30.46,Op2English,,0,0,0,,In this time we live in.
+Dialogue: 0,0:00:26.96,0:00:30.46,Op2English,,0,0,0,,in this time we live in.
 Dialogue: 0,0:00:30.57,0:00:33.81,Op2English,,0,0,0,,We stare at it and run towards it,
 Dialogue: 0,0:00:33.81,0:00:37.28,Op2English,,0,0,0,,even as we wander about crying.
-Dialogue: 0,0:00:37.56,0:00:44.64,Op2English,,0,0,0,,Even then, I will find a deciding move.
-Dialogue: 0,0:00:44.74,0:00:53.64,Op2English,,0,0,0,,just as good as anyone else's, and take hold of my dreams.
-Dialogue: 0,0:00:53.64,0:00:57.19,Op2English,,0,0,0,,On this eye, this eye on yours,
+Dialogue: 0,0:00:37.56,0:00:44.64,Op2English,,0,0,0,,Even then, I won*t hesitate to move.
+Dialogue: 0,0:00:44.74,0:00:53.64,Op2English,,0,0,0,,I*ll decide, stare at it, and grasp it in my hands.
+Dialogue: 0,0:00:53.64,0:00:57.19,Op2English,,0,0,0,,On this eye, this eye of yours,
 Dialogue: 0,0:00:57.19,0:01:00.72,Op2English,,0,0,0,,everything will appear.
-Dialogue: 0,0:01:00.72,0:01:07.86,Op2English,,0,0,0,,I'll tell apart, just the truth.
+Dialogue: 0,0:01:00.72,0:01:07.86,Op2English,,0,0,0,,I*ll tell apart, just the truth.
 Dialogue: 0,0:01:07.86,0:01:11.23,Op2English,,0,0,0,,Even if the truth is
-Dialogue: 0,0:01:11.44,0:01:14.94,Op2English,,0,0,0,,so harsh it's suffocating.
-Dialogue: 0,0:01:15.02,0:01:18.44,Op2English,,0,0,0,,I'm not going to end
-Dialogue: 0,0:01:18.55,0:01:23.87,Op2English,,0,0,0,,in a place like this.
+Dialogue: 0,0:01:11.44,0:01:14.94,Op2English,,0,0,0,,so harsh it*s suffocating.
+Dialogue: 0,0:01:15.02,0:01:18.44,Op2English,,0,0,0,,In a place like this,
+Dialogue: 0,0:01:18.55,0:01:23.87,Op2English,,0,0,0,,I*m not myself.
 Dialogue: 0,0:20:42.22,0:20:46.34,Ed3Romaji,,0,0,0,,{\kf75}Tsuta{\kf103}etai {\kf86}omoi {\kf32}ga {\kf116}ima
 Dialogue: 0,0:20:47.70,0:20:51.00,Ed3Romaji,,0,0,0,,{\kf133}Afurete {\kf45}iru {\kf152}yo
 Dialogue: 0,0:20:52.43,0:21:02.70,Ed3Romaji,,0,0,0,,{\kf99}Ko{\kf98}toba {\kf38}ni {\kf100}deki{\kf128}nakute{\kf146} {\kf129}tomado{\kf39}tte {\kf250}iru
