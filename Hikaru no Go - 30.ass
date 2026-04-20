@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 30 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 267
-Active Line: 302
-Video Position: 31421
+Scroll Position: 201
+Active Line: 215
+Video Position: 34675
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -256,6 +256,9 @@ Dialogue: 0,0:22:49.28,0:22:53.26,Note,,0,0,0,,{\fs30\fad(209,501)\1c&H0500FF&\3
 Dialogue: 0,0:22:51.80,0:22:52.71,Default,,0,0,0,,And enjoy it!
 Dialogue: 0,0:22:53.21,0:22:54.88,Default,,0,0,0,,Thank you very much!
 Comment: 0,0:22:54.88,0:22:55.18,Note,,0,0,0,,If doing no scroll method, these values looked pretty good: {\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,2)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,69)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,137)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,204)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,272)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,338)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,405)}To be continued...{\i0}\N\N{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,418.5)}To be continued...{\i0}
+Comment: 0,0:22:54.88,0:22:55.18,Note,,0,0,0,,The below values are basically the same just one frame less because on E-F, the text settles 1 frame before. E-F probably meant to do it on the same frame so decided to go with that.
+Comment: 0,0:22:54.88,0:22:55.17,Note,,0,0,0,,{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\move(378,-10,378,417)}To be continued...{\i0}
+Comment: 0,0:22:55.17,0:22:57.37,Note,,0,0,0,,{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,417)}To be continued...{\i0}
 Dialogue: 0,0:22:54.88,0:22:55.18,Note,,0,0,0,,{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\move(378,-10,378,417)}To be continued...{\i0}
 Dialogue: 0,0:22:55.18,0:22:57.37,Note,,0,0,0,,{\fs50\1c&H0500FF&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\i1\pos(378,417)}To be continued...{\i0}
 Dialogue: 0,0:23:00.53,0:23:02.86,Sai,,0,0,0,,Hikaru, aren't you nervous?
