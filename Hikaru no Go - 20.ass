@@ -17,18 +17,18 @@ Video File: [Moozzi2] Hikaru no Go - 20 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 341
-Active Line: 354
-Video Position: 1256
+Scroll Position: 398
+Active Line: 424
+Video Position: 31421
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Op1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,30,30,20,128
 Style: Op1Romaji,MS Gothic,30,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,30,30,20,1
 Style: Op1English,Courier New,30,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,30,30,20,1
-Style: Ed2Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,128
-Style: Ed2Romaji,MS PGothic,28,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed2English,Courier New,28,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
+Style: Ed2Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,30,30,20,128
+Style: Ed2Romaji,MS Gothic,30,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,30,30,20,1
+Style: Ed2English,Courier New,30,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
 Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
@@ -438,27 +438,27 @@ Dialogue: 0,0:21:50.50,0:21:54.70,Ed2Romaji,,0,0,0,,{\kf136}nugisuteru {\kf95}ta
 Dialogue: 0,0:20:42.20,0:20:48.40,Ed2Kanji,,0,0,0,,{\kf66}夢{\kf47}に{\kf168}見ていた{\kf64}{\kf165}シアワセ{\kf110}なら
 Dialogue: 0,0:20:49.30,0:20:56.10,Ed2Kanji,,0,0,0,,{\kf121}誰か{\kf39}が{\kf139}運んで{\kf46}{\kf114}くれる{\kf46}と{\kf175}思ってた
 Dialogue: 0,0:20:56.35,0:20:59.28,Ed2Kanji,,0,0,0,,{\kf111}急ぎ{\kf40}足{\kf29}の{\kf83}街{\kf30}で
-Dialogue: 0,0:20:59.89,0:21:02.55,Ed2Kanji,,0,0,0,,{\kf112}言い訳{\kf154}ばかり
-Dialogue: 0,0:21:03.40,0:21:09.70,Ed2Kanji,,0,0,0,,{\kf118}みんな{\kf40}も{\kf107}同じ{\kf39}と{\kf52}{\kf88}うそ{\kf186} ぶいてた
+Dialogue: 0,0:20:59.89,0:21:02.55,Ed2Kanji,,0,0,0,,{\kf112}言い訳{\kf154}ばかり...
+Dialogue: 0,0:21:03.40,0:21:09.70,Ed2Kanji,,0,0,0,,{\kf118}みんな{\kf40}も{\kf107}同じ{\kf39}と{\kf52}{\kf88}うそ{\kf186}ぶいてた
 Dialogue: 0,0:21:09.99,0:21:17.20,Ed2Kanji,,0,0,0,,{\kf115}本当{\kf57}に{\kf53}キミ{\kf64}は{\kf101}いま　{\kf277}満足してる{\kf54}の？
-Dialogue: 0,0:21:17.51,0:21:25.68,Ed2Kanji,,0,0,0,,{\kf127}心{\kf32}の{\kf142}真ん中{\kf52} {\kf156}見抜かれ{\kf308}たようで
+Dialogue: 0,0:21:17.51,0:21:25.68,Ed2Kanji,,0,0,0,,{\kf127}心{\kf32}の{\kf142}真ん中{\kf52}{\kf156}見抜かれ{\kf308}たようで
 Dialogue: 0,0:21:25.68,0:21:29.20,Ed2Kanji,,0,0,0,,{\kf59}あなた{\kf77}と{\kf216}出会えなかったら
-Dialogue: 0,0:21:29.44,0:21:32.53,Ed2Kanji,,0,0,0,,{\kf128}偽った{\kf64}笑顔{\kf22}の{\kf95}まま
+Dialogue: 0,0:21:29.44,0:21:32.53,Ed2Kanji,,0,0,0,,{\kf128}偽った{\kf64}笑顔{\kf22}の{\kf95}まま!
 Dialogue: 0,0:21:32.76,0:21:36.40,Ed2Kanji,,0,0,0,,{\kf63}うわべ{\kf35}の{\kf89}態度{\kf26}や{\kf109}言葉{\kf42}を
 Dialogue: 0,0:21:36.50,0:21:39.70,Ed2Kanji,,0,0,0,,{\kf219}繰り返した{\kf101}ね
 Dialogue: 0,0:21:39.80,0:21:43.47,Ed2Kanji,,0,0,0,,{\kf62}あなた{\kf53}の{\kf20}{\kf63}瞳{\kf21}の{\kf108}力{\kf40}で
 Dialogue: 0,0:21:43.47,0:21:46.70,Ed2Kanji,,0,0,0,,{\kf84}私{\kf32}は{\kf86}変わって{\kf121}ゆこう
 Dialogue: 0,0:21:46.80,0:21:50.40,Ed2Kanji,,0,0,0,,{\kf66}昨日{\kf38}の{\kf114}揺らいだ{\kf115}気持ち{\kf27}を
 Dialogue: 0,0:21:50.50,0:21:54.70,Ed2Kanji,,0,0,0,,{\kf136}脱ぎ捨てる{\kf95}ため{\kf189}に...
-Dialogue: 0,0:20:42.20,0:20:48.40,Ed2English,,0,0,0,,I thought that someone would bring me,
+Dialogue: 0,0:20:42.20,0:20:48.40,Ed2English,,0,0,0,,I thought that someone\Nwould bring me,
 Dialogue: 0,0:20:49.30,0:20:56.10,Ed2English,,0,0,0,,the happiness that I dreamed of.
 Dialogue: 0,0:20:56.35,0:20:59.28,Ed2English,,0,0,0,,In a quick paced city,
 Dialogue: 0,0:20:59.89,0:21:02.55,Ed2English,,0,0,0,,all I'm doing is listing off excuses,
 Dialogue: 0,0:21:03.40,0:21:09.70,Ed2English,,0,0,0,,and lying to myself, that everyone was doing the same.
 Dialogue: 0,0:21:09.99,0:21:17.20,Ed2English,,0,0,0,,Are you really satisfied right now?
-Dialogue: 0,0:21:17.51,0:21:25.68,Ed2English,,0,0,0,,It feels as if you've straight through my heart.
-Dialogue: 0,0:21:25.68,0:21:29.20,Ed2English,,0,0,0,,If i had not met you,
-Dialogue: 0,0:21:29.44,0:21:32.53,Ed2English,,0,0,0,,I would still only have a false smile!
+Dialogue: 0,0:21:17.51,0:21:25.68,Ed2English,,0,0,0,,It feels as if you've seen straight through my heart.
+Dialogue: 0,0:21:25.68,0:21:29.20,Ed2English,,0,0,0,,If I had not met you,
+Dialogue: 0,0:21:29.44,0:21:32.53,Ed2English,,0,0,0,,I would still only\Nhave a false smile!
 Dialogue: 0,0:21:32.76,0:21:36.40,Ed2English,,0,0,0,,My words and disagreements
 Dialogue: 0,0:21:36.50,0:21:39.70,Ed2English,,0,0,0,,would only have been superficial.
 Dialogue: 0,0:21:39.80,0:21:43.47,Ed2English,,0,0,0,,With the power of your gaze,
