@@ -17,18 +17,18 @@ Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 389
-Active Line: 407
-Video Position: 1456
+Scroll Position: 419
+Active Line: 463
+Video Position: 31523
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Op2Kanji,MS Gothic,22.5,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,8,30,30,20,1
 Style: Op2Romaji2,Pristina,44,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,8,30,30,20,1
 Style: Op2English2,Pristina,44,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,2,0,0,20,1
-Style: Ed4Kanji,MS Gothic,22,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4Romaji,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed4English,Pristina,43,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
+Style: Ed4Kanji,MS Gothic,22.5,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,8,30,30,20,1
+Style: Ed4Romaji,Pristina,44,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,8,30,30,20,1
+Style: Ed4English,Pristina,44,&H00FFA8A8,&H00FC615F,&H00561010,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,2,30,30,20,1
 Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
@@ -480,7 +480,7 @@ Dialogue: 0,0:21:14.59,0:21:19.35,Ed4Romaji,,0,0,0,,{\kf57}yonaka {\kf49}made {\
 Dialogue: 0,0:21:19.35,0:21:24.64,Ed4Romaji,,0,0,0,,{\kf36}zu{\kf172}tto...{\kf56} {\kf40}zu{\kf225}tto...
 Dialogue: 0,0:21:25.78,0:21:31.08,Ed4Romaji,,0,0,0,,{\kf99}onaji {\kf53}toki {\kf28}wo {\kf61}ima{\kf25} {\kf66}iki{\kf68}teru {\kf67}kiseki {\kf63}ga
 Dialogue: 0,0:21:31.08,0:21:35.69,Ed4Romaji,,0,0,0,,{\kf41}su{\kf67}goku {\kf55}ure{\kf76}shii {\kf72}kara {\kf150}ne
-Dialogue: 0,0:21:36.11,0:21:41.11,Ed4Romaji,,0,0,0,,{\kf97}tsugi {\kf113}au{\kf31} {\kf36}hi {\kf35}mo {\kf83}kitto {\kf105}nee
+Dialogue: 0,0:21:36.11,0:21:41.11,Ed4Romaji,,0,0,0,,{\kf97}tsugi {\kf113}au{\kf31} {\kf36}hi {\kf35}mo {\kf83}kitto {\kf105}ne
 Dialogue: 0,0:21:41.25,0:21:49.04,Ed4Romaji,,0,0,0,,{\kf23}i{\kf146}ssho {\kf67}ni {\kf69}wara{\kf100}tte {\kf34}i{\kf128}you {\kf212}yo
 Dialogue: 0,0:21:49.67,0:21:54.74,Ed4Romaji,,0,0,0,,{\kf120}kondo {\kf85}wa{\kf31} {\kf93}donna {\kf58}yume {\kf120}wo
 Dialogue: 0,0:21:54.74,0:22:03.70,Ed4Romaji,,0,0,0,,{\kf168}issho {\kf66}ni {\kf69}katari{\kf101}a{\kf35}u {\kf95}no {\kf33}ka{\kf240}na?{\kf89}
@@ -489,7 +489,7 @@ Dialogue: 0,0:20:53.07,0:20:58.00,Ed4Kanji,,0,0,0,,{\kf66}ど{\kf68}ん{\kf102}�
 Dialogue: 0,0:20:58.10,0:21:03.70,Ed4Kanji,,0,0,0,,{\kf36}これ{\kf56}から{\kf45}は{\kf91}大切{\kf37}に{\kf41}して{\kf45}いく{\kf34}の{\kf19}か{\kf127}な？{\kf29}
 Dialogue: 0,0:21:03.81,0:21:14.34,Ed4Kanji,,0,0,0,,{\kf135}近{\kf100}く{\kf36}の{\kf119}公園{\kf99}で{\kf55}{\kf130}集{\kf133}ま{\kf31}った{\kf18}ね{\kf60}いつ{\kf137}も
 Dialogue: 0,0:21:14.59,0:21:19.35,Ed4Kanji,,0,0,0,,{\kf57}夜中{\kf49}まで{\kf66}大きな{\kf35}声{\kf47}出して{\kf123}笑ってた{\kf99}ね
-Dialogue: 0,0:21:19.35,0:21:24.64,Ed4Kanji,,0,0,0,,{\kf36}ず{\kf172}っと{\kf56}{\kf40}ず{\kf225}っと
+Dialogue: 0,0:21:19.35,0:21:24.64,Ed4Kanji,,0,0,0,,{\kf36}ず{\kf172}っと...{\kf56}{\kf40}ず{\kf225}っと...
 Dialogue: 0,0:21:25.78,0:21:31.08,Ed4Kanji,,0,0,0,,{\kf99}同じ{\kf53}時代{\kf28}を{\kf61}今{\kf25}{\kf66}生き{\kf68}てる{\kf67}奇跡{\kf63}が
 Dialogue: 0,0:21:31.08,0:21:35.69,Ed4Kanji,,0,0,0,,{\kf41}す{\kf67}ごく{\kf55}うれ{\kf76}しい{\kf72}から{\kf150}ね
 Dialogue: 0,0:21:36.11,0:21:41.11,Ed4Kanji,,0,0,0,,{\kf97}次{\kf113}あう{\kf31}{\kf36}日{\kf35}も{\kf83}きっと{\kf105}ねぇ
@@ -504,9 +504,9 @@ Dialogue: 0,0:21:14.59,0:21:19.35,Ed4English,,0,0,0,,and laughed out loud into t
 Dialogue: 0,0:21:19.35,0:21:24.64,Ed4English,,0,0,0,,always... always...
 Dialogue: 0,0:21:25.78,0:21:31.08,Ed4English,,0,0,0,,Because I'm really happy for the miracle
 Dialogue: 0,0:21:31.08,0:21:35.69,Ed4English,,0,0,0,,of being here when you are
-Dialogue: 0,0:21:36.11,0:21:41.11,Ed4English,,0,0,0,,Let's laugh together again
-Dialogue: 0,0:21:41.25,0:21:49.04,Ed4English,,0,0,0,,the next time we meet
-Dialogue: 0,0:21:49.67,0:21:54.74,Ed4English,,0,0,0,,what kind of dreams
+Dialogue: 0,0:21:36.11,0:21:41.11,Ed4English,,0,0,0,,Let's laugh together again,
+Dialogue: 0,0:21:41.25,0:21:49.04,Ed4English,,0,0,0,,the next time we meet.
+Dialogue: 0,0:21:49.67,0:21:54.74,Ed4English,,0,0,0,,What kind of dreams
 Dialogue: 0,0:21:54.74,0:22:03.70,Ed4English,,0,0,0,,are we going to talk about then?
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:47.02,0:02:50.02,Default,chptr,0,0,0,,{Sai of the Fujiwara}
