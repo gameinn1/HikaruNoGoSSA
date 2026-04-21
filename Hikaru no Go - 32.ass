@@ -17,18 +17,18 @@ Video File: [Moozzi2] Hikaru no Go - 32 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 323
-Active Line: 340
-Video Position: 1456
+Scroll Position: 374
+Active Line: 399
+Video Position: 31644
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Op2Kanji,MS Gothic,22.5,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
 Style: Op2Romaji,Wordy Diva,37.5,&H00EAECEE,&H00919294,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,8,30,30,20,1
 Style: Op2English,Wordy Diva,37.5,&H00F8C3D0,&H0080FFFF,&H00322B3A,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,30,30,20,1
-Style: Ed3Kanji,MS Gothic,30,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3Romaji,Palatino Linotype,34,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,8,30,30,20,1
-Style: Ed3English,Palatino Linotype,34,&H00A7C6FA,&H0080FFFF,&H00082E51,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,2,30,30,20,1
+Style: Ed3Kanji,MS Gothic,22.5,&H006DB9EE,&H001B89C2,&H00082E51,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: Ed3Romaji,Palatino Linotype,33.5,&H0089D6F3,&H0029B0EE,&H0004486D,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,30,30,20,1
+Style: Ed3English,Palatino Linotype,33.5,&H00A7C6FA,&H0080FFFF,&H00082E51,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,30,30,20,1
 Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,15,1
@@ -419,29 +419,29 @@ Dialogue: 0,0:21:54.10,0:21:58.70,Ed3Romaji,,0,0,0,,{\kf31}Do{\kf96}nna {\kf104}
 Dialogue: 0,0:21:59.80,0:22:05.70,Ed3Romaji,,0,0,0,,{\kf96}Tsuyo{\kf42}ku {\kf97}nareru {\kf25}you {\kf156}ni{\kf174}
 Dialogue: 0,0:20:42.22,0:20:46.34,Ed3Kanji,,0,0,0,,{\kf75}伝{\kf103}えたい{\kf86}想い{\kf32}が{\kf116}今
 Dialogue: 0,0:20:47.70,0:20:51.00,Ed3Kanji,,0,0,0,,{\kf133}溢れて{\kf45}いる{\kf152}よ
-Dialogue: 0,0:20:52.43,0:21:02.70,Ed3Kanji,,0,0,0,,{\kf99}言{\kf98}葉{\kf38}に{\kf100}でき{\kf128}なくて{\kf146} {\kf129}戸惑{\kf39}って{\kf250}いる
-Dialogue: 0,0:21:03.87,0:21:12.65,Ed3Kanji,,0,0,0,,{\kf100}出会い{\kf70}から　{\kf84}数え{\kf140}きれぬ{\kf146} {\kf102}季節{\kf33}が{\kf203}巡り
-Dialogue: 0,0:21:13.60,0:21:24.41,Ed3Kanji,,0,0,0,,{\kf141}語{\kf31}り{\kf64}あ{\kf74}かし{\kf65}た{\kf57}夜{\kf112}が{\kf100} {\kf30}な{\kf61}つか{\kf78}しい{\kf18}よ{\kf250}ね
+Dialogue: 0,0:20:52.43,0:21:02.70,Ed3Kanji,,0,0,0,,{\kf99}言{\kf98}葉{\kf38}に{\kf100}でき{\kf128}なくて{\kf146}{\kf129}戸惑{\kf39}って{\kf250}いる
+Dialogue: 0,0:21:03.87,0:21:12.65,Ed3Kanji,,0,0,0,,{\kf100}出会い{\kf70}から{\kf84}数え{\kf140}きれぬ{\kf146}{\kf102}季節{\kf33}が{\kf203}巡り
+Dialogue: 0,0:21:13.60,0:21:24.41,Ed3Kanji,,0,0,0,,{\kf141}語{\kf31}り{\kf64}あ{\kf74}かし{\kf65}た{\kf57}夜{\kf112}が{\kf100}{\kf30}な{\kf61}つか{\kf78}しい{\kf18}よ{\kf250}ね
 Dialogue: 0,0:21:24.77,0:21:28.85,Ed3Kanji,,0,0,0,,{\kf64}夢{\kf32}へ{\kf71}近{\kf68}づく{\kf86}たび{\kf87}に
 Dialogue: 0,0:21:30.15,0:21:35.80,Ed3Kanji,,0,0,0,,{\kf91}儚{\kf31}さ{\kf39}を{\kf95}知った{\kf309}よ
 Dialogue: 0,0:21:37.40,0:21:40.28,Ed3Kanji,,0,0,0,,{\kf84}それぞれ{\kf34}の{\kf68}旅{\kf102}立ち
 Dialogue: 0,0:21:40.28,0:21:43.20,Ed3Kanji,,0,0,0,,{\kf32}ここ{\kf35}から{\kf91}始め{\kf134}よう
 Dialogue: 0,0:21:43.33,0:21:48.70,Ed3Kanji,,0,0,0,,{\kf60}今{\kf73}まで{\kf18}の{\kf115}僕達{\kf33}と{\kf64}は{\kf40}違{\kf134}う
-Dialogue: 0,0:21:48.90,0:21:54.00,Ed3Kanji,,0,0,0,,{\kf47}もう{\kf67}負け{\kf81}ない{\kf22} {\kf62}歩き出{\kf53}して{\kf66}いく{\kf112}よ
+Dialogue: 0,0:21:48.90,0:21:54.00,Ed3Kanji,,0,0,0,,{\kf47}もう{\kf67}負け{\kf81}ない{\kf22}{\kf62}歩き出{\kf53}して{\kf66}いく{\kf112}よ
 Dialogue: 0,0:21:54.10,0:21:58.70,Ed3Kanji,,0,0,0,,{\kf31}ど{\kf96}んな{\kf104}未来{\kf41}へ{\kf188}でも
 Dialogue: 0,0:21:59.80,0:22:05.70,Ed3Kanji,,0,0,0,,{\kf96}強{\kf42}く{\kf97}なれる{\kf25}よう{\kf156}に...{\kf174}
 Dialogue: 0,0:20:42.22,0:20:46.34,Ed3English,,0,0,0,,These feelings I want to tell you
 Dialogue: 0,0:20:47.70,0:20:51.00,Ed3English,,0,0,0,,are spilling out right now
 Dialogue: 0,0:20:52.43,0:21:02.70,Ed3English,,0,0,0,,but I'm hesitating, not knowing how to put it into words
-Dialogue: 0,0:21:03.87,0:21:12.65,Ed3English,,0,0,0,,so many seasons passed by since we met
+Dialogue: 0,0:21:03.87,0:21:12.65,Ed3English,,0,0,0,,So many seasons passed by since we met
 Dialogue: 0,0:21:13.60,0:21:24.41,Ed3English,,0,0,0,,I miss that time we stayed up all night talking
 Dialogue: 0,0:21:24.77,0:21:28.85,Ed3English,,0,0,0,,As I walk towards my dreams
-Dialogue: 0,0:21:30.15,0:21:35.80,Ed3English,,0,0,0,,I learn what vain all my effort are
+Dialogue: 0,0:21:30.15,0:21:35.80,Ed3English,,0,0,0,,I learn what vanity is
 Dialogue: 0,0:21:37.40,0:21:40.28,Ed3English,,0,0,0,,Let's start each of
-Dialogue: 0,0:21:40.28,0:21:43.20,Ed3English,,0,0,0,,our departure here
+Dialogue: 0,0:21:40.28,0:21:43.20,Ed3English,,0,0,0,,our departure here.
 Dialogue: 0,0:21:43.33,0:21:48.70,Ed3English,,0,0,0,,I'm not like I was before
 Dialogue: 0,0:21:48.90,0:21:54.00,Ed3English,,0,0,0,,I won't give up anymore, I'll keep on walking,
-Dialogue: 0,0:21:54.10,0:21:58.70,Ed3English,,0,0,0,,no matter what the future holds.
+Dialogue: 0,0:21:54.10,0:21:58.70,Ed3English,,0,0,0,,no matter what the future is.
 Dialogue: 0,0:21:59.80,0:22:05.70,Ed3English,,0,0,0,,So that I can become stronger.
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:02:03.10,0:02:06.10,Default,chptr,0,0,0,,{The Last day of the Preliminaries}
