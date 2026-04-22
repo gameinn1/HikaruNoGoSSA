@@ -333,7 +333,11 @@ Dialogue: 0,0:22:35.43,0:22:41.52,Background,,0,0,0,,So Black now has two eyes, 
 Dialogue: 0,0:22:42.85,0:22:46.66,Background,,0,0,0,,Had you connected here, White\Nwould have played here.
 Dialogue: 0,0:22:46.91,0:22:49.88,Background,,0,0,0,,this is a deficient eye and Black would have died.
 Dialogue: 0,0:22:50.75,0:22:53.80,Default,,0,0,0,,"Under the Stone" is a Tesuji that\Nappears frequently in real games.
-Dialogue: 0,0:22:50.96,0:22:54.92,NoteArial_Igo,,0,0,0,,{\an5\fs23\1c&HFFFFFF&\fad(334,334)\3c&H058909&\4c&H058909&\fscx99\fscy105\bord1\shad0.5\pos(318,378)}Learn "Under the Stone" and use it in a real match{\i1}!!{\i0}
+Dialogue: 0,0:22:50.96,0:22:51.25,NoteArial_Igo,,0,0,0,c,{\fad(100,0)\an5\fs23\1c&HFFFFFF&\3c&H058909&\4c&H058909&\fscx99\fscy105\bord1\shad0.5\clip(0,376,640,383)\move(-229.59,378,305.37,378,10,275)}Learn "Under the Stone" and use it in a real match{\i1}!!{\i0}
+Dialogue: 0,0:22:50.96,0:22:51.25,NoteArial_Igo,,0,0,0,o,{\fad(100,0)\an5\fs23\1c&HFFFFFF&\3c&H058909&\4c&H058909&\fscx99\fscy105\bord1\shad0.5\iclip(0,376,640,383)\move(870.38,378,324.37,378,10,275)}Learn "Under the Stone" and use it in a real match{\i1}!!{\i0}
+Dialogue: 0,0:22:51.25,0:22:54.62,NoteArial_Igo,,0,0,0,,{\an5\fs23\1c&HFFFFFF&\3c&H058909&\4c&H058909&\fscx99\fscy105\bord1\shad0.5\pos(318,378)}Learn "Under the Stone" and use it in a real match{\i1}!!{\i0}
+Dialogue: 0,0:22:54.62,0:22:54.91,NoteArial_Igo,,0,0,0,c,{\fad(0,100)\an5\fs23\1c&HFFFFFF&\3c&H058909&\4c&H058909&\fscx99\fscy105\bord1\shad0.5\clip(0,376,640,383)\move(305.37,378,-229.59,378,10,275)}Learn "Under the Stone" and use it in a real match{\i1}!!{\i0}
+Dialogue: 0,0:22:54.62,0:22:54.91,NoteArial_Igo,,0,0,0,o,{\fad(0,100)\an5\fs23\1c&HFFFFFF&\3c&H058909&\4c&H058909&\fscx99\fscy105\bord1\shad0.5\iclip(0,376,640,383)\move(324.37,378,870.38,378,10,275)}Learn "Under the Stone" and use it in a real match{\i1}!!{\i0}
 Dialogue: 0,0:22:53.91,0:22:55.42,Default,,0,0,0,,Let's take this opportunity to learn it.
 Dialogue: 0,0:22:55.40,0:22:55.48,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(83,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\move(303,260,303,308)}To be continued...
 Dialogue: 0,0:22:55.48,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(0,0)\3c&H1400EF&\4c&H1400EF&\fscx99\fscy100\bord1\shad0.5\pos(303,308)}To be continued...

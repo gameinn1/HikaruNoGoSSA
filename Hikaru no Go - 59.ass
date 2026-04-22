@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 431
-Active Line: 457
-Video Position: 31523
+Scroll Position: 250
+Active Line: 273
+Video Position: 25891
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -315,9 +315,11 @@ Dialogue: 0,0:17:35.99,0:17:37.37,Default,,0,0,0,,I-I know that.
 Dialogue: 0,0:17:38.25,0:17:40.87,Sai,,0,0,0,,Hikaru can't even beat me.
 Dialogue: 0,0:17:42.33,0:17:43.38,Default,,0,0,0,,What did you say?
 Dialogue: 0,0:17:45.59,0:17:48.01,Sai,,0,0,0,,Hikaru, you can't even beat me!
-Dialogue: 0,0:17:48.09,0:17:50.76,Ed5Romaji,,0,0,0,,{\an7\fs50\pos(280,300)\1aFF\2aFF\3aFF\4aFF\t(0,1979,\fs70)\t(0,750,\1a0\2a0\3a0\4a0)\t(1979,2670,\1aFF\2aFF\3aFF\4aFF\fs200}I want to play\Nmore Go!
+Comment: 0,0:17:48.09,0:17:50.76,Ed5Romaji,,0,0,0,,gabest11 version: {\an7\fs50\pos(280,300)\1aFF\2aFF\3aFF\4aFF\t(0,1979,\fs70)\t(0,750,\1a0\2a0\3a0\4a0)\t(1979,2670,\1aFF\2aFF\3aFF\4aFF\fs200}I want to play\Nmore Go!
+Dialogue: 0,0:17:48.09,0:17:50.76,Ed5Romaji,,0,0,0,,{\q2\an7\fs50\1aFF\2aFF\3aFF\4aFF\t(0,1979,\fs70)\t(0,750,\1a0\2a0\3a0\4a0)\t(1979,2670,\1aFF\2aFF\3aFF\4aFF\fs200)\move(290,290,280,299.41,19,1979)}I want to play\Nmore Go!
 Dialogue: 0,0:17:51.13,0:17:54.76,Sai,,0,0,0,,Yes! Hikaru can't even beat me yet!
-Dialogue: 0,0:17:55.31,0:17:57.33,Ed5Romaji,,0,0,0,,{\an8\fs30\pos(320,370)\1aFF\2aFF\3aFF\4aFF\t(0,1474,\fs40)\t(0,200,\1a0\2a0\3a0\4a0)\t(1474,2020,\1aFF\2aFF\3aFF\4aFF\fs200}I want an\Neternity of time!
+Comment: 0,0:17:55.31,0:17:57.33,Ed5Romaji,,0,0,0,,gabest11 version. They started this much too late I think (25782 so I chose 25771): {\an8\fs30\pos(320,370)\1aFF\2aFF\3aFF\4aFF\t(0,1474,\fs40)\t(0,200,\1a0\2a0\3a0\4a0)\t(1474,2020,\1aFF\2aFF\3aFF\4aFF\fs200}I want an\Neternity of time!
+Dialogue: 0,0:17:54.85,0:17:57.97,Ed5Romaji,,0,0,0,,{\an8\q2\fad(834,1186)\fs45\pos(320,330)\t(0,1934,\fs60)\t(1934,3102,\fs200}I want an\Neternity of time!
 Dialogue: 0,0:17:59.31,0:18:02.73,Default,,0,0,0,,Well, you can't even pick up Go stones without me!
 Dialogue: 0,0:18:08.73,0:18:09.78,Default,,0,0,0,,Umm...
 Dialogue: 0,0:18:12.70,0:18:14.91,Default,,0,0,0,,Hey... let's play...

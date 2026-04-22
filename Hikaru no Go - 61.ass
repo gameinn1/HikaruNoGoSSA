@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 462
-Active Line: 502
-Video Position: 31523
+Scroll Position: 269
+Active Line: 297
+Video Position: 29053
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,7 +329,8 @@ Dialogue: 0,0:18:46.69,0:18:48.69,Default,,0,0,0,,You can't not be hungry.
 Dialogue: 0,0:18:51.49,0:18:55.28,Default,,0,0,0,,Fine, take your time eating lunch.
 Dialogue: 0,0:18:56.20,0:18:57.28,Default,,0,0,0,,Where are you going?
 Dialogue: 0,0:18:57.28,0:18:59.66,Default,,0,0,0,,Didn't you see the Go salon?
-Dialogue: 0,0:18:59.66,0:19:00.99,NoteArial,,0,0,0,,{\fs55\fscy45\1a&HFF&\3c&HFFFFFF&\3a&H95&\4c&HFFFFFF&\bord2\blur1\shad1\pos(322,317)}GO IGO CLUB
+Comment: 0,0:18:59.66,0:19:00.99,NoteArial,,0,0,0,,My old version: {\fs55\fscy45\1a&HFF&\3c&HFFFFFF&\3a&H95&\4c&HFFFFFF&\bord2\blur1\shad1\pos(322,317)}GO IGO CLUB
+Dialogue: 0,0:18:59.66,0:19:00.99,NoteArial,,0,0,0,,{\fs55\fscy45\fscx98\1a&HFF&\3c&HB5A4AC&\3a&H95&\4c&HFFFFFF&\bord2\blur1\shad1\fax-0.05\pos(324,317)}G{\fax-0.04}O{\fax-0.03} {\fax-0.02}I{\fax-0.01}G{\fax0}O{\fax0.01} {\fax0.02}C{\fax0.03}L{\fax0.04}U{\fax0.05}B
 Dialogue: 0,0:19:00.29,0:19:02.75,Background,,0,0,0,,I'll go play the guys over there for a bit.
 Dialogue: 0,0:19:03.04,0:19:04.66,Default,,0,0,0,,I'll pay for the bill here.
 Dialogue: 0,0:19:05.34,0:19:07.38,Default,,0,0,0,,Come pick me up when you're done.
@@ -343,7 +344,7 @@ Dialogue: 0,0:19:54.34,0:19:57.59,Thinking,,0,0,0,,He just might be back in my r
 Dialogue: 0,0:19:59.76,0:20:01.35,Thinking,,0,0,0,,If I see Sai at home,
 Dialogue: 0,0:20:01.98,0:20:05.60,Thinking,,0,0,0,,then, someday, we'll come back here again.
 Dialogue: 0,0:20:06.24,0:20:09.48,Thinking,,0,0,0,,I'm sure he'd be ecstatic if I took him around here.
-Dialogue: 0,0:20:11.73,0:20:13.69,NoteArial,,0,0,0,,{\fs55\fscy45\1a&HFF&\3c&HFFFFFF&\3a&H95&\4c&HFFFFFF&\bord2\blur1\shad1\pos(322,317)}GO IGO CLUB
+Dialogue: 0,0:20:11.73,0:20:13.69,NoteArial,,0,0,0,,{\fs55\fscy45\fscx98\1a&HFF&\3c&HB5A4AC&\3a&H95&\4c&HFFFFFF&\bord2\blur1\shad1\fax-0.05\pos(324,317)}G{\fax-0.04}O{\fax-0.03} {\fax-0.02}I{\fax-0.01}G{\fax0}O{\fax0.01} {\fax0.02}C{\fax0.03}L{\fax0.04}U{\fax0.05}B
 Dialogue: 0,0:20:14.61,0:20:18.45,Background,,0,0,0,,I feel bad for Kawai-san, but\NI'll drag him back to Tokyo.
 Dialogue: 0,0:20:19.99,0:20:20.99,Default,,0,0,0,,Kawai-san...
 Dialogue: 0,0:20:20.99,0:20:22.62,Background,,0,0,0,,What!?

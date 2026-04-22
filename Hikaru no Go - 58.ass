@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 476
-Active Line: 484
-Video Position: 31522
+Video Zoom Percent: 1.000000
+Scroll Position: 80
+Active Line: 95
+Video Position: 10790
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -138,8 +138,8 @@ Dialogue: 0,0:07:17.04,0:07:20.67,Sai,,0,0,0,,He's not the type of person who ch
 Dialogue: 0,0:07:21.17,0:07:22.09,Sai,,0,0,0,,He isn't...
 Dialogue: 0,0:07:23.63,0:07:25.05,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:07:25.80,0:07:27.64,Background,,0,0,0,,This is bad...
-Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs20\shad0\bord0\frz90\fscy120\1c&H4231AB&\pos(65,281)}RAMEN
-Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs14.5\shad0\bord0\frz90\fscy160\1c&H4231AB&\pos(90,281)}Yamanishi
+Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs20\blur0.5\shad0\bord0\frz90\fscy120\1c&H4231AB&\pos(65,281)}RAMEN
+Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs14.5\blur0.5\shad0\bord0\frz90\fscy160\1c&H4231AB&\pos(90,281)}Yamanishi
 Dialogue: 0,0:07:31.10,0:07:34.48,Default,,0,0,0,,I want to look at the Kifu, but I'm not sure\Nif I can get it at the Institute or not.
 Dialogue: 0,0:07:35.12,0:07:37.60,Default,,0,0,0,,Weekly Go won't come out until next week...
 Dialogue: 0,0:07:41.94,0:07:45.19,NoteArial,,0,0,0,,{\fs27.5\shad0\bord0\fscy120\1c&HB2DCF1&\frz21\pos(247,187)}RAMEN

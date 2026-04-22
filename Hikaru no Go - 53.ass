@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 53 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 423
-Active Line: 447
-Video Position: 30302
+Scroll Position: 156
+Active Line: 173
+Video Position: 16968
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -216,7 +216,10 @@ Dialogue: 0,0:11:24.12,0:11:26.41,Thinking,,0,0,0,,That's around the time when A
 Dialogue: 0,0:11:26.87,0:11:31.67,Thinking,,0,0,0,,Akira-kun stormed out of the store when he learned\Nthat Shindou was playing at an Internet Cafe...
 Dialogue: 0,0:11:33.11,0:11:37.18,Thinking,,0,0,0,,Did he think that Shindou was Sai?
 Dialogue: 0,0:11:38.47,0:11:44.18,Thinking,,0,0,0,,Or did he think there was some connection\Nbetween Sai and Shindou?
-Dialogue: 0,0:11:47.69,0:11:51.69,NoteArial,,0,0,0,,{\fs10\t(0,3979,1,\fs11)\1c&H1B3096&\shad1\bord0\frz8\fscy140\frx15\fry350\move(361,224,367,222)}AISHINDOU\NHOSPITAL
+Comment: 0,0:11:47.69,0:11:51.69,NoteArial,,0,0,0,,{=5}Old version I had
+Comment: 0,0:11:47.69,0:11:51.69,NoteArial,,0,0,0,,{=5}{\fs10\t(0,3979,1,\fs11)\1c&H1B3096&\shad1\bord0\frz8\fscy140\frx15\fry350\move(361,224,367,222)}AISHINDOU\NHOSPITAL
+Dialogue: 0,0:11:47.69,0:11:51.69,NoteArial,,0,0,0,,{=5}{\fscx100\1a&H00&\3a&H00&\4a&H80&\an5\fax-0.1\fs10\c&H1B3096&\shad1\bord0\fscy140\frx15\fry350\frz8.81\move(362.42,229.7,368.7,228.29,17,3979)\t(17,3979,\fscx115.09\fscy161.13)}A{\fax-0.11}I{\fax-0.12}S{\fax-0.14}H{\fax-0.15}I{\fax-0.16}N{\fax-0.17}D{\fax-0.19}O{\fax-0.2}U
+Dialogue: 0,0:11:47.69,0:11:51.69,NoteArial,,0,0,0,,{=4}{\fscx100\1a&H00&\3a&H00&\4a&H80&\an5\fax-0.12\fs10\c&H1B3096&\shad1\bord0\fscy140\frx15\fry350\frz8.81\move(365.01,244.37,371.68,245.17,17,3979)\t(17,3979,\fscx115.09\fscy161.13)}H{\fax-0.13}O{\fax-0.13}S{\fax-0.14}P{\fax-0.14}I{\fax-0.15}T{\fax-0.15}A{\fax-0.16}L
 Dialogue: 0,0:11:55.83,0:11:59.33,Default,,0,0,0,,Thank you for coming. Please, sit.
 Dialogue: 0,0:12:01.39,0:12:05.38,Default,,0,0,0,,Didn't I collapse on the day you\Nwere supposed to play Akira?
 Dialogue: 0,0:12:05.90,0:12:07.43,Default,,0,0,0,,Sorry for getting in the way.
@@ -447,7 +450,7 @@ Dialogue: 0,0:01:07.86,0:01:11.23,Op2Kanji,,0,0,0,,{\kf150}たとえ{\kf114}現�
 Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋もれそう{\kf111}でも
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Kanji,,0,0,0,,{\kf83}僕{\kf42}じゃ{\kf46}な{\kf361}い
-Comment: 0,0:00:00.32,0:00:03.70,Op2English2,,0,0,0,,This episode seems different. I think it'r emore than just bolding applied.
+Comment: 0,0:00:00.32,0:00:03.70,Op2English2,,0,0,0,,This episode seems different. I think it's more than just bolding applied.
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2English2,,0,0,0,,On this eye, this eye of yours,
 Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear.
 Dialogue: 0,0:00:07.34,0:00:15.06,Op2English2,,0,0,0,,I will tell apart the truth.

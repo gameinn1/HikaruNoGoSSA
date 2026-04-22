@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 354
-Active Line: 395
-Video Position: 31523
+Scroll Position: 267
+Active Line: 280
+Video Position: 33985
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -318,12 +318,13 @@ Dialogue: 0,0:22:27.81,0:22:28.47,Background,,0,0,0,,Here!
 Dialogue: 0,0:22:28.65,0:22:30.73,Background,,0,0,0,,That's Atari, so I'll connect.
 Dialogue: 0,0:22:31.25,0:22:31.88,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:32.09,0:22:33.66,Background,,0,0,0,,Yup! That's right!
-Dialogue: 0,0:22:32.63,0:22:32.86,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22.5\alpha&H90&\1c&HFFFFFF&\fad(0,209)\fscx2000\t(0,230,1,\fscx100)\3c&H8900D5&\4c&H8900D5&\fscy100\bord1\shad0.5\pos(403,370)}Yay{\i1}!{\i0} Mai is absolutely right{\i1}!{\i0}
-Dialogue: 0,0:22:32.63,0:22:36.85,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22.5\1c&HFFFFFF&\fad(0,501)\fscx680\t(0,230,1,\fscx100)\3c&H8900D5&\4c&H8900D5&\fscy100\bord1\shad0.5\pos(403,370)}Yay{\i1}!{\i0} Mai is absolutely right{\i1}!{\i0}
+Dialogue: 1,0:22:32.63,0:22:32.86,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22.5\alpha&HD0&\c&HFFFFFF&\fscx2500\t(0,230,1,\fscx900)\3c&H8900D5&\4c&H8900D5&\fscy100\bord1\shad0\pos(403,370)}Yay{\i1}!{\i0} Mai is absolutely right{\i1}!{\i0}
+Dialogue: 2,0:22:32.63,0:22:32.86,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22.5\alpha&HA0&\c&HFFFFFF&\fscx2000\t(0,230,1,\fscx600)\3c&H8900D5&\4c&H8900D5&\fscy100\bord1\shad0\pos(403,370)}Yay{\i1}!{\i0} Mai is absolutely right{\i1}!{\i0}
+Dialogue: 5,0:22:32.63,0:22:36.85,NoteArial_Igo,,0,0,0,,{\an5\q2\fs22.5\1c&HFFFFFF&\fad(0,501)\fscx680\t(0,230,1,\fscx100)\3c&H8900D5&\4c&H8900D5&\fscy100\bord1\shad0.5\pos(403,370)}Yay{\i1}!{\i0} Mai is absolutely right{\i1}!{\i0}
 Dialogue: 0,0:22:34.02,0:22:37.24,Background,,0,0,0,,Now these four White stones can't get away.
 Dialogue: 0,0:22:37.68,0:22:40.43,Default,,0,0,0,,You were able to hurt White's territory a lot.
 Dialogue: 0,0:22:40.62,0:22:43.05,Background,,0,0,0,,But had you connected here...
-Dialogue: 0,0:22:41.00,0:22:47.07,NoteArial_Igo,,0,0,0,,{\an5\fs27\1c&HFFFFFF&\fad(1126,626)\fscx200\t(0,970,1,\fscx100)\3c&HFA20F6&\4c&HFA20F6&\fscy85\bord1\shad0.5\pos(320,363)}If you respond wrong...
+Dialogue: 0,0:22:41.00,0:22:47.07,NoteArial_Igo,,0,0,0,,{\an5\fs27\1c&HFFFFFF&\fad(1126,626)\fscx350\t(0,970,1,\fscx100)\3c&HFA20F6&\4c&HFA20F6&\fscy85\bord1\shad0.5\pos(320,363)}If {\fscx0\t(0,970,1,\fscx100)}yo{\fscx350\t(0,970,1,\fscx100)}u r{\fscx0\t(0,970,1,\fscx100)}es{\fscx350\t(0,970,1,\fscx100)}po{\fscx0\t(0,970,1,\fscx100)}nd {\fscx350\t(0,970,1,\fscx100)}w{\fscx0\t(0,970,1,\fscx100)}ro{\fscx350\t(0,970,1,\fscx100)}ng{\fscx0\t(0,970,1,\fscx100)}...
 Dialogue: 0,0:22:43.60,0:22:47.17,Background,,0,0,0,,White would have responded here, and his\Nterritory would have been very large.
 Dialogue: 0,0:22:47.43,0:22:51.95,Background,,0,0,0,,The correct move for White would have\Nbeen to move here at this point.
 Dialogue: 0,0:22:49.96,0:22:50.21,NoteArial_Igo,,0,0,0,,{\fs25\1c&HFFFFFF&\fad(250,0)\3c&HFA20F6&\4c&HFA20F6&\fscx100\fscy90\bord1\shad0.5\move(800,353,320,353)}White should have played here{\i1}!{\i0}

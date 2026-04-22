@@ -252,57 +252,57 @@ Dialogue: 0,0:09:35.39,0:09:35.43,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDED
 Dialogue: 0,0:09:35.43,0:09:35.47,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(-73,90)}BLACK
 Dialogue: 0,0:09:35.47,0:09:35.51,NoteArial,,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(-103,90)}BLACK
 Dialogue: 1,0:09:35.39,0:09:35.43,NoteArial,1,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(725,90)}WHITE
-Dialogue: 0,0:09:35.39,0:09:35.43,NoteArial,1,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(725,90)}WHITE
+Dialogue: 0,0:09:35.39,0:09:35.43,NoteArial,1,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(725,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.43,0:09:35.47,NoteArial,2,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(693,90)}WHITE
-Dialogue: 0,0:09:35.43,0:09:35.47,NoteArial,2,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(693,90)}WHITE
+Dialogue: 0,0:09:35.43,0:09:35.47,NoteArial,2,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(693,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.47,0:09:35.51,NoteArial,3,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(664,90)}WHITE
-Dialogue: 0,0:09:35.47,0:09:35.51,NoteArial,3,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(664,90)}WHITE
+Dialogue: 0,0:09:35.47,0:09:35.51,NoteArial,3,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(664,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.51,0:09:35.55,NoteArial,4,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(631,90)}WHITE
-Dialogue: 0,0:09:35.51,0:09:35.55,NoteArial,4,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(631,90)}WHITE
+Dialogue: 0,0:09:35.51,0:09:35.55,NoteArial,4,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(631,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.55,0:09:35.60,NoteArial,5,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(572,90)}WHITE
-Dialogue: 0,0:09:35.55,0:09:35.60,NoteArial,5,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(572,90)}WHITE
+Dialogue: 0,0:09:35.55,0:09:35.60,NoteArial,5,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(572,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.60,0:09:35.64,NoteArial,6,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(542,90)}WHITE
-Dialogue: 0,0:09:35.60,0:09:35.64,NoteArial,6,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(542,90)}WHITE
+Dialogue: 0,0:09:35.60,0:09:35.64,NoteArial,6,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(542,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.64,0:09:35.68,NoteArial,7,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(520,90)}WHITE
-Dialogue: 0,0:09:35.64,0:09:35.68,NoteArial,7,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(520,90)}WHITE
+Dialogue: 0,0:09:35.64,0:09:35.68,NoteArial,7,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(520,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.68,0:09:35.72,NoteArial,8,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(493,90)}WHITE
-Dialogue: 0,0:09:35.68,0:09:35.72,NoteArial,8,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(493,90)}WHITE
+Dialogue: 0,0:09:35.68,0:09:35.72,NoteArial,8,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(493,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.72,0:09:35.76,NoteArial,9,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(449,90)}WHITE
-Dialogue: 0,0:09:35.72,0:09:35.76,NoteArial,9,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(449,90)}WHITE
+Dialogue: 0,0:09:35.72,0:09:35.76,NoteArial,9,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(449,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.76,0:09:35.81,NoteArial,10,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(430,90)}WHITE
-Dialogue: 0,0:09:35.76,0:09:35.81,NoteArial,10,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(430,90)}WHITE
+Dialogue: 0,0:09:35.76,0:09:35.81,NoteArial,10,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(430,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.81,0:09:35.85,NoteArial,11,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(415,90)}WHITE
-Dialogue: 0,0:09:35.81,0:09:35.85,NoteArial,11,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(415,90)}WHITE
+Dialogue: 0,0:09:35.81,0:09:35.85,NoteArial,11,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(415,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.85,0:09:35.89,NoteArial,12,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(390,90)}WHITE
-Dialogue: 0,0:09:35.85,0:09:35.89,NoteArial,12,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(390,90)}WHITE
+Dialogue: 0,0:09:35.85,0:09:35.89,NoteArial,12,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(390,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.89,0:09:35.93,NoteArial,13,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(380,90)}WHITE
-Dialogue: 0,0:09:35.89,0:09:35.93,NoteArial,13,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(380,90)}WHITE
+Dialogue: 0,0:09:35.89,0:09:35.93,NoteArial,13,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(380,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.93,0:09:35.97,NoteArial,14,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(373,90)}WHITE
-Dialogue: 0,0:09:35.93,0:09:35.97,NoteArial,14,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(373,90)}WHITE
+Dialogue: 0,0:09:35.93,0:09:35.97,NoteArial,14,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(373,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:35.97,0:09:36.01,NoteArial,15,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(366,90)}WHITE
-Dialogue: 0,0:09:35.97,0:09:36.01,NoteArial,15,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(366,90)}WHITE
+Dialogue: 0,0:09:35.97,0:09:36.01,NoteArial,15,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(366,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.01,0:09:36.06,NoteArial,16,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(360,90)}WHITE
-Dialogue: 0,0:09:36.01,0:09:36.06,NoteArial,16,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(360,90)}WHITE
+Dialogue: 0,0:09:36.01,0:09:36.06,NoteArial,16,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(360,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.06,0:09:36.10,NoteArial,17,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(354,90)}WHITE
-Dialogue: 0,0:09:36.06,0:09:36.10,NoteArial,17,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(354,90)}WHITE
+Dialogue: 0,0:09:36.06,0:09:36.10,NoteArial,17,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(354,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.10,0:09:36.14,NoteArial,18,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(350,90)}WHITE
-Dialogue: 0,0:09:36.10,0:09:36.14,NoteArial,18,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(350,90)}WHITE
+Dialogue: 0,0:09:36.10,0:09:36.14,NoteArial,18,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(350,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.14,0:09:36.18,NoteArial,19,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(348,90)}WHITE
-Dialogue: 0,0:09:36.14,0:09:36.18,NoteArial,19,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(348,90)}WHITE
+Dialogue: 0,0:09:36.14,0:09:36.18,NoteArial,19,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(348,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.18,0:09:36.22,NoteArial,20,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(346,90)}WHITE
-Dialogue: 0,0:09:36.18,0:09:36.22,NoteArial,20,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(346,90)}WHITE
+Dialogue: 0,0:09:36.18,0:09:36.22,NoteArial,20,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(346,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.22,0:09:36.26,NoteArial,21,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(344,90)}WHITE
-Dialogue: 0,0:09:36.22,0:09:36.26,NoteArial,21,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(344,90)}WHITE
+Dialogue: 0,0:09:36.22,0:09:36.26,NoteArial,21,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(344,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.26,0:09:36.31,NoteArial,22,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(342,90)}WHITE
-Dialogue: 0,0:09:36.26,0:09:36.31,NoteArial,22,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(342,90)}WHITE
+Dialogue: 0,0:09:36.26,0:09:36.31,NoteArial,22,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(342,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.31,0:09:36.35,NoteArial,23,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(341,90)}WHITE
-Dialogue: 0,0:09:36.31,0:09:36.35,NoteArial,23,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(341,90)}WHITE
+Dialogue: 0,0:09:36.31,0:09:36.35,NoteArial,23,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(341,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.35,0:09:36.39,NoteArial,24,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(340,90)}WHITE
-Dialogue: 0,0:09:36.35,0:09:36.39,NoteArial,24,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(340,90)}WHITE
+Dialogue: 0,0:09:36.35,0:09:36.39,NoteArial,24,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(340,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.39,0:09:36.43,NoteArial,25,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(339,90)}WHITE
-Dialogue: 0,0:09:36.39,0:09:36.43,NoteArial,25,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(339,90)}WHITE
+Dialogue: 0,0:09:36.39,0:09:36.43,NoteArial,25,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(339,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 1,0:09:36.43,0:09:36.47,NoteArial,26,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord0\blur2\shad0\fscx100\fscy135\pos(338,90)}WHITE
-Dialogue: 0,0:09:36.43,0:09:36.47,NoteArial,26,0,0,0,,{\fs72.5\1c&H2E260E&\3c&HDEDBC2&\bord18\blur0\shad0\fscx100\fscy135\pos(338,90)}WHITE
+Dialogue: 0,0:09:36.43,0:09:36.47,NoteArial,26,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\shad0\pos(338,90)\bord0}m -114 2 l 116 2 116 96 -114 96 -114 2
 Dialogue: 0,0:09:36.97,0:09:38.02,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:09:38.39,0:09:40.43,Default,,0,0,0,,What!? They're playing each other?
 Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 482 37 l 515 37 l 515 53 l 482 53 m 480 80 l 605 80 l 605 98 l 480 98 m 478 110 l 620 110 l 620 128 l 478 128 m 479 147 l 516 147 l 516 164 l 479 164 m 478 194 l 606 194 l 606 210 l 478 210 m 478 222 l 620 222 l 620 240 l 478 240 m 477 259 l 546 259 l 546 275 l 477 275 m 478 280 l 584 280 l 584 298 l 478 298 m 477 304 l 514 304 l 514 325 l 477 325 m 583 305 l 617 305 l 617 322 l 583 322 m 498 378 l 530 378 l 530 397 l 498 397 m 562 379 l 628 379 l 628 396 l 562 396 m 522 413 l 586 413 l 586 431 l 522 431{\p0}

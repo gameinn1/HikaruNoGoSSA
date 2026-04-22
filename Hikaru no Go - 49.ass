@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 353
-Active Line: 364
-Video Position: 30165
+Scroll Position: 254
+Active Line: 259
+Video Position: 34026
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -302,8 +302,8 @@ Dialogue: 0,0:22:37.05,0:22:37.75,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:38.60,0:22:39.82,Background,,0,0,0,,If I go here?
 Dialogue: 0,0:22:40.00,0:22:40.70,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:41.46,0:22:43.36,Background,,0,0,0,,There's a cut point here, so black connects.
-Dialogue: 0,0:22:43.39,0:22:46.86,NoteArial_Igo,,0,0,0,,{\an4\fs22.5\1c&HFFFFFF&\fad(125,417)\fry50\t(0,110,\fry0)\t(3140,3400,1,\fry50)\3c&H04B308&\4c&HFFFFFF&\bord1\shad1\pos(199,317)}The border becomes clear
-Dialogue: 0,0:22:43.39,0:22:46.86,NoteArial_Igo,,0,0,0,,{\an4\fs25\1c&HFFFFFF&\fad(125,417)\fry50\t(0,110,\fry0)\t(3140,3400,1,\fry50)\3c&H04B308&\4c&HFFFFFF&\fscx99\fscy90\bord1\shad1\pos(130,380)}Black's territory became 10 moku{\i1}!!{\i0}
+Dialogue: 0,0:22:43.39,0:22:46.86,NoteArial_Igo,,0,0,0,,{\an5\fs22.5\1c&HFFFFFF&\fad(125,517)\fry50\fscx48\t(0,110,\fry0\fscx100)\3c&H04B308&\4c&HFFFFFF&\bord1\shad1\pos(323.87,317)\t(3140,3500,1,\fry50\fscx44)}The border becomes clear
+Dialogue: 0,0:22:43.39,0:22:46.86,NoteArial_Igo,,0,0,0,,{\fscx48\an5\fs25\1c&HFFFFFF&\fad(125,517)\fry50\t(0,110,\fry0\fscx99)\3c&H04B308&\4c&HFFFFFF&\fscy90\bord1\shad1\pos(313.1,380)\t(3140,3500,1,\fry50\fscx44)}Black's territory became 10 moku{\i1}!!{\i0}
 Dialogue: 0,0:22:43.55,0:22:46.63,Background,,0,0,0,,This makes black's territory ten moku.
 Dialogue: 0,0:22:47.16,0:22:53.83,Background,,0,0,0,,But if white plays like this, Black plays\Nhere, and Black's territory is twelve moku.
 Dialogue: 0,0:22:47.54,0:22:50.01,NoteArial_Igo,,0,0,0,,{\an5\fs22.5\1c&HFFFFFF&\fad(417,209)\frx50\t(0,310,1,\frx0)\t(2300,2450,1,\frx50)\3c&H04B308&\4c&HFFFFFF&\fscx100\fscy100\bord1\shad1\pos(320,359)}But, if you make a mistake...
