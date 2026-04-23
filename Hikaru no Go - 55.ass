@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 14
-Active Line: 27
-Video Position: 5427
+Scroll Position: 9
+Active Line: 33
+Video Position: 6429
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -77,7 +77,7 @@ Dialogue: 0,0:04:01.00,0:04:02.60,Thinking,,0,0,0,,He certainly seems absorbed i
 Dialogue: 0,0:04:02.89,0:04:05.81,Thinking,,0,0,0,,He didn't seem to like it very much when he started.
 Dialogue: 0,0:04:17.04,0:04:19.33,Sai,,0,0,0,,Finally, this day has come.
 Dialogue: 0,0:04:20.71,0:04:21.89,Default,,0,0,0,,Let's go, Sai.
-Dialogue: 0,0:04:28.17,0:04:29.30,Default,,0,0,0,,Welcome!
+Dialogue: 0,0:04:28.12,0:04:29.30,Default,,0,0,0,,Welcome!
 Dialogue: 0,0:04:30.14,0:04:31.97,Thinking,,0,0,0,,She's not Mitani's sister.
 Dialogue: 0,0:04:32.64,0:04:36.30,Thinking,,0,0,0,,Maybe it's her day off. Or maybe she quit.
 Dialogue: 0,0:04:38.05,0:04:39.30,Default,,0,0,0,,You can use this machine.
