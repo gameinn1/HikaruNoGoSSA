@@ -16,9 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Active Line: 17
-Video Position: 3096
+Video Zoom Percent: 1.000000
+Scroll Position: 1
+Active Line: 7
+Video Position: 2424
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,14 +45,14 @@ Style: 61Credits,Verdana,12,&H00E7E4E5,&H00FFFFFF,&H00000000,&H80000000,-1,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\1c&HF8F1EB&\an7\bord0\blur0\shad0\pos(0,0)}{\p1}m 215 72 l 451 72 451 103 215 104{\p0}
-Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\1c&HF5EDEF&\an7\bord0\blur0\shad0\pos(0,0)}{\p1}m 433 406 l 520 407 521 435 433 435{\p0}
-Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\1c&HFEFFFC&\an7\bord0\shad0\pos(0,0)}{\p1}m 88 132 l 572 134 565 388 93 385{\p0}
-Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\fs24\1c&H000000&\blur1\fscx99\fscy125\bord0\shad0\pos(332,73)}Innoshima Hiking Path
-Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\fs32.5\1c&H000000&\fscx100\fscy90\bord0\blur1\shad0\pos(248,145)}HONINBOU
-Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\fs33.5\1c&H000000&\fscx100\fscy90\bord0\blur1\shad0\pos(419,145)}SHUUSAKU
-Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\an4\fs13.5\1c&H000000&\fscx100\fscy140\bord0\blur1\shad0\pos(107,287)}He was born in Gaikaichou of Innoshima in 1829 under the name Torajirou.\NBorn with a passion for Go, just like his mother. he became the top player\Nin the area by the time he was six. In 1841 he changed his name to Shuusaku,\Nrose by one dan in strength every year, and became 4-dan by the time he\Nwas 15. When Shuusaku became 20, he was decided to become the succesor\Nof the Honinbou family, and received the 6-dan title and married Honinbou\NJouwa's daughter Tachibana. In 1848 he entered the castle to play go, and\Nmade a never before seen record of 19 straight wins. But he died at the age\Nof 34 in the year 1862 when there was a Cholera epidemic in Edo.
-Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\fs18\1c&H000000&\blur1\fscx100\fscy75\bord0\shad0\pos(476,406)}Hiroshima\NPrefecture
+Comment: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,These values taken from 61 script (12:17)
+Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\1c&HF8F1EB&\an7\bord0\blur2\shad0\pos(0,0)}{\p1}m 215 72 l 451 72 451 103 215 104{\p0}
+Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\1c&HF5EDEF&\an7\bord0\blur2\shad0\pos(0,0)}{\p1}m 433 406 l 520 407 521 435 433 435{\p0}
+Dialogue: 0,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\1c&HFEFFFC&\an7\bord0\blur2\shad0\pos(0,0)}{\p1}m 88 132 l 572 134 565 388 93 385{\p0}
+Dialogue: 1,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\fs24\1c&H000000&\blur1\fscx99\fscy125\bord0\shad0\pos(332,72)}Innoshima Hiking Path
+Dialogue: 1,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\fs32\1c&H000000&\fscx101\fscy93\bord0\blur1\shad0\pos(337,145)}HONINBOU {\fscx105}SHUUSAKU
+Dialogue: 1,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\an4\fs13.5\1c&H000000&\fscx100\fscy141\bord0\blur1\shad0\pos(107,287)}He was born in Gaikaichou of Innoshima in 1829 under the name Torajirou.\NBorn with a passion for Go, just like his mother, he became the top player\Nin the area by the time he was six. In 1841 he changed his name to Shuusaku,\Nrose by one dan in strength every year, and became 4-dan by the time he\Nwas 15. When Shuusaku became 20, he was chosen to become the successor\Nof the Honinbou family, and received the 6-dan title and married Honinbou\NJouwa's daughter Tachibana. In 1848 he entered the castle to play go, and\Nmade a never before seen record of 19 straight wins. But he died at the age\Nof 34 in the year 1862 when there was a Cholera epidemic in Edo.
+Dialogue: 1,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\fs18\1c&H000000&\blur1\fscx100\fscy75\bord0\shad0\pos(476,406)}Hiroshima\NPrefecture
 Dialogue: 0,0:01:42.58,0:01:44.08,61Sign,,0,0,0,,{\frz270\blur1.2\fscy70\move(224,192,224,111)}ONINBOU SHUUSAKU
 Dialogue: 0,0:01:55.30,0:01:56.60,Thinking,,0,0,0,,He isn't here...
 Dialogue: 0,0:01:57.60,0:01:58.97,Thinking,,0,0,0,,Why aren't you here, Sai?

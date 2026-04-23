@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 269
-Active Line: 297
-Video Position: 29053
+Video Zoom Percent: 0.750000
+Scroll Position: 167
+Active Line: 180
+Video Position: 17677
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -216,16 +216,19 @@ Dialogue: 0,0:12:02.28,0:12:05.54,Background,,0,0,0,,Of course! It's the ISLAND 
 Dialogue: 0,0:12:05.79,0:12:08.96,Background,,0,0,0,,Don't worry, it's not supposed\Nto be that long of a trip.
 Dialogue: 0,0:12:09.79,0:12:14.59,Background,,0,0,0,,It says the Shuusaku Memorial Museum is a 15\N minute walk away after we get off the bus.
 Dialogue: 0,0:12:15.01,0:12:17.01,Background,,0,0,0,,Shuusaku Memorial Museum?
-Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\1c&HF8F1EB&\an7\bord0\blur0\shad0\pos(0,0)}{\p1}m 215 72 l 451 72 451 103 215 104{\p0}
-Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\1c&HF5EDEF&\an7\bord0\blur0\shad0\pos(0,0)}{\p1}m 433 406 l 520 407 521 435 433 435{\p0}
-Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\1c&HFEFFFC&\an7\bord0\shad0\pos(0,0)}{\p1}m 88 132 l 572 134 565 388 93 385{\p0}
-Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs24\1c&H000000&\blur1\fscx99\fscy125\bord0\shad0\pos(332,73)}Innoshima Hiking Path
-Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs32.5\1c&H000000&\fscx100\fscy90\bord0\blur1\shad0\pos(248,145)}HONINBOU
-Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs33.5\1c&H000000&\fscx100\fscy90\bord0\blur1\shad0\pos(419,145)}SHUUSAKU
-Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\an4\fs13.5\1c&H000000&\fscx100\fscy140\bord0\blur1\shad0\pos(107,287)}He was born in Gaikaichou of Innoshima in 1829 under the name Torajirou.\NBorn with a passion for Go, just like his mother. he became the top player\Nin the area by the time he was six. In 1841 he changed his name to Shuusaku,\Nrose by one dan in strength every year, and became 4-dan by the time he\Nwas 15. When Shuusaku became 20, he was decided to become the succesor\Nof the Honinbou family, and received the 6-dan title and married Honinbou\NJouwa's daughter Tachibana. In 1848 he entered the castle to play go, and\Nmade a never before seen record of 19 straight wins. But he died at the age\Nof 34 in the year 1862 when there was a Cholera epidemic in Edo.
-Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs18\1c&H000000&\blur1\fscx100\fscy75\bord0\shad0\pos(476,406)}Hiroshima\NPrefecture
-Dialogue: 0,0:12:17.26,0:12:21.04,Background,,0,0,0,,Yup, yup. It's the remains of the\Nhouse Shuusaku was born in.
-Dialogue: 0,0:12:21.22,0:12:23.60,Background,,0,0,0,,Isn't that the kind of place you wanted to go to?
+Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\1c&HF8F1EB&\an7\bord0\blur2\shad0\pos(0,0)}{\p1}m 215 72 l 451 72 451 103 215 104{\p0}
+Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\1c&HF5EDEF&\an7\bord0\blur2\shad0\pos(0,0)}{\p1}m 433 406 l 520 407 521 435 433 435{\p0}
+Dialogue: 0,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\1c&HFEFFFC&\an7\bord0\blur2\shad0\pos(0,0)}{\p1}m 88 132 l 572 134 565 388 93 385{\p0}
+Dialogue: 1,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs24\1c&H000000&\blur1\fscx99\fscy125\bord0\shad0\pos(332,72)}Innoshima Hiking Path
+Comment: 1,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,Old values
+Comment: 1,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs32.5\1c&H000000&\fscx100\fscy90\bord0\blur0.8\shad0\pos(248,145)}HONINBOU
+Comment: 1,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs33.5\1c&H000000&\fscx100\fscy90\bord0\blur0.8\shad0\pos(419,145)}SHUUSAKU
+Dialogue: 1,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs32\1c&H000000&\fscx101\fscy93\bord0\blur1\shad0\pos(337,145)}HONINBOU {\fscx105}SHUUSAKU
+Comment: 1,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\an4\fs13.5\1c&H000000&\fscx100\fscy140\bord0\blur0.8\shad0\pos(107,287)}He was born in Gaikaichou of Innoshima in 1829 under the name Torajirou.\NBorn with a passion for Go, just like his mother. he became the top player\Nin the area by the time he was six. In 1841 he changed his name to Shuusaku,\Nrose by one dan in strength every year, and became 4-dan by the time he\Nwas 15. When Shuusaku became 20, he was decided to become the succesor\Nof the Honinbou family, and received the 6-dan title and married Honinbou\NJouwa's daughter Tachibana. In 1848 he entered the castle to play go, and\Nmade a never before seen record of 19 straight wins. But he died at the age\Nof 34 in the year 1862 when there was a Cholera epidemic in Edo.
+Dialogue: 1,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\an4\fs13.5\1c&H000000&\fscx100\fscy141\bord0\blur1\shad0\pos(107,287)}He was born in Gaikaichou of Innoshima in 1829 under the name Torajirou.\NBorn with a passion for Go, just like his mother, he became the top player\Nin the area by the time he was six. In 1841 he changed his name to Shuusaku,\Nrose by one dan in strength every year, and became 4-dan by the time he\Nwas 15. When Shuusaku became 20, he was chosen to become the successor\Nof the Honinbou family, and received the 6-dan title and married Honinbou\NJouwa's daughter Tachibana. In 1848 he entered the castle to play go, and\Nmade a never before seen record of 19 straight wins. But he died at the age\Nof 34 in the year 1862 when there was a Cholera epidemic in Edo.
+Dialogue: 1,0:12:17.01,0:12:24.01,NoteArial,,0,0,0,,{\fs18\1c&H000000&\blur1\fscx100\fscy75\bord0\shad0\pos(476,406)}Hiroshima\NPrefecture
+Dialogue: 2,0:12:17.26,0:12:21.04,Background,,0,0,0,,Yup, yup. It's the remains of the\Nhouse Shuusaku was born in.
+Dialogue: 2,0:12:21.22,0:12:23.60,Background,,0,0,0,,Isn't that the kind of place you wanted to go to?
 Dialogue: 0,0:12:24.01,0:12:33.97,bannersign,,0,0,0,,{\blur1.2\fscx101\fscy110\an4\fs26\frz271.8\move(316,114,316,-425,16,9943)\c&H9B66DA&}THE TOP {\fscx116}GO GO{\fsp2}D OF
 Dialogue: 0,0:12:24.01,0:12:34.02,bannersign,,0,0,0,,{\blur1.2\fscy110\an4\fs26\frz271.8\fscx125\fsp2\move(328,482,327.84,-60,0,0)\c&H9B66DA&}JAPAN
 Dialogue: 0,0:12:24.01,0:12:34.02,bannersign,,0,0,0,,{\blur1.2\fscx131\fscy90\fs32\an4\frz270\move(236,459,236,-81,16,9993)\c&H60504A&}HONINBOU SHUUSAKU
