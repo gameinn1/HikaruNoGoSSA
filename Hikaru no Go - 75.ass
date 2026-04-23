@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 266
+Video Zoom Percent: 0.625000
+Scroll Position: 260
 Active Line: 269
-Video Position: 34671
+Video Position: 34591
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -313,6 +313,9 @@ Dialogue: 0,0:22:41.84,0:22:42.67,Default,,0,0,0,,Do your best, okay?
 Dialogue: 0,0:22:43.68,0:22:47.14,Default,,0,0,0,,The three of us will keep playing Go.
 Dialogue: 0,0:22:47.35,0:22:51.31,Default,,0,0,0,,I hope that we'll be able to meet\Nall of you someday, somewhere.
 Dialogue: 0,0:22:52.52,0:22:53.60,Default,,0,0,0,,Well then everyone.
+Comment: 0,0:22:53.48,0:22:57.36,NoteArial_Igo,,0,0,0,,Old values and timing
+Comment: 0,0:22:53.48,0:22:57.36,NoteArial_Igo,,0,0,0,,{\an4\3c&HF90000&\4c&HF90000&\fscx99\fscy99\bord1.5\shad0.5\fad(1001,0)\pos(57,341)}Thank you so much\Nfor your continued support{\i1}!!{\i0}
+Comment: 0,0:22:53.48,0:22:57.36,NoteArial_Igo,,0,0,0,,{\fs25\3c&H0300EA&\4c&H0300EA&\fscx99\fscy99\bord1.5\shad0.5\fad(1001,0)\pos(492,347)}The End
 Dialogue: 0,0:22:53.50,0:22:57.36,NoteArial_Igo,,0,0,0,,{\an4\3c&HF90000&\4c&HF90000&\fscx99\fscy99\bord1.5\shad0.5\fad(959,0)\pos(57,341)}Thank you so much\Nfor your continued support{\i1}!!{\i0}
 Dialogue: 0,0:22:53.50,0:22:57.36,NoteArial_Igo,,0,0,0,,{\fs25\3c&H0300EA&\4c&H0300EA&\fscx99\fscy99\bord1.5\shad0.5\fad(959,0)\pos(492,347)}The End
 Dialogue: 0,0:22:53.98,0:22:55.19,Default,,0,0,0,,Good bye!
