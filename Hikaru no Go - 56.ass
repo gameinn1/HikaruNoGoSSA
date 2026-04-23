@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 423
-Active Line: 447
-Video Position: 31523
+Video Zoom Percent: 1.000000
+Scroll Position: 17
+Active Line: 20
+Video Position: 6282
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +64,7 @@ Dialogue: 0,0:04:03.46,0:04:05.16,Thinking,,0,0,0,,This time...
 Dialogue: 0,0:04:06.93,0:04:09.28,Default,,0,0,0,,Maybe I'll stop by the hospital on my way home,
 Dialogue: 0,0:04:09.54,0:04:12.81,Default,,0,0,0,,and check up on my opponent\Nfor the Jyudan match.
 Dialogue: 0,0:04:16.03,0:04:19.36,NoteArial,,0,0,0,,{\fs11\1c&H4B2E9F&\shad1\bord0\frz7\fscy140\move(368,490,368,218)\frx12\fry345}AISHINDOU\NHOSPITAL
-Dialogue: 0,0:04:21.99,0:04:23.62,NoteArial,,0,0,0,,{\fs27.5\blur0.8\1c&H4A2D34&\bord0\pos(342,116)}N\NO\N\N\NV\NI\NS\NI\NT\NO\NR\NS
+Dialogue: 0,0:04:21.99,0:04:23.62,NoteArial,,0,0,0,,{\fs27.5\blur0.8\1c&H4A2D34&\bord0\shad0.5\pos(342,116)}N\NO\N\N\NV\NI\NS\NI\NT\NO\NR\NS
 Dialogue: 0,0:04:24.62,0:04:25.91,Default,,0,0,0,,No visitors!?
 Dialogue: 0,0:04:29.37,0:04:30.25,Background,,0,0,0,,Excuse me!
 Dialogue: 0,0:04:31.52,0:04:33.88,Default,,0,0,0,,Did something happen to Master Touya?

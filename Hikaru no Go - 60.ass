@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 267
-Active Line: 280
-Video Position: 33985
+Scroll Position: 41
+Active Line: 53
+Video Position: 7529
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,15 +93,15 @@ Dialogue: 0,0:04:29.08,0:04:31.54,Background,,0,0,0,,Why don't you just watch me
 Dialogue: 0,0:04:34.75,0:04:36.46,Default,,0,0,0,,What are you waiting for, Sai!?
 Dialogue: 0,0:04:41.39,0:04:42.72,Sai,,0,0,0,,Hikaru can...
 Dialogue: 0,0:04:46.64,0:04:48.02,Sai,,0,0,0,,Hikaru can...
-Dialogue: 0,0:05:13.21,0:05:15.59,NoteArial,,0,0,0,,{\fs35\1c&HBD8A7D&\shad0\bord0\blur0\fscy70\frz17\i1\move(252,205,252,-44)}WELCOME{\i0}
-Dialogue: 0,0:05:13.21,0:05:17.13,NoteArial,,0,0,0,,{\fs37.5\1c&HBD8A7D&\shad0\bord0\blur0\fscy60\frz270\move(443,322,443,-85)}Japanese
-Dialogue: 0,0:05:13.21,0:05:17.42,NoteArial,,0,0,0,,{\fs37.5\1c&HBD8A7D&\shad0\bord0\blur0\fscy60\frz270\move(420,340,420,-100)}Go Institute
-Dialogue: 0,0:05:13.21,0:05:18.05,NoteArial,,0,0,0,,{\fs71\1c&H0E060A&\shad0\bord0\blur0\fscx100\fscy32\frz270\move(328,577,328,70)}GO SEMINAR
-Dialogue: 0,0:05:15.92,0:05:18.05,NoteArial,,0,0,0,,{\fs35\1c&H150909&\shad0\bord0\blur0\fscx100\fscy75\frz17\i1\move(347,500,347,278)}Participants{\i0}
-Dialogue: 0,0:05:25.05,0:05:32.52,NoteArial,,0,0,0,,{\fs11\1c&H1C0F1A&\bord0\shad0\blur0\fscy80\frz270\pos(99,160)}Japanese
-Dialogue: 0,0:05:25.05,0:05:32.52,NoteArial,,0,0,0,,{\fs9.5\1c&H1C0F1A&\bord0\shad0\blur0\fscy80\frz270\pos(89,160)}Go Institute
-Dialogue: 0,0:05:25.05,0:05:32.52,NoteArial,,0,0,0,,{\fs15\1c&H1C0F1A&\bord0\shad0\blur0\fscy65\frz270\pos(115,273)}GO SEMINAR
-Dialogue: 0,0:05:25.05,0:05:32.52,NoteArial,,0,0,0,,{\fs7.5\1c&H1C0F1A&\bord0\shad0\blur0\fscy160\frz2\pos(100,323)}Registration
+Dialogue: 0,0:05:13.21,0:05:15.59,NoteArial,,0,0,0,,{\fs35\1c&HBD8A7D&\shad0\bord0\blur0.8\fscy70\frz17\i1\move(252,205,252,-44)}WELCOME{\i0}
+Dialogue: 0,0:05:13.21,0:05:17.13,NoteArial,,0,0,0,,{\fs37.5\1c&HBD8A7D&\shad0\bord0\blur0.8\fscy60\frz270\move(443,322,443,-85)}Japanese
+Dialogue: 0,0:05:13.21,0:05:17.42,NoteArial,,0,0,0,,{\fs37.5\1c&HBD8A7D&\shad0\bord0\blur0.8\fscy60\frz270\move(420,340,420,-100)}Go Institute
+Dialogue: 0,0:05:13.21,0:05:18.05,NoteArial,,0,0,0,,{\fs71\1c&H0E060A&\shad0\bord0\blur0.8\fscx100\fscy32\frz270\move(328,577,328,70)}GO SEMINAR
+Dialogue: 0,0:05:15.92,0:05:18.05,NoteArial,,0,0,0,,{\fs35\1c&H150909&\shad0\bord0\blur0.8\fscx100\fscy75\frz17\i1\move(347,500,347,278)}Participants{\i0}
+Dialogue: 0,0:05:25.05,0:05:32.52,NoteArial,,0,0,0,,{\fs11\1c&H1C0F1A&\bord0\shad0\blur0.8\fscy80\frz270\pos(99,160)}Japanese
+Dialogue: 0,0:05:25.05,0:05:32.52,NoteArial,,0,0,0,,{\fs9.5\1c&H1C0F1A&\bord0\shad0\blur0.8\fscy80\frz270\pos(89,160)}Go Institute
+Dialogue: 0,0:05:25.05,0:05:32.52,NoteArial,,0,0,0,,{\fs15\1c&H1C0F1A&\bord0\shad0\blur0.8\fscy65\frz270\pos(115,273)}GO SEMINAR
+Dialogue: 0,0:05:25.05,0:05:32.52,NoteArial,,0,0,0,,{\fs7.5\1c&H1C0F1A&\bord0\shad0\blur0.8\fscy160\frz2\pos(100,323)}Registration
 Dialogue: 0,0:05:25.81,0:05:26.93,Default,,0,0,0,,Good morning!
 Dialogue: 0,0:05:27.52,0:05:28.85,Default,,0,0,0,,Oh, Shindou-kun!
 Dialogue: 0,0:05:31.14,0:05:32.52,Default,,0,0,0,,Here's the schedule.

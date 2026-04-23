@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 14
-Active Line: 26
+Active Line: 27
 Video Position: 5427
 
 [V4+ Styles]
@@ -70,8 +70,8 @@ Dialogue: 0,0:03:23.02,0:03:27.31,Thinking,,0,0,0,,The next chance I'll have to 
 Dialogue: 0,0:03:28.37,0:03:33.99,Thinking,,0,0,0,,But I can watch Shindou's matches against\Nother pro players before then.
 Dialogue: 0,0:03:34.53,0:03:37.82,Thinking,,0,0,0,,I'll measure Shindou's strength from them.
 Dialogue: 0,0:03:38.74,0:03:44.99,Thinking,,0,0,0,,Yes... It won't be too long now...\Nuntil I find out exactly who he is!
-Dialogue: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0\pos(389,53)\frx0\fry6}N\NO
-Dialogue: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0\pos(389,152)\frx0\fry6}V\NI\NS\NI\NT\NO\NR\NS
+Dialogue: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0.5\pos(389,53)\frx0\fry6}N\NO
+Dialogue: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0.5\pos(389,152)\frx0\fry6}V\NI\NS\NI\NT\NO\NR\NS
 Dialogue: 0,0:03:55.05,0:04:00.30,Thinking,,0,0,0,,But for my father to want to play Internet\NGo, without being interrupted?
 Dialogue: 0,0:04:01.00,0:04:02.60,Thinking,,0,0,0,,He certainly seems absorbed in it.
 Dialogue: 0,0:04:02.89,0:04:05.81,Thinking,,0,0,0,,He didn't seem to like it very much when he started.

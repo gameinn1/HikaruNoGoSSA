@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 53 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 156
-Active Line: 173
-Video Position: 16968
+Scroll Position: 35
+Active Line: 44
+Video Position: 5927
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,7 +85,10 @@ Dialogue: 0,0:03:53.15,0:03:55.15,Sai,,0,0,0,,he's all right, right?
 Dialogue: 0,0:03:55.47,0:03:57.99,Default,,0,0,0,,Yeah. He's still at the hospital though.
 Dialogue: 0,0:03:58.90,0:04:01.14,Sai,,0,0,0,,Let's go! Let's go check up on him!
 Dialogue: 0,0:04:02.35,0:04:03.64,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:04:07.64,0:04:10.65,NoteArial,,0,0,0,,{\fs60\fscy60\t(0,2985,1,\fs51.5\fscy62)\frz-4\4c&HFFFFFF&\bord1.5\shad1.5\1a&HFF&\3c&H262ACB&\fscy60\move(342,51,338,75,0,2985)}AISHINDOU HOSPITAL
+Comment: 0,0:04:07.64,0:04:10.65,NoteArial,,0,0,0,,R-F is likely frz-4 but I think frz-4.5 seems to match better.
+Comment: 0,0:04:07.64,0:04:10.65,NoteArial,,0,0,0,,Old version: {\fs60\fscy60\t(0,2985,1,\fs51.5\fscy62)\frz-4\4c&HFFFFFF&\bord1.5\shad1.5\1a&HFF&\3c&H262ACB&\fscy60\move(342,51,338,75,0,2985)}AISHINDOU HOSPITAL
+Comment: 0,0:04:07.64,0:04:10.65,NoteArial,,0,0,0,,gabest11 line but this is Century Gothic and no shadow. {\move(320,46,320,71)\frz-4.5\fs40\t(\fs35)\fscx160\1a&HFF&\3c&HFF&}AISHINDOU HOSPITAL
+Dialogue: 0,0:04:07.64,0:04:10.65,NoteArial,,0,0,0,,{\fs60\blur0.8\fscy60\t(0,2985,1,\fs53\fscy62)\frz-4.5\4c&HFFFFFF&\bord1.5\shad1.5\1a&HFF&\3c&H262ACB&\fscy60\move(342,50,342,75,0,2985)}AISHINDOU HOSPITAL
 Dialogue: 0,0:04:08.85,0:04:09.98,Background,,0,0,0,,This must be it.
 Dialogue: 0,0:04:12.39,0:04:13.53,Default,,0,0,0,,Let's see...
 Dialogue: 0,0:04:13.53,0:04:16.15,Sai,,0,0,0,,Hurry up, Hikaru!
