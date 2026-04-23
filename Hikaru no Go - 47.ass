@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 255
-Active Line: 261
-Video Position: 24721
+Active Line: 265
+Video Position: 24886
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -309,7 +309,7 @@ Dialogue: 0,0:16:53.37,0:16:54.57,Default,,0,0,0,,When the new year comes...
 Dialogue: 0,0:17:05.59,0:17:09.59,NoteArial,,0,0,0,,{\fs30\t(0,3980,1,\fs36)\bord0\1c&H000000&\4c&HFFFFFF&\shad0.5\move(377,67,383,40,0,3980)\frx0\fry5}T\No\Nu\Ny\Na\N\NK\No\Nu\Ny\No\Nu
 Dialogue: 1,0:17:06.25,0:17:09.35,Background,,0,0,0,,Sorry for interviewing you during New Years.
 Dialogue: 0,0:17:10.22,0:17:13.14,Background,,0,0,0,,But now that you have your fifth title, Meijin,
-Dialogue: 0,0:17:13.14,0:17:16.38,Background,,0,0,0,,you and Touya are both going to get busier.
+Dialogue: 0,0:17:13.14,0:17:16.26,Background,,0,0,0,,you and Touya-kun are both going to get busier.
 Dialogue: 0,0:17:17.90,0:17:22.41,Default,,0,0,0,,It's too bad your winning streak\Nstopped at 26 last year.
 Dialogue: 0,0:17:22.83,0:17:25.70,Default,,0,0,0,,But, I'm expecting just as much from you this year.
 Dialogue: 0,0:17:26.00,0:17:27.00,Default,,0,0,0,,I'll try my best.
