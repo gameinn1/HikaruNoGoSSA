@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 248
-Active Line: 262
-Video Position: 34016
+Scroll Position: 15
+Active Line: 20
+Video Position: 5194
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,7 +44,7 @@ Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.80,0:01:43.60,Sai,,0,0,0,,Let me...
+Dialogue: 0,0:01:42.75,0:01:43.60,Sai,,0,0,0,,Let me...
 Dialogue: 0,0:01:44.63,0:01:47.05,Sai,,0,0,0,,Please let me play, Hikaru.
 Dialogue: 0,0:01:48.55,0:01:49.71,Default,,0,0,0,,You've got to be kidding!
 Dialogue: 0,0:01:50.31,0:01:53.04,Background,,0,0,0,,If I let you play, you're going to win for sure...
@@ -59,15 +59,29 @@ Dialogue: 0,0:02:29.71,0:02:32.29,Thinking,,0,0,0,,Twenty minutes for him to pla
 Dialogue: 0,0:02:32.89,0:02:35.26,Thinking,,0,0,0,,What an unexpected beginning.
 Dialogue: 0,0:02:36.78,0:02:40.25,Thinking,,0,0,0,,Let's see how the Meijin responds to this move.
 Dialogue: 0,0:03:00.01,0:03:01.79,Sai,,0,0,0,,Hoshi on the lower right corner.
-Dialogue: 0,0:03:20.72,0:03:21.93,Default,,0,0,0,,It's so stuffy in there.
-Dialogue: 0,0:03:22.24,0:03:24.25,Default,,0,0,0,,I'm so tired.
-Dialogue: 0,0:03:24.25,0:03:26.35,Default,,0,0,0,,It's the first time that\Nsomething like this has happened.
+Dialogue: 0,0:03:20.64,0:03:21.93,Default,,0,0,0,,It's so stuffy in there.
+Dialogue: 0,0:03:22.18,0:03:24.18,Default,,0,0,0,,I'm so tired.
+Dialogue: 0,0:03:24.23,0:03:26.35,Default,,0,0,0,,It's the first time that\Nsomething like this has happened.
 Dialogue: 0,0:03:26.72,0:03:29.18,Default,,0,0,0,,He didn't look nervous though.
 Dialogue: 0,0:03:31.36,0:03:32.74,Default,,0,0,0,,Touya-kun was here, wasn't he?
+Dialogue: 0,0:03:32.94,0:03:33.73,NoteArial,,0,0,0,,{\fs17.5\1c&H1D2637&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz271\pos(350,287)}Press Affiliates Only
+Dialogue: 0,0:03:33.73,0:03:34.07,NoteArial,,0,0,0,,{\fs17.5\1c&H1D2637&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz271\pos(350,287)}Pres{\alpha&HFF&}s Affiliates Only
+Dialogue: 0,0:03:32.94,0:03:33.57,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}P\NR\NE\NS\NS\N\N\NR\NO\NO\NM
+Dialogue: 0,0:03:33.57,0:03:33.73,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}P\NR\NE\NS\NS\N\N\NR\NO\NO\N{\alpha&HFF&}M
+Dialogue: 0,0:03:33.73,0:03:33.86,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&HFF&}P\NR\NE\NS\NS\N\N\N{\alpha&H00&}R{\alpha&HFF&}\NO\NO\NM
+Dialogue: 0,0:03:34.36,0:03:34.44,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&HFF&}P\NR\NE\NS\NS\N\N\NR\NO\NO\N{\alpha&H00&}M
+Dialogue: 0,0:03:34.44,0:03:34.61,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&H00&}P{\alpha&HFF&}\NR\NE\NS\NS\N\N\NR\NO\N{\alpha&H00&}O\NM
+Dialogue: 0,0:03:34.61,0:03:34.74,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&H00&}P\NR\NE\N{\alpha&HFF&}S\NS\N\N\NR\N{\alpha&H00&}O\NO\NM
+Dialogue: 0,0:03:34.74,0:03:34.94,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&H00&}P\NR\NE\NS\N{\alpha&HFF&}S\N\N\NR\N{\alpha&H00&}O\NO\NM
+Dialogue: 0,0:03:34.94,0:03:35.07,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&H00&}P\NR\NE\N{\alpha&HFF&}S\NS\N\N\NR\N{\alpha&H00&}O\NO\NM
+Dialogue: 0,0:03:35.07,0:03:35.24,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&H00&}P\NR\NE\N{\alpha&HFF&}S\NS\N\N\NR\NO\NO\N{\alpha&H00&}M
+Dialogue: 0,0:03:35.24,0:03:35.36,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&H00&}P\NR\NE\N{\alpha&HFF&}S\NS\N\N\NR\NO\NO\NM
+Dialogue: 0,0:03:35.36,0:03:35.45,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&H00&}P\NR{\alpha&HFF&}\NE\NS\NS\N\N\NR\NO\NO\NM
+Dialogue: 0,0:03:35.45,0:03:35.57,NoteArial,,0,0,0,,{\fs15\1c&H323842&\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\pos(445,78)}{\alpha&H00&}P{\alpha&HFF&}\NR\NE\NS\NS\N\N\NR\NO\NO\NM
 Dialogue: 0,0:03:33.78,0:03:36.90,Default,,0,0,0,,Let's ask him his thoughts about the\Nlong time he spent on the first move.
-Dialogue: 0,0:03:40.75,0:03:41.83,Default,,0,0,0,,Mr. Ogata...
-Dialogue: 0,0:03:42.74,0:03:44.17,Default,,0,0,0,,Even Master Kuwabara!?
-Dialogue: 0,0:03:44.85,0:03:49.96,Default,,0,0,0,,That took some time. The match\Ndid start on time... Right, Amano-san?
+Dialogue: 0,0:03:40.70,0:03:41.87,Default,,0,0,0,,Mr. Ogata...
+Dialogue: 0,0:03:42.70,0:03:44.12,Default,,0,0,0,,Even Master Kuwabara!?
+Dialogue: 0,0:03:44.79,0:03:49.96,Default,,0,0,0,,That took some time. The match\Ndid start on time... Right, Amano-san?
 Dialogue: 0,0:03:51.31,0:03:54.87,Default,,0,0,0,,Yes. Shindou-kun surprised me.
 Dialogue: 0,0:03:55.30,0:03:57.89,Default,,0,0,0,,He spent twenty minutes on the first move.
 Dialogue: 0,0:03:58.67,0:04:02.89,Default,,0,0,0,,On that note, Master Kuwabara,\Nare you here for Shindou-kun today?
@@ -233,16 +247,16 @@ Dialogue: 0,0:18:32.72,0:18:36.87,Default,,0,0,0,,Man, it was your fault for com
 Dialogue: 0,0:18:41.11,0:18:43.27,Default,,0,0,0,,Wasn't Shuusaku better, Sai?
 Dialogue: 0,0:18:43.98,0:18:47.75,Default,,0,0,0,,Unlike me, Shuusaku let\Nyou play all the games, right?
 Dialogue: 0,0:18:48.15,0:18:50.73,Default,,0,0,0,,Oh wait, you called him Torajirou, right?
-Dialogue: 0,0:18:49.73,0:18:50.73,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz13\pos(246,205)}The\NHint\Nto Tsumego
-Dialogue: 0,0:18:50.73,0:18:50.86,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz21\pos(235,197)}The\NHint\Nto Tsumego
-Dialogue: 0,0:18:50.86,0:18:50.98,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz33\pos(222,183)}The\NHint\Nto Tsumego
-Dialogue: 0,0:18:50.98,0:18:51.15,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz51\pos(183,181)}The\NHint\Nto Tsumego
-Dialogue: 0,0:18:51.15,0:18:51.23,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz52\pos(209,133)}The\NHint\Nto Tsumego
-Dialogue: 0,0:18:51.23,0:18:51.36,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz53\pos(235,82)}The\NHint\Nto Tsumego
-Dialogue: 0,0:18:51.36,0:18:51.49,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz53\pos(260,31)}The\NHint\Nto Tsumego
-Dialogue: 0,0:18:51.49,0:18:51.65,NoteArial,,0,0,0,,{\an6\fs15.5\bord0.5\shad0\1c&H000000&\3c&HFFFFFF&\frz53\pos(311,-62)}The\NHint\Nto Tsumego
-Dialogue: 0,0:18:51.23,0:18:55.19,Thinking,,0,0,0,,I wonder why Torajirou didn't want to play.
-Dialogue: 0,0:18:56.64,0:18:58.46,Default,,0,0,0,,Didn't he want to become a Go player?
+Dialogue: 0,0:18:49.73,0:18:50.73,NoteArial,,0,0,0,,{\an6\fs15.5\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz13\pos(246,205)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:50.73,0:18:50.86,NoteArial,,0,0,0,,{\an6\fs15.5\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz21\pos(235,197)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:50.86,0:18:50.98,NoteArial,,0,0,0,,{\an6\fs15.5\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz33\pos(222,183)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:50.98,0:18:51.15,NoteArial,,0,0,0,,{\an6\fs15.5\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz51\pos(183,181)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:51.15,0:18:51.23,NoteArial,,0,0,0,,{\an6\fs15.5\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz52\pos(209,133)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:51.23,0:18:51.36,NoteArial,,0,0,0,,{\an6\fs15.5\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz53\pos(235,82)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:51.36,0:18:51.49,NoteArial,,0,0,0,,{\an6\fs15.5\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz53\pos(260,31)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:51.49,0:18:51.65,NoteArial,,0,0,0,,{\an6\fs15.5\blur0.8\bord0\shad0\1c&H000000&\3c&HFFFFFF&\frz53\pos(311,-62)}The\NHint\Nto Tsumego
+Dialogue: 0,0:18:51.23,0:18:55.11,Thinking,,0,0,0,,I wonder why Torajirou didn't want to play.
+Dialogue: 0,0:18:56.57,0:18:58.46,Default,,0,0,0,,Didn't he want to become a Go player?
 Dialogue: 0,0:18:59.01,0:19:00.33,Default,,0,0,0,,What a boring guy.
 Dialogue: 0,0:19:00.93,0:19:05.84,Sai,,0,0,0,,That's... that's my... my fault!
 Dialogue: 0,0:19:06.88,0:19:09.92,Sai,,0,0,0,,I was impatient when I returned to the real world,
