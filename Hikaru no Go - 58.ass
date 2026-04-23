@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 80
-Active Line: 95
-Video Position: 10790
+Video Zoom Percent: 0.625000
+Scroll Position: 74
+Active Line: 100
+Video Position: 11214
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -144,7 +144,7 @@ Dialogue: 0,0:07:31.10,0:07:34.48,Default,,0,0,0,,I want to look at the Kifu, bu
 Dialogue: 0,0:07:35.12,0:07:37.60,Default,,0,0,0,,Weekly Go won't come out until next week...
 Dialogue: 0,0:07:41.94,0:07:45.19,NoteArial,,0,0,0,,{\fs27.5\shad0\bord0\fscy120\1c&HB2DCF1&\frz21\pos(247,187)}RAMEN
 Dialogue: 0,0:07:43.07,0:07:44.80,Background,,0,0,0,,I'm getting hungry.
-Dialogue: 0,0:07:46.20,0:07:47.37,Background,,0,0,0,,Welcome!
+Dialogue: 0,0:07:46.15,0:07:47.24,Background,,0,0,0,,Welcome!
 Dialogue: 0,0:07:52.08,0:07:53.08,Background,,0,0,0,,Kurata-san!
 Dialogue: 0,0:07:55.08,0:07:56.12,Default,,0,0,0,,Shindou?
 Dialogue: 0,0:07:56.71,0:07:58.54,Default,,0,0,0,,What are you doing at a place like this?
