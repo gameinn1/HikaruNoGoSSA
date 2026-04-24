@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 58 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 74
-Active Line: 100
-Video Position: 11214
+Scroll Position: 342
+Active Line: 350
+Video Position: 32211
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +40,7 @@ Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
-Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0,0,1,0,1,7,56,56,14,1
+Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,-1,0,0,0,100,100,0,0,1,0,1,7,56,56,14,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -138,11 +138,11 @@ Dialogue: 0,0:07:17.04,0:07:20.67,Sai,,0,0,0,,He's not the type of person who ch
 Dialogue: 0,0:07:21.17,0:07:22.09,Sai,,0,0,0,,He isn't...
 Dialogue: 0,0:07:23.63,0:07:25.05,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:07:25.80,0:07:27.64,Background,,0,0,0,,This is bad...
-Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs20\blur0.5\shad0\bord0\frz90\fscy120\1c&H4231AB&\pos(65,281)}RAMEN
-Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs14.5\blur0.5\shad0\bord0\frz90\fscy160\1c&H4231AB&\pos(90,281)}Yamanishi
+Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs20\blur0.6\shad0\bord0\frz90\fscy120\1c&H4231AB&\pos(65,281)}RAMEN
+Dialogue: 0,0:07:30.01,0:07:34.48,NoteArial,,0,0,0,,{\fs14.5\blur0.6\shad0\bord0\frz90\fscy160\1c&H4231AB&\pos(90,281)}Yamanishi
 Dialogue: 0,0:07:31.10,0:07:34.48,Default,,0,0,0,,I want to look at the Kifu, but I'm not sure\Nif I can get it at the Institute or not.
 Dialogue: 0,0:07:35.12,0:07:37.60,Default,,0,0,0,,Weekly Go won't come out until next week...
-Dialogue: 0,0:07:41.94,0:07:45.19,NoteArial,,0,0,0,,{\fs27.5\shad0\bord0\fscy120\1c&HB2DCF1&\frz21\pos(247,187)}RAMEN
+Dialogue: 0,0:07:41.94,0:07:45.19,NoteArial,,0,0,0,,{\blur0.6\fax-0.18\fry-18\frx4\fs27.5\shad0\bord0\fscy120\fscx102\1c&HB2DCF1&\frz22.16\pos(249,187)}RAMEN
 Dialogue: 0,0:07:43.07,0:07:44.80,Background,,0,0,0,,I'm getting hungry.
 Dialogue: 0,0:07:46.15,0:07:47.24,Background,,0,0,0,,Welcome!
 Dialogue: 0,0:07:52.08,0:07:53.08,Background,,0,0,0,,Kurata-san!
@@ -394,24 +394,24 @@ Dialogue: 0,0:20:26.66,0:20:28.75,Default,,0,0,0,,has announced his retirement!
 Dialogue: 0,0:20:29.88,0:20:30.54,Default,,0,0,0,,What!?
 Dialogue: 0,0:20:32.25,0:20:32.96,Default,,0,0,0,,Master...
 Dialogue: 0,0:20:33.80,0:20:35.20,Default,,0,0,0,,Touya's...
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.1\t(50,162,1,\1a&H00&\4a&H50&)}e
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,99)\4c&HF9CF72&\4a&HFF&\shad1.1\t(75,187,1,\1a&H00&\4a&H50&)}z
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,114)\4c&HFADB82&\4a&HFF&\shad1.1\t(100,212,1,\1a&H00&\4a&H50&)}a
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,129)\4c&HFBE792&\4a&HFF&\shad1.1\t(125,237,1,\1a&H00&\4a&H50&)}w
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,144)\4c&HFDF2A1&\4a&HFF&\shad1.1\t(150,262,1,\1a&H00&\4a&H50&)}a
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,171)\4c&HFEFEB1&\4a&HFF&\shad1.1\t(175,287,1,\1a&H00&\4a&H50&)}Y
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,186)\4c&HFDF2A1&\4a&HFF&\shad1.1\t(200,312,1,\1a&H00&\4a&H50&)}u
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,201)\4c&HFBE792&\4a&HFF&\shad1.1\t(225,337,1,\1a&H00&\4a&H50&)}k
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,216)\4c&HFADB82&\4a&HFF&\shad1.1\t(250,362,1,\1a&H00&\4a&H50&)}a
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,231)\4c&HF9CF72&\4a&HFF&\shad1.1\t(275,387,1,\1a&H00&\4a&H50&)}r
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,246)\4c&HF8C362&\4a&HFF&\shad1.1\t(300,412,1,\1a&H00&\4a&H50&)}i
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,262)\4c&HF6B853&\4a&HFF&\shad1.1\t(325,437,1,\1a&H00&\4a&H50&)}'
-Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,268)\4c&HF5AC43&\4a&HFF&\shad1.1\t(350,462,1,\1a&H00&\4a&H50&)}s
-Dialogue: 0,0:22:10.61,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
-Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
-Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.5\t(0,112,1,\1a&H00&\4a&H50&)}U
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.5\t(25,137,1,\1a&H00&\4a&H50&)}m
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.5\t(50,162,1,\1a&H00&\4a&H50&)}e
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,99)\4c&HF9CF72&\4a&HFF&\shad1.5\t(75,187,1,\1a&H00&\4a&H50&)}z
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,114)\4c&HFADB82&\4a&HFF&\shad1.5\t(100,212,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,129)\4c&HFBE792&\4a&HFF&\shad1.5\t(125,237,1,\1a&H00&\4a&H50&)}w
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,144)\4c&HFDF2A1&\4a&HFF&\shad1.5\t(150,262,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,171)\4c&HFEFEB1&\4a&HFF&\shad1.5\t(175,287,1,\1a&H00&\4a&H50&)}Y
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,186)\4c&HFDF2A1&\4a&HFF&\shad1.5\t(200,312,1,\1a&H00&\4a&H50&)}u
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,201)\4c&HFBE792&\4a&HFF&\shad1.5\t(225,337,1,\1a&H00&\4a&H50&)}k
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,216)\4c&HFADB82&\4a&HFF&\shad1.5\t(250,362,1,\1a&H00&\4a&H50&)}a
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,231)\4c&HF9CF72&\4a&HFF&\shad1.5\t(275,387,1,\1a&H00&\4a&H50&)}r
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,246)\4c&HF8C362&\4a&HFF&\shad1.5\t(300,412,1,\1a&H00&\4a&H50&)}i
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,262)\4c&HF6B853&\4a&HFF&\shad1.5\t(325,437,1,\1a&H00&\4a&H50&)}'
+Dialogue: 0,0:22:09.30,0:22:12.28,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,268)\4c&HF5AC43&\4a&HFF&\shad1.5\t(350,462,1,\1a&H00&\4a&H50&)}s
+Dialogue: 0,0:22:10.61,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an2\fscx300\fscy300\fs200\shad3\4c&HF5AC43&\4a&H50&\t(0,90,\fscx100\fscy100)\move(80,184,38,271,0,90)}I
+Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad3\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(133,12,40,279,0,220)}g
+Dialogue: 0,0:22:10.50,0:22:12.28,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad3\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 1,0:22:12.62,0:22:14.51,Default,,0,0,0,,Let's cover 'Seki' today.
 Dialogue: 0,0:22:12.80,0:22:12.98,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(167,0)\3c&H157DF9&\4c&H157DF9&\fscx100\fscy100\bord2\shad0.5\move(201,450,201,350)}Teacher Yukari
 Dialogue: 0,0:22:12.98,0:22:16.60,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,501)\3c&H157DF9&\4c&H157DF9&\fscx100\fscy100\bord2\shad0.5\pos(201,350)}Teacher Yukari
