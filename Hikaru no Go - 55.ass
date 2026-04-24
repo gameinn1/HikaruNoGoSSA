@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 9
-Active Line: 33
-Video Position: 6429
+Active Line: 8
+Video Position: 3251
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,7 +51,7 @@ Dialogue: 0,0:01:59.28,0:02:02.99,Sai,,0,0,0,,The same path to master the divine
 Dialogue: 0,0:02:04.45,0:02:06.92,Sai,,0,0,0,,Tomorrow! My wish will be granted!
 Dialogue: 0,0:02:08.41,0:02:10.11,Sai,,0,0,0,,How much closer can I get...
 Dialogue: 0,0:02:10.74,0:02:12.03,Sai,,0,0,0,,to the divine move!?
-Dialogue: 0,0:02:13.95,0:02:18.95,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(315,115)}The Fifty-Fifth Match
+Dialogue: 0,0:02:14.03,0:02:18.95,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(315,115)}The Fifty-Fifth Match
 Dialogue: 0,0:02:20.83,0:02:23.96,Background,,0,0,0,,How long will that study session last, Akira-san?
 Dialogue: 0,0:02:25.25,0:02:26.71,Default,,0,0,0,,Until late afternoon, probably...
 Dialogue: 0,0:02:28.25,0:02:30.84,Default,,0,0,0,,Oh, you'll be eating dinner at home, then?
