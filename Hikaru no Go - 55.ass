@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 6
-Active Line: 29
-Video Position: 5427
+Scroll Position: 123
+Active Line: 133
+Video Position: 8553
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -173,8 +173,12 @@ Dialogue: 0,0:05:41.04,0:05:43.16,Thinking,,0,0,0,,For a player with five titles
 Dialogue: 0,0:05:43.22,0:05:44.87,Thinking,,0,0,0,,Isn't that a big deal!?
 Dialogue: 0,0:05:45.24,0:05:46.80,Thinking,,0,0,0,,I can't let it happen!
 Dialogue: 0,0:05:50.00,0:05:52.34,Default,,0,0,0,,Master Touya is black...
-Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 192 198 l 286 198 l 286 247 l 192 247 c{\p0}
-Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs37\blur2\fscy150\pos(256,192)}Request
+Dialogue: 0,0:05:52.33,0:05:55.33,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 192 198 l 286 198 l 286 247 l 192 247 c{\p0}
+Dialogue: 0,0:05:55.33,0:05:55.59,Computer,,0,0,0,,{\1c&HDDD8B2&}{\an7\pos(0,0)}{\p1}m 192 198 l 286 198 l 286 249 l 192 249 c{\p0}
+Dialogue: 0,0:05:55.59,0:05:56.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 192 198 l 286 198 l 286 247 l 192 247 c{\p0}
+Dialogue: 0,0:05:52.33,0:05:55.33,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs37\blur2\fscy150\pos(256,192)}Request
+Dialogue: 0,0:05:55.33,0:05:55.59,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs37\blur2\fscy150\pos(255,193)}Request
+Dialogue: 0,0:05:55.59,0:05:56.34,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs37\blur2\fscy150\pos(256,192)}Request
 Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 464 200 l 607 200 l 607 247 l 525 247 l 513 240 l 509 247 l 464 247 c{\p0}
 Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs42\blur2\fscy132\pos(532,192)}Cancel
 Dialogue: 0,0:05:56.34,0:05:56.88,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 156 138 l 498 138 l 498 161 l 156 161 c{\p0}
