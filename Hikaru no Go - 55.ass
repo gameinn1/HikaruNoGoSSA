@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 387
-Active Line: 391
-Video Position: 27870
+Scroll Position: 390
+Active Line: 392
+Video Position: 27751
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -436,21 +436,35 @@ Dialogue: 0,0:19:07.21,0:19:09.14,Default,,0,0,0,,There he is, toya koyo.
 Dialogue: 0,0:19:09.28,0:19:10.92,Default,,0,0,0,,Where? Here?
 Dialogue: 0,0:19:11.43,0:19:13.51,Default,,0,0,0,,There are a lot of spectators.
 Dialogue: 0,0:19:13.72,0:19:15.74,Default,,0,0,0,,He is Touya Kouyou.
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 48 103 l 107 103 l 107 122 l 48 122 m 38 141 l 116 141 l 116 156 l 38 156 m 136 141 l 167 141 l 167 158 l 136 158 m 197 142 l 256 142 l 256 160 l 197 160 m 502 141 l 533 141 l 533 160 l 502 160 m 569 141 l 600 141 l 600 160 l 581 160 l 573 154 l 572 160 l 569 160 m 632 140 l 640 140 l 640 160 l 632 160 m 225 178 l 254 178 l 254 195 l 225 195 m 349 178 l 380 178 l 380 195 l 349 195 m 472 178 l 498 178 l 498 195 l 472 195 m 504 178 l 531 178 l 531 194 l 504 194 m 534 178 l 561 178 l 561 195 l 534 195 m 569 178 l 592 178 l 592 194 l 569 194 m 599 177 l 626 177 l 626 195 l 599 195 m 629 177 l 640 177 l 640 196 l 629 196{\p0}
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy150\pos(52,101)}Players  :
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\blur1\fscy70\pos(38,142)}USER-ID
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15\blur1\fscy80\pos(138.4,144)}Nation
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy130\pos(201,143)}GAMES:
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs9.5\blur1\fscx100\fscy200\pos(502,141)}Refresh
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs9\blur1\fscx100\fscy200\pos(567,141)}Observe
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs9\blur1\fscx100\fscy200\pos(633,141)}Back
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,Players,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 48 103 l 107 103 l 107 122 l 48 122{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,USER-ID,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 38 141 l 116 141 l 116 156 l 38 156{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,Nation,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 136 141 l 167 141 l 167 158 l 136 158{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,GAMES,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 197 142 l 256 142 l 256 160 l 197 160{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,Refresh,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 502 141 l 533 141 l 533 160 l 502 160{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,Observe,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 569 141 l 600 141 l 600 160 l 581 160 l 573 154 l 572 160 l 569 160{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.43,Computer,Back,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 632 140 l 640 140 l 640 160 l 632 160{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,WHITE,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 225 178 l 254 178 l 254 195 l 225 195{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,BLACK,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 349 178 l 380 178 l 380 195 l 349 195{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,MOVE,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 472 178 l 498 178 l 498 195 l 472 195{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,SIZE,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 504 178 l 531 178 l 531 194 l 504 194{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,HAND,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 534 178 l 561 178 l 561 195 l 534 195{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,KOMI,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 569 178 l 592 178 l 592 194 l 569 194{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,TIME,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 599 177 l 626 177 l 626 195 l 599 195{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.43,Computer,BLANK,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 629 177 l 640 177 l 640 196 l 629 196{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy150\pos(52,101)}Players  :
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\blur1\fscy70\pos(38,142)}USER-ID
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15\blur1\fscy80\pos(138.4,144)}Nation
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy130\pos(201,143)}GAMES:
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs9.5\blur1\fscx100\fscy200\pos(502,141)}Refresh
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs9\blur1\fscx100\fscy200\pos(567,141)}Observe
+Dialogue: 0,0:19:16.93,0:19:17.43,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs9\blur1\fscx100\fscy200\pos(633,141)}Back
 Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx100\fscy130\pos(227,179)}WHITE
 Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx100\fscy130\pos(351,179)}BLACK
 Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(473,179)}MOVE
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(506,179)}SIZE
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(536,179)}HAND
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(569,179)}KOMI
-Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(601,179)}TIME
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(506,179)}SIZE
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(536,179)}HAND
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(569,179)}KOMI
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(601,179)}TIME
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 505 36 l 538 36 l 538 53 l 505 53 m 503 83 l 633 83 l 633 100 l 503 100 m 502 113 l 640 113 l 640 131 l 502 131 m 505 151 l 539 151 l 539 169 l 505 169 m 503 200 l 633 200 l 633 217 l 503 217 m 501 230 l 640 230 l 640 248 l 501 248 m 502 266 l 571 266 l 571 285 l 502 285 m 502 290 l 611 290 l 611 309 l 502 309 m 501 316 l 537 316 l 537 336 l 501 336 m 614 316 l 640 316 l 640 334 l 614 334 m 521 392 l 555 392 l 555 411 l 521 411 m 591 393 l 640 393 l 640 412 l 591 412 m 546 427 l 613 427 l 613 447 l 546 447{\p0}
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,38)}WHITE
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs16\blur1\fscx100\fscy115\pos(505,81)}Captured: 1 Stone
@@ -473,7 +487,7 @@ Dialogue: 0,0:19:32.03,0:19:34.71,Default,,0,0,0,,Huh? I can't tell how the game
 Dialogue: 0,0:19:35.37,0:19:37.49,Default,,0,0,0,,White isn't bad.
 Dialogue: 0,0:19:38.02,0:19:40.60,Default,,0,0,0,,Master Touya is black. He's incredible.
 Dialogue: 0,0:19:40.67,0:19:42.10,Default,,0,0,0,,Yes, but white is strong.
-Dialogue: 0,0:19:42.20,0:19:46.30,Default,,0,0,0,,Yeah, it's an even game. He's playing\Nthis well in an even game.
+Dialogue: 0,0:19:42.20,0:19:46.33,Default,,0,0,0,,Yeah, it's an even game. He's playing\Nthis well in an even game.
 Dialogue: 0,0:19:46.39,0:19:48.50,Default,,0,0,0,,Wait! They have three hours on the clock!
 Dialogue: 0,0:19:49.09,0:19:51.59,Thinking,,0,0,0,,Yes. This is not just any player.
 Dialogue: 0,0:19:51.80,0:19:53.51,Background,,0,0,0,,Exactly who is he playing?
