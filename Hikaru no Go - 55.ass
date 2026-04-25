@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 387
-Active Line: 392
-Video Position: 27739
+Active Line: 391
+Video Position: 27870
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -434,8 +434,8 @@ Dialogue: 0,0:19:02.25,0:19:03.50,Background,,0,0,0,,Touya...
 Dialogue: 0,0:19:03.85,0:19:06.92,Default,,0,0,0,,Internet Go... maybe I'll get a PC, too.
 Dialogue: 0,0:19:07.21,0:19:09.14,Default,,0,0,0,,There he is, toya koyo.
 Dialogue: 0,0:19:09.28,0:19:10.92,Default,,0,0,0,,Where? Here?
-Dialogue: 0,0:19:11.43,0:19:13.55,Default,,0,0,0,,There are a lot of spectators.
-Dialogue: 0,0:19:13.74,0:19:15.74,Default,,0,0,0,,He is Touya Kouyou.
+Dialogue: 0,0:19:11.43,0:19:13.51,Default,,0,0,0,,There are a lot of spectators.
+Dialogue: 0,0:19:13.72,0:19:15.74,Default,,0,0,0,,He is Touya Kouyou.
 Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 48 103 l 107 103 l 107 122 l 48 122 m 38 141 l 116 141 l 116 156 l 38 156 m 136 141 l 167 141 l 167 158 l 136 158 m 197 142 l 256 142 l 256 160 l 197 160 m 502 141 l 533 141 l 533 160 l 502 160 m 569 141 l 600 141 l 600 160 l 581 160 l 573 154 l 572 160 l 569 160 m 632 140 l 640 140 l 640 160 l 632 160 m 225 178 l 254 178 l 254 195 l 225 195 m 349 178 l 380 178 l 380 195 l 349 195 m 472 178 l 498 178 l 498 195 l 472 195 m 504 178 l 531 178 l 531 194 l 504 194 m 534 178 l 561 178 l 561 195 l 534 195 m 569 178 l 592 178 l 592 194 l 569 194 m 599 177 l 626 177 l 626 195 l 599 195 m 629 177 l 640 177 l 640 196 l 629 196{\p0}
 Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy150\pos(52,101)}Players  :
 Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\blur1\fscy70\pos(38,142)}USER-ID
