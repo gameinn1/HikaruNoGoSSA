@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 41 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 281
-Active Line: 331
-Video Position: 31644
+Scroll Position: 66
+Active Line: 81
+Video Position: 17047
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -124,7 +124,8 @@ Dialogue: 0,0:11:09.54,0:11:10.19,Thinking,,0,0,0,,Yeah.
 Dialogue: 0,0:11:19.83,0:11:20.92,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:11:22.70,0:11:24.62,Default,,0,0,0,,I'll be playing you in the last round Ochi.
 Dialogue: 0,0:11:25.29,0:11:28.63,Default,,0,0,0,,I'll be much stronger than I am now.
-Dialogue: 0,0:11:44.68,0:11:49.69,NoteArial,,0,0,0,,{\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz348\move(283,93,277,83)}Japanese Go Research Center
+Comment: 0,0:11:44.68,0:11:49.69,NoteArial,,0,0,0,,Old version. I don't know if R-F did a slight font resizement but it looks better I think. Keeping this in case: {\fs22\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz348\move(283,93,277,83)}Japanese Go Research Center
+Dialogue: 0,0:11:44.68,0:11:49.69,NoteArial,,0,0,0,,{\fs22\t(0,4987,1,\fs23)\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz348\move(283,93,277,83)}Japanese Go Research Center
 Dialogue: 0,0:11:45.10,0:11:49.69,NoteArial,,0,0,0,,{\fs30\bord1\fad(542,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(320,355)}Sixteenth Match of the Pro Exam Finals
 Dialogue: 0,0:11:51.44,0:11:52.50,Background,,0,0,0,,I resign...
 Dialogue: 0,0:11:53.42,0:11:54.75,Default,,0,0,0,,Thanks for the game.
