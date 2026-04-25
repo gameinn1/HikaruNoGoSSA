@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 46 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 16
-Video Position: 3877
+Scroll Position: 138
+Active Line: 148
+Video Position: 20860
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -191,7 +192,8 @@ Dialogue: 0,0:14:11.50,0:14:13.48,Thinking,,0,0,0,,I will just have to see for m
 Dialogue: 0,0:14:14.71,0:14:16.22,Thinking,,0,0,0,,Come, Shindou!
 Dialogue: 0,0:14:16.78,0:14:18.05,Thinking,,0,0,0,,I am right here...
 Dialogue: 0,0:14:19.46,0:14:20.80,Thinking,,0,0,0,,in the world of the pros!
-Dialogue: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,{\fs23\bord0.5\1c&H000000&\3c&HFFFFFF&\frz21\frx10\fry346\pos(317,129)}Student Guidance Office
+Comment: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,Old version: {\fs23\bord0.5\1c&H000000&\3c&HFFFFFF&\frz21\frx10\fry346\pos(317,129)}Student Guidance Office
+Dialogue: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,{\fs23.5\bord0.5\1c&H000000&\3c&HFFFFFF&\frz21.5\frx10\fry346\pos(317,129)}Student Guidance Office
 Dialogue: 0,0:14:31.19,0:14:32.59,Background,,0,0,0,,Congratulations!
 Dialogue: 0,0:14:33.20,0:14:35.61,Background,,0,0,0,,I heard about it from Shindou-kun this morning.
 Dialogue: 0,0:14:35.97,0:14:36.87,Background,,0,0,0,,Thank you.
