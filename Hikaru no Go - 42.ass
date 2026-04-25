@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 42 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 413
-Active Line: 436
-Video Position: 31644
+Scroll Position: 78
+Active Line: 88
+Video Position: 10883
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -132,8 +132,10 @@ Dialogue: 0,0:07:19.98,0:07:20.71,Background,,0,0,0,,Hey!
 Dialogue: 0,0:07:21.96,0:07:25.05,Default,,0,0,0,,You asked me for a ride on my\Nbike awhile ago didn't you?
 Dialogue: 0,0:07:25.44,0:07:26.38,Default,,0,0,0,,Oh, yeah...
 Dialogue: 0,0:07:28.62,0:07:30.82,Default,,0,0,0,,Come on, I'll give you a ride to the station.
+Comment: 0,0:07:33.89,0:07:38.40,Note,,0,0,0,,Was going to set these to White but the standard Note colour seems ok.
 Dialogue: 0,0:07:33.89,0:07:38.40,Note,,0,0,0,,{\fs32\frx342\fry12\frz40\pos(215,176)}Japanese Go Research Center
-Dialogue: 0,0:07:38.40,0:07:40.90,Note,,0,0,0,,{\fs20\frz340\frx20\fry10\pos(421,13)}Go Research Center
+Comment: 0,0:07:38.40,0:07:40.90,Note,,0,0,0,,Had this at frz340 before but maybe 339 is better.
+Dialogue: 0,0:07:38.40,0:07:40.90,Note,,0,0,0,,{\fs20\frz339\frx20\fry10\pos(421,13)}Go Research Center
 Dialogue: 0,0:07:44.18,0:07:45.50,Sai,,0,0,0,,What is it Hikaru?
 Dialogue: 0,0:07:54.66,0:07:55.44,Background,,0,0,0,,Hey!
 Dialogue: 0,0:07:57.15,0:07:59.33,Default,,0,0,0,,Come on! Let's go!
