@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 376
-Active Line: 404
-Video Position: 31421
+Scroll Position: 5
+Active Line: 25
+Video Position: 4333
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +64,7 @@ Dialogue: 0,0:02:41.28,0:02:44.60,Background,,0,0,0,,I asked him how his Go club
 Dialogue: 0,0:02:45.65,0:02:52.37,Background,,0,0,0,,"It doesn't matter anymore, it was just a detour" he said.
 Dialogue: 0,0:02:52.78,0:02:54.15,Background,,0,0,0,,Could I get some over here too?
 Dialogue: 0,0:02:54.36,0:02:55.23,Default,,0,0,0,,Just one second.
-Dialogue: 0,0:02:55.24,0:03:00.70,Default,,0,0,0,,{\fs30\1c&HFFFFFF&\shad1.5\bord2\b0\pos(320,287)}The Fourteenth Annual\N\N\NNCC Cup Tournament\N\N\NFifth game{\b1}
+Dialogue: 0,0:02:55.24,0:03:00.70,Default,,0,0,0,,{\fs30\1c&HFFFFFF&\shad1\bord2.5\b0\pos(320,287)}The Fourteenth Annual\N\N\NNCC Cup Tournament\N\N\NFifth game{\b1}
 Dialogue: 0,0:02:56.05,0:02:58.80,Background,,0,0,0,,Hey! The TV broadcast of the\NNCC Cup's about to begin!
 Dialogue: 0,0:03:00.70,0:03:04.21,Note,,0,10,0,,{\an6\bord1.5\fs18\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}The Fourteenth Annual\N\NNCC Cup Tournament\N\NFifth game of the First match.
 Dialogue: 0,0:03:08.10,0:03:10.67,Default,,0,0,0,,If you subscribe to our magazine for an entire year
