@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 465
-Active Line: 510
-Video Position: 31523
+Scroll Position: 114
+Active Line: 128
+Video Position: 6894
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -172,7 +172,8 @@ Dialogue: 0,0:04:29.96,0:04:31.37,Sai,,0,0,0,,Y-yes...
 Dialogue: 0,0:04:32.25,0:04:35.39,Default,,0,0,0,,What? Were you thinking about something else?
 Dialogue: 0,0:04:35.89,0:04:40.08,Default,,0,0,0,,Ahh! Why am I always the one that has to worry?
 Dialogue: 0,0:04:40.38,0:04:41.34,Default,,0,0,0,,Let's go, Sai.
-Dialogue: 0,0:04:47.52,0:04:49.64,NoteArial,,0,0,0,,{\fs23\1c&H534439&\bord0\shad0\fscy160\frz7\pos(308,95)\frx4\fry1}Touya Kouyou-sama
+Comment: 0,0:04:47.52,0:04:49.64,NoteArial,,0,0,0,,Old version. Think frz7.5 is better and added blur. {\fs23\1c&H534439&\bord0\shad0\fscy160\frz7\pos(308,95)\frx4\fry1}Touya Kouyou-sama
+Dialogue: 0,0:04:47.52,0:04:49.64,NoteArial,,0,0,0,,{\fs23\1c&H534439&\blur0.8\bord0\shad0\fscy160\frz7.5\pos(308,95)\frx4\fry1}Touya Kouyou-sama
 Dialogue: 0,0:04:57.99,0:04:58.82,Default,,0,0,0,,Akira-san?
 Dialogue: 0,0:04:59.82,0:05:01.94,Default,,0,0,0,,G-Good morning.
 Dialogue: 0,0:05:04.83,0:05:07.08,Default,,0,0,0,,I'm sorry, who were you again?

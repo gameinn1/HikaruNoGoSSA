@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 60 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 41
-Active Line: 53
-Video Position: 7529
+Video Zoom Percent: 1.000000
+Scroll Position: 60
+Active Line: 65
+Video Position: 8562
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -109,7 +109,8 @@ Dialogue: 0,0:05:32.94,0:05:36.44,Background,,0,0,0,,Your room is 303, you're wi
 Dialogue: 0,0:05:37.86,0:05:39.40,Thinking,,0,0,0,,Master Ogata is here, too!?
 Dialogue: 0,0:05:39.61,0:05:41.28,Thinking,,0,0,0,,I should stay away from him.
 Dialogue: 0,0:05:42.07,0:05:44.57,Thinking,,0,0,0,,I wouldn't want him giving me trouble about Sai.
-Dialogue: 0,0:05:47.70,0:05:56.59,NoteArial,,0,0,0,,{\1c&H000000&\blur0.5\fad(1835,0)\bord0\shad0\fscy75\frz5\fs9.5\t(0,8865,1,\fs12)\move(472,68,405,96,0,8865)}Japanese Go Institute {\fs11\fscy75\t(0,8865,1,\fs15)\fscy70}GO SEMINAR
+Comment: 0,0:05:47.70,0:05:56.59,NoteArial,,0,0,0,,Had this at blur0.5 before but I set everything else in this area to 0.8 so did that. Also a ridiculously hard sign to do.
+Dialogue: 0,0:05:47.70,0:05:56.59,NoteArial,,0,0,0,,{\1c&H000000&\blur0.8\fad(1835,0)\bord0\shad0\fscy75\frz5\fs9.5\t(0,8865,1,\fs12)\move(472,68,405,96,0,8865)}Japanese Go Institute {\fs11\fscy75\t(0,8865,1,\fs15)\fscy70}GO SEMINAR
 Dialogue: 0,0:05:49.87,0:05:53.04,Default,,0,0,0,,Master Ogata is a solid player\Nwho plays all kinds of styles,
 Dialogue: 0,0:05:53.62,0:05:56.17,Default,,0,0,0,,but his opponent Haruko-san is a forceful player.
 Dialogue: 0,0:05:58.00,0:06:01.42,Default,,0,0,0,,What? Master Ogata played here?
@@ -117,7 +118,7 @@ Dialogue: 0,0:06:04.26,0:06:07.39,Default,,0,0,0,,In my opinion, this is a rathe
 Dialogue: 0,0:06:07.76,0:06:11.56,Default,,0,0,0,,But who knows what Master Ogata\Nwill say to me later if I deride it.
 Dialogue: 0,0:06:12.48,0:06:13.56,Default,,0,0,0,,Ashiwara!
 Dialogue: 0,0:06:14.85,0:06:15.69,Default,,0,0,0,,See?
-Dialogue: 0,0:06:20.19,0:06:26.62,NoteArial,,0,0,0,,{\fs8.5\1c&H010300&\bord0\shad0\blur0\fad(1335,0)\fscy140\frz1\move(231,360,-46,360)}Shindou Hikaru first dan
+Dialogue: 0,0:06:20.19,0:06:26.62,NoteArial,,0,0,0,,{\fs8.5\1c&H010300&\bord0\shad0\blur0.8\fad(1335,0)\fscy140\frz1\move(231,360,-46,360)}Shindou Hikaru first dan
 Dialogue: 0,0:06:39.00,0:06:42.05,Default,,0,0,0,,So, this Sagari isn't too useful right now, but...
 Dialogue: 0,0:06:42.97,0:06:44.38,Default,,0,0,0,,you have other plans with it.
 Dialogue: 0,0:06:44.93,0:06:47.39,Default,,0,0,0,,You can escape if you really want to,

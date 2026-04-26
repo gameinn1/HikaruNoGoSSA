@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 273
-Active Line: 286
-Video Position: 29587
+Scroll Position: 21
+Active Line: 43
+Video Position: 6241
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,7 +35,7 @@ Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -90,6 +90,7 @@ Dialogue: 0,0:03:56.34,0:03:58.18,Default,,0,0,0,,You hit it in the wrong direct
 Dialogue: 0,0:03:58.63,0:03:59.92,Default,,0,0,0,,It's totally a foul.
 Dialogue: 0,0:04:13.07,0:04:13.61,Default,,0,0,0,,Oh no.
 Dialogue: 0,0:04:17.82,0:04:18.69,Default,,0,0,0,,It's Kaga!
+Comment: 0,0:04:19.20,0:04:22.53,NoteArial,,0,0,0,,Just like the main dialogue being put to a 2 border in this episode, also pretty sure the Note is 2.
 Dialogue: 0,0:04:19.20,0:04:22.53,NoteArial,,0,0,0,,{\fad(334,334)}Note: Silence a crying baby is a Japanese idiom. Meaning someone is so\Nhorrifying that it would cause even a baby to stop crying in fear of upsetting him.
 Dialogue: 0,0:04:19.24,0:04:21.07,Default,,0,0,0,,Kaga! Who can silence a crying baby!
 Dialogue: 0,0:04:21.70,0:04:22.53,Default,,0,0,0,,It's Kaga...

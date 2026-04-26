@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 44 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 33
-Active Line: 42
-Video Position: 8905
+Scroll Position: 74
+Active Line: 88
+Video Position: 15984
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +37,7 @@ Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -59,8 +59,8 @@ Dialogue: 0,0:02:16.28,0:02:20.71,Thinking,,0,0,0,,If I turn this area, under wh
 Dialogue: 0,0:02:22.26,0:02:24.46,Thinking,,0,0,0,,{\1c&HC5FEC1&}If this black lives, you win.
 Dialogue: 0,0:02:29.46,0:02:34.38,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(335,115)}The Forty-Fourth Match
 Dialogue: 0,0:02:29.46,0:02:34.38,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}A Desperate Life
-Comment: 0,0:02:34.63,0:02:40.10,NoteArial,,0,0,0,,This is also likely bord 1.25. Before I had this line at bord1 and the other line at bord1.5 (very indecisive) but now I know about 1.25 for the main anime, this makes sense why I was so indecisive. I didn't think they would do an in between value.
-Dialogue: 0,0:02:34.63,0:02:40.10,NoteArial,,0,0,0,,{\fs25\bord1.25\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,667)\shad1\pos(325,360)}The Twenty-Sixth Match of the Pro Exam Finals
+Comment: 0,0:02:34.63,0:02:40.10,NoteArial,,0,0,0,,This is also likely bord 1.25 (see comment at 16:29). Before I had this line at bord1 and the other line at bord1.5 (very indecisive) but now I know about 1.25 for the main anime, this makes sense why I was so indecisive. I didn't think they would do an in between value. Also had this at shad1 before but pretty sure looking now it's 0.5 especially if we consider this is after the main dialogue outline and shadow changes.
+Dialogue: 0,0:02:34.63,0:02:40.10,NoteArial,,0,0,0,,{\fs25\bord1.25\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,667)\shad0.5\pos(325,360)}The Twenty-Sixth Match of the Pro Exam Finals
 Dialogue: 0,0:02:51.31,0:02:53.89,Memory,,0,0,0,,Become... a pro!
 Dialogue: 0,0:02:55.36,0:02:56.09,Thinking,,0,0,0,,I can win.
 Dialogue: 0,0:02:56.59,0:02:58.85,Thinking,,0,0,0,,So long as I don't move too quickly and make a mistake.
@@ -133,8 +133,8 @@ Dialogue: 0,0:10:42.29,0:10:43.43,Memory,,0,0,0,,You WILL pass!
 Dialogue: 0,0:10:44.36,0:10:46.30,Memory,,0,0,0,,Have faith in yourself, Waya.
 Dialogue: 0,0:10:47.34,0:10:49.54,Memory,,0,0,0,,Become a pro!
 Dialogue: 0,0:10:51.92,0:10:52.70,Thinking,,0,0,0,,{\1c&HC5FEC1&}Master!
-Comment: 0,0:11:06.65,0:11:10.65,NoteArial,,0,0,0,,This was old but I think making font slightly increase is better: {\fs18.5\bord0.5\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\shad1\frz348\move(300,120,298,114)}Japanese Go Research Center
-Dialogue: 0,0:11:06.65,0:11:10.65,NoteArial,,0,0,0,,{\fs18.5\t(0,3978,1,\fs19.5)\bord0.5\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\shad1\frz348\move(300,120,298,114)}Japanese Go Research Center
+Comment: 0,0:11:06.65,0:11:10.65,NoteArial,,0,0,0,,This was old but I think making font slightly increase is better (also set to shad0.5 since other shadows in this episode seem to be 0.5). Not sure there is a shadow but makes sense: {\fs18.5\bord0.5\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\shad1\frz348\move(300,120,298,114)}Japanese Go Research Center
+Dialogue: 0,0:11:06.65,0:11:10.65,NoteArial,,0,0,0,,{\fs18.5\t(0,3978,1,\fs19.5)\bord0.5\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\shad0.5\frz348\move(300,120,298,114)}Japanese Go Research Center
 Dialogue: 0,0:11:37.28,0:11:38.13,Default,,0,0,0,,I resign.
 Dialogue: 0,0:11:44.64,0:11:45.59,Sai,,0,0,0,,Hikaru has...
 Dialogue: 0,0:11:46.77,0:11:49.13,Sai,,0,0,0,,completely surpassed Waya with this match.
@@ -199,8 +199,8 @@ Dialogue: 0,0:16:09.53,0:16:12.78,Default,,0,0,0,,who is just now on the rise wa
 Dialogue: 0,0:16:13.42,0:16:16.32,Default,,0,0,0,,What a wonderful prize that is.
 Dialogue: 0,0:16:17.01,0:16:19.20,Default,,0,0,0,,Work hard, Kousuke!
 Dialogue: 0,0:16:24.35,0:16:26.35,Thinking,,0,0,0,,Shindou... let's play!
-Comment: 0,0:16:29.84,0:16:33.81,NoteArial,,0,0,0,,First change to bord1.25
-Dialogue: 0,0:16:29.84,0:16:33.81,NoteArial,,0,0,0,,{\fs25\bord1.25\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,0)\shad1\pos(325,360)}The Final Match of the Pro Exam Finals
+Comment: 0,0:16:29.84,0:16:33.81,NoteArial,,0,0,0,,First change to bord1.25. Also changed to shad0.5 (see other comment at 2:34).
+Dialogue: 0,0:16:29.84,0:16:33.81,NoteArial,,0,0,0,,{\fs25\bord1.25\1c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&\fad(667,0)\shad0.5\pos(325,360)}The Final Match of the Pro Exam Finals
 Dialogue: 0,0:16:34.73,0:16:38.70,Default,,0,0,0,,I feel sorry for Waya, but...\NFuku has the advantage.
 Dialogue: 0,0:16:39.27,0:16:40.28,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:16:41.43,0:16:45.90,Default,,0,0,0,,Not only is Waya weak against Fuku,\Nbut he's under a lot of pressure, too.

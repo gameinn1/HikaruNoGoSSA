@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 42 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 78
-Active Line: 88
-Video Position: 10883
+Scroll Position: 296
+Active Line: 306
+Video Position: 32377
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +37,7 @@ Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
 Style: umezawa61,Smudger Std,28,&H00000000,&H006B6F7B,&H00000000,&H00EBC694,0,0,0,0,100,100,0,0,1,0,1,7,56,56,14,1
@@ -346,11 +346,11 @@ Dialogue: 0,0:22:12.32,0:22:15.73,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,417)\3c&H0
 Dialogue: 0,0:22:12.32,0:22:15.73,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,417)\3c&H1378F1&\4c&H1378F1&\bord2\shad1\pos(320,374)}Teacher Yukari
 Dialogue: 0,0:22:12.99,0:22:14.84,Default,,0,0,0,,Let's cover maxims today.
 Dialogue: 0,0:22:14.94,0:22:16.29,Default,,0,0,0,,Do you know what a maxim is?
-Dialogue: 0,0:22:16.48,0:22:16.49,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(564,390)}Mai
-Dialogue: 0,0:22:16.49,0:22:16.51,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(459,390)}Mai
-Dialogue: 0,0:22:16.51,0:22:16.53,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(380,390)}Mai
-Dialogue: 0,0:22:16.53,0:22:16.54,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(330,390)}Mai
-Dialogue: 0,0:22:16.54,0:22:17.70,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(314,390)}Mai
+Dialogue: 0,0:22:16.48,0:22:16.49,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(564,391)}Mai
+Dialogue: 0,0:22:16.49,0:22:16.51,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(459,391)}Mai
+Dialogue: 0,0:22:16.51,0:22:16.53,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(380,391)}Mai
+Dialogue: 0,0:22:16.53,0:22:16.54,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(331,391)}Mai
+Dialogue: 0,0:22:16.54,0:22:17.70,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF622F5&\4c&HF622F5&\bord2\shad1\pos(315,391)}Mai
 Dialogue: 0,0:22:16.56,0:22:21.23,Note,,0,0,0,,[Money for a cat is a Japanese expression (or maxim)\Nthat means, "Just like the way giving money to\Na cat is useless, this and that is also useless."]
 Dialogue: 0,0:22:16.56,0:22:17.65,Default,,0,0,0,,Money for a cat!
 Dialogue: 0,0:22:17.77,0:22:21.18,Default,,0,0,0,,Yup! The thing is, there are maxims for Go too.

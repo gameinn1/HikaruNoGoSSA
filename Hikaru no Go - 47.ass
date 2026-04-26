@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 129
-Active Line: 143
-Video Position: 14397
+Scroll Position: 314
+Active Line: 338
+Video Position: 32651
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -51,7 +51,8 @@ Dialogue: 0,0:02:11.24,0:02:14.75,Thinking,,0,0,0,,If Shindou losses, he'll have
 Dialogue: 0,0:02:23.08,0:02:23.81,Default,,0,0,0,,It's over.
 Dialogue: 0,0:02:39.22,0:02:44.14,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Forty-Seventh Match
 Dialogue: 0,0:02:39.22,0:02:44.14,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}To the World of the Pros
-Dialogue: 0,0:02:44.14,0:02:47.86,NoteArial,,0,0,0,,{\fs40\fsp10\1c&H43E5FF&\3c&H0200CF&\4c&H43E5FF&\shad1\frz16\pos(185,188)}NcDonalds
+Comment: 0,0:02:44.14,0:02:47.86,NoteArial,,0,0,0,,This is pretty basic compared to R-F version which was really hard to match. I will say the colour choice is much better though. I couldn't decide on border thickness but since most borders in this episode seem to be lower than 1.25 (e.g. Yuuki Igo sign at 22:15), stuck to that.
+Dialogue: 0,0:02:44.14,0:02:47.86,NoteArial,,0,0,0,,{\fs40\fsp10\bord1\1c&H43E5FF&\3c&H0200CF&\4c&H43E5FF&\shad1\frz16\pos(185,188)}NcDonalds
 Dialogue: 0,0:02:45.62,0:02:47.86,Background,,0,0,0,,Isumi-san quit the Kyuseikai!?
 Dialogue: 0,0:02:49.65,0:02:51.07,Default,,0,0,0,,That's not all.
 Dialogue: 0,0:02:51.57,0:02:52.99,Default,,0,0,0,,He's not an Insei anymore either.

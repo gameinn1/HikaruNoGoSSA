@@ -17,8 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 46 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 15
-Video Position: 3791
+Active Line: 17
+Video Position: 3979
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -59,9 +59,9 @@ Dialogue: 0,0:02:23.92,0:02:26.08,Thinking,,0,0,0,,I'm going to keep attacking u
 Dialogue: 0,0:02:30.46,0:02:31.66,Thinking,,0,0,0,,There!
 Dialogue: 0,0:02:33.17,0:02:38.10,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(320,115)}The Forty-Sixth Match
 Dialogue: 0,0:02:33.17,0:02:38.10,Title_eps,,0,0,0,,{\fs36\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Last Day of the Pro Exam Finals
-Comment: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,This was frz326 before but maybe 325 is better. Also not sure if R-F colour picked from the wall or did 1a&HFF&. I decided to colour pick and apply shadow as I think there is one.
-Comment: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1a&HFF&\fs14\bord0.5\frz325\frx12\fry18\move(237,475,237,366)}Japanese Go Research Center
-Dialogue: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1c&HE0CAC7&\fs14\bord0.5\shad0.5\frz325\frx12\fry18\move(237,475,237,366)}Japanese Go Research Center
+Comment: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,This was frz326 before but maybe 325.5 or even 325 is better. Also not sure if R-F colour picked from the wall or did 1a&HFF&. I decided to colour pick and apply shadow as I think there is one.
+Comment: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1a&HFF&\fs14\bord0.5\shad0.5\frz325\frx12\fry18\move(237,475,237,366)}Japanese Go Research Center
+Dialogue: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1c&HE0CAC7&\fs14\bord0.5\shad0.5\frz325.5\frx12\fry18\move(239,472,239,363)}Japanese Go Research Center
 Dialogue: 0,0:02:44.85,0:02:47.11,Default,,0,0,0,,We're from the Japanese Go Institute's publishing division!
 Dialogue: 0,0:02:47.65,0:02:48.40,Default,,0,0,0,,Hello.
 Dialogue: 0,0:02:48.90,0:02:51.95,Default,,0,0,0,,We came to interview and take\Npictures of those who passed.

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 53 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 305
-Active Line: 327
-Video Position: 32051
+Scroll Position: 95
+Active Line: 104
+Video Position: 10615
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -59,7 +59,7 @@ Dialogue: 0,0:02:32.01,0:02:33.34,Default,,0,0,0,,That bastard...
 Dialogue: 0,0:02:36.21,0:02:39.34,Default,,0,0,0,,Oh, these are the pairings for the Ooteai matches.
 Dialogue: 0,0:02:40.53,0:02:42.83,Default,,0,0,0,,Shindou Hikaru... there it is.
 Dialogue: 0,0:02:43.14,0:02:45.40,Default,,0,0,0,,My first opponent is...
-Dialogue: 0,0:02:45.40,0:02:50.44,NoteArial,,0,0,0,,{\fs45\blur1\1c&H323035&\bord0\fscy80\frz8.5\move(504,142,175,142)}Touya Akira 2-dan
+Dialogue: 0,0:02:45.40,0:02:50.44,NoteArial,,0,0,0,,{\fs45\blur0.8\1c&H323035&\bord0\shad0\fscy80\frz8.5\move(504,142,175,142)}Touya Akira 2-dan
 Dialogue: 0,0:02:47.06,0:02:49.23,Background,,0,0,0,,Tou...ya...
 Dialogue: 0,0:02:51.31,0:02:54.58,Thinking,,0,0,0,,My first opponent is... Touya!
 Dialogue: 0,0:02:57.66,0:02:59.08,Default,,0,0,0,,Touya-kun isn't coming.
@@ -144,11 +144,12 @@ Dialogue: 0,0:07:08.19,0:07:09.09,Default,,0,0,0,,That's okay.
 Dialogue: 0,0:07:10.28,0:07:12.02,Default,,0,0,0,,You're a pro as well, right?
 Dialogue: 0,0:07:13.80,0:07:14.93,Default,,0,0,0,,Don't you remember?
 Dialogue: 0,0:07:15.51,0:07:19.84,Default,,0,0,0,,I work the counter at the Go Salon\Nyou played Akira-kun at.
-Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\shad0\an8\pos(108,62)}{\fs25\b1\1c&H00&\3a&HFF&\1a&H80&}{\fad(417,0)}{\fscx52\fscy85}Domestic and International Travel
-Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\shad0\pos(109,83)}{\fs25\b1\1c&H00&\3a&HFF&\1a&H80&}{\fad(417,0)}{\fscx110\fscy85}Sky Blue Travel
-Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\shad0\an8\pos(109,105)}{\fs25\b1\1c&H00&\3a&HFF&\1a&H80&}{\fad(417,0)}{\fscx52\fscy80}Tours of various locales -- Rental
-Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\shad0\an5\pos(124,281)}{\fs25\b1\1c&H00&\3a&HFF&}{\fad(417,0)}{\fscx155\fscy115}Go Salon\N{\fscx65\fscy85}Weekdays 1PM~10PM\NWeekends 12PM~9PM
-Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\shad0\an2\pos(154,461)}{\fs25\b1\1c&H00&\3a&HFF&\1a&H80&}{\fad(417,0)}{\fscx80\fscy85}Hair Studio\N{\fscx210\fscy100}JOY
+Comment: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,Not that sure on the blur value but unlike the similar signs in 50, this definitely seems to be blurred.
+Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\bord0\shad0\blur2\an8\pos(108,62)}{\fs25\b1\1c&H00&\3a&HFF&\1a&H80&}{\fad(417,0)}{\fscx52\fscy85}Domestic and International Travel
+Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\bord0\shad0\blur2\pos(109,83)}{\fs25\b1\1c&H00&\3a&HFF&\1a&H80&}{\fad(417,0)}{\fscx110\fscy85}Sky Blue Travel
+Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\bord0\shad0\blur2\an8\pos(109,105)}{\fs25\b1\1c&H00&\3a&HFF&\1a&H80&}{\fad(417,0)}{\fscx52\fscy80}Tours of various locales -- Rental
+Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\bord0\shad0\blur2\an5\pos(124,281)}{\fs25\b1\1c&H00&\3a&HFF&}{\fad(417,0)}{\fscx155\fscy115}Go Salon\N{\fscx65\fscy85}Weekdays 1PM~10PM\NWeekends 12PM~9PM
+Dialogue: 0,0:07:21.84,0:07:23.92,NoteArial,,0,0,0,,{\bord0\shad0\blur2\an2\pos(154,461)}{\fs25\b1\1c&H00&\3a&HFF&\1a&H80&}{\fad(417,0)}{\fscx80\fscy85}Hair Studio\N{\fscx210\fscy100}JOY
 Dialogue: 0,0:07:27.72,0:07:30.16,Memory,,0,0,0,,Is this your first time here?
 Dialogue: 0,0:07:30.31,0:07:32.69,Memory,,0,0,0,,It's my first time at any Go salon.
 Dialogue: 0,0:07:33.35,0:07:34.61,Memory,,0,0,0,,Can anyone play?

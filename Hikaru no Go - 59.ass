@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 250
-Active Line: 273
-Video Position: 25891
+Scroll Position: 159
+Active Line: 178
+Video Position: 14225
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,7 +38,7 @@ Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,10
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -88,7 +88,8 @@ Dialogue: 0,0:04:08.02,0:04:11.94,Default,,0,0,0,,Oops, I'm going to be late for
 Dialogue: 0,0:04:12.57,0:04:15.19,Default,,0,0,0,,You see, my wife's family is\Nholding a memorial service,
 Dialogue: 0,0:04:15.19,0:04:15.69,Default,,0,0,0,,and...
 Dialogue: 0,0:04:16.94,0:04:21.32,Default,,0,0,0,,Really, you're such a selfish man, Touya Kouyou.
-Dialogue: 0,0:04:22.24,0:04:28.58,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.5\shad0.5\fs19\fad(1460,0)\pos(318,365)}Nagoya
+Comment: 0,0:04:22.24,0:04:28.58,NoteArial,,0,0,0,,Interesting sign this one. At first I thought this was bord1.5 but then more stuff seemed to match bord2 before I just decided on 1.75. Don't think there is a shadow here. Put fscx99 as that seemed to be an almost perfect match on overlay.
+Dialogue: 0,0:04:22.24,0:04:28.58,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.75\fscx99\shad0\fs19\fad(1877,0)\pos(318,365)}Nagoya
 Dialogue: 0,0:04:28.58,0:04:29.62,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,248)\frx4\fry356}Central Japan Go Institute{\i0}
 Dialogue: 0,0:04:29.62,0:04:29.67,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,247.5)\frx4\fry356}Central Japan Go Institute{\i0}
 Dialogue: 0,0:04:29.67,0:04:29.71,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,246.5)\frx4\fry356}Central Japan Go Institute{\i0}
@@ -223,7 +224,8 @@ Dialogue: 0,0:09:42.10,0:09:45.11,Thinking,,0,0,0,,If only I wasn't playing in N
 Dialogue: 0,0:09:46.23,0:09:49.61,Thinking,,0,0,0,,I could have watched your match today in Tokyo.
 Dialogue: 0,0:09:50.86,0:09:51.86,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,{\fs14\1c&H566265&\bord0\shad0\fscy120\frz345\pos(377,171)}Japanese Go Institute
-Dialogue: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.5\shad0.5\fs19\pos(318,365)}Tokyo
+Comment: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,Made sense to do the same as the Nagoya sign. The dark background makes it really hard to know what line thickness. Again fscx99 was a good match so also makes sense they kept bord1.75 or something really similar.
+Dialogue: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.75\fscx99\shad0\fs19\pos(318,365)}Tokyo
 Dialogue: 0,0:09:57.45,0:10:00.00,Default,,0,0,0,,I don't understand how he can retire.
 Dialogue: 0,0:10:00.16,0:10:02.16,Default,,0,0,0,,Didn't he make a hundred million yen this year?
 Dialogue: 0,0:10:02.62,0:10:03.42,Default,,0,0,0,,Yeah.
@@ -274,9 +276,9 @@ Dialogue: 0,0:15:05.22,0:15:08.30,Thinking,,0,0,0,,against my reckless attack, b
 Dialogue: 0,0:15:09.05,0:15:11.81,Thinking,,0,0,0,,He's retaliating instead of defending!
 Dialogue: 0,0:15:12.60,0:15:14.39,Sai,,0,0,0,,I had no idea he had grown so much...
 Dialogue: 0,0:15:36.62,0:15:37.58,Background,,0,0,0,,I resign.
-Comment: 0,0:15:38.13,0:15:38.21,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\\alpha&H40&\fscy130\frz5\pos(600,100)}Japanese Go
-Comment: 0,0:15:38.21,0:15:42.34,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\fscy130\\alpha&H40&\frz5\move(600,102,600,485)}Japanese Go
-Dialogue: 0,0:15:38.13,0:15:42.75,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\\alpha&H40&\fscy130\frz5\move(600,100,600,520,57,4603)}Japanese Go
+Comment: 0,0:15:38.13,0:15:38.21,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\alpha&H40&\fscy130\frz5\pos(600,100)}Japanese Go
+Comment: 0,0:15:38.21,0:15:42.34,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\fscy130\alpha&H40&\frz5\move(600,102,600,485)}Japanese Go
+Dialogue: 0,0:15:38.13,0:15:42.75,NoteArial,,0,0,0,,{\fs14\1c&H241C56&\bord0\blur0\shad0\alpha&H40&\fscy130\frz5\move(600,100,600,520,57,4603)}Japanese Go
 Dialogue: 0,0:15:57.64,0:15:58.48,Default,,0,0,0,,I resign.
 Dialogue: 0,0:15:59.15,0:16:00.56,Default,,0,0,0,,Thank you for the game.
 Dialogue: 0,0:16:06.49,0:16:08.95,ed64_romaji,,0,0,0,,{\fs21\1c&H000000&\shad0\bord0\blur0.8\frz25\pos(216,200)}Win by\NResignation
