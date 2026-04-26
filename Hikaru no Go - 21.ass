@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 21 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 343
-Active Line: 368
-Video Position: 31421
+Scroll Position: 47
+Active Line: 61
+Video Position: 7392
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -102,7 +102,7 @@ Dialogue: 0,0:04:58.03,0:05:00.78,Default,,0,0,0,,Tournaments? Those don't matte
 Dialogue: 0,0:05:00.95,0:05:03.71,Default,,0,0,0,,Those don't matter!? Who are you to say that!
 Dialogue: 0,0:05:03.90,0:05:05.61,Default,,0,0,0,,Shut up already!
 Dialogue: 0,0:05:07.06,0:05:08.46,Default,,0,0,0,,Insei, huh?
-Dialogue: 0,0:05:08.29,0:05:18.26,Note,,0,0,0,,{\1c&H29FDFF&\i1}Monthly Go World\N{\1c&H6834B3&}12{\i0}
+Dialogue: 0,0:05:08.29,0:05:18.26,Note,,0,0,0,,{\1c&H29FDFF&\i1\b0}Monthly Go World\N{\1c&H6834B3&}12{\i0\b1}
 Dialogue: 0,0:05:09.17,0:05:14.00,Background,,0,0,0,,If you want to become an Insei, you must\Nhave a higher goal than the tournaments.
 Dialogue: 0,0:05:14.32,0:05:17.49,Default,,0,0,0,,Shindou-kun's goal is Touya Akira.
 Dialogue: 0,0:05:18.89,0:05:22.14,Default,,0,0,0,,This book says he passed this years Pro exams.
