@@ -276,7 +276,7 @@ Dialogue: 0,0:14:31.31,0:14:31.98,Thinking,,0,0,0,,Sai!
 Dialogue: 0,0:14:33.52,0:14:37.36,Background,,0,0,0,,I'm sure Master Shuusaku would\Nbe happy to hear that.
 Dialogue: 0,0:14:34.35,0:14:34.85,Thinking,,0,0,0,,Sai!
 Dialogue: 0,0:14:36.77,0:14:37.40,Thinking,,0,0,0,,Sai?
-Comment: 0,0:14:43.65,0:14:51.66,NoteArial,,0,0,0,,On overlaying, it seemed like R-F did frz356 but on Blu-Ray, it looked much too skewed so I decided to do frz356.5. Also other colour stuff I thought to try: &H564855& &H2E2C30& and &H403E43& and 256 -74
+Comment: 0,0:14:43.65,0:14:51.66,NoteArial,,0,0,0,,On overlaying it seemed like R-F did frz356 but on Blu-Ray, it looked much too skewed so I decided to do frz356.5. Also other colour stuff I thought to try: &H564855& &H2E2C30& and &H403E43& and 256 -74
 Dialogue: 0,0:14:43.65,0:14:51.66,NoteArial,,0,0,0,,{\fs21\blur1\1c&H403E43&\4c&HFFFFFF&\fscx100\fscy101\bord0\shad1.5\frz356.5\move(403,256,403,-74)}G\N{\fscy100)}R\N{\fscy99)}A\N{\fscy98)}V\N{\fscy97)}E\N\N\N{\fscy90)}O\N{\fscy90)}F\N\N\N{\fscy84)}S\N{\fscy81)}H\N{\fscy81)}U\N{\fscy81)}U\N{\fscy77)}S\N{\fscy77)}A\N{\fscy75)}K\N{\fscy74)}U
 Dialogue: 0,0:14:44.57,0:14:45.53,Thinking,,0,0,0,,This is it...
 Dialogue: 0,0:15:05.18,0:15:11.10,NoteArial_Igo,,0,0,0,,{\fs60\blur1\1c&H564855&\4c&HFFFFFF&\fscx95\fscy78.3\bord0\shad1.5\move(423,-16,423,-135)}S\N\NH\N\NU\N\NU\N\NS\N\NA\N\NK\N\NU\N\N'
