@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 46 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 138
-Active Line: 148
-Video Position: 20860
+Active Line: 15
+Video Position: 3791
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,8 +59,9 @@ Dialogue: 0,0:02:23.92,0:02:26.08,Thinking,,0,0,0,,I'm going to keep attacking u
 Dialogue: 0,0:02:30.46,0:02:31.66,Thinking,,0,0,0,,There!
 Dialogue: 0,0:02:33.17,0:02:38.10,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(320,115)}The Forty-Sixth Match
 Dialogue: 0,0:02:33.17,0:02:38.10,Title_eps,,0,0,0,,{\fs36\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Last Day of the Pro Exam Finals
-Comment: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,This was frz326 before but maybe 325 is better?
-Dialogue: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1a&HFF&\fs14\bord0.5\frz325\frx12\fry18\move(237,475,237,366)}Japanese Go Research Center
+Comment: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,This was frz326 before but maybe 325 is better. Also not sure if R-F oclour picked from the wall or did 1a&HFF&. I decided to colour pick and apply shadow as I think there is one.
+Comment: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1a&HFF&\fs14\bord0.5\frz325\frx12\fry18\move(237,475,237,366)}Japanese Go Research Center
+Dialogue: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1c&HE0CAC7&\fs14\bord0.5\shad0.5\frz325\frx12\fry18\move(237,475,237,366)}Japanese Go Research Center
 Dialogue: 0,0:02:44.85,0:02:47.11,Default,,0,0,0,,We're from the Japanese Go Institute's publishing division!
 Dialogue: 0,0:02:47.65,0:02:48.40,Default,,0,0,0,,Hello.
 Dialogue: 0,0:02:48.90,0:02:51.95,Default,,0,0,0,,We came to interview and take\Npictures of those who passed.
@@ -193,7 +193,7 @@ Dialogue: 0,0:14:14.71,0:14:16.22,Thinking,,0,0,0,,Come, Shindou!
 Dialogue: 0,0:14:16.78,0:14:18.05,Thinking,,0,0,0,,I am right here...
 Dialogue: 0,0:14:19.46,0:14:20.80,Thinking,,0,0,0,,in the world of the pros!
 Comment: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,Old version: {\fs23\bord0.5\1c&H000000&\3c&HFFFFFF&\frz21\frx10\fry346\pos(317,129)}Student Guidance Office
-Dialogue: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,{\fs23.5\bord0.5\1c&H000000&\3c&HFFFFFF&\frz21.5\frx10\fry346\pos(317,129)}Student Guidance Office
+Dialogue: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,{\fs23.5\bord0.5\shad0.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\frz21.5\frx10\fry346\pos(317,129)}Student Guidance Office
 Dialogue: 0,0:14:31.19,0:14:32.59,Background,,0,0,0,,Congratulations!
 Dialogue: 0,0:14:33.20,0:14:35.61,Background,,0,0,0,,I heard about it from Shindou-kun this morning.
 Dialogue: 0,0:14:35.97,0:14:36.87,Background,,0,0,0,,Thank you.

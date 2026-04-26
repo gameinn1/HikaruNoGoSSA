@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 44 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 359
-Active Line: 382
-Video Position: 31644
+Scroll Position: 33
+Active Line: 42
+Video Position: 8905
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,7 +87,7 @@ Dialogue: 0,0:05:53.52,0:05:55.47,Thinking,,0,0,0,,I'll pass with this match!
 Dialogue: 0,0:05:57.00,0:05:58.03,Thinking,,0,0,0,,I'm going to become a pro!
 Dialogue: 0,0:06:06.95,0:06:07.65,Thinking,,0,0,0,,Come on.
 Dialogue: 0,0:06:08.35,0:06:10.26,Thinking,,0,0,0,,Play anywhere you'd like, Shindou!
-Dialogue: 0,0:06:11.43,0:06:15.37,Thinking,,0,0,0,,{\1c&HC5FEC1&}I'll kill your stones, no matter where you play.
+Dialogue: 0,0:06:11.39,0:06:15.37,Thinking,,0,0,0,,{\1c&HC5FEC1&}I'll kill your stones, no matter where you play.
 Dialogue: 0,0:06:16.70,0:06:19.99,Sai,,0,0,0,,It's a difficult and hard to see path.
 Dialogue: 0,0:06:20.73,0:06:24.35,Sai,,0,0,0,,But, there is a way that black can live.
 Dialogue: 0,0:06:31.45,0:06:33.55,Thinking,,0,0,0,,I can't find a way to live...

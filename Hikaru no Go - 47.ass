@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 255
-Active Line: 265
-Video Position: 24886
+Scroll Position: 129
+Active Line: 143
+Video Position: 14397
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -158,6 +158,7 @@ Dialogue: 0,0:07:48.55,0:07:49.55,Sai,,0,0,0,,Will Hikaru...
 Dialogue: 0,0:07:50.32,0:07:52.71,Sai,,0,0,0,,not let me play anymore?
 Dialogue: 0,0:07:51.45,0:07:52.70,Default,,0,0,0,,{\pos(320,375)}That is true, but...
 Dialogue: 0,0:07:52.70,0:07:54.87,Default,,0,0,0,,{\pos(320,375)}Right!? Let's see who becomes 2-dan first!
+Comment: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,These are really old values before I really tried to match with basic fscx etc.
 Comment: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs37\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz349\pos(302,134)}The 48th Ouza Title Match
 Comment: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs26\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz350\pos(218,298)}The 23rd graduating class of
 Comment: 0,0:08:03.05,0:08:05.38,NoteTimes,,0,0,0,,{\fs32\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz352\pos(374,377)}Koike Jr. High School, Reunion
@@ -187,8 +188,8 @@ Dialogue: 0,0:09:37.83,0:09:41.63,Default,,0,0,0,,Then you'll be trying to get r
 Dialogue: 0,0:09:50.39,0:09:52.67,Default,,0,0,0,,You first, Zama Ouza.
 Dialogue: 0,0:09:55.74,0:09:58.24,NoteTimes,,0,0,0,,{\fs19\1c&H000000&\3c&HFFFFFF&\bord1\shad0\pos(277,62)}O\Nu\Nz\Na\N\NT\Ni\Nt\Nl\Ne\N\NM\Na\Nt\Nc\Nh
 Dialogue: 0,0:09:55.74,0:09:58.24,NoteTimes,,0,0,0,,{\fs19\1c&H000000&\3c&HFFFFFF&\bord1\shad0\pos(385,195)}A\Nf\Nf\Ni\Nl\Ni\Na\Nt\Ne\Ns\N\NO\Nn\Nl\Ny
-Dialogue: 0,0:09:59.25,0:10:02.75,NoteTimes,,0,0,0,,{\fs22.5\bord1\shad0\fad(459,0)\pos(320,368)}The First Game of the Ouza Title Match
-Dialogue: 0,0:10:02.75,0:10:05.25,NoteArial,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\bord1\frz346\pos(380,169)}Japanese Go Institute
+Dialogue: 0,0:09:59.25,0:10:02.75,NoteTimes,,0,0,0,,{\fs22.5\bord1.25\shad0\fad(459,0)\pos(320,368)}The First Game of the Ouza Title Match
+Dialogue: 0,0:10:02.75,0:10:05.25,NoteArial,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz346\pos(380,169)}Japanese Go Institute
 Dialogue: 0,0:10:05.79,0:10:07.96,Background,,0,0,0,,What is it, Master Kuwabara?
 Dialogue: 0,0:10:09.00,0:10:10.76,Default,,0,0,0,,Is there an interesting article?
 Dialogue: 0,0:10:11.59,0:10:14.29,Default,,0,0,0,,The results of the pro exam are on this.
