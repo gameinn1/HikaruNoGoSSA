@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.562500
-Scroll Position: 494
-Active Line: 506
-Video Position: 30044
+Video Zoom Percent: 0.625000
+Scroll Position: 176
+Active Line: 188
+Video Position: 24335
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,7 +35,7 @@ Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -226,14 +226,18 @@ Dialogue: 0,0:15:09.81,0:15:10.31,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:15:10.85,0:15:13.06,Default,,0,0,0,,Okay. Let's go, Kumiko!
 Dialogue: 0,0:15:13.39,0:15:15.85,Default,,0,0,0,,Okay. I'm going first!
 Dialogue: 0,0:15:16.90,0:15:17.77,Default,,0,0,0,,Okay!
-Dialogue: 0,0:15:38.33,0:15:41.25,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(626,0)\bord0\fscx100\fscy160\blur0\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private Junior High School
-Dialogue: 0,0:15:41.25,0:15:41.42,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(0,0)\bord0\fscx100\fscy160\blur0\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private J{\alpha&HFF&}unior High School
+Comment: 0,0:15:38.33,0:15:41.25,NoteArial,,0,0,0,,Didn't have these blurred before but looking now it should be.
+Dialogue: 0,0:15:38.33,0:15:41.25,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(626,0)\bord0\fscx100\fscy160\blur0.8\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private Junior High School
+Dialogue: 0,0:15:41.25,0:15:41.42,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(0,0)\bord0\fscx100\fscy160\blur0.8\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private J{\alpha&HFF&}unior High School
 Dialogue: 0,0:16:06.95,0:16:08.66,Thinking,,0,0,0,,It probably started already.
 Dialogue: 0,0:16:29.13,0:16:31.47,Thinking,,0,0,0,,I won't be playing...
 Dialogue: 0,0:16:34.06,0:16:34.72,Thinking,,0,0,0,,Sai...
 Dialogue: 0,0:16:38.48,0:16:39.69,Thinking,,0,0,0,,I'm only watching.
-Dialogue: 0,0:16:46.53,0:16:51.07,NoteArial,,0,0,0,,{\fs15.5\an4\1c&H554A47&\bord0\blur2\fad(209,0)\fscy200\shad0\frz3.5\pos(400,172)}IGO TOURNA-\NMENT HALL
-Dialogue: 0,0:16:54.95,0:16:59.46,NoteArial,,0,0,0,,{\3c&H2B4006&\bord1\shad0\alpha&H40&}The Sixth Annual Summer Go Tournament Match Hall
+Comment: 0,0:16:46.53,0:16:51.07,NoteArial,,0,0,0,,Had this at blur2 before but 2.5 fits slightly better I think.
+Dialogue: 0,0:16:46.53,0:16:51.07,NoteArial,,0,0,0,,{\fs15.5\an4\1c&H554A47&\bord0\blur2.5\fad(209,0)\fscy200\shad0\frz3.5\pos(400,172)}IGO TOURNA-\NMENT HALL
+Comment: 0,0:16:54.95,0:16:59.46,NoteArial,,0,0,0,,Had this at H40 before but think 60 seems better.
+Dialogue: 0,0:16:54.95,0:16:59.46,NoteArial,,0,0,0,,{\3c&H2B4006&\bord1.25\shad0\alpha&H60&}The Sixth Annual Summer Go Tournament Match Hall
+Comment: 0,0:17:06.25,0:17:16.64,NoteArial,,0,0,0,,This is pretty similar to R-F. Even has more of the bottom text revealed as it pans. Don't know how you would improve this. Maybe increase border size more but then the fade out looks even worse.
 Dialogue: 0,0:17:06.25,0:17:16.64,NoteArial,,0,0,0,,{\fs11\1c&H414043&\3c&HE6F6F6&\bord4\fad(0,2669)\shad0\blur0\fscx99\fscy195\frz1\move(75,11,669,11,67,10369)}The Sixth Annual North District Summer Junior High Go Tournament
 Dialogue: 0,0:17:41.00,0:17:41.91,Thinking,,0,0,0,,It's Akari!
 Dialogue: 0,0:17:42.87,0:17:44.08,Thinking,,0,0,0,,She's sitting in the middle.

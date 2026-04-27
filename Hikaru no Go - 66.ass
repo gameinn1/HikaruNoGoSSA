@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 66 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 101
-Active Line: 107
-Video Position: 13675
+Video Zoom Percent: 0.625000
+Scroll Position: 36
+Active Line: 59
+Video Position: 8498
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -106,8 +106,9 @@ Dialogue: 0,0:05:33.98,0:05:36.23,Thinking,,0,0,0,,I'm just dissatisfied...
 Dialogue: 0,0:05:37.48,0:05:39.94,Thinking,,0,0,0,,with becoming a pro right now.
 Dialogue: 0,0:05:41.45,0:05:42.86,Thinking,,0,0,0,,Maybe I do need someone else...
 Dialogue: 0,0:05:43.61,0:05:46.33,Thinking,,0,0,0,,just like Ashiwara-san says.
-Dialogue: 0,0:05:47.99,0:05:51.21,NoteArial,,0,0,0,,{\fs32\1c&H0E7E90&\fscy70\bord0\shad1\blur0.8\frx4\fry0\move(322,279,322,461)}HAGINO INCORPORATED
-Dialogue: 0,0:05:51.21,0:05:53.46,NoteArial,,0,0,0,,{\fs18\t(0,2226,1,\fs19)\1c&H0E7E90&\fscx101\fscy140\bord0\shad1\blur0\move(315,34,315,54)}Company President's Office
+Dialogue: 0,0:05:47.99,0:05:51.21,NoteArial,,0,0,0,,{\fs32\1c&H0E7E90&\fscy65\bord0\shad1\blur0.8\frx4\fry0\move(322,279,322,461)}HAGINO INCORPORATED
+Comment: 0,0:05:51.21,0:05:53.46,NoteArial,,0,0,0,,Unsure if I should have blurred this.
+Dialogue: 0,0:05:51.21,0:05:53.46,NoteArial,,0,0,0,,{\fs18\t(0,2226,1,\fs19)\1c&H0E7E90&\fscx101\fscy140\bord0\shad1\blur0.8\move(315,34,315,54)}Company President's Office
 Dialogue: 0,0:06:11.18,0:06:12.23,Default,,0,0,0,,This is the end.
 Dialogue: 0,0:06:13.19,0:06:17.82,Default,,0,0,0,,I can't beat you... excuse me, I can't beat\Nyou, Master, even with four stones.
 Dialogue: 0,0:06:19.07,0:06:21.55,Background,,0,0,0,,You lost because of your Kosumi here.
@@ -154,6 +155,7 @@ Dialogue: 0,0:09:06.53,0:09:09.03,Default,,0,0,0,,Yes? Oh, Mom.
 Dialogue: 0,0:09:09.99,0:09:13.08,Default,,0,0,0,,Yeah, I know. Cram school, right?
 Dialogue: 0,0:09:13.99,0:09:16.61,Background,,0,0,0,,Oh, don't forget to tell dad about the money.
 Dialogue: 0,0:09:17.33,0:09:20.04,Background,,0,0,0,,Yeah, I just played him.
+Comment: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,Seem ok to me.
 Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&H777E4D&\bord0\blur0.8\shad0\fscy260\frz351\move(475,101,475,136)}IGO SALON
 Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\alpha&H60&\bord0\blur0.8\shad0\fscy130\frz9\frx6\fry350\move(153,260,153,295)}WEEKDAYS
 Dialogue: 0,0:09:30.34,0:09:32.47,Default,,0,0,0,,{\1c&HEDACA1&\\alpha&H60&\bord0\blur0.8\shad0\fscy130\frz9\frx6\fry350\move(159,310,159,345)}SATURDAYS

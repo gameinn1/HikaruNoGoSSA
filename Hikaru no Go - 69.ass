@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 69 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 112
-Active Line: 114
-Video Position: 14648
+Scroll Position: 22
+Active Line: 32
+Video Position: 6236
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
-Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,0,0,25,1
+Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: bannersign,HillWilliam,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
@@ -82,7 +82,9 @@ Dialogue: 0,0:04:06.89,0:04:08.56,Default,,0,0,0,,I was surprised when you calle
 Dialogue: 0,0:04:09.27,0:04:10.71,Default,,0,0,0,,How was China?
 Dialogue: 0,0:04:12.57,0:04:14.32,Default,,0,0,0,,Huh? What is it?
 Dialogue: 0,0:04:16.03,0:04:18.31,Default,,0,0,0,,Le Ping! You grew up so quickly!
-Dialogue: 0,0:04:20.07,0:04:25.75,NoteArial,,0,0,0,,{\fs28\1c&H0CBCEA&\bord0\blur0\shad1\fscy70\frz15\frx10\fry348\move(365,267,365,511)\i1}NcDonalds Hamburgers{\i0}
+Comment: 0,0:04:20.07,0:04:25.75,NoteArial,,0,0,0,,Not an exact match to R-F but I think the shadow works well. I know this scroll is pretty bad but so is R-F.
+Comment: 0,0:04:20.07,0:04:25.75,NoteArial,,0,0,0,,Old version: {\fs28\1c&H0CBCEA&\bord0\blur0.8\shad1\fscy70\frz15\frx10\fry348\move(365,267,365,511)\i1}NcDonalds Hamburgers{\i0}
+Dialogue: 0,0:04:20.07,0:04:25.75,NoteArial,,0,0,0,,{\fs28\1c&H0CBCEA&\bord0\blur0.8\shad1\fscy60\frz15\frx10\fry348\move(365,267,365,515)\i1}NcDonalds Hamburgers{\i0}
 Dialogue: 0,0:04:22.66,0:04:24.08,Background,,0,0,0,,So that's what you were doing.
 Dialogue: 0,0:04:24.62,0:04:30.28,Default,,0,0,0,,Yeah, it's good that Le Ping started following\Nme around and studying, but...
 Dialogue: 0,0:04:30.83,0:04:34.17,Default,,0,0,0,,he was always glaring at me.
