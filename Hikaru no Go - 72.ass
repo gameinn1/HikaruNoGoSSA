@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
+Video Zoom Percent: 0.625000
 Scroll Position: 170
-Active Line: 175
-Video Position: 25897
+Active Line: 176
+Video Position: 25945
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -222,9 +222,9 @@ Dialogue: 0,0:17:49.38,0:17:50.38,Default,,0,0,0,,but for Master Touya,
 Dialogue: 0,0:17:50.38,0:17:53.76,Default,,0,0,0,,the benefit of getting to play against the best\Nplayers in the world must be enough.
 Dialogue: 0,0:17:54.39,0:17:55.05,Default,,0,0,0,,Yoshikawa-kun!
 Dialogue: 0,0:17:55.60,0:17:56.09,Default,,0,0,0,,Yes!
-Dialogue: 0,0:17:56.51,0:18:00.02,Default,,0,0,0,,Call Master Touya now! Get his comments on it.
+Dialogue: 0,0:17:56.51,0:17:59.98,Default,,0,0,0,,Call Master Touya now! Get his comments on it.
 Comment: 0,0:18:00.10,0:18:03.73,NoteArial,,0,0,10,,Not sure on this one. When I first did this sign I thought it had something like alpha&H40& but that's probably not right. I think this also has a shadow around a 1 value. The reason I say that is we can assume the border is 1.25 and there is not much visible space between the n on R-F which should be easy to spot because of the sky but if you add shadow, it matches pretty well after that.
-Dialogue: 0,0:18:00.10,0:18:03.73,NoteArial,,0,0,10,,{\fs20\1c&H7AE4D7&\3c&H1C758E&\4c&H1C758E&\bord1.25\shad1}China Go Institute
+Dialogue: 0,0:18:00.10,0:18:03.73,NoteArial,,0,0,10,,{\fs20\1c&H7AE4D7&\3c&H1C758E&\4c&H1C758E&\bord1.25\shad1\fad(0,584)}China Go Institute
 Dialogue: 0,0:18:05.48,0:18:06.27,Background,,0,0,0,,Yang Hai!
 Dialogue: 0,0:18:07.71,0:18:08.61,Default,,0,0,0,,Did you hear?
 Dialogue: 0,0:18:09.23,0:18:12.22,Default,,0,0,0,,Master Touya from Japan just\Njoined the Bei'jing team!
