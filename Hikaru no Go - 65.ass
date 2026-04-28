@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 65 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 161
-Active Line: 181
-Video Position: 16887
+Scroll Position: 218
+Active Line: 242
+Video Position: 21993
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -228,68 +228,67 @@ Dialogue: 0,0:11:30.13,0:11:31.59,Default,,0,0,0,,This is the playing room.
 Dialogue: 0,0:11:32.09,0:11:36.01,Default,,0,0,0,,You research new moves here, replay\Nold games, play practice games...
 Dialogue: 0,0:11:36.51,0:11:38.76,Background,,0,0,0,,It's a place of learning for the chosen pros.
 Dialogue: 0,0:11:42.89,0:11:43.93,Thinking,,0,0,0,,They're all young.
-Comment: 0,0:11:44.31,0:11:46.35,Thinking,,0,0,0,,48 or 49 frames?
-Dialogue: 0,0:11:44.31,0:11:46.35,Thinking,,0,0,0,,A study session for Chinese pros...
+Dialogue: 0,0:11:44.31,0:11:46.39,Thinking,,0,0,0,,A study session for Chinese pros...
 Dialogue: 0,0:11:47.31,0:11:51.40,Thinking,,0,0,0,,Don't feel out of place! I studied\Nwith pros at Kyuuseikai, too.
 Dialogue: 0,0:11:52.15,0:11:55.69,Default,,0,0,0,,They study here starting from\N8:15 in the morning...
-Dialogue: 0,0:11:56.44,0:11:57.32,Default,,0,0,0,,Le Ping!
-Dialogue: 0,0:11:58.61,0:12:00.03,Default,,0,0,0,,Were you playing hooky again!?
-Dialogue: 0,0:12:00.45,0:12:02.41,Default,,0,0,0,,Why do you always do that when I'm not around!
+Dialogue: 0,0:11:56.53,0:11:57.45,Default,,0,0,0,,Le Ping!
+Dialogue: 0,0:11:58.61,0:12:00.07,Default,,0,0,0,,Were you playing hooky again!?
+Dialogue: 0,0:12:00.49,0:12:02.41,Default,,0,0,0,,Why do you always do that when I'm not around!
 Dialogue: 0,0:12:02.49,0:12:04.75,Default,,0,0,0,,I wasn't playing hooky. I just\Nwent to the bathroom.
-Dialogue: 0,0:12:05.00,0:12:06.12,Background,,0,0,0,,Don't lie to me!
-Dialogue: 0,0:12:06.62,0:12:07.25,Default,,0,0,0,,Waya!
-Dialogue: 0,0:12:11.71,0:12:13.00,Default,,0,0,0,,S-Sorry.
-Dialogue: 0,0:12:13.17,0:12:13.80,Default,,0,0,0,,Waya?
+Dialogue: 0,0:12:05.04,0:12:06.37,Background,,0,0,0,,Don't lie to me!
+Dialogue: 0,0:12:06.58,0:12:07.21,Default,,0,0,0,,Waya!
+Dialogue: 0,0:12:11.67,0:12:12.88,Default,,0,0,0,,S-Sorry.
+Dialogue: 0,0:12:13.09,0:12:13.75,Default,,0,0,0,,Waya?
 Dialogue: 0,0:12:14.17,0:12:15.84,Default,,0,0,0,,It's the name of a friend of mine in Japan.
-Dialogue: 0,0:12:16.42,0:12:17.80,Default,,0,0,0,,He looks just like him...
-Dialogue: 0,0:12:18.22,0:12:21.14,Default,,0,0,0,,Li Xian Sheng? What's "Waya"?\NIs he talking about me?
-Dialogue: 0,0:12:22.63,0:12:24.55,Background,,0,0,0,,Let me introduce him.
-Dialogue: 0,0:12:25.18,0:12:29.06,Default,,0,0,0,,This is Isumi-kun from Japan. He's\Ngoing to be studying here for a bit.
-Dialogue: 0,0:12:29.23,0:12:30.06,Background,,0,0,0,,Isumi-kun?
+Dialogue: 0,0:12:16.38,0:12:17.76,Default,,0,0,0,,He looks just like him...
+Dialogue: 0,0:12:18.18,0:12:21.14,Default,,0,0,0,,Li Xian Sheng? What's "Waya"?\NIs he talking about me?
+Dialogue: 0,0:12:22.72,0:12:24.60,Background,,0,0,0,,Let me introduce him.
+Dialogue: 0,0:12:25.14,0:12:29.06,Default,,0,0,0,,This is Isumi-kun from Japan. He's\Ngoing to be studying here for a bit.
+Dialogue: 0,0:12:29.19,0:12:30.06,Background,,0,0,0,,Isumi-kun?
 Dialogue: 0,0:12:30.10,0:12:31.15,Background,,0,0,0,,A Japanese pro?
 Dialogue: 0,0:12:31.44,0:12:33.98,Default,,0,0,0,,Nope. He is someone who is just starting out.
 Dialogue: 0,0:12:34.19,0:12:37.07,Default,,0,0,0,,N-Nice to meet.... you all...
-Dialogue: 0,0:12:37.81,0:12:39.36,Background,,0,0,0,,Isumi-kun! Isumi-kun!
+Dialogue: 0,0:12:37.99,0:12:39.49,Background,,0,0,0,,Isumi-kun! Isumi-kun!
 Dialogue: 0,0:12:43.12,0:12:45.91,Default,,0,0,0,,Does Waya have an outtie just like me!?
 Dialogue: 0,0:12:46.66,0:12:47.62,Default,,0,0,0,,Le Ping!
 Dialogue: 0,0:12:48.12,0:12:50.04,Default,,0,0,0,,Oh! It's already lunchtime!
 Dialogue: 0,0:12:50.08,0:12:51.00,Background,,0,0,0,,Wait!
 Dialogue: 0,0:12:51.13,0:12:51.79,Default,,0,0,0,,Le Ping!
 Dialogue: 0,0:12:54.21,0:12:55.46,Default,,0,0,0,,What a problem child...
-Dialogue: 0,0:12:56.34,0:13:00.22,Default,,0,0,0,,Le Ping isn't very motivated to study Go.
+Dialogue: 0,0:12:56.26,0:13:00.22,Default,,0,0,0,,Le Ping isn't very motivated to study Go.
 Dialogue: 0,0:13:01.72,0:13:03.60,Default,,0,0,0,,Li Xian Sheng must be annoyed with him.
 Dialogue: 0,0:13:04.14,0:13:05.35,Default,,0,0,0,,He's always yelling at him.
 Dialogue: 0,0:13:06.02,0:13:07.93,Default,,0,0,0,,He looked very young.
 Dialogue: 0,0:13:08.39,0:13:09.73,Default,,0,0,0,,He's a pro too, right?
-Dialogue: 0,0:13:09.89,0:13:10.60,Default,,0,0,0,,Of course!
-Dialogue: 0,0:13:10.97,0:13:13.48,Default,,0,0,0,,He came here last year at the age of eleven.
-Dialogue: 0,0:13:14.61,0:13:15.98,Default,,0,0,0,,It's time for lunch.
-Dialogue: 0,0:13:16.61,0:13:17.69,Default,,0,0,0,,Why don't we eat, too?
-Dialogue: 0,0:13:17.94,0:13:18.36,Default,,0,0,0,,Okay.
-Dialogue: 0,0:13:22.69,0:13:25.53,Background,,0,0,0,,Eat here on the first floor while you are here.
-Dialogue: 0,0:13:26.03,0:13:27.86,Background,,0,0,0,,Everyone eats here.
+Dialogue: 0,0:13:09.85,0:13:10.60,Default,,0,0,0,,Of course!
+Dialogue: 0,0:13:11.15,0:13:13.56,Default,,0,0,0,,He came here last year at the age of eleven.
+Dialogue: 0,0:13:14.57,0:13:15.98,Default,,0,0,0,,It's time for lunch.
+Dialogue: 0,0:13:16.57,0:13:17.69,Default,,0,0,0,,Why don't we eat, too?
+Dialogue: 0,0:13:17.90,0:13:18.36,Default,,0,0,0,,Okay.
+Dialogue: 0,0:13:22.82,0:13:25.91,Background,,0,0,0,,Eat here on the first floor while you are here.
+Dialogue: 0,0:13:26.20,0:13:28.20,Background,,0,0,0,,Everyone eats here.
 Dialogue: 0,0:13:29.66,0:13:33.21,Background,,0,0,0,,You should go and get a hotel room\Nas soon as you finish eating.
 Dialogue: 0,0:13:33.96,0:13:36.55,Default,,0,0,0,,You have two hours for lunch. That's plenty of time.
-Dialogue: 0,0:13:37.05,0:13:37.46,Default,,0,0,0,,Okay.
-Dialogue: 0,0:13:38.01,0:13:39.01,Default,,0,0,0,,Good luck.
+Dialogue: 0,0:13:37.05,0:13:37.50,Default,,0,0,0,,Okay.
+Dialogue: 0,0:13:37.96,0:13:39.01,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:13:39.63,0:13:43.64,Default,,0,0,0,,It may not be a long time, but if you work\Nhard, you will learn something valuable.
-Dialogue: 0,0:13:46.72,0:13:47.10,Default,,0,0,0,,Okay...
-Dialogue: 0,0:13:53.52,0:13:54.27,Thinking,,0,0,0,,Le Ping...
+Dialogue: 0,0:13:46.64,0:13:47.10,Default,,0,0,0,,Okay...
+Dialogue: 0,0:13:53.48,0:13:54.27,Thinking,,0,0,0,,Le Ping...
 Dialogue: 0,0:13:55.65,0:13:58.65,Thinking,,0,0,0,,Oh no, I can't be relaxing just because\NI met a small version of Waya.
-Dialogue: 0,0:14:03.53,0:14:07.62,Default,,0,0,0,,You're going to play a game with one and\Na half hours each in the afternoon.
+Dialogue: 0,0:14:03.49,0:14:07.62,Default,,0,0,0,,You're going to play a game with one and\Na half hours each in the afternoon.
 Dialogue: 0,0:14:08.24,0:14:10.91,Default,,0,0,0,,We're playing in leagues right now\Nto test out everyone's strength.
 Dialogue: 0,0:14:11.66,0:14:13.25,Background,,0,0,0,,I'll write your name in, too.
 Dialogue: 0,0:14:15.58,0:14:18.84,Default,,0,0,0,,They are the members of the lower\Ndan group, first dan through 3-dan.
 Dialogue: 0,0:14:19.21,0:14:21.30,Background,,0,0,0,,You should play anyone who's free.
 Dialogue: 0,0:14:22.22,0:14:22.93,Background,,0,0,0,,Li Xian Sheng,
 Dialogue: 0,0:14:23.47,0:14:25.30,Default,,0,0,0,,I'll play Isumi-kun.
-Dialogue: 0,0:14:25.84,0:14:26.85,Default,,0,0,0,,Le Ping?
-Dialogue: 0,0:14:27.51,0:14:28.68,Default,,0,0,0,,How about it, Isumi-kun?
-Dialogue: 0,0:14:29.68,0:14:30.35,Thinking,,0,0,0,,Le Ping...
-Dialogue: 0,0:14:32.43,0:14:35.44,Thinking,,0,0,0,,I can't be losing to a child like him
-Dialogue: 0,0:14:36.94,0:14:37.64,Default,,0,0,0,,Please.
-Dialogue: 0,0:15:08.22,0:15:09.10,Thinking,,0,0,0,,I underestimated him!
-Dialogue: 0,0:15:09.97,0:15:12.64,Thinking,,0,0,0,,I belittled him too much in my mind.
+Dialogue: 0,0:14:25.80,0:14:26.85,Default,,0,0,0,,Le Ping?
+Dialogue: 0,0:14:27.47,0:14:28.68,Default,,0,0,0,,How about it, Isumi-kun?
+Dialogue: 0,0:14:29.64,0:14:30.35,Thinking,,0,0,0,,Le Ping...
+Dialogue: 0,0:14:32.43,0:14:35.44,Thinking,,0,0,0,,I can't be losing to a child like him.
+Dialogue: 0,0:14:36.90,0:14:37.64,Default,,0,0,0,,Please.
+Dialogue: 0,0:15:08.22,0:15:09.14,Thinking,,0,0,0,,I underestimated him!
+Dialogue: 0,0:15:09.93,0:15:12.64,Thinking,,0,0,0,,I belittled him too much in my mind.
 Dialogue: 0,0:15:17.27,0:15:20.19,Thinking,,0,0,0,,Le Ping is one of the chosen pros, too!
 Dialogue: 0,0:15:25.07,0:15:27.45,Background,,0,0,0,,Isumi-kun, you were too forceful.
 Dialogue: 0,0:15:27.74,0:15:28.99,Background,,0,0,0,,This move was a mistake.
