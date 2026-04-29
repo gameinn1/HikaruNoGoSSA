@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 170
-Active Line: 176
-Video Position: 25945
+Scroll Position: 49
+Active Line: 51
+Video Position: 9926
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -99,23 +99,23 @@ Dialogue: 0,0:06:23.58,0:06:27.46,Default,,0,0,0,,I hope whoever passes doesn't 
 Dialogue: 0,0:06:38.72,0:06:40.38,Default,,0,0,0,,Shindou-kun...
 Dialogue: 0,0:06:41.46,0:06:47.07,Background,,0,0,0,,Amano-san, should we be hopeful\Nabout the future of the Go world?
 Dialogue: 0,0:06:49.56,0:06:52.56,NoteArial,,0,0,0,,{\fs16.5\1c&H526680&\bord0\shad0\fscy110\pos(344,149)}Japanese Go Institute
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,,0,0,0,,{\fs22\1c&HF0D8CC&\bord0\shad0\fscy65\frz270\move(313,247,710,247,61,3564)}TODAY'S PROGRAMS
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,1,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(249,181,646,181,61,3564)}Public Match Room
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,2,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(192,194,589,194,61,3564)}Day of the Kyu-players
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,3,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(137,216,534,216,61,3564)}Training Course Dan-players
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,4,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(80,179,477,179,61,3564)}Onagai Classroom
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,5,0,0,0,,{\fs14\1c&HF0D8CC&\bord0\shad0\fscy100\frz270\move(23,215,420,215,61,3564)}Tutor Go with Sasaki Masashi 8-dan
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,6,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(-36,187,361,187,61,3564)}Basics of Go Course
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,7,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(-92,188,305,188,61,3564)}Katsuragi Classroom
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,8,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(-152,170,245,170,61,3564)}Pro examination
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,8,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(-152,369,245,369,61,3564)}6th Floor
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,7,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(-92,371,305,371,61,3564)}3rd Floor
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,6,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(-36,370,361,370,61,3564)}3rd Floor
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,1,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(249,369,646,369,61,3564)}2nd Floor
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,2,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(192,371,589,371,61,3564)}2nd Floor
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,3,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(136,371,533,371,61,3564)}3rd Floor
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,4,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(80,371,477,371,61,3564)}2nd Floor
-Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,5,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\shad0\fscy80\frz270\move(23,371,420,371,61,3564)}2nd Floor
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,,0,0,0,,{\fs22\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy65\frz270\move(313,247,710,247,61,3564)}TODAY'S PROGRAMS
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,1,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(249,181,646,181,61,3564)}Public Match Room
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,2,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(192,194,589,194,61,3564)}Day of the Kyu-players
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,3,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(137,216,534,216,61,3564)}Training Course Dan-players
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,4,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(80,179,477,179,61,3564)}Onagai Classroom
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,5,0,0,0,,{\fs14\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy100\frz270\move(23,215,420,215,61,3564)}Tutor Go with Sasaki Masashi 8-dan
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,6,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(-36,187,361,187,61,3564)}Basics of Go Course
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,7,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(-92,188,305,188,61,3564)}Katsuragi Classroom
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,8,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(-152,170,245,170,61,3564)}Pro examination
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,8,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(-152,369,245,369,61,3564)}6th Floor
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,7,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(-92,371,305,371,61,3564)}3rd Floor
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,6,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(-36,370,361,370,61,3564)}3rd Floor
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,1,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(249,369,646,369,61,3564)}2nd Floor
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,2,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(192,371,589,371,61,3564)}2nd Floor
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,3,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(136,371,533,371,61,3564)}3rd Floor
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,4,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(80,371,477,371,61,3564)}2nd Floor
+Dialogue: 0,0:06:52.56,0:06:56.15,NoteArial,5,0,0,0,,{\fs17.5\1c&HF0D8CC&\bord0\blur0.8\shad0\fscy80\frz270\move(23,371,420,371,61,3564)}2nd Floor
 Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HE3C7BC&\q2\shad0\bord0\blur0.8\fscx99\fscy75\frz270\move(610,441,610,51)}Basics of Go Course    3rd Floor
 Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HEED2C6&\q2\shad0\bord0\blur0.8\fscx99\fscy75\frz270\move(453,439,453,51)}Katsuragi Classroom   3rd Floor
 Dialogue: 0,0:06:56.15,0:07:00.61,NoteArial,,0,0,0,,{\fs50\1c&HEAE0DD&\q2\shad0\bord0\blur0.8\fscx99\fscy75\frz270\move(286,436,286,52)}Pro examination           6th Floor
