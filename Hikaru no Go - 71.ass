@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 71 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 175
-Active Line: 188
-Video Position: 29733
+Scroll Position: 48
+Active Line: 58
+Video Position: 12518
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -105,7 +105,7 @@ Dialogue: 0,0:08:29.74,0:08:30.53,Background,,0,0,0,,Stand.
 Dialogue: 0,0:08:33.58,0:08:34.16,Background,,0,0,0,,Bow.
 Dialogue: 0,0:08:38.08,0:08:38.83,Default,,0,0,0,,Teacher!
 Dialogue: 0,0:08:40.45,0:08:41.41,Default,,0,0,0,,What is it, Kaneko?
-Dialogue: 0,0:08:42.08,0:08:46.09,NoteArial,,0,0,0,,{\1c&H241917&\fs31\t(0,3987,1,\fs23)\bord0\shad0\fscx100\fscy45\frz346\move(240,214,196,179,0,3987)}Chemistry Lab
+Dialogue: 0,0:08:42.08,0:08:46.09,NoteArial,,0,0,0,,{\1c&H241917&\fs31\t(0,3987,1,\fs23)\blur0.8\bord0\shad0\fscx100\fscy45\frz346\move(240,214,196,179,0,3987)}Chemistry Lab
 Dialogue: 0,0:08:44.55,0:08:46.09,Background,,0,0,0,,Kaneko-san, are you sure?
 Dialogue: 0,0:08:46.67,0:08:49.36,Default,,0,0,0,,Hikaru was absent today for a match?
 Dialogue: 0,0:08:49.72,0:08:58.60,Default,,0,0,0,,Yup. And I hear that he's been absent the last few\Ndays for Go-related things like study sessions.
