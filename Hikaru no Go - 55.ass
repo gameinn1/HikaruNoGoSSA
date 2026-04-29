@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 390
-Active Line: 392
-Video Position: 27751
+Scroll Position: 18
+Active Line: 30
+Video Position: 5427
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -73,8 +73,8 @@ Dialogue: 0,0:03:38.74,0:03:44.95,Thinking,,0,0,0,,Yes... it won't be too long n
 Comment: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,Old basic values before some slight frz applied and change of fry.
 Comment: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0.5\pos(389,53)\frx0\fry6}N\NO
 Comment: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0.5\pos(389,152)\frx0\fry6}V\NI\NS\NI\NT\NO\NR\NS
-Dialogue: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0.5\pos(389,53)\frx0\fry18\frz1}N\NO
-Dialogue: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0.5\pos(389,152)\frx0\fry6\frz0.4}V\NI\NS\NI\NT\NO\NR\NS
+Dialogue: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0\pos(389,53)\frx0\fry18\frz1}N\NO
+Dialogue: 0,0:03:46.33,0:03:48.54,NoteArial,,0,0,0,,{\fs31.5\1c&H55332E&\bord0\blur0.8\shad0\pos(389,152)\frx0\fry6\frz0.4}V\NI\NS\NI\NT\NO\NR\NS
 Dialogue: 0,0:03:55.05,0:04:00.30,Thinking,,0,0,0,,But for my father to want to play Internet\NGo, without being interrupted?
 Dialogue: 0,0:04:01.00,0:04:02.60,Thinking,,0,0,0,,He certainly seems absorbed in it.
 Dialogue: 0,0:04:02.89,0:04:05.81,Thinking,,0,0,0,,He didn't seem to like it very much when he started.
