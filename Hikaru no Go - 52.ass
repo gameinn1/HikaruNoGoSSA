@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 52 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 305
-Active Line: 319
-Video Position: 19596
+Scroll Position: 78
+Active Line: 93
+Video Position: 8984
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,6 +137,7 @@ Dialogue: 0,0:06:00.66,0:06:05.25,Default,,0,0,0,,Bank account? Oh, they're goin
 Dialogue: 0,0:06:05.68,0:06:06.43,Default,,0,0,0,,Yup.
 Dialogue: 0,0:06:06.43,0:06:10.59,Default,,0,0,0,,Oh, and this won't be for a while, but I'll have to\Nfile tax refunds, too.
 Dialogue: 0,0:06:11.55,0:06:14.51,Default,,0,0,0,,T-Tax refunds!?
+Comment: 0,0:06:14.69,0:06:19.15,NoteArial,,0,0,0,,Similar sign to 63: 8:52 and 73: 11:47.
 Dialogue: 0,0:06:14.69,0:06:19.15,NoteArial,,0,0,0,,{\fs60\q2\bord0.5\blur0.8\fscy80\1c&H545F59&\shad2\move(515,89,60,89)}Japanese Go Institute
 Dialogue: 0,0:06:19.15,0:06:21.57,NoteArial,,0,0,0,,{\fs18\1c&H000000&\bord0\blur0.8\shad0\frz13\move(190,269,-85,269)\frx6\fry350}Ookura Kichinarou\NAward Ceremony
 Dialogue: 0,0:06:19.15,0:06:22.99,NoteArial,,0,0,0,,{\fs20\1c&H000000&\bord0\blur0.8\shad0\frz14\frx6\fry350\move(417,175,-20,175)}Hideori Award Ceremony

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 65 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 299
-Active Line: 325
-Video Position: 29283
+Scroll Position: 364
+Active Line: 377
+Video Position: 35041
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -426,7 +426,7 @@ Dialogue: 0,0:23:00.90,0:23:02.44,Background,,0,0,0,,Yeah, Touya Akira.
 Dialogue: 0,0:23:02.69,0:23:06.11,Background,,0,0,0,,He's Touya Meijin's son, and he doesn't\Nplay in Amateur tournaments.
 Dialogue: 0,0:23:06.41,0:23:09.33,Background,,0,0,0,,I heard that Touya Akira is good, is that true?
 Dialogue: 0,0:23:09.70,0:23:12.25,Background,,0,0,0,,Why don't you play a game with Akira-kun then?
-Dialogue: 0,0:23:22.76,0:23:25.43,Default,,0,0,0,,Yeah. That's what I'm here for.
+Dialogue: 0,0:23:22.71,0:23:25.43,Default,,0,0,0,,Yeah. That's what I'm here for.
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,238,640,244)}Real Fansubbers presents
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord4\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,220,640,232)}Real Fansubbers presents
 Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H2C00EE&\clip(0,220,640,230)}Real Fansubbers presents
