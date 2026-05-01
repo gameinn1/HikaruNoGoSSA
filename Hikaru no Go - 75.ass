@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 255
-Active Line: 258
-Video Position: 31846
+Video Zoom Percent: 0.625000
+Scroll Position: 258
+Active Line: 263
+Video Position: 32283
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -302,12 +302,12 @@ Dialogue: 0,0:20:43.64,0:20:48.44,ed64_romaji,,0,0,0,,{\fs22.5\1c&H0A070A&\fsp0\
 Dialogue: 0,0:20:48.44,0:20:48.56,ed64_romaji,,0,0,0,,{\fs22.5\1c&H0A070A&\fsp0\frz272\blur0.8\bord0\shad0\pos(528,77)\b1}Com{\b0}
 Dialogue: 0,0:20:48.64,0:20:48.81,ed64_romaji,,0,0,0,,{\fs22.5\1c&H0A070A&\fsp0\frz272\blur0.8\bord0\shad0\pos(528,77)\b1}Come{\b0}
 Dialogue: 0,0:20:48.81,0:20:49.64,ed64_romaji,,0,0,0,,{\fs22.5\1c&H0A070A&\fsp0\frz272\blur0.8\bord0\shad0\pos(528,77)\b1}Come to the Go club!{\b0}
-Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(876,0)\fscy70\fsp0\fs43\fsp0\pos(440,351)}The End
-Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs28\fsp0\blur0.8\1c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1250)\bord0\pos(292,331)}Yukari Umezawa's
+Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(876,0)\fscy70\fsp0\fs43\pos(440,351)}The End
+Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs28\fsp0\blur0.8\1c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1251)\bord0\pos(292,331)}Yukari Umezawa's
 Dialogue: 0,0:22:10.56,0:22:14.48,Default,,0,0,0,,Today is the last episode of Go Go Igo\Nafter running for a year and a half.
-Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&HF90000&\4c&HF90000&\bord1.5\shad0.5\fad(667,667)\pos(129,244)}Yuuki
-Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&H117AF8&\4c&H117AF8&\bord1.5\shad0.5\fad(667,667)\pos(323,232)}Teacher Yukari
-Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&HF627EF&\4c&HF627EF&\bord1.5\shad0.5\fad(667,667)\pos(511,244)}Mai
+Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&HF90000&\4c&HF90000&\bord1.5\shad0.5\fad(584,709)\pos(129,244)}Yuuki
+Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&H117AF8&\4c&H117AF8&\bord1.5\shad0.5\fad(584,709)\pos(323,232)}Teacher Yukari
+Dialogue: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\3c&HF627EF&\4c&HF627EF&\bord1.5\shad0.5\fad(584,709)\pos(512,244)}Mai
 Dialogue: 0,0:22:14.88,0:22:17.73,Default,,0,0,0,,Thank you so much for watching the entire time.
 Dialogue: 0,0:22:19.19,0:22:20.74,Default,,0,0,0,,During the last year and a half...
 Dialogue: 0,0:22:20.82,0:22:26.45,Default,,0,0,0,,I've been very happy because I was able to\Nsee a lot of people happy from playing Go.
