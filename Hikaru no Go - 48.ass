@@ -357,8 +357,8 @@ Dialogue: 0,0:22:48.12,0:22:50.12,Default,,0,0,0,,Everyone was playing so intent
 Dialogue: 0,0:22:50.48,0:22:54.53,Default,,0,0,0,,There were lots of different pairs, and\NI really enjoyed watching them.
 Dialogue: 0,0:22:54.85,0:22:56.25,Default,,0,0,0,,Wasn't it fun!?
 Comment: 0,0:22:54.72,0:22:54.92,Note,,0,0,0,,Likely these are bord 1.25
-Dialogue: 0,0:22:54.72,0:22:54.92,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(167,0)\3c&H1200EF&\4c&H1200EF&\bord1.25\shad1\i1\move(357,-65,357,375)}To be continued...{\i0}
-Dialogue: 0,0:22:54.92,0:22:57.37,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(0,0)\3c&H1200EF&\4c&H1200EF&\bord1.25\shad1\i1\pos(357,375)}To be continued...{\i0}
+Dialogue: 0,0:22:54.72,0:22:54.92,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(167,0)\3c&H1200EF&\4c&H1200EF&\bord1\shad1\i1\move(357,-65,357,375)}To be continued...{\i0}
+Dialogue: 0,0:22:54.92,0:22:57.37,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(0,0)\3c&H1200EF&\4c&H1200EF&\bord1\shad1\i1\pos(357,375)}To be continued...{\i0}
 Dialogue: 0,0:23:00.51,0:23:03.07,Sai,,0,0,0,,I can't win unless I start a fight early on.
 Dialogue: 0,0:23:04.07,0:23:06.70,Default,,0,0,0,,What is Shindou-kun thinking!?
 Dialogue: 0,0:23:07.45,0:23:11.77,Thinking,,0,0,0,,The fight that started in a corner...\Nhas spread across the board.
