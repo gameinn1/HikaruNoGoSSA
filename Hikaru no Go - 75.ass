@@ -17,8 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 245
-Active Line: 252
+Scroll Position: 239
+Active Line: 248
 Video Position: 31743
 
 [V4+ Styles]
@@ -292,6 +292,12 @@ Dialogue: 0,0:19:07.38,0:19:07.42,NoteArial,,0,0,0,,{\an4\1c&H080507&\fs14\shad0
 Dialogue: 0,0:19:07.42,0:19:07.46,NoteArial,,0,0,0,,{\an4\1c&H080507&\fs14\shad0\3c&HFFFFFF&\frz270\fscx99\fscy110\bord2\pos(472.1,215.3)\iclip(m 451 374.5 l 492 374.5 492 401 451 401)}Waya-kun congratulations on\Nyour promotion to second dan!
 Dialogue: 0,0:19:07.46,0:19:07.50,NoteArial,,0,0,0,,{\an4\1c&H080507&\fs14\shad0\3c&HFFFFFF&\frz270\fscx99\fscy110\bord2\pos(472.1,215.3)\iclip(m 451 393 l 492 393 492 401 451 401)}Waya-kun congratulations on\Nyour promotion to second dan!
 Dialogue: 0,0:19:07.50,0:19:09.13,NoteArial,,0,0,0,,{\an4\1c&H080507&\fs14\shad0\3c&HFFFFFF&\frz270\fscx99\fscy110\bord2\pos(472.1,215.3)}Waya-kun congratulations on\Nyour promotion to second dan!
+Comment: 0,0:20:43.64,0:20:48.44,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz272\bord0\shad0\pos(528,77)\b1}Come to the Go club!{\b0}
+Comment: 0,0:20:48.44,0:20:48.56,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz272\bord0\shad0\pos(528,77)\b1}Com{\b0}
+Comment: 0,0:20:48.64,0:20:48.81,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz272\bord0\shad0\pos(528,77)\b1}Come{\b0}
+Comment: 0,0:20:48.81,0:20:49.64,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz272\bord0\shad0\pos(528,77)\b1}Come to the Go club!{\b0}
+Comment: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(792,0)\fscy70\fs42\pos(440,351)}The End
+Comment: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs27.5\blur0.8\c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1250)\bord0\pos(290,331)}Yukari Umezawa's
 Dialogue: 0,0:20:43.64,0:20:48.44,ed64_romaji,,0,0,0,,{\fs22.5\1c&H000000&\fsp0\frz272\bord0\shad0\b1\pos(528,77)}Come to the Go club!{\b0}
 Dialogue: 0,0:20:48.44,0:20:48.56,ed64_romaji,,0,0,0,,{\fs22.5\1c&H000000&\fsp0\frz272\bord0\shad0\pos(528,77)\b1}Com{\b0}
 Dialogue: 0,0:20:48.64,0:20:48.81,ed64_romaji,,0,0,0,,{\fs22.5\1c&H000000&\fsp0\frz272\bord0\shad0\pos(528,77)\b1}Come{\b0}
