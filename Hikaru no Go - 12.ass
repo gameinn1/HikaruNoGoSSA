@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 12 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 419
-Active Line: 443
-Video Position: 31620
+Scroll Position: 305
+Active Line: 318
+Video Position: 34988
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -358,7 +358,7 @@ Dialogue: 0,0:22:53.38,0:22:56.05,Default,,0,0,0,,Happy new years!
 Dialogue: 0,0:22:55.02,0:22:57.37,Note,,0,0,145,,{\an2}Have a nice 2002!
 Dialogue: 0,0:22:59.21,0:23:01.71,Default,,0,0,0,,So you're from Kaiou.
 Dialogue: 0,0:23:02.36,0:23:03.78,Default,,0,0,0,,I heard you guys are good,
-Dialogue: 0,0:23:04.21,0:23:06.07,Default,,0,0,0,,But you lost to Haze Junior earlier?
+Dialogue: 0,0:23:04.21,0:23:06.07,Default,,0,0,0,,but you lost to Haze Junior earlier?
 Dialogue: 0,0:23:06.87,0:23:07.97,Default,,0,0,0,,Mitani is...
 Dialogue: 0,0:23:08.70,0:23:10.17,Default,,0,0,0,,He is our first board!
 Dialogue: 0,0:23:10.88,0:23:12.16,Default,,0,0,0,,Don't underestimate him.
