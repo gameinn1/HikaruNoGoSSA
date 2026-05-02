@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 255
-Active Line: 265
-Video Position: 32140
+Scroll Position: 21
+Active Line: 44
+Video Position: 8990
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,7 +56,7 @@ Dialogue: 0,0:02:52.15,0:02:53.57,Default,,0,0,0,,in a Go salon...
 Dialogue: 0,0:02:55.07,0:02:57.07,Default,,0,0,0,,He... he is Sai.
 Dialogue: 0,0:03:01.66,0:03:05.71,Default,,0,0,0,,I can tell because I know you\Nbetter than anyone else.
 Dialogue: 0,0:03:07.49,0:03:08.96,Default,,0,0,0,,Only I can tell this...
-Dialogue: 0,0:03:10.13,0:03:13.55,Default,,0,0,0,,But there's someone else inside you!
+Dialogue: 0,0:03:10.13,0:03:13.55,Default,,0,0,0,,but there's someone else inside you!
 Dialogue: 0,0:03:14.88,0:03:15.93,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:03:26.60,0:03:28.35,Default,,0,0,0,,No... never mind.
 Dialogue: 0,0:03:29.48,0:03:31.86,Default,,0,0,0,,I'm not making any sense.
@@ -84,9 +84,9 @@ Dialogue: 0,0:05:45.58,0:05:47.54,Default,,0,0,0,,Y-Yeah... I did...
 Dialogue: 0,0:05:48.01,0:05:49.27,Default,,0,0,0,,Then don't ask.
 Dialogue: 0,0:05:49.88,0:05:51.83,Default,,0,0,0,,But you just said you'd tell me everything!
 Dialogue: 0,0:05:52.20,0:05:55.67,Default,,0,0,0,,Someday! Someday far in the future! You idiot!
-Dialogue: 0,0:06:03.92,0:06:04.91,Background,,0,0,0,,I'm home!
-Dialogue: 0,0:06:05.41,0:06:06.15,Background,,0,0,0,,Welcome back.
-Dialogue: 0,0:06:08.02,0:06:09.78,Background,,0,0,0,,I'm exhausted.
+Dialogue: 0,0:06:03.88,0:06:04.91,Background,,0,0,0,,I'm home!
+Dialogue: 0,0:06:05.34,0:06:06.30,Background,,0,0,0,,Welcome back.
+Dialogue: 0,0:06:07.97,0:06:09.89,Background,,0,0,0,,I'm exhausted.
 Dialogue: 0,0:06:10.59,0:06:14.44,Background,,0,0,0,,The game ended quickly, but we\Ndiscussed it for a long time.
 Dialogue: 0,0:06:14.94,0:06:15.65,Default,,0,0,0,,And...
 Dialogue: 0,0:06:16.06,0:06:17.69,Background,,0,0,0,,No need to tell me who won.
