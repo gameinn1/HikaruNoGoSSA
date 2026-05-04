@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 33 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 33 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 422
-Active Line: 449
-Video Position: 31644
+Video Zoom Percent: 0.500000
+Scroll Position: 311
+Active Line: 329
+Video Position: 32548
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -368,10 +368,12 @@ Dialogue: 1,0:22:10.76,0:22:10.77,Note,,0,0,0,,{\fs64\bord1\c&H000000&\3c&HFFFFF
 Dialogue: 1,0:22:10.77,0:22:12.32,Note,,0,0,0,,{\fs64\bord1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(470,349)}Igo!
 Dialogue: 0,0:22:10.76,0:22:12.32,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(234,173)}Umezawa Yukari's
 Dialogue: 0,0:22:13.37,0:22:16.19,Default,,0,0,0,,Today we're at Teacher Yukari's teacher's house!
-Dialogue: 0,0:22:14.03,0:22:16.08,Note,,0,0,0,,{\fs30\fad(209,0)\fsp40\t(0,83,1,\fsp1)\1c&HFA24F1&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(315,349)}Mai
-Dialogue: 0,0:22:16.08,0:22:16.33,Note,,0,0,0,,{\fs30\fad(0,292)\fsp1\t(0,90,1,\fsp190)\1c&HFA24F1&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(315,349)}Mai
-Dialogue: 0,0:22:16.68,0:22:18.35,Note,,0,0,0,,{\fs28\fad(209,0)\fsp70\t(0,125,1,\fsp1)\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(325,351)}Yuuki
-Dialogue: 0,0:22:18.35,0:22:18.58,Note,,0,0,0,,{\fs28\fad(0,292)\fsp1\t(0,125,1,\fsp190)\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(325,351)}Yuuki
+Dialogue: 0,0:22:14.03,0:22:16.08,Note,,0,0,0,,{\fsp50\t(0,83,1,\fsp0)\fs30\fad(209,0)\1c&HFA24F1&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(315,349)}Mai
+Dialogue: 0,0:22:16.08,0:22:16.33,Note,,0,0,0,,{\fsp0\t(0,90,1,\fsp187.5)\fs30\fad(0,292)\1c&HFA24F1&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(315,349)}Mai
+Comment: 0,0:22:16.68,0:22:18.35,Note,,0,0,0,,Old values, had fsp1 set: {\fs28\fad(0,292)\fsp1\t(0,125,1,\fsp190)\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(325,351)}Yuuki
+Comment: 0,0:22:18.35,0:22:18.58,Note,,0,0,0,,Old values, had fsp1 set: {\fs28\fad(0,292)\fsp1\t(0,125,1,\fsp190)\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(325,351)}Yuuki
+Dialogue: 0,0:22:16.68,0:22:18.35,Note,,0,0,0,,{\fsp69\t(0,125,1,\fsp0)\fs30\fad(209,0)\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(325,351)}Yuuki
+Dialogue: 0,0:22:18.35,0:22:18.58,Note,,0,0,0,,{\fsp0\t(0,125,1,\fsp187.5)\fs30\fad(0,292)\1c&HFD0002&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(325,351)}Yuuki
 Dialogue: 0,0:22:16.84,0:22:18.42,Default,,0,0,0,,There's a study session today.
 Dialogue: 0,0:22:18.96,0:22:19.60,Default,,0,0,0,,Wanna go?
 Dialogue: 0,0:22:19.68,0:22:20.17,Default,,0,0,0,,Yeah!
