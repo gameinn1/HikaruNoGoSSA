@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 243
-Active Line: 262
-Video Position: 34817
+Scroll Position: 246
+Active Line: 252
+Video Position: 33348
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -299,6 +299,7 @@ Dialogue: 0,0:22:25.85,0:22:28.44,NoteArial_Igo,,0,0,0,,{\fs30\1c&HFFFFFF&\fad(8
 Dialogue: 0,0:22:30.04,0:22:32.46,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(83,501)\3c&H07960B&\4c&H07960B&\fscx100\fscy90\bord1.25\shad0.5\pos(324,368)}Her opponent is Women's Kisei Chinen Kaori{\i1}!!{\i0}
 Dialogue: 0,0:22:32.74,0:22:38.05,NoteArial_Igo,,0,0,0,,{\fs16\1c&HFFFFFF&\fad(501,501)\3c&HFF1227&\4c&HFF1227&\fscx98\fscy98\bord1.25\shad0.5\pos(477,41)}Help from :  Asahi Newspaper Co.
 Dialogue: 0,0:22:32.74,0:22:38.05,NoteArial_Igo,,0,0,0,,{\fs23\1c&HFFFFFF&\fad(501,501)\3c&H099F0B&\4c&H099F0B&\fscx99\fscy90\bord1.25\shad0.5\pos(183,362)}Meijin Match
+Comment: 0,0:22:32.74,0:22:38.05,NoteArial_Igo,,0,0,0,,{\fs17.5\1c&HFFFFFF&\fad(501,501)\3c&H230AE8&\4c&H230AE8&\fscx100\fscy100\bord1\shad0.5\pos(378,380)}First and Second preliminaries
 Dialogue: 0,0:22:32.74,0:22:38.05,NoteArial_Igo,,0,0,0,,{\fs17.5\1c&HFFFFFF&\fad(501,501)\3c&H230AE8&\4c&H230AE8&\fscx100\fscy100\bord1.25\shad0.5\pos(379,380)}First and Second preliminaries
 Dialogue: 0,0:22:45.92,0:22:46.72,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H049806&\4c&H049806&\fscx100\fscy90\bord1.25\shad0.5\pos(310,369)}Kurotaki Masaki 5-dan
 Dialogue: 0,0:22:46.72,0:22:47.53,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(0,0)\3c&H049806&\4c&H049806&\fscx100\fscy90\bord1.25\shad0.5\pos(310,369)}Matsumoto Takehisa 5-dan

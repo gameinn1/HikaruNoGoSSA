@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
 Scroll Position: 308
-Active Line: 321
-Video Position: 34680
+Active Line: 324
+Video Position: 34841
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -366,6 +366,9 @@ Dialogue: 0,0:22:51.20,0:22:54.54,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad
 Dialogue: 0,0:22:54.54,0:22:54.62,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,83)\3c&H058C08&\4c&H058C08&\bord1.25\shad0.5\move(320,368,320,590)}so learn to tell when you can take advantage of them {\i1}! !{\i0}
 Dialogue: 0,0:22:51.93,0:22:54.51,Default,,0,0,0,,There can be problems even if it looks like territory,
 Dialogue: 1,0:22:54.51,0:22:56.13,Default,,0,0,0,,so learn to tell them apart.
+Comment: 0,0:22:54.94,0:22:55.17,Note,,0,0,0,,Old values
+Comment: 0,0:22:54.94,0:22:55.17,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(209,0)\3c&H1200EF&\4c&H1200EF&\bord1.5\shad1\i1\move(357,-50,357,424)}To be continued...{\i0}
+Comment: 0,0:22:55.17,0:22:57.33,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(0,0)\3c&H1200EF&\4c&H1200EF&\bord1.5\shad1\i1\pos(357,424)}To be continued...{\i0}
 Dialogue: 0,0:22:54.94,0:22:55.17,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(209,0)\3c&H1200EF&\4c&H1200EF&\bord1.25\shad0.5\i1\move(359,-50,359,425)}To be continued...{\i0}
 Dialogue: 0,0:22:55.17,0:22:57.33,Note,,0,0,0,,{\fs50\1c&HFFFFFF&\fad(0,0)\3c&H1200EF&\4c&H1200EF&\bord1.25\shad0.5\i1\pos(359,425)}To be continued...{\i0}
 Dialogue: 0,0:22:56.38,0:22:57.18,Default,,0,0,0,,Okay!

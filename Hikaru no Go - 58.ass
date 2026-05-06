@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
 Scroll Position: 385
-Active Line: 402
-Video Position: 34710
+Active Line: 404
+Video Position: 34798
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -446,8 +446,8 @@ Dialogue: 0,0:22:44.05,0:22:49.77,NoteArial_Igo,,0,0,0,,{\fs26\1c&HFFFFFF&\fad(4
 Dialogue: 0,0:22:44.05,0:22:49.77,NoteArial_Igo,,0,0,0,,{\fs22\1c&HFFFFFF&\fad(417,501)\3c&H018A0A&\4c&H018A0A&\fscx98\fscy100\bord2\shad1\pos(319,356)}Neither side can count the Seki as their own territory
 Dialogue: 0,0:22:46.98,0:22:49.35,Default,,0,0,0,,It's not counted for either side as a territory.
 Dialogue: 0,0:22:50.02,0:22:57.16,Default,,0,0,0,,Seki seems difficult, but it's a way to avoid\Ngetting captured when you're about to die.
-Comment: 0,0:22:55.04,0:22:55.11,NoteArial_Igo,,0,0,0,,bord3 seems close enough.
-Dialogue: 0,0:22:55.04,0:22:55.11,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(167,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord3\shad0.5\move(305,265,305,304)}To be continued...
+Comment: 0,0:22:55.04,0:22:55.11,NoteArial_Igo,,0,0,0,,bord3 seems close enough. Keep shad1?
+Dialogue: 0,0:22:55.04,0:22:55.11,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(167,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord3\shad1\move(305,265,305,304)}To be continued...
 Dialogue: 0,0:22:55.11,0:22:57.33,NoteArial_Igo,,0,0,0,,{\fs29\1c&HFFFFFF&\fad(0,0)\3c&H1300EF&\4c&HFFFFFF&\fscx99\fscy100\bord3\shad1\pos(305,304)}To be continued...
 Dialogue: 0,0:22:59.02,0:23:00.44,Default,,0,0,0,,Touya Meijin's retiring!?
 Dialogue: 0,0:23:01.19,0:23:03.25,Background,,0,0,0,,What are you talking about? I can't believe it.

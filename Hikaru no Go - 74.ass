@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 184
-Active Line: 201
-Video Position: 32124
+Active Line: 190
+Video Position: 32305
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -237,7 +237,7 @@ Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad3\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,584)\3c&HC51527&\4c&HC51527&\fscx99\fscy100\bord2\shad1\pos(100,307)}Yuuki
 Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,584)\3c&H2647D8&\4c&H2647D8&\fscx99\fscy100\bord2\shad1\pos(316,212)}Teacher Yukari
-Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,584)\3c&H5D01AB&\4c&H5D01AB&\fscx99\fscy100\bord1.5\shad0.5\pos(511,281)}Mai
+Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0,584)\3c&H5D01AB&\4c&H5D01AB&\fscx99\fscy100\bord2\shad1\pos(511,281)}Mai
 Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs35\1c&HFFFFFF&\fad(0,584)\3c&H2EBE0B&\4c&H2EBE0B&\fscx100\fscy70\bord2\shad1\pos(316,354)}"{\3c&H6900CF&\4c&H6900CF&}Mai {\3c&H2EBE0B&\4c&H2EBE0B&\}vs {\3c&HCA111E&\4c&HCA111E&}Yuuki{\3c&H2EBE0B&\4c&H2EBE0B&}"        Second Half
 Dialogue: 0,0:22:14.48,0:22:28.14,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(709,83)\3c&HBD192A&\4c&HBD192A&\fscx100\fscy100\bord2\shad1\pos(89,374)}Yuuki
 Dialogue: 0,0:22:14.48,0:22:28.14,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(709,83)\3c&H6800C7&\4c&H6800C7&\fscx99\fscy100\bord2\shad1\pos(547,374)}Mai
