@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 265
-Active Line: 282
-Video Position: 32267
+Scroll Position: 268
+Active Line: 291
+Video Position: 33317
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -331,13 +331,13 @@ Dialogue: 0,0:22:13.93,0:22:15.69,NoteArial_Igo,,0,0,0,,{\fad(167,0)\fs20\1c&HFF
 Dialogue: 0,0:22:13.93,0:22:15.69,NoteArial_Igo,,0,0,0,,{\fad(167,0)\fs20\1c&HFFFFFF&\3c&HF133F9&\4c&HF133F9&\bord1.25\shad0\pos(518,294)}Mai
 Dialogue: 0,0:22:13.93,0:22:17.86,NoteArial_Igo,,0,0,0,,{\fad(167,0)\fs25\1c&HFFFFFF&\3c&H117B21&\4c&H117B21&\bord1.25\shad0\pos(320,359)}A slightly challenging two eyes problem
 Dialogue: 0,0:22:16.08,0:22:17.95,Background,,0,0,0,,It's a "white first, black dies" problem.
-Dialogue: 0,0:22:18.08,0:22:19.58,Default,,0,0,0,,Give it a try, Mai-chan.
+Dialogue: 0,0:22:18.08,0:22:19.58,Default,,0,0,0,,Mai-chan, give it a try.
 Dialogue: 0,0:22:19.58,0:22:20.25,Default,,0,0,0,,All right.
 Dialogue: 0,0:22:22.15,0:22:22.82,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:22.93,0:22:25.40,Background,,0,0,0,,But what if I go here?
 Dialogue: 0,0:22:25.69,0:22:27.09,Background,,0,0,0,,You've created two eyes.
 Dialogue: 0,0:22:27.20,0:22:29.07,Background,,0,0,0,,That's right, and black lives.
-Dialogue: 0,0:22:29.62,0:22:31.03,Default,,0,0,0,,What would you do, Yuuki-kun?
+Dialogue: 0,0:22:29.62,0:22:31.09,Default,,0,0,0,,Yuuki-kun, what would you do?
 Dialogue: 0,0:22:33.43,0:22:34.10,Background,,0,0,0,,Here.
 Dialogue: 0,0:22:34.10,0:22:37.97,Background,,0,0,0,,Black has atari here, so I'll take these two.
 Dialogue: 0,0:22:38.97,0:22:39.63,Background,,0,0,0,,Here.
