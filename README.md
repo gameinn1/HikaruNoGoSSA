@@ -67,7 +67,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 
 7: Helped lots with the "Yukari Umezawa's Go Go Igo" titles from episode 36 onwards.
 
-8: Help with some really complex signs such as "AISHINDOU HOSPITAL" and masking for "GRAVE OF THE HONINBOU" sign in episode 61.
+8: Help with some really complex signs such as "AISHINDOU HOSPITAL" and masking for the [GRAVE OF THE HONINBOU](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Honinbou%20Sign.png) sign in episode 61.
 
 ### Status Legend
 - ✅ Complete
