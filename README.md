@@ -134,7 +134,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 | 59 | ✅ | ✅ | ✅ |
 | 60 | ✅ | ✅ | ✅ |
 | 61 | ✅ | ✅ | ✅ |
-| 62 | ✅ | ✅ | ❗ |
+| 62 | ✅ | ✅ | ✅ |
 | 63 | ✅ | ✅ | ✅ |
 | 64 | ✅ | ✅ | ✅ |
 | 65 | ✅ | ✅ | ✅ |
