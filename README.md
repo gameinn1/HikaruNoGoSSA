@@ -45,9 +45,9 @@ This is an update to the project started by gabest11. See the table below for ov
 
 ## Intro/Progress
 
-### Currently about ~99.8% complete
+### Currently about ~99.9% complete
 
-I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were some problems. Most of the time they did not assign styles/missed notes so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see Everything yet to do pdf page 2/3 for old examples). The ending Igo and next episode previews were also different compared to E-F/R-F.
+I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were some problems. Most of the time they did not assign styles/missed notes/lots of signs so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see Everything yet to do pdf page 2/3 for old examples). The ending Igo and next episode previews were also different compared to E-F/R-F.
 
 I wanted to get the actual subs done and I am happy to say that on January 2nd 2026, the main subs for 62 to 75 were complete! After that I decided to go back to the start to style/do signs and check timing for what gabest11 had done. On March 12th 2026, the main anime and all ending igo plus next episode previews are now E-F/R-F versions.
 
@@ -66,6 +66,8 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 6: Perfectly recreated the FANTASY (Opening 3 plus karaoke) for episodes 61-75.
 
 7: Helped lots with the "Yukari Umezawa's Go Go Igo" titles from episode 36 onwards.
+
+8: Help with some really complex signs such as "AISHINDOU HOSPITAL" and masking for "GRAVE OF THE HONINBOU" sign in episode 61.
 
 ### Status Legend
 - ✅ Complete
