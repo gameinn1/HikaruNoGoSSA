@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 40 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 177
-Active Line: 184
-Video Position: 32044
+Scroll Position: 224
+Active Line: 234
+Video Position: 34670
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -246,25 +246,50 @@ Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fsc
 Dialogue: 0,0:22:10.54,0:22:12.32,umezawa61,,0,0,0,IGO,{\blur1.5\an5\fscx300\fscy300\fs200\shad1.5\4c&HF5AC43&\4a&H50&\t(0,225,\fscx100\fscy100)\move(137,451,41,370,0,220)}o
 Dialogue: 0,0:22:12.77,0:22:16.89,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,459)\3c&HF20000&\4c&HF20000&\bord2\shad1\pos(130,315)}Yuuki
 Dialogue: 0,0:22:12.77,0:22:16.89,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,459)\3c&HFA24F0&\4c&HFA24F0&\bord2\shad1\pos(485,315)}Mai
-Dialogue: 0,0:22:12.86,0:22:16.89,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,459)\3c&H167EF6&\4c&H167EF6&\bord2\shad1\pos(330,238)}Teacher Yukari
+Dialogue: 0,0:22:12.86,0:22:16.89,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,459)\3c&H167EF6&\4c&H167EF6&\bord2\shad1\pos(325,238)}Teacher Yukari
 Dialogue: 0,0:22:13.23,0:22:15.32,Default,,0,0,0,,Are you two familiar with doubles play in tennis?
 Dialogue: 0,0:22:15.32,0:22:16.76,Default,,0,0,0,,- Yes\N- I know
 Dialogue: 0,0:22:16.92,0:22:19.65,Default,,0,0,0,,It's a two against two match.
+Dialogue: 0,0:22:17.09,0:22:17.31,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H167EF6&\4c&H167EF6&\bord2\shad1\move(850,360,320,360)}Today we will talk about pair matches
+Dialogue: 0,0:22:17.31,0:22:22.15,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H167EF6&\4c&H167EF6&\bord2\shad1\pos(320,360)}Today we will talk about pair matches
+Dialogue: 0,0:22:22.15,0:22:22.38,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H167EF6&\4c&H167EF6&\bord2\shad1\move(320,360,-240,360)}Today we will talk about pair matches
+Comment: 0,0:22:22.92,0:22:27.96,Default,,0,0,0,,Was also going to do: The pair match is a game of Go played between two players
+Dialogue: 0,0:22:22.70,0:22:22.92,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H028809&\4c&H028809&\bord2\shad1\move(850,360,320,360)}A pair match is a game of Go played with two players on each side
+Dialogue: 0,0:22:22.92,0:22:27.96,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H028809&\4c&H028809&\bord2\shad1\pos(320,360)}A pair match is a game of Go played with two players on each side
+Dialogue: 0,0:22:27.96,0:22:28.19,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H028809&\4c&H028809&\bord2\shad1\move(320,360,-240,360)}A pair match is a game of Go played with two players on each side
 Dialogue: 0,0:22:19.65,0:22:23.59,Default,,0,0,0,,Yes. We have it in Go where teams of two play against each other.
 Dialogue: 0,0:22:23.84,0:22:27.48,Default,,0,0,0,,Pair matches have special rules, so let's learn them.
 Dialogue: 0,0:22:27.65,0:22:28.25,Default,,0,0,0,,Okay.
+Dialogue: 0,0:22:28.47,0:22:31.91,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&HF62535&\4c&HF62535&\bord2\shad1\pos(320,365)}Teammates take turns after each move.
 Dialogue: 0,0:22:29.00,0:22:32.02,Default,,0,0,0,,In a Go pair, the players must play each move alternately.
+Dialogue: 0,0:22:31.91,0:22:34.85,Default,,0,0,0,,{\1c&HFFFFFF&\fad(0,0)\3c&H2209EF&\4c&H2209EF&\bord2\shad1\pos(320,365)}The same person cannot play consecutively.
 Dialogue: 0,0:22:32.23,0:22:34.74,Default,,0,0,0,,A player cannot play a move consecutively.
 Dialogue: 0,0:22:34.85,0:22:37.92,Default,,0,0,0,,{\1c&HFFFFFF&\3c&H2209EF&\4c&H2209EF&\bord2\shad1\pos(320,365)}You may not converse with your partner.
 Dialogue: 0,0:22:35.69,0:22:37.99,Default,,0,0,0,,Also, talking with your partner is not allowed.
+Dialogue: 0,0:22:37.92,0:22:41.52,Default,,0,0,0,,{\1c&HFFFFFF&\3c&H2209EF&\4c&H2209EF&\bord2\shad1\pos(320,365)}You shouldn't consult with each other or teach each other.
 Dialogue: 0,0:22:38.29,0:22:41.68,Default,,0,0,0,,And you must not discuss the game or help your partner.
+Dialogue: 0,0:22:41.52,0:22:47.49,Default,,0,0,0,,{\1c&HFFFFFF&\3c&H2209EF&\4c&H2209EF&\bord2\shad1\pos(320,365)}Pointing and making signs are also prohibited.
 Dialogue: 0,0:22:42.80,0:22:44.74,Default,,0,0,0,,Of course, even if there's no talking,
 Dialogue: 0,0:22:44.74,0:22:46.64,Default,,0,0,0,,you cannot point or make signs to your partner.
-Dialogue: 0,0:22:48.16,0:22:51.47,Default,,0,0,0,,The strongest player does not necessarily win in pairs Go,
+Dialogue: 0,0:22:47.81,0:22:53.46,Default,,0,0,0,,{\1c&HFFFFFF&\fad(459,459)\3c&H028809&\4c&H028809&\bord2\shad1\pos(320,310)}It's a different way to play and lots of fun.
+Comment: 0,0:22:48.16,0:22:51.47,Default,,0,0,0,,The strongest player does not necessarily win in pairs Go,
 Dialogue: 0,0:22:51.56,0:22:53.51,Default,,0,0,0,,and there's a different kind of enjoyment.
 Dialogue: 0,0:22:53.74,0:22:55.55,Default,,0,0,0,,So both of you, please try it one day.
 Dialogue: 0,0:22:55.63,0:22:56.23,Default,,0,0,0,,All right!
-Dialogue: 0,0:22:54.80,0:22:57.37,Note,,0,0,0,,To be continued
+Comment: 0,0:22:54.80,0:22:54.83,Note,,0,0,0,,This is a copy/paste from episode 39 just with different colours. Put back 12 frames with shift times to match then extended the last line till 34823.
+Dialogue: 0,0:22:54.80,0:22:54.83,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,124)}To be continued . . .
+Dialogue: 0,0:22:54.83,0:22:54.87,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,295)}To be continued . . .
+Dialogue: 0,0:22:54.87,0:22:54.92,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,269)}To be continued . . .
+Dialogue: 0,0:22:54.92,0:22:54.93,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,286)}To be continued . . .
+Dialogue: 0,0:22:54.93,0:22:54.97,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,292)}To be continued . . .
+Dialogue: 0,0:22:54.97,0:22:54.98,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,288)}To be continued . . .
+Dialogue: 0,0:22:54.98,0:22:55.00,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,282)}To be continued . . .
+Dialogue: 0,0:22:55.00,0:22:55.02,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,275)}To be continued . . .
+Dialogue: 0,0:22:55.02,0:22:55.03,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,271)}To be continued . . .
+Dialogue: 0,0:22:55.03,0:22:55.05,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,276)}To be continued . . .
+Dialogue: 0,0:22:55.05,0:22:55.07,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,281)}To be continued . . .
+Dialogue: 0,0:22:55.07,0:22:55.08,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,291)}To be continued . . .
+Dialogue: 0,0:22:55.08,0:22:57.37,Note,,0,0,0,,{\fs31\1c&HFFFFFF&\3c&H1300EF&\fad(0,0)\fscx101\bord2\shad0\pos(340,304)}To be continued . . .
 Dialogue: 0,0:22:58.36,0:23:01.09,Default,,0,0,0,,Ochi, I know that you're strong,
 Dialogue: 0,0:23:01.65,0:23:03.90,Default,,0,0,0,,but I've never for a moment thought\Nthat I couldn't beat you.
 Dialogue: 0,0:23:04.40,0:23:06.36,Default,,0,0,0,,I'll be playing you in the last match Ochi.
