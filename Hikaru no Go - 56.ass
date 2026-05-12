@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 276
-Active Line: 287
-Video Position: 28627
+Scroll Position: 26
+Active Line: 41
+Video Position: 8035
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,7 +85,7 @@ Dialogue: 0,0:05:20.93,0:05:25.10,Thinking,,0,0,0,,Then... this match was schedu
 Dialogue: 0,0:05:25.74,0:05:27.59,Thinking,,0,0,0,,When did he schedule it?
 Dialogue: 0,0:05:28.23,0:05:29.14,Thinking,,0,0,0,,And with who!?
 Dialogue: 0,0:05:33.40,0:05:34.23,Default,,0,0,0,,This is it!
-Dialogue: 0,0:05:35.11,0:05:37.44,NoteArial,,0,0,0,,{\1c&HEEDEB6&\an7\bord0\bllur0\shad0\pos(0,0)}{\p1}m 565 0 l 561 116 228 112 228 0{\p0}
+Dialogue: 0,0:05:35.11,0:05:37.44,NoteArial,,0,0,0,,{\1c&HEEDEB6&\an7\bord0\blur0\shad0\pos(0,0)}{\p1}m 565 0 l 561 116 228 112 228 0{\p0}
 Dialogue: 0,0:05:35.11,0:05:37.44,NoteArial,,0,0,0,,{\fs125\1c&H6C522B&\3c&HEEDEB6&\bord0\blur2\shad0\fscy150\pos(415,-42)}WHITE
 Dialogue: 0,0:05:39.11,0:05:39.99,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:06:05.77,0:06:07.85,Default,,0,0,0,,Master Touya is thinking.
