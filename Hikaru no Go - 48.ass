@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 48 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 3
-Active Line: 23
-Video Position: 3601
+Scroll Position: 66
+Active Line: 81
+Video Position: 7767
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -125,7 +125,7 @@ Dialogue: 0,0:05:14.50,0:05:14.63,NoteArial,,0,0,0,,{\fs15\bord1\shad0.5\1c&H000
 Dialogue: 0,0:05:14.63,0:05:15.92,NoteArial,,0,0,0,,{\fs15\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(82,242)}New First Dan Series
 Dialogue: 0,0:05:09.91,0:05:13.38,NoteArial,1,0,0,0,,{\fs15\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(154,273)}5th Floor
 Dialogue: 0,0:05:14.63,0:05:15.92,NoteArial,0,0,0,0,,{\fs15\bord1\shad0.5\1c&H000000&\3c&HFFFFFF&\pos(154,273)}5th Floor
-Comment: 0,0:05:23.93,0:05:25.93,NoteArial,,0,0,0,,Pretty sure this is bord0.75. 0.5 is too little and 1 too much.
+Comment: 0,0:05:23.93,0:05:25.93,NoteArial,,0,0,0,,Pretty sure this is very close to bord0.75. 0.5 is too little and 1 too much. Not entirely sure if this has a shadow though but seems to visually match well so kept it.
 Dialogue: 0,0:05:23.93,0:05:25.93,NoteArial,,0,0,0,,{\an4\fs21\bord0.75\shad0.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(252,123)}Being Repaired
 Dialogue: 0,0:05:25.93,0:05:26.06,NoteArial,,0,0,0,,{\an4\fs21\bord0.75\shad0.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(252,123)}Being R
 Dialogue: 0,0:05:26.56,0:05:26.68,NoteArial,,0,0,0,,{\an4\fs21\bord0.75\shad0.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(252,123)}{\alpha&HFF&}Being {\alpha&H00&\4a&H80&}Repaired
