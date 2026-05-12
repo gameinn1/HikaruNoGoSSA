@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 25 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 369
-Active Line: 373
-Video Position: 34824
+Video Zoom Percent: 0.875000
+Scroll Position: 351
+Active Line: 359
+Video Position: 33668
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -399,7 +399,8 @@ Dialogue: 0,0:22:26.47,0:22:28.81,Note,,0,0,0,,{\1c&HFE8107&\pos(340,285)}Good p
 Dialogue: 0,0:22:26.47,0:22:28.81,Note,,0,0,0,,{\1c&HFE8107&\pos(279,427)}Lin Kaihou
 Dialogue: 0,0:22:26.47,0:22:28.81,Note,,0,0,0,,{\1c&HFE8107&\pos(421,430)}9dan
 Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(322,15)}35th Kidou Awards
-Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(193,285)}New player award
+Comment: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,See below comments as to why commented this. {\1c&HFE8107&\pos(193,285)}New player award
+Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(175,285)}New player award
 Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(180,424)}Mizogame Tomochika  7dan
 Comment: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,If doing placement of the sign via E-F this is pretty close but since it moved so much, changed it. {\1c&HFE8107&\pos(514,285)}Best female player award
 Dialogue: 0,0:22:29.36,0:22:31.81,Note,,0,0,0,,{\1c&HFE8107&\pos(462,285)}Best female player award
