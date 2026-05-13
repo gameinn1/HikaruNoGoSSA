@@ -430,7 +430,8 @@ Dialogue: 0,0:22:43.84,0:22:46.71,Note,,0,0,0,,{\1c&HFE8107&\pos(320,335)}And th
 Dialogue: 0,0:22:48.21,0:22:51.05,Note,,0,0,0,,{\1c&HFE8107&\pos(320,335)}Within them, Iyama Yuuta New First dan is 12!!
 Comment: 0,0:22:52.31,0:22:56.28,Default,,0,0,0,,Extended this since official subs ended too early. Timing seems okay.
 Dialogue: 0,0:22:52.31,0:22:56.28,Default,,0,0,0,,There are areas open to the public in the\NJapan Go Association, so feel free to visit.
-Dialogue: 0,0:22:51.83,0:22:54.96,Note,,0,0,0,,{\1c&H067807&\pos(320,308)}Congratulations to all the award-winning go players!!
+Comment: 0,0:22:51.83,0:22:54.96,Note,,0,0,0,,Maybe add go here? {\1c&H067807&\pos(320,308)}Congratulations to all the award-winning go players!!
+Dialogue: 0,0:22:51.83,0:22:54.96,Note,,0,0,0,,{\1c&H067807&\pos(320,308)}Congratulations to all the award-winning players!!
 Dialogue: 0,0:22:55.50,0:22:57.37,Note,,0,0,0,,{\1c&H1400F0&\pos(320,312)}To be continued...
 Dialogue: 0,0:22:59.27,0:23:02.59,Default,,0,0,0,,Your opponents from today, are us, the first class.
 Dialogue: 0,0:23:03.53,0:23:05.63,Background,,0,0,0,,I'm climbing much higher!
