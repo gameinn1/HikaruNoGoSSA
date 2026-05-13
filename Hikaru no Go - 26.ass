@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 350
-Active Line: 358
-Video Position: 34650
+Video Zoom Percent: 1.375000
+Scroll Position: 335
+Active Line: 340
+Video Position: 32559
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -380,7 +380,8 @@ Dialogue: 0,0:22:13.01,0:22:15.88,Default,,0,0,0,,This is Iyama Yuuta-kun who\Nj
 Dialogue: 0,0:22:14.99,0:22:18.26,Note,,0,0,0,,{\1c&HFC5C68&\pos(320,278)}Debuted as a professional Go player this year
 Dialogue: 0,0:22:14.99,0:22:18.26,Note,,0,0,0,,{\1c&HFC5C68&\pos(320,356)}Iyama Yuuta Newly promoted first dan
 Dialogue: 0,0:22:16.30,0:22:18.20,Default,,0,0,0,,He's still just a 7th grader.
-Dialogue: 0,0:22:18.66,0:22:21.87,Note,,0,0,0,,{\fs19\pos(174,22)}Japanese Go Institute The Room of Yuugen
+Comment: 0,0:22:18.66,0:22:21.87,Note,,0,0,0,,Standard font size was too big. Think fs17 is fine (had 19 before with y of 22).
+Dialogue: 0,0:22:18.66,0:22:21.87,Note,,0,0,0,,{\fs17\pos(167,25)}Japanese Go Institute The Room of Yuugen
 Comment: 0,0:22:18.66,0:22:21.87,Note,,0,0,0,,Colours taken from episode 25.
 Dialogue: 0,0:22:18.66,0:22:21.87,Note,,0,0,0,,{\1c&HFE8107&\pos(131,249)}Yuuki
 Dialogue: 0,0:22:18.66,0:22:21.87,Note,,0,0,0,,{\1c&HFC27F0&\pos(299,198)}Mai
