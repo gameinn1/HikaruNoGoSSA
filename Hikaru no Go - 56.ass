@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 163
-Active Line: 168
-Video Position: 20000
+Scroll Position: 229
+Active Line: 242
+Video Position: 24516
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -284,9 +284,9 @@ Dialogue: 0,0:17:01.08,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs17.5\blur1\b
 Comment: 0,0:17:02.42,0:17:02.46,NoteArial,,0,0,0,,Had 255 for the box before but you could still slightly see some text so put 256.
 Dialogue: 0,0:17:02.42,0:17:02.46,NoteArial,,0,0,0,,{\1c&HFFFFE4&\an7\bord0\blur1\shad0\pos(0,0)}{\p1}m 295 236 l 336 236 336 256 296 256{\p0}
 Dialogue: 0,0:17:02.42,0:17:02.46,NoteArial,,0,0,0,,{\1c&H2E260E&\fs20.5\blur1\bord0\shad0\fscx100\fscy110\pos(321,235)}RESIGNS
-Dialogue: 0,0:17:02.46,0:17:02.50,NoteArial,,0,0,0,,{\1c&HFFFFE4&\an7\bord0\blur0\shad0\pos(0,0)}{\p1}m 287 235 l 342 235 341 260 287 260{\p0}
+Dialogue: 0,0:17:02.46,0:17:02.50,NoteArial,,0,0,0,,{\1c&HFFFFE4&\an7\bord0\blur1\shad0\pos(0,0)}{\p1}m 287 235 l 342 235 341 260 287 260{\p0}
 Dialogue: 0,0:17:02.46,0:17:02.50,NoteArial,,0,0,0,,{\1c&H2E260E&\fs23\blur1\bord0\shad0\fscx100\fscy110\pos(320,235)}RESIGNS
-Dialogue: 0,0:17:02.50,0:17:04.59,NoteArial,,0,0,0,,{\1c&HFFFFE4&\an7\bord0\blur0\shad0\pos(0,0)}{\p1}m 278 233 l 346 233 346 267 279 266{\p0}
+Dialogue: 0,0:17:02.50,0:17:04.59,NoteArial,,0,0,0,,{\1c&HFFFFE4&\an7\bord0\blur1\shad0\pos(0,0)}{\p1}m 278 233 l 346 233 346 267 279 266{\p0}
 Dialogue: 0,0:17:02.50,0:17:04.59,NoteArial,,0,0,0,,{\1c&H2E260E&\fs30\blur1\bord0\shad0\fscx100\fscy110\pos(322,234)}RESIGNS
 Dialogue: 0,0:17:06.13,0:17:07.01,Default,,0,0,0,,He resigned!?
 Dialogue: 0,0:17:07.59,0:17:09.63,Default,,0,0,0,,Master Touya resigned here!?
