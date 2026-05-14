@@ -16,10 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 233
-Active Line: 255
-Video Position: 34725
+Video Zoom Percent: 0.593750
+Active Line: 3
+Video Position: 2727
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,6 +34,7 @@ Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Note,Century Gothic,23.8,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,15,1
 Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
@@ -48,11 +48,17 @@ Style: 61Credits,Verdana,12,&H00E7E4E5,&H00FFFFFF,&H00000000,&H80000000,-1,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:46.46,0:01:47.42,Background,,0,0,0,,Shindou?
-Dialogue: 0,0:01:51.92,0:01:53.01,Thinking,,0,0,0,,Nase!
-Dialogue: 0,0:01:55.68,0:01:59.89,Default,,0,0,0,,I heard you haven't been going to your\Nmatches? Waya was worried that...
+Comment: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,Just doing this for fun. Direct overlay values. x seemed ok but moved y up by 3.5 pixels for better visual match.
+Comment: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\\fad(292,292)\pos(316,40.5)}When you watch anime, strap one TV to each eye and
+Comment: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\fad(292,292)\pos(328,93.5)}make sure your life insurance is paid up.
+Dialogue: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\\fad(292,292)\pos(316,37)}When you watch anime, strap one TV to each eye and
+Dialogue: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\fad(292,292)\pos(328,90)}make sure your life insurance is paid up.
+Comment: 0,0:01:46.46,0:01:47.42,Background,,0,0,0,,Couldn't get exact R-F matching here. Seems like different frames so just did my own timing for some lines.
+Dialogue: 0,0:01:46.50,0:01:47.42,Background,,0,0,0,,Shindou?
+Dialogue: 0,0:01:51.97,0:01:52.80,Thinking,,0,0,0,,Nase!
+Dialogue: 0,0:01:55.72,0:01:59.93,Default,,0,0,0,,I heard you haven't been going to your\Nmatches? Waya was worried that...
 Dialogue: 0,0:02:01.23,0:02:02.10,Default,,0,0,0,,Shindou!
-Dialogue: 0,0:02:05.69,0:02:06.61,Default,,0,0,0,,Shindou...
+Dialogue: 0,0:02:05.69,0:02:06.56,Default,,0,0,0,,Shindou...
 Dialogue: 0,0:02:09.98,0:02:14.94,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(340,115)}The Sixty-Eighth Match
 Dialogue: 0,0:02:09.98,0:02:14.95,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx330\t(0,330,1,\fscx100)\pos(325,365)}Forfeits
 Dialogue: 0,0:02:23.29,0:02:24.96,Background,,0,0,0,,He's going to quit being a pro!?
