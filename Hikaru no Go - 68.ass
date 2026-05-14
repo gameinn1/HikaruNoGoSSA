@@ -17,8 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.593750
-Active Line: 3
-Video Position: 2727
+Active Line: 10
+Video Position: 2646
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,6 +54,10 @@ Comment: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\fad(292,292)\pos(328,93.5)}make 
 Dialogue: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\\fad(292,292)\pos(316,37)}When you watch anime, strap one TV to each eye and
 Dialogue: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\fad(292,292)\pos(328,90)}make sure your life insurance is paid up.
 Comment: 0,0:01:46.46,0:01:47.42,Background,,0,0,0,,Couldn't get exact R-F matching here. Seems like different frames so just did my own timing for some lines.
+Comment: 0,0:01:46.46,0:01:47.42,Background,,0,0,0,,Shindou?
+Comment: 0,0:01:51.92,0:01:53.01,Thinking,,0,0,0,,Nase!
+Comment: 0,0:01:55.68,0:01:59.89,Default,,0,0,0,,I heard you haven't been going to your\Nmatches? Waya was worried that...
+Comment: 0,0:02:05.69,0:02:06.61,Default,,0,0,0,,Shindou...
 Dialogue: 0,0:01:46.50,0:01:47.42,Background,,0,0,0,,Shindou?
 Dialogue: 0,0:01:51.97,0:01:52.80,Thinking,,0,0,0,,Nase!
 Dialogue: 0,0:01:55.72,0:01:59.93,Default,,0,0,0,,I heard you haven't been going to your\Nmatches? Waya was worried that...

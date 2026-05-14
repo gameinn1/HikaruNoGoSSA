@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac).mkv
+Audio File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac) v2.mkv
+Video File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac) v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 250
-Active Line: 253
-Video Position: 32124
+Video Zoom Percent: 0.625000
+Scroll Position: 66
+Active Line: 73
+Video Position: 9158
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,9 +115,9 @@ Dialogue: 0,0:05:44.16,0:05:45.03,Default,,0,0,0,,Shindou just...!
 Dialogue: 0,0:05:49.12,0:05:50.58,Default,,0,0,0,,Started a fight!
 Dialogue: 0,0:05:51.47,0:05:52.83,Default,,0,0,0,,This early in the game!
 Dialogue: 0,0:05:54.64,0:05:57.57,Thinking,,0,0,0,,What is Shindou thinking?
-Dialogue: 0,0:06:06.43,0:06:08.34,Sai,,0,0,0,,13-17. Hai.
+Dialogue: 0,0:06:06.39,0:06:08.34,Sai,,0,0,0,,13-17. Hai.
 Dialogue: 0,0:06:11.93,0:06:14.34,Sai,,0,0,0,,I won't stand a chance unless I fight early on.
-Dialogue: 0,0:06:18.23,0:06:21.99,Sai,,0,0,0,,I'll bring him into a difficult battle.\NWhoever can read further will win.
+Dialogue: 0,0:06:18.19,0:06:21.99,Sai,,0,0,0,,I'll bring him into a difficult battle.\NWhoever can read further will win.
 Dialogue: 0,0:06:27.33,0:06:32.22,Sai,,0,0,0,,I have to create a weak\Npoint that he'll want to attack.
 Dialogue: 0,0:06:53.52,0:06:56.06,Sai,,0,0,0,,When my opponent comes to end the game...
 Dialogue: 0,0:06:56.49,0:06:59.78,Sai,,0,0,0,,That is when black's path to victory will appear.
