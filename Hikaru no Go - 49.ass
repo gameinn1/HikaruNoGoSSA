@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 49 (BD 1440x1080 x.264 Flac) v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 66
-Active Line: 73
-Video Position: 9158
+Scroll Position: 54
+Active Line: 64
+Video Position: 7874
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -108,8 +108,8 @@ Dialogue: 0,0:05:10.12,0:05:11.00,Background,,0,0,0,,No.
 Dialogue: 0,0:05:11.41,0:05:16.34,Default,,0,0,0,,The Meijin has to be interested\Nin the boy regardless of his son.
 Dialogue: 0,0:05:16.50,0:05:17.88,Default,,0,0,0,,Master Touya is...?
 Dialogue: 0,0:05:18.20,0:05:21.90,Default,,0,0,0,,That man has good intuition, just like me.
-Dialogue: 0,0:05:26.63,0:05:31.19,NoteArial,,0,0,0,,{\fad(334,334)}Boushi is when you limit a stone's ability to expand into the center.
-Dialogue: 0,0:05:26.56,0:05:28.85,Sai,,0,0,0,,13-14. Boushi.
+Dialogue: 0,0:05:26.51,0:05:31.19,NoteArial,,0,0,0,,{\fad(292,292)}Boushi is when you limit a stone's ability to expand into the center.
+Dialogue: 0,0:05:26.51,0:05:28.85,Sai,,0,0,0,,13-14. Boushi.
 Dialogue: 0,0:05:29.43,0:05:30.89,Thinking,,0,0,0,,Uh... Boushi?
 Dialogue: 0,0:05:44.16,0:05:45.03,Default,,0,0,0,,Shindou just...!
 Dialogue: 0,0:05:49.12,0:05:50.58,Default,,0,0,0,,Started a fight!
