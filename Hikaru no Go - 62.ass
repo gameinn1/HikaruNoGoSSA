@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 188
-Active Line: 195
-Video Position: 23156
+Scroll Position: 6
+Active Line: 31
+Video Position: 4284
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -77,7 +77,8 @@ Dialogue: 0,0:02:49.69,0:02:52.53,Background,,0,0,0,,You bastard! You called me 
 Dialogue: 0,0:02:52.94,0:02:54.07,Default,,0,0,0,,Kawai-san!
 Dialogue: 0,0:02:54.24,0:02:57.03,Default,,0,0,0,,Hey, do you know that guy with the sunglasses?
 Dialogue: 0,0:02:57.12,0:02:58.32,Default,,0,0,0,,Y-Yes.
-Dialogue: 0,0:02:58.66,0:03:04.08,NoteArial,,0,0,0,,{\fad(334,334)}The Giants and Curbs are rival baseball teams in Japan.
+Comment: 0,0:02:58.66,0:03:04.08,NoteArial,,0,0,0,,I had some notes before at {\fad(334,334)} but when counting the fade in frames on R-F it seemed like that was 8 frames so 292 matched better. Changed all notes to this value. I was following a chart of fade in values I got for each frame number which made me think 8 was 343 but the 7 value was 292. Thinking now R-F probably did 300 but impossible to actually tell. This value should always be within a frame anyway for all Notes.
+Dialogue: 0,0:02:58.66,0:03:04.08,NoteArial,,0,0,0,,{\fad(292,292)}The Giants and Curbs are rival baseball teams in Japan.
 Dialogue: 0,0:02:58.66,0:03:04.08,Default,,0,0,0,,Tell him later to hide the fact\Nthat he's a Giants fan here.
 Dialogue: 0,0:03:05.16,0:03:09.67,Default,,0,0,0,,After all, this is the land of the Hiroshima Curbs.
 Dialogue: 0,0:03:10.04,0:03:13.42,Default,,0,0,0,,Well Shuuhei was the one that got\Nthem on the topic of baseball.

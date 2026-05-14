@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 252
-Active Line: 266
-Video Position: 34725
+Scroll Position: 150
+Active Line: 166
+Video Position: 25162
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -210,10 +210,11 @@ Dialogue: 0,0:17:06.20,0:17:10.76,Default,,0,0,0,,Miyake? Miyake-san from Maicho
 Dialogue: 0,0:17:11.47,0:17:15.89,Default,,0,0,0,,Master T-Touya Kouyou has signed a contract\Nwith the Bei'jing team of China!
 Dialogue: 0,0:17:16.31,0:17:17.56,Default,,0,0,0,,Bei'jing team?
 Dialogue: 0,0:17:18.58,0:17:22.73,Default,,0,0,0,,The Bei'jing team in China's team league?
+Comment: 0,0:17:23.15,0:17:34.41,NoteArial,,0,0,0,,Pretty sure this starts on the same frame. You can barely see it start the fade in.
+Dialogue: 0,0:17:23.11,0:17:34.32,NoteArial,,0,0,0,,{\fad(292,292)}Translator's Note: J-league is a Japanese soccer thing. I don't\Nplay soccer. I don't play baseball either. I won't comment any\Nmore on J-league in fear of pulling another carps fiasco.
 Dialogue: 0,0:17:23.12,0:17:24.19,Default,,0,0,0,,Team league?
-Dialogue: 0,0:17:23.15,0:17:34.41,NoteArial,,0,0,0,,{\fad(334,334)}Translator's Note: J-league is a Japanese soccer thing. I don't\Nplay soccer. I don't play baseball either. I won't comment any\Nmore on J-league in fear of pulling another carps fiasco.
 Dialogue: 0,0:17:24.77,0:17:28.69,Default,,0,0,0,,China has something similar\Nto Japan's J-league for Go.
-Dialogue: 0,0:17:29.44,0:17:34.41,Default,,0,0,0,,I heard that there were teams who had contracts\Nwith top Korean players, but...
+Dialogue: 0,0:17:29.44,0:17:34.32,Default,,0,0,0,,I heard that there were teams who had contracts\Nwith top Korean players, but...
 Dialogue: 0,0:17:35.37,0:17:36.08,Default,,0,0,0,,I see!
 Dialogue: 0,0:17:37.54,0:17:38.25,Default,,0,0,0,,What is it?
 Dialogue: 0,0:17:38.75,0:17:44.04,Default,,0,0,0,,Now that Master Touya has retired, he's\Nfree from Japan's match schedule!

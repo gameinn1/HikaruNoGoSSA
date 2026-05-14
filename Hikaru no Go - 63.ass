@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 277
-Active Line: 297
-Video Position: 34734
+Video Zoom Percent: 0.625000
+Scroll Position: 131
+Active Line: 138
+Video Position: 17231
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -76,7 +76,7 @@ Dialogue: 0,0:03:42.41,0:03:43.08,Background,,0,0,0,,Yeah.
 Dialogue: 0,0:03:44.33,0:03:46.58,Default,,0,0,0,,They're Kifu. Old Kifu.
 Dialogue: 0,0:03:47.29,0:03:49.45,Default,,0,0,0,,These are old Kifu from back\Nwhen they were first printed.
 Dialogue: 0,0:03:50.33,0:03:53.05,Background,,0,0,0,,The oldest thing we have here\N is the Bouyuuseirakushuu.
-Dialogue: 0,0:03:51.04,0:03:58.05,NoteArial,,0,0,0,,{\fad(334,334)}Bouyuuseirakushuu is a collection of Kifu from the Northern Song\NDynasty of China (960~1170AD). The oldest match in the collection\Nis between two famous characters from a classical Chinese tale.
+Dialogue: 0,0:03:51.04,0:03:58.05,NoteArial,,0,0,0,,{\fad(292,292)}Bouyuuseirakushuu is a collection of Kifu from the Northern Song\NDynasty of China (960~1170AD). The oldest match in the collection\Nis between two famous characters from a classical Chinese tale.
 Dialogue: 0,0:03:53.92,0:03:57.00,Default,,0,0,0,,So this is what you meant by\N"a room where I might find a ghost".
 Dialogue: 0,0:03:58.51,0:04:02.14,Default,,0,0,0,,There weren't any ghosts here. Too bad.
 Dialogue: 0,0:04:07.18,0:04:09.52,Background,,0,0,0,,Oh, yeah. Do you want to look at anything?
@@ -84,7 +84,7 @@ Dialogue: 0,0:04:09.93,0:04:11.15,Default,,0,0,0,,It's okay.
 Dialogue: 0,0:04:11.48,0:04:13.48,Default,,0,0,0,,But you came all this way.
 Dialogue: 0,0:04:14.23,0:04:16.07,Default,,0,0,0,,Then... Shuusaku.
 Dialogue: 0,0:04:16.31,0:04:21.82,Default,,0,0,0,,Shuusaku! Let's see... I think\N Shuusaku was from Kaei...
-Dialogue: 0,0:04:17.03,0:04:25.08,NoteArial,,0,0,0,,{\fad(334,334)}Kaei (1844~1853) is part of Japanese history. It occurs in the latter\Nyears of the Edo period. A notable event of the period is the landing\Nof Commodore Perry in Uraga in the sixth year of Kaei.
+Dialogue: 0,0:04:17.03,0:04:25.08,NoteArial,,0,0,0,,{\fad(292,292)}Kaei (1844~1853) is part of Japanese history. It occurs in the latter\Nyears of the Edo period. A notable event of the period is the landing\Nof Commodore Perry in Uraga in the sixth year of Kaei.
 Dialogue: 0,0:04:22.99,0:04:27.00,Default,,0,0,0,,Oh yeah. I've never seen a Kifu\N played by Shuusaku before.
 Dialogue: 0,0:04:28.66,0:04:30.79,Default,,0,0,0,,You've never seen one before?
 Dialogue: 0,0:04:31.08,0:04:33.66,Default,,0,0,0,,You haven't even seen any of the\Nones that are still in print?
@@ -145,8 +145,8 @@ Dialogue: 0,0:08:05.09,0:08:08.93,Default,,0,0,0,,I don't need to play! I won't 
 Dialogue: 0,0:08:09.55,0:08:10.34,Default,,0,0,0,,So...
 Dialogue: 0,0:08:11.26,0:08:15.02,Default,,0,0,0,,God! Please! Turn back time!
 Dialogue: 0,0:08:15.39,0:08:19.48,Default,,0,0,0,,Turn time back to when I first met him!
-Comment: 0,0:08:52.34,0:08:56.72,NoteArial,,0,0,0,,Seems like R-F put some heavy blur on this. The standard 0.8 definitely seems too little. Scroll looks ok could maybe change by a value or so.
-Dialogue: 0,0:08:52.34,0:08:56.72,NoteArial,,0,0,0,,{\fs93.5\q2\fscy45\blur1.5\bord0.5\shad0.5\1c&H535851&\move(629,111,189,111)}Japanese Go Institute
+Comment: 0,0:08:52.34,0:08:56.72,NoteArial,,0,0,0,,Seems like R-F put some heavy blur on this. The standard 0.8 definitely seems too little and likely blur2 is too much but not sure. Scroll looks ok could maybe change by a value or so. Similar sign to 52 6:14 and 73: 11:47.
+Dialogue: 0,0:08:52.34,0:08:56.72,NoteArial,,0,0,0,,{\fs93.5\q2\fscy45\blur1.5\bord0.5\shad1\1c&H535851&\move(629,111,189,111)}Japanese Go Institute
 Dialogue: 0,0:09:10.86,0:09:11.99,Default,,0,0,0,,What's wrong, Akira?
 Dialogue: 0,0:09:12.53,0:09:14.24,Default,,0,0,0,,The games are going to start soon.
 Dialogue: 0,0:09:15.28,0:09:15.87,Default,,0,0,0,,Yes.
@@ -181,8 +181,8 @@ Dialogue: 0,0:11:29.63,0:11:32.38,Default,,0,0,0,,He didn't come to Master Moris
 Dialogue: 0,0:11:32.88,0:11:34.05,Default,,0,0,0,,What's wrong with him!?
 Dialogue: 0,0:11:43.56,0:11:44.47,Thinking,,0,0,0,,Shindou!
 Comment: 0,0:11:49.73,0:11:57.03,NoteArial,,0,0,0,,I know these notes are really fast but pretty sure it's really close to R-F. Plus or minus a frame.
-Dialogue: 0,0:11:49.73,0:11:57.03,NoteArial,,0,0,0,,{\fad(334,334)\pos(320,25)}The Fujiwara clan is a clan who dominated Japanese politics during much\Nof the Heian period (794~1185). Though Japan was ruled by the Imperial\Nfamily, and not by the Fujiwara clan, they had a great deal of control over\Nthe Emperors of the time by marrying females of the clan off to them.
-Dialogue: 0,0:11:56.70,0:12:03.74,NoteArial,,0,0,0,,{\fad(334,334)\pos(320,25)}The nature of their control over Japan changed at the end of the Heian period,\Nwhen they defeated the Taira clan in the Genpei conflict. For more information\Nabout the Fujiwara clan, take a class on Japanese history or literature.
+Dialogue: 0,0:11:49.73,0:11:57.07,NoteArial,,0,0,0,,{\fad(292,292)\pos(320,25)}The Fujiwara clan is a clan who dominated Japanese politics during much\Nof the Heian period (794~1185). Though Japan was ruled by the Imperial\Nfamily, and not by the Fujiwara clan, they had a great deal of control over\Nthe Emperors of the time by marrying females of the clan off to them.
+Dialogue: 0,0:11:56.78,0:12:03.83,NoteArial,,0,0,0,,{\fad(292,292)\pos(320,25)}The nature of their control over Japan changed at the end of the Heian period,\Nwhen they defeated the Taira clan in the Genpei conflict. For more information\Nabout the Fujiwara clan, take a class on Japanese history or literature.
 Dialogue: 0,0:11:50.94,0:11:52.90,Default,,0,0,0,,Sai of the Fujiwara doesn't exist?
 Dialogue: 0,0:11:53.86,0:11:57.57,Default,,0,0,0,,What's with that look on your face? I researched it.
 Dialogue: 0,0:11:57.91,0:12:01.33,Default,,0,0,0,,A noble who tutored the Emperor in Go during the Heian period, right?

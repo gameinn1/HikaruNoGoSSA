@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 37
-Active Line: 46
-Video Position: 7386
+Video Zoom Percent: 0.625000
+Scroll Position: 475
+Active Line: 488
+Video Position: 32234
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -532,7 +532,7 @@ Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad
 Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H167AED&\4c&H167AED&\fscx100\fscy100\bord1.25\shad0\pos(317,226)}Teacher Yukari
 Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&HF824F4&\4c&HF824F4&\fscx100\fscy100\bord1.25\shad0\pos(512,298)}Mai
 Dialogue: 0,0:22:14.11,0:22:15.79,NoteArial_Igo,,0,0,0,,{\fs22.5\1c&HFFFFFF&\fad(0,0)\3c&H008708&\4c&H008708&\fscx100\fscy100\bord1.25\shad0\pos(322,344)}Let's do a Fuseki problem today
-Dialogue: 0,0:22:14.16,0:22:18.50,NoteArial,,0,0,0,,{\fad(334,334)}Fuseki is the opening of the game.
+Dialogue: 0,0:22:14.16,0:22:18.50,NoteArial,,0,0,0,,{\fad(292,292)}Fuseki is the opening of the game.
 Dialogue: 0,0:22:16.23,0:22:18.84,Background,,0,0,0,,White just went to 3,3 and here's the problem.
 Dialogue: 0,0:22:19.18,0:22:25.56,Background,,0,0,0,,Should black go here, or go here? Which is better?
 Dialogue: 0,0:22:24.22,0:22:29.44,NoteArial_Igo,,0,0,0,,{\an5\fs22.5\1c&HFFFFFF&\fad(626,459)\frx70\t(0,542,1,\frx0)\3c&H008708&\4c&H008708&\fscx100\fscy100\bord1.25\shad0\pos(328,381)}Which side is it better to                          play from{\i1}?{\i0}

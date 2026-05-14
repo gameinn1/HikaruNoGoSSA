@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 56 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 229
-Active Line: 242
-Video Position: 24516
+Scroll Position: 282
+Active Line: 292
+Video Position: 28587
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -336,7 +336,7 @@ Dialogue: 0,0:19:40.31,0:19:41.36,Background,,0,0,0,,before that...
 Dialogue: 0,0:19:43.00,0:19:45.64,Default,,0,0,0,,he placed this stone in the corner...
 Dialogue: 0,0:19:45.98,0:19:48.44,Default,,0,0,0,,See? White has to respond.
 Dialogue: 0,0:19:48.88,0:19:51.63,Default,,0,0,0,,So he'll have gained more territory\Nthan he did during the match.
-Dialogue: 0,0:19:52.30,0:20:00.76,NoteArial,,0,0,0,,{\fad(334,334)}Note from translator: By placing the move in the corner, Black can kill White\Nunless White responds. Even if White responds, it leads to Seki, in which\Ncase White loses several stones worth of territory in the corner.
+Dialogue: 0,0:19:52.30,0:20:00.76,NoteArial,,0,0,0,,{\fad(292,292)}Note from translator: By placing the move in the corner, Black can kill White\Nunless White responds. Even if White responds, it leads to Seki, in which\Ncase White loses several stones worth of territory in the corner.
 Dialogue: 0,0:19:53.27,0:19:56.93,Background,,0,0,0,,In other words, if Black had played in\Nthe corner instead of connecting...
 Dialogue: 0,0:19:57.38,0:19:58.59,Background,,0,0,0,,He would've won!
 Dialogue: 0,0:19:59.47,0:20:00.60,Default,,0,0,0,,Sai, you would have lost!
