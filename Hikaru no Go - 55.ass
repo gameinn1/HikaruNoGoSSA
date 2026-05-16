@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 475
-Active Line: 488
-Video Position: 32234
+Video Zoom Percent: 1.375000
+Scroll Position: 149
+Active Line: 152
+Video Position: 8544
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -156,13 +156,17 @@ Dialogue: 0,0:05:33.23,0:05:36.26,Default,,0,0,0,,An even match with a komi of 5
 Dialogue: 0,0:05:37.07,0:05:40.03,Default,,0,0,0,,Three hours on each of our clocks...
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 88 102 l 551 102 l 551 135 l 88 135 c{\p0}
 Dialogue: 0,0:05:40.03,0:05:44.87,NoteArial,,0,0,0,,{\fs28\1c&HA08020&\fscx101\fscy85\bord0\blur1\shad0\pos(322,106)}Request toya koyo-san for a game
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 171 l 278 171 l 278 195 l 151 195 c{\p0}
+Comment: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 171 l 278 171 l 278 195 l 151 195 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 170 l 279 170 l 279 195 l 151 195 c{\p0}
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\fscx100\blur1\pos(150,170)}Board Size
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 210 l 196 210 l 196 236 l 151 236 c{\p0}
+Comment: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 210 l 196 210 l 196 236 l 151 236 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 210 l 197 210 l 197 236 l 151 236 c{\p0}
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\blur1\pos(150,212)}Komi
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 255 l 315 255 l 315 279 l 151 279 c{\p0}
+Comment: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 255 l 315 255 l 315 279 l 151 279 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 150 255 l 315 255 l 315 280 l 150 280 c{\p0}
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\blur1\pos(150,256)}Time on Clock
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 296 l 228 296 l 228 321 l 151 321 c{\p0}
+Comment: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 296 l 228 296 l 228 321 l 151 321 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 151 296 l 228 296 l 228 322 l 151 322 c{\p0}
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs27.5\fscy90\blur1\pos(150,298)}Byou-Yomi
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 120 375 l 160 375 l 160 396 l 120 396 m 235 375 l 275 375 l 275 396 l 235 396 m 368 375 l 404 375 l 404 396 l 368 396 m 473 375 l 529 375 l 529 396 l 473 396 c{\p0}
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs21\fscy85\blur1\pos(139,378)}Chat
@@ -183,13 +187,16 @@ Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos
 Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&H2E260E&\fnArial\fs42\blur2\fscy132\pos(532,192)}Cancel
 Dialogue: 0,0:05:56.34,0:05:56.88,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 156 138 l 498 138 l 498 161 l 156 161 c{\p0}
 Dialogue: 0,0:05:56.34,0:05:56.88,NoteArial,,0,0,0,,{\fs21\1c&HA08020&\fscx101\fscy85\bord0\shad0\blur1\pos(322,141)}Request toya koyo-san for a game
-Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 203 187 l 298 187 l 298 206 l 203 206 c{\p0}
+Comment: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 203 187 l 298 187 l 298 206 l 203 206 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 202 187 l 298 187 l 298 207 l 202 207 c{\p0}
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\blur1\pos(200,187)}Board Size
-Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 204 218 l 236 218 l 236 236 l 204 236 c{\p0}
+Comment: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 204 218 l 236 218 l 236 236 l 204 236 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 204 218 l 236 218 l 236 238 l 204 238 c{\p0}
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\blur1\pos(200,218)}Komi
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 200 249 l 324 249 l 324 270 l 200 270 c{\p0}
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\blur1\pos(200,249)}Time on Clock
-Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 200 282 l 260 282 l 260 300 l 200 300 c{\p0}
+Comment: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 200 282 l 260 282 l 260 300 l 200 300 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 200 282 l 260 282 l 260 302 l 200 302 c{\p0}
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs20.5\fscy90\blur1\pos(200,282)}Byou-Yomi
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 180 340 l 210 340 l 210 356 l 180 356 m 265 340 l 295 340 l 295 356 l 265 356 m 362 340 l 396 340 l 396 356 l 392 356 l 390 348 l 387 356 l 362 356 m 439 340 l 483 340 l 483 356 l 439 356 c{\p0}
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs16\fscy85\blur1\pos(193,342)}Chat
