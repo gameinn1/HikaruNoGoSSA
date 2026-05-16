@@ -16,8 +16,8 @@ Audio File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 422
+Video Zoom Percent: 1.000000
+Scroll Position: 431
 Active Line: 433
 Video Position: 27797
 
@@ -477,6 +477,7 @@ Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs1
 Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(536,179)}HAND
 Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(569,179)}KOMI
 Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(601,179)}TIME
+Comment: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,Couldn't decide on the box covering white at the top. It's a battle to hide the text while not going too much on to the green that it looks bad. 36.4 looks pretty close though.
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 505 36.4 l 538 36.4 l 538 53 l 505 53 m 503 83 l 633 83 l 633 100 l 503 100 m 502 113 l 640 113 l 640 132 l 502 132 m 505 151 l 539 151 l 539 169 l 505 169 m 503 200 l 633 200 l 633 217 l 503 217 m 501 230 l 640 230 l 640 248 l 501 248 m 502 266 l 571 266 l 571 285 l 502 285 m 502 290 l 611 290 l 611 309 l 502 309 m 501 316 l 537 316 l 537 336 l 501 336 m 614 316 l 640 316 l 640 334 l 614 334 m 521 392 l 555 392 l 555 411 l 521 411 m 591 393 l 640 393 l 640 412 l 591 412 m 546 427 l 613 427 l 613 447 l 546 447{\p0}
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,38)}WHITE
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs16\blur1\fscx100\fscy115\pos(505,81)}Captured: 1 Stone
