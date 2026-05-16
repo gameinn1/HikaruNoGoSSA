@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.750000
-Scroll Position: 143
-Active Line: 147
-Video Position: 8544
+Video Zoom Percent: 0.750000
+Scroll Position: 422
+Active Line: 433
+Video Position: 27797
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -205,7 +205,7 @@ Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnA
 Comment: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,Had this at y 341 before but 340 seems to be a better visual match. {\1c&H2E260E&\1c&H2E260E&\fnArial\fs12\fscy135\blur1\pos(458,341)}Cancel
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&H2E260E&\1c&H2E260E&\fnArial\fs12\fscy135\blur1\pos(458,340)}Cancel
 Comment: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur0\pos(0,0)}{\p1}m 452 55 l 483 55 l  483 69 l 452 69 m 450 95 l 565 95 l 565 111 l 450 111 m 449 122 l 579 122 l 579 137 l 449 137 m 452 155 l 482 155 l 482 171 l 452 171 m 451 199 l 565 199 l 565 213 l 451 213 m 448 224 l 579 224 l 579 240 l 448 240 m 450 256 l 511 256 l 511 272 l 450 272 m 449 277 l 545 277 l 545 293 l 449 293 m 449 301 l 480 301 l 480 316 l 449 316 m 548 299 l 575 299 l 575 315 l 548 315 m 466 368 l 496 368 l 496 383 l 466 383 m 527 367 l 584 367 l 584 383 l 527 383 m 489 398 l 574 398 l 574 414 l 489 414{\p0}
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 452 55 l 483 55 l  483 69 l 452 69 m 450 95 l 565 95 l 565 111 l 450 111 m 449 122 l 579 122 l 579 138 l 449 138 m 452 155 l 482 155 l 482 171 l 452 171 m 451 199 l 565 199 l 565 213 l 451 213 m 448 224 l 579 224 l 579 240 l 448 240 m 450 256 l 511 256 l 511 272 l 450 272 m 449 277 l 546 277 l 546 293 l 449 293 m 449 301 l 480 301 l 480 316 l 449 316 m 548 299 l 577 299 l 577 316 l 548 316 m 466 368 l 496 368 l 496 383 l 466 383 m 527 367 l 584 367 l 584 383 l 527 383 m 489 398 l 574 398 l 574 414 l 489 414{\p0}
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 452 54.7 l 483 54.7 l  483 70 l 452 70 m 450 95 l 565 95 l 565 111 l 450 111 m 449 122 l 579 122 l 579 138 l 449 138 m 451 155 l 482 155 l 482 172 l 451 172 m 451 199 l 565 199 l 565 213 l 451 213 m 448 224 l 579 224 l 579 240 l 448 240 m 450 256 l 511 256 l 511 273 l 450 273 m 449 277 l 546 277 l 546 294 l 449 294 m 448 301 l 480 301 l 480 317 l 448 317 m 548 299 l 577 299 l 577 316 l 548 316 m 466 368 l 496 368 l 496 383 l 466 383 m 527 367 l 584 367 l 584 383 l 527 383 m 489 398 l 574 398 l 574 414 l 489 414{\p0}
 Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx98\fscy110\pos(451,57)}WHITE
 Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\pos(451,96)}Captured: 0 Stones
 Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs14\blur1\fscx98\fscy110\pos(451,122)}Rem. Time: 180 / 180
@@ -322,7 +322,7 @@ Dialogue: 0,0:09:36.43,0:09:36.47,NoteArial,26,0,0,0,,{\blur1\an7\p1\c&HDEDBC2&\
 Dialogue: 0,0:09:36.97,0:09:38.02,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:09:38.39,0:09:40.43,Default,,0,0,0,,What!? They're playing each other?
 Comment: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur0\pos(0,0)}{\p1}m 482 37 l 515 37 l 515 55 l 482 55 m 480 80 l 605 80 l 605 98 l 480 98 m 478 110 l 620 110 l 620 128 l 478 128 m 479 147 l 516 147 l 516 166 l 479 166 m 478 194 l 606 194 l 606 210 l 478 210 m 478 222 l 620 222 l 620 240 l 478 240 m 477 259 l 546 259 l 546 277 l 477 277 m 478 280 l 586 280 l 586 299 l 478 299 m 477 304 l 514 304 l 514 325 l 477 325 m 583 305 l 617 305 l 617 322 l 583 322 m 498 378 l 530 378 l 530 397 l 498 397 m 562 379 l 628 379 l 628 396 l 562 396 m 522 413 l 586 413 l 586 431 l 522 431{\p0}
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 482 37 l 515 37 l 515 55 l 482 55 m 480 80 l 605 80 l 605 98 l 480 98 m 478 110 l 620 110 l 620 128 l 478 128 m 480 147 l 516 147 l 516 166 l 480 166 m 478 194 l 606 194 l 606 210 l 478 210 m 478 222 l 620 222 l 620 240 l 478 240 m 479 259 l 546 259 l 546 277 l 479 277 m 478 280 l 586 280 l 586 299 l 478 299 m 477 304 l 514 304 l 514 325 l 477 325 m 583 305 l 617 305 l 617 322 l 583 322 m 498 378 l 530 378 l 530 397 l 498 397 m 562 379 l 628 379 l 628 396 l 562 396 m 522 413 l 586 413 l 586 431 l 522 431{\p0}
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 482 37.2 l 515 37.2 l 515 55 l 482 55 m 480 80 l 605 80 l 605 98 l 480 98 m 478 110 l 620 110 l 620 128 l 478 128 m 480 147 l 516 147 l 516 166 l 480 166 m 478 194 l 606 194 l 606 210 l 478 210 m 478 222 l 620 222 l 620 241 l 478 241 m 479 259 l 546 259 l 546 277 l 479 277 m 478 280 l 586 280 l 586 299 l 478 299 m 477 304 l 514 304 l 514 325 l 477 325 m 583 305 l 617 305 l 617 322 l 583 322 m 498 378 l 530 378 l 530 397 l 498 397 m 562 379 l 628 379 l 628 396 l 562 396 m 522 413 l 586 413 l 586 431 l 522 431{\p0}
 Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs12.5\blur1\fscx97\fscy110\pos(483,40)}WHITE
 Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx97\pos(480,84)}Captured: 0 Stones
 Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx97\pos(480,113)}Rem. Time: 165 / 180
@@ -477,7 +477,7 @@ Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs1
 Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(536,179)}HAND
 Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(569,179)}KOMI
 Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs10\blur1\fscx100\fscy150\pos(601,179)}TIME
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 505 36 l 538 36 l 538 53 l 505 53 m 503 83 l 633 83 l 633 100 l 503 100 m 502 113 l 640 113 l 640 132 l 502 132 m 505 151 l 539 151 l 539 169 l 505 169 m 503 200 l 633 200 l 633 217 l 503 217 m 501 230 l 640 230 l 640 248 l 501 248 m 502 266 l 571 266 l 571 285 l 502 285 m 502 290 l 611 290 l 611 309 l 502 309 m 501 316 l 537 316 l 537 336 l 501 336 m 614 316 l 640 316 l 640 334 l 614 334 m 521 392 l 555 392 l 555 411 l 521 411 m 591 393 l 640 393 l 640 412 l 591 412 m 546 427 l 613 427 l 613 447 l 546 447{\p0}
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\blur1\pos(0,0)}{\p1}m 505 36.4 l 538 36.4 l 538 53 l 505 53 m 503 83 l 633 83 l 633 100 l 503 100 m 502 113 l 640 113 l 640 132 l 502 132 m 505 151 l 539 151 l 539 169 l 505 169 m 503 200 l 633 200 l 633 217 l 503 217 m 501 230 l 640 230 l 640 248 l 501 248 m 502 266 l 571 266 l 571 285 l 502 285 m 502 290 l 611 290 l 611 309 l 502 309 m 501 316 l 537 316 l 537 336 l 501 336 m 614 316 l 640 316 l 640 334 l 614 334 m 521 392 l 555 392 l 555 411 l 521 411 m 591 393 l 640 393 l 640 412 l 591 412 m 546 427 l 613 427 l 613 447 l 546 447{\p0}
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs13.5\blur1\fscx100\fscy115\pos(505,38)}WHITE
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs16\blur1\fscx100\fscy115\pos(505,81)}Captured: 1 Stone
 Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs15.5\blur1\fscx100\fscy115\pos(505,113)}Rem. Time: 127 / 180
