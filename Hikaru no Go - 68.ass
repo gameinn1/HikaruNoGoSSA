@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.593750
-Active Line: 10
-Video Position: 2646
+Scroll Position: 36
+Active Line: 57
+Video Position: 7128
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,7 +105,7 @@ Dialogue: 0,0:04:37.47,0:04:40.76,Default,,0,0,0,,Weekly Go? Where did you get i
 Dialogue: 0,0:04:41.01,0:04:44.31,Default,,0,0,0,,From Koike-kun. But more importantly,\Nexplain this to me.
 Dialogue: 0,0:04:44.72,0:04:50.27,Default,,0,0,0,,They list the records for all the pros in the scores\Nsection, but yours is filled with forfeits.
 Dialogue: 0,0:04:52.27,0:04:54.27,Default,,0,0,0,,I told you, I'm not playing anymore.
-Dialogue: 0,0:04:54.57,0:04:57.26,Default,,0,0,0,,Huh? Weren't you talking about me?
+Dialogue: 0,0:04:54.61,0:04:57.26,Default,,0,0,0,,Huh? Weren't you talking about me?
 Dialogue: 0,0:04:57.26,0:04:59.52,Default,,0,0,0,,I thought you weren't going to play\Nwith me anymore because I suck.
 Dialogue: 0,0:05:04.41,0:05:06.62,Default,,0,0,0,,So what do you mean you're\Nnot going to play anymore?
 Dialogue: 0,0:05:07.16,0:05:08.41,Default,,0,0,0,,Are you going to quit being a pro?
