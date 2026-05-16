@@ -20,6 +20,12 @@
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/39%20Funny.png" width="260"></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/55%201.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/55%202.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/55%203.png" width="260"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/56%201.png" width="260"></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Intro%20Karaoke.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Sign.png" width="260"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Yuugen.png" width="260"></td>
