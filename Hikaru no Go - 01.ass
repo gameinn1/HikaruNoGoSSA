@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 379
-Active Line: 398
-Video Position: 799
+Scroll Position: 121
+Active Line: 145
+Video Position: 13464
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,21 +170,21 @@ Dialogue: 0,0:08:45.84,0:08:47.26,Default,,0,0,0,,You!
 Dialogue: 0,0:08:48.93,0:08:49.83,Default,,0,0,0,,What is it?
 Dialogue: 0,0:08:50.51,0:08:51.01,Default,,0,0,0,,Umm...
 Dialogue: 0,0:08:51.18,0:08:51.76,Default,,0,0,0,,No...
-Dialogue: 0,0:08:52.26,0:08:54.39,Default,,0,0,0,,I'm sorry...
-Dialogue: 0,0:08:55.06,0:08:56.60,Background,,0,0,0,,Sit back down and continue the test.
-Dialogue: 0,0:08:56.83,0:08:57.43,Background,,0,0,0,,Yes ma'am.
+Dialogue: 0,0:08:52.22,0:08:54.35,Default,,0,0,0,,I'm sorry...
+Dialogue: 0,0:08:55.01,0:08:56.56,Background,,0,0,0,,Sit back down and continue the test.
+Dialogue: 0,0:08:56.81,0:08:57.39,Background,,0,0,0,,Yes ma'am.
 Dialogue: 0,0:08:58.81,0:09:01.24,Default,,0,0,0,,The thing that happened to\Nme yesterday wasn't a dream!
 Dialogue: 0,0:09:01.27,0:09:01.85,Sai,,0,0,0,,No it wasn't
 Dialogue: 0,0:09:01.90,0:09:04.06,Default,,0,0,0,,And what was your name again?
 Dialogue: 0,0:09:04.23,0:09:04.82,Sai,,0,0,0,,It is Sai.
 Dialogue: 0,0:09:05.15,0:09:06.19,Default,,0,0,0,,Oh, Sai?
-Dialogue: 0,0:09:06.63,0:09:08.20,Default,,0,0,0,,Do you really love Go that much?
-Dialogue: 0,0:09:08.28,0:09:08.88,Sai,,0,0,0,,Yes!
-Dialogue: 0,0:09:09.00,0:09:10.00,Default,,0,0,0,,Do you still want to play Go?
-Dialogue: 0,0:09:10.00,0:09:10.70,Sai,,0,0,0,,Yes!
-Dialogue: 0,0:09:10.95,0:09:14.80,Default,,0,0,0,,Oh I'm sorry, I have no intentions of playing Go.
+Dialogue: 0,0:09:06.57,0:09:08.24,Default,,0,0,0,,Do you really love Go that much?
+Dialogue: 0,0:09:08.28,0:09:08.82,Sai,,0,0,0,,Yes!
+Dialogue: 0,0:09:08.90,0:09:09.99,Default,,0,0,0,,Do you still want to play Go?
+Dialogue: 0,0:09:09.99,0:09:10.70,Sai,,0,0,0,,Yes!
+Dialogue: 0,0:09:10.91,0:09:14.87,Default,,0,0,0,,Oh I'm sorry, I have no intentions of playing Go.
 Dialogue: 0,0:09:19.79,0:09:20.50,Default,,0,0,0,,Hikaru!
-Dialogue: 0,0:09:20.70,0:09:21.60,Default,,0,0,0,,Mr. Shindou!
+Dialogue: 0,0:09:20.70,0:09:21.54,Default,,0,0,0,,Mr. Shindou!
 Dialogue: 0,0:09:25.40,0:09:26.92,Default,,0,0,0,,What the heck did you do?!
 Dialogue: 0,0:09:27.15,0:09:29.40,Sai,,0,0,0,,I didn't do anything! Really!
 Dialogue: 0,0:09:30.45,0:09:31.67,Default,,0,0,0,,Hikaru are you okay?
