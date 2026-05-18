@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 61 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 322
+Video Zoom Percent: 1.000000
+Scroll Position: 346
 Active Line: 348
-Video Position: 34710
+Video Position: 34731
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -395,7 +395,7 @@ Dialogue: 0,0:22:37.97,0:22:39.43,NoteArial_Igo,,0,0,0,,{\fad(501,459)\fs28\bord
 Dialogue: 0,0:22:38.80,0:22:44.31,Background,,0,0,0,,The graves of historic Honinbous are at Honmyouji\Ntemple, along with the grave of Shuusaku.
 Dialogue: 0,0:22:47.09,0:22:49.83,Background,,0,0,0,,Hikaru came here in search of Sai,
 Dialogue: 0,0:22:49.83,0:22:53.55,Background,,0,0,0,,but I came here to pray that I get better at Go.
-Dialogue: 0,0:22:55.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fad(542,0)\fs22.5\bord1.75\shad0.75\3c&H0300EA&\4c&HFFFFFF&\pos(393,332)}To be continued...
+Dialogue: 0,0:22:55.05,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fad(584,0)\fs22.5\bord1.75\shad0.75\3c&H0300EA&\4c&HFFFFFF&\pos(393,332)}To be continued...
 Dialogue: 0,0:22:58.86,0:23:01.15,Default,,0,0,0,,You over there, want to play me?
 Dialogue: 0,0:23:02.36,0:23:07.16,Background,,0,0,0,,If you beat me, I'll forget about\Nthe money from the last game.
 Dialogue: 0,0:23:07.66,0:23:08.74,Thinking,,0,0,0,,Shuusaku's...
