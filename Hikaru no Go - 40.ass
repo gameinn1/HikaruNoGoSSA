@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 210
-Active Line: 239
-Video Position: 34841
+Active Line: 215
+Video Position: 32216
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -282,7 +282,7 @@ Dialogue: 0,0:22:41.52,0:22:47.49,Default,,0,0,0,,{\1c&HFFFFFF&\3c&H2209EF&\4c&H
 Dialogue: 0,0:22:42.80,0:22:44.74,Default,,0,0,0,,Of course, even if there's no talking,
 Dialogue: 0,0:22:44.74,0:22:46.64,Default,,0,0,0,,you cannot point or make signs to your partner.
 Dialogue: 0,0:22:47.81,0:22:53.46,Default,,0,0,0,,{\1c&HFFFFFF&\fad(459,459)\3c&H028809&\4c&H028809&\bord2\shad1\pos(320,310)}It's a different way to play and lots of fun.
-Comment: 0,0:22:48.16,0:22:51.47,Default,,0,0,0,,The strongest player does not necessarily win in pairs Go,
+Dialogue: 0,0:22:48.16,0:22:51.47,Default,,0,0,0,,The strongest player does not necessarily win in pairs Go,
 Dialogue: 0,0:22:51.56,0:22:53.51,Default,,0,0,0,,and there's a different kind of enjoyment.
 Dialogue: 0,0:22:53.74,0:22:55.55,Default,,0,0,0,,So both of you, please try it one day.
 Dialogue: 0,0:22:55.63,0:22:56.23,Default,,0,0,0,,All right!
