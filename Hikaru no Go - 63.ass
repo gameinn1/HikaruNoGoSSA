@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 94
-Active Line: 99
-Video Position: 12764
+Active Line: 100
+Video Position: 12941
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -145,7 +145,7 @@ Dialogue: 0,0:08:05.09,0:08:08.93,Default,,0,0,0,,I don't need to play! I won't 
 Dialogue: 0,0:08:09.55,0:08:10.34,Default,,0,0,0,,So...
 Dialogue: 0,0:08:11.26,0:08:15.02,Default,,0,0,0,,God! Please! Turn back time!
 Dialogue: 0,0:08:15.39,0:08:19.48,Default,,0,0,0,,Turn time back to when I first met him!
-Comment: 0,0:08:52.34,0:08:56.72,NoteArial,,0,0,0,,Seems like R-F put some heavy blur on this. The standard 0.8 definitely seems too little. blur1.2 (value taken from 62 signs) is probably fine.
+Comment: 0,0:08:52.34,0:08:56.72,NoteArial,,0,0,0,,Seems like R-F put some heavy blur on this. The standard 0.8 definitely seems too little. blur1.2 (value taken from 62 signs) is probably fine. Scroll looks ok could maybe change by a value or so. Similar sign to 52 6:14 and 73: 11:47.
 Dialogue: 0,0:08:52.34,0:08:56.72,NoteArial,,0,0,0,,{\fs93.5\q2\fscy45\blur1.2\bord0.5\shad1\1c&H535851&\move(629,111,189,111)}Japanese Go Institute
 Dialogue: 0,0:09:10.86,0:09:11.99,Default,,0,0,0,,What's wrong, Akira?
 Dialogue: 0,0:09:12.53,0:09:14.24,Default,,0,0,0,,The games are going to start soon.
