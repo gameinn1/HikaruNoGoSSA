@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
 Active Line: 17
-Video Position: 3910
+Video Position: 3895
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -61,7 +61,7 @@ Dialogue: 0,0:02:33.17,0:02:38.10,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0
 Dialogue: 0,0:02:33.17,0:02:38.10,Title_eps,,0,0,0,,{\fs36\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Last Day of the Pro Exam Finals
 Comment: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,This was frz326 before but maybe 325 is better (or 325.5). Also not sure if R-F colour picked from the wall or did 1a&HFF&. I decided to colour pick and apply shadow as I think there is one.
 Comment: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1a&HFF&\fs14\bord0.5\shad0.5\frz325\frx12\fry18\move(237,475,237,366)}Japanese Go Research Center
-Dialogue: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1c&HE0CAC7&\fs14\bord0.5\shad0.5\frz326\frx12\fry18\move(239,472,239,363)}Japanese Go Research Center
+Dialogue: 0,0:02:38.10,0:02:43.10,NoteArial,,0,0,0,,{\1c&HE0CAC7&\fs14\bord0.5\shad0.5\frz325\frx12\fry18\move(239,472,239,363)}Japanese Go Research Center
 Dialogue: 0,0:02:44.85,0:02:47.11,Default,,0,0,0,,We're from the Japanese Go Institute's publishing division!
 Dialogue: 0,0:02:47.65,0:02:48.40,Default,,0,0,0,,Hello.
 Dialogue: 0,0:02:48.90,0:02:51.95,Default,,0,0,0,,We came to interview and take\Npictures of those who passed.
