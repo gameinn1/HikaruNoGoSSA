@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 369
-Active Line: 383
-Video Position: 34643
+Scroll Position: 128
+Active Line: 146
+Video Position: 14368
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -191,7 +191,8 @@ Comment: 0,0:09:55.74,0:09:58.24,NoteTimes,,0,0,0,,{\fs19\1c&H000000&\3c&HFFFFFF
 Comment: 0,0:09:55.74,0:09:58.24,NoteTimes,,0,0,0,,{\fs19\1c&H000000&\3c&HFFFFFF&\bord1\shad0\pos(385,195)}A\Nf\Nf\Ni\Nl\Ni\Na\Nt\Ne\Ns\N\NO\Nn\Nl\Ny
 Dialogue: 0,0:09:55.74,0:09:58.24,NoteTimes,,0,0,0,,{\an8\fs19\c&H000000&\3c&HFFFFFF&\bord1\shad0\fry13\pos(281.29,62.35)\fscx98.5\fscy98.5\frz358.1}O\Nu\Nz\Na\N\NT\Ni\Nt\Nl\Ne\N\NM\Na\Nt\Nc\Nh
 Dialogue: 1,0:09:55.74,0:09:58.24,NoteTimes,,0,0,0,,{\fry13\fs19\c&H000000&\3c&HFFFFFF&\bord1\shad0\pos(375.29,200.36)\fscx98\fscy98\frz1.833}A\Nf\Nf\Ni\Nl\Ni\Na\Nt\Ne\Ns\N\NO\Nn\Nl\Ny
-Dialogue: 0,0:09:59.25,0:10:02.75,NoteTimes,,0,0,0,,{\fs22.5\bord1.25\shad0\fad(459,0)\pos(320,368)}The First Game of the Ouza Title Match
+Comment: 0,0:09:59.25,0:10:02.75,NoteTimes,,0,0,0,,Had this at fade 459 before but think 501 is better. Also set to bord1.25 which seems like a good visual match.
+Dialogue: 0,0:09:59.25,0:10:02.75,NoteTimes,,0,0,0,,{\fs22.5\bord1.25\shad0\fad(501,0)\pos(320,368)}The First Game of the Ouza Title Match
 Dialogue: 0,0:10:02.75,0:10:05.25,NoteArial,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz346\pos(380,169)}Japanese Go Institute
 Dialogue: 0,0:10:05.79,0:10:07.96,Background,,0,0,0,,What is it, Master Kuwabara?
 Dialogue: 0,0:10:09.00,0:10:10.76,Default,,0,0,0,,Is there an interesting article?
