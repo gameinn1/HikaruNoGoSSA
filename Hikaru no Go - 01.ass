@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 01 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 121
-Active Line: 145
-Video Position: 13464
+Scroll Position: 166
+Active Line: 183
+Video Position: 15771
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -222,10 +222,10 @@ Dialogue: 0,0:10:49.71,0:10:51.01,Background,,0,0,0,,Do you know anything about 
 Dialogue: 0,0:10:51.92,0:10:52.63,Sai,,0,0,0,,Perry?
 Dialogue: 0,0:10:53.10,0:10:55.63,Default,,0,0,0,,Perry?! You know? He lead\Na couple of warships here?
 Dialogue: 0,0:10:56.18,0:10:57.55,Sai,,0,0,0,,Oh! Commodore Perry!
+Comment: 0,0:10:57.76,0:10:58.51,Default,,0,0,0,,If you want E-F timing then these two commented lines match but the timing included and having all on one line seems much better.
+Comment: 0,0:10:57.80,0:10:58.55,Default,,0,0,0,,Yeah! That's the one!
+Comment: 0,0:10:58.55,0:11:00.01,Default,,0,0,0,,Where did that Commodore Perry come to?
 Dialogue: 0,0:10:57.76,0:11:00.06,Default,,0,0,0,,Yeah! That's the one. Where did that Commodore Perry come to?
-Comment: 0,0:10:57.76,0:10:58.51,Default,,0,0,0,,If you want E-F timing then these two commented lines match pretty well.
-Comment: 0,0:10:57.76,0:10:58.51,Default,,0,0,0,,Yeah! That's the one!
-Comment: 0,0:10:58.51,0:10:59.97,Default,,0,0,0,,Where did that Commodore Perry come to?
 Dialogue: 0,0:11:00.22,0:11:02.75,Sai,,0,0,0,,He came to Uraga. There was a\Nhuge commotion over that incident.
 Dialogue: 0,0:11:02.85,0:11:03.93,Default,,0,0,0,,Uraga...
 Dialogue: 0,0:11:04.80,0:11:05.27,Default,,0,0,0,,Sai
