@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 128
-Active Line: 146
-Video Position: 14368
+Scroll Position: 247
+Active Line: 266
+Video Position: 24590
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -311,7 +311,7 @@ Dialogue: 0,0:16:40.52,0:16:42.04,Background,,0,0,0,,It was snowing that day.
 Dialogue: 0,0:16:45.82,0:16:47.21,Default,,0,0,0,,It's my turn now.
 Dialogue: 0,0:16:48.09,0:16:50.79,Default,,0,0,0,,I'm going to begin with this match.
 Dialogue: 0,0:16:53.37,0:16:54.57,Default,,0,0,0,,When the new year comes...
-Dialogue: 0,0:17:05.59,0:17:09.59,NoteArial,,0,0,0,,{\fs30\t(0,3980,1,\fs36)\bord0\1c&H000000&\4c&HFFFFFF&\shad0.5\move(377,67,383,40,0,3980)\frx0\fry5}T\No\Nu\Ny\Na\N\NK\No\Nu\Ny\No\Nu
+Dialogue: 0,0:17:05.59,0:17:09.59,NoteArial,,0,0,0,,{\fs30\t(0,3980,1,\fs36)\bord0\1c&H000000&\4c&HFFFFFF&\shad0.5\move(377,67,383,40,0,3980)\frx0\fry6}T\No\Nu\Ny\Na\N\NK\No\Nu\Ny\No\Nu
 Dialogue: 1,0:17:06.25,0:17:09.35,Background,,0,0,0,,Sorry for interviewing you during New Years.
 Dialogue: 0,0:17:10.22,0:17:13.14,Background,,0,0,0,,But now that you have your fifth title, Meijin,
 Dialogue: 0,0:17:13.14,0:17:16.26,Background,,0,0,0,,you and Touya-kun are both going to get busier.

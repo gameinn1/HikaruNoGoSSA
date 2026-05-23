@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 46 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Active Line: 15
-Video Position: 3905
+Scroll Position: 137
+Active Line: 149
+Video Position: 20860
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -192,9 +193,8 @@ Dialogue: 0,0:14:11.50,0:14:13.48,Thinking,,0,0,0,,I will just have to see for m
 Dialogue: 0,0:14:14.71,0:14:16.22,Thinking,,0,0,0,,Come, Shindou!
 Dialogue: 0,0:14:16.78,0:14:18.05,Thinking,,0,0,0,,I am right here...
 Dialogue: 0,0:14:19.46,0:14:20.80,Thinking,,0,0,0,,in the world of the pros!
-Comment: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,Old version: {\fs23\bord0.5\1c&H000000&\3c&HFFFFFF&\frz21\frx10\fry346\pos(317,129)}Student Guidance Office
-Comment: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,Wasn't sure on bord or shad values so did something pretty safe.
-Dialogue: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,{\fs23.5\bord0.5\shad0.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\frz21.5\frx10\fry346\pos(317,130)}Student Guidance Office
+Comment: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,Wasn't sure on bord or shad values. shad1.2 recommended by llbx. Had bord0.5 and shad0.5 before.
+Dialogue: 0,0:14:30.02,0:14:37.56,NoteArial,,0,0,0,,{\fs23.5\bord0\shad1.2\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\frz21.5\frx10\fry346\pos(317,130)}Student Guidance Office
 Dialogue: 0,0:14:31.14,0:14:32.56,Background,,0,0,0,,Congratulations!
 Dialogue: 0,0:14:33.20,0:14:35.61,Background,,0,0,0,,I heard about it from Shindou-kun this morning.
 Dialogue: 0,0:14:35.97,0:14:36.87,Background,,0,0,0,,Thank you.

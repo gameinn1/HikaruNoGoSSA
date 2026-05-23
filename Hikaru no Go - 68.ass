@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.593750
-Scroll Position: 36
-Active Line: 57
-Video Position: 7128
+Scroll Position: 183
+Active Line: 188
+Video Position: 22498
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,12 +27,12 @@ Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
-Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
-Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,65,65,22,1
-Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,2,0,5,56,56,45,1
-Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,2,0,0,14,1
+Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,1.25,0,7,56,56,14,1
+Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,9,65,65,22,1
+Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,1.25,0,7,56,56,14,1
+Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,9,65,65,22,1
+Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,-1,0,0,0,100,100,0.333,0,1,1.25,0,5,56,56,45,1
+Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,1.25,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
 Style: Note,Century Gothic,23.8,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,15,1
@@ -237,8 +237,9 @@ Dialogue: 0,0:15:09.81,0:15:10.31,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:15:10.85,0:15:13.06,Default,,0,0,0,,Okay. Let's go, Kumiko!
 Dialogue: 0,0:15:13.39,0:15:15.85,Default,,0,0,0,,Okay. I'm going first!
 Dialogue: 0,0:15:16.90,0:15:17.77,Default,,0,0,0,,Okay!
-Comment: 0,0:15:38.33,0:15:41.25,NoteArial,,0,0,0,,Didn't have these blurred before but looking now it should be.
-Dialogue: 0,0:15:38.33,0:15:41.25,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(626,0)\bord0\fscx100\fscy160\blur0.8\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private Junior High School
+Comment: 0,0:15:38.33,0:15:41.25,NoteArial,,0,0,0,,Didn't have these blurred before but looking now it should be. These are values before shadow fix from llbx.
+Comment: 0,0:15:38.33,0:15:41.25,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(626,0)\bord0\fscx100\fscy160\blur0.8\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private Junior High School
+Dialogue: 0,0:15:38.21,0:15:41.25,NoteArial,,0,0,0,,{\fs11\bord0\fscx100\fscy160\blur0.8\shad1\frz355\frx6\fry18\pos(523,332)\c&H000000&\4c&H000000&\t(0,626,1,\c&H6C1D26&\4c&HFFFFFF&)}Kaiou Private Junior High School
 Dialogue: 0,0:15:41.25,0:15:41.42,NoteArial,,0,0,0,,{\fs11\1c&H6C1D26&\fad(0,0)\bord0\fscx100\fscy160\blur0.8\shad1\4c&HFFFFFF&\frz355\frx6\fry18\pos(523,332)}Kaiou Private J{\alpha&HFF&}unior High School
 Dialogue: 0,0:16:06.95,0:16:08.66,Thinking,,0,0,0,,It probably started already.
 Dialogue: 0,0:16:29.13,0:16:31.47,Thinking,,0,0,0,,I won't be playing...
