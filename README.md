@@ -82,13 +82,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/55%203.png">
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Thumbnails/55%203.jpg" width="260">
+      <a href="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/56%201.png">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Thumbnails/56%201.jpg" width="260">
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/56%201.png">
-        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Thumbnails/56%201.jpg" width="260">
+      <a href="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/56%202.png">
+        <img src="https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Thumbnails/56%202.jpg" width="260">
       </a>
     </td>
   </tr>
