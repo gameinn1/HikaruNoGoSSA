@@ -17,8 +17,7 @@ Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.593750
-Active Line: 3
-Video Position: 2489
+Video Position: 2456
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +47,7 @@ Style: 61Credits,Verdana,12,&H00E7E4E5,&H00FFFFFF,&H00000000,&H80000000,-1,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,Just doing this for fun. Direct overlay values. x moved 2 pixels tot he right and y moved up by 4.5 pixels for better visual match. The top of Nase's head was my guide.
+Comment: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,Just doing this for fun. Direct overlay values. x moved 2 pixels to the right and y moved up by 4.5 pixels for better visual match. The top of Nase's head was my guide.
 Comment: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\fad(292,292)\pos(316,40.5)}When you watch anime, strap one TV to each eye and
 Comment: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\fad(292,292)\pos(328,93.5)}make sure your life insurance is paid up.
 Dialogue: 0,0:01:42.42,0:01:50.92,Note,,0,0,0,,{\fad(292,292)\pos(318,36)}When you watch anime, strap one TV to each eye and
