@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 67 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 272
-Active Line: 295
-Video Position: 34711
+Scroll Position: 392
+Active Line: 416
+Video Position: 503
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -449,21 +449,21 @@ Dialogue: 21,0:01:17.06,0:01:20.92,op61_kanji,,0,0,0,fx,{\move(376,58,338,58)\fa
 Dialogue: 22,0:01:20.94,0:01:25.51,op61_kanji,,0,0,0,fx,{\move(375,58,331,58)\fad(0,400)\kf24}ね{\kf23}ぇ　{\kf27}も{\kf23}っ{\kf55}と　{\kf35\kf74}翼{\kf30}ひ{\kf45}ろ{\kf26}げ{\kf83}て{\kf12}
 Dialogue: 23,0:01:26.23,0:01:29.80,op61_kanji,,0,0,0,fx,{\move(375,58,340,58)\fad(0,900)\kf48}羽{\kf48}ば{\kf27}た{\kf25}け{\kf44}る{\kf20}よ{\kf57}ね{\kf88}
 Dialogue: 7,0:00:08.86,0:00:12.85,op61_english,,0,0,0,fx,{\fad(0,400)}My heart walks, searching for something exciting
-Dialogue: 8,0:00:12.66,0:00:16.31,op61_english,,0,0,0,fx,{\fad(0,400)}that will passionately sway the beating in my chest.
+Dialogue: 8,0:00:12.66,0:00:16.31,op61_english,,0,0,0,fx,{\fad(0,400)}that will passionately sway the beating in my chest
 Dialogue: 9,0:00:16.58,0:00:20.98,op61_english,,0,0,0,fx,{\fad(0,400)}If I just wait for time to pass every day,
-Dialogue: 10,0:00:20.96,0:00:22.90,op61_english,,0,0,0,fx,{\fad(0,400)}nothing's going to change.
+Dialogue: 10,0:00:20.96,0:00:22.90,op61_english,,0,0,0,fx,{\fad(0,400)}nothing's going to change
 Dialogue: 11,0:00:24.38,0:00:28.37,op61_english,,0,0,0,fx,{\fad(0,400)}I won't stop. I want to believe. I want to move forward.
-Dialogue: 12,0:00:28.18,0:00:32.12,op61_english,,0,0,0,fx,{\fad(0,400)}I will test my strength during my life.
+Dialogue: 12,0:00:28.18,0:00:32.12,op61_english,,0,0,0,fx,{\fad(0,400)}I will test my strength during my life
 Dialogue: 13,0:00:32.10,0:00:34.67,op61_english,,0,0,0,fx,{\fad(0,400)}But even if I walk faster,
 Dialogue: 14,0:00:34.47,0:00:36.50,op61_english,,0,0,0,fx,{\fad(0,400)}I will definitely lose track of
-Dialogue: 15,0:00:36.35,0:00:38.34,op61_english,,0,0,0,fx,{\fad(0,400)}the important things.
+Dialogue: 15,0:00:36.35,0:00:38.34,op61_english,,0,0,0,fx,{\fad(0,400)}the important things
 Dialogue: 16,0:00:40.77,0:00:45.97,op61_english,,0,0,0,fx,{\fad(0,400)}Tomorrow's wind will blow tomorrow,
-Dialogue: 17,0:00:45.99,0:00:55.27,op61_english,,0,0,0,fx,{\fad(0,400)}but I want to make the most out of this moment now.
+Dialogue: 17,0:00:45.99,0:00:55.27,op61_english,,0,0,0,fx,{\fad(0,400)}but I want to make the most out of this moment now
 Dialogue: 18,0:00:55.79,0:01:01.44,op61_english,,0,0,0,fx,{\fad(0,400)}It's fantasy.  even if I'm wandering,
 Dialogue: 19,0:01:01.58,0:01:05.49,op61_english,,0,0,0,fx,{\fad(0,400)}even if I'm in a strange new world,
 Dialogue: 20,0:01:05.42,0:01:07.32,op61_english,,0,0,0,fx,{\fad(0,400)}I'll stand up to it,
-Dialogue: 21,0:01:07.17,0:01:10.95,op61_english,,0,0,0,fx,{\fad(0,400)}believing in myself more than anything else.
-Dialogue: 22,0:01:11.26,0:01:17.00,op61_english,,0,0,0,fx,{\fad(0,400)}It's destiny.  No matter where I am,
+Dialogue: 21,0:01:07.17,0:01:10.95,op61_english,,0,0,0,fx,{\fad(0,400)}believing in myself more than anything else
+Dialogue: 22,0:01:11.26,0:01:17.00,op61_english,,0,0,0,fx,{\fad(0,400)}It's destiny.  No matter where I am
 Dialogue: 23,0:01:17.06,0:01:20.92,op61_english,,0,0,0,fx,{\fad(0,400)}I'm surrounded by the same sky,
 Dialogue: 24,0:01:20.94,0:01:25.51,op61_english,,0,0,0,fx,{\fad(0,400)}so I'll be able to fly
 Dialogue: 25,0:01:26.23,0:01:29.80,op61_english,,0,0,0,fx,{\fad(0,900)}with my wings spread out.
