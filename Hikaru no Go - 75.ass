@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 394
-Active Line: 416
-Video Position: 213
+Scroll Position: 376
+Active Line: 387
+Video Position: 373
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +37,7 @@ Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: intro_credit,Bookman Old Style,27.5,&H005116D7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: op61_romaji,Polo,28.7,&H0074C7D6,&H009F7D84,&H00121823,&HA2000000,0,0,0,0,100,100,0,0,1,2,4,8,0,0,18,1
-Style: op61_special,Pristina,76,&H0079C2E4,&H009F7D84,&H00151515,&HA2000000,0,0,0,0,198,100,0,0,1,1.5,0,5,0,0,45,1
+Style: op61_special,Pristina,76,&H0079C2E4,&H009F7D84,&H00151515,&HA2000000,-1,0,0,0,198,100,0,0,1,1.5,0,5,0,0,45,1
 Style: op61_english,Especial Kay,44,&H00D6DFE2,&H009F7D84,&H0025292E,&H8F000000,-1,0,0,0,100,100,0,0,1,3,4,2,0,0,21,1
 Style: op61_kanji,Arial Unicode MS,22,&H00FFFFFF,&H009B9B9B,&H00121212,&HA2000000,0,0,0,0,100,100,0.3,0,1,2,4,8,0,0,58,1
 Style: 61Credits,Verdana,12,&H00E7E4E5,&H00FFFFFF,&H00000000,&H80000000,-1,-1,0,0,100,100,0,0,1,3.5,1,2,0,0,20,1
