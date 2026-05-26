@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 363
-Active Line: 388
-Video Position: 1709
+Scroll Position: 72
+Active Line: 94
+Video Position: 16294
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -142,6 +142,7 @@ Dialogue: 0,0:10:40.74,0:10:41.54,Thinking,,0,0,0,,Oh no...
 Dialogue: 0,0:10:42.91,0:10:45.08,Thinking,,0,0,0,,I didn't expect him to strike back then.
 Dialogue: 0,0:10:58.76,0:11:02.89,Thinking,,0,0,0,,It's over if I let Black eliminate\Nall of my Aji with one Tsuke.
 Dialogue: 0,0:11:05.68,0:11:09.40,Thinking,,0,0,0,,Now black has nothing to worry about, the\Ngame's going to become one-sided...
+Comment: 0,0:11:19.58,0:11:21.91,Ed5Romaji,,0,0,0,,Don't think this is bolded.
 Dialogue: 0,0:11:19.58,0:11:21.91,Ed5Romaji,,0,0,0,,{\1c&H0700D6&\blur0.8\frz270\fs38\bord0\shad0\pos(390,31)}By Resignation
 Dialogue: 0,0:11:19.58,0:11:21.91,NoteArial,,0,0,0,,{\1c&H000000&\fs32\blur0.8\fscy95\shad0\bord0\pos(327,420)}{\i1}Shindou{\i0}
 Dialogue: 0,0:11:19.58,0:11:21.91,NoteArial,,0,0,0,,{\1c&H000000&\fs32\blur0.8\fscy95\shad0\bord0\pos(508,420)}{\i1}Tsujioka{\i0}

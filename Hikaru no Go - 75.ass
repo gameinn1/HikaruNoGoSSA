@@ -17,16 +17,16 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 421
-Active Line: 448
-Video Position: 1709
+Scroll Position: 245
+Active Line: 261
+Video Position: 31824
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,0,0,20,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,0,0,20,1
-Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,56,56,14,1
+Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,7,56,56,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.5,8,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,8,2,20,20,40,1
 Style: ed75_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,2,0,8,0,0,19,1
@@ -297,13 +297,16 @@ Comment: 0,0:20:48.44,0:20:48.56,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz272
 Comment: 0,0:20:48.64,0:20:48.81,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz272\bord0\shad0\pos(528,77)\b1}Come{\b0}
 Comment: 0,0:20:48.81,0:20:49.64,ed64_romaji,,0,0,0,,{\fs21.5\1c&H000000&\frz272\bord0\shad0\pos(528,77)\b1}Come to the Go club!{\b0}
 Comment: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(792,0)\fscy70\fs42\pos(440,351)}The End
-Comment: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs27.5\blur0.8\c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1250)\bord0\pos(290,331)}Yukari Umezawa's
+Comment: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs27.5\blur0.8\c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1251)\bord0\pos(290,331)}Yukari Umezawa's
+Comment: 0,0:20:43.64,0:20:48.44,ed64_romaji,,0,0,0,,I think this is bolded. Pretty hard to see. If you're wondering why I have commented lines here. These are versions when I did the signs with the 0.333 spacing that llbx had from the 64 karaoke style. It wasn't till much later I checked and noticed this so I went back and did them all with fsp0 which seems slightly better. Now the scripts have 2 versions if ever needed.
 Dialogue: 0,0:20:43.64,0:20:48.44,ed64_romaji,,0,0,0,,{\fs22.5\1c&H0A070A&\fsp0\frz272\blur0.8\bord0\shad0\b1\pos(528,77)}Come to the Go club!{\b0}
 Dialogue: 0,0:20:48.44,0:20:48.56,ed64_romaji,,0,0,0,,{\fs22.5\1c&H0A070A&\fsp0\frz272\blur0.8\bord0\shad0\pos(528,77)\b1}Com{\b0}
 Dialogue: 0,0:20:48.64,0:20:48.81,ed64_romaji,,0,0,0,,{\fs22.5\1c&H0A070A&\fsp0\frz272\blur0.8\bord0\shad0\pos(528,77)\b1}Come{\b0}
 Dialogue: 0,0:20:48.81,0:20:49.64,ed64_romaji,,0,0,0,,{\fs22.5\1c&H0A070A&\fsp0\frz272\blur0.8\bord0\shad0\pos(528,77)\b1}Come to the Go club!{\b0}
-Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(876,0)\fscy70\fsp0\fs43\pos(440,351)}The End
-Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs28\fsp0\blur0.8\1c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1251)\bord0\pos(292,331)}Yukari Umezawa's
+Comment: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,Looking now this also seems to be bolded. Mostly basing that on how much of the middle you can see on the e and d.
+Dialogue: 0,0:22:02.72,0:22:07.31,ed64_romaji,,0,0,0,,{\fad(876,0)\fscy70\fsp0\fs43\pos(440,351)\b1}The End
+Comment: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,Also most likely bolded for similar reasons but not totally sure.
+Dialogue: 0,0:22:07.31,0:22:11.77,ed64_romaji,,0,0,0,,{\fs28\fsp0\blur0.8\1c&H000000&\4c&HBDCDDB&\shad2.5\fad(0,1251)\bord0\pos(292,331)\b1}Yukari Umezawa's{\b0}
 Dialogue: 0,0:22:10.56,0:22:14.48,Default,,0,0,0,,Today is the last episode of Go Go Igo\Nafter running for a year and a half.
 Comment: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\fscx99\fscy99\3c&HF90000&\4c&HF90000&\bord2\shad0.5\fad(584,709)\pos(129,244)}Yuuki
 Comment: 0,0:22:11.43,0:22:15.98,NoteArial_Igo,,0,0,0,,{\fscx99\fscy99\3c&H117AF8&\4c&H117AF8&\bord2\shad0.5\fad(584,709)\pos(323,232)}Teacher Yukari
