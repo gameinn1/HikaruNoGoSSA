@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 19
-Active Line: 32
+Active Line: 31
 Video Position: 5657
 
 [V4+ Styles]
@@ -78,8 +78,8 @@ Dialogue: 0,0:03:40.61,0:03:45.87,Default,,0,0,0,,Hey, Shindou. Bring the half-f
 Dialogue: 0,0:03:47.71,0:03:48.58,Default,,0,0,0,,Autograph?
 Dialogue: 0,0:03:48.99,0:03:52.14,Background,,0,0,0,,Remember, I only wrote half my name?
 Dialogue: 0,0:03:52.42,0:03:55.51,Background,,0,0,0,,I'll write the rest of it if you beat Touya.
-Comment: 0,0:03:55.92,0:03:57.51,ed64_romaji,,0,0,0,,{\fs42\1c&H0B0909&\shad0\bord0\blur0.8\frz4\pos(364,259)\b1}Kura{\b0}
-Comment: 0,0:03:55.92,0:03:57.51,ed64_romaji,,0,0,0,,Just like in episode 58, I don't think this is bolded.
+Comment: 0,0:03:55.92,0:03:57.51,ed64_romaji,,0,0,0,,{\fs42\1c&H0B0909&\shad0\bord0\blur0.8\frz4\pos(364,259)}Kura
+Comment: 0,0:03:55.92,0:03:57.51,ed64_romaji,,0,0,0,,Unlike episode 58, pretty sure this isn't bolded.
 Dialogue: 0,0:03:55.92,0:03:57.51,ed64_romaji,,0,0,0,,{\fs43\fsp0\1c&H0B0909&\shad0\bord0\blur0.8\frz5\pos(364,259)}Kura
 Dialogue: 0,0:03:57.68,0:03:59.28,Thinking,,0,0,0,,Oh! That!
 Dialogue: 0,0:03:59.51,0:04:01.39,Thinking,,0,0,0,,Where did I put that!?
