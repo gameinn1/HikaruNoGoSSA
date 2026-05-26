@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 63 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 390
-Active Line: 416
-Video Position: 1709
+Scroll Position: 251
+Active Line: 269
+Video Position: 31876
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -315,6 +315,7 @@ Dialogue: 0,0:20:20.66,0:20:24.54,Default,,0,0,0,,Wasn't it to play me? Shindou!
 Dialogue: 0,0:20:32.59,0:20:33.55,Default,,0,0,0,,Shindou...
 Dialogue: 0,0:20:39.63,0:20:41.51,Default,,0,0,0,,Sai!
 Dialogue: 0,0:22:07.59,0:22:10.34,Background,,0,0,0,,Merry Christmas!
+Comment: 0,0:22:07.69,0:22:12.26,ed64_romaji,,0,0,0,,Can't tell if this is bolded. I don't think it is due to the gaps in the middle of the a and e being pretty visible.
 Comment: 0,0:22:07.69,0:22:12.26,ed64_romaji,,0,0,0,,{\fs34\c&HCDF8F8&\4c&H7CD26E&\shad2\bord0\pos(150,243)\fad(0,1250)}{\alpha&HFF&\t(0,32,\alpha&H00&)}U{\alpha&HFF&\t(32,64,\alpha&H00&)}m{\alpha&HFF&\t(64,96,\alpha&H00&)}e{\alpha&HFF&\t(96,128,\alpha&H00&)}z{\alpha&HFF&\t(128,160,\alpha&H00&)}a{\alpha&HFF&\t(160,192,\alpha&H00&)}w{\alpha&HFF&\t(192,224,\alpha&H00&)}a{\alpha&HFF&\t(224,256,\alpha&H00&)}Y{\alpha&HFF&\t(256,288,\alpha&H00&)}u{\alpha&HFF&\t(288,320,\alpha&H00&)}k{\alpha&HFF&\t(320,352,\alpha&H00&)}a{\alpha&HFF&\t(352,384,\alpha&H00&)}r{\alpha&HFF&\t(384,416,\alpha&H00&)}i{\alpha&HFF&\t(416,448,\alpha&H00&)}'{\alpha&HFF&\t(448,480,\alpha&H00&)}s
 Dialogue: 0,0:22:07.69,0:22:12.26,ed64_romaji,,0,0,0,,{\fs34.5\fsp0\blur0.8\1c&HCDF8F8&\4c&H7CD26E&\shad2\bord0\pos(150,243)\fad(0,1250)}{\alpha&HFF&\t(0,32,\alpha&H00&)}U{\alpha&HFF&\t(32,64,\alpha&H00&)}m{\alpha&HFF&\t(64,96,\alpha&H00&)}e{\alpha&HFF&\t(96,128,\alpha&H00&)}z{\alpha&HFF&\t(128,160,\alpha&H00&)}a{\alpha&HFF&\t(160,192,\alpha&H00&)}w{\alpha&HFF&\t(192,224,\alpha&H00&)}a{\alpha&HFF&\t(224,256,\alpha&H00&)}Y{\alpha&HFF&\t(256,288,\alpha&H00&)}u{\alpha&HFF&\t(288,320,\alpha&H00&)}k{\alpha&HFF&\t(320,352,\alpha&H00&)}a{\alpha&HFF&\t(352,384,\alpha&H00&)}r{\alpha&HFF&\t(384,416,\alpha&H00&)}i{\alpha&HFF&\t(416,448,\alpha&H00&)}'{\alpha&HFF&\t(448,480,\alpha&H00&)}s
 Dialogue: 0,0:22:11.41,0:22:13.87,Default,,0,0,0,,Teacher, aren't the stars pretty?
