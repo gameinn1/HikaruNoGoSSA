@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 107
-Active Line: 126
+Active Line: 125
 Video Position: 16497
 
 [V4+ Styles]
@@ -175,7 +175,7 @@ Dialogue: 0,0:10:32.03,0:10:35.45,Default,,0,0,0,,It seemed like he was searchin
 Dialogue: 0,0:10:36.66,0:10:37.83,Default,,0,0,0,,Searching for something?
 Dialogue: 0,0:11:15.53,0:11:16.28,Thinking,,0,0,0,,Shindou.
 Dialogue: 0,0:11:24.12,0:11:26.97,Thinking,,0,0,0,,Why aren't you playing, Shindou?
-Comment: 0,0:11:28.04,0:11:29.84,Ed5English,,0,0,0,,Really hard to know if this is bolded. I think it is.
+Comment: 0,0:11:28.04,0:11:29.84,Ed5English,,0,0,0,,Really hard to know if this is bolded. I think it is. Had this at fs35 before but fs34 seems to be closer on direct overlay.
 Dialogue: 0,0:11:28.04,0:11:29.84,Ed5English,,0,0,0,,{\fs34\blur0.8\1c&H090707&\shad0\bord0\b1\pos(203,295)}Shindou{\b0}
 Dialogue: 0,0:11:33.17,0:11:34.47,Thinking,,0,0,0,,I'm going to make you tell me.
 Dialogue: 0,0:11:41.60,0:11:44.35,Background,,0,0,0,,I'm sorry for coming without calling.
