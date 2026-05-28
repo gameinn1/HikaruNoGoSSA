@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 349
-Active Line: 368
-Video Position: 34797
+Video Zoom Percent: 0.875000
+Scroll Position: 169
+Active Line: 179
+Video Position: 14225
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,8 +88,8 @@ Dialogue: 0,0:04:08.02,0:04:11.94,Default,,0,0,0,,Oops, I'm going to be late for
 Dialogue: 0,0:04:12.57,0:04:15.19,Default,,0,0,0,,You see, my wife's family is\Nholding a memorial service,
 Dialogue: 0,0:04:15.19,0:04:15.69,Default,,0,0,0,,and...
 Dialogue: 0,0:04:16.94,0:04:21.32,Default,,0,0,0,,Really, you're such a selfish man, Touya Kouyou.
-Comment: 0,0:04:22.24,0:04:28.58,NoteArial,,0,0,0,,Interesting sign this one. At first I thought this was bord1.5 but then more stuff seemed to match bord2 before I just decided on 1.75. Don't think there is a shadow here. Put fscx99 as that seemed to be an almost perfect match on overlay.
-Dialogue: 0,0:04:22.24,0:04:28.58,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.75\fscx99\shad0\fs19\fad(1877,0)\pos(318,365)}Nagoya
+Comment: 0,0:04:22.24,0:04:28.58,NoteArial,,0,0,0,,Interesting sign this one. At first I thought this was bord1.75 on overlay but bord2 probably makes more sense and is an ok visual match. Don't think there is a shadow here. Put fscx99 as that seemed to be an almost perfect match on overlay.
+Dialogue: 0,0:04:22.24,0:04:28.58,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord2\fscx99\shad0\fs19\fad(1877,0)\pos(318,365)}Nagoya
 Dialogue: 0,0:04:28.58,0:04:29.62,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,248)\frx4\fry356}Central Japan Go Institute{\i0}
 Dialogue: 0,0:04:29.62,0:04:29.67,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,247.5)\frx4\fry356}Central Japan Go Institute{\i0}
 Dialogue: 0,0:04:29.67,0:04:29.71,NoteArial,,0,0,0,,{\fs35\1c&H53738B&\bord0\shad0\fscy57\frz17.2\i1\pos(284,246.5)\frx4\fry356}Central Japan Go Institute{\i0}
@@ -224,8 +224,8 @@ Dialogue: 0,0:09:42.10,0:09:45.11,Thinking,,0,0,0,,If only I wasn't playing in N
 Dialogue: 0,0:09:46.23,0:09:49.61,Thinking,,0,0,0,,I could have watched your match today in Tokyo.
 Dialogue: 0,0:09:50.86,0:09:51.86,Thinking,,0,0,0,,Shindou...
 Dialogue: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,{\fs14\1c&H566265&\bord0\shad0\fscy120\frz345\pos(377,171)}Japanese Go Institute
-Comment: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,Made sense to do the same as the Nagoya sign. The dark background makes it really hard to know what line thickness. Again fscx99 was a good match so also makes sense they kept bord1.75 or something really similar.
-Dialogue: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.75\fscx99\shad0\fs19\pos(318,365)}Tokyo
+Comment: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,Made sense to do the same as the Nagoya sign. The dark background makes it really hard to know what line thickness. Again fscx99 was a good match so also makes sense they kept bord2 or something really similar.
+Dialogue: 0,0:09:53.28,0:09:56.16,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord2\fscx99\shad0\fs19\pos(318,365)}Tokyo
 Dialogue: 0,0:09:57.45,0:10:00.00,Default,,0,0,0,,I don't understand how he can retire.
 Dialogue: 0,0:10:00.16,0:10:02.16,Default,,0,0,0,,Didn't he make a hundred million yen this year?
 Dialogue: 0,0:10:02.62,0:10:03.42,Default,,0,0,0,,Yeah.
