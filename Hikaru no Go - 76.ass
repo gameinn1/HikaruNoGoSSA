@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 908
-Active Line: 918
-Video Position: 610
+Scroll Position: 780
+Active Line: 800
+Video Position: 94369
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -110,7 +110,7 @@ Dialogue: 0,0:06:10.85,0:06:11.23,Background,,0,0,0,,The way you talk really pis
 Dialogue: 0,0:06:11.23,0:06:13.10,Default,,0,0,0,,I'm just pointing out the truth.
 Dialogue: 0,0:06:13.31,0:06:14.40,Default,,0,0,0,,What did you say?!
 Dialogue: 0,0:06:14.40,0:06:17.32,Default,,0,0,0,,If I had been your opponent in this match,\NI wouldn't have let you make a comeback.
-Dialogue: 0,0:06:18.69,0:06:25.16,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: keshi (reduction) means playing a move outside or\Non the apparent boundary of the opponent's territory.
+Dialogue: 0,0:06:18.69,0:06:25.16,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: keshi (reduction) means playing a move outside or\Non the apparent boundary of the opponent's territory.
 Dialogue: 0,0:06:18.69,0:06:22.11,Default,,0,0,0,,If it were me, I'd have started keshi before\Nyou could surround the center.
 Dialogue: 0,0:06:22.95,0:06:26.62,Default,,0,0,0,,If you don't gain control of the central area,\Nblack has practically no chance of winning.
 Dialogue: 0,0:06:27.03,0:06:28.99,Default,,0,0,0,,How about it? You can't make\Na comeback now, can you?
@@ -120,7 +120,7 @@ Dialogue: 0,0:06:35.88,0:06:38.63,Default,,0,0,0,,But if you did that, it would 
 Dialogue: 0,0:06:39.38,0:06:41.26,Default,,0,0,0,,If you leave the center open...
 Dialogue: 0,0:06:41.26,0:06:44.13,Default,,0,0,0,,it would not only prevent your comeback, it\Nwould also give me more of your territory.
 Dialogue: 0,0:06:44.68,0:06:46.05,Default,,0,0,0,,That's not true!
-Dialogue: 0,0:06:46.14,0:06:51.56,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: kosumu means placing a stone adjacent to one of the same\Ncolor that is already on the board, forming the "diagonal shape."
+Dialogue: 0,0:06:46.14,0:06:51.56,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: kosumu means placing a stone adjacent to one of the same\Ncolor that is already on the board, forming the "diagonal shape."
 Dialogue: 0,0:06:46.14,0:06:48.51,Default,,0,0,0,,If I kosumi here in the white territory,\Nit wouldn't be such a bad move.
 Dialogue: 0,0:06:48.97,0:06:50.60,Default,,0,0,0,,How can you say it's not a bad move?!
 Dialogue: 0,0:06:50.60,0:06:52.35,Default,,0,0,0,,You can't play in a position like that!
@@ -295,7 +295,7 @@ Dialogue: 0,0:18:09.03,0:18:12.28,Default,,0,0,0,,Getting back at him is one of 
 Dialogue: 0,0:18:13.57,0:18:17.45,Default,,0,0,0,,And my other wish as a pro was to play you someday.
 Dialogue: 0,0:18:17.99,0:18:21.04,Background,,0,0,0,,My wish came true pretty fast, I see.
 Dialogue: 0,0:18:26.63,0:18:27.75,Background,,0,0,0,,Good luck.
-Dialogue: 0,0:18:51.44,0:18:55.86,NoteArial_special,,0,0,0,,{\fad(375,375)}Note: Hoshi are the marked spots on the go board\Nwhich usually offer an advantage in the opening.
+Dialogue: 0,0:18:51.44,0:18:55.86,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: Hoshi are the marked spots on the go board\Nwhich usually offer an advantage in the opening.
 Dialogue: 0,0:18:51.44,0:18:53.61,Thinking,,0,0,0,,Hoshi, hoshi, hoshi...
 Dialogue: 0,0:18:54.11,0:18:55.86,Thinking,,0,0,0,,So he attacked by placing three consecutive hoshis...
 Dialogue: 0,0:18:57.95,0:19:00.70,Thinking,,0,0,0,,Well then... what should I do?
@@ -310,7 +310,7 @@ Dialogue: 0,0:19:42.20,0:19:43.83,Thinking,,0,0,0,,Or will he dodge it...
 Dialogue: 0,0:19:48.83,0:19:50.34,Thinking,,0,0,0,,It's working, isn't it?
 Dialogue: 0,0:19:55.22,0:19:58.80,Thinking,,0,0,0,,The feeling I get from his game is different from last time.
 Dialogue: 0,0:20:09.69,0:20:10.77,Thinking,,0,0,0,,So it begins here...
-Dialogue: 0,0:20:11.19,0:20:15.78,NoteArial_special,,0,0,0,,{\fad(375,375)}Note: The ko rule is designed to prevent\Nrepetitive recapture in a given position.
+Dialogue: 0,0:20:11.19,0:20:15.78,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: The ko rule is designed to prevent\Nrepetitive recapture in a given position.
 Dialogue: 0,0:20:11.19,0:20:13.73,Thinking,,0,0,0,,He's onto the ko I took earlier.
 Dialogue: 0,0:20:55.19,0:20:57.28,Default,,0,0,0,,What was your name again?
 Dialogue: 0,0:21:04.53,0:21:07.50,Default,,0,0,0,,It's Isumi-kun. Isumi Shinichirou.
@@ -324,7 +324,7 @@ Dialogue: 0,0:21:50.71,0:21:52.46,Default,,0,0,0,,Damn.
 Dialogue: 0,0:22:03.09,0:22:04.84,Thinking,,0,0,0,,It's no good, I'm going to lose!
 Dialogue: 0,0:22:26.12,0:22:27.24,Background,,0,0,0,,I resign.
 Dialogue: 0,0:22:28.33,0:22:29.66,Background,,0,0,0,,Thank you for the match.
-Dialogue: 0,0:22:32.16,0:22:40.55,NoteArial_special,,0,0,0,,{\fad(375,375)}Note: tsuke means placing a stone next to your\Nopponent's but not next to one of your own.
+Dialogue: 0,0:22:32.16,0:22:40.55,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: tsuke means placing a stone next to your\Nopponent's but not next to one of your own.
 Dialogue: 0,0:22:32.16,0:22:36.50,Default,,0,0,0,,I set up a ko over here, but you came in with\Na well-played tsuke and left me dumbstruck.
 Dialogue: 0,0:22:37.00,0:22:39.25,Default,,0,0,0,,That tsuke over there came as a fluke.
 Dialogue: 0,0:22:39.84,0:22:42.34,Background,,0,0,0,,I thought I'd be struggling by the end, but...
@@ -408,7 +408,7 @@ Dialogue: 0,0:27:41.35,0:27:42.43,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:27:54.61,0:27:55.49,Default,,0,0,0,,Huh?
 Dialogue: 0,0:27:56.86,0:27:58.99,Default,,0,0,0,,Maybe I should give {\i1}that{\i0} a try.
 Dialogue: 0,0:27:59.82,0:28:00.53,Thinking,,0,0,0,,That?
-Dialogue: 0,0:28:19.55,0:28:25.06,NoteArial_special,,0,0,0,,{\fad(375,375)}Note: tengen (origin of heaven) is the name of the center point.
+Dialogue: 0,0:28:19.55,0:28:25.06,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: tengen (origin of heaven) is the name of the center point.
 Dialogue: 0,0:28:19.55,0:28:22.06,Thinking,,0,0,0,,Opening on... tengen?!
 Dialogue: 0,0:28:32.15,0:28:35.49,Thinking,,0,0,0,,All right, I'll take on whatever move you play!
 Dialogue: 0,0:28:40.87,0:28:42.87,Background,,0,0,0,,Yashiro-kun is certainly something.
@@ -481,7 +481,7 @@ Dialogue: 0,0:34:12.99,0:34:13.82,Default,,0,0,0,,Do you want it?
 Dialogue: 0,0:34:14.16,0:34:20.00,Default,,0,0,0,,No, I have the one you gave me, so\Nplease leave that go board there.
 Dialogue: 0,0:34:20.54,0:34:21.54,Default,,0,0,0,,All right.
 Dialogue: 0,0:34:21.54,0:34:23.00,Default,,0,0,0,,Well, let's play.
-Dialogue: 0,0:34:25.29,0:34:30.92,NoteArial_special,,0,0,0,,{\fad(375,375)}Note: nigiri is the procedure at the beginning of a\Ngame to decide who will play the black stones.
+Dialogue: 0,0:34:25.29,0:34:30.92,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: nigiri is the procedure at the beginning of a\Ngame to decide who will play the black stones.
 Dialogue: 0,0:34:25.29,0:34:26.38,Default,,0,0,0,,Go ahead, nigiri.
 Dialogue: 0,0:34:26.88,0:34:30.09,Default,,0,0,0,,Gramps, you do know that I'm a pro now, right?
 Dialogue: 0,0:34:30.30,0:34:31.42,Default,,0,0,0,,Put some stones down.
@@ -514,7 +514,7 @@ Dialogue: 0,0:36:52.98,0:36:55.19,Thinking,,0,0,0,,Though he's an opponent I kno
 Dialogue: 0,0:36:57.36,0:36:59.53,Default,,0,0,0,,Good morning, Ogata-san.
 Dialogue: 0,0:37:00.66,0:37:01.45,Default,,0,0,0,,Morning.
 Dialogue: 0,0:37:04.66,0:37:07.04,Thinking,,0,0,0,,This is our first match in the pro world.
-Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\fad(375,0)}Note: 10th dan (jyudan) and gosei are titles Ogata-san holds.
+Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\fad(292,0)}Note: 10th dan (jyudan) and gosei are titles Ogata-san holds.
 Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(254,255)}Honinbou League
 Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(419,255)}Fifth Match
 Dialogue: 0,0:37:08.08,0:37:17.05,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bord2.5\fad(584,0)\pos(272,348)}Ogata Seiji, 10th-dan
@@ -545,10 +545,10 @@ Dialogue: 0,0:39:41.19,0:39:43.53,Thinking,,0,0,0,,Something's different than us
 Dialogue: 0,0:39:47.41,0:39:48.87,Thinking,,0,0,0,,The atmosphere is heavy...
 Dialogue: 0,0:40:03.92,0:40:07.26,Thinking,,0,0,0,,My fingers aren't coming off the stones as easily.
 Dialogue: 0,0:40:08.59,0:40:12.89,Thinking,,0,0,0,,Damn it, I can't get nervous now! I can't\Nbe swallowed up by this atmosphere!
-Dialogue: 0,0:40:19.31,0:40:25.82,NoteArial_special,,0,0,0,,{\fad(334,334)}Note: tenuki means playing elsewhere, not where the current challenge\Nis. Atari is the state of a group of stones with only one liberty left.
+Dialogue: 0,0:40:19.31,0:40:25.82,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: tenuki means playing elsewhere, not where the current challenge\Nis. Atari is the state of a group of stones with only one liberty left.
 Dialogue: 0,0:40:19.31,0:40:20.77,Thinking,,0,0,0,,A tenuki on atari?
 Dialogue: 0,0:40:23.78,0:40:27.07,Thinking,,0,0,0,,Oh no, I should have developed the center first!
-Dialogue: 0,0:40:37.21,0:40:41.29,NoteArial_special,,0,0,0,,{\fad(334,334)}Note: hanedashi is a hane on the inside, enveloping\None or more of the opponent's stones.
+Dialogue: 0,0:40:37.21,0:40:41.29,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: hanedashi is a hane on the inside, enveloping\None or more of the opponent's stones.
 Dialogue: 0,0:40:37.21,0:40:38.83,Thinking,,0,0,0,,A hanedashi here?
 Dialogue: 0,0:40:47.88,0:40:51.01,Thinking,,0,0,0,,I must get the flow of the game back, one way or another.
 Dialogue: 0,0:40:54.64,0:40:57.94,Thinking,,0,0,0,,This is bad... it'll all be over once\Nhe breaks up my framework!
@@ -649,7 +649,7 @@ Dialogue: 0,0:47:26.41,0:47:31.58,NoteArial_special,,0,0,0,,{\c&HFFFFFF&\fs20\bo
 Dialogue: 0,0:47:29.62,0:47:31.75,Background,,0,0,0,,{\an8}Well then, let's go over the rules.
 Dialogue: 0,0:47:33.12,0:47:35.25,Default,,0,0,0,,Each player is allowed up to one and a half hours.
 Dialogue: 0,0:47:35.92,0:47:38.75,Background,,0,0,0,,When you've used up all your time,\Nyou have one minute per move.
-Dialogue: 0,0:47:39.17,0:47:42.63,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: komi is the handicap for the player making the first move.
+Dialogue: 0,0:47:39.17,0:47:42.63,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: komi is the handicap for the player making the first move.
 Dialogue: 0,0:47:39.17,0:47:40.63,Background,,0,0,0,,Komi is 5.5 moku.
 Dialogue: 0,0:47:41.05,0:47:44.26,Background,,0,0,0,,The second round will start in this room at 3:00 PM.
 Dialogue: 0,0:47:44.88,0:47:49.47,Background,,0,0,0,,So the four that passed the first round,\Nplease finish your lunch before then.
@@ -658,7 +658,7 @@ Dialogue: 0,0:47:56.44,0:47:57.48,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:47:57.90,0:47:58.86,Background,,0,0,0,,Good luck.
 Dialogue: 0,0:47:59.06,0:48:00.19,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:47:59.48,0:48:00.19,Default,,0,0,0,,Good luck.
-Dialogue: 0,0:48:29.97,0:48:35.43,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: shitatsuke is a tsuke (contact play)\Nbelow the stone that was placed last.
+Dialogue: 0,0:48:29.97,0:48:35.43,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: shitatsuke is a tsuke (contact play)\Nbelow the stone that was placed last.
 Dialogue: 0,0:48:29.97,0:48:31.51,Thinking,,0,0,0,,A shitatsuke?
 Dialogue: 0,0:48:33.14,0:48:34.81,Thinking,,0,0,0,,He's playing an awfully unexpected position.
 Dialogue: 0,0:48:36.06,0:48:38.48,Thinking,,0,0,0,,Can he really do it?
@@ -713,7 +713,7 @@ Dialogue: 0,0:52:50.06,0:52:51.61,Thinking,,0,0,0,,Yashiro's got the first move.
 Dialogue: 0,0:52:53.15,0:52:57.90,Thinking,,0,0,0,,I wonder if he'll open on tengen.
 Dialogue: 0,0:52:59.57,0:53:01.99,Memory,,0,0,0,,I played him at my master's place...
 Dialogue: 0,0:53:02.24,0:53:06.08,Memory,,0,0,0,,but he used an opening on tengen\Nthen, and I completely lost.
-Dialogue: 0,0:53:06.45,0:53:11.33,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: a kifu is a record of a go game.
+Dialogue: 0,0:53:06.45,0:53:11.33,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: a kifu is a record of a go game.
 Dialogue: 0,0:53:06.45,0:53:11.21,Memory,,0,0,0,,I was so frustrated that I gathered up all the pro\Nkifu's with tengen openings I could find...
 Dialogue: 0,0:53:11.67,0:53:18.55,Memory,,0,0,0,,and I tried it since I had the first move against\NShindou today, but I completely lost again.
 Dialogue: 0,0:53:22.10,0:53:24.56,Thinking,,0,0,0,,That game was exciting, Honda-san.
@@ -744,18 +744,19 @@ Dialogue: 0,0:56:46.72,0:56:48.30,Thinking,,0,0,0,,Damn you.
 Dialogue: 0,0:56:51.26,0:56:54.18,Thinking,,0,0,0,,If that's the way you want to play, bring it on!
 Dialogue: 0,0:56:59.06,0:57:02.11,Thinking,,0,0,0,,Wow, I'm this close to just flipping their board over.
 Dialogue: 0,0:57:02.11,0:57:04.82,Thinking,,0,0,0,,Yashiro, you better be confident enough to win.
-Dialogue: 0,0:57:12.83,0:57:18.87,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: kakari (hanging) is a move played as an\Napproach to a single stone in the corner.
+Comment: 0,0:57:12.78,0:57:18.83,NoteArial_special,,0,0,0,,I don't know if this should start 1 frame later. I think you can just barely see it fade in so I started it on the same frame as the dialogue (as basically all other notes are). It might start on 82306 though.
+Dialogue: 0,0:57:12.78,0:57:18.83,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: kakari (hanging) is a move played as an\Napproach to a single stone in the corner.
 Dialogue: 0,0:57:12.78,0:57:16.95,Thinking,,0,0,0,,Both of them play a hoshi, followed by a kakari, and then...
 Dialogue: 0,0:57:18.66,0:57:20.63,Thinking,,0,0,0,,I'll seal off the tengen's effect!
 Dialogue: 0,0:57:27.17,0:57:28.38,Thinking,,0,0,0,,I won't let you!
 Dialogue: 0,0:57:28.84,0:57:30.18,Thinking,,0,0,0,,I won't let you!
-Dialogue: 0,0:57:45.69,0:57:50.74,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: kake is a move to cover for another stone on the board.
+Dialogue: 0,0:57:45.69,0:57:50.74,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: kake is a move to cover for another stone on the board.
 Dialogue: 0,0:57:45.69,0:57:47.78,Thinking,,0,0,0,,Black plays kake... that's a good move.
 Dialogue: 0,0:57:50.07,0:57:51.45,Thinking,,0,0,0,,He's starting to cut in!
 Dialogue: 0,0:58:01.25,0:58:03.17,Thinking,,0,0,0,,What are you going to do now?
 Dialogue: 0,0:58:19.10,0:58:21.35,Thinking,,0,0,0,,This is the kind of play I've built up through hard work.
 Dialogue: 0,0:58:21.64,0:58:23.10,Thinking,,0,0,0,,How are you going to respond, Ochi?
-Dialogue: 0,0:58:37.99,0:58:43.04,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: ryogakari is a double kakari which is a\Nmove to approach a single stone in a corner.
+Dialogue: 0,0:58:37.99,0:58:43.04,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: ryogakari is a double kakari which is a\Nmove to approach a single stone in a corner.
 Dialogue: 0,0:58:37.99,0:58:39.95,Thinking,,0,0,0,,He moved to ryogakari.
 Dialogue: 0,0:58:40.25,0:58:42.75,Thinking,,0,0,0,,It must be quite hard for Ochi-kun.
 Dialogue: 0,0:58:54.47,0:58:58.14,Thinking,,0,0,0,,The white territory is large, but\Nit's concentrated on one side.
@@ -831,14 +832,14 @@ Dialogue: 0,1:04:42.11,1:04:44.44,Default,,0,0,0,,It's an amazing match.
 Dialogue: 0,1:04:47.20,1:04:50.07,Background,,0,0,0,,This is what happened, and the black's\Nkake was a good response...
 Dialogue: 0,1:04:50.45,1:04:53.91,Default,,0,0,0,,but it was impressive how white bargained\Nout its individual stones.
 Dialogue: 0,1:04:54.29,1:04:57.96,Default,,0,0,0,,It sure was amusing how Shindou put up\Na fight after being cut off by the tsuke.
-Dialogue: 0,1:05:00.04,1:05:05.13,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: nozoki is a threat to cut (degiri) between the opponent's stones.
+Dialogue: 0,1:05:00.04,1:05:05.13,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: nozoki is a threat to cut (degiri) between the opponent's stones.
 Dialogue: 0,1:05:00.04,1:05:02.92,Default,,0,0,0,,Black withered away with white's nozoki.
 Dialogue: 0,1:05:03.34,1:05:05.59,Default,,0,0,0,,But Yashiro didn't stay put.
 Dialogue: 0,1:05:11.47,1:05:13.06,Default,,0,0,0,,He aimed that way!
 Dialogue: 0,1:05:13.35,1:05:17.06,Background,,0,0,0,,Yes, instead of doing anything\Nto the untouched upper area...
 Dialogue: 0,1:05:17.60,1:05:20.06,Background,,0,0,0,,he took a gamble to take this area.
 Dialogue: 0,1:05:24.98,1:05:28.74,Background,,0,0,0,,But Shindou-kun endured it.
-Dialogue: 0,1:05:35.66,1:05:41.75,NoteArial_special,,0,0,0,,{\fad(376,376)}Note: oki is a play inside the opponent's group, mostly on a vital point.
+Dialogue: 0,1:05:35.66,1:05:41.75,NoteArial_special,,0,0,0,,{\fad(292,292)}Note: oki is a play inside the opponent's group, mostly on a vital point.
 Dialogue: 0,1:05:35.66,1:05:39.08,Default,,0,0,0,,When white played an oki, the\Ngame was almost finished.
 Dialogue: 0,1:05:39.08,1:05:41.75,Default,,0,0,0,,They both have the strength to excel.
 Dialogue: 0,1:05:42.46,1:05:47.72,Default,,0,0,0,,Oh, you're one of the representatives\Nnow, Ochi-kun. Congratulations.
