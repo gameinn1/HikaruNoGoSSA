@@ -385,34 +385,34 @@ Comment: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\p
 Comment: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord4\fs86\pos(320,381)\3c&HFFFFFF&\c&H2C00EE&\clip(110,413,535,417)}Hikaru no Go
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord6\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,238,640,244)}Real Fansubbers presents
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L 2ndbord,{\bord6\an5\move(-134.58,237,286,237)\c&H000000&\3c&H000000&\clip(0,220,640,232)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H2C00EE&\clip(0,220,640,230)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H2813EE&\clip(0,230,640,232)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H185FEF&\clip(0,238,640,240)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H1471F0&\clip(0,240,640,242)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H1084F0&\clip(0,242,640,244)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H2C00EE&\clip(0,220,640,230)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H2813EE&\clip(0,230,640,232)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H185FEF&\clip(0,238,640,240)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H1471F0&\clip(0,240,640,242)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move L main,{\an5\move(-134.58,237,286,237)\c&H1084F0&\clip(0,242,640,244)\bord3}Real Fansubbers presents
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R 2ndbord,{\bord6\an5\move(817.42,237,357,237)\c&H000000&\3c&H000000&\clip(0,244,640,262)}Real Fansubbers presents
 Dialogue: 0,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R 2ndbord,{\bord6\an5\move(817.42,237,357,237)\c&H000000&\3c&H000000&\clip(0,232,640,238)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H2426EF&\clip(0,232,640,234)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H2039EF&\clip(0,234,640,236)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H1C4CEF&\clip(0,236,640,238)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H0C97F0&\clip(0,244,640,246)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H08AAF0&\clip(0,246,640,248)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H04BDF1&\clip(0,248,640,250)}Real Fansubbers presents
-Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H00D0F1&\clip(0,250,640,256.15)}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H2426EF&\clip(0,232,640,234)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H2039EF&\clip(0,234,640,236)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H1C4CEF&\clip(0,236,640,238)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H0C97F0&\clip(0,244,640,246)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H08AAF0&\clip(0,246,640,248)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H04BDF1&\clip(0,248,640,250)\bord3}Real Fansubbers presents
+Dialogue: 1,0:00:03.07,0:00:03.32,intro_credit,,0,0,0,move R main,{\an5\move(817.42,237,357,237)\c&H00D0F1&\clip(0,250,640,256.15)\bord3}Real Fansubbers presents
 Dialogue: 9,0:00:03.32,0:00:03.82,intro_credit,,0,0,0,white,{\alpha&HFF&\ko0\bord13\an5\pos(320,237)\4c&HFFFFFF&\4a&H00&\xshad0.001\t(30,0,\bord0\4a&FF&)}Real Fansubbers presents
 Dialogue: 0,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,2ndbord,{\bord6\an5\pos(320,237)\c&H000000&\3c&H000000&}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H2C00EE&\clip(0,220,640,230)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H2813EE&\clip(0,230,640,232)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H2426EF&\clip(0,232,640,234)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H2039EF&\clip(0,234,640,236)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H1C4CEF&\clip(0,236,640,238)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H185FEF&\clip(0,238,640,240)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H1471F0&\clip(0,240,640,242)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H1084F0&\clip(0,242,640,244)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H0C97F0&\clip(0,244,640,246)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H08AAF0&\clip(0,246,640,248)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H04BDF1&\clip(0,248,640,250)}Real Fansubbers presents
-Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord4\an5\pos(320,237)\c&H00D0F1&\clip(0,250,640,258.62)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H2C00EE&\clip(0,220,640,230)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H2813EE&\clip(0,230,640,232)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H2426EF&\clip(0,232,640,234)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H2039EF&\clip(0,234,640,236)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H1C4CEF&\clip(0,236,640,238)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H185FEF&\clip(0,238,640,240)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H1471F0&\clip(0,240,640,242)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H1084F0&\clip(0,242,640,244)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H0C97F0&\clip(0,244,640,246)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H08AAF0&\clip(0,246,640,248)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H04BDF1&\clip(0,248,640,250)}Real Fansubbers presents
+Dialogue: 1,0:00:03.36,0:00:08.24,intro_credit,,0,0,0,main,{\bord3\an5\pos(320,237)\c&H00D0F1&\clip(0,250,640,258.62)}Real Fansubbers presents
 Dialogue: 0,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord10\fs86\pos(320,381)\3c&H000000&\c&H000000&\1a&HFF&\t(889,934,\1a&H00&)}Hikaru no Go
 Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord6\fs86\pos(320,381)\3c&HFFFFFF&\c&H00D0F1&\clip(110,337,535,341)}Hikaru no Go
 Dialogue: 1,0:00:03.07,0:00:08.24,special_title,,0,0,0,,{\fad(934,0)\bord6\fs86\pos(320,381)\3c&HFFFFFF&\c&H02C5F1&\clip(110,341,535,345)}Hikaru no Go

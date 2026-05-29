@@ -656,7 +656,3 @@ Dialogue: 0,0:02:21.79,0:02:24.79,Default,chptr,0,0,0,,{Let Me Play Sai!}
 Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
 Dialogue: 0,0:22:07.31,0:22:10.31,Default,chptr,0,0,0,,{Go Go Igo}
 Dialogue: 0,0:22:57.37,0:23:00.37,Default,chptr,0,0,0,,{Next Episode Preview}
-
-[Aegisub Extradata]
-Data: 4,a-mo,e{"uuid"#00"5ee53413-89e6-45be-916a-0a79c848b05a"#00"originalText"#00"{\\fax-0.63\\an2\\fs22\\c&H3629BC&\\bord0\\shad1\\fscx120\\fscy100\\frz25.57\\pos(259.95#00467.75)\\4a&HB0&}H{\\fax-0.62\\fscx124.67\\fscy103.89}O{\\fax-0.61\\fscx129.34\\fscy107.77}S{\\fax-0.6\\fscx134.01\\fscy111.66}P{\\fax-0.59\\fscx138.69\\fscy115.54}I{\\fax-0.58\\fscx143.36\\fscy119.43}T{\\fax-0.57\\fscx148.03\\fscy123.31}A{\\fax-0.56\\fscx152.7\\fscy127.2}L"}
-Data: 5,a-mo,e{"uuid"#00"ab33950b-3581-4ec7-ab70-8c66a73002cf"#00"originalText"#00"{\\fax-0.59\\fscx120\\fscy90\\an2\\fs22\\c&H3629BC&\\bord0\\shad1\\frz27.63\\4a&HB0&\\pos(254.04#00443.36)}A{\\fax-0.58\\fscx124.09\\fscy93.06}I{\\fax-0.57\\fscx128.18\\fscy96.13}S{\\fax-0.57\\fscx132.26\\fscy99.19}H{\\fax-0.56\\fscx136.35\\fscy102.25}I{\\fax-0.55\\fscx140.44\\fscy105.31}N{\\fax-0.55\\fscx144.52\\fscy108.38}D{\\fax-0.54\\fscx148.61\\fscy111.44}O{\\fax-0.53\\fscx152.7\\fscy114.5}U"}
