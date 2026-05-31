@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 5
-Active Line: 25
-Video Position: 4333
+Video Zoom Percent: 0.875000
+Scroll Position: 171
+Active Line: 185
+Video Position: 19742
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -226,8 +226,8 @@ Dialogue: 0,0:13:30.43,0:13:34.38,Default,,0,0,0,,That's okay, I learned how to 
 Dialogue: 0,0:13:36.59,0:13:42.22,NoteArialEF,,0,0,0,,{\fs31\bord1.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\b0\pos(152,166)}{\k19}W{\k19}o{\k19}r{\k19}l{\k19}d{\k19} {\k19}I{\k19}g{\k19}o{\k19} {\k19}N{\k19}e{\k19}t\N
 Dialogue: 0,0:13:35.25,0:13:41.26,Note,,0,0,0,,{\fs30\bord1.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(531,157)}Search
 Dialogue: 0,0:13:41.26,0:13:42.22,Note,,0,0,0,,{\fs30\bord1.5\1c&HB15EFA&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\pos(531,157)}Search
-Dialogue: 0,0:13:36.96,0:13:39.88,Default,,0,0,0,,World Igo Net
-Dialogue: 0,0:13:40.75,0:13:42.22,Default,,0,0,0,,And search!
+Dialogue: 0,0:13:36.92,0:13:39.80,Background,,0,0,0,,World Igo Net
+Dialogue: 0,0:13:40.72,0:13:42.22,Background,,0,0,0,,And search!
 Dialogue: 0,0:13:42.54,0:13:43.54,Default,,0,0,0,,Let's see...
 Dialogue: 0,0:13:44.29,0:13:45.72,Default,,0,0,0,,Oh, this, right?
 Dialogue: 0,0:13:47.09,0:13:49.90,Default,,0,0,0,,You can play against people\Nfrom all over the world here.
