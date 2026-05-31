@@ -197,6 +197,8 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 
 8: Help with some really complex signs such as [AISHINDOU HOSPITAL](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/57%20Sign.png) in episode 57 and masking for the [GRAVE OF THE HONINBOU](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Honinbou%20Sign.png) sign in episode 61.
 
+9: Completely retimed Ending 1 karaoke.
+
 This restoration would be nowhere near the level it is without their help.
 
 ### Status Legend
