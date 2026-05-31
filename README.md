@@ -171,9 +171,13 @@ This is an update to the project started by gabest11. See the table below for ov
 
 ### Currently about ~99.9% complete
 
-I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were some problems. Most of the time they did not assign styles/missed notes/lots of signs so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see Everything yet to do pdf page 2/3 for old examples). The ending Igo and next episode previews were also different compared to E-F/R-F.
+I highly recommend reading the 84 page [Full changelog pdf](https://github.com/gameinn1/HikaruNoGoSSA/blob/master/Full%20changelog.pdf) for how this restoration was achieved and choices made. 
 
-I wanted to get the actual subs done and I am happy to say that on January 2nd 2026, the main subs for 62 to 75 were complete! After that I decided to go back to the start to style/do signs and check timing for what gabest11 had done. On March 12th 2026, the main anime and all ending igo plus next episode previews are now E-F/R-F versions.
+Below is a quick summary for this project:
+
+I restarted this project in mid December 2025 after it was laid dormant by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were many problems. Most of the time they did not assign styles/missed notes/lots of signs so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F (see [Everything yet to do pdf](https://github.com/gameinn1/HikaruNoGoSSA/blob/master/Everything%20yet%20to%20do.pdf) page 2/3 for old examples). The ending Igo and next episode previews were also different compared to E-F/R-F. There was also no signs for ending Igo.
+
+I wanted to get the actual subs done and I am happy to say that on January 2nd 2026, the main subs for 62 to 75 were complete! After that I decided to go back to the start to style/do signs and check timing for what gabest11 had done. On March 12th 2026, the main anime and all ending igo plus next episode previews are now E-F/R-F versions. All igo now had signs matching E-F/R-F.
 
 I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
@@ -185,13 +189,15 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 
 4: Intro and ending karaoke for the special as well as the intro text.
 
-5: Intro texts such as "Elite-Fansubs presents" and "Real-Fansubbers presents".
+5: Intro texts such as "Elite-Fansubs presents" and "Real Fansubbers presents".
 
 6: Perfectly recreated the FANTASY (Opening 3 plus karaoke) for episodes 61-75.
 
 7: Helped lots with the "Yukari Umezawa's Go Go Igo" titles from episode 36 onwards.
 
-8: Help with some really complex signs such as "AISHINDOU HOSPITAL" and masking for the [GRAVE OF THE HONINBOU](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Honinbou%20Sign.png) sign in episode 61.
+8: Help with some really complex signs such as [AISHINDOU HOSPITAL](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/57%20Sign.png) in episode 57 and masking for the [GRAVE OF THE HONINBOU](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/61%20Honinbou%20Sign.png) sign in episode 61.
+
+This restoration would be nowhere near the level it is without their help.
 
 ### Status Legend
 - ✅ Complete
