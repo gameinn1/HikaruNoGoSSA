@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 02 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 376
-Active Line: 386
-Video Position: 31817
+Scroll Position: 382
+Active Line: 389
+Video Position: 29885
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -426,75 +426,75 @@ Dialogue: 0,0:01:17.90,0:01:21.64,Op1English,,0,0,0,,the days where I cry and tr
 Dialogue: 0,0:01:21.89,0:01:25.37,Op1English,,0,0,0,,They all exist, but we will
 Dialogue: 0,0:01:25.37,0:01:30.89,Op1English,,0,0,0,,get over it heading higher
 Dialogue: 0,0:01:30.89,0:01:32.61,Op1English,,0,0,0,,than anyone else!
-Dialogue: 0,0:20:42.26,0:20:45.93,Ed1Romaji,,0,0,0,,{\kf1}{\kf23}Do{\kf30}ko{\kf25}ni {\kf25}a{\kf76}ru {\kf57}no {\kf52}ka{\kf78}na?
-Dialogue: 0,0:20:42.26,0:20:45.93,Ed1Kanji,,0,0,0,,{\kf1}{\kf23}ど{\kf30}こ{\kf25}に{\kf25}あ{\kf76}る{\kf57}の{\kf52}か{\kf78}な
-Dialogue: 0,0:20:42.26,0:20:45.93,Ed1English,,0,0,0,,Where is it?
-Dialogue: 0,0:20:46.47,0:20:50.18,Ed1Romaji,,0,0,0,,{\kf1}{\kf21}bo{\kf32}ku{\kf21}da{\kf28}ke{\kf51}no {\kf27}ta{\kf55}ka{\kf26}ra{\kf30}mo{\kf79}no
-Dialogue: 0,0:20:46.47,0:20:50.18,Ed1Kanji,,0,0,0,,{\kf1}{\kf21}ボ{\kf32}ク{\kf21}だ{\kf28}け{\kf51}の{\kf108}宝{\kf109}物
-Dialogue: 0,0:20:46.47,0:20:50.18,Ed1English,,0,0,0,,The treasure that belongs to me
-Dialogue: 0,0:20:50.64,0:20:56.69,Ed1Romaji,,0,0,0,,{\kf5}{\kf24}i{\kf23}ma {\kf56}oo{\kf52}ki{\kf27}na {\kf40}bo{\kf63}u{\kf49}ke{\kf27}n {\kf239}e...
-Dialogue: 0,0:20:50.64,0:20:56.69,Ed1Kanji,,0,0,0,,{\kf5}{\kf47}今{\kf56}大{\kf52}き{\kf27}な{\kf103}冒{\kf76}険{\kf239}へ
-Dialogue: 0,0:20:50.64,0:20:56.69,Ed1English,,0,0,0,,Now towards a great adventure...
-Dialogue: 0,0:20:57.48,0:20:59.57,Ed1Romaji,,0,0,0,,{\kf3}{\kf13}ya{\kf13}wa{\kf14}ra{\kf12}ka{\kf72}na {\kf16}hi{\kf14}za{\kf27}shi
-Dialogue: 0,0:20:57.48,0:20:59.57,Ed1Kanji,,0,0,0,,{\kf3}{\kf13}や{\kf13}わ{\kf14}ら{\kf12}か{\kf72}な{\kf16}日{\kf14}差{\kf27}し
-Dialogue: 0,0:20:57.48,0:20:59.57,Ed1English,,0,0,0,,the gentle sunlight
-Dialogue: 0,0:20:59.86,0:21:01.78,Ed1Romaji,,0,0,0,,{\kf3}{\kf14}ta{\kf12}bi{\kf24}ta{\kf26}chi {\kf18}no {\kf36}yo{\kf27}ka{\kf24}n
-Dialogue: 0,0:20:59.86,0:21:01.78,Ed1Kanji,,0,0,0,,{\kf3}{\kf26}旅{\kf24}立{\kf26}ち{\kf18}の{\kf36}予{\kf51}感
-Dialogue: 0,0:20:59.86,0:21:01.78,Ed1English,,0,0,0,,a feeling of departure
-Dialogue: 0,0:21:01.90,0:21:05.99,Ed1Romaji,,0,0,0,,{\kf3}{\kf14}so{\kf18}ra {\kf68}mo{\kf12} {\kf11}ha{\kf15}na {\kf50}mo{\kf29} {\kf9}ho{\kf15}ra {\kf22}wa{\kf58}ra{\kf23}tte {\kf30}i{\kf30}ru!
-Dialogue: 0,0:21:01.90,0:21:05.99,Ed1Kanji,,0,0,0,,{\kf3}{\kf32}空{\kf68}も{\kf12}{\kf26}花{\kf50}も{\kf29}{\kf9}ホ{\kf15}ラ{\kf80}笑{\kf23}って{\kf30}い{\kf30}る
-Dialogue: 0,0:21:01.90,0:21:05.99,Ed1English,,0,0,0,,The sky and the flower are both laughing!
-Dialogue: 0,0:21:06.16,0:21:10.66,Ed1Romaji,,0,0,0,,{\kf2}{\kf11}ko{\kf10}no {\kf81}sa{\kf15}ki {\kf17}ni {\kf52}wa{\kf25} {\kf14}na{\kf14}ni {\kf27}ga {\kf20}ma{\kf28}tsu {\kf30}no {\kf27}da{\kf77}rou?
-Dialogue: 0,0:21:06.16,0:21:10.66,Ed1Kanji,,0,0,0,,{\kf2}{\kf11}こ{\kf10}の{\kf96}先{\kf17}に{\kf52}は{\kf25}{\kf28}何{\kf27}が{\kf20}待{\kf28}つ{\kf30}の{\kf27}だ{\kf77}ろう
-Dialogue: 0,0:21:06.16,0:21:10.66,Ed1English,,0,0,0,,I wonder what waits ahead for me.
-Dialogue: 0,0:21:11.04,0:21:12.87,Ed1Romaji,,0,0,0,,{\kf4}{\kf37}shi{\kf17}n{\kf35}ko{\kf86}kyuu...
-Dialogue: 0,0:21:11.04,0:21:12.87,Ed1Kanji,,0,0,0,,{\kf4}{\kf54}深{\kf35}呼{\kf86}吸
-Dialogue: 0,0:21:11.04,0:21:12.87,Ed1English,,0,0,0,,take a deep breath...
-Dialogue: 0,0:21:13.00,0:21:21.17,Ed1Romaji,,0,0,0,,{\kf5}{\kf24}yu{\kf29}me {\kf12}no {\kf40}to{\kf22}bi{\kf28}ra {\kf28}ni{\kf24} {\kf54}sou{\kf18}tto {\kf40}te {\kf24}wo {\kf24}ka{\kf15}ke{\kf194}te... {\kf14}i{\kf214}kou!
-Dialogue: 0,0:21:13.00,0:21:21.17,Ed1Kanji,,0,0,0,,{\kf5}{\kf53}夢{\kf12}の{\kf90}扉{\kf28}に{\kf24}{\kf54}そっ{\kf18}と{\kf40}手{\kf24}を{\kf24}か{\kf15}け{\kf194}て{\kf14}行{\kf214}こう
-Dialogue: 0,0:21:13.00,0:21:21.17,Ed1English,,0,0,0,,place your hand gently on the door to your dreams... and let's go!
-Dialogue: 0,0:21:21.47,0:21:23.22,Ed1Romaji,,0,0,0,,{\kf2}{\kf14}ka{\kf12}ze {\kf12}ni {\kf13}fu{\kf14}ka{\kf15}re {\kf24}na{\kf12}ga{\kf53}ra!
-Dialogue: 0,0:21:21.47,0:21:23.22,Ed1Kanji,,0,0,0,,{\kf2}{\kf26}風{\kf12}に{\kf13}吹{\kf14}か{\kf15}れ{\kf24}な{\kf12}が{\kf53}ら
-Dialogue: 0,0:21:21.47,0:21:23.22,Ed1English,,0,0,0,,While blown by the wind!
-Dialogue: 0,0:21:23.59,0:21:25.01,Ed1Romaji,,0,0,0,,{\kf1}{\kf13}ko{\kf13}ko{\kf18}ro {\kf10}yu{\kf8}ra{\kf18}shi {\kf25}na{\kf16}ga{\kf16}ra!
-Dialogue: 0,0:21:23.59,0:21:25.01,Ed1Kanji,,0,0,0,,{\kf1}{\kf44}心{\kf10}揺{\kf8}ら{\kf18}し{\kf25}な{\kf16}が{\kf16}ら
-Dialogue: 0,0:21:23.59,0:21:25.01,Ed1English,,0,0,0,,While rocking your heart!
-Dialogue: 0,0:21:25.18,0:21:29.51,Ed1Romaji,,0,0,0,,{\kf2}{\kf17}ma{\kf30}sshi{\kf14}ro {\kf30}na {\kf12}chi{\kf11}zu {\kf16}wo {\kf25}ka{\kf25}ta{\kf26}te {\kf26}ni {\kf23}mo{\kf30}chi{\kf23}na{\kf17}ga{\kf102}ra
-Dialogue: 0,0:21:25.18,0:21:29.51,Ed1Kanji,,0,0,0,,{\kf2}{\kf17}真{\kf44}っ白{\kf30}な{\kf12}地{\kf11}図{\kf16}を{\kf50}片{\kf26}手{\kf26}に{\kf23}持{\kf30}ち{\kf23}な{\kf17}が{\kf102}ら
-Dialogue: 0,0:21:25.18,0:21:29.51,Ed1English,,0,0,0,,holding a blank map in one hand
-Dialogue: 0,0:21:29.89,0:21:31.60,Ed1Romaji,,0,0,0,,{\kf1}{\kf17}ka{\kf16}ze {\kf19}ni {\kf8}fu{\kf8}ka{\kf12}re {\kf26}na{\kf12}ga{\kf19}ra!
-Dialogue: 0,0:21:29.89,0:21:31.60,Ed1Kanji,,0,0,0,,{\kf1}{\kf33}風{\kf19}に{\kf8}吹{\kf8}か{\kf12}れ{\kf26}な{\kf12}が{\kf19}ら
-Dialogue: 0,0:21:29.89,0:21:31.60,Ed1English,,0,0,0,,While blown by the wind!
-Dialogue: 0,0:21:32.02,0:21:33.48,Ed1Romaji,,0,0,0,,{\kf3}{\kf10}a{\kf18}su {\kf13}wo {\kf24}ka{\kf12}ki {\kf24}na{\kf17}ga{\kf21}ra!
-Dialogue: 0,0:21:32.02,0:21:33.48,Ed1Kanji,,0,0,0,,{\kf3}{\kf10}明{\kf18}日{\kf13}を{\kf24}描{\kf12}き{\kf24}な{\kf17}が{\kf21}ら
-Dialogue: 0,0:21:32.02,0:21:33.48,Ed1English,,0,0,0,,While drawing in tomorrow!
-Dialogue: 0,0:21:33.60,0:21:35.10,Ed1Romaji,,0,0,0,,{\kf1}{\kf27}too{\kf21}ku {\kf12}ma{\kf32}de, {\kf14}do{\kf11}ko {\kf13}ma{\kf15}de?
-Dialogue: 0,0:21:33.60,0:21:35.10,Ed1Kanji,,0,0,0,,{\kf1}{\kf27}遠{\kf21}く{\kf12}ま{\kf32}で{\kf14}何{\kf11}処{\kf13}ま{\kf15}で
-Dialogue: 0,0:21:33.60,0:21:35.10,Ed1English,,0,0,0,,far away
-Dialogue: 0,0:21:35.10,0:21:38.11,Ed1Romaji,,0,0,0,,{\kf34}ta{\kf27}do{\kf23}ri {\kf28}tsu{\kf27}ke{\kf26}ru {\kf54}ma{\kf40}de
-Dialogue: 0,0:21:35.10,0:21:38.11,Ed1Kanji,,0,0,0,,{\kf34}た{\kf27}ど{\kf23}り{\kf28}着{\kf27}け{\kf26}る{\kf54}ま{\kf40}で
-Dialogue: 0,0:21:35.10,0:21:38.11,Ed1English,,0,0,0,,until I reach that place
-Dialogue: 0,0:21:38.27,0:21:41.82,Ed1Romaji,,0,0,0,,{\kf3}{\kf30}zet{\kf25}tai {\kf14}ma{\kf14}ke{\kf26}na{\kf13}i{\kf60}yo{\kf28} {\kf29}zet{\kf25}tai {\kf17}na{\kf11}ka{\kf21}na{\kf14}i{\kf21}yo
-Dialogue: 0,0:21:38.27,0:21:41.82,Ed1Kanji,,0,0,0,,{\kf3}{\kf30}絶{\kf25}対{\kf14}負{\kf14}け{\kf26}な{\kf13}い{\kf60}よ{\kf28}{\kf29}絶{\kf25}対{\kf17}泣{\kf11}か{\kf21}な{\kf14}い{\kf21}よ
-Dialogue: 0,0:21:38.27,0:21:41.82,Ed1English,,0,0,0,,I won't lose! I won't cry!
-Dialogue: 0,0:21:41.94,0:21:46.32,Ed1Romaji,,0,0,0,,{\kf5}{\kf14}ko{\kf13}no {\kf27}yu{\kf14}me {\kf37}wo {\kf29}ka{\kf25}na{\kf26}e{\kf14}ru {\kf39}so{\kf24}no {\kf28}hi {\kf23}ma{\kf15}de {\kf101}wa!
-Dialogue: 0,0:21:41.94,0:21:46.32,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}こ{\kf13}の{\kf41}夢{\kf37}を{\kf54}叶{\kf26}え{\kf14}る{\kf39}そ{\kf24}の{\kf28}日{\kf23}ま{\kf15}で{\kf101}は
-Dialogue: 0,0:21:41.94,0:21:46.32,Ed1English,,0,0,0,,Until the day that I make this dream come true!
-Dialogue: 0,0:21:46.70,0:21:48.41,Ed1Romaji,,0,0,0,,{\kf4}{\kf10}a{\kf9}no {\kf16}so{\kf23}ra {\kf10}wa {\kf13}wa{\kf23}rat{\kf13}tei{\kf25}ta!
-Dialogue: 0,0:21:46.70,0:21:48.41,Ed1Kanji,,0,0,0,,{\kf4}{\kf10}あ{\kf9}の{\kf39}空{\kf10}は{\kf36}笑{\kf13}ってい{\kf25}た
-Dialogue: 0,0:21:46.70,0:21:48.41,Ed1English,,0,0,0,,That sky was laughing!
-Dialogue: 0,0:21:48.78,0:21:50.41,Ed1Romaji,,0,0,0,,{\kf5}{\kf14}a{\kf13}no {\kf17}ha{\kf28}na {\kf11}mo {\kf9}wa{\kf16}rat{\kf15}tei{\kf14}ta!
-Dialogue: 0,0:21:48.78,0:21:50.41,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf0}は{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
-Dialogue: 0,0:21:48.78,0:21:50.41,Ed1English,,0,0,0,,That flower was laughing too!
-Dialogue: 0,0:21:50.41,0:21:54.50,Ed1Romaji,,0,0,0,,{\kf1}{\kf13}bo{\kf14}ku {\kf24}mo {\kf12}i{\kf38}tsu{\kf26}ka {\kf34}wa{\kf24}ra{\kf24}u {\kf17}ka{\kf128}ra!
-Dialogue: 0,0:21:50.41,0:21:54.50,Ed1Kanji,,0,0,0,,{\kf1}{\kf13}ボ{\kf14}ク{\kf24}も{\kf12}い{\kf38}つ{\kf26}か{\kf58}笑{\kf24}う{\kf17}か{\kf128}ら
-Dialogue: 0,0:21:50.41,0:21:54.50,Ed1English,,0,0,0,,Some day I will laugh with you!
-Dialogue: 0,0:21:54.62,0:21:58.63,Ed1Romaji,,0,0,0,,{\kf1}{\kf28}don{\kf22}na {\kf15}ka{\kf40}be {\kf26}mo {\kf34}ko{\kf20}e{\kf24}ru {\kf26}ka{\kf127}ra!
-Dialogue: 0,0:21:54.62,0:21:58.63,Ed1Kanji,,0,0,0,,{\kf1}{\kf28}どん{\kf22}な{\kf55}壁{\kf26}も{\kf34}越{\kf20}え{\kf24}る{\kf26}か{\kf127}ら
-Dialogue: 0,0:21:54.62,0:21:58.63,Ed1English,,0,0,0,,I will surpass any obstacle!
-Dialogue: 0,0:21:58.84,0:22:03.72,Ed1Romaji,,0,0,0,,{\kf0}{\kf28}mou {\kf24}na{\kf15}ni {\kf30}mo {\kf12}na{\kf9}ni {\kf16}mo {\kf24}ko{\kf28}wa{\kf28}ku{\kf22}na{\kf252}i!
-Dialogue: 0,0:21:58.84,0:22:03.72,Ed1Kanji,,0,0,0,,{\kf0}{\kf28}もう{\kf39}何{\kf30}も{\kf21}何{\kf16}も{\kf24}コ{\kf28}ワ{\kf28}ク{\kf22}ナ{\kf252}イ
-Dialogue: 0,0:21:58.84,0:22:03.72,Ed1English,,0,0,0,,I'm not afraid of anything any more!
+Dialogue: 0,0:20:42.22,0:20:45.89,Ed1Romaji,,0,0,0,,{\kf1}{\kf23}Do{\kf30}ko{\kf25}ni {\kf25}a{\kf76}ru {\kf57}no {\kf52}ka{\kf78}na?
+Dialogue: 0,0:20:42.22,0:20:45.89,Ed1Kanji,,0,0,0,,{\kf1}{\kf23}ど{\kf30}こ{\kf25}に{\kf25}あ{\kf76}る{\kf57}の{\kf52}か{\kf78}な
+Dialogue: 0,0:20:42.22,0:20:45.89,Ed1English,,0,0,0,,Where is it?
+Dialogue: 0,0:20:46.43,0:20:50.15,Ed1Romaji,,0,0,0,,{\kf1}{\kf21}bo{\kf32}ku{\kf21}da{\kf28}ke{\kf51}no {\kf27}ta{\kf55}ka{\kf26}ra{\kf30}mo{\kf79}no
+Dialogue: 0,0:20:46.43,0:20:50.15,Ed1Kanji,,0,0,0,,{\kf1}{\kf21}ボ{\kf32}ク{\kf21}だ{\kf28}け{\kf51}の{\kf108}宝{\kf109}物
+Dialogue: 0,0:20:46.43,0:20:50.15,Ed1English,,0,0,0,,The treasure that belongs to me
+Dialogue: 0,0:20:50.60,0:20:56.65,Ed1Romaji,,0,0,0,,{\kf5}{\kf24}i{\kf23}ma {\kf56}oo{\kf52}ki{\kf27}na {\kf40}bo{\kf63}u{\kf49}ke{\kf27}n {\kf239}e...
+Dialogue: 0,0:20:50.60,0:20:56.65,Ed1Kanji,,0,0,0,,{\kf5}{\kf47}今{\kf56}大{\kf52}き{\kf27}な{\kf103}冒{\kf76}険{\kf239}へ
+Dialogue: 0,0:20:50.60,0:20:56.65,Ed1English,,0,0,0,,Now towards a great adventure...
+Dialogue: 0,0:20:57.44,0:20:59.53,Ed1Romaji,,0,0,0,,{\kf3}{\kf13}ya{\kf13}wa{\kf14}ra{\kf12}ka{\kf72}na {\kf16}hi{\kf14}za{\kf27}shi
+Dialogue: 0,0:20:57.44,0:20:59.53,Ed1Kanji,,0,0,0,,{\kf3}{\kf13}や{\kf13}わ{\kf14}ら{\kf12}か{\kf72}な{\kf16}日{\kf14}差{\kf27}し
+Dialogue: 0,0:20:57.44,0:20:59.53,Ed1English,,0,0,0,,the gentle sunlight
+Dialogue: 0,0:20:59.82,0:21:01.74,Ed1Romaji,,0,0,0,,{\kf3}{\kf14}ta{\kf12}bi{\kf24}ta{\kf26}chi {\kf18}no {\kf36}yo{\kf27}ka{\kf24}n
+Dialogue: 0,0:20:59.82,0:21:01.74,Ed1Kanji,,0,0,0,,{\kf3}{\kf26}旅{\kf24}立{\kf26}ち{\kf18}の{\kf36}予{\kf51}感
+Dialogue: 0,0:20:59.82,0:21:01.74,Ed1English,,0,0,0,,a feeling of departure
+Dialogue: 0,0:21:01.87,0:21:05.95,Ed1Romaji,,0,0,0,,{\kf3}{\kf14}so{\kf18}ra {\kf68}mo{\kf12} {\kf11}ha{\kf15}na {\kf50}mo{\kf29} {\kf9}ho{\kf15}ra {\kf22}wa{\kf58}ra{\kf23}tte {\kf30}i{\kf30}ru!
+Dialogue: 0,0:21:01.87,0:21:05.95,Ed1Kanji,,0,0,0,,{\kf3}{\kf32}空{\kf68}も{\kf12}{\kf26}花{\kf50}も{\kf29}{\kf9}ホ{\kf15}ラ{\kf80}笑{\kf23}って{\kf30}い{\kf30}る
+Dialogue: 0,0:21:01.87,0:21:05.95,Ed1English,,0,0,0,,The sky and the flower are both laughing!
+Dialogue: 0,0:21:06.12,0:21:10.62,Ed1Romaji,,0,0,0,,{\kf2}{\kf11}ko{\kf10}no {\kf81}sa{\kf15}ki {\kf17}ni {\kf52}wa{\kf25} {\kf14}na{\kf14}ni {\kf27}ga {\kf20}ma{\kf28}tsu {\kf30}no {\kf27}da{\kf77}rou?
+Dialogue: 0,0:21:06.12,0:21:10.62,Ed1Kanji,,0,0,0,,{\kf2}{\kf11}こ{\kf10}の{\kf96}先{\kf17}に{\kf52}は{\kf25}{\kf28}何{\kf27}が{\kf20}待{\kf28}つ{\kf30}の{\kf27}だ{\kf77}ろう
+Dialogue: 0,0:21:06.12,0:21:10.62,Ed1English,,0,0,0,,I wonder what waits ahead for me.
+Dialogue: 0,0:21:11.00,0:21:12.83,Ed1Romaji,,0,0,0,,{\kf4}{\kf37}shi{\kf17}n{\kf35}ko{\kf86}kyuu...
+Dialogue: 0,0:21:11.00,0:21:12.83,Ed1Kanji,,0,0,0,,{\kf4}{\kf54}深{\kf35}呼{\kf86}吸
+Dialogue: 0,0:21:11.00,0:21:12.83,Ed1English,,0,0,0,,take a deep breath...
+Dialogue: 0,0:21:12.96,0:21:21.13,Ed1Romaji,,0,0,0,,{\kf5}{\kf24}yu{\kf29}me {\kf12}no {\kf40}to{\kf22}bi{\kf28}ra {\kf28}ni{\kf24} {\kf54}sou{\kf18}tto {\kf40}te {\kf24}wo {\kf24}ka{\kf15}ke{\kf194}te... {\kf14}i{\kf214}kou!
+Dialogue: 0,0:21:12.96,0:21:21.13,Ed1Kanji,,0,0,0,,{\kf5}{\kf53}夢{\kf12}の{\kf90}扉{\kf28}に{\kf24}{\kf54}そっ{\kf18}と{\kf40}手{\kf24}を{\kf24}か{\kf15}け{\kf194}て{\kf14}行{\kf214}こう
+Dialogue: 0,0:21:12.96,0:21:21.13,Ed1English,,0,0,0,,place your hand gently on the door to your dreams... and let's go!
+Dialogue: 0,0:21:21.43,0:21:23.18,Ed1Romaji,,0,0,0,,{\kf2}{\kf14}ka{\kf12}ze {\kf12}ni {\kf13}fu{\kf14}ka{\kf15}re {\kf24}na{\kf12}ga{\kf53}ra!
+Dialogue: 0,0:21:21.43,0:21:23.18,Ed1Kanji,,0,0,0,,{\kf2}{\kf26}風{\kf12}に{\kf13}吹{\kf14}か{\kf15}れ{\kf24}な{\kf12}が{\kf53}ら
+Dialogue: 0,0:21:21.43,0:21:23.18,Ed1English,,0,0,0,,While blown by the wind!
+Dialogue: 0,0:21:23.55,0:21:24.97,Ed1Romaji,,0,0,0,,{\kf1}{\kf13}ko{\kf13}ko{\kf18}ro {\kf10}yu{\kf8}ra{\kf18}shi {\kf25}na{\kf16}ga{\kf16}ra!
+Dialogue: 0,0:21:23.55,0:21:24.97,Ed1Kanji,,0,0,0,,{\kf1}{\kf44}心{\kf10}揺{\kf8}ら{\kf18}し{\kf25}な{\kf16}が{\kf16}ら
+Dialogue: 0,0:21:23.55,0:21:24.97,Ed1English,,0,0,0,,While rocking your heart!
+Dialogue: 0,0:21:25.14,0:21:29.48,Ed1Romaji,,0,0,0,,{\kf2}{\kf17}ma{\kf30}sshi{\kf14}ro {\kf30}na {\kf12}chi{\kf11}zu {\kf16}wo {\kf25}ka{\kf25}ta{\kf26}te {\kf26}ni {\kf23}mo{\kf30}chi{\kf23}na{\kf17}ga{\kf102}ra
+Dialogue: 0,0:21:25.14,0:21:29.48,Ed1Kanji,,0,0,0,,{\kf2}{\kf17}真{\kf44}っ白{\kf30}な{\kf12}地{\kf11}図{\kf16}を{\kf50}片{\kf26}手{\kf26}に{\kf23}持{\kf30}ち{\kf23}な{\kf17}が{\kf102}ら
+Dialogue: 0,0:21:25.14,0:21:29.48,Ed1English,,0,0,0,,holding a blank map in one hand
+Dialogue: 0,0:21:29.85,0:21:31.56,Ed1Romaji,,0,0,0,,{\kf1}{\kf17}ka{\kf16}ze {\kf19}ni {\kf8}fu{\kf8}ka{\kf12}re {\kf26}na{\kf12}ga{\kf19}ra!
+Dialogue: 0,0:21:29.85,0:21:31.56,Ed1Kanji,,0,0,0,,{\kf1}{\kf33}風{\kf19}に{\kf8}吹{\kf8}か{\kf12}れ{\kf26}な{\kf12}が{\kf19}ら
+Dialogue: 0,0:21:29.85,0:21:31.56,Ed1English,,0,0,0,,While blown by the wind!
+Dialogue: 0,0:21:31.98,0:21:33.44,Ed1Romaji,,0,0,0,,{\kf3}{\kf10}a{\kf18}su {\kf13}wo {\kf24}ka{\kf12}ki {\kf24}na{\kf17}ga{\kf21}ra!
+Dialogue: 0,0:21:31.98,0:21:33.44,Ed1Kanji,,0,0,0,,{\kf3}{\kf10}明{\kf18}日{\kf13}を{\kf24}描{\kf12}き{\kf24}な{\kf17}が{\kf21}ら
+Dialogue: 0,0:21:31.98,0:21:33.44,Ed1English,,0,0,0,,While drawing in tomorrow!
+Dialogue: 0,0:21:33.56,0:21:35.07,Ed1Romaji,,0,0,0,,{\kf1}{\kf27}too{\kf21}ku {\kf12}ma{\kf32}de, {\kf14}do{\kf11}ko {\kf13}ma{\kf15}de?
+Dialogue: 0,0:21:33.56,0:21:35.07,Ed1Kanji,,0,0,0,,{\kf1}{\kf27}遠{\kf21}く{\kf12}ま{\kf32}で{\kf14}何{\kf11}処{\kf13}ま{\kf15}で
+Dialogue: 0,0:21:33.56,0:21:35.07,Ed1English,,0,0,0,,far away
+Dialogue: 0,0:21:35.07,0:21:38.07,Ed1Romaji,,0,0,0,,{\kf34}ta{\kf27}do{\kf23}ri {\kf28}tsu{\kf27}ke{\kf26}ru {\kf54}ma{\kf40}de
+Dialogue: 0,0:21:35.07,0:21:38.07,Ed1Kanji,,0,0,0,,{\kf34}た{\kf27}ど{\kf23}り{\kf28}着{\kf27}け{\kf26}る{\kf54}ま{\kf40}で
+Dialogue: 0,0:21:35.07,0:21:38.07,Ed1English,,0,0,0,,until I reach that place
+Dialogue: 0,0:21:38.24,0:21:41.78,Ed1Romaji,,0,0,0,,{\kf3}{\kf30}zet{\kf25}tai {\kf14}ma{\kf14}ke{\kf26}na{\kf13}i{\kf60}yo{\kf28} {\kf29}zet{\kf25}tai {\kf17}na{\kf11}ka{\kf21}na{\kf14}i{\kf21}yo
+Dialogue: 0,0:21:38.24,0:21:41.78,Ed1Kanji,,0,0,0,,{\kf3}{\kf30}絶{\kf25}対{\kf14}負{\kf14}け{\kf26}な{\kf13}い{\kf60}よ{\kf28}{\kf29}絶{\kf25}対{\kf17}泣{\kf11}か{\kf21}な{\kf14}い{\kf21}よ
+Dialogue: 0,0:21:38.24,0:21:41.78,Ed1English,,0,0,0,,I won't lose! I won't cry!
+Dialogue: 0,0:21:41.91,0:21:46.28,Ed1Romaji,,0,0,0,,{\kf5}{\kf14}ko{\kf13}no {\kf27}yu{\kf14}me {\kf37}wo {\kf29}ka{\kf25}na{\kf26}e{\kf14}ru {\kf39}so{\kf24}no {\kf28}hi {\kf23}ma{\kf15}de {\kf101}wa!
+Dialogue: 0,0:21:41.91,0:21:46.28,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}こ{\kf13}の{\kf41}夢{\kf37}を{\kf54}叶{\kf26}え{\kf14}る{\kf39}そ{\kf24}の{\kf28}日{\kf23}ま{\kf15}で{\kf101}は
+Dialogue: 0,0:21:41.91,0:21:46.28,Ed1English,,0,0,0,,Until the day that I make this dream come true!
+Dialogue: 0,0:21:46.66,0:21:48.37,Ed1Romaji,,0,0,0,,{\kf4}{\kf10}a{\kf9}no {\kf16}so{\kf23}ra {\kf10}wa {\kf13}wa{\kf23}rat{\kf13}tei{\kf25}ta!
+Dialogue: 0,0:21:46.66,0:21:48.37,Ed1Kanji,,0,0,0,,{\kf4}{\kf10}あ{\kf9}の{\kf39}空{\kf10}は{\kf36}笑{\kf13}ってい{\kf25}た
+Dialogue: 0,0:21:46.66,0:21:48.37,Ed1English,,0,0,0,,That sky was laughing!
+Dialogue: 0,0:21:48.75,0:21:50.37,Ed1Romaji,,0,0,0,,{\kf5}{\kf14}a{\kf13}no {\kf17}ha{\kf28}na {\kf11}mo {\kf9}wa{\kf16}rat{\kf15}tei{\kf14}ta!
+Dialogue: 0,0:21:48.75,0:21:50.37,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf0}は{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
+Dialogue: 0,0:21:48.75,0:21:50.37,Ed1English,,0,0,0,,That flower was laughing too!
+Dialogue: 0,0:21:50.37,0:21:54.46,Ed1Romaji,,0,0,0,,{\kf1}{\kf13}bo{\kf14}ku {\kf24}mo {\kf12}i{\kf38}tsu{\kf26}ka {\kf34}wa{\kf24}ra{\kf24}u {\kf17}ka{\kf128}ra!
+Dialogue: 0,0:21:50.37,0:21:54.46,Ed1Kanji,,0,0,0,,{\kf1}{\kf13}ボ{\kf14}ク{\kf24}も{\kf12}い{\kf38}つ{\kf26}か{\kf58}笑{\kf24}う{\kf17}か{\kf128}ら
+Dialogue: 0,0:21:50.37,0:21:54.46,Ed1English,,0,0,0,,Some day I will laugh with you!
+Dialogue: 0,0:21:54.58,0:21:58.59,Ed1Romaji,,0,0,0,,{\kf1}{\kf28}don{\kf22}na {\kf15}ka{\kf40}be {\kf26}mo {\kf34}ko{\kf20}e{\kf24}ru {\kf26}ka{\kf127}ra!
+Dialogue: 0,0:21:54.58,0:21:58.59,Ed1Kanji,,0,0,0,,{\kf1}{\kf28}どん{\kf22}な{\kf55}壁{\kf26}も{\kf34}越{\kf20}え{\kf24}る{\kf26}か{\kf127}ら
+Dialogue: 0,0:21:54.58,0:21:58.59,Ed1English,,0,0,0,,I will surpass any obstacle!
+Dialogue: 0,0:21:58.80,0:22:03.68,Ed1Romaji,,0,0,0,,{\kf0}{\kf28}mou {\kf24}na{\kf15}ni {\kf30}mo {\kf12}na{\kf9}ni {\kf16}mo {\kf24}ko{\kf28}wa{\kf28}ku{\kf22}na{\kf252}i!
+Dialogue: 0,0:21:58.80,0:22:03.68,Ed1Kanji,,0,0,0,,{\kf0}{\kf28}もう{\kf39}何{\kf30}も{\kf21}何{\kf16}も{\kf24}コ{\kf28}ワ{\kf28}ク{\kf22}ナ{\kf252}イ
+Dialogue: 0,0:21:58.80,0:22:03.68,Ed1English,,0,0,0,,I'm not afraid of anything any more!
 Dialogue: 0,0:00:00.00,0:00:02.98,Default,chptr,0,0,0,,{Intro}
 Dialogue: 0,0:01:51.09,0:01:54.09,Default,chptr,0,0,0,,{The Weakpoint Revealed!!}
 Dialogue: 0,0:20:42.22,0:20:45.22,Default,chptr,0,0,0,,{Ending}
