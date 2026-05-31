@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 404
-Active Line: 422
-Video Position: 29784
+Video Zoom Percent: 0.500000
+Scroll Position: 111
+Active Line: 134
+Video Position: 16117
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,7 +115,7 @@ Dialogue: 0,0:05:47.58,0:05:52.42,Thinking,,0,0,0,,As strong as he is, since he'
 Dialogue: 0,0:05:53.30,0:05:57.08,Default,,0,0,0,,That day during lunch, Touya-kun\Ntried to talk to Waya-kun.
 Dialogue: 0,0:05:57.46,0:06:00.26,Default,,0,0,0,,But Waya-kun just told him to shut up.
 Dialogue: 0,0:06:00.76,0:06:01.83,Default,,0,0,0,,It's so weird.
-Dialogue: 0,0:06:02.33,0:06:03.26,Default,,0,0,0,,Isn't it weird?
+Dialogue: 0,0:06:02.30,0:06:03.22,Default,,0,0,0,,Isn't it weird?
 Dialogue: 0,0:06:04.89,0:06:07.02,Thinking,,0,0,0,,I'm walking the same path as Touya...
 Dialogue: 0,0:06:08.20,0:06:09.43,Thinking,,0,0,0,,I'm a year behind but...
 Dialogue: 0,0:06:11.41,0:06:11.89,Sai,,0,0,0,,Yes...
@@ -150,7 +150,9 @@ Dialogue: 0,0:07:56.19,0:07:57.00,Default,,0,0,0,,Sup.
 Dialogue: 0,0:07:59.82,0:08:01.35,Default,,0,0,0,,Worst possible opponent.
 Dialogue: 0,0:08:01.54,0:08:05.05,Default,,0,0,0,,Be careful, he might start screaming\Nlike a monster during the match.
 Dialogue: 0,0:08:05.67,0:08:07.86,Default,,0,0,0,,Shindou, you're rather unlucky.
-Dialogue: 0,0:08:08.24,0:08:10.22,Default,,0,0,0,,Don't say that!
+Comment: 0,0:08:08.24,0:08:10.22,Default,,0,0,0,,Old timing. Think what I have is better. Also 45 frames as E-F.
+Comment: 0,0:08:08.24,0:08:10.22,Default,,0,0,0,,Don't say that!
+Dialogue: 0,0:08:08.22,0:08:10.09,Default,,0,0,0,,Don't say that!
 Dialogue: 0,0:08:10.55,0:08:15.89,Default,,0,0,0,,Please set your match clocks to 2\Nhours and byouyomi 1 minute.
 Dialogue: 0,0:08:10.55,0:08:18.10,Note,,0,0,0,,[note: byouyomi is what happens when you run out of time. You\Nget a set amount of time for a set number of moves. For example,\Nif byouyomi is 10/25, you get 10 minutes for 25 moves.]
 Dialogue: 0,0:08:18.14,0:08:21.56,Note,,0,0,0,,[note: But if you make more than 25 moves, you don't get\Nextra time. In this case, they get 1 minute per move.]
@@ -174,7 +176,9 @@ Dialogue: 0,0:10:57.93,0:10:59.60,Default,,0,0,0,,B-But!
 Dialogue: 0,0:11:05.54,0:11:06.98,Default,,0,0,0,,Shindou-kun...
 Dialogue: 0,0:11:07.80,0:11:10.91,Default,,0,0,0,,Hamburgers!? You've gotta be kidding!
 Dialogue: 0,0:11:10.91,0:11:14.86,Note,,0,0,0,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(374,104)}S\No\Nb\Na\N\NS\Nt\No\Nr\Ne
-Dialogue: 0,0:11:12.19,0:11:14.86,Background,,0,0,0,,Let's eat at that Soba store! Okay? Soba!
+Comment: 0,0:11:12.19,0:11:14.86,Background,,0,0,0,,Old gabest11 timing has been commented. Changed it to exactly match E-F. This line (if ever put in) should also probably start a frame earlier.
+Comment: 0,0:11:12.19,0:11:14.86,Background,,0,0,0,,Let's eat at that Soba store! Okay? Soba!
+Dialogue: 0,0:11:11.53,0:11:14.74,Background,,0,0,0,,Let's eat at that Soba store! Okay? Soba!
 Dialogue: 0,0:11:20.53,0:11:25.11,Default,,0,0,0,,Don't worry, it's on me. I won't make a kid pay.
 Dialogue: 0,0:11:25.43,0:11:27.87,Default,,0,0,0,,No, it's not that...
 Dialogue: 0,0:11:28.24,0:11:29.31,Default,,0,0,0,,Then what is it?
@@ -303,13 +307,14 @@ Dialogue: 0,0:18:34.30,0:18:37.54,Default,,0,0,0,,But your semester finals were 
 Dialogue: 0,0:18:38.04,0:18:42.75,Default,,0,0,0,,If your grades were just a little higher, I wouldn't\Ncomplain about you doing what you want.
 Dialogue: 0,0:18:43.69,0:18:48.07,Default,,0,0,0,,Semester finals? If I pass the pro exams,\Nthat won't matter anymore.
 Dialogue: 0,0:18:48.52,0:18:49.11,Default,,0,0,0,,Huh?
-Dialogue: 0,0:18:51.19,0:18:54.44,Default,,0,0,0,,I totally understand why Waya\Nwants to become pro already.
+Dialogue: 0,0:18:51.15,0:18:54.40,Default,,0,0,0,,I totally understand why Waya\Nwants to become pro already.
 Dialogue: 0,0:18:55.25,0:18:58.61,Default,,0,0,0,,I'm irritated right now because I\Nlost today. So be quiet already.
 Dialogue: 0,0:18:59.35,0:19:00.30,Default,,0,0,0,,Hey Hikaru!
 Dialogue: 0,0:19:00.83,0:19:02.10,Default,,0,0,0,,Call me when dinner's ready.
 Dialogue: 0,0:19:03.52,0:19:09.97,Default,,0,0,0,,Huh? What? Umm... pro? What?
 Dialogue: 0,0:19:09.96,0:19:12.96,Note,,0,0,0,,{\fs19\bord1\1c&H008182&\3c&HFFFFFF&\4c&HFFFFFF&\shad1)\frz345\pos(330,180)}Japanese Go Institute
-Dialogue: 0,0:19:09.97,0:19:12.96,Note,,0,0,90,,{\an2\bord1\fs24\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Second day of Pro Exam Preliminaries
+Comment: 0,0:19:09.97,0:19:12.96,Note,,0,0,90,,Looked back at this. Most likely it has fscx99 applied. Also moved it down a pixel.
+Dialogue: 0,0:19:09.97,0:19:12.96,Note,,0,0,89,,{\an2\bord1\fs24\fscx99\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Second day of Pro Exam Preliminaries
 Dialogue: 0,0:19:14.36,0:19:16.42,Thinking,,0,0,0,,That bearded guy's here already.
 Dialogue: 0,0:19:17.93,0:19:23.76,Thinking,,0,0,0,,It doesn't matter. He's not my opponent anymore.\NI won't let him push me around anymore.
 Dialogue: 0,0:19:26.32,0:19:28.16,Default,,0,0,0,,I just need to avoid him.
