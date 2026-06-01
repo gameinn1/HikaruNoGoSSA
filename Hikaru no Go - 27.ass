@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 186
-Active Line: 205
-Video Position: 23906
+Active Line: 211
+Video Position: 23885
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -242,13 +242,19 @@ Dialogue: 0,0:16:13.72,0:16:15.89,Background,,0,0,0,,to play us every now and th
 Dialogue: 0,0:16:16.91,0:16:28.30,Note,,0,0,0,,[loae666: MWAHAHAHAHA You have fallen into\Ntheir trap! You have taken a step down a very\Nslippery slope! Within the next 25 episodes, you WILL\Nbe playing in the tournament! MWAHAHAHAHA]
 Dialogue: 0,0:16:16.91,0:16:18.21,Default,,0,0,0,,That's all.
 Dialogue: 0,0:16:18.64,0:16:20.44,Default,,0,0,0,,Ahhh! That's fine!
+Comment: 0,0:16:22.64,0:16:24.36,Default,,0,0,0,,Old gabest11 timing values.
+Comment: 0,0:16:22.64,0:16:24.36,Background,,0,0,0,,We've got to get another board!
+Comment: 0,0:16:24.50,0:16:28.42,Background,,0,0,0,,Umm, can you play both Natsume-kun and Koishi-kun to begin with?
+Comment: 0,0:16:31.30,0:16:35.16,Default,,0,0,0,,I'm Koike from the seventh grade. Nice to meet you.
 Dialogue: 0,0:16:22.59,0:16:24.30,Background,,0,0,0,,We've got to get another board!
 Dialogue: 0,0:16:24.46,0:16:28.30,Background,,0,0,0,,Umm, can you play both Natsume-kun\Nand Koishi-kun to begin with?
 Comment: 0,0:16:30.64,0:16:34.93,Default,,0,0,0,,Commented line is E-F timing.
 Comment: 0,0:16:30.64,0:16:34.93,Default,,0,0,0,,I'm Koike from the seventh\Ngrade. Nice to meet you.
-Dialogue: 0,0:16:31.26,0:16:35.16,Default,,0,0,0,,I'm Koike from the seventh\Ngrade. Nice to meet you.
+Comment: 0,0:16:31.26,0:16:35.10,Default,,0,0,0,,Compared to gabest11 I started it 1 frame sooner and ended 1 frame sooner.
+Dialogue: 0,0:16:31.26,0:16:35.10,Default,,0,0,0,,I'm Koike from the seventh\Ngrade. Nice to meet you.
 Dialogue: 0,0:16:36.20,0:16:37.80,Default,,0,0,0,,Play us after that!
 Dialogue: 0,0:16:38.14,0:16:40.06,Default,,0,0,0,,We have to show him how much better we are now.
+Comment: 0,0:16:41.38,0:16:42.27,Default,,0,0,0,,Waaasssuuuppp?
 Dialogue: 0,0:16:41.36,0:16:42.23,Background,,0,0,0,,Waaasssuuuppp?
 Dialogue: 0,0:16:47.88,0:16:49.00,Background,,0,0,0,,Kaneko-san!
 Dialogue: 0,0:16:49.28,0:16:53.39,Default,,0,0,0,,I came to get some practice and drink some\Nbuds. We are going to a tournament after all.
