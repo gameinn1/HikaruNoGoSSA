@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 31 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 61
-Active Line: 73
-Video Position: 8714
+Video Zoom Percent: 0.750000
+Scroll Position: 267
+Active Line: 275
+Video Position: 27572
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -317,8 +317,8 @@ Dialogue: 0,0:18:59.35,0:19:00.30,Default,,0,0,0,,Hey Hikaru!
 Dialogue: 0,0:19:00.83,0:19:02.10,Default,,0,0,0,,Call me when dinner's ready.
 Dialogue: 0,0:19:03.52,0:19:09.97,Default,,0,0,0,,Huh? What? Umm... pro? What?
 Dialogue: 0,0:19:09.96,0:19:12.96,Note,,0,0,0,,{\fs19\bord1\1c&H008182&\3c&HFFFFFF&\4c&HFFFFFF&\shad1)\frz345\pos(330,180)}Japanese Go Institute
-Comment: 0,0:19:09.97,0:19:12.96,Note,,0,0,90,,Looked back at this. Most likely it has fscx99 applied. Also moved it down a pixel.
-Dialogue: 0,0:19:09.97,0:19:12.96,Note,,0,0,89,,{\an2\bord1\fs24\fscx99\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Second day of Pro Exam Preliminaries
+Comment: 0,0:19:09.97,0:19:12.96,Note,,0,0,90,,Looked back at this. Most likely it has fscx99 applied. Also moved it down 2 pixels.
+Dialogue: 0,0:19:09.97,0:19:12.96,Note,,0,0,88,,{\an2\bord1\fs24\fscx99\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}Second day of Pro Exam Preliminaries
 Dialogue: 0,0:19:14.36,0:19:16.42,Thinking,,0,0,0,,That bearded guy's here already.
 Dialogue: 0,0:19:17.93,0:19:23.76,Thinking,,0,0,0,,It doesn't matter. He's not my opponent anymore.\NI won't let him push me around anymore.
 Dialogue: 0,0:19:26.32,0:19:28.16,Default,,0,0,0,,I just need to avoid him.
