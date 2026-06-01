@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 186
-Active Line: 211
-Video Position: 23885
+Scroll Position: 204
+Active Line: 219
+Video Position: 24529
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -254,12 +254,15 @@ Comment: 0,0:16:31.26,0:16:35.10,Default,,0,0,0,,Compared to gabest11 I started 
 Dialogue: 0,0:16:31.26,0:16:35.10,Default,,0,0,0,,I'm Koike from the seventh\Ngrade. Nice to meet you.
 Dialogue: 0,0:16:36.20,0:16:37.80,Default,,0,0,0,,Play us after that!
 Dialogue: 0,0:16:38.14,0:16:40.06,Default,,0,0,0,,We have to show him how much better we are now.
-Comment: 0,0:16:41.38,0:16:42.27,Default,,0,0,0,,Waaasssuuuppp?
+Comment: 0,0:16:41.38,0:16:42.27,Background,,0,0,0,,Waaasssuuuppp?
 Dialogue: 0,0:16:41.36,0:16:42.23,Background,,0,0,0,,Waaasssuuuppp?
-Dialogue: 0,0:16:47.88,0:16:49.00,Background,,0,0,0,,Kaneko-san!
+Comment: 0,0:16:47.88,0:16:49.00,Background,,0,0,0,,Kaneko-san!
+Dialogue: 0,0:16:47.82,0:16:48.90,Background,,0,0,0,,Kaneko-san!
 Dialogue: 0,0:16:49.28,0:16:53.39,Default,,0,0,0,,I came to get some practice and drink some\Nbuds. We are going to a tournament after all.
 Dialogue: 0,0:16:53.51,0:16:57.00,Default,,0,0,0,,I thought I should come here as much\Nas possible and get some practice.
-Dialogue: 0,0:16:57.67,0:17:00.83,Default,,0,0,0,,And? Who's the best player here?
+Comment: 0,0:16:57.67,0:17:00.83,Default,,0,0,0,,Old timing. Started this 1 frame sooner then took 2 frames off at the end to match E-F timing. Was hard to know when to exactly start this line. It seems like E-F was even earlier but this seems fine.
+Comment: 0,0:16:57.67,0:17:00.83,Default,,0,0,0,,And? Who's the best player here?
+Dialogue: 0,0:16:57.62,0:17:00.75,Default,,0,0,0,,And? Who's the best player here?
 Dialogue: 0,0:17:04.72,0:17:05.92,Default,,0,0,0,,I see.
 Dialogue: 0,0:17:08.01,0:17:09.37,Default,,0,0,0,,Let's play then.
 Dialogue: 0,0:17:09.93,0:17:10.84,Default,,0,0,0,,I'm going to Nigiri.
