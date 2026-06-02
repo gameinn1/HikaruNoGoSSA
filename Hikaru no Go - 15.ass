@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 184
-Active Line: 189
-Video Position: 19607
+Video Zoom Percent: 0.625000
+Scroll Position: 179
+Active Line: 191
+Video Position: 19239
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -155,6 +155,10 @@ Dialogue: 0,0:09:02.57,0:09:07.44,Default,,0,0,0,,Neither your face, name, nor a
 Dialogue: 0,0:09:07.90,0:09:11.78,Background,,0,0,0,,It's not just kids, look, people\Nfrom other nations are here too!
 Dialogue: 0,0:09:13.05,0:09:17.63,Background,,0,0,0,,JPN is for Japan, CHN is China, CAN is Canada.
 Dialogue: 0,0:09:17.93,0:09:19.74,Background,,0,0,0,,There's USA, and GER.
+Comment: 0,0:09:20.72,0:09:22.04,Background,,0,0,0,,Old gabest11 timings.
+Comment: 0,0:09:20.72,0:09:22.04,Background,,0,0,0,,What about NLD?
+Comment: 0,0:09:22.11,0:09:22.95,Background,,0,0,0,,It's the Netherlands.
+Comment: 0,0:09:23.95,0:09:28.84,Default,,0,0,0,,People on this list challenge each other or\Nare challenged by each other for games.
 Dialogue: 0,0:09:20.72,0:09:22.00,Background,,0,0,0,,What about NLD?
 Dialogue: 0,0:09:22.08,0:09:22.92,Background,,0,0,0,,It's the Netherlands.
 Dialogue: 0,0:09:23.92,0:09:28.80,Default,,0,0,0,,People on this list challenge each other or\Nare challenged by each other for games.
@@ -163,6 +167,11 @@ Comment: 0,0:09:30.02,0:09:32.67,Default,,0,0,0,,It's easy to operate.
 Dialogue: 0,0:09:30.02,0:09:32.38,Default,,0,0,0,,It's easy to operate.
 Dialogue: 0,0:09:33.06,0:09:35.74,Background,,0,0,0,,Like if you want to play a game, do this here...
 Dialogue: 0,0:09:36.35,0:09:37.35,Note,,0,0,0,,{\fs15\bord1.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad0\b0\pos(320,226)}Logging in with your User name.
+Comment: 0,0:09:37.59,0:09:39.07,Default,,0,0,0,,Old gabest11 timings.
+Comment: 0,0:09:37.59,0:09:39.07,Default,,0,0,0,,Then you do this...
+Comment: 0,0:09:40.88,0:09:41.72,Default,,0,0,0,,wanna try?
+Comment: 0,0:09:41.92,0:09:49.09,Default,,0,0,0,,Nah, not yet. But could you teach\Nme some more about operating it?
+Comment: 0,0:09:49.68,0:09:52.94,Background,,0,0,0,,You have to register first, right?
 Dialogue: 0,0:09:37.56,0:09:39.02,Default,,0,0,0,,Then you do this...
 Dialogue: 0,0:09:40.85,0:09:41.64,Default,,0,0,0,,wanna try?
 Dialogue: 0,0:09:41.89,0:09:49.03,Default,,0,0,0,,Nah, not yet. But could you teach\Nme some more about operating it?
@@ -223,7 +232,9 @@ Dialogue: 0,0:13:07.99,0:13:10.37,Default,,0,0,0,,Yeah, I can make it once a wee
 Dialogue: 0,0:13:10.81,0:13:11.66,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:13:12.31,0:13:17.15,Note,,0,0,0,,{\an4\bord1.5\fs22.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(281,218)}Experience\N\N\N\Nthe\N\N\N\NInternet\N\N\N\NHere!\N\N\N\NState-of-the-art\N\N\N\Nsystems\N\N\N\Navailable.
 Dialogue: 0,0:13:19.96,0:13:21.76,Default,,0,0,0,,World Igo Net?
-Dialogue: 0,0:13:22.36,0:13:24.07,Default,,0,0,0,,I just have to access this?
+Comment: 0,0:13:22.40,0:13:24.16,Default,,0,0,0,,Old gabest11 timing. Kept as 42 frames.
+Comment: 0,0:13:22.40,0:13:24.16,Default,,0,0,0,,I just have to access this?
+Dialogue: 0,0:13:22.36,0:13:24.12,Default,,0,0,0,,I just have to access this?
 Dialogue: 0,0:13:25.50,0:13:29.76,Default,,0,0,0,,But even if I know about computers,\NI know nothing about Go.
 Dialogue: 0,0:13:30.43,0:13:34.38,Default,,0,0,0,,That's okay, I learned how to play on my own.
 Comment: 0,0:13:36.59,0:13:42.22,NoteArialEF,,0,0,0,,Super old version had k19. Have also changed x pos from 152 to 153.
