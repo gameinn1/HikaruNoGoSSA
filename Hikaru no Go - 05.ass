@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 05 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 480
-Active Line: 514
-Video Position: 31620
+Scroll Position: 222
+Active Line: 235
+Video Position: 17743
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -276,11 +276,17 @@ Dialogue: 0,0:12:11.21,0:12:12.60,Default,,0,0,0,,Women's first match...
 Dialogue: 0,0:12:12.86,0:12:15.71,Background,,0,0,0,,Kaiou Junior High against Iwana Junior High is on seat A.
 Dialogue: 0,0:12:16.24,0:12:19.41,Background,,0,0,0,,Ayu Junior High against Iwana Junior High is on seat B.
 Dialogue: 0,0:12:19.72,0:12:28.73,Note,,0,0,0,,{\fs30}(Tournament Pairings)
-Dialogue: 0,0:12:20.03,0:12:21.68,Background,,0,0,0,,For the men's division...
-Dialogue: 0,0:12:21.67,0:12:24.72,Background,,0,0,0,,Kaiou Junior High against\NHamachi Junior High is on seat C.
-Dialogue: 0,0:12:25.21,0:12:28.10,Background,,0,0,0,,Seat D is Tai Junior High against Iwana Junior High.
-Dialogue: 0,0:12:28.50,0:12:31.52,Background,,0,0,0,,Seat E is Ayu Junior High\Nagainst Sawara Junior High.
-Dialogue: 0,0:12:31.87,0:12:35.65,Background,,0,0,0,,and... Haze Junior High against\NKawahagi Junior High is on seat F.
+Comment: 0,0:12:20.03,0:12:21.68,Background,,0,0,0,,Old gabest11 timings but with the duplicate text fix as mentioned in pdf. I changed all to exactly match E-F timing.
+Comment: 0,0:12:20.03,0:12:21.68,Background,,0,0,0,,For the men's division...
+Comment: 0,0:12:21.67,0:12:24.72,Background,,0,0,0,,Kaiou Junior High against\NHamachi Junior High is on seat C.
+Comment: 0,0:12:25.21,0:12:28.10,Background,,0,0,0,,Seat D is Tai Junior High against Iwana Junior High.
+Comment: 0,0:12:28.50,0:12:31.52,Background,,0,0,0,,Seat E is Ayu Junior High\Nagainst Sawara Junior High.
+Comment: 0,0:12:31.87,0:12:35.65,Background,,0,0,0,,and... Haze Junior High against\NKawahagi Junior High is on seat F.
+Dialogue: 0,0:12:19.97,0:12:21.64,Background,,0,0,0,,For the men's division...
+Dialogue: 0,0:12:21.64,0:12:24.68,Background,,0,0,0,,Kaiou Junior High against\NHamachi Junior High is on seat C.
+Dialogue: 0,0:12:25.14,0:12:28.02,Background,,0,0,0,,Seat D is Tai Junior High against Iwana Junior High.
+Dialogue: 0,0:12:28.39,0:12:31.40,Background,,0,0,0,,Seat E is Ayu Junior High\Nagainst Sawara Junior High.
+Dialogue: 0,0:12:31.73,0:12:35.53,Background,,0,0,0,,and... Haze Junior High against\NKawahagi Junior High is on seat F.
 Dialogue: 0,0:12:44.27,0:12:46.40,Default,,0,0,0,,Is everyone in their seats?
 Dialogue: 0,0:12:48.99,0:12:50.87,Thinking,,0,0,0,,Oh yeah, I can't stand out.
 Dialogue: 0,0:12:51.50,0:12:52.00,Thinking,,0,0,0,,Huh?
