@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 435
-Active Line: 462
-Video Position: 31620
+Scroll Position: 333
+Active Line: 356
+Video Position: 34818
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,11 +29,11 @@ Style: Op1English,Courier New,30,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,
 Style: Ed1Kanji,MS Gothic,30,&H00EE7A0B,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,30,30,20,128
 Style: Ed1Romaji,MS Gothic,30,&H00AEEBED,&H00989898,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,30,30,20,1
 Style: Ed1English,Courier New,30,&H00FBF9C4,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,30,30,20,1
-Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
-Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
+Style: Default,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
+Style: Background,Verdana,24,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
 Style: Note,Century Gothic,22.5,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,15,1
-Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
-Style: Sai,Verdana,25,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
+Style: Thinking,Verdana,24,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
+Style: Sai,Verdana,24,&H00FEFECE,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,2.5,1,2,0,0,20,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
@@ -48,13 +48,14 @@ Dialogue: 0,0:01:41.59,0:01:45.21,Default,,0,0,0,,Why don't we tie his arms and 
 Dialogue: 0,0:01:46.38,0:01:47.54,Default,,0,0,0,,That's a good idea...
 Dialogue: 0,0:01:49.13,0:01:54.09,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(260,115)}The Ninth Match
 Dialogue: 0,0:01:49.13,0:01:54.09,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}An Irritating Presence
-Dialogue: 0,0:02:28.49,0:02:29.14,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:02:28.46,0:02:29.14,Default,,0,0,0,,Hmm?
 Dialogue: 0,0:02:29.69,0:02:30.90,Default,,0,0,0,,Where's Itou and Kojima?
-Dialogue: 0,0:02:31.57,0:02:32.72,Default,,0,0,0,,They came today right?
-Dialogue: 0,0:02:33.20,0:02:34.20,Default,,0,0,0,,They're not here?
+Dialogue: 0,0:02:31.55,0:02:32.72,Default,,0,0,0,,They came today right?
+Dialogue: 0,0:02:33.13,0:02:34.20,Default,,0,0,0,,They're not here?
 Dialogue: 0,0:02:34.69,0:02:39.81,Default,,0,0,0,,They took Okumura-kun, a freshman, and\Nthe three of them sneaked off earlier.
 Dialogue: 0,0:02:40.34,0:02:41.40,Background,,0,0,0,,Sneaked off?
 Dialogue: 0,0:02:41.74,0:02:42.34,Default,,0,0,0,,Yes...
+Comment: 0,0:02:42.77,0:02:44.77,Note,,0,0,10,,fs18.75 might be slightly more accurate for these notes (but not the last line which does seem to be fs20).
 Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,10,,{\fs19}[note: Wakajishisen is a fictional tournament that appears in Hikaru no Go.\NIt is based on a real tournament where new pros play Insei in a\Ntournament style match.]
 Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,10,,{\fs19\an2}[note: Insei are children who go to the Japanese Go Center to learn Go. They all\Naim to become pros some day, and they're all frighteningly good at the game]\N\N{\fs20}[note: Shuusaku is the person that Sai inhabited 100 years ago. He actually\Ndid exist, and is considered one of the greatest players of all time]
 Dialogue: 0,0:02:42.77,0:02:44.77,Note,,0,0,0,,{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\bord1.5\pos(50,115)}A\NHundred\NDifferent\NTsumego
@@ -68,22 +69,24 @@ Dialogue: 0,0:02:56.46,0:02:59.83,Default,,0,0,0,,When we didn't have very many\
 Dialogue: 0,0:03:00.18,0:03:03.17,Default,,0,0,0,,But now... it's just storage for the club.
 Dialogue: 0,0:03:05.47,0:03:09.50,Default,,0,0,0,,At the next tournament, we're going to use this\Nplace as a preparation room for the women...
 Dialogue: 0,0:03:09.73,0:03:12.75,Default,,0,0,0,,So Mr. Yun told us to clean it up.
-Dialogue: 0,0:03:13.27,0:03:19.81,Background,,0,0,0,,Anyways, chores like this are work for the freshman,\Nand you looked bored Touya, so if you don't mind...
-Dialogue: 0,0:03:21.06,0:03:21.86,Default,,0,0,0,,I understand.
-Dialogue: 0,0:03:25.55,0:03:27.30,Background,,0,0,0,,Oh wow, it's Kifu...
-Dialogue: 0,0:03:27.75,0:03:29.11,Background,,0,0,0,,and an old Go magazine.
+Dialogue: 0,0:03:13.27,0:03:19.81,Background,,0,0,0,,Anyways, chores like this are work for the freshmen,\Nand you looked bored Touya, so if you don't mind...
+Dialogue: 0,0:03:21.01,0:03:21.93,Default,,0,0,0,,I understand.
+Dialogue: 0,0:03:25.52,0:03:27.30,Background,,0,0,0,,Oh wow, it's Kifu...
+Dialogue: 0,0:03:27.73,0:03:29.11,Background,,0,0,0,,and an old Go magazine.
 Dialogue: 0,0:03:29.67,0:03:30.37,Default,,0,0,0,,Wow!
+Comment: 0,0:03:29.67,0:03:35.78,Note,,0,0,10,,As above note, maybe 18.75 here but kept 19.
 Dialogue: 0,0:03:29.67,0:03:35.78,Note,,0,0,10,,{\fs19}[note: The Japanese Calendar doesn't work on the same system as the\NWestern calendar. They have periods that begin and end with the government.\NCurrently they are in the Heisei period which started about 15 years ago. The\NShouwa period was before the Heisei period, and lasted more than 60 years.]
 Dialogue: 0,0:03:30.77,0:03:32.94,Default,,0,0,0,,There are things here from the\Nbeginning of the Shouwa Period.
 Dialogue: 0,0:03:32.78,0:03:33.90,Note,,0,0,0,,{\fs32.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1.5\shad1\pos(346,192)}Learning
 Dialogue: 0,0:03:32.78,0:03:33.90,Note,,0,0,0,,{\fs32.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1.5\shad1\pos(376,242)}Joseki
 Dialogue: 0,0:03:33.11,0:03:35.66,Background,,0,0,0,,Wow, this book is old too!
-Dialogue: 0,0:03:42.90,0:03:44.00,Thinking,,0,0,0,,{\1c&HC5FEC1&}Old Joseki...
-Dialogue: 0,0:03:45.31,0:03:47.78,Thinking,,0,0,0,,I've felt it since I first met Shindou Hikaru.
+Dialogue: 0,0:03:42.87,0:03:44.12,Thinking,,0,0,0,,{\1c&HC5FEC1&}Old Joseki...
+Dialogue: 0,0:03:45.29,0:03:47.78,Thinking,,0,0,0,,I've felt it since I first met Shindou Hikaru.
 Dialogue: 0,0:03:49.13,0:03:51.46,Thinking,,0,0,0,,{\1c&HC5FEC1&}For example, black's next move....
 Dialogue: 0,0:03:52.34,0:03:54.01,Thinking,,0,0,0,,{\1c&HC5FEC1&}These days we would hane the white stone.
-Dialogue: 0,0:03:54.18,0:03:56.74,Thinking,,0,0,0,,{\1c&HC5FEC1&}It's considered to be the best move.
-Dialogue: 0,0:03:57.59,0:03:59.59,Thinking,,0,0,0,,{\1c&HC5FEC1&}But, you used... {\alpha&HFF&\t(1360,1360,\alpha&H00&\4a&H80&)}a nobi.
+Dialogue: 0,0:03:54.18,0:03:56.80,Thinking,,0,0,0,,{\1c&HC5FEC1&}It's considered to be the best move.
+Comment: 0,0:03:57.59,0:03:59.59,Thinking,,0,0,0,,Had 1360 before but shouldn't matter.
+Dialogue: 0,0:03:57.59,0:03:59.59,Thinking,,0,0,0,,{\1c&HC5FEC1&}But, you used... {\alpha&HFF&\t(1399,1399,\alpha&H00&\4a&H80&)}a nobi.
 Dialogue: 0,0:04:00.32,0:04:01.63,Thinking,,0,0,0,,{\1c&HC5FEC1&}That's an old joseki.
 Dialogue: 0,0:04:03.28,0:04:05.13,Thinking,,0,0,0,,Sometimes, things like that happen.
 Dialogue: 0,0:04:05.81,0:04:07.73,Thinking,,0,0,0,,It may look like a weakness to attack...
@@ -97,261 +100,278 @@ Dialogue: 0,0:04:16.28,0:04:19.32,Thinking,,0,0,0,,will require a strength great
 Dialogue: 0,0:04:21.29,0:04:23.95,Default,,0,0,0,,Could you play a game against me while you're at it?
 Dialogue: 0,0:04:24.79,0:04:25.59,Default,,0,0,0,,Oh wait...
 Dialogue: 0,0:04:26.22,0:04:29.25,Default,,0,0,0,,You just keep cleaning up like I told you to.
-Dialogue: 0,0:04:31.03,0:04:34.05,Default,,0,0,0,,Don't you dare look at the board\Nin the middle of the game.
+Dialogue: 0,0:04:31.00,0:04:34.05,Default,,0,0,0,,Don't you dare look at the board\Nin the middle of the game.
 Dialogue: 0,0:04:34.44,0:04:36.00,Default,,0,0,0,,Not... look at the board?
-Dialogue: 0,0:04:39.24,0:04:42.04,Default,,0,0,0,,You're telling me to play blind folded?
-Dialogue: 0,0:04:42.25,0:04:43.20,Default,,0,0,0,,No, not at all.
+Dialogue: 0,0:04:39.22,0:04:42.04,Default,,0,0,0,,You're telling me to play blind folded?
+Dialogue: 0,0:04:42.22,0:04:43.20,Default,,0,0,0,,No, not at all.
 Dialogue: 0,0:04:43.57,0:04:46.42,Default,,0,0,0,,It's just that if you're a member of the Kaiou Go club...
-Dialogue: 0,0:04:46.71,0:04:51.10,Default,,0,0,0,,You have to do the chores, and you\Nalso have to obey your sempai.
-Dialogue: 0,0:04:51.94,0:04:54.27,Default,,0,0,0,,Go is different from Shougi,\Nthe board is a lot larger.
-Dialogue: 0,0:04:55.03,0:04:58.17,Default,,0,0,0,,Are you aware that blind Go is\Ndifficult even for pros?
-Dialogue: 0,0:04:58.39,0:05:00.10,Default,,0,0,0,,You can do it right?
-Dialogue: 0,0:05:00.37,0:05:02.65,Default,,0,0,0,,You are the future Meijin after all.
-Dialogue: 0,0:05:03.73,0:05:08.26,Background,,0,0,0,,Why did a guy like you have to join the Go club?
+Dialogue: 0,0:04:46.68,0:04:51.10,Default,,0,0,0,,You have to do the chores, and you\Nalso have to obey your sempai.
+Comment: 0,0:04:51.94,0:04:54.27,Default,,0,0,0,,Go is different from Shougi, the board is a lot larger.
+Comment: 0,0:04:55.03,0:04:58.17,Default,,0,0,0,,Are you aware that blind Go is difficult even for pros?
+Comment: 0,0:04:58.39,0:05:00.10,Default,,0,0,0,,You can do it right?
+Comment: 0,0:05:00.37,0:05:02.65,Default,,0,0,0,,You are the future Meijin after all.
+Comment: 0,0:04:51.90,0:04:54.32,Default,,0,0,0,,Above lines are gabest11 timing.
+Dialogue: 0,0:04:51.90,0:04:54.32,Default,,0,0,0,,Go is different from Shougi.
+Dialogue: 0,0:04:55.03,0:04:56.28,Default,,0,0,0,,A Go board is a lot larger.
+Dialogue: 0,0:04:56.28,0:04:58.36,Default,,0,0,0,,Are you aware that blind Go is difficult even for pros?
+Dialogue: 0,0:04:58.36,0:05:00.32,Default,,0,0,0,,You can do it right?
+Dialogue: 0,0:05:00.32,0:05:02.65,Default,,0,0,0,,You are the future meijin after all.
+Dialogue: 0,0:05:03.70,0:05:08.26,Background,,0,0,0,,Why did a guy like you have to join the Go club?
 Dialogue: 0,0:05:08.60,0:05:12.43,Default,,0,0,0,,No one in any tournament will be able to beat you.
 Dialogue: 0,0:05:12.92,0:05:17.13,Default,,0,0,0,,Why don't you just go pro and take 4 or 5 titles?
 Dialogue: 0,0:05:18.81,0:05:20.02,Default,,0,0,0,,Or what?
 Dialogue: 0,0:05:20.32,0:05:24.64,Default,,0,0,0,,Did you want to show off your strength to others\Nand make sure everyone knows that you're the best?
 Dialogue: 0,0:05:28.03,0:05:29.15,Default,,0,0,0,,The best?
-Dialogue: 0,0:05:29.90,0:05:32.39,Default,,0,0,0,,What? Are you saying you're not?
-Dialogue: 0,0:05:34.27,0:05:35.36,Default,,0,0,0,,If I'm the best...
-Dialogue: 0,0:05:36.52,0:05:37.80,Default,,0,0,0,,If I'm the best...
-Dialogue: 0,0:05:38.09,0:05:40.78,Default,,0,0,0,,You're saying I should be able\Nto play blind Go easily?
-Dialogue: 0,0:05:46.53,0:05:47.83,Default,,0,0,0,,Please make your first move.
+Dialogue: 0,0:05:29.85,0:05:32.31,Default,,0,0,0,,What? Are you saying you're not?
+Dialogue: 0,0:05:34.23,0:05:35.48,Default,,0,0,0,,If I'm the best...
+Dialogue: 0,0:05:36.48,0:05:37.86,Default,,0,0,0,,If I'm the best...
+Dialogue: 0,0:05:38.07,0:05:40.78,Default,,0,0,0,,You're saying I should be able to play blind Go easily?
+Dialogue: 0,0:05:46.49,0:05:47.79,Default,,0,0,0,,Please make your first move.
 Dialogue: 0,0:05:52.26,0:05:54.29,Default,,0,0,0,,16-4... Star
 Dialogue: 0,0:05:56.30,0:05:57.60,Default,,0,0,0,,4-16 Star
 Dialogue: 0,0:05:58.47,0:06:00.74,Background,,0,0,0,,4-16 Star...
 Dialogue: 0,0:06:03.12,0:06:05.34,Background,,0,0,0,,16-17 Komoku
-Dialogue: 0,0:06:06.92,0:06:08.21,Background,,0,0,0,,4-4 Hoshi
-Dialogue: 0,0:06:10.00,0:06:11.68,Background,,0,0,0,,4-4 Hoshi...
+Dialogue: 0,0:06:06.89,0:06:08.21,Background,,0,0,0,,4-4 Hoshi
+Dialogue: 0,0:06:09.97,0:06:11.68,Background,,0,0,0,,4-4 Hoshi...
 Dialogue: 0,0:06:13.60,0:06:16.27,Default,,0,0,0,,If I beat you at this, it would be great.
-Dialogue: 0,0:06:16.28,0:06:17.72,Default,,0,0,0,,After all, it is an even match.
+Dialogue: 0,0:06:16.28,0:06:17.82,Default,,0,0,0,,After all, it is an even match.
 Dialogue: 0,0:06:18.15,0:06:20.69,Default,,0,0,0,,Beating the great Touya Akira at an even match...
+Comment: 0,0:06:21.11,0:06:21.57,Default,,0,0,0,,Not included in gabest11 subs but is on E-F.
+Dialogue: 0,0:06:21.11,0:06:21.57,Default,,0,0,0,,Hmm!
 Dialogue: 0,0:06:22.13,0:06:28.16,Default,,0,0,0,,It won't be interesting if you kill yourself off\Ntoo quickly, so try to hold back on mistakes.
 Dialogue: 0,0:06:28.46,0:06:32.60,Default,,0,0,0,,I don't care if you show off,\Nbut do it after you beat me.
-Dialogue: 0,0:06:33.79,0:06:35.17,Default,,0,0,0,,You sure do talk a lot!
+Dialogue: 0,0:06:33.75,0:06:35.17,Default,,0,0,0,,You sure do talk a lot!
 Dialogue: 0,0:06:35.17,0:06:37.57,Default,,0,0,0,,You just said that it's hard even for pros.
 Dialogue: 0,0:06:38.30,0:06:40.75,Default,,0,0,0,,This will be an interesting match.
-Dialogue: 0,0:06:42.29,0:06:43.65,Background,,0,0,0,,6-4 kakari!
+Dialogue: 0,0:06:42.26,0:06:43.67,Background,,0,0,0,,6-4 kakari!
 Dialogue: 0,0:06:46.37,0:06:47.27,Background,,0,0,0,,3-6 !
 Dialogue: 0,0:06:50.36,0:06:51.41,Background,,0,0,0,,6-6 !
 Dialogue: 0,0:06:54.60,0:06:55.68,Background,,0,0,0,,4-14
-Dialogue: 0,0:06:56.48,0:06:58.72,Default,,0,0,0,,Touya should be struggling by now.
-Dialogue: 0,0:06:59.22,0:07:02.28,Default,,0,0,0,,Blind Go has to be tough, even for Touya.
+Dialogue: 0,0:06:56.48,0:06:58.81,Default,,0,0,0,,Touya should be struggling by now.
+Dialogue: 0,0:06:59.19,0:07:02.28,Default,,0,0,0,,Blind Go has to be tough, even for Touya.
 Dialogue: 0,0:07:03.46,0:07:06.91,Default,,0,0,0,,So this is what he meant by tying\Nhis arms and legs behind his back.
-Dialogue: 0,0:07:08.03,0:07:09.29,Default,,0,0,0,,I understand.
-Dialogue: 0,0:07:14.33,0:07:15.94,Default,,0,0,0,,Well, I'm next.
+Dialogue: 0,0:07:07.99,0:07:09.29,Default,,0,0,0,,I understand.
+Dialogue: 0,0:07:14.29,0:07:15.96,Default,,0,0,0,,Well, I'm next.
 Dialogue: 0,0:07:16.55,0:07:18.24,Default,,0,0,0,,Isn't it still a little early?
-Dialogue: 0,0:07:18.62,0:07:21.04,Default,,0,0,0,,I wanna see Touya's desperate face.
-Dialogue: 0,0:07:22.40,0:07:23.30,Background,,0,0,0,,Hey Touya!
-Dialogue: 0,0:07:24.09,0:07:25.09,Default,,0,0,0,,Will you play a game...
-Dialogue: 0,0:07:33.33,0:07:34.03,Default,,0,0,0,,Itou...
-Dialogue: 0,0:07:36.98,0:07:38.15,Default,,0,0,0,,T-This is...
-Dialogue: 0,0:07:39.22,0:07:40.90,Background,,0,0,0,,a resignation from too great a gap?
-Dialogue: 0,0:07:41.11,0:07:43.07,Background,,0,0,0,,But you've only gone through half a game!
-Dialogue: 0,0:07:43.24,0:07:45.34,Background,,0,0,0,,I didn't think there was another person.
-Dialogue: 0,0:07:48.11,0:07:50.45,Default,,0,0,0,,If you wish to play me, go ahead.
-Dialogue: 0,0:07:52.92,0:07:53.82,Background,,0,0,0,,Oh...
-Dialogue: 0,0:07:54.35,0:07:58.16,Background,,0,0,0,,he was beat easily since it was a match without any handicap...
+Dialogue: 0,0:07:18.58,0:07:21.09,Default,,0,0,0,,I wanna see Touya's desperate face.
+Dialogue: 0,0:07:22.34,0:07:23.21,Background,,0,0,0,,Hey Touya!
+Dialogue: 0,0:07:24.05,0:07:25.05,Default,,0,0,0,,Will you play a game...
+Dialogue: 0,0:07:33.31,0:07:34.10,Default,,0,0,0,,Itou...
+Dialogue: 0,0:07:36.94,0:07:38.15,Default,,0,0,0,,T-This is...
+Dialogue: 0,0:07:39.22,0:07:40.94,Background,,0,0,0,,a resignation from too great a gap?
+Dialogue: 0,0:07:41.07,0:07:43.07,Background,,0,0,0,,But you've only gone through half a game!
+Dialogue: 0,0:07:43.19,0:07:45.44,Background,,0,0,0,,I didn't think there was another person.
+Dialogue: 0,0:07:48.07,0:07:50.41,Default,,0,0,0,,If you wish to play me, go ahead.
+Dialogue: 0,0:07:52.87,0:07:53.87,Background,,0,0,0,,Oh...
+Dialogue: 0,0:07:54.33,0:07:58.16,Background,,0,0,0,,he was beat easily since it was a match without any handicap...
 Dialogue: 0,0:07:58.85,0:08:02.12,Background,,0,0,0,,with so little moves, blind Go is not impossible.
-Dialogue: 0,0:08:03.05,0:08:04.98,Default,,0,0,0,,Like this, I would also get defeated.
-Dialogue: 0,0:08:05.35,0:08:06.15,Default,,0,0,0,,Hey Itou!
-Dialogue: 0,0:08:08.84,0:08:09.54,Default,,0,0,0,,Okumura!
-Dialogue: 0,0:08:09.85,0:08:10.75,Default,,0,0,0,,Come here Okumura!
-Dialogue: 0,0:08:11.30,0:08:11.80,Default,,0,0,0,,Huh?
-Dialogue: 0,0:08:12.00,0:08:13.91,Default,,0,0,0,,You're gonna play him too!
-Dialogue: 0,0:08:16.10,0:08:19.10,Default,,0,0,0,,But... he can't play against 2\Npeople at the same time!
+Dialogue: 0,0:08:03.00,0:08:05.05,Default,,0,0,0,,Like this, I would also get defeated.
+Dialogue: 0,0:08:05.35,0:08:06.22,Default,,0,0,0,,Hey Itou!
+Dialogue: 0,0:08:08.80,0:08:09.59,Default,,0,0,0,,Okumura!
+Dialogue: 0,0:08:09.80,0:08:10.85,Default,,0,0,0,,Come here Okumura!
+Dialogue: 0,0:08:11.30,0:08:11.76,Default,,0,0,0,,Huh?
+Dialogue: 0,0:08:11.97,0:08:13.91,Default,,0,0,0,,You're gonna play him too!
+Dialogue: 0,0:08:16.06,0:08:19.10,Default,,0,0,0,,But... he can't play against 2 people at the same time!
 Dialogue: 0,0:08:19.10,0:08:20.56,Default,,0,0,0,,It won't even be a close game.
-Dialogue: 0,0:08:20.69,0:08:23.19,Default,,0,0,0,,It didn't work out as we planned\Nwith only one person.
+Dialogue: 0,0:08:20.69,0:08:23.19,Default,,0,0,0,,It didn't work out as we\Nplanned with only one person.
 Dialogue: 0,0:08:23.23,0:08:23.99,Default,,0,0,0,,Really?!
-Dialogue: 0,0:08:25.23,0:08:26.65,Default,,0,0,0,,Two... opponents?
-Dialogue: 0,0:08:27.12,0:08:27.82,Default,,0,0,0,,What?
-Dialogue: 0,0:08:28.26,0:08:31.16,Default,,0,0,0,,You're going to quit now?
+Dialogue: 0,0:08:25.19,0:08:26.61,Default,,0,0,0,,Two... opponents?
+Dialogue: 0,0:08:27.07,0:08:27.86,Default,,0,0,0,,What?
+Dialogue: 0,0:08:28.20,0:08:31.03,Default,,0,0,0,,You're going to quit now?
+Comment: 0,0:08:31.45,0:08:34.37,Default,,0,0,0,,Old timing.
+Comment: 0,0:08:31.45,0:08:34.37,Default,,0,0,0,,Then why don't you quit the Kaiou Go club too?!
+Comment: 0,0:08:34.49,0:08:37.62,Default,,0,0,0,,If you can't play us, then why\Ndon't you leave the Go club?
+Comment: 0,0:08:37.65,0:08:38.60,Default,,0,0,0,,You're irritating.
 Dialogue: 0,0:08:31.45,0:08:34.37,Default,,0,0,0,,Then why don't you quit the Kaiou Go club too?!
-Dialogue: 0,0:08:34.49,0:08:37.62,Default,,0,0,0,,If you can't play us, then why\Ndon't you leave the Go club?
-Dialogue: 0,0:08:37.65,0:08:38.60,Default,,0,0,0,,You're irritating.
-Dialogue: 0,0:08:43.23,0:08:44.49,Default,,0,0,0,,Make your first move.
-Dialogue: 0,0:08:45.71,0:08:46.41,Default,,0,0,0,,But...
-Dialogue: 0,0:08:46.98,0:08:49.12,Default,,0,0,0,,I won't give up so easily.
-Dialogue: 0,0:08:51.30,0:08:52.34,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:08:34.45,0:08:37.54,Default,,0,0,0,,If you can't play us, then why\Ndon't you leave the Go club?
+Dialogue: 0,0:08:37.58,0:08:38.60,Default,,0,0,0,,You're irritating.
+Dialogue: 0,0:08:43.17,0:08:44.63,Default,,0,0,0,,Make your first move.
+Dialogue: 0,0:08:45.67,0:08:46.41,Default,,0,0,0,,But...
+Dialogue: 0,0:08:46.92,0:08:49.18,Default,,0,0,0,,I won't give up so easily.
+Dialogue: 0,0:08:51.26,0:08:52.34,Default,,0,0,0,,What's the matter?
 Dialogue: 0,0:08:52.49,0:08:54.98,Default,,0,0,0,,The future Meijin wishes to play you.
-Dialogue: 0,0:08:56.50,0:08:57.40,Default,,0,0,0,,Then...
+Dialogue: 0,0:08:56.47,0:08:57.40,Default,,0,0,0,,Then...
 Dialogue: 0,0:08:58.13,0:08:59.93,Default,,0,0,0,,16-4 Star!
 Dialogue: 0,0:09:01.73,0:09:03.30,Default,,0,0,0,,4-16 Star
-Dialogue: 0,0:09:04.38,0:09:06.30,Background,,0,0,0,,4-16... Star
-Dialogue: 0,0:09:08.37,0:09:10.16,Default,,0,0,0,,17-4... Komoku
-Dialogue: 0,0:09:12.20,0:09:13.79,Default,,0,0,0,,4-3 komoku
+Dialogue: 0,0:09:04.36,0:09:06.30,Background,,0,0,0,,4-16... Star
+Dialogue: 0,0:09:08.32,0:09:10.16,Default,,0,0,0,,17-4... Komoku
+Dialogue: 0,0:09:12.16,0:09:13.79,Default,,0,0,0,,4-3 komoku
 Dialogue: 0,0:09:16.84,0:09:18.97,Default,,0,0,0,,16-17 komoku
-Dialogue: 0,0:09:22.12,0:09:23.43,Background,,0,0,0,,4-4 Star
-Dialogue: 0,0:09:27.83,0:09:29.50,Background,,0,0,0,,16-17 Komoku
-Dialogue: 0,0:09:32.76,0:09:33.95,Background,,0,0,0,,4-16
-Dialogue: 0,0:09:36.79,0:09:38.71,Background,,0,0,0,,6-17... kakari
-Dialogue: 0,0:09:41.29,0:09:42.51,Default,,0,0,0,,16-15
+Dialogue: 0,0:09:22.12,0:09:23.54,Background,,0,0,0,,4-4 Star
+Dialogue: 0,0:09:27.80,0:09:29.63,Background,,0,0,0,,16-17 Komoku
+Dialogue: 0,0:09:32.72,0:09:33.95,Background,,0,0,0,,4-16
+Dialogue: 0,0:09:36.76,0:09:38.77,Background,,0,0,0,,6-17... kakari
+Dialogue: 0,0:09:41.27,0:09:42.51,Default,,0,0,0,,16-15
 Dialogue: 0,0:09:44.47,0:09:45.52,Background,,0,0,0,,15-3
-Dialogue: 0,0:09:48.09,0:09:49.20,Default,,0,0,0,,16-15
+Dialogue: 0,0:09:48.07,0:09:49.28,Default,,0,0,0,,16-15
 Dialogue: 0,0:09:51.24,0:09:52.56,Background,,0,0,0,,13-17
 Dialogue: 0,0:09:54.49,0:09:55.80,Background,,0,0,0,,17-17
-Dialogue: 0,0:09:58.90,0:10:00.03,Default,,0,0,0,,17-15
-Dialogue: 0,0:10:02.07,0:10:03.36,Default,,0,0,0,,17-14
+Dialogue: 0,0:09:58.83,0:10:00.03,Default,,0,0,0,,17-15
+Dialogue: 0,0:10:02.04,0:10:03.46,Default,,0,0,0,,17-14
 Dialogue: 0,0:10:06.94,0:10:08.18,Default,,0,0,0,,17-18
-Dialogue: 0,0:10:09.68,0:10:11.15,Default,,0,0,0,,17-16
-Dialogue: 0,0:10:13.87,0:10:14.78,Background,,0,0,0,,3-3
-Dialogue: 0,0:10:16.52,0:10:17.17,Background,,0,0,0,,5-3
-Dialogue: 0,0:10:20.77,0:10:21.77,Background,,0,0,0,,5-17
-Dialogue: 0,0:10:24.96,0:10:26.41,Default,,0,0,0,,4...-17
-Dialogue: 0,0:10:31.20,0:10:32.10,Background,,0,0,0,,6-6
-Dialogue: 0,0:10:33.18,0:10:34.03,Default,,0,0,0,,7-5
+Dialogue: 0,0:10:09.63,0:10:11.30,Default,,0,0,0,,17-16
+Dialogue: 0,0:10:13.84,0:10:14.72,Background,,0,0,0,,3-3
+Dialogue: 0,0:10:16.52,0:10:17.26,Background,,0,0,0,,5-3
+Dialogue: 0,0:10:20.72,0:10:21.81,Background,,0,0,0,,5-17
+Dialogue: 0,0:10:24.94,0:10:26.61,Default,,0,0,0,,4...-17
+Dialogue: 0,0:10:31.20,0:10:32.24,Background,,0,0,0,,6-6
+Dialogue: 0,0:10:33.11,0:10:34.03,Default,,0,0,0,,7-5
 Dialogue: 0,0:10:36.75,0:10:37.35,Thinking,,0,0,0,,Damn...
-Dialogue: 0,0:10:37.85,0:10:39.92,Thinking,,0,0,0,,Kojima's not as strong as I am...
-Dialogue: 0,0:10:40.24,0:10:42.72,Thinking,,0,0,0,,and the freshman's even worse!
+Dialogue: 0,0:10:37.83,0:10:39.95,Thinking,,0,0,0,,Kojima's not as strong as I am...
+Dialogue: 0,0:10:40.20,0:10:42.72,Thinking,,0,0,0,,and the freshman's even worse!
 Dialogue: 0,0:10:44.09,0:10:45.13,Background,,0,0,0,,5-8
-Dialogue: 0,0:10:47.76,0:10:51.01,Thinking,,0,0,0,,{\1c&HC5FEC1&}If it continues like this, they'll lose\Nwith even fewer moves than me.
-Dialogue: 0,0:10:53.05,0:10:54.91,Default,,0,0,0,,Hurry up and move!
+Dialogue: 0,0:10:47.71,0:10:50.96,Thinking,,0,0,0,,{\1c&HC5FEC1&}If it continues like this, they'll lose\Nwith even fewer moves than me.
+Dialogue: 0,0:10:53.01,0:10:54.97,Default,,0,0,0,,Hurry up and move!
 Dialogue: 0,0:10:55.43,0:10:56.22,Default,,0,0,0,,4...
 Dialogue: 0,0:10:56.34,0:10:57.76,Default,,0,0,0,,4-18...
-Dialogue: 0,0:10:58.01,0:10:58.76,Default,,0,0,0,,Osae
-Dialogue: 0,0:10:58.01,0:11:13.74,Note,,0,0,10,,{\fs19}[note: Kaketsugi, Hiraki, Ate, Osae are all names for moves that have a\Nspecific purpose. Hiraki is there to capture more territory, Ate is a move\Nthat places one of your stones next to an opponent stone, Osae is a\Nmove made to limit the mobility of your opponent's stones, Kaketsugi is\Na move to move your stones out of your opponent's containment.]
-Dialogue: 0,0:11:00.04,0:11:00.91,Default,,0,0,0,,Man...
-Dialogue: 0,0:11:02.64,0:11:03.91,Background,,0,0,0,,2-5 Kaketsugi
-Dialogue: 0,0:11:06.37,0:11:07.83,Default,,0,0,0,,10-4 Hiraki
-Dialogue: 0,0:11:11.60,0:11:13.74,Default,,0,0,0,,6-18 Ate
+Dialogue: 0,0:10:57.97,0:10:58.72,Default,,0,0,0,,Osae
+Comment: 0,0:10:57.97,0:11:13.69,Note,,0,0,10,,Tried to time this the best I could. 377 total frames then leaving 3 frames before scene change.
+Dialogue: 0,0:10:57.97,0:11:13.69,Note,,0,0,10,,{\fs19}[note: Kaketsugi, Hiraki, Ate, Osae are all names for moves that have a\Nspecific purpose. Hiraki is there to capture more territory, Ate is a move\Nthat places one of your stones next to an opponent stone, Osae is a\Nmove made to limit the mobility of your opponent's stones, Kaketsugi is\Na move to move your stones out of your opponent's containment.]
+Dialogue: 0,0:10:59.97,0:11:00.89,Default,,0,0,0,,Man...
+Dialogue: 0,0:11:02.56,0:11:04.06,Background,,0,0,0,,2-5 Kaketsugi
+Dialogue: 0,0:11:06.31,0:11:07.86,Default,,0,0,0,,10-4 Hiraki
+Dialogue: 0,0:11:11.53,0:11:13.69,Default,,0,0,0,,6-18 Ate
 Dialogue: 0,0:11:15.82,0:11:17.70,Thinking,,0,0,0,,What a stupid...!
-Dialogue: 0,0:11:21.12,0:11:21.77,Default,,0,0,0,,Hmm...?
-Dialogue: 0,0:11:23.64,0:11:27.60,Default,,0,0,0,,Hey! Why are you so slow whenever\Nyou're moving against me!
-Dialogue: 0,0:11:29.91,0:11:31.50,Thinking,,0,0,0,,Touya is struggling?
-Dialogue: 0,0:11:31.76,0:11:35.27,Thinking,,0,0,0,,It can't be, they haven't made very many moves yet...
-Dialogue: 0,0:11:35.68,0:11:39.37,Thinking,,0,0,0,,and it's stupid Okumura, not Kojima...
+Dialogue: 0,0:11:21.08,0:11:21.77,Default,,0,0,0,,Hmm...?
+Dialogue: 0,0:11:23.58,0:11:27.60,Default,,0,0,0,,Hey! Why are you so slow whenever\Nyou're moving against me!
+Dialogue: 0,0:11:29.88,0:11:31.50,Thinking,,0,0,0,,Touya is struggling?
+Dialogue: 0,0:11:31.71,0:11:35.30,Thinking,,0,0,0,,It can't be, they haven't made very many moves yet...
+Dialogue: 0,0:11:35.68,0:11:39.47,Thinking,,0,0,0,,and it's stupid Okumura, not Kojima...
 Dialogue: 0,0:11:49.77,0:11:50.62,Thinking,,0,0,0,,Oh!
-Dialogue: 0,0:11:52.35,0:11:55.34,Thinking,,0,0,0,,Touya's going to lose without holding out even 5 minutes...
-Dialogue: 0,0:11:55.78,0:11:57.20,Thinking,,0,0,0,,{\1c&HC5FEC1&}Against Okumura.
-Dialogue: 0,0:12:03.00,0:12:05.41,Default,,0,0,0,,Touya! Hurry up and move!
-Dialogue: 0,0:12:17.91,0:12:21.32,Background,,0,0,0,,Touya! Hurry up and move! It's your turn.
+Dialogue: 0,0:11:52.32,0:11:55.44,Thinking,,0,0,0,,Touya's going to lose without holding out even 5 minutes...
+Dialogue: 0,0:11:55.74,0:11:57.15,Thinking,,0,0,0,,{\1c&HC5FEC1&}Against Okumura.
+Dialogue: 0,0:12:02.95,0:12:05.45,Default,,0,0,0,,Touya! Hurry up and move!
+Dialogue: 0,0:12:17.88,0:12:21.35,Background,,0,0,0,,Touya! Hurry up and move! It's your turn.
 Dialogue: 0,0:12:25.94,0:12:31.31,Thinking,,0,0,0,,Oh... Okumura's stupid moves are\Nthrowing Touya's rhythm off...
-Dialogue: 0,0:12:31.94,0:12:35.36,Thinking,,0,0,0,,{\1c&HC5FEC1&}memorizing each move can only happen when those moves have meaning.
-Dialogue: 0,0:12:35.49,0:12:42.91,Thinking,,0,0,0,,But... Okumura's moves are so meaningless\Nthat Touya's having trouble understanding\Nwhy he's making those moves...
-Dialogue: 0,0:12:43.32,0:12:46.16,Thinking,,0,0,0,,{\1c&HC5FEC1&}and that's throwing his memory off!
-Dialogue: 0,0:12:47.81,0:12:48.71,Default,,0,0,0,,10...
+Dialogue: 0,0:12:31.86,0:12:35.28,Thinking,,0,0,0,,{\1c&HC5FEC1&}memorizing each move can only happen when those moves have meaning.
+Dialogue: 0,0:12:35.44,0:12:42.87,Thinking,,0,0,0,,But... Okumura's moves are so meaningless\Nthat Touya's having trouble understanding\Nwhy he's making those moves...
+Dialogue: 0,0:12:43.28,0:12:46.20,Thinking,,0,0,0,,{\1c&HC5FEC1&}and that's throwing his memory off!
+Dialogue: 0,0:12:47.79,0:12:48.66,Default,,0,0,0,,10...
 Dialogue: 0,0:12:49.00,0:12:49.87,Default,,0,0,0,,17...
-Dialogue: 0,0:12:50.19,0:12:52.46,Default,,0,0,0,,10-17...
-Dialogue: 0,0:12:54.72,0:12:57.20,Default,,0,0,0,,Touya, one of my stones is there.
-Dialogue: 0,0:12:58.86,0:12:59.51,Default,,0,0,0,,Dammit!
-Dialogue: 0,0:13:02.54,0:13:04.46,Default,,0,0,0,,4-9 Hiraki!
-Dialogue: 0,0:13:04.91,0:13:06.30,Background,,0,0,0,,4-9 huh?
-Dialogue: 0,0:13:06.89,0:13:08.89,Default,,0,0,0,,He's finally starting to collapse!
-Dialogue: 0,0:13:09.37,0:13:12.23,Default,,0,0,0,,Wait, can't let my guard down, I'm playing Touya.
+Dialogue: 0,0:12:50.12,0:12:52.42,Default,,0,0,0,,10-17...
+Dialogue: 0,0:12:54.67,0:12:57.26,Default,,0,0,0,,Touya, one of my stones is there.
+Dialogue: 0,0:12:58.80,0:12:59.59,Default,,0,0,0,,Dammit!
+Dialogue: 0,0:13:02.51,0:13:04.43,Default,,0,0,0,,4-9 Hiraki!
+Dialogue: 0,0:13:04.89,0:13:06.39,Background,,0,0,0,,4-9 huh?
+Dialogue: 0,0:13:06.85,0:13:08.98,Default,,0,0,0,,He's finally starting to collapse!
+Dialogue: 0,0:13:09.31,0:13:12.35,Default,,0,0,0,,Wait, can't let my guard down, I'm playing Touya.
 Dialogue: 0,0:13:14.19,0:13:17.23,Thinking,,0,0,0,,You can just keep acting stupid.
-Dialogue: 0,0:13:17.61,0:13:19.21,Default,,0,0,0,,3-14 kakari
-Dialogue: 0,0:13:20.95,0:13:22.15,Default,,0,0,0,,4-11
-Dialogue: 0,0:13:25.98,0:13:27.65,Background,,0,0,0,,10-4... Hiraki
-Dialogue: 0,0:13:29.68,0:13:30.68,Default,,0,0,0,,17-...
+Dialogue: 0,0:13:17.61,0:13:19.36,Default,,0,0,0,,3-14 kakari
+Dialogue: 0,0:13:20.90,0:13:22.24,Default,,0,0,0,,4-11
+Dialogue: 0,0:13:25.95,0:13:27.83,Background,,0,0,0,,10-4... Hiraki
+Dialogue: 0,0:13:29.62,0:13:30.79,Default,,0,0,0,,17-...
 Dialogue: 0,0:13:32.00,0:13:32.71,Default,,0,0,0,,...6
-Dialogue: 0,0:13:34.76,0:13:36.38,Thinking,,0,0,0,,Keep moving Touya!
+Dialogue: 0,0:13:34.71,0:13:36.38,Thinking,,0,0,0,,Keep moving Touya!
 Dialogue: 0,0:13:36.50,0:13:40.63,Thinking,,0,0,0,,Upon this battlefield which you can't see,\Nyou shall wander around blindly and die!
 Dialogue: 0,0:13:41.68,0:13:42.89,Default,,0,0,0,,Touya are you here?
 Dialogue: 0,0:13:44.29,0:13:45.39,Default,,0,0,0,,Hitaka... sempai!
 Dialogue: 0,0:13:45.89,0:13:47.72,Default,,0,0,0,,Itou... kojima too?
 Dialogue: 0,0:13:48.74,0:13:50.15,Default,,0,0,0,,Oh hey, Touya...
-Dialogue: 0,0:13:50.85,0:13:53.06,Default,,0,0,0,,you said you'd play a tutoring\Ngame with me earlier...
+Dialogue: 0,0:13:50.85,0:13:53.06,Default,,0,0,0,,you said you'd play a tutoring game with me earlier...
 Dialogue: 0,0:14:00.49,0:14:00.99,Default,,0,0,0,,Huh?
-Dialogue: 0,0:14:02.94,0:14:04.62,Default,,0,0,0,,You're a freshman, right?
-Dialogue: 0,0:14:06.11,0:14:07.57,Default,,0,0,0,,What are you guys doing?
-Dialogue: 0,0:14:07.87,0:14:09.91,Default,,0,0,0,,Umm... {\alpha&HFF&\t(500,500,\alpha&H00&\4a&H80&)}ahh... {\alpha&HFF&\t(1200,1200,\alpha&H00&\4a&H80&)}this is...
+Dialogue: 0,0:14:02.94,0:14:04.66,Default,,0,0,0,,You're a freshman, right?
+Dialogue: 0,0:14:06.11,0:14:07.62,Default,,0,0,0,,What are you guys doing?
+Comment: 0,0:14:07.87,0:14:09.91,Default,,0,0,0,,Super old version.
+Comment: 0,0:14:07.87,0:14:09.91,Default,,0,0,0,,Umm... {\alpha&HFF&\t(500,500,\alpha&H00&\4a&H80&)}ahh... {\alpha&HFF&\t(1200,1200,\alpha&H00&\4a&H80&)}this is...
+Dialogue: 0,0:14:07.87,0:14:09.91,Default,,0,0,0,,Umm... {\alpha&HFF&\t(477,477,\alpha&H00&\4a&H80&)}ahh... {\alpha&HFF&\t(1187,1187,\alpha&H00&\4a&H80&)}this is...
 Dialogue: 0,0:14:10.72,0:14:12.87,Default,,0,0,0,,Eh, Umm... Mr. Yun...
-Dialogue: 0,0:14:12.87,0:14:16.54,Default,,0,0,0,,Said to clean up this room, so we asked Touya...
+Dialogue: 0,0:14:12.87,0:14:16.63,Default,,0,0,0,,Said to clean up this room, so we asked Touya...
 Dialogue: 0,0:14:18.75,0:14:22.22,Background,,0,0,0,,We wanted Touya to play a\Ntutoring match with us too...
-Dialogue: 0,0:14:22.22,0:14:24.31,Default,,0,0,0,,but Touya had to work so...
-Dialogue: 0,0:14:24.70,0:14:25.40,Default,,0,0,0,,So?!
-Dialogue: 0,0:14:26.29,0:14:27.19,Default,,0,0,0,,So...
-Dialogue: 0,0:14:27.29,0:14:28.39,Default,,0,0,0,,Umm... we played a little...
+Dialogue: 0,0:14:22.22,0:14:24.34,Default,,0,0,0,,but Touya had to work so...
+Dialogue: 0,0:14:24.64,0:14:25.40,Default,,0,0,0,,So?!
+Dialogue: 0,0:14:26.10,0:14:27.19,Default,,0,0,0,,So...
+Dialogue: 0,0:14:27.26,0:14:28.47,Default,,0,0,0,,Umm... we played a little...
 Dialogue: 0,0:14:29.03,0:14:30.18,Default,,0,0,0,,Blind Go.
 Dialogue: 0,0:14:30.18,0:14:30.71,Background,,0,0,0,,Moron!
 Dialogue: 0,0:14:31.84,0:14:33.87,Default,,0,0,0,,Touya had to work?
-Dialogue: 0,0:14:34.54,0:14:36.72,Default,,0,0,0,,Then why didn't you help him?!
-Dialogue: 0,0:14:37.07,0:14:38.82,Default,,0,0,0,,Itou... you're behind this aren't you?!
-Dialogue: 0,0:14:39.23,0:14:41.85,Default,,0,0,0,,Umm... well...
-Dialogue: 0,0:14:42.61,0:14:44.92,Default,,0,0,0,,You too Touya, what do you think you're doing?!
-Dialogue: 0,0:14:45.48,0:14:49.54,Default,,0,0,0,,I'll clean this up, so you\Ngo ahead and clean them up.
-Dialogue: 0,0:14:51.44,0:14:52.50,Default,,0,0,0,,Hitaka sempai...
-Dialogue: 0,0:14:54.57,0:14:56.43,Default,,0,0,0,,I took this match...
+Dialogue: 0,0:14:34.48,0:14:36.77,Default,,0,0,0,,Then why didn't you help him?!
+Dialogue: 0,0:14:37.02,0:14:38.94,Default,,0,0,0,,Itou... you're behind this aren't you?!
+Comment: 0,0:14:39.23,0:14:41.85,Default,,0,0,0,,gabest11 timing.
+Comment: 0,0:14:39.23,0:14:41.85,Default,,0,0,0,,Umm... well...
+Dialogue: 0,0:14:39.98,0:14:41.90,Default,,0,0,0,,Umm... well...
+Dialogue: 0,0:14:42.57,0:14:44.95,Default,,0,0,0,,You too Touya, what do you think you're doing?!
+Dialogue: 0,0:14:45.45,0:14:49.54,Default,,0,0,0,,I'll clean this up, so you go ahead and clean them up.
+Dialogue: 0,0:14:51.41,0:14:52.54,Default,,0,0,0,,Hitaka sempai...
+Dialogue: 0,0:14:54.54,0:14:56.43,Default,,0,0,0,,I took this match...
 Dialogue: 0,0:14:57.14,0:14:58.90,Default,,0,0,0,,I'll continue it like this.
-Dialogue: 0,0:14:59.24,0:15:00.04,Default,,0,0,0,,Shut up!
-Dialogue: 0,0:15:00.61,0:15:03.19,Default,,0,0,0,,They're bullying you, I won't let this continue.
-Dialogue: 0,0:15:03.84,0:15:05.17,Default,,0,0,0,,But this is something I...
-Dialogue: 0,0:15:06.82,0:15:08.12,Default,,0,0,0,,If you weren't here...
-Dialogue: 0,0:15:08.22,0:15:10.39,Background,,0,0,0,,Then they wouldn't be doing something like this!
-Dialogue: 0,0:15:10.66,0:15:12.66,Default,,0,0,0,,And you even accepted their challenge!
-Dialogue: 0,0:15:13.55,0:15:16.69,Background,,0,0,0,,You're the one that made the bullying worse!
-Dialogue: 0,0:15:17.59,0:15:18.94,Default,,0,0,0,,If only you weren't here!
-Dialogue: 0,0:15:27.52,0:15:28.22,Background,,0,0,0,,But...
+Dialogue: 0,0:14:59.21,0:15:00.04,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:15:00.59,0:15:03.26,Default,,0,0,0,,They're bullying you, I won't let this continue.
+Dialogue: 0,0:15:03.80,0:15:05.26,Default,,0,0,0,,But this is something I...
+Dialogue: 0,0:15:06.76,0:15:08.18,Default,,0,0,0,,If you weren't here...
+Dialogue: 0,0:15:08.22,0:15:10.47,Default,,0,0,0,,Then they wouldn't be doing something like this!
+Dialogue: 0,0:15:10.66,0:15:12.66,Background,,0,0,0,,And you even accepted their challenge!
+Dialogue: 0,0:15:13.48,0:15:16.85,Background,,0,0,0,,You're the one that made the bullying worse!
+Dialogue: 0,0:15:17.52,0:15:18.94,Default,,0,0,0,,If only you weren't here!
+Dialogue: 0,0:15:27.49,0:15:28.16,Background,,0,0,0,,But...
 Dialogue: 0,0:15:28.94,0:15:30.30,Background,,0,0,0,,what I'm trying to say is...
-Dialogue: 0,0:15:31.53,0:15:35.84,Default,,0,0,0,,you're a student of Kaiou, so\Nbe in the Go club with pride...
-Dialogue: 0,0:15:38.06,0:15:42.37,Default,,0,0,0,,So... don't accept challenges like\Nthis, play them fairly and crush them.
-Dialogue: 0,0:15:44.95,0:15:45.55,Default,,0,0,0,,Yes!
-Dialogue: 0,0:15:47.16,0:15:48.16,Default,,0,0,0,,Thank you very much!
-Dialogue: 0,0:15:51.62,0:15:52.47,Default,,0,0,0,,Hitaka-sempai...
-Dialogue: 0,0:15:53.14,0:15:58.73,Default,,0,0,0,,It should end in about 5 minutes, so\Nplease, allow me to play you afterwards.
-Dialogue: 0,0:16:09.67,0:16:11.23,Default,,0,0,0,,I'm sorry for all the trouble.
+Dialogue: 0,0:15:31.49,0:15:35.87,Default,,0,0,0,,you're a student of Kaiou, so\Nbe in the Go club with pride...
+Dialogue: 0,0:15:38.00,0:15:42.34,Default,,0,0,0,,So... don't accept challenges like\Nthis, play them fairly and crush them.
+Dialogue: 0,0:15:44.88,0:15:45.47,Default,,0,0,0,,Yes!
+Dialogue: 0,0:15:47.09,0:15:48.09,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:15:51.62,0:15:52.60,Default,,0,0,0,,Hitaka-sempai...
+Dialogue: 0,0:15:53.10,0:15:58.81,Default,,0,0,0,,It should end in about 5 minutes, so\Nplease, allow me to play you afterwards.
+Dialogue: 0,0:16:09.62,0:16:11.23,Default,,0,0,0,,I'm sorry for all the trouble.
 Dialogue: 0,0:16:13.20,0:16:13.87,Background,,0,0,0,,Let's...
 Dialogue: 0,0:16:14.37,0:16:15.12,Background,,0,0,0,,finish this!
-Dialogue: 0,0:16:22.40,0:16:23.20,Background,,0,0,0,,Tsutsui-san!
-Dialogue: 0,0:16:23.60,0:16:24.70,Background,,0,0,0,,Tsutsui-san!
-Dialogue: 0,0:16:28.18,0:16:29.50,Default,,0,0,0,,I found a member!
-Dialogue: 0,0:16:29.86,0:16:31.36,Default,,0,0,0,,Someone who can play Go!
-Dialogue: 0,0:16:32.70,0:16:33.39,Default,,0,0,0,,Really?
-Dialogue: 0,0:16:42.36,0:16:44.32,Default,,0,0,0,,Now we can go to the tournament!
-Dialogue: 0,0:16:47.87,0:16:49.79,Default,,0,0,0,,You... can play Go?
-Dialogue: 0,0:16:50.10,0:16:51.10,Default,,0,0,0,,Yeah I can.
-Dialogue: 0,0:16:51.80,0:16:55.06,Default,,0,0,0,,You don't have to know, the Go club here is...
-Dialogue: 0,0:16:55.93,0:16:57.00,Default,,0,0,0,,Are you stupid?!
-Dialogue: 0,0:16:57.24,0:16:59.32,Default,,0,0,0,,Of course it's better that they know how!
-Dialogue: 0,0:16:59.78,0:17:01.80,Default,,0,0,0,,Either way, Shindou-kun..
-Dialogue: 0,0:17:03.08,0:17:07.15,Default,,0,0,0,,team matches are segregated by\Ngender, so she can't be on our team.
+Dialogue: 0,0:16:22.25,0:16:23.20,Background,,0,0,0,,Tsutsui-san!
+Dialogue: 0,0:16:23.55,0:16:24.88,Background,,0,0,0,,Tsutsui-san!
+Dialogue: 0,0:16:28.09,0:16:29.55,Default,,0,0,0,,I found a member!
+Dialogue: 0,0:16:29.86,0:16:31.39,Default,,0,0,0,,Someone who can play Go!
+Dialogue: 0,0:16:32.64,0:16:33.39,Default,,0,0,0,,Really?
+Dialogue: 0,0:16:42.31,0:16:44.32,Default,,0,0,0,,Now we can go to the tournament!
+Dialogue: 0,0:16:47.82,0:16:49.79,Default,,0,0,0,,You... can play Go?
+Dialogue: 0,0:16:50.03,0:16:51.16,Default,,0,0,0,,Yeah I can.
+Dialogue: 0,0:16:51.74,0:16:55.16,Default,,0,0,0,,You don't have to know, the Go club here is...
+Dialogue: 0,0:16:55.24,0:16:56.95,Default,,0,0,0,,Are you stupid?!
+Dialogue: 0,0:16:57.20,0:16:59.41,Default,,0,0,0,,Of course it's better that they know how!
+Dialogue: 0,0:16:59.71,0:17:01.75,Default,,0,0,0,,Either way, Shindou-kun..
+Dialogue: 0,0:17:02.96,0:17:07.26,Default,,0,0,0,,team matches are segregated by\Ngender, so she can't be on our team.
 Dialogue: 0,0:17:08.13,0:17:09.07,Default,,0,0,0,,I know!
-Dialogue: 0,0:17:09.66,0:17:11.35,Default,,0,0,0,,Let's have her dress up as a guy!
-Dialogue: 0,0:17:11.80,0:17:13.36,Default,,0,0,0,,She'll fit the role perfect...!
-Dialogue: 0,0:17:17.80,0:17:20.86,Default,,0,0,0,,I don't mind entering if it's just for the tournament.
-Dialogue: 0,0:17:21.27,0:17:23.19,Default,,0,0,0,,I'm busy with the volleyball club.
+Dialogue: 0,0:17:09.34,0:17:11.34,Default,,0,0,0,,Let's have her dress up as a guy!
+Dialogue: 0,0:17:11.80,0:17:13.10,Default,,0,0,0,,She'll fit the role perfect...!
+Dialogue: 0,0:17:17.80,0:17:20.89,Default,,0,0,0,,I don't mind entering if it's just for the tournament.
+Dialogue: 0,0:17:21.14,0:17:23.19,Default,,0,0,0,,I'm busy with the volleyball club.
 Dialogue: 0,0:17:25.54,0:17:28.13,Sai,,0,0,0,,Hikaru, you said something unnecessary again.
-Dialogue: 0,0:17:31.59,0:17:34.90,Default,,0,0,0,,So a team match in Go work on a 3 player team?
-Dialogue: 0,0:17:35.10,0:17:36.52,Default,,0,0,0,,Damn, a guy!
-Dialogue: 0,0:17:36.94,0:17:38.40,Default,,0,0,0,,We have to find a guy!
-Dialogue: 0,0:17:40.83,0:17:42.97,Default,,0,0,0,,I guess we want a guy who can play...
-Dialogue: 0,0:17:45.27,0:17:47.09,Background,,0,0,0,,and someone as strong as possible...
-Dialogue: 0,0:17:50.49,0:17:52.12,Default,,0,0,0,,Isn't there anyone like that Sai?
+Dialogue: 0,0:17:31.53,0:17:34.90,Default,,0,0,0,,So a team match in Go work on a 3 player team?
+Dialogue: 0,0:17:35.03,0:17:36.58,Default,,0,0,0,,Damn, a guy!
+Dialogue: 0,0:17:36.87,0:17:38.45,Default,,0,0,0,,We have to find a guy!
+Dialogue: 0,0:17:40.79,0:17:43.04,Default,,0,0,0,,I guess we want a guy who can play...
+Dialogue: 0,0:17:45.21,0:17:47.09,Background,,0,0,0,,and someone as strong as possible...
+Dialogue: 0,0:17:50.38,0:17:52.26,Default,,0,0,0,,Isn't there anyone like that Sai?
 Dialogue: 0,0:17:52.93,0:17:56.06,Sai,,0,0,0,,The only strong person I know is that person...
-Dialogue: 0,0:17:58.90,0:18:02.44,Default,,0,0,0,,We can't have Touya's Dad dress\Nup as a Junior High student!
+Dialogue: 0,0:17:58.85,0:18:02.39,Default,,0,0,0,,We can't have Touya's Dad dress\Nup as a Junior High student!
 Dialogue: 0,0:18:08.47,0:18:10.74,Default,,0,0,0,,Hey, let's put a new poster!
 Dialogue: 0,0:18:11.15,0:18:12.45,Default,,0,0,0,,One that attracts more attention.
-Dialogue: 0,0:18:12.76,0:18:17.03,Default,,0,0,0,,We can put a difficult tsumego {\i1}(Go problem){\i0}\Non it and have anyone who can solve it come!
-Dialogue: 0,0:18:17.33,0:18:18.64,Default,,0,0,0,,That again?
-Dialogue: 0,0:18:18.73,0:18:21.19,Default,,0,0,0,,I don't really care if they're strong anymore!
-Dialogue: 0,0:18:23.17,0:18:26.23,Default,,0,0,0,,Doesn't Kaiou Junior High have dozens of members?
+Dialogue: 0,0:18:12.74,0:18:17.03,Default,,0,0,0,,We can put a difficult tsumego {\i1}(Go problem){\i0}\Non it and have anyone who can solve it come!
+Dialogue: 0,0:18:17.33,0:18:18.54,Default,,0,0,0,,That again?
+Dialogue: 0,0:18:18.70,0:18:21.25,Default,,0,0,0,,I don't really care if they're strong anymore!
+Dialogue: 0,0:18:23.12,0:18:26.23,Default,,0,0,0,,Doesn't Kaiou Junior High have dozens of members?
 Dialogue: 0,0:18:26.51,0:18:29.26,Default,,0,0,0,,Yup, the grass is definitely greener on their side.
-Dialogue: 0,0:18:29.63,0:18:31.00,Default,,0,0,0,,Man I'm jealous...
-Dialogue: 0,0:18:31.17,0:18:36.02,Default,,0,0,0,,Come on, it's your turn Shindou-kun,\NKaiou is Kaiou and we're us.
-Dialogue: 0,0:18:36.46,0:18:37.46,Default,,0,0,0,,hmm...
-Dialogue: 0,0:18:48.86,0:18:49.46,Background,,0,0,0,,Touya...
-Dialogue: 0,0:18:52.46,0:18:55.52,Default,,0,0,0,,Itou of the second year just quit the club.
-Dialogue: 0,0:18:58.14,0:19:00.65,Default,,0,0,0,,Why did you enter the Go club, Touya?
-Dialogue: 0,0:19:03.07,0:19:06.75,Default,,0,0,0,,Because of you, all of our members are nervous.
-Dialogue: 0,0:19:07.69,0:19:09.11,Default,,0,0,0,,I, the president, am as well.
-Dialogue: 0,0:19:10.14,0:19:11.17,Default,,0,0,0,,To be honest...
-Dialogue: 0,0:19:11.47,0:19:14.47,Default,,0,0,0,,I want to play you, and learn from you...
-Dialogue: 0,0:19:15.39,0:19:16.19,Default,,0,0,0,,But...
-Dialogue: 0,0:19:16.59,0:19:18.22,Default,,0,0,0,,everyone around me is talking...
-Dialogue: 0,0:19:19.75,0:19:23.42,Background,,0,0,0,,they don't want to see the president\Nlose to Touya in an instant.
-Dialogue: 0,0:19:23.93,0:19:24.63,Background,,0,0,0,,Although...
-Dialogue: 0,0:19:25.58,0:19:28.83,Background,,0,0,0,,I want to challenge you like Aoki did, I can't.
-Dialogue: 0,0:19:31.02,0:19:31.62,Default,,0,0,0,,Touya...
-Dialogue: 0,0:19:32.22,0:19:38.40,Default,,0,0,0,,I heard the rumor that you entered the Kaiou Go\Nclub to fight Shindou Hikaru of Haze Junior High.
-Dialogue: 0,0:19:38.87,0:19:40.74,Default,,0,0,0,,But why a tournament?
-Dialogue: 0,0:19:41.79,0:19:43.45,Default,,0,0,0,,Why did you have to enter the Go club?
-Dialogue: 0,0:19:45.85,0:19:51.25,Default,,0,0,0,,Your existence in the club causes a hundred\Nproblems for us, without a single benefit.
-Dialogue: 0,0:19:54.01,0:19:56.88,Default,,0,0,0,,He refused my challenge.
+Dialogue: 0,0:18:29.59,0:18:31.00,Default,,0,0,0,,Man I'm jealous...
+Dialogue: 0,0:18:31.13,0:18:36.02,Default,,0,0,0,,Come on, it's your turn Shindou-kun,\NKaiou is Kaiou and we're us.
+Dialogue: 0,0:18:36.43,0:18:37.51,Default,,0,0,0,,hmm...
+Dialogue: 0,0:18:48.77,0:18:49.52,Background,,0,0,0,,Touya...
+Dialogue: 0,0:18:52.40,0:18:55.52,Default,,0,0,0,,Itou of the second year just quit the club.
+Dialogue: 0,0:18:58.12,0:19:00.99,Default,,0,0,0,,Why did you enter the Go club, Touya?
+Dialogue: 0,0:19:03.04,0:19:06.79,Default,,0,0,0,,Because of you, all of our members are nervous.
+Dialogue: 0,0:19:07.67,0:19:09.29,Default,,0,0,0,,I, the president, am as well.
+Dialogue: 0,0:19:10.09,0:19:11.13,Default,,0,0,0,,To be honest...
+Dialogue: 0,0:19:11.42,0:19:14.51,Default,,0,0,0,,I want to play you, and learn from you...
+Dialogue: 0,0:19:15.34,0:19:15.93,Default,,0,0,0,,But...
+Dialogue: 0,0:19:16.59,0:19:18.26,Default,,0,0,0,,everyone around me is talking...
+Dialogue: 0,0:19:19.72,0:19:23.77,Background,,0,0,0,,they don't want to see the president\Nlose to Touya in an instant.
+Dialogue: 0,0:19:23.93,0:19:24.52,Background,,0,0,0,,Although...
+Dialogue: 0,0:19:25.52,0:19:28.94,Background,,0,0,0,,I want to challenge you like Aoki did, I can't.
+Dialogue: 0,0:19:30.98,0:19:31.62,Default,,0,0,0,,Touya...
+Dialogue: 0,0:19:32.15,0:19:38.57,Default,,0,0,0,,I heard the rumor that you entered the Kaiou Go\Nclub to fight Shindou Hikaru of Haze Junior High.
+Dialogue: 0,0:19:38.82,0:19:40.74,Default,,0,0,0,,But why a tournament?
+Dialogue: 0,0:19:41.74,0:19:43.45,Default,,0,0,0,,Why did you have to enter the Go club?
+Dialogue: 0,0:19:45.75,0:19:51.55,Default,,0,0,0,,Your existence in the club causes a hundred\Nproblems for us, without a single benefit.
+Dialogue: 0,0:19:53.96,0:19:56.88,Default,,0,0,0,,He refused my challenge.
 Dialogue: 0,0:19:57.80,0:20:01.10,Background,,0,0,0,,I don't know why, but if he refuses...
 Dialogue: 0,0:20:01.30,0:20:03.89,Background,,0,0,0,,then I have to enter the tournament no matter what.
-Dialogue: 0,0:20:05.35,0:20:11.19,Default,,0,0,0,,You said earlier that "I cause a hundred problems\N without a single benefit for the Kaiou Go Club."
-Dialogue: 0,0:20:13.78,0:20:17.45,Default,,0,0,0,,But Shindou Hikaru will come to the next tournament!
+Dialogue: 0,0:20:05.35,0:20:11.11,Default,,0,0,0,,You said earlier that "I cause a hundred problems\N without a single benefit for the Kaiou Go Club."
+Dialogue: 0,0:20:13.69,0:20:17.45,Default,,0,0,0,,But Shindou Hikaru will come to the next tournament!
 Dialogue: 0,0:20:20.49,0:20:23.20,Default,,0,0,0,,It's not ego or selfishness!
 Dialogue: 0,0:20:24.24,0:20:27.25,Default,,0,0,0,,I'm the only one who can play him evenly!
 Dialogue: 0,0:22:09.74,0:22:12.32,Sai,,0,0,0,,{\an5\fs45\bord2.5\shad1}Umezawa Yukari's\NGo Go Igo!
@@ -375,7 +395,9 @@ Dialogue: 0,0:22:42.79,0:22:46.07,Background,,0,0,0,,Teacher Yukari played 5 peo
 Dialogue: 0,0:22:47.27,0:22:49.61,Background,,0,0,0,,Teacher Yukari is incredible!
 Dialogue: 0,0:22:50.94,0:22:53.23,Default,,0,0,0,,Teacher Yukari, Thank you very much.
 Dialogue: 0,0:22:51.15,0:22:52.95,Note,,0,0,0,,{\fs27.5\pos(336,242)}Club President
-Dialogue: 0,0:22:53.66,0:22:56.58,Default,,0,0,0,,Thank you very much!
+Comment: 0,0:22:53.66,0:22:56.58,Default,,0,0,0,,E-F mistimed the start pretty bad so tried to fix it while still ending on roughly the correct frame.
+Comment: 0,0:22:53.66,0:22:56.58,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:22:53.66,0:22:56.22,Default,,0,0,0,,Thank you very much!
 Dialogue: 0,0:22:59.08,0:23:01.61,Default,,0,0,0,,Go club huh? Not too exciting...
 Dialogue: 0,0:23:02.28,0:23:05.12,Default,,0,0,0,,Hey, umm, there's a tournament soon.
 Dialogue: 0,0:23:05.41,0:23:07.20,Default,,0,0,0,,A Go tournament, for Junior High Schools.
