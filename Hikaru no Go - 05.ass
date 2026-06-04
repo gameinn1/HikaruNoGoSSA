@@ -276,7 +276,7 @@ Dialogue: 0,0:12:11.21,0:12:12.60,Default,,0,0,0,,Women's first match...
 Dialogue: 0,0:12:12.86,0:12:15.71,Background,,0,0,0,,Kaiou Junior High against Iwana Junior High is on seat A.
 Dialogue: 0,0:12:16.24,0:12:19.41,Background,,0,0,0,,Ayu Junior High against Iwana Junior High is on seat B.
 Dialogue: 0,0:12:19.72,0:12:28.73,Note,,0,0,0,,{\fs30}(Tournament Pairings)
-Comment: 0,0:12:20.03,0:12:21.68,Background,,0,0,0,,Old gabest11 timings but with the duplicate text fix as mentioned in pdf. I changed all to exactly match E-F timing.
+Comment: 0,0:12:20.03,0:12:21.68,Background,,0,0,0,,Old gabest11 timings but with the duplicate text fix as mentioned in pdf. I changed to match E-F timing better. E-F had 5 frames on scene start "For the men's division..." which is probably much too early so did 7 frame start.
 Comment: 0,0:12:20.03,0:12:21.68,Background,,0,0,0,,For the men's division...
 Comment: 0,0:12:21.67,0:12:24.72,Background,,0,0,0,,Kaiou Junior High against\NHamachi Junior High is on seat C.
 Comment: 0,0:12:25.21,0:12:28.10,Background,,0,0,0,,Seat D is Tai Junior High against Iwana Junior High.
