@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 48 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 66
-Active Line: 81
-Video Position: 7767
+Scroll Position: 87
+Active Line: 91
+Video Position: 3166
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -134,8 +134,8 @@ Dialogue: 0,0:02:11.74,0:02:11.78,NoteArial,,0,0,0,,{=0}{\fscy170.79\fscx170.79\
 Dialogue: 0,0:02:11.78,0:02:14.79,NoteArial,,0,0,0,,{=2}{\fscy170.87\fscx170.87\1a&H00&\3a&H00&\4a&H80&\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz21\pos(537.85,9.08)}Ochi Kousuke (13)
 Dialogue: 0,0:02:11.78,0:02:14.79,NoteArial,,0,0,0,,{=1}{\fscy170.87\fscx170.87\1a&H00&\3a&H00&\4a&H80&\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(349.89,400.37)}Shindou Hikaru (14)
 Dialogue: 0,0:02:11.78,0:02:14.79,NoteArial,,0,0,0,,{=0}{\fscy170.87\fscx170.87\1a&H00&\3a&H00&\4a&H80&\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(645.49,267.09)}Waya Yoshitaka (15)
-Dialogue: 0,0:02:09.48,0:02:11.53,Background,,0,0,0,,{\an8}That boy passed...
-Dialogue: 0,0:02:12.03,0:02:14.50,Background,,0,0,0,,{\an8}I see, his name is Shindou.
+Dialogue: 1,0:02:09.48,0:02:11.53,Background,,0,0,0,,{\an8}That boy passed...
+Dialogue: 1,0:02:12.03,0:02:14.50,Background,,0,0,0,,{\an8}I see, his name is Shindou.
 Dialogue: 0,0:02:15.20,0:02:19.26,Default,,0,0,0,,He may be part of the new wave\Nthat Ogata was speaking of.
 Dialogue: 0,0:02:19.83,0:02:21.03,Default,,0,0,0,,Did you hear that, Sai!?
 Dialogue: 0,0:02:21.33,0:02:23.74,Default,,0,0,0,,I'm going to be playing Touya Meijin!

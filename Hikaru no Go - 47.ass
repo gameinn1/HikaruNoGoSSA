@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 247
-Active Line: 266
-Video Position: 24590
+Scroll Position: 218
+Active Line: 232
+Video Position: 14850
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -276,8 +276,8 @@ Dialogue: 0,0:10:18.93,0:10:18.97,NoteArial,,0,0,0,,{=0}{\fscy170.79\fscx170.79\
 Dialogue: 0,0:10:18.97,0:10:21.98,NoteArial,,0,0,0,,{=2}{\fscy170.87\fscx170.87\1a&H00&\3a&H00&\4a&H80&\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz21\pos(537.85,9.08)}Ochi Kousuke (13)
 Dialogue: 0,0:10:18.97,0:10:21.98,NoteArial,,0,0,0,,{=1}{\fscy170.87\fscx170.87\1a&H00&\3a&H00&\4a&H80&\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(349.89,400.37)}Shindou Hikaru (14)
 Dialogue: 0,0:10:18.97,0:10:21.98,NoteArial,,0,0,0,,{=0}{\fscy170.87\fscx170.87\1a&H00&\3a&H00&\4a&H80&\fs15\1c&H000000&\3c&HFFFFFF&\bord1\shad0\frz24\pos(645.49,267.09)}Waya Yoshitaka (15)
-Dialogue: 0,0:10:16.80,0:10:19.03,Background,,0,0,0,,{\an8}That boy passed...
-Dialogue: 0,0:10:19.35,0:10:21.80,Background,,0,0,0,,{\an8}I see, his name is Shindou.
+Dialogue: 1,0:10:16.80,0:10:19.03,Background,,0,0,0,,{\an8}That boy passed...
+Dialogue: 1,0:10:19.35,0:10:21.80,Background,,0,0,0,,{\an8}I see, his name is Shindou.
 Dialogue: 0,0:10:22.62,0:10:24.94,Default,,0,0,0,,Shindou? Who is that?
 Dialogue: 0,0:10:25.48,0:10:28.09,Default,,0,0,0,,Just a boy I passed by once.
 Dialogue: 0,0:10:28.60,0:10:30.42,Default,,0,0,0,,That you just passed by?
