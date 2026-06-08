@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 179
-Active Line: 191
-Video Position: 19239
+Scroll Position: 101
+Active Line: 109
+Video Position: 12936
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -148,9 +148,9 @@ Dialogue: 0,0:08:43.67,0:08:44.42,Default,,0,0,0,,A child?
 Dialogue: 0,0:08:45.11,0:08:46.38,Default,,0,0,0,,He's a child?
 Dialogue: 0,0:08:47.08,0:08:51.59,Background,,0,0,0,,Given what he said, and his\Nnickname, he might be a child.
 Dialogue: 0,0:08:51.91,0:08:53.04,Background,,0,0,0,,Nickname?
-Dialogue: 0,0:08:53.98,0:08:55.97,Background,,0,0,0,,It's a fake identity that you use on the internet.
+Dialogue: 0,0:08:53.93,0:08:55.97,Background,,0,0,0,,It's a fake identity that you use on the internet.
 Dialogue: 0,0:08:57.81,0:08:58.93,Background,,0,0,0,,Zelda... huh?
-Dialogue: 0,0:08:59.54,0:09:01.75,Default,,0,0,0,,Wow there are kids too?
+Dialogue: 0,0:08:59.52,0:09:01.75,Default,,0,0,0,,Wow there are kids too?
 Dialogue: 0,0:09:02.57,0:09:07.44,Default,,0,0,0,,Neither your face, name, nor age gets\Nrevealed on the internet, so you don't know.
 Dialogue: 0,0:09:07.90,0:09:11.78,Background,,0,0,0,,It's not just kids, look, people\Nfrom other nations are here too!
 Dialogue: 0,0:09:13.05,0:09:17.63,Background,,0,0,0,,JPN is for Japan, CHN is China, CAN is Canada.
