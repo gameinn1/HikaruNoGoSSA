@@ -181,69 +181,69 @@ Dialogue: 0,0:12:11.31,0:12:11.96,Default,,0,0,0,,Really?
 Dialogue: 0,0:12:12.27,0:12:15.16,Default,,0,0,0,,I'm doing really well right now. I can tell myself.
 Dialogue: 0,0:12:15.94,0:12:17.35,Default,,0,0,0,,I'm going to pass this year!
 Dialogue: 0,0:12:18.11,0:12:20.04,Default,,0,0,0,,Let's look at the pairings.
-Comment: 0,0:12:20.43,0:12:23.89,Note,,0,0,0,,Might be 2437
-Dialogue: 0,0:12:20.43,0:12:23.89,Note,,0,0,0,,{\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\move(192,16,256,89,0,2479)}Pro Exam Pairings
-Comment: 0,0:12:20.43,0:12:20.47,Note,,0,0,0,,E-F definitely didn't do per frame placement but if needed, I've set out each frame here.
-Comment: 0,0:12:20.43,0:12:20.47,Note,,0,0,0,,{\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(192,16)}Pro Exam Pairings
-Comment: 0,0:12:20.47,0:12:20.51,Note,,0,0,0,,
-Comment: 0,0:12:20.51,0:12:20.55,Note,,0,0,0,,
-Comment: 0,0:12:20.55,0:12:20.59,Note,,0,0,0,,
-Comment: 0,0:12:20.59,0:12:20.64,Note,,0,0,0,,
-Comment: 0,0:12:20.64,0:12:20.68,Note,,0,0,0,,
-Comment: 0,0:12:20.68,0:12:20.72,Note,,0,0,0,,
-Comment: 0,0:12:20.72,0:12:20.76,Note,,0,0,0,,
-Comment: 0,0:12:20.76,0:12:20.80,Note,,0,0,0,,
-Comment: 0,0:12:20.80,0:12:20.84,Note,,0,0,0,,
-Comment: 0,0:12:20.84,0:12:20.89,Note,,0,0,0,,
-Comment: 0,0:12:20.89,0:12:20.93,Note,,0,0,0,,
-Comment: 0,0:12:20.93,0:12:20.97,Note,,0,0,0,,
-Comment: 0,0:12:20.97,0:12:21.01,Note,,0,0,0,,
-Comment: 0,0:12:21.01,0:12:21.05,Note,,0,0,0,,
-Comment: 0,0:12:21.05,0:12:21.10,Note,,0,0,0,,
-Comment: 0,0:12:21.10,0:12:21.14,Note,,0,0,0,,
-Comment: 0,0:12:21.14,0:12:21.18,Note,,0,0,0,,
-Comment: 0,0:12:21.18,0:12:21.22,Note,,0,0,0,,
-Comment: 0,0:12:21.22,0:12:21.26,Note,,0,0,0,,
-Comment: 0,0:12:21.26,0:12:21.30,Note,,0,0,0,,
-Comment: 0,0:12:21.30,0:12:21.35,Note,,0,0,0,,
-Comment: 0,0:12:21.35,0:12:21.39,Note,,0,0,0,,
-Comment: 0,0:12:21.39,0:12:21.43,Note,,0,0,0,,
-Comment: 0,0:12:21.43,0:12:21.47,Note,,0,0,0,,
-Comment: 0,0:12:21.47,0:12:21.51,Note,,0,0,0,,
-Comment: 0,0:12:21.51,0:12:21.55,Note,,0,0,0,,
-Comment: 0,0:12:21.55,0:12:21.60,Note,,0,0,0,,
-Comment: 0,0:12:21.60,0:12:21.64,Note,,0,0,0,,
-Comment: 0,0:12:21.64,0:12:21.68,Note,,0,0,0,,
-Comment: 0,0:12:21.68,0:12:21.72,Note,,0,0,0,,
-Comment: 0,0:12:21.72,0:12:21.76,Note,,0,0,0,,
-Comment: 0,0:12:21.76,0:12:21.80,Note,,0,0,0,,
-Comment: 0,0:12:21.80,0:12:21.85,Note,,0,0,0,,
-Comment: 0,0:12:21.85,0:12:21.89,Note,,0,0,0,,
-Comment: 0,0:12:21.89,0:12:21.93,Note,,0,0,0,,
-Comment: 0,0:12:21.93,0:12:21.97,Note,,0,0,0,,
-Comment: 0,0:12:21.97,0:12:22.01,Note,,0,0,0,,
-Comment: 0,0:12:22.01,0:12:22.05,Note,,0,0,0,,
-Comment: 0,0:12:22.05,0:12:22.10,Note,,0,0,0,,
-Comment: 0,0:12:22.10,0:12:22.14,Note,,0,0,0,,
-Comment: 0,0:12:22.14,0:12:22.18,Note,,0,0,0,,
-Comment: 0,0:12:22.18,0:12:22.22,Note,,0,0,0,,
-Comment: 0,0:12:22.22,0:12:22.26,Note,,0,0,0,,
-Comment: 0,0:12:22.26,0:12:22.30,Note,,0,0,0,,
-Comment: 0,0:12:22.30,0:12:22.35,Note,,0,0,0,,
-Comment: 0,0:12:22.35,0:12:22.39,Note,,0,0,0,,
-Comment: 0,0:12:22.39,0:12:22.43,Note,,0,0,0,,
-Comment: 0,0:12:22.43,0:12:22.47,Note,,0,0,0,,
-Comment: 0,0:12:22.47,0:12:22.51,Note,,0,0,0,,
-Comment: 0,0:12:22.51,0:12:22.55,Note,,0,0,0,,
-Comment: 0,0:12:22.55,0:12:22.60,Note,,0,0,0,,
-Comment: 0,0:12:22.60,0:12:22.64,Note,,0,0,0,,
-Comment: 0,0:12:22.64,0:12:22.68,Note,,0,0,0,,
-Comment: 0,0:12:22.68,0:12:22.72,Note,,0,0,0,,
-Comment: 0,0:12:22.72,0:12:22.76,Note,,0,0,0,,
-Comment: 0,0:12:22.76,0:12:22.81,Note,,0,0,0,,
-Comment: 0,0:12:22.81,0:12:22.85,Note,,0,0,0,,
-Comment: 0,0:12:22.85,0:12:22.89,Note,,0,0,0,,
-Comment: 0,0:12:22.89,0:12:23.89,Note,,0,0,0,,{\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(256,89)}Pro Exam Pairings
+Comment: 0,0:12:20.43,0:12:23.89,Note,,0,0,0,,Old version before fix from llbx. Maybe end on 2437 instead of 2479 if doing this method.
+Comment: 0,0:12:20.43,0:12:23.89,Note,,0,0,0,,{\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\move(192,16,256,89,0,2479)}Pro Exam Pairings
+Dialogue: 0,0:12:20.42,0:12:20.46,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(192,16)}Pro Exam Pairings
+Dialogue: 0,0:12:20.46,0:12:20.51,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(193.44,17.68)}Pro Exam Pairings
+Dialogue: 0,0:12:20.51,0:12:20.55,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(194.75,19.19)}Pro Exam Pairings
+Dialogue: 0,0:12:20.55,0:12:20.59,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(196.12,20.78)}Pro Exam Pairings
+Dialogue: 0,0:12:20.59,0:12:20.63,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(197.27,22.12)}Pro Exam Pairings
+Dialogue: 0,0:12:20.63,0:12:20.67,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(198.62,23.64)}Pro Exam Pairings
+Dialogue: 0,0:12:20.67,0:12:20.71,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(199.93,25.15)}Pro Exam Pairings
+Dialogue: 0,0:12:20.71,0:12:20.76,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(201.22,26.59)}Pro Exam Pairings
+Dialogue: 0,0:12:20.76,0:12:20.80,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(202.45,28.09)}Pro Exam Pairings
+Dialogue: 0,0:12:20.80,0:12:20.84,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(203.73,29.52)}Pro Exam Pairings
+Dialogue: 0,0:12:20.84,0:12:20.88,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(205.11,31.13)}Pro Exam Pairings
+Dialogue: 0,0:12:20.88,0:12:20.92,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(206.32,32.54)}Pro Exam Pairings
+Dialogue: 0,0:12:20.92,0:12:20.97,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(207.54,33.89)}Pro Exam Pairings
+Dialogue: 0,0:12:20.97,0:12:21.01,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(208.77,35.32)}Pro Exam Pairings
+Dialogue: 0,0:12:21.01,0:12:21.05,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(210.07,36.85)}Pro Exam Pairings
+Dialogue: 0,0:12:21.05,0:12:21.09,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(211.28,38.2)}Pro Exam Pairings
+Dialogue: 0,0:12:21.09,0:12:21.13,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(212.57,39.69)}Pro Exam Pairings
+Dialogue: 0,0:12:21.13,0:12:21.17,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(213.79,41.13)}Pro Exam Pairings
+Dialogue: 0,0:12:21.17,0:12:21.22,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(214.91,42.41)}Pro Exam Pairings
+Dialogue: 0,0:12:21.22,0:12:21.26,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(216.12,43.84)}Pro Exam Pairings
+Dialogue: 0,0:12:21.26,0:12:21.30,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(217.33,45.26)}Pro Exam Pairings
+Dialogue: 0,0:12:21.30,0:12:21.34,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(218.54,46.6)}Pro Exam Pairings
+Dialogue: 0,0:12:21.34,0:12:21.38,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(219.7,47.95)}Pro Exam Pairings
+Dialogue: 0,0:12:21.38,0:12:21.42,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(220.9,49.3)}Pro Exam Pairings
+Dialogue: 0,0:12:21.42,0:12:21.47,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(222.02,50.56)}Pro Exam Pairings
+Dialogue: 0,0:12:21.47,0:12:21.51,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(223.23,52.01)}Pro Exam Pairings
+Dialogue: 0,0:12:21.51,0:12:21.55,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(224.37,53.28)}Pro Exam Pairings
+Dialogue: 0,0:12:21.55,0:12:21.59,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(225.52,54.63)}Pro Exam Pairings
+Dialogue: 0,0:12:21.59,0:12:21.63,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(226.55,55.82)}Pro Exam Pairings
+Dialogue: 0,0:12:21.63,0:12:21.67,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(227.69,57.18)}Pro Exam Pairings
+Dialogue: 0,0:12:21.67,0:12:21.72,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(228.83,58.46)}Pro Exam Pairings
+Dialogue: 0,0:12:21.72,0:12:21.76,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(229.96,59.73)}Pro Exam Pairings
+Dialogue: 0,0:12:21.76,0:12:21.80,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(231,60.91)}Pro Exam Pairings
+Dialogue: 0,0:12:21.80,0:12:21.84,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(232.06,62.1)}Pro Exam Pairings
+Dialogue: 0,0:12:21.84,0:12:21.88,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(233.13,63.46)}Pro Exam Pairings
+Dialogue: 0,0:12:21.88,0:12:21.92,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(234.16,64.57)}Pro Exam Pairings
+Dialogue: 0,0:12:21.92,0:12:21.97,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(235.22,65.75)}Pro Exam Pairings
+Dialogue: 0,0:12:21.97,0:12:22.01,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(236.18,66.94)}Pro Exam Pairings
+Dialogue: 0,0:12:22.01,0:12:22.05,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(237.24,68.15)}Pro Exam Pairings
+Dialogue: 0,0:12:22.05,0:12:22.09,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(238.14,69.26)}Pro Exam Pairings
+Dialogue: 0,0:12:22.09,0:12:22.13,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(239.11,70.29)}Pro Exam Pairings
+Dialogue: 0,0:12:22.13,0:12:22.17,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(240.06,71.39)}Pro Exam Pairings
+Dialogue: 0,0:12:22.17,0:12:22.22,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(240.97,72.44)}Pro Exam Pairings
+Dialogue: 0,0:12:22.22,0:12:22.26,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(241.84,73.46)}Pro Exam Pairings
+Dialogue: 0,0:12:22.26,0:12:22.30,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(242.73,74.49)}Pro Exam Pairings
+Dialogue: 0,0:12:22.30,0:12:22.34,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(243.63,75.46)}Pro Exam Pairings
+Dialogue: 0,0:12:22.34,0:12:22.38,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(244.44,76.48)}Pro Exam Pairings
+Dialogue: 0,0:12:22.38,0:12:22.42,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(245.23,77.37)}Pro Exam Pairings
+Dialogue: 0,0:12:22.42,0:12:22.47,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(245.98,78.24)}Pro Exam Pairings
+Dialogue: 0,0:12:22.47,0:12:22.51,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(246.7,79.03)}Pro Exam Pairings
+Dialogue: 0,0:12:22.51,0:12:22.55,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(247.45,79.9)}Pro Exam Pairings
+Dialogue: 0,0:12:22.55,0:12:22.59,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(248.17,80.71)}Pro Exam Pairings
+Dialogue: 0,0:12:22.59,0:12:22.63,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(248.75,81.41)}Pro Exam Pairings
+Dialogue: 0,0:12:22.63,0:12:22.68,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(249.38,82.13)}Pro Exam Pairings
+Dialogue: 0,0:12:22.68,0:12:22.72,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(249.88,82.71)}Pro Exam Pairings
+Dialogue: 0,0:12:22.72,0:12:22.76,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(250.35,83.24)}Pro Exam Pairings
+Dialogue: 0,0:12:22.76,0:12:22.80,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(250.76,83.71)}Pro Exam Pairings
+Dialogue: 0,0:12:22.80,0:12:22.84,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(251.08,84.11)}Pro Exam Pairings
+Dialogue: 0,0:12:22.84,0:12:22.88,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(251.41,84.45)}Pro Exam Pairings
+Dialogue: 0,0:12:22.88,0:12:22.93,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(251.54,84.63)}Pro Exam Pairings
+Dialogue: 0,0:12:22.93,0:12:23.89,Note,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&H80&\fs27.5\fsp8\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\frz17\pos(251.56,84.67)}Pro Exam Pairings
 Dialogue: 0,0:12:21.26,0:12:22.82,Background,,0,0,0,,I'm playing Shindou at...
 Dialogue: 0,0:12:24.39,0:12:27.71,Default,,0,0,0,,wow it's towards the end. The day before the last.
 Dialogue: 0,0:12:28.60,0:12:31.11,Default,,0,0,0,,Isumi-san, I'll be playing you\Non the thirteenth match.

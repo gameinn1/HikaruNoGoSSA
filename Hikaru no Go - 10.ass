@@ -17,7 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 10 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Video Position: 443
+Scroll Position: 417
+Active Line: 434
+Video Position: 31380
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -471,7 +473,9 @@ Dialogue: 0,0:21:46.70,0:21:48.41,Ed1Romaji,,0,0,0,,{\kf4}{\kf10}a{\kf9}no {\kf1
 Dialogue: 0,0:21:46.70,0:21:48.41,Ed1Kanji,,0,0,0,,{\kf4}{\kf10}あ{\kf9}の{\kf39}空{\kf10}は{\kf36}笑{\kf13}ってい{\kf25}た
 Dialogue: 0,0:21:46.70,0:21:48.41,Ed1English,,0,0,0,,That sky was laughing!
 Dialogue: 0,0:21:48.78,0:21:50.41,Ed1Romaji,,0,0,0,,{\kf5}{\kf14}a{\kf13}no {\kf17}ha{\kf28}na {\kf11}mo {\kf9}wa{\kf16}rat{\kf15}tei{\kf14}ta!
-Dialogue: 0,0:21:48.78,0:21:50.41,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf0}は{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
+Comment: 0,0:21:48.78,0:21:50.41,Ed1Kanji,,0,0,0,,gabest11 line before kanji removed.
+Comment: 0,0:21:48.78,0:21:50.41,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf0}は{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
+Dialogue: 0,0:21:48.78,0:21:50.41,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
 Dialogue: 0,0:21:48.78,0:21:50.41,Ed1English,,0,0,0,,That flower was laughing too!
 Dialogue: 0,0:21:50.41,0:21:54.50,Ed1Romaji,,0,0,0,,{\kf1}{\kf13}bo{\kf14}ku {\kf24}mo {\kf12}i{\kf38}tsu{\kf26}ka {\kf34}wa{\kf24}ra{\kf24}u {\kf17}ka{\kf128}ra!
 Dialogue: 0,0:21:50.41,0:21:54.50,Ed1Kanji,,0,0,0,,{\kf1}{\kf13}ボ{\kf14}ク{\kf24}も{\kf12}い{\kf38}つ{\kf26}か{\kf58}笑{\kf24}う{\kf17}か{\kf128}ら

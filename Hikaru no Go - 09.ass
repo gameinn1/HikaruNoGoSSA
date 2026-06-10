@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 217
-Active Line: 232
-Video Position: 20412
+Scroll Position: 456
+Active Line: 477
+Video Position: 31380
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -403,8 +403,9 @@ Dialogue: 0,0:23:02.28,0:23:05.12,Default,,0,0,0,,Hey, umm, there's a tournament
 Dialogue: 0,0:23:05.41,0:23:07.20,Default,,0,0,0,,A Go tournament, for Junior High Schools.
 Dialogue: 0,0:23:07.79,0:23:09.80,Sai,,0,0,0,,This child has quite a bit of potential.
 Dialogue: 0,0:23:10.34,0:23:12.10,Sai,,0,0,0,,He makes honest and good moves.
-Dialogue: 0,0:23:23.01,0:23:26.26,Sai,,0,0,0,,Hikaru! That child is cheating in the Seichi!
-Dialogue: 0,0:23:23.01,0:23:26.26,Note,,0,0,10,,[Translators note: Seichi to be explained in next episode]
+Comment: 0,0:23:23.01,0:23:26.22,Sai,,0,0,0,,Note and line have been frame timed to match E-F at 77 frames. Maybe it should be on for slightly longer.
+Dialogue: 0,0:23:23.01,0:23:26.22,Sai,,0,0,0,,Hikaru! That child is cheating in the Seichi!
+Dialogue: 0,0:23:23.01,0:23:26.22,Note,,0,0,10,,[Translators note: Seichi to be explained in next episode]
 Dialogue: 0,0:00:30.30,0:00:36.60,Sai,,0,0,0,,{\an5\bord2.5\shad1)}Elite-Fansubs presents
 Dialogue: 0,0:00:30.30,0:00:36.60,Memory,,0,0,0,,{\an5\fs45\bord2.5\shad1}Hikaru no Go
 Dialogue: 0,0:00:13.00,0:00:16.71,Op1Romaji,,0,0,0,,{\kf20}Kimi {\kf45}ga {\kf106}ima{\kf23} {\kf25}boku {\kf31}wo {\kf56}sasae{\kf65}te!
@@ -515,7 +516,9 @@ Dialogue: 0,0:21:46.70,0:21:48.41,Ed1Romaji,,0,0,0,,{\kf4}{\kf10}a{\kf9}no {\kf1
 Dialogue: 0,0:21:46.70,0:21:48.41,Ed1Kanji,,0,0,0,,{\kf4}{\kf10}あ{\kf9}の{\kf39}空{\kf10}は{\kf36}笑{\kf13}ってい{\kf25}た
 Dialogue: 0,0:21:46.70,0:21:48.41,Ed1English,,0,0,0,,That sky was laughing!
 Dialogue: 0,0:21:48.78,0:21:50.41,Ed1Romaji,,0,0,0,,{\kf5}{\kf14}a{\kf13}no {\kf17}ha{\kf28}na {\kf11}mo {\kf9}wa{\kf16}rat{\kf15}tei{\kf14}ta!
-Dialogue: 0,0:21:48.78,0:21:50.41,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf0}は{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
+Comment: 0,0:21:48.78,0:21:50.41,Ed1Kanji,,0,0,0,,gabest11 line before kanji removed.
+Comment: 0,0:21:48.78,0:21:50.41,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf0}は{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
+Dialogue: 0,0:21:48.78,0:21:50.41,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
 Dialogue: 0,0:21:48.78,0:21:50.41,Ed1English,,0,0,0,,That flower was laughing too!
 Dialogue: 0,0:21:50.41,0:21:54.50,Ed1Romaji,,0,0,0,,{\kf1}{\kf13}bo{\kf14}ku {\kf24}mo {\kf12}i{\kf38}tsu{\kf26}ka {\kf34}wa{\kf24}ra{\kf24}u {\kf17}ka{\kf128}ra!
 Dialogue: 0,0:21:50.41,0:21:54.50,Ed1Kanji,,0,0,0,,{\kf1}{\kf13}ボ{\kf14}ク{\kf24}も{\kf12}い{\kf38}つ{\kf26}か{\kf58}笑{\kf24}う{\kf17}か{\kf128}ら

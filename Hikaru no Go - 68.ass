@@ -28,9 +28,9 @@ Style: Background,Verdana,25,&H00C5FEC1,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: Memory,Verdana,25,&H00FFD2D8,&H00FFFFFF,&H0027081C,&H8027081C,-1,0,0,0,100,100,0,0,1,1.25,0.5,2,0,0,20,1
 Style: ed64_romaji,Smudger Std,34,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,1.25,0,7,56,56,14,1
-Style: ed64_kanji,MS PGothic,19.3,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,9,65,65,22,1
+Style: ed64_kanji,MS PGothic,19.4,&H00FFFFFF,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,9,65,65,22,1
 Style: ed64_romaji_inact,Smudger Std,34,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,1.25,0,7,56,56,14,1
-Style: ed64_kanji_inact,MS PGothic,19.3,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,9,65,65,22,1
+Style: ed64_kanji_inact,MS PGothic,19.4,&H006B6F7B,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,9,65,65,22,1
 Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,1.25,0,5,56,56,45,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,1.25,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
@@ -440,72 +440,72 @@ Dialogue: 23,0:01:17.06,0:01:20.92,op61_english,,0,0,0,fx,{\fad(0,400)}I'm surro
 Dialogue: 24,0:01:20.94,0:01:25.51,op61_english,,0,0,0,fx,{\fad(0,400)}so I'll be able to fly
 Dialogue: 25,0:01:26.23,0:01:29.80,op61_english,,0,0,0,fx,{\fad(0,900)}with my wings spread out.
 Dialogue: 0,0:20:46.31,0:20:46.60,ed64_romaji_inact,,0,0,0,ed64ed,{\fad(273,0)}noizu darake no mune de
-Dialogue: 0,0:20:46.60,0:20:55.94,ed64_romaji,main,0,0,0,ed64ed,{\fad(0,500)\t(3958,4255,0.45,\fscx0)\k50}noi{\k45}zu {\k51}da{\k17}ra{\k28}ke {\k21}no {\k43}mu{\k28}ne {\k110}de{\fscx100\alpha&HFF&\t(3987,4279,0.45,\alpha&H00&)\k55}{\k36}un{\k29}me{\k20}i {\k22}wo {\k22}ki{\k28}ki{\k42}wa{\k50}ke{\k189}ru
+Dialogue: 0,0:20:46.60,0:20:55.94,ed64_romaji,main,0,0,0,ed64ed,{\k50}{\fad(0,500)\t(3958,4255,0.45,\fscx0)}noi{\k45}zu {\k46}da{\k22}ra{\k24}ke {\k25}no {\k43}mu{\k25}ne {\k113}de{\fscx100\alpha&HFF&\t(3987,4279,0.45,\alpha&H00&)}{\k55}{\k36}un{\k29}me{\k20}i {\k22}wo {\k22}ki{\k28}ki{\k42}wa{\k50}ke{\k237}ru
 Dialogue: 0,0:20:56.78,0:20:57.03,ed64_romaji_inact,main,0,0,0,ed64ed,{\fad(230,0)}hirameku
-Dialogue: 0,0:20:57.03,0:21:11.54,ed64_romaji,main,0,0,0,ed64ed,{\t(3726,4032,0.5,\fscx0)\k142}hi{\k25}ra{\k36}me{\k168}ku{\fscx100\alpha&HFF&\t(3726,4032,1,\alpha&H00&)\t(8407,8710,0.5,\fscx0)\k63}{\k25}yu{\k20}me {\k41}ha {\k54}wa{\k17}ta{\k34}shi {\k16}no {\k46}na{\k33}ka {\k123}de{\fscx100\alpha&HFF&\t(8407,8710,1,\alpha&H00&)\k58}{\k19}me{\k31}za{\k40}me {\k47}o {\k45}ma{\k48}tte{\k321}ta
+Dialogue: 0,0:20:57.03,0:21:11.54,ed64_romaji,main,0,0,0,ed64ed,{\k137}{\t(3726,4032,0.5,\fscx0)}hi{\k23}ra{\k43}me{\k97}ku{\fscx100\alpha&HFF&\t(3726,4032,1,\alpha&H00&)\t(8407,8710,0.5,\fscx0)}{\k136}{\k25}yu{\k18}me {\k49}ha {\k46}wa{\k17}ta{\k31}shi {\k21}no {\k46}na{\k24}ka {\k117}de{\fscx100\alpha&HFF&\t(8407,8710,1,\alpha&H00&)}{\k65}{\k25}me{\k25}za{\k46}me {\k47}o {\k45}ma{\k48}tte{\k320}ta
 Dialogue: 0,0:21:11.54,0:21:12.04,ed64_romaji,main,0,0,0,ed64ed,{\fad(0,500)}mezame o matteta
 Dialogue: 0,0:21:14.79,0:21:15.05,ed64_romaji_inact,main,0,0,0,ed64ed,{\fad(300,0)}jibun rashiku nareru
-Dialogue: 0,0:21:15.05,0:21:18.51,ed64_romaji,main,0,0,0,ed64ed,{\fad(0,400)\k20}ji{\k21}bu{\k29}n {\k18}ra{\k29}shi{\k41}ku {\k25}na{\k25}re{\k96}ru
+Dialogue: 0,0:21:15.05,0:21:18.51,ed64_romaji,main,0,0,0,ed64ed,{\k20}{\fad(0,400)}ji{\k21}bu{\k24}n {\k15}ra{\k32}shi{\k46}ku {\k25}na{\k22}re{\k141}ru
 Dialogue: 0,0:21:22.64,0:21:22.89,ed64_romaji_inact,main,0,0,0,ed64ed,{\fad(300,0)}tokimeki narashite
-Dialogue: 0,0:21:22.89,0:21:26.56,ed64_romaji,main,0,0,0,ed64ed,{\fad(0,440)\k26}to{\k20}ki{\k21}me{\k25}ki {\k25}na{\k25}ra{\k25}shi{\k154}te
+Dialogue: 0,0:21:22.89,0:21:26.56,ed64_romaji,main,0,0,0,ed64ed,{\k20}{\fad(0,440)}to{\k23}ki{\k24}me{\k24}ki {\k23}na{\k16}ra{\k28}shi{\k209}te
 Dialogue: 0,0:21:29.48,0:21:29.77,ed64_romaji_inact,main,0,0,0,ed64ed,{\fad(300,0)}karada wo ugokasu
-Dialogue: 0,0:21:29.77,0:21:33.52,ed64_romaji,main,0,0,0,ed64ed,{\fad(0,460)\k26}ka{\k25}ra{\k25}da {\k24}wo {\k25}u{\k38}go{\k42}ka{\k125}su
+Dialogue: 0,0:21:29.77,0:21:33.52,ed64_romaji,main,0,0,0,ed64ed,{\k26}{\fad(0,460)}ka{\k22}ra{\k23}da {\k23}wo {\k24}u{\k45}go{\k41}ka{\k171}su
 Dialogue: 0,0:21:37.40,0:21:37.69,ed64_romaji_inact,main,0,0,0,ed64ed,{\fad(300,0)}hikari wo kanjite
-Dialogue: 0,0:21:37.69,0:21:40.82,ed64_romaji,main,0,0,0,ed64ed,{\fad(0,440)\k21}hi{\k26}ka{\k15}ri {\k30}wo {\k20}ka{\k22}n{\k24}ji{\k109}te
+Dialogue: 0,0:21:37.69,0:21:40.82,ed64_romaji,main,0,0,0,ed64ed,{\k18}{\fad(0,440)}hi{\k23}ka{\k21}ri {\k25}wo {\k23}ka{\k22}n{\k24}ji{\k157}te
 Dialogue: 0,0:21:44.28,0:21:44.57,ed64_romaji_inact,main,0,0,0,ed64ed,{\fad(300,0)}shiro to kuro de egaku
-Dialogue: 0,0:21:44.57,0:21:48.37,ed64_romaji,main,0,0,0,ed64ed,{\fad(0,500)\k25}shi{\k21}ro {\k25}to {\k26}ku{\k20}ro {\k46}de {\k25}e{\k16}ga{\k130}ku
+Dialogue: 0,0:21:44.57,0:21:48.37,ed64_romaji,main,0,0,0,ed64ed,{\k23}{\fad(0,500)}shi{\k23}ro {\k23}to {\k23}ku{\k22}ro {\k49}de {\k20}e{\k21}ga{\k176}ku
 Dialogue: 0,0:21:51.92,0:21:52.21,ed64_romaji_inact,main,0,0,0,ed64ed,{\fad(300,0)}owaranai haamoni
-Dialogue: 0,0:21:52.21,0:21:56.59,ed64_romaji,main,0,0,0,ed64ed,{\fad(0,1500)\k21}o{\k26}wa{\k21}ra{\k24}na{\k21}i {\k30}ha{\k20}a{\k25}mo{\k104}ni
+Dialogue: 0,0:21:52.21,0:21:56.59,ed64_romaji,main,0,0,0,ed64ed,{\k21}{\fad(0,1500)}o{\k22}wa{\k23}ra{\k24}na{\k21}i {\k32}ha{\k16}a{\k23}mo{\k256}ni
 Dialogue: 5,0:20:46.31,0:20:46.60,ed64_kanji_inact,,0,0,0,ed64ed,{\fad(300,0)}ノイズだらけの胸で
-Dialogue: 5,0:20:46.60,0:20:55.44,ed64_kanji,,0,0,0,ed64ed,{\kf6}{\kf50}ノイ{\kf45}ズ{\kf51}だ{\kf17}ら{\kf28}け{\kf21}の{\kf73}胸{\kf112}で{\fscx0\t(3960,4250,0.45,\fscx100)\kf50}{\kf36}運{\kf49}命{\kf22}を{\kf22}聴{\kf28}き{\kf42}わ{\kf50}け{\kf189}る
+Dialogue: 5,0:20:46.60,0:20:55.44,ed64_kanji,,0,0,0,ed64ed,{\kf50}ノイ{\kf45}ズ{\kf46}だ{\kf22}ら{\kf24}け{\kf25}の{\kf68}胸{\kf113}で{\fscx0\t(3960,4250,0.45,\fscx100)\kf55}{\kf36}運{\kf49}命{\kf22}を{\kf22}聴{\kf28}き{\kf42}わ{\kf50}け{\kf237}る
 Dialogue: 5,0:20:55.44,0:20:55.94,ed64_kanji,,0,0,0,ed64ed,{\fad(0,500)}ノイズだらけの胸で運命を聴きわける
 Dialogue: 5,0:20:56.78,0:20:57.03,ed64_kanji_inact,,0,0,0,ed64ed,{\fad(250,0)}閃く
 Dialogue: 5,0:20:57.03,0:21:11.54,ed64_kanji,,0,0,0,ed64ed,{\kf203}閃{\kf168}く{\fscx0\t(3730,4028,0.5,\fscx100)\kf64S}{\kf48}夢{\kf41}は{\kf105}私{\kf16}の{\kf79}中{\kf123}で{\fscx0\t(8407,8710,0.5,\fscx100)\kf57}{\kf19}目{\kf31}覚{\kf40}め{\kf47}を{\kf45}待っ{\kf48}て{\kf321}た
 Dialogue: 5,0:21:11.54,0:21:12.00,ed64_kanji,,0,0,0,ed64ed,{\fad(0,500)}閃く夢は私の中で目覚めを待ってた
 Dialogue: 5,0:21:14.79,0:21:15.05,ed64_kanji_inact,,0,0,0,ed64ed,{\fad(300,0)}自分らしくなれる
-Dialogue: 5,0:21:18.09,0:21:18.55,ed64_kanji,,0,0,0,ed64ed,{\fad(0,500)}自分らしくなれる
-Dialogue: 5,0:21:15.05,0:21:18.09,ed64_kanji,,0,0,0,ed64ed,{\kf4}{\kf20}自{\kf50}分{\kf18}ら{\kf29}し{\kf41}く{\kf25}な{\kf25}れ{\kf96}る
+Dialogue: 5,0:21:18.09,0:21:18.55,ed64_kanji,,0,0,0,ed64ed,{\fad(0,400)}自分らしくなれる
+Dialogue: 5,0:21:15.05,0:21:18.09,ed64_kanji,,0,0,0,ed64ed,{\kf20}自{\kf45}分{\kf15}ら{\kf32}し{\kf46}く{\kf25}な{\kf22}れ{\kf141}る
 Dialogue: 5,0:21:22.59,0:21:22.89,ed64_kanji_inact,,0,0,0,ed64ed,{\fad(300,0)}ときめきならして
-Dialogue: 5,0:21:22.89,0:21:26.10,ed64_kanji,,0,0,0,ed64ed,{\kf4}{\kf26}と{\kf20}き{\kf18}め{\kf25}き{\kf25}な{\kf25}ら{\kf25}し{\kf180}て
+Dialogue: 5,0:21:22.89,0:21:26.10,ed64_kanji,,0,0,0,ed64ed,{\kf20}と{\kf23}き{\kf24}め{\kf24}き{\kf23}な{\kf16}ら{\kf28}し{\kf209}て
 Dialogue: 5,0:21:26.10,0:21:26.60,ed64_kanji,,0,0,0,ed64ed,{\fad(0,500)}ときめきならして
 Dialogue: 5,0:21:29.48,0:21:29.77,ed64_kanji_inact,,0,0,0,ed64ed,{\fad(300,0)}体を動かす
-Dialogue: 5,0:21:29.77,0:21:33.06,ed64_kanji,,0,0,0,ed64ed,{\kf8}{\kf76}体{\kf16}を{\kf71}動{\kf42}か{\kf125}す
+Dialogue: 5,0:21:29.77,0:21:33.06,ed64_kanji,,0,0,0,ed64ed,{\kf71}体{\kf23}を{\kf69}動{\kf41}か{\kf171}す
 Dialogue: 5,0:21:33.06,0:21:33.52,ed64_kanji,,0,0,0,ed64ed,{\fad(0,500)}体を動かす
 Dialogue: 5,0:21:37.40,0:21:37.69,ed64_kanji_inact,,0,0,0,ed64ed,{\fad(300,0)}光を感じて
-Dialogue: 5,0:21:37.69,0:21:40.36,ed64_kanji,,0,0,0,ed64ed,{\kf2}{\kf62}光{\kf30}を{\kf42}感{\kf24}じ{\kf120}て
+Dialogue: 5,0:21:37.69,0:21:40.36,ed64_kanji,,0,0,0,ed64ed,{\kf62}光{\kf25}を{\kf45}感{\kf24}じ{\kf157}て
 Dialogue: 5,0:21:40.36,0:21:40.78,ed64_kanji,,0,0,0,ed64ed,{\fad(0,500)}光を感じて
 Dialogue: 5,0:21:44.28,0:21:44.57,ed64_kanji_inact,,0,0,0,ed64ed,{\fad(300,0)}白と黒で描く
-Dialogue: 5,0:21:44.57,0:21:47.91,ed64_kanji,,0,0,0,ed64ed,{\kf46}白{\kf25}と{\kf46}黒{\kf46}で{\kf41}描{\kf180}く
+Dialogue: 5,0:21:44.57,0:21:47.91,ed64_kanji,,0,0,0,ed64ed,{\kf46}白{\kf23}と{\kf45}黒{\kf49}で{\kf41}描{\kf176}く
 Dialogue: 5,0:21:47.91,0:21:48.37,ed64_kanji,,0,0,0,ed64ed,{\fad(0,500)}白と黒で描く
 Dialogue: 5,0:21:51.96,0:21:52.21,ed64_kanji_inact,,0,0,0,ed64ed,{\fad(250,0)}終わらないハーモニー
-Dialogue: 5,0:21:52.21,0:21:56.50,ed64_kanji,,0,0,0,ed64ed,{\fad(0,1400)\kf2}{\kf21}終{\kf26}わ{\kf21}ら{\kf16}な{\kf21}い{\kf30}ハ{\kf20}ー{\kf28}モ{\kf110}ニ{\kf130}ー
-Dialogue: 1,0:20:42.43,0:20:43.89,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(0,0,\fscx75\fscy40)\kf118}Ring
-Dialogue: 3,0:20:43.60,0:20:45.10,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(0,0,\fscx75\fscy40)\kf40}My
-Dialogue: 4,0:20:44.01,0:20:45.47,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(0,0,\fscx75\fscy40)\kf145}Bell
+Dialogue: 5,0:21:52.21,0:21:56.50,ed64_kanji,,0,0,0,ed64ed,{\fad(0,1500)\kf21}終{\kf22}わ{\kf23}ら{\kf24}な{\kf21}い{\kf32}ハ{\kf16}ー{\kf23}モ{\kf256}ニー
+Dialogue: 1,0:20:42.26,0:20:43.72,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(0,0,\fscx75\fscy40)\kf118}Ring
+Dialogue: 3,0:20:43.47,0:20:44.97,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(0,0,\fscx75\fscy40)\kf40}My
+Dialogue: 4,0:20:43.84,0:20:45.30,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(0,0,\fscx75\fscy40)\kf145}Bell
 Dialogue: 1,0:21:11.83,0:21:13.29,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf95}Music
-Dialogue: 2,0:21:12.79,0:21:14.29,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}Is
-Dialogue: 3,0:21:13.00,0:21:14.50,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
-Dialogue: 4,0:21:13.42,0:21:14.88,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf130}Thing
-Dialogue: 1,0:21:19.22,0:21:20.68,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf95}Music
-Dialogue: 2,0:21:20.18,0:21:21.68,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}In
-Dialogue: 3,0:21:20.38,0:21:21.89,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
-Dialogue: 4,0:21:20.80,0:21:22.26,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf136}Heart
+Dialogue: 2,0:21:12.67,0:21:14.17,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}Is
+Dialogue: 3,0:21:12.92,0:21:14.42,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
+Dialogue: 4,0:21:13.38,0:21:14.84,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf130}Thing
+Dialogue: 1,0:21:19.17,0:21:20.63,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf95}Music
+Dialogue: 2,0:21:20.09,0:21:21.59,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}In
+Dialogue: 3,0:21:20.34,0:21:21.85,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
+Dialogue: 4,0:21:20.68,0:21:22.14,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf136}Heart
 Dialogue: 1,0:21:26.60,0:21:28.06,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf95}Music
-Dialogue: 2,0:21:27.56,0:21:29.06,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}Is
-Dialogue: 3,0:21:27.77,0:21:29.27,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
-Dialogue: 4,0:21:28.18,0:21:29.64,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf130}Thing
-Dialogue: 1,0:21:33.98,0:21:35.44,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf89}Music
-Dialogue: 2,0:21:34.94,0:21:36.44,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}In
-Dialogue: 3,0:21:35.15,0:21:36.65,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
-Dialogue: 4,0:21:35.57,0:21:37.03,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf136}Heart
-Dialogue: 1,0:21:41.40,0:21:42.86,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf95}Music
-Dialogue: 2,0:21:42.36,0:21:43.87,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}Is
-Dialogue: 3,0:21:42.57,0:21:44.07,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
-Dialogue: 4,0:21:42.99,0:21:44.45,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf120}Thing
-Dialogue: 1,0:21:48.83,0:21:50.29,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(150,0,\fscx75\fscy40)\kf85}Music
-Dialogue: 2,0:21:49.66,0:21:51.16,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}In
-Dialogue: 3,0:21:50.00,0:21:51.50,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
-Dialogue: 4,0:21:50.41,0:21:51.87,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(140,0,\fscx75\fscy40)\kf136}Heart
+Dialogue: 2,0:21:27.44,0:21:28.94,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}Is
+Dialogue: 3,0:21:27.69,0:21:29.19,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
+Dialogue: 4,0:21:28.15,0:21:29.61,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf130}Thing
+Dialogue: 1,0:21:33.94,0:21:35.40,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf95}Music
+Dialogue: 2,0:21:34.86,0:21:36.36,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}In
+Dialogue: 3,0:21:35.11,0:21:36.62,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
+Dialogue: 4,0:21:35.44,0:21:36.90,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf136}Heart
+Dialogue: 1,0:21:41.32,0:21:42.78,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf95}Music
+Dialogue: 2,0:21:42.24,0:21:43.74,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}Is
+Dialogue: 3,0:21:42.49,0:21:43.99,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
+Dialogue: 4,0:21:42.86,0:21:44.32,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf130}Thing
+Dialogue: 1,0:21:48.70,0:21:50.16,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf95}Music
+Dialogue: 2,0:21:49.62,0:21:51.12,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}In
+Dialogue: 3,0:21:49.87,0:21:51.38,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
+Dialogue: 4,0:21:50.21,0:21:51.67,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf136}Heart
 Dialogue: 0,0:20:46.31,0:20:55.98,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I listen to my fate through the din in my heart.
 Dialogue: 0,0:20:56.74,0:21:01.32,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}It occurs to me.
 Dialogue: 0,0:21:01.07,0:21:05.95,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}My dream was waiting for the time
