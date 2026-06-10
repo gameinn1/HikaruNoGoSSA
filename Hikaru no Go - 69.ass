@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 69 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 327
-Active Line: 333
-Video Position: 24702
+Scroll Position: 18
+Active Line: 32
+Video Position: 6236
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,7 +82,7 @@ Dialogue: 0,0:04:06.89,0:04:08.56,Default,,0,0,0,,I was surprised when you calle
 Dialogue: 0,0:04:09.27,0:04:10.71,Default,,0,0,0,,How was China?
 Dialogue: 0,0:04:12.57,0:04:14.32,Default,,0,0,0,,Huh? What is it?
 Dialogue: 0,0:04:16.03,0:04:18.31,Default,,0,0,0,,Le Ping! You grew up so quickly!
-Comment: 0,0:04:20.07,0:04:25.75,NoteArial,,0,0,0,,Not an exact match to R-F but I think the shadow works well. I know this scroll is pretty bad but so is R-F.
+Comment: 0,0:04:20.07,0:04:25.75,NoteArial,,0,0,0,,Not an exact match to R-F but I think the shadow works well. The R-F scroll was pretty bad but has been fixed by llbx. Also put the dialogue to layer 1 if this ever gets moved.
 Comment: 0,0:04:20.07,0:04:25.75,NoteArial,,0,0,0,,Old version: {\fs28\1c&H0CBCEA&\bord0\blur0.8\shad1\fscy70\frz15\frx10\fry348\move(365,267,365,511)\i1}NcDonalds Hamburgers{\i0}
 Comment: 0,0:04:20.07,0:04:25.75,NoteArial,,0,0,0,,{\fs28\1c&H0CBCEA&\bord0\blur0.8\shad1\fscy60\frz15\frx10\fry348\move(365,267,365,515)\i1}NcDonalds Hamburgers{\i0}
 Dialogue: 0,0:04:20.07,0:04:20.11,NoteArial,,0,0,0,,{=3}{\fs28\1c&H0CBCEA&\bord0\blur0.8\shad1\fscy60\frz15\frx10\fry348\i1\pos(365,267)}NcDonalds Hamburgers{\i0}
@@ -228,8 +228,8 @@ Dialogue: 0,0:04:25.87,0:04:25.91,NoteArial,,0,0,0,,{=3}{\fs28\1c&H0CBCEA&\bord0
 Dialogue: 0,0:04:25.91,0:04:25.95,NoteArial,,0,0,0,,{=3}{\fs28\1c&H0CBCEA&\bord0\blur0.8\shad1\fscy60\frz15\frx10\fry348\i1\pos(364.99,513.45)}NcDonalds Hamburgers{\i0}
 Dialogue: 0,0:04:25.95,0:04:25.99,NoteArial,,0,0,0,,{=3}{\fs28\1c&H0CBCEA&\bord0\blur0.8\shad1\fscy60\frz15\frx10\fry348\i1\pos(364.99,515.03)}NcDonalds Hamburgers{\i0}
 Dialogue: 0,0:04:25.99,0:04:26.03,NoteArial,,0,0,0,,{=3}{\fs28\1c&H0CBCEA&\bord0\blur0.8\shad1\fscy60\frz15\frx10\fry348\i1\pos(364.99,516.53)}NcDonalds Hamburgers{\i0}
-Dialogue: 0,0:04:22.66,0:04:24.08,Background,,0,0,0,,So that's what you were doing.
-Dialogue: 0,0:04:24.62,0:04:30.28,Default,,0,0,0,,Yeah, it's good that Le Ping started following\Nme around and studying, but...
+Dialogue: 1,0:04:22.66,0:04:24.08,Background,,0,0,0,,So that's what you were doing.
+Dialogue: 1,0:04:24.62,0:04:30.28,Default,,0,0,0,,Yeah, it's good that Le Ping started following\Nme around and studying, but...
 Dialogue: 0,0:04:30.83,0:04:34.17,Default,,0,0,0,,he was always glaring at me.
 Dialogue: 0,0:04:34.84,0:04:35.76,Default,,0,0,0,,What a brat.
 Dialogue: 0,0:04:37.84,0:04:40.76,Default,,0,0,0,,He's just a kid, but he's really good.

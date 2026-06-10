@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 396
-Active Line: 417
+Active Line: 418
 Video Position: 31379
 
 [V4+ Styles]
@@ -457,8 +457,8 @@ Dialogue: 0,0:21:46.66,0:21:48.37,Ed1Kanji,,0,0,0,,{\kf4}{\kf10}あ{\kf9}の{\kf
 Dialogue: 0,0:21:46.66,0:21:48.37,Ed1English,,0,0,0,,That sky was laughing!
 Dialogue: 0,0:21:48.75,0:21:50.37,Ed1Romaji,,0,0,0,,{\kf5}{\kf14}a{\kf13}no {\kf17}ha{\kf28}na {\kf11}mo {\kf9}wa{\kf16}rat{\kf15}tei{\kf14}ta!
 Comment: 0,0:21:48.75,0:21:50.37,Ed1Kanji,,0,0,0,,gabest11 line before kanji removed.
-Comment: 0,0:21:48.75,0:21:50.37,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
-Dialogue: 0,0:21:48.75,0:21:50.37,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf0}は{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
+Comment: 0,0:21:48.75,0:21:50.37,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf0}は{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
+Dialogue: 0,0:21:48.75,0:21:50.37,Ed1Kanji,,0,0,0,,{\kf5}{\kf14}あ{\kf13}の{\kf45}花{\kf11}も{\kf25}笑{\kf15}ってい{\kf14}た
 Dialogue: 0,0:21:48.75,0:21:50.37,Ed1English,,0,0,0,,That flower was laughing too!
 Dialogue: 0,0:21:50.37,0:21:54.46,Ed1Romaji,,0,0,0,,{\kf1}{\kf13}bo{\kf14}ku {\kf24}mo {\kf12}i{\kf38}tsu{\kf26}ka {\kf34}wa{\kf24}ra{\kf24}u {\kf17}ka{\kf128}ra!
 Dialogue: 0,0:21:50.37,0:21:54.46,Ed1Kanji,,0,0,0,,{\kf1}{\kf13}ボ{\kf14}ク{\kf24}も{\kf12}い{\kf38}つ{\kf26}か{\kf58}笑{\kf24}う{\kf17}か{\kf128}ら

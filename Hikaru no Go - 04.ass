@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 466
-Active Line: 487
-Video Position: 31380
+Scroll Position: 128
+Active Line: 148
+Video Position: 12101
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -189,7 +189,7 @@ Dialogue: 0,0:08:14.48,0:08:16.68,Default,,0,0,0,,Then let's start with an easy 
 Dialogue: 0,0:08:17.55,0:08:18.31,Background,,0,0,0,,Here you go.
 Dialogue: 0,0:08:20.74,0:08:22.63,Thinking,,0,0,0,,I think I can do this on my own...
 Dialogue: 0,0:08:22.95,0:08:24.11,Thinking,,0,0,0,,Sai you keep quiet.
-Dialogue: 0,0:08:24.69,0:08:25.19,Thinking,,0,0,0,,{\1c&HFEFECE&}Okay
+Dialogue: 0,0:08:24.69,0:08:25.19,Thinking,,0,0,0,,{\c&HFEFECE&}Okay
 Dialogue: 0,0:08:40.84,0:08:44.00,Default,,0,0,0,,Very good, very good... it's right.
 Dialogue: 0,0:08:44.23,0:08:45.20,Background,,0,0,0,,Here's your prize.
 Dialogue: 0,0:08:45.27,0:08:47.02,Background,,0,0,0,,Huh?! Kleenex?
