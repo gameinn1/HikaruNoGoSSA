@@ -17,7 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 10
+Scroll Position: 282
+Active Line: 287
 Video Position: 3295
 
 [V4+ Styles]
@@ -333,39 +334,73 @@ Dialogue: 0,0:20:30.87,0:20:32.50,Default,,0,0,0,,It's a very rare work.
 Dialogue: 0,0:20:33.63,0:20:33.75,ed64_romaji,,0,0,0,,{\fs7.5\blur0.8\1c&H070708&\fscx100\fscy190\bord0\shad0\frz68\pos(276,341)}Sae Sushi
 Dialogue: 0,0:20:33.75,0:20:33.92,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx100\fscy107\bord0\shad0\frz99\pos(263,308)}Sae {\fscx105}Sushi
 Dialogue: 0,0:20:33.92,0:20:34.00,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx108\fscy120\bord0\shad0\frz107\pos(257,295)}Sae {\fscx121}Sushi
+Comment: 0,0:20:34.00,0:20:34.05,ed64_romaji,,0,0,0,,Old values
 Comment: 0,0:20:34.00,0:20:34.05,ed64_romaji,,0,0,0,,251,282 start end 264,310
-Dialogue: 0,0:20:34.00,0:20:34.05,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx125\fscy135\bord0\shad0\frz114\pos(251,282)}Sae {\fscx132}Sushi
-Dialogue: 0,0:20:34.05,0:20:34.09,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx126\fscy136\bord0\shad0\frz114\pos(251,282.5)}Sae {\fscx133}Sushi
-Dialogue: 0,0:20:34.09,0:20:34.13,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx127\fscy137\bord0\shad0\frz113\pos(250.5,283)}Sae {\fscx134}Sushi
-Dialogue: 0,0:20:34.13,0:20:34.17,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx128\fscy138\bord0\shad0\frz113\pos(251,283.5)}Sae {\fscx135}Sushi
-Dialogue: 0,0:20:34.17,0:20:34.21,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx130\fscy140\bord0\shad0\frz112\pos(251,284.5)}Sae {\fscx136}Sushi
-Dialogue: 0,0:20:34.21,0:20:34.25,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx132\fscy142\bord0\shad0\frz112\pos(252,285.5)}Sae {\fscx138}Sushi
-Dialogue: 0,0:20:34.25,0:20:34.29,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx134\fscy144\bord0\shad0\frz111\pos(252,286.5)}Sae {\fscx140}Sushi
-Dialogue: 0,0:20:34.29,0:20:34.33,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx137\fscy147\bord0\shad0\frz110\pos(252.5,288.5)}Sae {\fscx142}Sushi
-Dialogue: 0,0:20:34.33,0:20:34.38,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx140\fscy150\bord0\shad0\frz109\pos(253,290.5)}Sae {\fscx145}Sushi
-Dialogue: 0,0:20:34.38,0:20:34.42,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx143\fscy153\bord0\shad0\frz108\pos(253,292)}Sae {\fscx147}Sushi
-Dialogue: 0,0:20:34.42,0:20:34.46,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx146\fscy156\bord0\shad0\frz107\pos(253.5,293)}Sae {\fscx150}Sushi
-Dialogue: 0,0:20:34.46,0:20:34.50,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx149\fscy159\bord0\shad0\frz106\pos(254.5,294.5)}Sae {\fscx152}Sushi
-Dialogue: 0,0:20:34.50,0:20:34.54,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx152\fscy162\bord0\shad0\frz105\pos(255,296.5)}Sae {\fscx155}Sushi
-Dialogue: 0,0:20:34.54,0:20:34.58,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx155\fscy165\bord0\shad0\frz104\pos(256,298)}Sae {\fscx157}Sushi
-Dialogue: 0,0:20:34.58,0:20:34.63,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx158\fscy168\bord0\shad0\frz103\pos(256.5,299.5)}Sae {\fscx160}Sushi
-Dialogue: 0,0:20:34.63,0:20:34.67,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx162\fscy172\bord0\shad0\frz102\pos(257.5,301)}Sae {\fscx163}Sushi
-Dialogue: 0,0:20:34.67,0:20:34.71,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx166\fscy176\bord0\shad0\frz101\pos(258.5,302)}Sae {\fscx166}Sushi
-Dialogue: 0,0:20:34.71,0:20:34.75,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx170\fscy180\bord0\shad0\frz100\pos(259,303.5)}Sae {\fscx169}Sushi
-Dialogue: 0,0:20:34.75,0:20:34.79,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx174\fscy184\bord0\shad0\frz99\pos(260,305)}Sae {\fscx172}Sushi
-Dialogue: 0,0:20:34.79,0:20:34.83,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx178\fscy188\bord0\shad0\frz98\pos(261,306.5)}Sae {\fscx176}Sushi
-Dialogue: 0,0:20:34.83,0:20:34.88,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx182\fscy192\bord0\shad0\frz97\pos(262,307.5)}Sae {\fscx179}Sushi
-Dialogue: 0,0:20:34.88,0:20:34.92,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx186\fscy196\bord0\shad0\frz96\pos(262.5,309)}Sae {\fscx183}Sushi
-Dialogue: 0,0:20:34.92,0:20:34.96,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx189\fscy199\bord0\shad0\frz95\pos(262.5,309)}Sae {\fscx186}Sushi
-Dialogue: 0,0:20:34.96,0:20:35.00,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx192\fscy202\bord0\shad0\frz94\pos(263.5,309.5)}Sae {\fscx189}Sushi
-Dialogue: 0,0:20:35.00,0:20:35.04,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx194\fscy204\bord0\shad0\frz93\pos(263.5,310)}Sae {\fscx192}Sushi
-Dialogue: 0,0:20:35.04,0:20:35.08,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx196\fscy206\bord0\shad0\frz92\pos(263.5,310)}Sae {\fscx194}Sushi
-Dialogue: 0,0:20:35.08,0:20:35.13,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx198\fscy208\bord0\shad0\frz91\pos(263.,309.5)}Sae {\fscx197}Sushi
-Dialogue: 0,0:20:35.13,0:20:35.17,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx199\fscy209\bord0\shad0\frz91\pos(264,310)}Sae {\fscx198}Sushi
-Dialogue: 0,0:20:35.17,0:20:35.21,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx199}Sushi
-Dialogue: 0,0:20:35.21,0:20:35.25,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
-Dialogue: 0,0:20:35.25,0:20:35.30,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
-Dialogue: 0,0:20:35.30,0:20:35.71,ed64_romaji,,0,0,0,,{\fs22\fad(0,209)\blur0.8\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
+Comment: 0,0:20:34.00,0:20:34.05,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx125\fscy135\bord0\shad0\frz114\pos(251,282)}Sae {\fscx132}Sushi
+Comment: 0,0:20:34.05,0:20:34.09,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx126\fscy136\bord0\shad0\frz114\pos(251,282.5)}Sae {\fscx133}Sushi
+Comment: 0,0:20:34.09,0:20:34.13,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx127\fscy137\bord0\shad0\frz113\pos(250.5,283)}Sae {\fscx134}Sushi
+Comment: 0,0:20:34.13,0:20:34.17,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx128\fscy138\bord0\shad0\frz113\pos(251,283.5)}Sae {\fscx135}Sushi
+Comment: 0,0:20:34.17,0:20:34.21,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx130\fscy140\bord0\shad0\frz112\pos(251,284.5)}Sae {\fscx136}Sushi
+Comment: 0,0:20:34.21,0:20:34.25,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx132\fscy142\bord0\shad0\frz112\pos(252,285.5)}Sae {\fscx138}Sushi
+Comment: 0,0:20:34.25,0:20:34.29,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx134\fscy144\bord0\shad0\frz111\pos(252,286.5)}Sae {\fscx140}Sushi
+Comment: 0,0:20:34.29,0:20:34.33,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx137\fscy147\bord0\shad0\frz110\pos(252.5,288.5)}Sae {\fscx142}Sushi
+Comment: 0,0:20:34.33,0:20:34.38,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx140\fscy150\bord0\shad0\frz109\pos(253,290.5)}Sae {\fscx145}Sushi
+Comment: 0,0:20:34.38,0:20:34.42,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx143\fscy153\bord0\shad0\frz108\pos(253,292)}Sae {\fscx147}Sushi
+Comment: 0,0:20:34.42,0:20:34.46,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx146\fscy156\bord0\shad0\frz107\pos(253.5,293)}Sae {\fscx150}Sushi
+Comment: 0,0:20:34.46,0:20:34.50,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx149\fscy159\bord0\shad0\frz106\pos(254.5,294.5)}Sae {\fscx152}Sushi
+Comment: 0,0:20:34.50,0:20:34.54,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx152\fscy162\bord0\shad0\frz105\pos(255,296.5)}Sae {\fscx155}Sushi
+Comment: 0,0:20:34.54,0:20:34.58,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx155\fscy165\bord0\shad0\frz104\pos(256,298)}Sae {\fscx157}Sushi
+Comment: 0,0:20:34.58,0:20:34.63,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx158\fscy168\bord0\shad0\frz103\pos(256.5,299.5)}Sae {\fscx160}Sushi
+Comment: 0,0:20:34.63,0:20:34.67,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx162\fscy172\bord0\shad0\frz102\pos(257.5,301)}Sae {\fscx163}Sushi
+Comment: 0,0:20:34.67,0:20:34.71,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx166\fscy176\bord0\shad0\frz101\pos(258.5,302)}Sae {\fscx166}Sushi
+Comment: 0,0:20:34.71,0:20:34.75,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx170\fscy180\bord0\shad0\frz100\pos(259,303.5)}Sae {\fscx169}Sushi
+Comment: 0,0:20:34.75,0:20:34.79,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx174\fscy184\bord0\shad0\frz99\pos(260,305)}Sae {\fscx172}Sushi
+Comment: 0,0:20:34.79,0:20:34.83,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx178\fscy188\bord0\shad0\frz98\pos(261,306.5)}Sae {\fscx176}Sushi
+Comment: 0,0:20:34.83,0:20:34.88,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx182\fscy192\bord0\shad0\frz97\pos(262,307.5)}Sae {\fscx179}Sushi
+Comment: 0,0:20:34.88,0:20:34.92,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx186\fscy196\bord0\shad0\frz96\pos(262.5,309)}Sae {\fscx183}Sushi
+Comment: 0,0:20:34.92,0:20:34.96,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx189\fscy199\bord0\shad0\frz95\pos(262.5,309)}Sae {\fscx186}Sushi
+Comment: 0,0:20:34.96,0:20:35.00,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx192\fscy202\bord0\shad0\frz94\pos(263.5,309.5)}Sae {\fscx189}Sushi
+Comment: 0,0:20:35.00,0:20:35.04,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx194\fscy204\bord0\shad0\frz93\pos(263.5,310)}Sae {\fscx192}Sushi
+Comment: 0,0:20:35.04,0:20:35.08,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx196\fscy206\bord0\shad0\frz92\pos(263.5,310)}Sae {\fscx194}Sushi
+Comment: 0,0:20:35.08,0:20:35.13,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx198\fscy208\bord0\shad0\frz91\pos(263.,309.5)}Sae {\fscx197}Sushi
+Comment: 0,0:20:35.13,0:20:35.17,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx199\fscy209\bord0\shad0\frz91\pos(264,310)}Sae {\fscx198}Sushi
+Comment: 0,0:20:35.17,0:20:35.21,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx199}Sushi
+Comment: 0,0:20:35.21,0:20:35.25,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
+Comment: 0,0:20:35.25,0:20:35.30,ed64_romaji,,0,0,0,,{\fs22\blur0.8\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
+Comment: 0,0:20:35.30,0:20:35.71,ed64_romaji,,0,0,0,,{\fs22\fad(0,209)\blur0.8\1c&H070708&\fscx200\fscy210\bord0\shad0\frz90\pos(264,310)}Sae {\fscx200}Sushi
+Dialogue: 0,0:20:34.00,0:20:34.04,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx125\fscy135\bord0\shad0\frz114\pos(249.16,241.55)}Sae {\fscx132}Sushi
+Dialogue: 0,0:20:34.04,0:20:34.08,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx125.2\fscy135.21\bord0\shad0\frz113.98\pos(249.25,241.65)}Sae {\fscx132.21}Sushi
+Dialogue: 0,0:20:34.08,0:20:34.12,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx125.78\fscy135.84\bord0\shad0\frz113.8\pos(249.52,241.88)}Sae {\fscx132.82}Sushi
+Dialogue: 0,0:20:34.12,0:20:34.17,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx126.72\fscy136.86\bord0\shad0\frz113.48\pos(249.95,242.19)}Sae {\fscx133.82}Sushi
+Dialogue: 0,0:20:34.17,0:20:34.21,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx128\fscy138.23\bord0\shad0\frz113.06\pos(250.54,242.63)}Sae {\fscx135.16}Sushi
+Dialogue: 0,0:20:34.21,0:20:34.25,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx129.57\fscy139.93\bord0\shad0\frz112.55\pos(251.27,243.15)}Sae {\fscx136.82}Sushi
+Dialogue: 0,0:20:34.25,0:20:34.29,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx131.37\fscy141.88\bord0\shad0\frz111.95\pos(252.13,243.74)}Sae {\fscx138.73}Sushi
+Dialogue: 0,0:20:34.29,0:20:34.33,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx133.4\fscy144.07\bord0\shad0\frz111.3\pos(253.14,244.37)}Sae {\fscx140.87}Sushi
+Dialogue: 0,0:20:34.33,0:20:34.37,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx135.62\fscy146.47\bord0\shad0\frz110.57\pos(254.27,245.02)}Sae {\fscx143.21}Sushi
+Dialogue: 0,0:20:34.37,0:20:34.42,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx137.99\fscy149.03\bord0\shad0\frz109.78\pos(255.51,245.67)}Sae {\fscx145.72}Sushi
+Dialogue: 0,0:20:34.42,0:20:34.46,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx140.47\fscy151.71\bord0\shad0\frz108.96\pos(256.87,246.31)}Sae {\fscx148.33}Sushi
+Dialogue: 0,0:20:34.46,0:20:34.50,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx143.06\fscy154.51\bord0\shad0\frz108.08\pos(258.33,246.91)}Sae {\fscx151.08}Sushi
+Dialogue: 0,0:20:34.50,0:20:34.54,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx145.7\fscy157.35\bord0\shad0\frz107.18\pos(259.88,247.46)}Sae {\fscx153.86}Sushi
+Dialogue: 0,0:20:34.54,0:20:34.58,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx148.36\fscy160.23\bord0\shad0\frz106.26\pos(261.52,247.94)}Sae {\fscx156.67}Sushi
+Dialogue: 0,0:20:34.58,0:20:34.62,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx151.01\fscy163.09\bord0\shad0\frz105.31\pos(263.25,248.35)}Sae {\fscx159.47}Sushi
+Dialogue: 0,0:20:34.62,0:20:34.67,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx153.65\fscy165.95\bord0\shad0\frz104.37\pos(265.04,248.68)}Sae {\fscx162.26}Sushi
+Dialogue: 0,0:20:34.67,0:20:34.71,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx156.24\fscy168.73\bord0\shad0\frz103.43\pos(266.88,248.94)}Sae {\fscx164.98}Sushi
+Dialogue: 0,0:20:34.71,0:20:34.75,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx158.74\fscy171.43\bord0\shad0\frz102.51\pos(268.76,249.12)}Sae {\fscx167.62}Sushi
+Dialogue: 0,0:20:34.75,0:20:34.79,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx161.15\fscy174.04\bord0\shad0\frz101.61\pos(270.66,249.23)}Sae {\fscx170.17}Sushi
+Dialogue: 0,0:20:34.79,0:20:34.83,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx163.44\fscy176.51\bord0\shad0\frz100.73\pos(272.58,249.26)}Sae {\fscx172.59}Sushi
+Dialogue: 0,0:20:34.83,0:20:34.88,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx165.59\fscy178.84\bord0\shad0\frz99.9\pos(274.47,249.24)}Sae {\fscx174.86}Sushi
+Dialogue: 0,0:20:34.88,0:20:34.92,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx167.61\fscy181.02\bord0\shad0\frz99.1\pos(276.33,249.15)}Sae {\fscx177}Sushi
+Dialogue: 0,0:20:34.92,0:20:34.96,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx169.46\fscy183.02\bord0\shad0\frz98.35\pos(278.11,249.03)}Sae {\fscx178.95}Sushi
+Dialogue: 0,0:20:34.96,0:20:35.00,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx171.14\fscy184.83\bord0\shad0\frz97.68\pos(279.8,248.87)}Sae {\fscx180.72}Sushi
+Dialogue: 0,0:20:35.00,0:20:35.04,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx172.62\fscy186.43\bord0\shad0\frz97.04\pos(281.37,248.69)}Sae {\fscx182.29}Sushi
+Dialogue: 0,0:20:35.04,0:20:35.08,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx173.92\fscy187.83\bord0\shad0\frz96.49\pos(282.79,248.51)}Sae {\fscx183.66}Sushi
+Dialogue: 0,0:20:35.08,0:20:35.13,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx175.01\fscy189.01\bord0\shad0\frz96.03\pos(284,248.33)}Sae {\fscx184.81}Sushi
+Dialogue: 0,0:20:35.13,0:20:35.17,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx175.88\fscy189.95\bord0\shad0\frz95.65\pos(285,248.18)}Sae {\fscx185.73}Sushi
+Dialogue: 0,0:20:35.17,0:20:35.21,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx176.52\fscy190.64\bord0\shad0\frz95.37\pos(285.76,248.07)}Sae {\fscx186.4}Sushi
+Dialogue: 0,0:20:35.21,0:20:35.25,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx176.51\fscy190.63\bord0\shad0\frz95.37\pos(285.8,248.07)}Sae {\fscx186.4}Sushi
+Dialogue: 0,0:20:35.25,0:20:35.29,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx176.91\fscy191.06\bord0\shad0\frz95.21\pos(286.23,248)}Sae {\fscx186.82}Sushi
+Dialogue: 0,0:20:35.29,0:20:35.33,ed64_romaji,,0,0,0,,{=6}{\an5\fs22\blur0.8\1c&H070708&\fscx177.05\fscy191.21\bord0\shad0\frz95.15\pos(286.4,247.96)}Sae {\fscx186.96}Sushi
+Dialogue: 0,0:20:35.33,0:20:35.71,ed64_romaji,,0,0,0,,{=6}{\fad(0,184)\an5\fs22\blur0.8\1c&H070708&\fscx177.06\fscy191.22\bord0\shad0\frz95.14\pos(286.41,247.97)}Sae {\fscx186.97}Sushi
 Dialogue: 0,0:20:36.30,0:20:38.01,Default,,0,0,0,,Don't fuck with me!
 Dialogue: 0,0:22:07.77,0:22:11.02,Default,,0,0,0,,Happy New Year!
 Comment: 0,0:22:08.19,0:22:11.62,NoteArial_Igo,,0,0,0,,{\fs22.5\3c&H1200EC&\4c&H1200EC&\shad0.5\bord1.5\fad(42,334)\pos(322,296)}Happy New Year
