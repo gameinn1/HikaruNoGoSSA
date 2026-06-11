@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 71 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 394
-Active Line: 399
-Video Position: 30517
+Scroll Position: 42
+Active Line: 58
+Video Position: 12518
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -105,7 +105,104 @@ Dialogue: 0,0:08:29.74,0:08:30.53,Background,,0,0,0,,Stand.
 Dialogue: 0,0:08:33.58,0:08:34.16,Background,,0,0,0,,Bow.
 Dialogue: 0,0:08:38.08,0:08:38.83,Default,,0,0,0,,Teacher!
 Dialogue: 0,0:08:40.45,0:08:41.41,Default,,0,0,0,,What is it, Kaneko?
-Dialogue: 0,0:08:42.08,0:08:46.09,NoteArial,,0,0,0,,{\1c&H241917&\fs31\t(0,3987,1,\fs23)\blur0.8\bord0\shad0\fscx100\fscy45\frz346\move(240,214,196,179,0,3987)}Chemistry Lab
+Comment: 0,0:08:42.08,0:08:46.09,NoteArial,,0,0,0,,Old sign before llbx fixes.
+Comment: 0,0:08:42.08,0:08:46.09,NoteArial,,0,0,0,,{\1c&H241917&\fs31\t(0,3987,1,\fs23)\blur0.8\bord0\shad0\fscx100\fscy45\frz346\move(240,214,196,179,0,3987)}Chemistry Lab
+Dialogue: 0,0:08:42.08,0:08:42.12,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx100\fscy45\frz346\pos(240,214)}Chemistry Lab
+Dialogue: 0,0:08:42.12,0:08:42.16,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx99.65\fscy44.84\frz346\pos(239.46,213.54)}Chemistry Lab
+Dialogue: 0,0:08:42.16,0:08:42.20,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx99.32\fscy44.69\frz346\pos(238.92,213.08)}Chemistry Lab
+Dialogue: 0,0:08:42.20,0:08:42.25,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx98.97\fscy44.54\frz346\pos(238.37,212.62)}Chemistry Lab
+Dialogue: 0,0:08:42.25,0:08:42.29,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx98.63\fscy44.38\frz346\pos(237.84,212.17)}Chemistry Lab
+Dialogue: 0,0:08:42.29,0:08:42.33,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx98.28\fscy44.23\frz346\pos(237.3,211.7)}Chemistry Lab
+Dialogue: 0,0:08:42.33,0:08:42.37,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx97.95\fscy44.08\frz346\pos(236.77,211.25)}Chemistry Lab
+Dialogue: 0,0:08:42.37,0:08:42.41,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx97.61\fscy43.92\frz346\pos(236.24,210.8)}Chemistry Lab
+Dialogue: 0,0:08:42.41,0:08:42.46,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx97.27\fscy43.77\frz346\pos(235.72,210.35)}Chemistry Lab
+Dialogue: 0,0:08:42.46,0:08:42.50,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx96.95\fscy43.63\frz346\pos(235.2,209.9)}Chemistry Lab
+Dialogue: 0,0:08:42.50,0:08:42.54,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx96.62\fscy43.48\frz346\pos(234.68,209.46)}Chemistry Lab
+Dialogue: 0,0:08:42.54,0:08:42.58,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx96.3\fscy43.34\frz346\pos(234.17,209.03)}Chemistry Lab
+Dialogue: 0,0:08:42.58,0:08:42.62,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx95.98\fscy43.19\frz346\pos(233.66,208.6)}Chemistry Lab
+Dialogue: 0,0:08:42.62,0:08:42.66,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx95.65\fscy43.04\frz346\pos(233.15,208.16)}Chemistry Lab
+Dialogue: 0,0:08:42.66,0:08:42.71,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx95.33\fscy42.9\frz346\pos(232.65,207.74)}Chemistry Lab
+Dialogue: 0,0:08:42.71,0:08:42.75,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx95.02\fscy42.76\frz346\pos(232.15,207.31)}Chemistry Lab
+Dialogue: 0,0:08:42.75,0:08:42.79,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx94.7\fscy42.62\frz346\pos(231.66,206.89)}Chemistry Lab
+Dialogue: 0,0:08:42.79,0:08:42.83,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx94.39\fscy42.48\frz346\pos(231.17,206.47)}Chemistry Lab
+Dialogue: 0,0:08:42.83,0:08:42.87,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx94.09\fscy42.34\frz346\pos(230.69,206.06)}Chemistry Lab
+Dialogue: 0,0:08:42.87,0:08:42.91,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx93.77\fscy42.2\frz346\pos(230.2,205.63)}Chemistry Lab
+Dialogue: 0,0:08:42.91,0:08:42.96,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx93.47\fscy42.06\frz346\pos(229.71,205.22)}Chemistry Lab
+Dialogue: 0,0:08:42.96,0:08:43.00,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx93.16\fscy41.92\frz346\pos(229.24,204.81)}Chemistry Lab
+Dialogue: 0,0:08:43.00,0:08:43.04,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx92.84\fscy41.78\frz346\pos(228.76,204.4)}Chemistry Lab
+Dialogue: 0,0:08:43.04,0:08:43.08,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx92.55\fscy41.65\frz346\pos(228.28,204)}Chemistry Lab
+Dialogue: 0,0:08:43.08,0:08:43.12,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx92.26\fscy41.52\frz346\pos(227.81,203.6)}Chemistry Lab
+Dialogue: 0,0:08:43.12,0:08:43.16,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx91.94\fscy41.37\frz346\pos(227.35,203.2)}Chemistry Lab
+Dialogue: 0,0:08:43.16,0:08:43.21,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx91.64\fscy41.24\frz346\pos(226.88,202.8)}Chemistry Lab
+Dialogue: 0,0:08:43.21,0:08:43.25,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx91.36\fscy41.11\frz346\pos(226.42,202.41)}Chemistry Lab
+Dialogue: 0,0:08:43.25,0:08:43.29,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx91.07\fscy40.98\frz346\pos(225.96,202.03)}Chemistry Lab
+Dialogue: 0,0:08:43.29,0:08:43.33,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx90.77\fscy40.85\frz346\pos(225.51,201.63)}Chemistry Lab
+Dialogue: 0,0:08:43.33,0:08:43.37,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx90.48\fscy40.72\frz346\pos(225.05,201.24)}Chemistry Lab
+Dialogue: 0,0:08:43.37,0:08:43.41,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx90.21\fscy40.6\frz346\pos(224.6,200.86)}Chemistry Lab
+Dialogue: 0,0:08:43.41,0:08:43.46,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx89.92\fscy40.46\frz346\pos(224.15,200.48)}Chemistry Lab
+Dialogue: 0,0:08:43.46,0:08:43.50,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx89.64\fscy40.34\frz346\pos(223.71,200.1)}Chemistry Lab
+Dialogue: 0,0:08:43.50,0:08:43.54,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx89.35\fscy40.21\frz346\pos(223.27,199.72)}Chemistry Lab
+Dialogue: 0,0:08:43.54,0:08:43.58,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx89.08\fscy40.09\frz346\pos(222.83,199.34)}Chemistry Lab
+Dialogue: 0,0:08:43.58,0:08:43.62,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx88.81\fscy39.96\frz346\pos(222.4,198.98)}Chemistry Lab
+Dialogue: 0,0:08:43.62,0:08:43.66,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx88.52\fscy39.84\frz346\pos(221.97,198.6)}Chemistry Lab
+Dialogue: 0,0:08:43.66,0:08:43.71,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx88.27\fscy39.72\frz346\pos(221.53,198.24)}Chemistry Lab
+Dialogue: 0,0:08:43.71,0:08:43.75,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx87.98\fscy39.59\frz346\pos(221.11,197.87)}Chemistry Lab
+Dialogue: 0,0:08:43.75,0:08:43.79,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx87.71\fscy39.47\frz346\pos(220.68,197.51)}Chemistry Lab
+Dialogue: 0,0:08:43.79,0:08:43.83,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx87.44\fscy39.35\frz346\pos(220.26,197.15)}Chemistry Lab
+Dialogue: 0,0:08:43.83,0:08:43.87,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx87.19\fscy39.24\frz346\pos(219.84,196.79)}Chemistry Lab
+Dialogue: 0,0:08:43.87,0:08:43.91,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx86.91\fscy39.11\frz346\pos(219.42,196.43)}Chemistry Lab
+Dialogue: 0,0:08:43.91,0:08:43.96,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx86.63\fscy38.98\frz346\pos(219,196.07)}Chemistry Lab
+Dialogue: 0,0:08:43.96,0:08:44.00,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx86.38\fscy38.87\frz346\pos(218.59,195.72)}Chemistry Lab
+Dialogue: 0,0:08:44.00,0:08:44.04,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx86.12\fscy38.75\frz346\pos(218.19,195.38)}Chemistry Lab
+Dialogue: 0,0:08:44.04,0:08:44.08,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx85.86\fscy38.64\frz346\pos(217.78,195.03)}Chemistry Lab
+Dialogue: 0,0:08:44.08,0:08:44.12,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx85.6\fscy38.52\frz346\pos(217.38,194.68)}Chemistry Lab
+Dialogue: 0,0:08:44.12,0:08:44.17,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx85.35\fscy38.41\frz346\pos(216.98,194.34)}Chemistry Lab
+Dialogue: 0,0:08:44.17,0:08:44.21,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx85.1\fscy38.29\frz346\pos(216.57,194)}Chemistry Lab
+Dialogue: 0,0:08:44.21,0:08:44.25,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx84.84\fscy38.18\frz346\pos(216.18,193.66)}Chemistry Lab
+Dialogue: 0,0:08:44.25,0:08:44.29,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx84.58\fscy38.06\frz346\pos(215.79,193.32)}Chemistry Lab
+Dialogue: 0,0:08:44.29,0:08:44.33,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx84.33\fscy37.95\frz346\pos(215.39,192.98)}Chemistry Lab
+Dialogue: 0,0:08:44.33,0:08:44.37,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx84.07\fscy37.83\frz346\pos(215,192.65)}Chemistry Lab
+Dialogue: 0,0:08:44.37,0:08:44.42,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx83.82\fscy37.72\frz346\pos(214.61,192.31)}Chemistry Lab
+Dialogue: 0,0:08:44.42,0:08:44.46,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx83.58\fscy37.61\frz346\pos(214.23,191.99)}Chemistry Lab
+Dialogue: 0,0:08:44.46,0:08:44.50,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx83.33\fscy37.5\frz346\pos(213.85,191.66)}Chemistry Lab
+Dialogue: 0,0:08:44.50,0:08:44.54,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx83.1\fscy37.39\frz346\pos(213.47,191.34)}Chemistry Lab
+Dialogue: 0,0:08:44.54,0:08:44.58,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx82.86\fscy37.29\frz346\pos(213.09,191.01)}Chemistry Lab
+Dialogue: 0,0:08:44.58,0:08:44.62,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx82.61\fscy37.17\frz346\pos(212.71,190.69)}Chemistry Lab
+Dialogue: 0,0:08:44.62,0:08:44.67,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx82.38\fscy37.07\frz346\pos(212.33,190.37)}Chemistry Lab
+Dialogue: 0,0:08:44.67,0:08:44.71,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx82.14\fscy36.96\frz346\pos(211.96,190.04)}Chemistry Lab
+Dialogue: 0,0:08:44.71,0:08:44.75,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx81.91\fscy36.86\frz346\pos(211.6,189.74)}Chemistry Lab
+Dialogue: 0,0:08:44.75,0:08:44.79,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx81.66\fscy36.75\frz346\pos(211.23,189.42)}Chemistry Lab
+Dialogue: 0,0:08:44.79,0:08:44.83,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx81.43\fscy36.64\frz346\pos(210.86,189.1)}Chemistry Lab
+Dialogue: 0,0:08:44.83,0:08:44.87,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx81.2\fscy36.54\frz346\pos(210.5,188.8)}Chemistry Lab
+Dialogue: 0,0:08:44.87,0:08:44.92,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx80.97\fscy36.44\frz346\pos(210.14,188.49)}Chemistry Lab
+Dialogue: 0,0:08:44.92,0:08:44.96,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx80.74\fscy36.33\frz346\pos(209.78,188.18)}Chemistry Lab
+Dialogue: 0,0:08:44.96,0:08:45.00,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx80.52\fscy36.24\frz346\pos(209.41,187.87)}Chemistry Lab
+Dialogue: 0,0:08:45.00,0:08:45.04,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx80.31\fscy36.14\frz346\pos(209.06,187.57)}Chemistry Lab
+Dialogue: 0,0:08:45.04,0:08:45.08,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx80.07\fscy36.03\frz346\pos(208.71,187.26)}Chemistry Lab
+Dialogue: 0,0:08:45.08,0:08:45.12,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx79.83\fscy35.92\frz346\pos(208.36,186.96)}Chemistry Lab
+Dialogue: 0,0:08:45.12,0:08:45.17,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx79.62\fscy35.83\frz346\pos(208,186.67)}Chemistry Lab
+Dialogue: 0,0:08:45.17,0:08:45.21,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx79.39\fscy35.73\frz346\pos(207.66,186.37)}Chemistry Lab
+Dialogue: 0,0:08:45.21,0:08:45.25,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx79.19\fscy35.63\frz346\pos(207.31,186.07)}Chemistry Lab
+Dialogue: 0,0:08:45.25,0:08:45.29,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx78.97\fscy35.54\frz346\pos(206.96,185.79)}Chemistry Lab
+Dialogue: 0,0:08:45.29,0:08:45.33,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx78.74\fscy35.43\frz346\pos(206.61,185.5)}Chemistry Lab
+Dialogue: 0,0:08:45.33,0:08:45.37,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx78.54\fscy35.34\frz346\pos(206.29,185.21)}Chemistry Lab
+Dialogue: 0,0:08:45.37,0:08:45.42,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx78.33\fscy35.25\frz346\pos(205.94,184.92)}Chemistry Lab
+Dialogue: 0,0:08:45.42,0:08:45.46,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx78.11\fscy35.15\frz346\pos(205.61,184.62)}Chemistry Lab
+Dialogue: 0,0:08:45.46,0:08:45.50,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx77.89\fscy35.05\frz346\pos(205.27,184.34)}Chemistry Lab
+Dialogue: 0,0:08:45.50,0:08:45.54,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx77.68\fscy34.95\frz346\pos(204.95,184.06)}Chemistry Lab
+Dialogue: 0,0:08:45.54,0:08:45.58,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx77.46\fscy34.86\frz346\pos(204.61,183.77)}Chemistry Lab
+Dialogue: 0,0:08:45.58,0:08:45.62,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx77.26\fscy34.77\frz346\pos(204.29,183.49)}Chemistry Lab
+Dialogue: 0,0:08:45.62,0:08:45.67,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx77.05\fscy34.67\frz346\pos(203.96,183.21)}Chemistry Lab
+Dialogue: 0,0:08:45.67,0:08:45.71,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx76.86\fscy34.59\frz346\pos(203.63,182.93)}Chemistry Lab
+Dialogue: 0,0:08:45.71,0:08:45.75,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx76.63\fscy34.48\frz346\pos(203.31,182.66)}Chemistry Lab
+Dialogue: 0,0:08:45.75,0:08:45.79,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx76.41\fscy34.39\frz346\pos(202.99,182.38)}Chemistry Lab
+Dialogue: 0,0:08:45.79,0:08:45.83,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx76.21\fscy34.29\frz346\pos(202.66,182.1)}Chemistry Lab
+Dialogue: 0,0:08:45.83,0:08:45.88,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx76\fscy34.2\frz346\pos(202.35,181.83)}Chemistry Lab
+Dialogue: 0,0:08:45.88,0:08:45.92,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx75.81\fscy34.11\frz346\pos(202.02,181.56)}Chemistry Lab
+Dialogue: 0,0:08:45.92,0:08:45.96,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx75.62\fscy34.03\frz346\pos(201.71,181.29)}Chemistry Lab
+Dialogue: 0,0:08:45.96,0:08:46.00,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx75.42\fscy33.94\frz346\pos(201.4,181.03)}Chemistry Lab
+Dialogue: 0,0:08:46.00,0:08:46.04,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx75.23\fscy33.86\frz346\pos(201.09,180.76)}Chemistry Lab
+Dialogue: 0,0:08:46.04,0:08:46.08,NoteArial,,0,0,0,,{=2}{\blur0.8\1c&H241917&\fs31\bord0\shad0\fscx75.03\fscy33.76\frz346\pos(200.78,180.49)}Chemistry Lab
 Dialogue: 0,0:08:44.55,0:08:46.09,Background,,0,0,0,,Kaneko-san, are you sure?
 Dialogue: 0,0:08:46.67,0:08:49.36,Default,,0,0,0,,Hikaru was absent today for a match?
 Dialogue: 0,0:08:49.72,0:08:58.60,Default,,0,0,0,,Yup. And I hear that he's been absent the last few\Ndays for Go-related things like study sessions.
