@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 04 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 128
-Active Line: 148
-Video Position: 12101
+Scroll Position: 107
+Active Line: 115
+Video Position: 10616
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -156,9 +156,12 @@ Comment: 0,0:07:19.67,0:07:22.30,SignsEp4,,0,0,0,,{\pos(514.5,6)}Tea Ceremony
 Dialogue: 0,0:07:19.67,0:07:22.30,SignsEp4,,0,0,0,,{\pos(516.5,4)}Tea Ceremony
 Comment: 0,0:07:19.67,0:07:22.30,SignsEp4,,0,0,0,,{\pos(371.4,295.4)}Go
 Dialogue: 0,0:07:19.67,0:07:22.30,SignsEp4,,0,0,0,,{\pos(373.4,293.4)}Go
-Dialogue: 0,0:07:22.77,0:07:23.84,Sai,,0,0,0,,Let's go!
-Dialogue: 0,0:07:23.84,0:07:25.28,Sai,,0,0,0,,Come on, {\alpha&HFF&\t(479,479,\alpha&H00&\4a&H80&)}come on, {\alpha&HFF&\t(938,938,\alpha&H00&\4a&H80&)}come on!
-Dialogue: 0,0:07:25.76,0:07:27.45,Default,,0,0,0,,Only for a little bit okay?
+Comment: 0,0:07:22.77,0:07:23.84,Sai,,0,0,0,,Old timings. Current timing is exact to E-F.
+Comment: 0,0:07:22.77,0:07:23.84,Sai,,0,0,0,,Let's go!
+Comment: 0,0:07:23.84,0:07:25.28,Sai,,0,0,0,,Come on, {\alpha&HFF&\t(479,479,\alpha&H00&\4a&H80&)}come on, {\alpha&HFF&\t(938,938,\alpha&H00&\4a&H80&)}come on!
+Dialogue: 0,0:07:22.71,0:07:23.80,Sai,,0,0,0,,Let's go!
+Dialogue: 0,0:07:23.80,0:07:25.22,Sai,,0,0,0,,Come on, {\alpha&HFF&\t(477,477,\alpha&H00&\4a&H80&)}come on, {\alpha&HFF&\t(978,978,\alpha&H00&\4a&H80&)}come on!
+Dialogue: 0,0:07:25.72,0:07:27.45,Default,,0,0,0,,Only for a little bit okay?
 Dialogue: 0,0:07:28.32,0:07:30.22,Background,,0,0,0,,Here's a problem for a mid-kyu player.
 Dialogue: 0,0:07:28.32,0:07:33.68,Note,,0,0,0,,[note: Ranking in Go is determined with dan and kyu, the\Nstrongest player is 9 dan, then 8 dan, down to 1-dan, and\Nunder that is kyu, kyu starts at 1 kyu, and then down to 2 kyu,\Nand onwards. A mid-kyu player would be about 5~12 kyu]
 Dialogue: 0,0:07:30.65,0:07:32.34,Background,,0,0,0,,Please show the first 3 moves.
