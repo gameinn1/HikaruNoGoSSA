@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 13 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 328
-Active Line: 342
-Video Position: 30317
+Scroll Position: 253
+Active Line: 260
+Video Position: 34218
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -301,7 +301,9 @@ Dialogue: 0,0:22:35.11,0:22:39.53,NoteArialEF,,0,0,0,,{\pos(332,320)}Teacher Yuk
 Dialogue: 0,0:22:36.86,0:22:42.20,Default,,0,0,0,,and various other Pros taught us how to play the\Ngame in a way that even beginners can understand.
 Dialogue: 0,0:22:43.22,0:22:45.01,Default,,0,0,0,,Other than the club,
 Dialogue: 0,0:22:45.00,0:22:47.26,Default,,0,0,0,,you could win gifts through the raffle,
-Dialogue: 0,0:22:47.25,0:22:54.90,NoteArialEF,,0,0,0,,[note: "Yuugen no Ma" (The Room of Artistic\NEpitome) would be a rough translation. Yuugen is\Nan artistic epitome in Japan, and the room named\N"Yugen no Ma" (The Room of Artistic Epitome) is\Nthe room in which the top pro games are played in.]
+Comment: 0,0:22:47.25,0:22:54.90,NoteArialEF,,0,0,0,,E-F has Yuugen and Yugen in this note but the other note and even the subtitles have Yuugen. This is also mentioned in episode 61 as Yuugen so likely they just forgot to add an extra u. I have added it to the note. I commented out the E-F version with Yugen.
+Comment: 0,0:22:47.25,0:22:54.90,NoteArialEF,,0,0,0,,[note: "Yuugen no Ma" (The Room of Artistic\NEpitome) would be a rough translation. Yuugen is\Nan artistic epitome in Japan, and the room named\N"Yugen no Ma" (The Room of Artistic Epitome) is\Nthe room in which the top pro games are played in.]
+Dialogue: 0,0:22:47.25,0:22:54.90,NoteArialEF,,0,0,0,,[note: "Yuugen no Ma" (The Room of Artistic\NEpitome) would be a rough translation. Yuugen is\Nan artistic epitome in Japan, and the room named\N"Yuugen no Ma" (The Room of Artistic Epitome) is\Nthe room in which the top pro games are played in.]
 Dialogue: 0,0:22:47.49,0:22:50.66,NoteArialEF,,0,0,0,,{\pos(320,341)}Look at the "Yuugen no Ma"
 Dialogue: 0,0:22:47.25,0:22:50.85,Default,,0,0,0,,or visit the "Yuugen no Ma" and it was a lot of fun.
 Dialogue: 0,0:22:52.26,0:22:54.90,Default,,0,0,0,,Please come if you get a chance!

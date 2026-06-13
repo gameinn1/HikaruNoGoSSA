@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 282
-Active Line: 287
-Video Position: 3295
+Video Zoom Percent: 1.250000
+Scroll Position: 733
+Active Line: 757
+Video Position: 29861
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -802,7 +802,9 @@ Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy1
 Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(221.9,334.9)}Susumu Chiba
 Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(91.5,364.9)}Tetsuo Kaga
 Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(221,364.9)}Kantarou Itou
-Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(106,394.7)}Bousei Namakura
+Comment: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,R-F has the credits as Bousei Namakura for the character’s name but this should be Shigezou Nakamura. This meant I had to slightly change the position of the text to match. I have commented out the original line if anybody wants it.
+Comment: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(106,394.7)}Bousei Namakura
+Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(112.5,394.7)}Shigezou Nakamura
 Dialogue: 0,0:20:43.22,0:20:47.60,61Credits,,0,0,0,,{\fad(459,459)\fscx101\fscy170\pos(227.1,394.7)}Katsuhisa Houki
 Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(92,304.5)}Young Girl
 Dialogue: 0,0:20:47.73,0:20:52.06,61Credits,,0,0,0,,{\fad(459,501)\fscx101\fscy170\pos(235.3,304.8)}Chinami Nishimura

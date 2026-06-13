@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 73 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 422
-Active Line: 446
-Video Position: 30494
+Scroll Position: 224
+Active Line: 232
+Video Position: 33387
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -280,7 +280,10 @@ Comment: 0,0:22:17.71,0:22:32.38,NoteArial_Igo,,0,0,0,,It looked like this might
 Dialogue: 0,0:22:17.71,0:22:32.38,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(584,42)\3c&HCB1521&\4c&H000000&\fscx100\fscy100\bord1.25\shad0\pos(95,354)}Yuuki
 Dialogue: 0,0:22:17.71,0:22:32.38,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(584,42)\3c&H6500CA&\4c&H000000&\fscx100\fscy100\bord1.25\shad0\pos(550,354)}Mai
 Dialogue: 0,0:22:32.99,0:22:35.66,Default,,0,0,0,,This move by white was too aggressive.
-Dialogue: 0,0:22:32.63,0:22:33.14,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(209,0)\3c&H3E49DE&\4c&H3E49DE&\fscx100\fscy100\bord1.25\shad0\move(680,370,317,370)}Important point of the match.
+Comment: 0,0:22:32.63,0:22:33.14,NoteArial_Igo,,0,0,0,,Old values. Changed it to be slightly faster and more fade in.
+Comment: 0,0:22:32.63,0:22:33.14,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(209,0)\3c&H3E49DE&\4c&H3E49DE&\fscx100\fscy100\bord1.25\shad0\move(680,370,317,370)}Important point of the match.
+Comment: 0,0:22:33.14,0:22:54.60,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,501)\3c&H3E49DE&\4c&H3E49DE&\fscx100\fscy100\bord1.25\shad0\pos(317,370)}Important point of the match.
+Dialogue: 0,0:22:32.63,0:22:33.14,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(250,0)\3c&H3E49DE&\4c&H3E49DE&\fscx100\fscy100\bord1.25\shad0\move(620,370,317,370)}Important point of the match.
 Dialogue: 0,0:22:33.14,0:22:54.60,NoteArial_Igo,,0,0,0,,{\fs20\1c&HFFFFFF&\fad(0,501)\3c&H3E49DE&\4c&H3E49DE&\fscx100\fscy100\bord1.25\shad0\pos(317,370)}Important point of the match.
 Dialogue: 0,0:22:35.98,0:22:39.32,Default,,0,0,0,,This move in the game was rather\Ngood, but there is a better move.
 Dialogue: 0,0:22:39.47,0:22:40.47,Default,,0,0,0,,Here.

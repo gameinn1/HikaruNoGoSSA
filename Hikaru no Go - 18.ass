@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 321
-Active Line: 339
-Video Position: 31421
+Video Zoom Percent: 0.625000
+Scroll Position: 135
+Active Line: 157
+Video Position: 22268
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -199,7 +199,9 @@ Comment: 0,0:15:19.77,0:15:23.57,Note,,0,0,1,,{\fs40\bord1.5\b0\fsp2\3c&H816778H
 Comment: 0,0:15:19.77,0:15:23.57,NoteTimes,,0,0,0,,Direct overlay: {\fs32.5\pos(320,5)}Go! Go! Stupid Eggplant Boy!
 Dialogue: 0,0:15:19.77,0:15:23.57,NoteTimes,,0,0,0,,{\fs32.5\pos(321,4)}Go! Go! Stupid Eggplant Boy!
 Dialogue: 0,0:15:26.87,0:15:27.47,Default,,0,0,0,,This is?
-Dialogue: 0,0:15:28.72,0:15:31.92,Default,,0,0,0,,It's a webcomic! What is it all of a sudden!?
+Comment: 0,0:15:28.72,0:15:31.92,Default,,0,0,0,,Old timing.
+Comment: 0,0:15:28.72,0:15:31.92,Default,,0,0,0,,It's a webcomic! What is it all of a sudden!?
+Dialogue: 0,0:15:28.70,0:15:31.92,Default,,0,0,0,,It's a webcomic! What is it all of a sudden!?
 Dialogue: 0,0:15:36.37,0:15:37.42,Default,,0,0,0,,A friend?
 Dialogue: 0,0:15:38.69,0:15:40.86,Default,,0,0,0,,Yeah, a friend... I think...
 Dialogue: 0,0:15:41.26,0:15:43.13,Default,,0,0,0,,Sorry, I'm gonna go outside for just a second.

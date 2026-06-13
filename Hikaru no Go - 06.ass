@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 06 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 359
-Active Line: 387
-Video Position: 31380
+Scroll Position: 141
+Active Line: 155
+Video Position: 17059
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -192,9 +192,13 @@ Dialogue: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(323,416.7)
 Comment: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(319.1,446)}Junior High Go Tournament Hall.
 Dialogue: 0,0:11:38.22,0:11:42.56,SignsEp4,,0,0,0,,{\fs26\fscx101\pos(322,444)}Junior High Go Tournament Hall.
 Dialogue: 0,0:11:44.52,0:11:46.52,Default,,0,0,0,,Seems like they're on the final match already.
-Dialogue: 0,0:11:51.51,0:11:55.40,Background,,0,0,0,,He's the person in charge of our Go Club, Mr.Yun
-Dialogue: 0,0:11:59.87,0:12:00.91,Thinking,,0,0,0,,{\1c&HC5FEC1&}Shindou!
-Dialogue: 0,0:12:01.64,0:12:03.87,Thinking,,0,0,0,,Why is he at a place like this?!
+Comment: 0,0:11:51.51,0:11:55.40,Background,,0,0,0,,Old timings.
+Comment: 0,0:11:51.51,0:11:55.40,Background,,0,0,0,,He's the person in charge of our Go Club, Mr.Yun
+Comment: 0,0:11:59.87,0:12:00.91,Thinking,,0,0,0,,{\1c&HC5FEC1&}Shindou!
+Comment: 0,0:12:01.64,0:12:03.87,Thinking,,0,0,0,,Why is he at a place like this?!
+Dialogue: 0,0:11:51.48,0:11:55.40,Background,,0,0,0,,He's the person in charge of our Go Club, Mr. Yun
+Dialogue: 0,0:11:59.82,0:12:00.91,Thinking,,0,0,0,,{\1c&HC5FEC1&}Shindou!
+Dialogue: 0,0:12:01.58,0:12:03.87,Thinking,,0,0,0,,Why is he at a place like this?!
 Dialogue: 0,0:12:14.96,0:12:16.34,Sai,,0,0,0,,5-10 Hane.
 Dialogue: 0,0:12:14.96,0:12:27.06,Note,,0,0,0,,[note: Hane is the process of playing a stone diagonally\Nfrom one of your stones, to a position adjacent to an\Nopponent that's adjacent to the first stone.\NXO\NX\NIt's a very common move in Go, and it's\Nusually very strong when used properly]
 Dialogue: 0,0:12:29.66,0:12:31.19,Sai,,0,0,0,,9-3 Hiraki

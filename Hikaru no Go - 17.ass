@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 17 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 386
-Active Line: 412
-Video Position: 31421
+Scroll Position: 37
+Active Line: 48
+Video Position: 6633
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -91,9 +91,9 @@ Dialogue: 0,0:04:15.55,0:04:18.61,Default,,0,0,0,,I played Sai. About 10 days ag
 Dialogue: 0,0:04:18.99,0:04:21.57,Default,,0,0,0,,He suddenly appeared this summer.
 Dialogue: 0,0:04:21.78,0:04:25.33,Default,,0,0,0,,He's so strong that his rumor\Nspread through like wildfire.
 Dialogue: 0,0:04:25.33,0:04:28.46,Default,,0,0,0,,He gets challenged by everyone across the world.
-Dialogue: 0,0:04:28.46,0:04:31.29,Default,,0,0,0,,Everyone asks the same question\N"Sai wa nanimonoka?"
+Dialogue: 0,0:04:28.46,0:04:31.29,Background,,0,0,0,,Everyone asks the same question\N"Sai to ha nanimonoka?"
 Dialogue: 0,0:04:32.05,0:04:35.71,Background,,0,0,0,,Sai? It has to be. They're all talking about Sai.
-Dialogue: 0,0:04:35.71,0:04:39.09,Default,,0,0,0,,Please quiet, there are still\Npeople in the middle of a match.
+Dialogue: 0,0:04:35.71,0:04:39.09,Default,,0,0,0,,Please be quiet, there are still\Npeople in the middle of a match.
 Dialogue: 0,0:04:39.09,0:04:40.89,Background,,0,0,0,,Exactly who is he!?
 Dialogue: 0,0:04:41.17,0:04:42.85,Background,,0,0,0,,He's no ordinary player.
 Dialogue: 0,0:04:42.95,0:04:43.97,Default,,0,0,0,,People!

@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 475
-Active Line: 502
-Video Position: 29882
+Scroll Position: 193
+Active Line: 204
+Video Position: 33102
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -251,8 +251,11 @@ Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs19\1c&HFFFFFF&\fad(0
 Dialogue: 0,0:22:12.32,0:22:15.06,NoteArial_Igo,,0,0,0,,{\fs35\1c&HFFFFFF&\fad(0,584)\3c&H2EBE0B&\4c&H2EBE0B&\fscx100\fscy70\bord2\shad0\pos(316,354)}"{\3c&H6900CF&\4c&H6900CF&}Mai {\3c&H2EBE0B&\4c&H2EBE0B&\}vs {\3c&HCA111E&\4c&HCA111E&}Yuuki{\3c&H2EBE0B&\4c&H2EBE0B&}"        Second Half
 Dialogue: 0,0:22:14.48,0:22:28.14,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(709,83)\3c&HBD192A&\4c&HBD192A&\fscx100\fscy100\bord2\shad0\pos(89,374)}Yuuki
 Dialogue: 0,0:22:14.48,0:22:28.14,NoteArial_Igo,,0,0,0,,{\fs24\1c&HFFFFFF&\fad(709,83)\3c&H6800C7&\4c&H6800C7&\fscx99\fscy100\bord2\shad0\pos(547,374)}Mai
-Dialogue: 0,0:22:28.64,0:22:29.12,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(375,0)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy110\bord2\shad0\move(300,476,300,370)}Important part of the match.
-Dialogue: 0,0:22:29.12,0:22:49.69,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(0,584)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy110\bord2\shad0\pos(300,370)}Important part of the match.
+Comment: 0,0:22:28.64,0:22:29.12,NoteArial_Igo,,0,0,0,,Old values. Current ones have slightly better timing. Found this quite hard to scroll up in time to match.
+Comment: 0,0:22:28.64,0:22:29.12,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(375,0)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy110\bord2\shad0\move(300,476,300,370)}Important part of the match.
+Comment: 0,0:22:29.12,0:22:49.69,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(0,584)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy110\bord2\shad0\pos(300,370)}Important part of the match.
+Dialogue: 0,0:22:28.64,0:22:29.17,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(375,0)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy110\bord2\shad0\move(300,470,300,370)}Important part of the match.
+Dialogue: 0,0:22:29.17,0:22:49.69,NoteArial_Igo,,0,0,0,,{\fs18\1c&HFFFFFF&\fad(0,584)\3c&H4048D8&\4c&H4048D8&\fscx100\fscy110\bord2\shad0\pos(300,370)}Important part of the match.
 Dialogue: 0,0:22:29.76,0:22:33.51,Default,,0,0,0,,When White played here at this\Npoint, that was a mistake.
 Dialogue: 0,0:22:34.30,0:22:36.96,Default,,0,0,0,,Black could play here.
 Dialogue: 0,0:22:37.38,0:22:39.47,Default,,0,0,0,,It's an Atari, so White has to connect.
