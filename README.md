@@ -189,7 +189,7 @@ I asked for help on some forums and I do want to give a big thank you to llbx. T
 
 3: Perfectly recreated the episode [title cards](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/62%20Titles.png).
 
-4: Intro and ending karaoke for the Hokuto Cup special and the [intro titles](https://github.com/gameinn1/HikaruNoGoSSA/blob/master/Screenshots/Hokuto%20Cup/Intro%20Title.png).
+4: Intro and ending karaoke for the Hokuto Cup special and the [intro titles](https://raw.githubusercontent.com/gameinn1/HikaruNoGoSSA/refs/heads/master/Screenshots/Hokuto%20Cup/Intro%20Title.png).
 
 5: Intro texts such as "Elite-Fansubs presents" and "Real Fansubbers presents".
 
