@@ -179,7 +179,7 @@ I restarted this project in mid December 2025 after it was laid dormant for many
 
 I wanted to get the actual subs done and I am happy to say that on January 2nd 2026, the main subs for 62 to 75 were complete! After that I decided to go back to the start to style properly/do signs and check timing for what gabest11 had. On March 12th 2026, the main anime and all ending igo plus next episode previews are now E-F/R-F versions. All igo now had signs matching E-F/R-F. The next couple of months were spent checking for errors and making sure the signs were good. On June 16th 2026, the project was finally finished. 
 
-The only thing that really remains now from gabest11 (besides timing if it seemed ok) was the karaokes but they also got changed. To match E-F/R-F, I switched the kanji and romaji around and then overlaid the E-F/R-F videos with the subtitles to get more accurate font sizes. I even went as far as doing English lyrics on a per episode basis to match E-F/R-F in Opening 2 etc.
+The only thing that really remains now from gabest11 (besides timing if it seemed ok) was the karaokes but they also got changed. To match E-F/R-F, I switched the kanji and romaji around and then overlaid the E-F/R-F videos with the subtitles to get more accurate font sizes.
 
 I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
