@@ -171,7 +171,7 @@ This is an update to the project started by gabest11.
 
 ### Currently about... done!
 
-I highly recommend reading some of the 90+ page [Full changelog pdf](https://github.com/gameinn1/HikaruNoGoSSA/blob/master/Full%20changelog.pdf) for how this restoration was achieved and the painstaking detail that went into it. 
+I highly recommend reading some of the 90+ page [Full changelog pdf](https://github.com/gameinn1/HikaruNoGoSSA/blob/master/Full%20changelog.pdf) for how this restoration was achieved and the painstaking detail that went into it.
 
 Below is a quick summary:
 
@@ -180,6 +180,8 @@ I restarted this project in mid December 2025 after it was laid dormant for many
 I wanted to get the actual subs done and I am happy to say that on January 2nd 2026, the main subs for 62 to 75 were complete! After that I decided to go back to the start to style properly/do signs and check timing for what gabest11 had. On March 12th 2026, the main anime and all ending igo plus next episode previews are now E-F/R-F versions. All igo now had signs matching E-F/R-F. The next couple of months were spent checking for errors and making sure the signs were good. On June 15th 2026, the project was finally finished. 
 
 The only thing that really remains now from gabest11 (besides timing if it seemed ok) was the karaokes but they also got changed. To match E-F/R-F, I switched the kanji and romaji around and then overlaid the E-F/R-F videos with the subtitles to get more accurate font sizes.
+
+As you can understand, doing 75 episodes plus the special was lots of work. I've just accepted there will be errors and the main reason for releasing in June 2026 is to get as much eyes on the project as possible. If you come across any errors, please make an issues post on the github [here](https://github.com/gameinn1/HikaruNoGoSSA/issues) and I can try to fix them. The main goal is to have multiple people watch these and release a final version with fixes for the 25th anniversary in October 2026.
 
 I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
