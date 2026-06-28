@@ -181,8 +181,6 @@ I wanted to get the actual subs done and I am happy to say that on January 2nd 2
 
 The only thing that really remains now from gabest11 (besides timing if it seemed ok) was the karaokes but they also got changed. To match E-F/R-F, I switched the kanji and romaji around and then overlaid the E-F/R-F videos with the subtitles to get more accurate font sizes.
 
-As you can understand, doing 75 episodes plus the special was lots of work. I've just accepted there will be errors and the main reason for publicly releasing in June 2026 is to get as much eyes on the project as possible. If you come across any errors, please make an issues post on the github [here](https://github.com/gameinn1/HikaruNoGoSSA/issues) and I can try to fix them. The main goal is to have multiple people watch these and release a final version with fixes for the 25th anniversary in October 2026.
-
 I asked for help on some forums and I do want to give a big thank you to llbx. Things they did:
 
 1: Perfectly recreated the "Music is my Thing" karaoke ending that gabest11 did not get around to (starts episode 64). That was one of the last big hurdles for anyone wanting to actually properly restore the subs.
