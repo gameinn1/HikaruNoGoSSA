@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 97
-Active Line: 99
-Video Position: 12937
+Scroll Position: 175
+Active Line: 192
+Video Position: 18997
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -233,7 +233,9 @@ Dialogue: 0,0:12:57.50,0:12:59.60,Default,,0,0,0,,Yeah, group matches are nice.
 Dialogue: 0,0:13:04.20,0:13:07.56,Default,,0,0,0,,Hey let's meet at least once\Na week during the summer!
 Dialogue: 0,0:13:07.99,0:13:10.37,Default,,0,0,0,,Yeah, I can make it once a week at least.
 Dialogue: 0,0:13:10.81,0:13:11.66,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:13:12.31,0:13:17.15,Note,,0,0,0,,{\an4\bord1.5\fs22.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(281,218)}Experience\N\N\N\Nthe\N\N\N\NInternet\N\N\N\NHere!\N\N\N\NState-of-the-art\N\N\N\Nsystems\N\N\N\Navailable.
+Comment: 0,0:13:12.31,0:13:17.15,Note,,0,0,0,,Extended this to the ending frame. E-F was short by 3 frames.
+Comment: 0,0:13:12.31,0:13:17.15,Note,,0,0,0,,{\an4\bord1.5\fs22.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(281,218)}Experience\N\N\N\Nthe\N\N\N\NInternet\N\N\N\NHere!\N\N\N\NState-of-the-art\N\N\N\Nsystems\N\N\N\Navailable.
+Dialogue: 0,0:13:12.31,0:13:17.28,Note,,0,0,0,,{\an4\bord1.5\fs22.5\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(281,218)}Experience\N\N\N\Nthe\N\N\N\NInternet\N\N\N\NHere!\N\N\N\NState-of-the-art\N\N\N\Nsystems\N\N\N\Navailable.
 Dialogue: 0,0:13:19.96,0:13:21.76,Default,,0,0,0,,World Igo Net?
 Comment: 0,0:13:22.40,0:13:24.16,Default,,0,0,0,,Old gabest11 timing. Kept as 42 frames.
 Comment: 0,0:13:22.40,0:13:24.16,Default,,0,0,0,,I just have to access this?

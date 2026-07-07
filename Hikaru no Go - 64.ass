@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 64 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.250000
-Scroll Position: 733
-Active Line: 757
-Video Position: 29861
+Video Zoom Percent: 0.625000
+Scroll Position: 700
+Active Line: 721
+Video Position: 31455
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -413,7 +413,8 @@ Dialogue: 0,0:22:12.07,0:22:16.33,NoteArial_Igo,,0,0,0,,{\fs22.5\fad(0,501)\3c&H
 Dialogue: 0,0:22:12.07,0:22:16.33,NoteArial_Igo,,0,0,0,,{\fs22.5\fad(0,501)\3c&HFF19FA&\4c&HFF19FA&\bord2\shad0\pos(549,280)}Mai
 Dialogue: 0,0:22:12.07,0:22:16.33,NoteArial_Igo,,0,0,0,,{\fs22.5\bord2\shad0\fad(0,501)\pos(325,352)}{\3c&H3C21F0&\4c3c&H3C21F0&}January 5th {\3c&H019F0A&\4c&H019F0A&}is the Day of Igo
 Dialogue: 0,0:22:12.42,0:22:13.34,Default,,0,0,0,,The day of Go!
-Dialogue: 0,0:22:13.56,0:22:18.03,Default,,0,0,0,,Yup! So we're here at the Go Institute where\Nthe Uchizome ceremony is taking place.
+Comment: 0,0:22:13.56,0:22:18.03,Default,,0,0,0,,Yup! So we're here at the Go Institute where\Nthe Uchizome ceremony is taking place.
+Dialogue: 0,0:22:13.54,0:22:18.05,Default,,0,0,0,,Yup! So we're here at the Go Institute where\Nthe Uchizome ceremony is taking place.
 Dialogue: 0,0:22:19.11,0:22:22.83,NoteArial_Igo,,0,0,0,,{\fs21\fscy80\3c&H046805&\4c&H046805&\bord2\shad0\fad(501,0)\pos(121,31)}Japanese Go\NInstitute
 Dialogue: 0,0:22:19.11,0:22:22.83,NoteArial_Igo,,0,0,0,,{\fs24\3c&H046805&\4c&H046805&\bord2\shad0\fad(501,0)\pos(324,348)}2003 Uchizome Ceremony
 Dialogue: 0,0:22:25.15,0:22:25.42,NoteArial_Igo,,0,0,0,,{\fs22.5\fad(209,0)\3c&H046805&\4c&H046805&\bord2\shad0\move(850,290,341,290)}Uchizome happened after the New Year's greetings and the
@@ -426,8 +427,12 @@ Dialogue: 0,0:22:31.96,0:22:32.23,NoteArial_Igo,,0,0,0,,{\fs24.5\fad(209,0)\3c&H
 Dialogue: 0,0:22:32.23,0:22:36.88,NoteArial_Igo,,0,0,0,,{\fs24.5\3c&H046805&\4c&H046805&\bord2\shad0\fad(0,501)\pos(228,360)}with everyone making one move
 Dialogue: 0,0:22:37.82,0:22:38.10,NoteArial_Igo,,0,0,0,,{\fs25\bord2\shad0\fscy95\fad(209,0)\move(870,360,320,360)}{\3c&HFC0BF4&\4c&HFC0BF4&}Mai {\3c&H006003&\4c&H006003&}and {\3c&HEE0000&\4c&HEE0000&}Yuuki {\3c&H006003&\4c&H006003&}were allowed to participate as well
 Dialogue: 0,0:22:38.10,0:22:44.12,NoteArial_Igo,,0,0,0,,{\fs25\bord2\shad0\fscy95\fad(0,459)\pos(320,360)}{\3c&HFC0BF4&\4c&HFC0BF4&}Mai {\3c&H006003&\4c&H006003&}and {\3c&HEE0000&\4c&HEE0000&}Yuuki {\3c&H006003&\4c&H006003&}were allowed to participate as well
-Dialogue: 0,0:22:47.49,0:22:50.24,Default,,0,0,0,,I was so nervous my mind was blank.
-Dialogue: 0,0:22:50.51,0:22:52.51,Default,,0,0,0,,The Meijin was really cool.
+Comment: 0,0:22:47.49,0:22:50.24,Default,,0,0,0,,I was so nervous my mind was blank.
+Dialogue: 0,0:22:47.44,0:22:50.24,Default,,0,0,0,,I was so nervous my mind was blank.
+Comment: 0,0:22:50.51,0:22:52.51,Default,,0,0,0,,The Meijin was really cool.
+Dialogue: 0,0:22:50.46,0:22:52.51,Default,,0,0,0,,The Meijin was really cool.
+Comment: 0,0:22:52.75,0:22:56.78,Default,,0,0,0,,This line isn't included on R-F. Got it from official subs. Timing seems ok.
+Dialogue: 0,0:22:52.70,0:22:56.73,Default,,0,0,0,,Please continue to watch us this year, as well!
 Dialogue: 0,0:22:52.85,0:22:53.08,NoteArial_Igo,,0,0,0,,{\fs30\fscy70\fad(209,0)\3c&H056609&\4c&H056609&\bord2\shad0\move(-176,300,235,300)}New Year's Greetings from
 Dialogue: 0,0:22:53.08,0:22:57.37,NoteArial_Igo,,0,0,0,,{\fs30\fscy70\3c&H056609&\4c&H056609&\bord2\shad0\pos(235,300)}New Year's Greetings from
 Dialogue: 0,0:22:52.76,0:22:53.08,NoteArial_Igo,,0,0,0,,{\fs27\fscy70\fad(209,0)\3c&H056609&\4c&H056609&\bord2\shad0\move(935,363,241,363}"Hikaru no Go" and "Go Go Igo"
@@ -754,16 +759,16 @@ Dialogue: 1,0:21:48.70,0:21:50.16,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\
 Dialogue: 2,0:21:49.62,0:21:51.12,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}In
 Dialogue: 3,0:21:49.87,0:21:51.38,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
 Dialogue: 4,0:21:50.21,0:21:51.67,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf136}Heart
-Dialogue: 0,0:20:46.31,0:20:55.98,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I listen to my fate through the din in my heart.
-Dialogue: 0,0:20:56.74,0:21:01.32,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}It occurs to me.
-Dialogue: 0,0:21:01.07,0:21:05.95,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}My dream was waiting for the time
-Dialogue: 0,0:21:05.74,0:21:12.00,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}to wake up within me.
-Dialogue: 0,0:21:14.75,0:21:18.55,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I can be more like myself
-Dialogue: 0,0:21:22.59,0:21:26.56,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Let the pounding of my heart be heard
-Dialogue: 0,0:21:29.48,0:21:33.52,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I move my body
-Dialogue: 0,0:21:37.36,0:21:40.82,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Feel the light
-Dialogue: 0,0:21:44.28,0:21:48.37,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I draw with black and white
-Dialogue: 0,0:21:51.92,0:21:56.59,ed64_eng,,0,0,0,ed64ed,{\fad(300,1400)\fry90\t(0,300,1,\fry0)}The unending Harmony
+Dialogue: 1,0:20:46.31,0:20:55.98,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I listen to my fate through the din in my heart.
+Dialogue: 1,0:20:56.74,0:21:01.32,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}It occurs to me.
+Dialogue: 1,0:21:01.07,0:21:05.95,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}My dream was waiting for the time
+Dialogue: 1,0:21:05.74,0:21:12.00,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}to wake up within me.
+Dialogue: 1,0:21:14.75,0:21:18.55,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I can be more like myself
+Dialogue: 1,0:21:22.59,0:21:26.56,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Let the pounding of my heart be heard
+Dialogue: 1,0:21:29.48,0:21:33.52,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I move my body
+Dialogue: 1,0:21:37.36,0:21:40.82,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Feel the light
+Dialogue: 1,0:21:44.28,0:21:48.37,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I draw with black and white
+Dialogue: 1,0:21:51.92,0:21:56.59,ed64_eng,,0,0,0,ed64ed,{\fad(300,1400)\fry90\t(0,300,1,\fry0)}The unending Harmony
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(67,228)}Original Creator
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(163,228)}Yumi Hotta
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(171,249)}Takeshi Obata

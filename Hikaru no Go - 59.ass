@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 59 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 144
-Active Line: 166
-Video Position: 6631
+Scroll Position: 322
+Active Line: 344
+Video Position: 27079
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -378,6 +378,7 @@ Dialogue: 0,0:17:48.09,0:17:50.76,Ed5Romaji,,0,0,0,,{\q2\an7\fs50\1aFF\2aFF\3aFF
 Dialogue: 0,0:17:51.13,0:17:54.76,Sai,,0,0,0,,Yes! Hikaru can't even beat me yet!
 Comment: 0,0:17:55.31,0:17:57.33,Ed5Romaji,,0,0,0,,gabest11 version. They started this much too late I think (25782 so I chose 25771): {\an8\fs30\pos(320,370)\1aFF\2aFF\3aFF\4aFF\t(0,1474,\fs40)\t(0,200,\1a0\2a0\3a0\4a0)\t(1474,2020,\1aFF\2aFF\3aFF\4aFF\fs200}I want an\Neternity of time!
 Dialogue: 0,0:17:54.85,0:17:57.97,Ed5Romaji,,0,0,0,,{\an8\q2\fad(834,1186)\fs45\pos(320,330)\t(0,1934,\fs60)\t(1934,3102,\fs200}I want an\Neternity of time!
+Comment: 0,0:17:59.31,0:18:02.73,Default,,0,0,0,,This should probably be 83 frames even though R-F is 81. Kept as 82 for now.
 Dialogue: 0,0:17:59.31,0:18:02.73,Default,,0,0,0,,Well, you can't even pick up Go stones without me!
 Dialogue: 0,0:18:08.73,0:18:09.78,Default,,0,0,0,,Umm...
 Dialogue: 0,0:18:12.70,0:18:14.91,Default,,0,0,0,,Hey... let's play...
@@ -389,7 +390,9 @@ Dialogue: 0,0:18:44.90,0:18:47.06,Default,,0,0,0,,You're the one that quit.
 Dialogue: 0,0:18:47.48,0:18:49.07,Sai,,0,0,0,,Hikaru, you jerk!
 Dialogue: 0,0:18:49.07,0:18:53.57,NoteArial,,0,0,0,,{\fs14\1c&H090705&\bord0\blur0.8\shad0\frz36\pos(278,60)}The Hint to
 Dialogue: 0,0:18:49.07,0:18:53.57,NoteArial,,0,0,0,,{\fs14\1c&H090705&\bord0\blur0.8\shad0\frz36\pos(290,69)}Tsumego
-Dialogue: 0,0:18:49.40,0:18:52.90,Default,,0,0,0,,Why is he in such a bad mood?
+Comment: 0,0:18:49.40,0:18:52.90,Default,,0,0,0,,This should probably be Thinking.
+Comment: 0,0:18:49.40,0:18:52.90,Default,,0,0,0,,Why is he in such a bad mood?
+Dialogue: 0,0:18:49.40,0:18:52.90,Thinking,,0,0,0,,Why is he in such a bad mood?
 Dialogue: 0,0:19:02.87,0:19:05.62,Background,,0,0,0,,Someone robbed Grandpa's storage shed!?
 Dialogue: 0,0:19:06.58,0:19:08.54,Default,,0,0,0,,He called just now.
 Dialogue: 0,0:19:09.13,0:19:13.76,Default,,0,0,0,,They only took some of the things in the shed,\Nand both Grandpa and Grandma are fine.

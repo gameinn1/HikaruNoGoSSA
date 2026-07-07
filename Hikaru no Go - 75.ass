@@ -17,8 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 4
-Video Position: 3620
+Active Line: 20
+Video Position: 5426
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,8 +60,10 @@ Dialogue: 0,0:03:14.88,0:03:15.93,Thinking,,0,0,0,,Touya...
 Dialogue: 0,0:03:26.60,0:03:28.35,Default,,0,0,0,,No... never mind.
 Dialogue: 0,0:03:29.48,0:03:31.86,Default,,0,0,0,,I'm not making any sense.
 Dialogue: 0,0:03:37.79,0:03:40.03,Thinking,,0,0,0,,Touya found Sai...
-Dialogue: 0,0:03:41.52,0:03:43.48,Thinking,,0,0,0,,Only I knew of Sai until now...
-Dialogue: 0,0:03:46.32,0:03:50.21,Thinking,,0,0,0,,But Sai... Touya's found you!
+Comment: 0,0:03:41.52,0:03:43.48,Thinking,,0,0,0,,Only I knew of Sai until now...
+Dialogue: 0,0:03:41.49,0:03:43.66,Thinking,,0,0,0,,Only I knew of Sai until now...
+Comment: 0,0:03:46.32,0:03:50.21,Thinking,,0,0,0,,But Sai... Touya's found you!
+Dialogue: 0,0:03:46.29,0:03:50.17,Thinking,,0,0,0,,But Sai... Touya's found you!
 Dialogue: 0,0:03:55.55,0:03:56.63,Thinking,,0,0,0,,He's found you!
 Dialogue: 0,0:04:10.31,0:04:10.96,Default,,0,0,0,,No...
 Dialogue: 0,0:04:12.86,0:04:16.32,Default,,0,0,0,,The game you play is what you are.

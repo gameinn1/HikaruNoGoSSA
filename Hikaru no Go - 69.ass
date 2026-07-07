@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 69 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 587
-Active Line: 610
-Video Position: 29882
+Scroll Position: 593
+Active Line: 613
+Video Position: 31454
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -308,7 +308,10 @@ Dialogue: 0,0:09:58.08,0:10:05.29,Background,,0,0,0,,The Shuusaku memorial at Is
 Dialogue: 0,0:10:05.50,0:10:08.30,Background,,0,0,0,,Even to Honmyouji Temple in Sugamo\Nwhen we got back to Tokyo.
 Dialogue: 0,0:10:08.92,0:10:10.92,Background,,0,0,0,,Man, I was busy.
 Comment: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,Maybe &H9EE184& for box?
-Dialogue: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,{\1c&HA0E286&\an7\bord0\shad0\blur2\pos(0,0)}{\p1}m 95 81 l 130 79 150 479 115 478{\p0}
+Comment: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,Have set these both to 481 to completely reach the bottom, likely 480 would also be fine. One of the first boxes I did so wasn't that great at this.
+Comment: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,{\1c&HA0E286&\an7\bord0\shad0\blur2\pos(0,0)}{\p1}m 95 81 l 130 79 150 479 115 478{\p0}
+Comment: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,{\fs23\1c&H458E2E&\blur0.8\bord0\3c&HA0E286&\fscx101\fscy85\frz272.8\pos(113,277)}GRAVE OF HISTORIC HONINBOU
+Dialogue: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,{\1c&HA0E286&\an7\bord0\shad0\blur2\pos(0,0)}{\p1}m 95 81 l 130 79 150 481 115 481{\p0}
 Dialogue: 0,0:10:10.92,0:10:12.42,bannersign,,0,0,0,,{\fs23\1c&H458E2E&\blur0.8\bord0\3c&HA0E286&\fscx101\fscy85\frz272.8\pos(113,277)}GRAVE OF HISTORIC HONINBOU
 Dialogue: 0,0:10:15.51,0:10:18.84,Default,,0,0,0,,And how was Shindou during the trip?
 Dialogue: 0,0:10:19.93,0:10:21.94,Default,,0,0,0,,Did he act out of the ordinary?
@@ -651,16 +654,16 @@ Dialogue: 1,0:21:48.66,0:21:50.12,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\
 Dialogue: 2,0:21:49.58,0:21:51.08,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}In
 Dialogue: 3,0:21:49.83,0:21:51.33,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
 Dialogue: 4,0:21:50.16,0:21:51.62,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf136}Heart
-Dialogue: 0,0:20:46.27,0:20:55.94,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I listen to my fate through the din in my heart.
-Dialogue: 0,0:20:56.69,0:21:01.28,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}It occurs to me.
-Dialogue: 0,0:21:01.03,0:21:05.91,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}My dream was waiting for the time
-Dialogue: 0,0:21:05.70,0:21:11.96,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}to wake up within me.
-Dialogue: 0,0:21:14.71,0:21:18.51,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I can be more like myself
-Dialogue: 0,0:21:22.55,0:21:26.51,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Let the pounding of my heart be heard
-Dialogue: 0,0:21:29.43,0:21:33.48,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I move my body
-Dialogue: 0,0:21:37.32,0:21:40.78,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Feel the light
-Dialogue: 0,0:21:44.24,0:21:48.33,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I draw with black and white
-Dialogue: 0,0:21:51.87,0:21:56.54,ed64_eng,,0,0,0,ed64ed,{\fad(300,1400)\fry90\t(0,300,1,\fry0)}The unending Harmony
+Dialogue: 1,0:20:46.27,0:20:55.94,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I listen to my fate through the din in my heart.
+Dialogue: 1,0:20:56.69,0:21:01.28,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}It occurs to me.
+Dialogue: 1,0:21:01.03,0:21:05.91,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}My dream was waiting for the time
+Dialogue: 1,0:21:05.70,0:21:11.96,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}to wake up within me.
+Dialogue: 1,0:21:14.71,0:21:18.51,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I can be more like myself
+Dialogue: 1,0:21:22.55,0:21:26.51,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Let the pounding of my heart be heard
+Dialogue: 1,0:21:29.43,0:21:33.48,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I move my body
+Dialogue: 1,0:21:37.32,0:21:40.78,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Feel the light
+Dialogue: 1,0:21:44.24,0:21:48.33,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I draw with black and white
+Dialogue: 1,0:21:51.87,0:21:56.54,ed64_eng,,0,0,0,ed64ed,{\fad(300,1400)\fry90\t(0,300,1,\fry0)}The unending Harmony
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(67,228)}Original Creator
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(163,228)}Yumi Hotta
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(171,249)}Takeshi Obata

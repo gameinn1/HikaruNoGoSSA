@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 68 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.593750
-Scroll Position: 186
-Active Line: 201
-Video Position: 24606
+Scroll Position: 450
+Active Line: 468
+Video Position: 31454
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -508,16 +508,16 @@ Dialogue: 1,0:21:48.66,0:21:50.12,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\
 Dialogue: 2,0:21:49.58,0:21:51.08,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf17}In
 Dialogue: 3,0:21:49.83,0:21:51.33,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf40}My
 Dialogue: 4,0:21:50.16,0:21:51.62,ed64_hl,,0,0,0,ed64ed,{\fad(400,1000)\fscx120\fscy56\pos(320,32)\t(200,0,\fscx75\fscy40)\kf136}Heart
-Dialogue: 0,0:20:46.27,0:20:55.94,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I listen to my fate through the din in my heart.
-Dialogue: 0,0:20:56.69,0:21:01.28,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}It occurs to me.
-Dialogue: 0,0:21:01.03,0:21:05.91,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}My dream was waiting for the time
-Dialogue: 0,0:21:05.70,0:21:11.96,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}to wake up within me.
-Dialogue: 0,0:21:14.71,0:21:18.51,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I can be more like myself
-Dialogue: 0,0:21:22.55,0:21:26.51,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Let the pounding of my heart be heard
-Dialogue: 0,0:21:29.43,0:21:33.48,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I move my body
-Dialogue: 0,0:21:37.32,0:21:40.78,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Feel the light
-Dialogue: 0,0:21:44.24,0:21:48.33,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I draw with black and white
-Dialogue: 0,0:21:51.87,0:21:56.54,ed64_eng,,0,0,0,ed64ed,{\fad(300,1400)\fry90\t(0,300,1,\fry0)}The unending Harmony
+Dialogue: 1,0:20:46.27,0:20:55.94,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I listen to my fate through the din in my heart.
+Dialogue: 1,0:20:56.69,0:21:01.28,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}It occurs to me.
+Dialogue: 1,0:21:01.03,0:21:05.91,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}My dream was waiting for the time
+Dialogue: 1,0:21:05.70,0:21:11.96,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}to wake up within me.
+Dialogue: 1,0:21:14.71,0:21:18.51,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I can be more like myself
+Dialogue: 1,0:21:22.55,0:21:26.51,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Let the pounding of my heart be heard
+Dialogue: 1,0:21:29.43,0:21:33.48,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I move my body
+Dialogue: 1,0:21:37.32,0:21:40.78,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}Feel the light
+Dialogue: 1,0:21:44.24,0:21:48.33,ed64_eng,,0,0,0,ed64ed,{\fad(300,500)\fry90\t(0,300,1,\fry0)}I draw with black and white
+Dialogue: 1,0:21:51.87,0:21:56.54,ed64_eng,,0,0,0,ed64ed,{\fad(300,1400)\fry90\t(0,300,1,\fry0)}The unending Harmony
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(67,228)}Original Creator
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(163,228)}Yumi Hotta
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(171,249)}Takeshi Obata

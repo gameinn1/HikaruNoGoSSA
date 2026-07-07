@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 32 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 186
-Active Line: 216
-Video Position: 26279
+Scroll Position: 70
+Active Line: 80
+Video Position: 12426
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -122,7 +122,8 @@ Dialogue: 0,0:07:58.92,0:08:02.77,Default,,0,0,0,,Why does Hikaru want to become
 Dialogue: 0,0:08:03.58,0:08:08.47,Default,,0,0,0,,He lost to a boy his age by a lot\Nat Go, and he was given up on.
 Dialogue: 0,0:08:11.93,0:08:20.31,Memory,,0,0,0,,He looked disappointed, and became pro.\NSo I want to make him look back at me.
 Dialogue: 0,0:08:32.85,0:08:37.24,Thinking,,0,0,0,,Yeah! The eyes he had when he first came to me.
-Dialogue: 0,0:08:38.28,0:08:42.82,Thinking,,0,0,0,,I'll make him turn those eyes to me!
+Comment: 0,0:08:38.28,0:08:42.82,Thinking,,0,0,0,,I'll make him turn those eyes to me!
+Dialogue: 0,0:08:38.25,0:08:42.82,Thinking,,0,0,0,,I'll make him turn those eyes to me!
 Dialogue: 0,0:08:49.88,0:08:52.56,Thinking,,0,0,0,,{\1c&HFEFECE&}How fortunate that the opponent is\Nsomeone you're used to playing.
 Dialogue: 0,0:08:53.51,0:08:55.20,Thinking,,0,0,0,,{\1c&HFEFECE&}You're back to your normal self.
 Dialogue: 0,0:08:57.14,0:09:00.20,Default,,0,0,0,,It's time for lunch, so please halt your game.

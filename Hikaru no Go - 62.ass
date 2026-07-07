@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 174
-Active Line: 196
-Video Position: 1611
+Active Line: 10
+Video Position: 2604
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,6 +54,8 @@ Dialogue: 1,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\fs32\1c&H000000&\fscx101\f
 Dialogue: 1,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\an4\fs13.5\1c&H000000&\fscx100\fscy141\bord0\blur1\shad0\pos(107,287)}He was born in Gaikaichou of Innoshima in 1829 under the name Torajirou.\NBorn with a passion for Go, just like his mother, he became the top player\Nin the area by the time he was six. In 1841 he changed his name to Shuusaku,\Nrose by one dan in strength every year, and became 4-dan by the time he\Nwas 15. When Shuusaku became 20, he was chosen to become the successor\Nof the Honinbou family, and received the 6-dan title and married Honinbou\NJouwa's daughter Tachibana. In 1848 he entered the castle to play go, and\Nmade a never before seen record of 19 straight wins. But he died at the age\Nof 34 in the year 1862 when there was a Cholera epidemic in Edo.
 Dialogue: 1,0:01:41.08,0:01:42.58,NoteArial,,0,0,0,,{\fs18\1c&H000000&\blur1\fscx100\fscy75\bord0\shad0\pos(476,406)}Hiroshima\NPrefecture
 Dialogue: 0,0:01:42.58,0:01:44.08,61Sign,,0,0,0,,{\frz270\blur1.2\fscy70\move(224,192,224,111)}ONINBOU SHUUSAKU
+Comment: 0,0:01:48.59,0:01:50.09,NoteArial,,0,0,0,,Starting frame needs fixed.
+Comment: 0,0:01:48.59,0:01:50.09,NoteArial,,0,0,0,,{\fs21\blur1\1c&H403E43&\4c&HFFFFFF&\fscx100\fscy101\bord0\shad1.5\frz356.5\move(403,79,403,17)}G\N{\fscy100)}R\N{\fscy99)}A\N{\fscy98)}V\N{\fscy97)}E\N\N\N{\fscy90)}O\N{\fscy90)}F\N\N\N{\fscy84)}S\N{\fscy81)}H\N{\fscy81)}U\N{\fscy81)}U\N{\fscy77)}S\N{\fscy77)}A\N{\fscy75)}K\N{\fscy74)}U
 Dialogue: 0,0:01:55.30,0:01:56.60,Thinking,,0,0,0,,He isn't here...
 Dialogue: 0,0:01:57.60,0:01:58.97,Thinking,,0,0,0,,Why aren't you here, Sai?
 Dialogue: 0,0:01:59.77,0:02:03.48,Thinking,,0,0,0,,Didn't you want to come and visit Torajirou's homeland?
@@ -261,7 +262,9 @@ Dialogue: 0,0:16:44.32,0:16:46.74,Default,,0,0,0,,Hey, are you done?
 Dialogue: 0,0:16:47.74,0:16:51.62,Default,,0,0,0,,Really... what were you doing running\Naround the past two days?
 Dialogue: 0,0:16:51.99,0:16:53.33,Default,,0,0,0,,Were you looking for something?
 Dialogue: 0,0:16:53.78,0:16:55.16,Default,,0,0,0,,Is it not at the Go Institute?
-Dialogue: 0,0:16:58.08,0:17:02.75,Default,,0,0,0,,You've got to go to the Go Institute for Go stuff.
+Comment: 0,0:16:58.04,0:17:02.75,Default,,0,0,0,,R-F is 113 frames till scene change but I really think this should be 114 frames, maybe even 115.
+Comment: 0,0:16:58.04,0:17:02.75,Default,,0,0,0,,You've got to go to the Go Institute for Go stuff.
+Dialogue: 0,0:16:58.00,0:17:02.75,Default,,0,0,0,,You've got to go to the Go Institute for Go stuff.
 Dialogue: 0,0:17:03.38,0:17:05.25,Thinking,,0,0,0,,I've already looked at the Go Institute.
 Dialogue: 0,0:17:06.09,0:17:08.01,Thinking,,0,0,0,,He wasn't in Grandpa's shed either.
 Dialogue: 0,0:17:09.47,0:17:12.05,Thinking,,0,0,0,,Sai... where are you?

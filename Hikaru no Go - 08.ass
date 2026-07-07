@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 08 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 72
-Active Line: 73
-Video Position: 31380
+Scroll Position: 126
+Active Line: 131
+Video Position: 19548
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -169,12 +169,13 @@ Dialogue: 0,0:13:16.61,0:13:17.99,Default,,0,0,0,,I-I resign...
 Dialogue: 0,0:13:25.74,0:13:29.20,Default,,0,0,0,,It was like magic...
 Dialogue: 0,0:13:29.32,0:13:32.83,Default,,0,0,0,,Idiot, even I can crush someone\Nwho's simply repeating my moves.
 Dialogue: 0,0:13:33.21,0:13:35.00,Default,,0,0,0,,Don't pick on him so much.
-Dialogue: 0,0:13:35.37,0:13:40.70,Default,,0,0,0,,You can count on a Damezumari by playing around\Nthe tengen, or you could use ladders to trap him.
-Dialogue: 0,0:13:35.37,0:13:54.86,NoteArialEF,,0,0,0,,{\fs16.5}[note: Damezumari was explained in a previous episode, it's when\Nexcess breaths of air are removed and new possibilities form because of\Nit. Ladders, called Shichou in Japanese are an important formation. It\Nwas shown and explained in Episode 2 when Hikaru was at the Go Class]
-Dialogue: 0,0:13:42.59,0:13:44.40,Default,,0,0,0,,Either way, you get crushed.
-Dialogue: 0,0:13:44.83,0:13:47.77,Default,,0,0,0,,Wait for me!
-Dialogue: 0,0:13:48.52,0:13:51.98,Default,,0,0,0,,Don't do anything too stupid, new guy.
-Dialogue: 0,0:13:52.75,0:13:54.86,Default,,0,0,0,,'Cause you'll embarrass the Kaiou Go Club.
+Comment: 0,0:13:35.29,0:13:54.77,NoteArialEF,,0,0,0,,This section has been fully retimed to match E-F frame perfectly.
+Dialogue: 0,0:13:35.29,0:13:54.77,NoteArialEF,,0,0,0,,{\fs16.5}[note: Damezumari was explained in a previous episode, it's when\Nexcess breaths of air are removed and new possibilities form because of\Nit. Ladders, called Shichou in Japanese are an important formation. It\Nwas shown and explained in Episode 2 when Hikaru was at the Go Class]
+Dialogue: 0,0:13:35.29,0:13:40.63,Default,,0,0,0,,You can count on a Damezumari by playing around\Nthe tengen, or you could use ladders to trap him.
+Dialogue: 0,0:13:42.51,0:13:44.40,Default,,0,0,0,,Either way, you get crushed.
+Dialogue: 0,0:13:44.76,0:13:47.77,Default,,0,0,0,,Wait for me!
+Dialogue: 0,0:13:48.43,0:13:52.02,Default,,0,0,0,,Don't do anything too stupid, new guy.
+Dialogue: 0,0:13:52.64,0:13:54.77,Default,,0,0,0,,'Cause you'll embarrass the Kaiou Go Club.
 Dialogue: 0,0:13:55.16,0:13:58.30,Default,,0,0,0,,Then why don't you guys try defeating Touya?
 Dialogue: 0,0:13:58.66,0:14:01.65,Default,,0,0,0,,This next tournament, is\NTouya going to be the captain?
 Dialogue: 0,0:14:01.70,0:14:05.94,Default,,0,0,0,,Why not? I hear he's going to\Nbecome a Meijin in the future.

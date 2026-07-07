@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 76 - 「 Hokuto Hai eno Michi 」 (BD 1440x
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 902
-Active Line: 913
-Video Position: 106444
+Scroll Position: 216
+Active Line: 232
+Video Position: 24030
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -270,6 +270,8 @@ Dialogue: 0,0:16:15.62,0:16:20.25,Default,,0,0,0,,But now I'm getting the feelin
 Dialogue: 0,0:16:21.96,0:16:26.55,Default,,0,0,0,,What should I do with these\Nhigh hopes I have for you?
 Dialogue: 0,0:16:26.92,0:16:29.89,Default,,0,0,0,,Should I still look forward to great things from you?
 Dialogue: 0,0:16:36.98,0:16:39.94,Default,,0,0,0,,Oh, sorry I stopped you.
+Comment: 0,0:16:40.98,0:16:41.86,Default,,0,0,0,,This is 26 frames after previous line like AonE but probably should start 23999. Also then take a frame off the end to keep 21 total frames if that does happen.
+Dialogue: 0,0:16:40.98,0:16:41.86,Default,,0,0,0,,Let's go.
 Dialogue: 0,0:16:43.94,0:16:46.99,Default,,0,0,0,,Isumi's New First Dan match has already started.
 Dialogue: 0,0:16:55.58,0:16:56.41,Default,,0,0,0,,Kadowaki-san...
 Dialogue: 0,0:17:02.29,0:17:02.92,Default,,0,0,0,,Huh?

@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 14 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 259
-Active Line: 276
-Video Position: 29784
+Active Line: 25
+Video Position: 4221
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +63,9 @@ Dialogue: 0,0:02:35.55,0:02:38.10,Background,,0,0,0,,I'm fine, let's do it Tsuts
 Dialogue: 0,0:02:38.68,0:02:39.56,Default,,0,0,0,,Let's Nigiri.
 Dialogue: 0,0:02:50.17,0:02:52.80,Background,,0,0,0,,2...4...6...
 Dialogue: 0,0:02:54.58,0:02:55.36,Background,,0,0,0,,I'm black.
-Dialogue: 0,0:02:56.10,0:02:58.70,Default,,0,0,0,,I'm white, Shindou-kun's black.
+Comment: 0,0:02:56.10,0:02:58.70,Default,,0,0,0,,Put this back 2 frames.
+Comment: 0,0:02:56.10,0:02:58.70,Default,,0,0,0,,I'm white, Shindou-kun's black.
+Dialogue: 0,0:02:56.03,0:02:58.70,Default,,0,0,0,,I'm white, Shindou-kun's black.
 Dialogue: 0,0:03:14.75,0:03:16.30,Background,,0,0,0,,Good luck
 Dialogue: 0,0:03:16.89,0:03:17.76,Default,,0,0,0,,Good luck.
 Dialogue: 0,0:03:18.47,0:03:19.22,Default,,0,0,0,,Good luck.
