@@ -173,7 +173,11 @@ This is an update to the project started by gabest11.
 
 I highly recommend reading some of the 90+ page [Full changelog pdf](https://github.com/gameinn1/HikaruNoGoSSA/blob/master/Full%20changelog.pdf) for how this restoration was achieved and the painstaking detail that went into it.
 
-Below is a quick summary:
+As you can understand, doing 75 episodes plus the special was lots of work. I've just accepted there will be errors and the main reason for publicly releasing in June 2026 is to get as many eyes on the project as possible. If you come across any errors, please make an issues post on the github [here](https://github.com/gameinn1/HikaruNoGoSSA/issues) and I can try to fix them. The main goal is to have multiple people watch and if any big errors are found, rerelease a final version with fixes for the 25th anniversary in October 2026.
+
+Update in July 2026: I don't have a nyaa account so can't directly reply to anything there (llbx uploaded it). I saw that a user called HikariGo commented "So that just leaves a bunch of the specials without HQ releases, I think?". I just looked at the source files and Moozzi2 did actually include "[Moozzi2] Hikaru no Go [SP04] On Air New Year TV Special (BD 1440x1080 x.264 Flac)". Unfortunately it's only the 3 minute intro and not the whole episode but since E-F did sub this part, I have restored it. The script file on the github is named Hikaru no Go - New Year 3 Minute Special. It will likely be included as a video extra if a rerelease happens.
+
+Below is a quick summary of the project:
 
 I restarted this project in mid December 2025 after it was laid dormant for many years by gabest11. Before this I had no experience with Aegisub. I assumed that the work done by gabest11 was close to done (they stopped episode 61) but there were many problems. Most of the time they did not assign styles/missed notes/lots of signs so that all needed relooked at and the timings needed redone (especially for earlier episodes). There were also some small errors in the text compared to E-F/R-F. None of the ending Igo had signs and the subs were not E-F/R-F versions.
 
