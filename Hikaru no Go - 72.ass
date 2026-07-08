@@ -16,10 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 448
-Active Line: 472
-Video Position: 31454
+Video Zoom Percent: 0.750000
+Active Line: 4
+Video Position: 2909
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,6 +34,7 @@ Style: ed64_hl,Polo,60,&H00DABEDC,&H005E6978,&H00000000,&H00000000,0,0,0,0,100,1
 Style: ed64_eng,Especial Kay,42.5,&H00B3B2BA,&H006B6F7B,&H00000000,&H00000000,0,0,0,0,100,100,0.333,0,1,1.25,0,2,0,0,14,1
 Style: Title_eps_top,Arial,22,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,5,6,20,20,40,1
 Style: Title_eps,Arial,42,&H00E7E4E5,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,6,2,20,20,40,1
+Style: Note,Century Gothic,23.8,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,15,1
 Style: NoteArial,Arial,17.5,&H00AEACB9,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.25,0,8,0,0,25,1
 Style: NoteArial_Igo,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,0,25,1
 Style: special_title,Dael Calligraphy,65,&H00437425,&H000000FF,&H00EFF6F4,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,5,0,0,0,1
@@ -52,6 +52,8 @@ Dialogue: 0,0:01:47.47,0:01:50.09,Thinking,,0,0,0,,I played against him in the W
 Dialogue: 0,0:01:51.08,0:01:53.71,Thinking,,0,0,0,,He scared me during the game with a few good moves,
 Dialogue: 0,0:01:54.44,0:01:58.20,Thinking,,0,0,0,,but he was bad at Yose and I\Nwon by six and a half moku.
 Dialogue: 0,0:01:59.20,0:02:04.69,Thinking,,0,0,0,,But, Touya persistently asked me about how he played.
+Dialogue: 0,0:02:01.31,0:02:05.86,Note,,0,0,0,,{\fad(292,292)\pos(152.6,40.3)}Congratulations Loae!!
+Dialogue: 0,0:02:01.31,0:02:05.86,Note,,0,0,0,,{\fad(292,292)\pos(196.3,96.6)}This is sensei's 150th translation!!
 Dialogue: 0,0:02:06.16,0:02:09.94,Thinking,,0,0,0,,I was pissed off back then because he\Nkept asking about the guy who lost,
 Dialogue: 0,0:02:11.03,0:02:14.52,Thinking,,0,0,0,,But I guess Touya really did think of him as a rival.
 Dialogue: 0,0:02:15.49,0:02:16.19,Thinking,,0,0,0,,Okay.

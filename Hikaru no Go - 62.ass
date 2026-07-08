@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 62 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 10
-Video Position: 2604
+Scroll Position: 446
+Active Line: 471
+Video Position: 29784
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -505,18 +506,18 @@ Dialogue: 0,0:21:36.11,0:21:41.11,Ed4Kanji,,0,0,0,,{\kf97}次{\kf113}あう{\kf3
 Dialogue: 0,0:21:41.25,0:21:49.04,Ed4Kanji,,0,0,0,,{\kf23}一{\kf146}緒{\kf67}に{\kf69}笑{\kf100}って{\kf34}い{\kf128}よう{\kf212}よ
 Dialogue: 0,0:21:49.67,0:21:54.74,Ed4Kanji,,0,0,0,,{\kf120}今度{\kf85}は{\kf31}{\kf93}どんな{\kf58}夢{\kf120}を
 Dialogue: 0,0:21:54.74,0:22:03.70,Ed4Kanji,,0,0,0,,{\kf168}一緒{\kf66}に{\kf69}語り{\kf101}あ{\kf35}う{\kf95}の{\kf33}か{\kf240}な？{\kf89}
-Dialogue: 0,0:20:42.22,0:20:52.84,Ed4English,,0,0,0,,How many sad memories did we have?
-Dialogue: 0,0:20:53.07,0:20:58.00,Ed4English,,0,0,0,,What kind of happy days are we going to
-Dialogue: 0,0:20:58.10,0:21:03.70,Ed4English,,0,0,0,,hold onto preciously from now?
-Dialogue: 0,0:21:03.81,0:21:14.34,Ed4English,,0,0,0,,We always gathered at the nearby park
-Dialogue: 0,0:21:14.59,0:21:19.35,Ed4English,,0,0,0,,and laughed out loud into the middle of the night,
-Dialogue: 0,0:21:19.35,0:21:24.64,Ed4English,,0,0,0,,always... always...
-Dialogue: 0,0:21:25.78,0:21:31.08,Ed4English,,0,0,0,,Because I'm really happy for the miracle
-Dialogue: 0,0:21:31.08,0:21:35.69,Ed4English,,0,0,0,,of being here when you are
-Dialogue: 0,0:21:36.11,0:21:41.11,Ed4English,,0,0,0,,Let's laugh together again,
-Dialogue: 0,0:21:41.25,0:21:49.04,Ed4English,,0,0,0,,the next time we meet.
-Dialogue: 0,0:21:49.67,0:21:54.74,Ed4English,,0,0,0,,What kind of dreams
-Dialogue: 0,0:21:54.74,0:22:03.70,Ed4English,,0,0,0,,are we going to talk about then?
+Dialogue: 1,0:20:42.22,0:20:52.84,Ed4English,,0,0,0,,How many sad memories did we have?
+Dialogue: 1,0:20:53.07,0:20:58.00,Ed4English,,0,0,0,,What kind of happy days are we going to
+Dialogue: 1,0:20:58.10,0:21:03.70,Ed4English,,0,0,0,,hold onto preciously from now?
+Dialogue: 1,0:21:03.81,0:21:14.34,Ed4English,,0,0,0,,We always gathered at the nearby park
+Dialogue: 1,0:21:14.59,0:21:19.35,Ed4English,,0,0,0,,and laughed out loud into the middle of the night,
+Dialogue: 1,0:21:19.35,0:21:24.64,Ed4English,,0,0,0,,always... always...
+Dialogue: 1,0:21:25.78,0:21:31.08,Ed4English,,0,0,0,,Because I'm really happy for the miracle
+Dialogue: 1,0:21:31.08,0:21:35.69,Ed4English,,0,0,0,,of being here when you are
+Dialogue: 1,0:21:36.11,0:21:41.11,Ed4English,,0,0,0,,Let's laugh together again,
+Dialogue: 1,0:21:41.25,0:21:49.04,Ed4English,,0,0,0,,the next time we meet.
+Dialogue: 1,0:21:49.67,0:21:54.74,Ed4English,,0,0,0,,What kind of dreams
+Dialogue: 1,0:21:54.74,0:22:03.70,Ed4English,,0,0,0,,are we going to talk about then?
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(67,228)}Original Creator
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(163,228)}Yumi Hotta
 Dialogue: 0,0:00:08.78,0:00:13.37,61Credits,,0,0,0,,{\fad(501,501)\fscx101\fscy175\pos(171,249)}Takeshi Obata
