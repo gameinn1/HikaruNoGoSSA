@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 285
-Active Line: 307
-Video Position: 27797
+Scroll Position: 171
+Active Line: 184
+Video Position: 11548
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -227,11 +227,13 @@ Dialogue: 0,0:06:39.67,0:06:42.28,Thinking,,0,0,0,,I don't care if he has to ret
 Dialogue: 0,0:06:42.97,0:06:46.01,Thinking,,0,0,0,,I get to watch this match from here!
 Dialogue: 0,0:06:47.04,0:06:50.43,Thinking,,0,0,0,,I get to watch this match between Sai and Touya Meijin!
 Dialogue: 0,0:07:43.61,0:07:44.74,Background,,0,0,0,,I'm home!
-Dialogue: 0,0:07:45.61,0:07:49.45,Background,,0,0,0,,Yoshitaka! What were you out all night!?
+Comment: 0,0:07:45.61,0:07:49.45,Background,,0,0,0,,Yoshitaka! What were you out all night!?
+Dialogue: 0,0:07:45.61,0:07:49.45,Background,,0,0,0,,Yoshitaka! Why were you out all night!?
 Dialogue: 0,0:07:49.75,0:07:52.79,Background,,0,0,0,,I thought the tutoring game was\Nsupposed to end last night!
 Dialogue: 0,0:07:53.76,0:07:57.46,Default,,0,0,0,,I played Go at Saeki-san's place, and stayed there.
 Dialogue: 0,0:07:57.75,0:08:01.46,Background,,0,0,0,,I told you to call home whenever you do that.
-Dialogue: 0,0:08:01.61,0:08:04.21,Background,,0,0,0,,I tried to call your cell, but you had turned it off.
+Comment: 0,0:08:01.61,0:08:04.21,Background,,0,0,0,,I tried to call your cell, but you had turned it off.
+Dialogue: 0,0:08:01.61,0:08:04.21,Background,,0,0,0,,I tried to call your cell, but you had it turned off.
 Dialogue: 0,0:08:03.96,0:08:05.47,Default,,0,0,0,,Oh, sorry.
 Dialogue: 0,0:08:06.30,0:08:07.55,Background,,0,0,0,,Breakfast?
 Dialogue: 0,0:08:08.22,0:08:09.51,Default,,0,0,0,,I had it already!
