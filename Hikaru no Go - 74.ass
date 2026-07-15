@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 74 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 59
-Active Line: 79
-Video Position: 11845
+Scroll Position: 28
+Active Line: 47
+Video Position: 8975
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,7 +93,8 @@ Dialogue: 0,0:06:02.55,0:06:03.43,Background,,0,0,0,,Yeah, okay.
 Dialogue: 0,0:06:05.80,0:06:08.26,Default,,0,0,0,,They've been decided? All three?
 Dialogue: 0,0:06:08.89,0:06:10.27,Default,,0,0,0,,So there are no playoffs?
 Dialogue: 0,0:06:10.64,0:06:12.98,Default,,0,0,0,,That means Waya-kun beat Fukui-kun,
-Dialogue: 0,0:06:13.52,0:06:15.81,Background,,0,0,0,,and Shindou beat Ochi-kun?
+Comment: 0,0:06:13.52,0:06:15.81,Background,,0,0,0,,and Shindou beat Ochi-kun?
+Dialogue: 0,0:06:13.52,0:06:15.81,Background,,0,0,0,,and Shindou-kun beat Ochi-kun?
 Dialogue: 0,0:06:18.32,0:06:20.65,Default,,0,0,0,,You're always looking up, aren't you?
 Dialogue: 0,0:06:21.36,0:06:24.11,Default,,0,0,0,,So you probably don't know about\Nthe scary guy beneath you.
 Dialogue: 0,0:06:24.74,0:06:25.45,Default,,0,0,0,,Beneath me?
@@ -127,7 +128,8 @@ Dialogue: 5,0:07:58.25,0:08:01.67,Background,,0,0,0,,How do you pronounce this K
 Dialogue: 0,0:08:03.13,0:08:07.43,Default,,0,0,0,,It's "kou" from "kouzui" (kouzui is\Nflood) so would it be Hong? Hong...
 Dialogue: 0,0:08:08.05,0:08:13.43,Default,,0,0,0,,The child who beat Kim Kang Il? It's Su-Young.\NHis name is Hong Su-Young.
 Dialogue: 0,0:08:14.01,0:08:19.94,Background,,0,0,0,,Hong Su-Young, 14. Yet another\Nincredible new player for Korea.
-Dialogue: 0,0:08:20.27,0:08:25.15,Default,,0,0,0,,The sixteen year old Ko Young Ha is setting the\Nrecord for the longest winning streak right now.
+Comment: 0,0:08:20.27,0:08:25.15,Default,,0,0,0,,The sixteen year old Ko Young Ha is setting the\Nrecord for the longest winning streak right now.
+Dialogue: 0,0:08:20.23,0:08:25.11,Default,,0,0,0,,The sixteen year old Ko Young Ha is setting the\Nrecord for the longest winning streak right now.
 Dialogue: 0,0:08:25.61,0:08:29.16,Default,,0,0,0,,The young players are really good in Korea.
 Dialogue: 0,0:08:32.28,0:08:37.46,Default,,0,0,0,,Hong Su-Young, Ko Young Ha... I wonder\Nif they're the ones who will be coming.
 Dialogue: 0,0:08:38.41,0:08:41.17,Default,,0,0,0,,Coming to what?
