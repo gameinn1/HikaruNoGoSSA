@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 75 END (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 20
-Video Position: 5426
+Scroll Position: 89
+Active Line: 117
+Video Position: 18508
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -160,7 +161,8 @@ Dialogue: 0,0:12:39.57,0:12:40.36,Default,,0,0,0,,Again?
 Dialogue: 0,0:12:41.49,0:12:44.83,Background,,0,0,0,,"Oh! I see."!? Why can't you even notice that!?
 Dialogue: 0,0:12:45.20,0:12:48.75,Default,,0,0,0,,How can you say that when you didn't\Neven see this Sagari over here.
 Dialogue: 0,0:12:48.91,0:12:51.83,Default,,0,0,0,,But you missed this Tsuke over here, too!
-Dialogue: 0,0:12:51.91,0:12:54.92,Default,,0,0,0,,Besides, how many times do you think\Nyou've said' Oh! I see." Already!?
+Comment: 0,0:12:51.91,0:12:54.92,Default,,0,0,0,,Besides, how many times do you think\Nyou've said' Oh! I see." Already!?
+Dialogue: 0,0:12:51.91,0:12:54.92,Default,,0,0,0,,Besides, how many times do you think\Nyou've said "Oh! I see." Already!?
 Dialogue: 0,0:12:55.42,0:12:58.76,Default,,0,0,0,,Wow, they're arguing over such complicated ideas.
 Dialogue: 0,0:12:59.30,0:13:00.63,Default,,0,0,0,,Not really...
 Dialogue: 0,0:13:01.97,0:13:03.55,Background,,0,0,0,,You've said it four times! Not three!
