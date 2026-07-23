@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 24 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 88
-Active Line: 110
-Video Position: 224
+Scroll Position: 31
+Active Line: 53
+Video Position: 7693
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,7 +71,8 @@ Dialogue: 0,0:03:47.95,0:03:48.89,Default,,0,0,0,,Excuse me.
 Dialogue: 0,0:03:50.02,0:03:52.12,Default,,0,0,0,,Oh! Waya! Isumi-san.
 Dialogue: 0,0:03:52.93,0:03:53.74,Default,,0,0,0,,Mashiba-san...
 Dialogue: 0,0:03:55.27,0:03:57.75,Default,,0,0,0,,Oh Isumi-kun, how are you doing?
-Dialogue: 0,0:03:58.37,0:03:59.00,Default,,0,0,0,,Yes.
+Comment: 0,0:03:58.37,0:03:59.00,Default,,0,0,0,,Yes.
+Dialogue: 0,0:03:58.34,0:03:59.00,Default,,0,0,0,,Yes.
 Dialogue: 0,0:03:59.62,0:04:01.50,Default,,0,0,0,,We'll place the game from move one for you.
 Dialogue: 0,0:04:05.40,0:04:06.96,Default,,0,0,0,,I'll place white.
 Dialogue: 0,0:04:07.91,0:04:10.58,Default,,0,0,0,,Touya Akira draws a lot of attention.
@@ -85,12 +86,14 @@ Dialogue: 0,0:04:39.16,0:04:40.92,Default,,0,0,0,,That would be great!
 Dialogue: 0,0:04:41.32,0:04:45.00,Default,,0,0,0,,No offense, but none of you will\Nbe able to defeat Touya Akira.
 Dialogue: 0,0:04:46.02,0:04:47.68,Default,,0,0,0,,Even Zama-sensei is struggling.
 Dialogue: 0,0:04:49.68,0:04:52.55,Background,,0,0,0,,Look! Zama-sensei used a double-Hane here!
-Dialogue: 0,0:04:54.35,0:04:57.89,Default,,0,0,0,,It's not the way an Ouza would\Nplay against a mere new pro.
+Dialogue: 0,0:04:54.32,0:04:57.89,Default,,0,0,0,,It's not the way an Ouza would\Nplay against a mere new pro.
 Dialogue: 0,0:04:58.61,0:04:59.90,Default,,0,0,0,,He is desperate.
 Dialogue: 0,0:05:00.56,0:05:03.72,Background,,0,0,0,,A title holder should just connect here.
 Dialogue: 0,0:05:04.96,0:05:07.59,Background,,0,0,0,,Zama-sensei intends to win no matter what.
 Dialogue: 0,0:05:08.50,0:05:10.62,Default,,0,0,0,,Isumi-san, let's replay the game over there.
-Dialogue: 0,0:05:12.12,0:05:16.14,Background,,0,0,0,,But Touya-kun's playing really well on the black.
+Comment: 0,0:05:12.12,0:05:16.14,Background,,0,0,0,,But Touya-kun's playing really well on the black.
+Dialogue: 0,0:05:12.08,0:05:16.14,Background,,0,0,0,,But Touya-kun's playing really well on black.
+Dialogue: 0,0:05:16.14,0:05:16.84,Background,,0,0,0,,Yes!
 Dialogue: 0,0:05:17.19,0:05:20.84,Default,,0,0,0,,Zama-sensei's probably biting\Nthe tip of his fan right now.
 Dialogue: 0,0:05:20.85,0:05:24.05,Default,,0,0,0,,Oh! That habit Zama-sensei has when he's serious!
 Dialogue: 0,0:05:25.32,0:05:26.61,Background,,0,0,0,,I'll go take a look.
