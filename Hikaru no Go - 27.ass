@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 27 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 184
-Active Line: 214
-Video Position: 24009
+Scroll Position: 7
+Active Line: 22
+Video Position: 3619
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,7 +63,7 @@ Dialogue: 0,0:02:20.08,0:02:20.75,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:02:21.75,0:02:22.95,Default,,0,0,0,,K-Kinda.
 Dialogue: 0,0:02:24.78,0:02:27.47,Default,,0,0,0,,Maybe I should join a study session too.
 Dialogue: 0,0:02:27.95,0:02:30.70,Default,,0,0,0,,But playing go all day long and all night long?
-Dialogue: 0,0:02:30.93,0:02:35.89,Default,,0,0,0,,You're right, we need to let lose sometimes.
+Dialogue: 0,0:02:30.93,0:02:35.89,Default,,0,0,0,,You're right, we need to let loose sometimes.
 Dialogue: 0,0:02:40.36,0:02:42.64,Default,,0,0,0,,Hey! Wanna, go do karaoke\Non our way home tonight?
 Dialogue: 0,0:02:42.83,0:02:46.22,Default,,0,0,0,,Yeah! Let's! Wanna go bowling afterwards too?
 Dialogue: 0,0:02:46.52,0:02:47.36,Default,,0,0,0,,Okay.
