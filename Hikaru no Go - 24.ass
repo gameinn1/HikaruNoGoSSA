@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 24 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 24 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 31
-Active Line: 53
-Video Position: 7693
+Video Zoom Percent: 1.000000
+Scroll Position: 175
+Active Line: 189
+Video Position: 27809
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -230,7 +230,8 @@ Dialogue: 0,0:18:56.99,0:18:58.41,Default,,0,0,0,,See ya. We're going now.
 Dialogue: 0,0:19:04.46,0:19:07.50,Default,,0,0,0,,Touya got defeated trying to go for a KO...
 Dialogue: 0,0:19:08.77,0:19:11.80,Default,,0,0,0,,so he loses to people other than Sai...
 Dialogue: 0,0:19:16.23,0:19:19.50,Default,,0,0,0,,But I... won't forget his match today.
-Dialogue: 0,0:19:19.87,0:19:23.72,Sai,,0,0,0,,Yes. Touya's play today was worth watching.
+Comment: 0,0:19:19.87,0:19:23.72,Sai,,0,0,0,,Yes. Touya's play today was worth watching.
+Dialogue: 0,0:19:19.85,0:19:23.72,Sai,,0,0,0,,Yes. Touya's play today was worth watching.
 Dialogue: 0,0:19:24.31,0:19:24.94,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:19:26.24,0:19:28.10,Default,,0,0,0,,It was exciting!
 Dialogue: 0,0:19:33.31,0:19:35.03,Background,,0,0,0,,Wow! The snow is incredible!
