@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 175
-Active Line: 192
-Video Position: 18997
+Scroll Position: 242
+Active Line: 254
+Video Position: 23946
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -294,8 +294,10 @@ Dialogue: 0,0:15:43.08,0:15:46.26,Background,,0,0,0,,S...A...I...
 Dialogue: 0,0:15:48.83,0:15:49.48,Background,,0,0,0,,Sai!
 Dialogue: 0,0:15:54.73,0:15:56.59,Default,,0,0,0,,Well, let's go.
 Dialogue: 0,0:16:19.88,0:16:23.87,Default,,0,0,0,,I'll be in Japan next month for about a week Mom.
-Dialogue: 0,0:16:26.09,0:16:31.17,Default,,0,0,0,,Yeah, I was chosen as the representative for the\NUS for the International Amateur Go Tournament.
-Dialogue: 0,0:16:35.42,0:16:37.17,Default,,0,0,0,,Yeah, about 50 nations.
+Comment: 0,0:16:26.09,0:16:31.17,Default,,0,0,0,,Yeah, I was chosen as the representative for the\NUS for the International Amateur Go Tournament.
+Dialogue: 0,0:16:26.05,0:16:31.17,Default,,0,0,0,,Yeah, I was chosen as the representative for the\NUS for the International Amateur Go Tournament.
+Comment: 0,0:16:35.42,0:16:37.17,Default,,0,0,0,,Yeah, about 50 nations.
+Dialogue: 0,0:16:34.43,0:16:37.17,Default,,0,0,0,,Yeah, about 50 nations.
 Dialogue: 0,0:16:37.65,0:16:43.47,Default,,0,0,0,,One rep for each nation. I became\Nnumber one in the nation during tryouts.
 Dialogue: 0,0:16:45.79,0:16:51.57,Default,,0,0,0,,Of course, Asia is strong. Japan, China, and Korea.
 Dialogue: 0,0:16:52.42,0:16:54.78,Background,,0,0,0,,The US? We were Eighth last year.
