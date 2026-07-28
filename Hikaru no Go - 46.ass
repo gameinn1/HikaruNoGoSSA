@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 46 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 46 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 14
-Active Line: 15
-Video Position: 3791
+Video Zoom Percent: 0.625000
+Scroll Position: 185
+Active Line: 192
+Video Position: 24527
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -238,7 +238,8 @@ Dialogue: 0,0:16:36.10,0:16:40.27,Default,,0,0,0,,He won't become a pro until la
 Dialogue: 0,0:16:41.36,0:16:44.09,Default,,0,0,0,,Please feel free to come talk to me\Nagain when you find out more.
 Dialogue: 0,0:16:44.48,0:16:46.14,Default,,0,0,0,,Yes I will. Thank you.
 Dialogue: 0,0:16:58.04,0:16:58.87,Default,,0,0,0,,I hear...
-Dialogue: 0,0:16:59.82,0:17:01.01,Default,,0,0,0,,that you're a pro now.
+Comment: 0,0:16:59.82,0:17:01.01,Default,,0,0,0,,that you're a pro now.
+Dialogue: 0,0:16:59.79,0:17:01.01,Default,,0,0,0,,that you're a pro now.
 Dialogue: 0,0:17:01.96,0:17:02.73,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:17:09.59,0:17:11.65,Default,,0,0,0,,Well, good luck with that.
 Dialogue: 0,0:17:27.95,0:17:30.36,Default,,0,0,0,,I wonder if the Go club is meeting today.
