@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 34 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 315
-Active Line: 337
-Video Position: 31644
+Scroll Position: 303
+Active Line: 320
+Video Position: 32837
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -363,7 +363,7 @@ Dialogue: 0,0:22:16.36,0:22:19.76,Note,,0,0,0,,{\fs30\fad(334,459)\1c&HFFFFFF&\3
 Dialogue: 0,0:22:20.05,0:22:22.60,Default,,0,0,0,,was held here in Kure City of Hiroshima Prefecture.
 Dialogue: 0,0:22:20.95,0:22:24.50,Note,,0,0,0,,{\fs30\fad(459,0)\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(465,12}Clinton Bay Hotel
 Dialogue: 0,0:22:20.95,0:22:24.50,Note,,0,0,0,,{\fs30\fad(459,0)\1c&HFFFFFF&\3c&HD10002&\4c&HFFFFFF&\bord2\shad1\pos(322,354)}Second Game of the 57th Honinbou Match
-Dialogue: 0,0:22:24.22,0:22:28.36,Default,,0,0,0,,{\fs21}Katou Masao 9 dan is challenging 0 Meien Honinbou right now.
+Dialogue: 0,0:22:24.22,0:22:28.36,Default,,0,0,0,,{\fs21}Katou Masao 9 dan is challenging O Meien Honinbou right now.
 Dialogue: 0,0:22:24.65,0:22:26.97,Note,,0,0,0,,{\fs30\fad(459,0)\1c&HFFFFFF&\3c&HD90006&\4c&HFFFFFF&\bord2\shad1\pos(208,295)}Challenger
 Dialogue: 0,0:22:24.65,0:22:26.97,Note,,0,0,0,,{\fs30\fad(459,0)\1c&HFFFFFF&\3c&HD90006&\4c&HFFFFFF&\bord2\shad1\pos(322,354)}Katou Masao      9 dan
 Dialogue: 0,0:22:27.12,0:22:29.51,Note,,0,0,0,,{\fs30\fad(459,0)\1c&HFFFFFF&\3c&HE40002&\4c&HFFFFFF&\bord2\shad1\pos(322,349)}O          Meien      Honinbou
