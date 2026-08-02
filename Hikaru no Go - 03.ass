@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 03 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 396
-Active Line: 418
-Video Position: 31379
+Scroll Position: 3
+Active Line: 18
+Video Position: 3715
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +57,8 @@ Dialogue: 0,0:02:19.58,0:02:22.16,Default,,0,0,0,,All I did was take a quick loo
 Dialogue: 0,0:02:23.17,0:02:24.10,Default,,0,0,0,,But...
 Dialogue: 0,0:02:26.15,0:02:28.67,Default,,0,0,0,,It was the first time that I've\Nseen something like that.
 Dialogue: 0,0:02:28.85,0:02:30.92,Default,,0,0,0,,There were kids younger than me...
-Dialogue: 0,0:02:32.99,0:02:34.45,Background,,0,0,0,,and they were all so serious about the game.
+Comment: 0,0:02:32.99,0:02:34.45,Background,,0,0,0,,and they were all so serious about the game.
+Dialogue: 0,0:02:32.97,0:02:34.51,Background,,0,0,0,,and they were all so serious about the game.
 Dialogue: 0,0:02:39.35,0:02:40.89,Default,,0,0,0,,It kinda touched me.
 Dialogue: 0,0:02:41.12,0:02:41.72,Default,,0,0,0,,Touched you?
 Dialogue: 0,0:02:42.35,0:02:44.40,Default,,0,0,0,,Haven't you ever been serious before?
