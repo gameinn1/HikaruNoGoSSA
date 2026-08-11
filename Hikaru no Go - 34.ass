@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 34 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 303
-Active Line: 320
-Video Position: 32837
+Active Line: 10
+Video Position: 3791
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,6 +52,7 @@ Dialogue: 0,0:02:15.11,0:02:17.33,Sai,,0,0,0,,In other words, you become better\
 Dialogue: 0,0:02:20.91,0:02:26.04,Sai,,0,0,0,,That offers a strength to come back from\Nlosing situations in even games.
 Dialogue: 0,0:02:27.21,0:02:32.13,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Thirty-Fourth Match
 Dialogue: 0,0:02:27.21,0:02:32.13,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Don't Win
+Dialogue: 0,0:02:36.14,0:02:38.14,Note,,0,0,0,,{\fs24\1c&H69439E&\3c&HFFFFFF&\4c&HFFFFFF&\bord1\shad1\pos(366,78)}H\Ne\Na\Nr\Nt\N\No\Nf\N\NS\Nt\No\Nn\Ne
 Dialogue: 0,0:02:39.75,0:02:41.12,Default,,0,0,0,,Good morning!
 Dialogue: 0,0:02:41.19,0:02:42.24,Sai,,0,0,0,,Morning!
 Dialogue: 0,0:02:42.44,0:02:44.12,Default,,0,0,0,,Oh there he is.
