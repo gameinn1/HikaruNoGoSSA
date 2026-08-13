@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 36 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 18
-Active Line: 19
-Video Position: 4630
+Scroll Position: 120
+Active Line: 128
+Video Position: 27392
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -168,9 +168,9 @@ Dialogue: 0,0:18:32.21,0:18:36.04,Default,,0,0,0,,I couldn't believe that it was
 Dialogue: 0,0:18:36.49,0:18:38.02,Sai,,0,0,0,,Of course not.
 Dialogue: 0,0:18:38.64,0:18:41.94,Default,,0,0,0,,Your game today was just as incredible as that one!
 Dialogue: 0,0:18:43.39,0:18:46.17,Sai,,0,0,0,,Like I keep saying, you're wrong, that was me...
-Dialogue: 0,0:18:46.51,0:18:51.83,Default,,0,0,0,,Now I can believe it! That wondrous match\Nyou played then, was your true strength!
-Dialogue: 0,0:18:58.03,0:19:01.11,Default,,0,0,0,,I'll carve it into my mind too...
-Dialogue: 0,0:19:02.49,0:19:04.19,Default,,0,0,0,,the name Shindou Hikaru!
+Dialogue: 0,0:18:46.48,0:18:51.83,Default,,0,0,0,,Now I can believe it! That wondrous match\Nyou played then, was your true strength!
+Dialogue: 0,0:18:57.99,0:19:01.11,Default,,0,0,0,,I'll carve it into my mind too...
+Dialogue: 0,0:19:02.45,0:19:04.19,Background,,0,0,0,,the name Shindou Hikaru!
 Dialogue: 0,0:19:21.06,0:19:22.22,Default,,0,0,0,,Let's go home now.
 Dialogue: 0,0:19:22.49,0:19:24.75,Default,,0,0,0,,It was an incredible game you played today.
 Dialogue: 0,0:19:25.12,0:19:27.88,Default,,0,0,0,,The pro exam finals begin next week.
