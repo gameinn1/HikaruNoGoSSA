@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 12
-Video Position: 3255
+Scroll Position: 44
+Active Line: 56
+Video Position: 13075
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,7 +98,7 @@ Dialogue: 0,0:08:20.81,0:08:24.94,Default,,0,0,0,,this strength that tore throug
 Dialogue: 0,0:08:25.92,0:08:27.31,Default,,0,0,0,,different from his.
 Dialogue: 0,0:08:28.53,0:08:33.44,Default,,0,0,0,,Then why did that move look\Nlike one of Shindou's moves?
 Dialogue: 0,0:09:00.27,0:09:03.68,Default,,0,0,0,,I still have a chance but...
-Dialogue: 0,0:09:05.34,0:09:06.78,Background,,0,0,0,,I feel like I've already lost...
+Dialogue: 0,0:09:05.32,0:09:06.78,Background,,0,0,0,,I feel like I've already lost...
 Dialogue: 0,0:09:09.61,0:09:12.41,Background,,0,0,0,,Oh no! I didn't block white off soon enough!
 Dialogue: 0,0:09:13.76,0:09:17.37,Default,,0,0,0,,Now it'll be difficult to take control\Nof both the center and the left side.
 Dialogue: 0,0:09:29.51,0:09:32.70,Background,,0,0,0,,The black in the center... is dead...
