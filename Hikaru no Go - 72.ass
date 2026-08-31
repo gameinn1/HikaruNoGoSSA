@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 72 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Active Line: 4
-Video Position: 2986
+Scroll Position: 90
+Active Line: 108
+Video Position: 16694
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -156,7 +157,7 @@ Dialogue: 0,0:11:23.16,0:11:24.00,Default,,0,0,0,,Bye.
 Dialogue: 0,0:11:24.37,0:11:25.21,Default,,0,0,0,,Oh, good-bye.
 Dialogue: 0,0:11:26.69,0:11:30.80,Thinking,,0,0,0,,He won against not only Murakami-kun,\Nbut Tsujioka-kun as well...
 Dialogue: 0,0:11:33.00,0:11:35.34,Thinking,,0,0,0,,Is the new wave really coming?
-Dialogue: 0,0:11:36.26,0:11:39.35,Thinking,,0,0,0,,Is Shindou-Kun's strength the real thing?
+Dialogue: 0,0:11:36.26,0:11:39.35,Thinking,,0,0,0,,Is Shindou-kun's strength the real thing?
 Dialogue: 0,0:11:40.97,0:11:46.64,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.25\shad0\fs21\fscx101\fad(584,584)\pos(320,431)}Second match of the Second preliminaries for the Ouza Match
 Dialogue: 0,0:11:50.15,0:11:54.61,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.25\shad0\fs21\fscx101\fad(584,584)\pos(320,431)}Touya Akira 3-dan
 Dialogue: 0,0:12:00.82,0:12:06.12,NoteArial,,0,0,0,,{\1c&HFFFFFF&\bord1.25\shad0\fs21\fscx101\fad(501,626)\pos(320,431)}Matsunaga Toshiyuki 6-dan
