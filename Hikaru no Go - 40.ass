@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 40 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 180
-Active Line: 181
-Video Position: 32216
+Scroll Position: 61
+Active Line: 70
+Video Position: 15002
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,7 +112,7 @@ Dialogue: 0,0:09:43.18,0:09:45.16,Thinking,,0,0,0,,{\1c&HFEFECE&}I was worried t
 Dialogue: 0,0:09:46.23,0:09:50.44,Thinking,,0,0,0,,{\1c&HFEFECE&}Yesterday's match is leaving a\Nbitter trail in Hikaru's mind.
 Dialogue: 0,0:09:51.53,0:09:56.14,Thinking,,0,0,0,,{\1c&HFEFECE&}He has already lost this game, but he's still continuing...
 Dialogue: 0,0:10:11.17,0:10:12.96,Thinking,,0,0,0,,{\1c&HC5FEC1&}A loss by nine and a half moku...
-Dialogue: 0,0:10:25.69,0:10:28.72,Default,,0,0,0,,It's all because of yesterday\Nmatch against Isumi-san!
+Dialogue: 0,0:10:25.69,0:10:28.72,Default,,0,0,0,,It's all because of yesterday's\Nmatch against Isumi-san!
 Dialogue: 0,0:10:29.25,0:10:32.71,Default,,0,0,0,,I couldn't focus on the game today!
 Dialogue: 0,0:10:33.49,0:10:34.11,Sai,,0,0,0,,Hikaru!
 Dialogue: 0,0:10:34.21,0:10:35.03,Sai,,0,0,0,,Hikaru!
