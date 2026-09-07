@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 17 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 37
-Active Line: 48
-Video Position: 6633
+Scroll Position: 291
+Active Line: 296
+Video Position: 32298
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -336,7 +336,8 @@ Dialogue: 0,0:22:12.77,0:22:15.03,Default,,0,0,0,,Today, we continue our discuss
 Dialogue: 0,0:22:14.71,0:22:16.89,NoteArialEF,,0,0,0,,{\1c&HFFFFFF&\3c&HF90001&\bord3\pos(45,300)}Yuuki
 Dialogue: 0,0:22:14.71,0:22:16.89,NoteArialEF,,0,0,0,,{\fs30\1c&HFFFFFF&\3c&H08C60E&\bord3\pos(320,325)}Continuing with "Eyes"
 Dialogue: 0,0:22:14.71,0:22:16.89,NoteArialEF,,0,0,0,,{\1c&HFFFFFF&\3c&HFD20F3&\bord3\pos(605,300)}Mai
-Dialogue: 0,0:22:15.23,0:22:19.32,Default,,0,0,0,,One of these formations, there is one\Nthat can't get captured no matter what.
+Comment: 0,0:22:15.23,0:22:19.32,Default,,0,0,0,,One of these formations, there is one\Nthat can't get captured no matter what.
+Dialogue: 0,0:22:15.23,0:22:19.32,Default,,0,0,0,,Out of these formations, there is one\Nthat can't get captured no matter what.
 Dialogue: 0,0:22:17.38,0:22:19.93,NoteArialEF,,0,0,0,,{\fs30\1c&HFFFFFF&\3c&H06C60A&\bord3\pos(320,325)}Let's continue with "Eyes" today.
 Dialogue: 0,0:22:19.32,0:22:20.67,Default,,0,0,0,,Which one of it is it?
 Dialogue: 0,0:22:21.20,0:22:22.50,Default,,0,0,0,,This one.
