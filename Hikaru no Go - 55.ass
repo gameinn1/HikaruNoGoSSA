@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac) v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 171
-Active Line: 184
-Video Position: 11548
+Scroll Position: 285
+Active Line: 304
+Video Position: 14387
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -348,7 +348,7 @@ Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs5
 Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs56\blur2\fscy110\pos(84,277)}Rem.Time: 165 / 180
 Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&H2E260E&\an7\fnArial\fs44\blur2\fscy110\pos(86,412)}MATCH INFO
 Dialogue: 1,0:09:50.92,0:09:55.28,Default,,0,0,0,,Hmm? They have three hours!? On the net!?
-Dialogue: 0,0:10:00.04,0:10:03.04,Default,,0,0,0,,Could it be.... the Meijin!?
+Dialogue: 0,0:10:00.04,0:10:03.04,Default,,0,0,0,,Could it be... the Meijin!?
 Dialogue: 0,0:10:06.04,0:10:06.92,Default,,0,0,0,,Could it be...
 Dialogue: 0,0:10:10.98,0:10:11.88,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:10:12.60,0:10:14.09,Default,,0,0,0,,Is it the real Sai!?
