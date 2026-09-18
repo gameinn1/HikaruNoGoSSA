@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 06 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 141
-Active Line: 155
-Video Position: 17059
+Active Line: 4
+Video Position: 2570
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,13 +43,13 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.12,0:00:04.00,Memory,,0,0,0,,Fujiwarano Sai, a Go player from the Heian period
 Dialogue: 0,0:00:04.53,0:00:08.50,Memory,,0,0,0,,has passed through time and returned to\Nthe world in the mind of Shindou Hikaru,
 Dialogue: 0,0:00:09.38,0:00:11.70,Memory,,0,0,0,,in order to obtain the Hand of God.
-Dialogue: 0,0:01:42.44,0:01:44.01,Default,,0,0,0,,This makes one win and one loss.
-Dialogue: 0,0:01:45.28,0:01:46.74,Default,,0,0,0,,It's up to Tsutsui...
+Dialogue: 0,0:01:42.42,0:01:44.04,Default,,0,0,0,,This makes one win and one loss.
+Dialogue: 0,0:01:45.25,0:01:46.74,Default,,0,0,0,,It's up to Tsutsui...
 Dialogue: 0,0:01:56.76,0:02:01.72,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(265,115)}The Sixth Match
 Dialogue: 0,0:01:56.76,0:02:01.72,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Beautiful Match
-Dialogue: 0,0:02:02.21,0:02:05.72,Background,,0,0,0,,We're holding a Junior High\NGo Tournament here today.
-Dialogue: 0,0:02:06.35,0:02:08.36,Background,,0,0,0,,Could you possibly take a look at it later?
-Dialogue: 0,0:02:08.55,0:02:09.59,Background,,0,0,0,,O-Okay.
+Dialogue: 0,0:02:02.19,0:02:05.69,Background,,0,0,0,,We're holding a Junior High\NGo Tournament here today.
+Dialogue: 0,0:02:06.31,0:02:08.40,Background,,0,0,0,,Could you possibly take a look at it later?
+Dialogue: 0,0:02:08.52,0:02:09.59,Background,,0,0,0,,O-Okay.
 Dialogue: 0,0:02:10.42,0:02:11.28,Background,,0,0,0,,Well...
 Dialogue: 0,0:02:11.92,0:02:14.80,Default,,0,0,0,,I heard you were applying for our school...
 Dialogue: 0,0:02:15.56,0:02:17.77,Background,,0,0,0,,I have something to ask of you...
