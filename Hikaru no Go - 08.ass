@@ -17,9 +17,8 @@ Video File: [Moozzi2] Hikaru no Go - 08 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 126
-Active Line: 131
-Video Position: 19548
+Active Line: 6
+Video Position: 2723
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,8 +49,9 @@ Dialogue: 0,0:01:53.56,0:01:55.40,Thinking,,0,0,0,,I should be the one fearing y
 Dialogue: 0,0:01:56.38,0:02:00.79,Thinking,,0,0,0,,Shindou Hikaru... if that's what\Nyou intend to do... I will...
 Dialogue: 0,0:02:02.14,0:02:07.11,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(267,115)}The Eighth Match
 Dialogue: 0,0:02:02.14,0:02:07.11,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Scheme in the Rain
-Dialogue: 0,0:02:11.74,0:02:16.37,NoteArialEF,,0,0,20,,{\an2}Igo made Fun\NKey to Solving Tsumego 3\NKey to Solving Tsumego 2\NKey to Solving Tsumego 1\NEntrance into Knowledge of Go\NCollection of Tsumego Chosen by Touya Meijin\NA Hundred Selected Tsumego\NLearning Joseki: A Hundred Tesuji\NStarting Go\NTesuji from Real Matches\NNew Opening Methods\NImmediately Useful Joseki\NIgo Cultural Magazine\NThe World of Igo\NIgo Encyclopedia Second Volume\NSilver Matches of Go
-Dialogue: 0,0:02:15.51,0:02:17.40,Default,,0,0,0,,Oh there it is. Is this it?
+Comment: 0,0:02:11.74,0:02:15.45,NoteArialEF,,0,0,0,,{\an2\fs13}Igo made Fun\N\NKey to Solving Tsumego 3\N\NKey to Solving Tsumego 2\N\NKey to Solving Tsumego 1\N\NEntrance into Knowledge of Go\N\NCollection of Tsumego Chosen by Touya Meijin\N\NA Hundred Selected Tsumego\N\NLearning Joseki: A Hundred Tesuji\N\NStarting Go\N\NTesuji from Real Matches\N\NNew Opening Methods\N\NImmediately Useful Joseki\N\NIgo Cultural Magazine\N\NThe World of Igo\N\NIgo Encyclopedia Second Volume\N\NSilver Matches of Go
+Dialogue: 0,0:02:11.74,0:02:15.45,NoteArialEF,,0,0,0,,{\an2}Igo made Fun\NKey to Solving Tsumego 3\NKey to Solving Tsumego 2\NKey to Solving Tsumego 1\NEntrance into Knowledge of Go\NCollection of Tsumego Chosen by Touya Meijin\NA Hundred Selected Tsumego\NLearning Joseki: A Hundred Tesuji\NStarting Go\NTesuji from Real Matches\NNew Opening Methods\NImmediately Useful Joseki\NIgo Cultural Magazine\NThe World of Igo\NIgo Encyclopedia Second Volume\NSilver Matches of Go
+Dialogue: 0,0:02:15.45,0:02:17.40,Default,,0,0,0,,Oh there it is. Is this it?
 Dialogue: 0,0:02:17.70,0:02:19.33,Sai,,0,0,0,,Yes Hikaru, that's it.
 Dialogue: 0,0:02:19.97,0:02:20.80,Background,,0,0,0,,Welcome.
 Dialogue: 0,0:02:21.56,0:02:23.46,Background,,0,0,0,,This... and this.
