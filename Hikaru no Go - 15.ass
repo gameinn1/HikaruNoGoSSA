@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 15 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 242
-Active Line: 254
-Video Position: 23946
+Scroll Position: 282
+Active Line: 293
+Video Position: 29051
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -334,7 +334,7 @@ Dialogue: 0,0:19:57.12,0:19:58.22,Default,,0,0,0,,Did you lose?
 Dialogue: 0,0:20:00.06,0:20:01.19,Default,,0,0,0,,I was slaughtered!
 Dialogue: 0,0:20:01.73,0:20:05.23,Default,,0,0,0,,I thought I'd get a heart\Nattack from how badly I lost.
 Dialogue: 0,0:20:07.52,0:20:10.29,Default,,0,0,0,,Huh? His name's off the list now.
-Dialogue: 0,0:20:11.68,0:20:13.59,Default,,0,0,0,,I'd never heard of him before....
+Dialogue: 0,0:20:11.65,0:20:13.59,Default,,0,0,0,,I'd never heard of him before...
 Dialogue: 0,0:20:14.42,0:20:16.99,Default,,0,0,0,,I doubt any of my contacts over the\Nnet will know who he is either...
 Dialogue: 0,0:20:17.42,0:20:19.72,Background,,0,0,0,,Sai... I wonder who he is...
 Dialogue: 0,0:20:21.95,0:20:23.79,Default,,0,0,0,,Wasn't that fun!?
