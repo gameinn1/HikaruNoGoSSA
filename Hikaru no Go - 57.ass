@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 57 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 23
-Active Line: 31
-Video Position: 5734
+Scroll Position: 424
+Active Line: 442
+Video Position: 29580
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -486,7 +486,7 @@ Dialogue: 0,0:20:17.02,0:20:18.16,Background,,0,0,0,,{\1a&H96&\3a&H96&\4a&HCA&\t
 Dialogue: 0,0:20:20.07,0:20:26.41,Sai,,0,0,0,,Everyone is starting to notice\Nthe strength Hikaru has...
 Dialogue: 0,0:20:27.88,0:20:28.92,Sai,,0,0,0,,I can see it...
 Dialogue: 0,0:20:30.46,0:20:32.21,Sai,,0,0,0,,The brilliant future that is...
-Dialogue: 0,0:20:33.71,0:20:36.63,Sai,,0,0,0,,shinning about Hikaru... the future that I lack.
+Dialogue: 0,0:20:33.71,0:20:36.63,Sai,,0,0,0,,shining about Hikaru... the future that I lack.
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,54)\4c&HF5AC43&\4a&HFF&\shad1.1\t(0,112,1,\1a&H00&\4a&H50&)}U
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,69)\4c&HF6B853&\4a&HFF&\shad1.1\t(25,137,1,\1a&H00&\4a&H50&)}m
 Dialogue: 0,0:22:09.34,0:22:12.32,umezawa61,,0,0,0,,{\blur0.8\an5\1a&HFF&\pos(415,84)\4c&HF8C362&\4a&HFF&\shad1.1\t(50,162,1,\1a&H00&\4a&H50&)}e
