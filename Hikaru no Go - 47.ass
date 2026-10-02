@@ -16,10 +16,10 @@ Audio File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 47 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 407
-Active Line: 427
-Video Position: 33074
+Video Zoom Percent: 0.625000
+Scroll Position: 371
+Active Line: 375
+Video Position: 28090
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -419,7 +419,7 @@ Dialogue: 0,0:19:04.21,0:19:07.75,Default,,0,0,0,,I know that you can't look at 
 Dialogue: 0,0:19:08.73,0:19:10.63,Sai,,0,0,0,,Go ahead, put them away.
 Dialogue: 0,0:19:11.93,0:19:13.89,Sai,,0,0,0,,I have already memorized,
 Dialogue: 0,0:19:14.43,0:19:16.13,Sai,,0,0,0,,all of his games that are there.
-Dialogue: 0,0:19:24.92,0:19:26.52,Default,,0,0,0,,Oh yeah, Mom's out shopping.
+Dialogue: 0,0:19:23.77,0:19:26.44,Default,,0,0,0,,Oh yeah, Mom's out shopping.
 Dialogue: 0,0:19:31.58,0:19:32.85,Default,,0,0,0,,Hello, this is Shindou.
 Dialogue: 0,0:19:35.07,0:19:37.82,Default,,0,0,0,,Yeah... I mean, yes, it's me.
 Dialogue: 0,0:19:39.61,0:19:42.90,Default,,0,0,0,,The new first dan series? Yes, I know what that is.
