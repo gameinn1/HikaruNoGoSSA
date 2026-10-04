@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 22 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 12
-Active Line: 40
-Video Position: 7592
+Scroll Position: 18
+Active Line: 45
+Video Position: 8605
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,12 +83,12 @@ Dialogue: 0,0:05:10.44,0:05:11.79,Default,,0,0,0,,I-I'm sorry!
 Dialogue: 0,0:05:12.00,0:05:16.04,Default,,0,0,0,,M-My legs are asleep... I can't hang on...
 Dialogue: 0,0:05:16.63,0:05:23.23,Default,,0,0,0,,Just say "excuse me" and\Nbreak your form in that case~
 Dialogue: 0,0:05:24.43,0:05:26.91,Default,,0,0,0,,Couldn't you have said that earlier as well!?
-Dialogue: 0,0:05:38.77,0:05:40.38,Default,,0,0,0,,Oh, you look like you lost.
-Dialogue: 0,0:05:41.35,0:05:43.98,Default,,0,0,0,,This is my third straight loss to Fuku.
+Dialogue: 0,0:05:37.36,0:05:40.15,Default,,0,0,0,,Oh, you look like you lost.
+Dialogue: 0,0:05:41.32,0:05:43.98,Default,,0,0,0,,This is my third straight loss to Fuku.
 Dialogue: 0,0:05:46.33,0:05:48.22,Default,,0,0,0,,I'm strong against Waya-kun.
 Dialogue: 0,0:05:48.63,0:05:51.72,Default,,0,0,0,,I'm terrible against Fuku.
-Dialogue: 0,0:05:52.24,0:05:54.40,Default,,0,0,0,,It's not good to think so negatively.
-Dialogue: 0,0:05:54.69,0:05:57.68,Default,,0,0,0,,You're terrible against Touya-kun too, Waya-kun!
+Dialogue: 0,0:05:52.21,0:05:54.33,Default,,0,0,0,,It's not good to think so negatively.
+Dialogue: 0,0:05:54.67,0:05:57.68,Default,,0,0,0,,You're terrible against Touya-kun too, Waya-kun!
 Dialogue: 0,0:05:58.22,0:06:01.08,Default,,0,0,0,,No one's good against Touya.
 Dialogue: 0,0:06:08.38,0:06:11.34,Default,,0,0,0,,Hmm... let's stop here.
 Dialogue: 0,0:06:11.86,0:06:13.39,Default,,0,0,0,,O-Okay.
