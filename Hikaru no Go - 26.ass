@@ -16,10 +16,9 @@ Audio File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Hikaru no Go - 26 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.375000
-Scroll Position: 348
-Active Line: 370
-Video Position: 32559
+Video Zoom Percent: 0.625000
+Active Line: 10
+Video Position: 2918
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,7 +49,8 @@ Dialogue: 0,0:01:46.29,0:01:49.55,Default,,0,0,0,,Otherwise, I can't say "To\Nde
 Dialogue: 0,0:01:50.22,0:01:53.06,Default,,0,0,0,,I have to go to the Wakajishisen and show him!
 Dialogue: 0,0:01:53.58,0:01:56.09,Default,,0,0,0,,That I'm right behind him!
 Dialogue: 0,0:01:56.18,0:02:01.10,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(345,115)}The Twenty-Sixth Match
-Dialogue: 0,0:01:56.18,0:02:01.10,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Welcome to the A-League
+Comment: 0,0:01:56.18,0:02:01.10,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Welcome to the A-League
+Dialogue: 0,0:01:56.18,0:02:01.10,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}Welcome to the First Class
 Dialogue: 0,0:02:20.19,0:02:20.83,Background,,0,0,0,,Waya!
 Dialogue: 0,0:02:22.95,0:02:25.03,Default,,0,0,0,,Shindou... what is it?
 Dialogue: 0,0:02:25.47,0:02:27.82,Default,,0,0,0,,Hehe, look!
