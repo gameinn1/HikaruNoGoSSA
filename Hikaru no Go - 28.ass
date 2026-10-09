@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 28 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 31
-Active Line: 32
-Video Position: 31421
+Scroll Position: 12
+Active Line: 22
+Video Position: 4395
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +64,7 @@ Dialogue: 0,0:02:36.46,0:02:39.55,Default,,0,0,0,,And? When is the Wakajishisen?
 Dialogue: 0,0:02:39.75,0:02:43.30,Default,,0,0,0,,Is Touya Akira the only thing in your head?
 Dialogue: 0,0:02:43.64,0:02:47.56,Default,,0,0,0,,Next month and the month after. It's on the\NSaturdays when we don't have Insei matches.
 Dialogue: 0,0:02:47.85,0:02:53.34,Default,,0,0,0,,It takes more than a day. It's a tournament\Nbetween 16 Insei and 16 new pros.
-Dialogue: 0,0:02:53.68,0:02:57.95,Default,,0,0,0,,The first match is all between Insei\Nand pro. It's an even game of course.
+Dialogue: 0,0:02:53.65,0:02:57.95,Default,,0,0,0,,The first match is all between Insei\Nand pro. It's an even game of course.
 Dialogue: 0,0:02:58.17,0:03:00.35,Default,,0,0,0,,But you won against pros! Wow!
 Dialogue: 0,0:03:00.35,0:03:01.58,Default,,0,0,0,,What are you talking about?
 Dialogue: 0,0:03:02.50,0:03:05.76,Default,,0,0,0,,You won't pass the pro exams\Nunless you can win against pros.
@@ -72,8 +72,8 @@ Dialogue: 0,0:03:06.21,0:03:08.18,Default,,0,0,0,,Wakajishisen is a good testing
 Dialogue: 0,0:03:08.33,0:03:13.31,Title_eps_top,,0,0,0,,{\fad(316,0)\fscx197\t(0,330,1,\fscx100)\blur0.8\pos(350,115)}The Twenty-Eighth Match
 Dialogue: 0,0:03:08.33,0:03:13.31,Title_eps,,0,0,0,,{\fad(274,0)\q2\blur0.8\fscy70\fscx333\t(0,330,1,\fscx100)\pos(325,365)}The Wakajishisen
 Dialogue: 0,0:03:24.35,0:03:28.73,Note,,0,0,10,,{\fs30\bord1\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\shad1}The Ninth Annual Wakajishisen
-Dialogue: 0,0:03:26.65,0:03:28.73,Background,,0,0,0,,What other Insei isn't here yet?
-Dialogue: 0,0:03:29.09,0:03:31.93,Default,,0,0,0,,Let's see...  Nozaki and Shindou and...
+Dialogue: 0,0:03:26.60,0:03:28.73,Background,,0,0,0,,What other Insei isn't here yet?
+Dialogue: 0,0:03:29.06,0:03:31.93,Default,,0,0,0,,Let's see... Nozaki and Shindou and...
 Dialogue: 0,0:03:31.93,0:03:33.40,Default,,0,0,0,,Oh! Shindou's here!
 Dialogue: 0,0:03:33.67,0:03:34.75,Default,,0,0,0,,You're late!
 Dialogue: 0,0:03:34.96,0:03:39.20,Default,,0,0,0,,Waya! We're finally here! I'm so excited.
