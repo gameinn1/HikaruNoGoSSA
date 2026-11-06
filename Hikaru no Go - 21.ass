@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
 Scroll Position: 47
-Active Line: 64
-Video Position: 7749
+Active Line: 56
+Video Position: 7062
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,7 +97,7 @@ Dialogue: 0,0:04:35.50,0:04:40.04,Default,,0,0,0,,Kaga, Shindou-kun says he\Nwan
 Dialogue: 0,0:04:43.91,0:04:47.56,Default,,0,0,0,,Oh? Insei! Do it! Do it! Just do it!
 Dialogue: 0,0:04:48.24,0:04:51.19,Default,,0,0,0,,Huh? What's with the sad face?
 Dialogue: 0,0:04:51.90,0:04:53.35,Default,,0,0,0,,Well... I...
-Dialogue: 0,0:04:54.55,0:04:57.75,Default,,0,0,0,,forgot that I can't go to th\N tournaments if I become an Insei.
+Dialogue: 0,0:04:54.52,0:04:57.75,Default,,0,0,0,,forgot that I can't go to the\N tournaments if I become an Insei.
 Dialogue: 0,0:04:58.03,0:05:00.78,Default,,0,0,0,,Tournaments? Those don't matter.
 Dialogue: 0,0:05:00.95,0:05:03.71,Default,,0,0,0,,Those don't matter!? Who are you to say that!
 Dialogue: 0,0:05:03.90,0:05:05.61,Default,,0,0,0,,Shut up already!

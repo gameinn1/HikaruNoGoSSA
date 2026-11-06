@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 32 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 70
-Active Line: 80
-Video Position: 12426
+Scroll Position: 177
+Active Line: 198
+Video Position: 25000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -241,7 +241,7 @@ Dialogue: 0,0:17:11.60,0:17:12.55,Default,,0,0,0,,Hirabayashi.
 Dialogue: 0,0:17:13.48,0:17:15.75,Default,,0,0,0,,Let's see, Hirabayashi and Fuku-kun.
 Dialogue: 0,0:17:16.80,0:17:17.57,Default,,0,0,0,,I'm A.
 Dialogue: 0,0:17:20.97,0:17:21.70,Default,,0,0,0,,I'm A.
-Dialogue: 0,0:17:22.72,0:17:24.34,Default,,0,0,0,,Nase-kun and Matsui-kun.
+Dialogue: 0,0:17:22.69,0:17:24.34,Default,,0,0,0,,Nase-kun and Matsuura-kun.
 Dialogue: 0,0:17:25.52,0:17:27.61,Default,,0,0,0,,Shindou-kun you don't have an opponent\Nand you win by default.
 Dialogue: 0,0:17:28.38,0:17:30.07,Default,,0,0,0,,Win by... default...
 Dialogue: 0,0:17:30.20,0:17:32.16,Note,,0,0,0,,{\fs42.5\bord1\1c&H587893&\3c&HFFFFFF&\4c&HFFFFFF&\shad1\pos(368,42)}Japanese Go Institute

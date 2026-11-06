@@ -17,8 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 23 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Active Line: 22
-Video Position: 3493
+Scroll Position: 298
+Active Line: 312
+Video Position: 28908
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -352,7 +353,7 @@ Dialogue: 0,0:19:48.52,0:19:55.69,Default,,0,0,0,,He's really calm. Every new pr
 Dialogue: 0,0:19:56.16,0:19:58.41,Default,,0,0,0,,but he's neither.
 Dialogue: 0,0:19:59.02,0:20:01.66,Default,,0,0,0,,Oh yes, Mashiba-kun, you were frozen stiff.
 Dialogue: 0,0:20:02.05,0:20:04.21,Default,,0,0,0,,Kuwabara-sensei was really scary.
-Dialogue: 0,0:20:05.69,0:20:09.90,Background,,0,0,0,,Kuwabara-sensei slammed the stone onto\Nthe board really load on his first move.
+Dialogue: 0,0:20:05.69,0:20:09.90,Background,,0,0,0,,Kuwabara-sensei slammed the stone onto\Nthe board really loud on his first move.
 Dialogue: 0,0:20:10.31,0:20:14.44,Default,,0,0,0,,Hehe, you can't be getting swallowed\Nup by such obvious scare tactics.
 Dialogue: 0,0:20:14.86,0:20:17.32,Default,,0,0,0,,Kuwabara-sensei's just the type of person to do it.
 Dialogue: 0,0:20:17.94,0:20:20.78,Default,,0,0,0,,Well, let's see what happens with today's match.

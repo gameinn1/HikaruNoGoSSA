@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 44
-Active Line: 56
-Video Position: 13075
+Scroll Position: 107
+Active Line: 135
+Video Position: 19331
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -177,7 +177,7 @@ Dialogue: 0,0:13:13.33,0:13:14.65,Background,,0,0,0,,Akira-sensei!
 Dialogue: 0,0:13:16.01,0:13:17.01,Default,,0,0,0,,Hirose-san!
 Dialogue: 0,0:13:17.46,0:13:18.31,Default,,0,0,0,,Hello.
 Dialogue: 0,0:13:18.81,0:13:21.27,Default,,0,0,0,,How was it? Your first match?
-Dialogue: 0,0:13:24.12,0:13:28.16,Default,,0,0,0,,Oh, how rude of me to ask\NAkira-san whether he won or not.
+Dialogue: 0,0:13:24.12,0:13:28.16,Default,,0,0,0,,Oh, how rude of me to ask\NAkira-sensei whether he won or not.
 Dialogue: 0,0:13:28.68,0:13:32.95,Default,,0,0,0,,Hirose-san, you don't need to\Nworry about the pro exams.
 Dialogue: 0,0:13:33.27,0:13:34.29,Default,,0,0,0,,Pay up already!
 Dialogue: 0,0:13:34.67,0:13:37.11,Default,,0,0,0,,Okay, okay... money...
