@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 71 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 505
-Active Line: 530
-Video Position: 31454
+Scroll Position: 268
+Active Line: 283
+Video Position: 29301
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -322,8 +322,8 @@ Dialogue: 0,0:19:45.54,0:19:46.50,Thinking,,0,0,0,,Could it be...
 Dialogue: 0,0:19:46.92,0:19:50.25,Thinking,,0,0,0,,Maybe he thinks a match against a lower-dan\Nplayer isn't worth watching...
 Dialogue: 0,0:19:54.63,0:19:59.43,Thinking,,0,0,0,,Only I can measure Shindou's strength now.
 Dialogue: 0,0:20:01.68,0:20:05.89,Thinking,,0,0,0,,I knew it the moment he appeared\Nin front of me that night.
-Dialogue: 0,0:20:10.52,0:20:15.11,Thinking,,0,0,0,,Oh yes, I received the pairings for the first round\Nof the first preliminaries of the Meijin match.
-Dialogue: 0,0:20:15.82,0:20:18.66,Thinking,,0,0,0,,Touya-kun's opponent for the first round was...
+Dialogue: 0,0:20:10.48,0:20:15.07,Thinking,,0,0,0,,Oh yes, I received the pairings for the first round\Nof the first preliminaries of the Meijin match.
+Dialogue: 0,0:20:15.78,0:20:18.61,Thinking,,0,0,0,,Touya-kun's opponent for the first round was...
 Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs24\blur0.8\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(639,327,693,390,103,2980)}Honda Tadao 2-dan{\i0}
 Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs24.5\blur0.8\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(557,297,611,360,103,2980)}Fujiki Mina First dan{\i0}
 Dialogue: 0,0:20:18.74,0:20:21.74,NoteArial,,0,0,0,,{\fs25.5\blur0.8\1c&H09090B&\fad(834,0)\bord0\shad0\frz270\fscy70\i1\move(464,268,518,331,103,2980)}Nishizaki Shou 3-dan{\i0}
